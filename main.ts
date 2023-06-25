@@ -9,7 +9,9 @@ function indexRepo(repo: string) {
 
   // Given a repository name with author ex: vinta/awesome-python
   const awesome = new Awesome(options);
-  awesome.makeIndexJson((error: Error, json: string) => console.log(error || json));
+  awesome.makeIndexJson((error: Error, json: string) =>
+    console.log(error || json)
+  );
 }
 
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
