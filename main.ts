@@ -1,20 +1,20 @@
-import Awesome from "npm:awesomelists-index";
+import * as Github from './github.ts'
+import extractLinks from './extract-links.ts';
 
-function indexRepo(repo: string) {
-  const options = {
-    repo: repo,
-    // token is optional parameter
-    token: Deno.env.get("TOKEN") || "GITHUB_TOKEN",
-  };
-
+async function indexRepo(repo: string) {
   // Given a repository name with author ex: vinta/awesome-python
-  const awesome = new Awesome(options);
-  awesome.makeIndexJson((error: Error, json: string) =>
-    console.log(error || json)
-  );
+  const response = await Github.fetchReadMeWithCache(repo);
+  const links = extractLinks(response)
+  return links  
 }
 
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
 if (import.meta.main) {
-  indexRepo("ripienaar/free-for-dev");
+  const repo = "ripienaar/free-for-dev";
+  const links = await indexRepo(repo);
+  console.log(`Extracted ${links.length} links`)
+  const text = JSON.stringify(links, null, 2)
+  const name = Github.nameOfRepo(repo)
+  Deno.mkdirSync('data', {recursive: true})
+  Deno.writeTextFileSync(`data/${name}.json`, text)
 }
