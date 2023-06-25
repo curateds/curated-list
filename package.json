@@ -1,0 +1,14 @@
+{
+  "name": "curated-list",
+  "version": "1.0.0",
+  "description": "Crawl awesome lists on Github, and save it as json files.",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^3.1.0"
+  },
+  "scripts": {
+    "test": "deno test"
+  },
+  "author": "",
+  "license": "ISC"
+}
