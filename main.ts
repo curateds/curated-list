@@ -1,8 +1,18 @@
-export function add(a: number, b: number): number {
-  return a + b;
+import Awesome from "npm:awesomelists-index";
+
+function indexRepo(repo: string) {
+  const options = {
+    repo: repo,
+    // token is optional parameter
+    token: Deno.env.get("TOKEN") || "GITHUB_TOKEN",
+  };
+
+  // Given a repository name with author ex: vinta/awesome-python
+  const awesome = new Awesome(options);
+  awesome.makeIndexJson((error: Error, json: string) => console.log(error || json));
 }
 
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
 if (import.meta.main) {
-  console.log("Add 2 + 3 =", add(2, 3));
+  indexRepo("ripienaar/free-for-dev");
 }
