@@ -1,4 +1,4 @@
-import {dotenv} from './deps.ts'
+import { dotenv } from "./deps.ts";
 
 const apiPrefix = `https://api.github.com`;
 
