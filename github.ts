@@ -1,7 +1,11 @@
+import {dotenv} from './deps.ts'
+
 const apiPrefix = `https://api.github.com`;
 
 export async function fetchReadMe(repo: string): Promise<string> {
-  const githubToken = Deno.env.get("GITHUB_TOKEN");
+  const env = await dotenv.load();
+
+  const githubToken = env["GITHUB_TOKEN"];
   if (!githubToken) {
     throw new Error("GITHUB_TOKEN is not set");
   }

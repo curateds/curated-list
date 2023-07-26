@@ -1,7 +1,7 @@
 import * as Github from "./github.ts";
 import extractLinks from "./extract-links.ts";
 
-async function indexRepo(repo: string) {
+export async function indexRepo(repo: string) {
   // Given a repository name with author ex: vinta/awesome-python
   const response = await Github.fetchReadMeWithCache(repo);
   const links = extractLinks(response);
