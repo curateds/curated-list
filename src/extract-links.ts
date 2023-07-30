@@ -1,5 +1,4 @@
-import * as cheerio from "https://esm.sh/cheerio@1.0.0-rc.12"
-// "https://esm.sh/cheerio@0.22.0";
+import { cheerio } from "../deps.ts";
 
 export type Link = { name: string; url: string; description: string }
 

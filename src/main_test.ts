@@ -1,7 +1,7 @@
 import {
   assert,
   assertEquals,
-} from "https://deno.land/std@0.192.0/testing/asserts.ts"
+} from "std/testing/asserts.ts"
 import { indexRepo } from "./main.ts"
 
 Deno.test(function addTest() {

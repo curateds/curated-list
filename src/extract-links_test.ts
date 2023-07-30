@@ -1,4 +1,4 @@
-import { assert } from "https://deno.land/std@0.192.0/testing/asserts.ts"
+import { assert } from "std/testing/asserts.ts"
 import extractLinks from "./extract-links.ts"
 
 Deno.test(async function testExtractLinks() {
