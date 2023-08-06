@@ -1,0 +1,1268 @@
+sources:
+  mjhea0/awesome-flask:
+    category: Back-End Development
+  veggiemonk/awesome-docker:
+    category: Back-End Development
+  iJackUA/awesome-vagrant:
+    category: Back-End Development
+  uralbash/awesome-pyramid:
+    category: Back-End Development
+  PerfectCarl/awesome-play1:
+    category: Back-End Development
+  FriendsOfCake/awesome-cakephp:
+    category: Back-End Development
+  sitepoint-editors/awesome-symfony:
+    category: Back-End Development
+  pehapkari/awesome-symfony-education:
+    category: Back-End Development
+  chiraggude/awesome-laravel:
+    category: Back-End Development
+  fukuball/Awesome-Laravel-Education:
+    category: Back-End Development
+  livewire/awesome-tall-stack:
+    category: Back-End Development
+  gramantin/awesome-rails:
+    category: Back-End Development
+  hothero/awesome-rails-gem:
+    category: Back-End Development
+  phalcon/awesome-phalcon:
+    category: Back-End Development
+  phanan/htaccess:
+    category: Back-End Development
+  fcambus/nginx-resources:
+    category: Back-End Development
+  stve/awesome-dropwizard:
+    category: Back-End Development
+  unicodeveloper/awesome-lumen:
+    category: Back-End Development
+  pmuens/awesome-serverless:
+    category: Back-End Development
+  PhantomYdn/awesome-wicket:
+    category: Back-End Development
+  vert-x3/vertx-awesome:
+    category: Back-End Development
+  shuaibiyy/awesome-terraform:
+    category: Back-End Development
+  vapor-community/awesome-vapor:
+    category: Back-End Development
+  ucg8j/awesome-dash:
+    category: Back-End Development
+  mjhea0/awesome-fastapi:
+    category: Back-End Development
+  kalaiser/awesome-cdk:
+    category: Back-End Development
+  kdeldycke/awesome-iam:
+    category: Back-End Development
+  nekofar/awesome-slim:
+    category: Back-End Development
+  gofiber/awesome-fiber:
+    category: Back-End Development
+  newTendermint/awesome-bigdata:
+    category: Big Data
+  youngwookim/awesome-hadoop:
+    category: Big Data
+  igorbarinov/awesome-data-engineering:
+    category: Big Data
+  manuzhang/awesome-streaming:
+    category: Big Data
+  awesome-spark/awesome-spark:
+    category: Big Data
+  ambster-public/awesome-qlik:
+    category: Big Data
+  sduff/awesome-splunk:
+    category: Big Data
+  bystritskiy/awesome-ios-books:
+    category: Books
+  EbookFoundation/free-programming-books:
+    category: Books
+  dariubs/GoBooks:
+    category: Books
+  RomanTsegelskyi/rbooks:
+    category: Books
+  TalAter/awesome-book-authoring:
+    category: Books
+  sger/ElixirBooks:
+    category: Books
+  opencompany/awesome-open-company:
+    category: Business
+  mmccaff/PlacesToPostYourStartup:
+    category: Business
+  domenicosolazzo/awesome-okr:
+    category: Business
+  LappleApple/awesome-leading-and-managing:
+    category: Business
+  mezod/awesome-indie:
+    category: Business
+  nglgzz/awesome-clean-tech:
+    category: Business
+  wardley-maps-community/awesome-wardley-maps:
+    category: Business
+  RayBB/awesome-social-enterprise:
+    category: Business
+  kdeldycke/awesome-engineering-team-management:
+    category: Business
+  agamm/awesome-developer-first:
+    category: Business
+  kdeldycke/awesome-billing:
+    category: Business
+  prakhar1989/awesome-courses:
+    category: Computer Science
+  DovAmir/awesome-design-patterns:
+    category: Computer Science
+  academic/awesome-datascience:
+    category: Computer Science
+  siboehm/awesome-learn-datascience:
+    category: Computer Science
+  josephmisiti/awesome-machine-learning:
+    category: Computer Science
+  ujjwalkarn/Machine-Learning-Tutorials:
+    category: Computer Science
+  arbox/machine-learning-with-ruby:
+    category: Computer Science
+  likedan/Awesome-CoreML-Models:
+    category: Computer Science
+  h2oai/awesome-h2o:
+    category: Computer Science
+  SE-ML/awesome-seml:
+    category: Computer Science
+  georgezouq/awesome-ai-in-finance:
+    category: Computer Science
+  n2cholas/awesome-jax:
+    category: Computer Science
+  altamiracorp/awesome-xai:
+    category: Computer Science
+  dav009/awesome-spanish-nlp:
+    category: Computer Science
+  arbox/nlp-with-ruby:
+    category: Computer Science
+  seriousran/awesome-qa:
+    category: Computer Science
+  accelerated-text/awesome-nlg:
+    category: Computer Science
+  theimpossibleastronaut/awesome-linguistics:
+    category: Computer Science
+  sobolevn/awesome-cryptography:
+    category: Computer Science
+  pFarb/awesome-crypto-papers:
+    category: Computer Science
+  jbhuang0604/awesome-computer-vision:
+    category: Computer Science
+  ChristosChristofidis/awesome-deep-learning:
+    category: Computer Science
+  jtoy/awesome-tensorflow:
+    category: Computer Science
+  aaronhma/awesome-tensorflow-js:
+    category: Computer Science
+  margaretmz/awesome-tensorflow-lite:
+    category: Computer Science
+  terryum/awesome-deep-learning-papers:
+    category: Computer Science
+  guillaume-chevalier/Awesome-Deep-Learning-Resources:
+    category: Computer Science
+  kjw0612/awesome-deep-vision:
+    category: Computer Science
+  ossu/computer-science:
+    category: Computer Science
+  lucasviola/awesome-functional-programming:
+    category: Computer Science
+  dspinellis/awesome-msr:
+    category: Computer Science
+  analysis-tools-dev/static-analysis:
+    category: Computer Science
+  harpribot/awesome-information-retrieval:
+    category: Computer Science
+  desireevl/awesome-quantum-computing:
+    category: Computer Science
+  mostafatouny/awesome-theoretical-computer-science:
+    category: Computer Science
+  jyguyomarch/awesome-conversational-ai:
+    category: Computer Science
+  umbraco-community/awesome-umbraco:
+    category: Content Management Systems
+  refinerycms-contrib/awesome-refinerycms:
+    category: Content Management Systems
+  springload/awesome-wagtail:
+    category: Content Management Systems
+  nirgn975/awesome-drupal:
+    category: Content Management Systems
+  craftcms/awesome:
+    category: Content Management Systems
+  MartinMiles/awesome-sitecore:
+    category: Content Management Systems
+  wernerkrauss/awesome-silverstripe-cms:
+    category: Content Management Systems
+  directus-community/awesome-directus:
+    category: Content Management Systems
+  collective/awesome-plone:
+    category: Content Management Systems
+  numetriclabz/awesome-db:
+    category: Databases
+  shlomi-noach/awesome-mysql:
+    category: Databases
+  mark-rushakoff/awesome-influxdb:
+    category: Databases
+  neueda/awesome-neo4j:
+    category: Databases
+  ramnes/awesome-mongodb:
+    category: Databases
+  d3viant0ne/awesome-rethinkdb:
+    category: Databases
+  mohataher/awesome-tinkerpop:
+    category: Databases
+  dhamaniasad/awesome-postgres:
+    category: Databases
+  quangv/awesome-couchdb:
+    category: Databases
+  rayokota/awesome-hbase:
+    category: Databases
+  erictleung/awesome-nosql-guides:
+    category: Databases
+  mgramin/awesome-db-tools:
+    category: Databases
+  vaticle/typedb-awesome:
+    category: Databases
+  Anant/awesome-cassandra:
+    category: Databases
+  taosdata/awesome-tdengine:
+    category: Databases
+  igorbarinov/awesome-bitcoin:
+    category: Decentralized Systems
+  vhpoet/awesome-ripple:
+    category: Decentralized Systems
+  quilloughbee/awesome-pleb-projects:
+    category: Decentralized Systems
+  machinomy/awesome-non-financial-blockchain:
+    category: Decentralized Systems
+  tleb/awesome-mastodon:
+    category: Decentralized Systems
+  ttumiel/Awesome-Ethereum:
+    category: Decentralized Systems
+  steven2358/awesome-blockchain-ai:
+    category: Decentralized Systems
+  DanailMinchev/awesome-eosio:
+    category: Decentralized Systems
+  chainstack/awesome-corda:
+    category: Decentralized Systems
+  msmolyakov/awesome-waves:
+    category: Decentralized Systems
+  substrate-developer-hub/awesome-substrate:
+    category: Decentralized Systems
+  golemfactory/awesome-golem:
+    category: Decentralized Systems
+  friedger/awesome-stacks-chain:
+    category: Decentralized Systems
+  aorumbayev/awesome-algorand:
+    category: Decentralized Systems
+  croqaz/awesome-decentralized:
+    category: Decentralized Systems
+  redecentralize/alternative-internet:
+    category: Decentralized Systems
+  sindresorhus/quick-look-plugins:
+    category: Development Environment
+  sirredbeard/Awesome-WSL:
+    category: Development Environment
+  ligurio/awesome-ci:
+    category: Development Environment
+  moimikey/awesome-devtools:
+    category: Development Environment
+  jondot/awesome-devenv:
+    category: Development Environment
+  webpro/awesome-dotfiles:
+    category: Development Environment
+  alebcay/awesome-shell:
+    category: Development Environment
+  jorgebucaran/awsm.fish:
+    category: Development Environment
+  agarrharr/awesome-cli-apps:
+    category: Development Environment
+  awesome-lists/awesome-bash:
+    category: Development Environment
+  unixorn/awesome-zsh-plugins:
+    category: Development Environment
+  phillipadsmith/awesome-github:
+    category: Development Environment
+  stefanbuck/awesome-browser-extensions-for-github:
+    category: Development Environment
+  tiimgreen/github-cheat-sheet:
+    category: Development Environment
+  matchai/awesome-pinned-gists:
+    category: Development Environment
+  arslanbilal/git-cheat-sheet:
+    category: Development Environment
+  git-tips/tips:
+    category: Development Environment
+  CompSciLauren/awesome-git-hooks:
+    category: Development Environment
+  moul/awesome-ssh:
+    category: Development Environment
+  tvvocold/FOSS-for-Dev:
+    category: Development Environment
+  janikvonrotz/awesome-powershell:
+    category: Development Environment
+  alfred-workflows/awesome-alfred-workflows:
+    category: Development Environment
+  k4m4/terminals-are-sexy:
+    category: Development Environment
+  sdras/awesome-actions:
+    category: Development Environment
+  rothgar/awesome-tmux:
+    category: Development Environment
+  awesome-foss/awesome-sysadmin:
+    category: Development Environment
+  dreikanter/sublime-bookmarks:
+    category: Editors
+  mhinz/vim-galore:
+    category: Editors
+  rockerBOO/awesome-neovim:
+    category: Editors
+  mehcode/awesome-atom:
+    category: Editors
+  viatsko/awesome-vscode:
+    category: Editors
+  sindresorhus/awesome-scifi:
+    category: Entertainment
+  RichardLitt/awesome-fantasy:
+    category: Entertainment
+  ayr-ton/awesome-geek-podcasts:
+    category: Entertainment
+  zudochkin/awesome-newsletters:
+    category: Entertainment
+  danvoyce/awesome-creative-tech-events:
+    category: Events
+  ildoc/awesome-italy-events:
+    category: Events
+  awkward/awesome-netherlands-events:
+    category: Events
+  addyosmani/es6-tools:
+    category: Front-End Development
+  markodenic/web-development-resources:
+    category: Front-End Development
+  dzharii/awesome-typescript:
+    category: Front-End Development
+  vitejs/awesome-vite:
+    category: Front-End Development
+  davidsonfellipe/awesome-wpo:
+    category: Front-End Development
+  lvwzhen/tools:
+    category: Front-End Development
+  awesome-css-group/awesome-css:
+    category: Front-End Development
+  addyosmani/critical-path-css-tools:
+    category: Front-End Development
+  davidtheclark/scalable-css-reading-list:
+    category: Front-End Development
+  AllThingsSmitty/css-protips:
+    category: Front-End Development
+  troxler/awesome-css-frameworks:
+    category: Front-End Development
+  enaqx/awesome-react:
+    category: Front-End Development
+  brillout/awesome-react-components:
+    category: Front-End Development
+  expede/awesome-relay:
+    category: Front-End Development
+  glauberfc/awesome-react-hooks:
+    category: Front-End Development
+  mateusortiz/webcomponents-the-right-way:
+    category: Front-End Development
+  Granze/awesome-polymer:
+    category: Front-End Development
+  PatrickJS/awesome-angular:
+    category: Front-End Development
+  sadcitizen/awesome-backbone:
+    category: Front-End Development
+  diegocard/awesome-html5:
+    category: Front-End Development
+  raphamorim/awesome-canvas:
+    category: Front-End Development
+  dnbard/awesome-knockout:
+    category: Front-End Development
+  petk/awesome-dojo:
+    category: Front-End Development
+  noahbuscher/inspire:
+    category: Front-End Development
+  ember-community-russia/awesome-ember:
+    category: Front-End Development
+  Urigo/awesome-meteor:
+    category: Front-End Development
+  sturobson/BEM-resources:
+    category: Front-End Development
+  afonsopacifer/awesome-flexbox:
+    category: Front-End Development
+  deanhume/typography:
+    category: Front-End Development
+  sachin1092/awesome-material:
+    category: Front-End Development
+  wbkd/awesome-d3:
+    category: Front-End Development
+  jonathandion/awesome-emails:
+    category: Front-End Development
+  petk/awesome-jquery:
+    category: Front-End Development
+  AllThingsSmitty/jquery-tips-everyone-should-know:
+    category: Front-End Development
+  notthetup/awesome-webaudio:
+    category: Front-End Development
+  agarrharr/awesome-static-website-services:
+    category: Front-End Development
+  cyclejs-community/awesome-cyclejs:
+    category: Front-End Development
+  dok/awesome-text-editing:
+    category: Front-End Development
+  fliptheweb/motion-ui-design:
+    category: Front-End Development
+  alexpate/awesome-design-systems:
+    category: Front-End Development
+  vuejs/awesome-vue:
+    category: Front-End Development
+  sadcitizen/awesome-marionette:
+    category: Front-End Development
+  aurelia-contrib/awesome-aurelia:
+    category: Front-End Development
+  zingchart/awesome-charting:
+    category: Front-End Development
+  candelibas/awesome-ionic:
+    category: Front-End Development
+  ChromeDevTools/awesome-chrome-devtools:
+    category: Front-End Development
+  nikgraf/awesome-draft-js:
+    category: Front-End Development
+  TalAter/awesome-service-workers:
+    category: Front-End Development
+  TalAter/awesome-progressive-web-apps:
+    category: Front-End Development
+  choojs/awesome-choo:
+    category: Front-End Development
+  brillout/awesome-redux:
+    category: Front-End Development
+  browserify/awesome-browserify:
+    category: Front-End Development
+  Famolus/awesome-sass:
+    category: Front-End Development
+  gztchan/awesome-design:
+    category: Front-End Development
+  websemantics/awesome-ant-design:
+    category: Front-End Development
+  LucasBassetti/awesome-less:
+    category: Front-End Development
+  sjfricke/awesome-webgl:
+    category: Front-End Development
+  preactjs/awesome-preact:
+    category: Front-End Development
+  jbmoelker/progressive-enhancement-resources:
+    category: Front-End Development
+  unicodeveloper/awesome-nextjs:
+    category: Front-End Development
+  web-padawan/awesome-lit:
+    category: Front-End Development
+  automata/awesome-jamstack:
+    category: Front-End Development
+  henrikwirth/awesome-wordpress-gatsby:
+    category: Front-End Development
+  myshov/awesome-mobile-web-development:
+    category: Front-End Development
+  lauthieb/awesome-storybook:
+    category: Front-End Development
+  AdrienTorris/awesome-blazor:
+    category: Front-End Development
+  csabapalfi/awesome-pagespeed-metrics:
+    category: Front-End Development
+  aniftyco/awesome-tailwindcss:
+    category: Front-End Development
+  seed-rs/awesome-seed-rs:
+    category: Front-End Development
+  pajaydev/awesome-web-performance-budget:
+    category: Front-End Development
+  sergey-pimenov/awesome-web-animation:
+    category: Front-End Development
+  jetli/awesome-yew:
+    category: Front-End Development
+  nadunindunil/awesome-material-ui:
+    category: Front-End Development
+  componently-com/awesome-building-blocks-for-web-apps:
+    category: Front-End Development
+  TheComputerM/awesome-svelte:
+    category: Front-End Development
+  klaufel/awesome-design-systems:
+    category: Front-End Development
+  innocenzi/awesome-inertiajs:
+    category: Front-End Development
+  mdbootstrap/awesome-mdbootstrap:
+    category: Front-End Development
+  ellisonleao/magictools:
+    category: Gaming
+  stevinz/awesome-game-engine-dev:
+    category: Gaming
+  Billiam/awesome-ironsworn:
+    category: Gaming
+  hzoo/awesome-gametalks:
+    category: Gaming
+  godotengine/awesome-godot:
+    category: Gaming
+  michelpereira/awesome-open-source-games:
+    category: Gaming
+  RyanNielson/awesome-unity:
+    category: Gaming
+  hkirat/awesome-chess:
+    category: Gaming
+  love2d-community/awesome-love2d:
+    category: Gaming
+  pico-8/awesome-PICO-8:
+    category: Gaming
+  gbdev/awesome-gbdev:
+    category: Gaming
+  ConstructCommunity/awesome-construct:
+    category: Gaming
+  stetso/awesome-gideros:
+    category: Gaming
+  bs-community/awesome-minecraft:
+    category: Gaming
+  leomaurodesenv/game-datasets:
+    category: Gaming
+  Dvergar/awesome-haxe-gamedev:
+    category: Gaming
+  rafaskb/awesome-libgdx:
+    category: Gaming
+  playcanvas/awesome-playcanvas:
+    category: Gaming
+  radek-sprta/awesome-game-remakes:
+    category: Gaming
+  flame-engine/awesome-flame:
+    category: Gaming
+  mhxion/awesome-discord-communities:
+    category: Gaming
+  tobiasvl/awesome-chip-8:
+    category: Gaming
+  michelpereira/awesome-games-of-coding:
+    category: Gaming
+  Strift/awesome-esports:
+    category: Gaming
+  kiloreux/awesome-robotics:
+    category: Hardware
+  HQarroum/awesome-iot:
+    category: Hardware
+  kitspace/awesome-electronics:
+    category: Hardware
+  rabschi/awesome-beacon:
+    category: Hardware
+  gitfrage/guitarspecs:
+    category: Hardware
+  beardicus/awesome-plotters:
+    category: Hardware
+  protontypes/awesome-robotic-tooling:
+    category: Hardware
+  szenergy/awesome-lidar:
+    category: Hardware
+  delftopenhardware/awesome-open-hardware:
+    category: Hardware
+  caufieldjh/awesome-bioie:
+    category: Health and Social Science
+  eselkin/awesome-computational-neuroscience:
+    category: Health and Social Science
+  folkswhocode/awesome-diversity:
+    category: Health and Social Science
+  maehr/awesome-digital-history:
+    category: Health and Social Science
+  KimberlyMunoz/empathy-in-engineering:
+    category: Health and Social Science
+  kakoni/awesome-healthcare:
+    category: Health and Social Science
+  humanetech-community/awesome-humane-tech:
+    category: Health and Social Science
+  dreamingechoes/awesome-mental-health:
+    category: Health and Social Science
+  analyticalmonk/awesome-neuroscience:
+    category: Health and Social Science
+  karlhorky/learn-to-program:
+    category: Learn
+  matteofigus/awesome-speaking:
+    category: Learn
+  lucasviola/awesome-tech-videos:
+    category: Learn
+  dive-into-machine-learning/dive-into-machine-learning:
+    category: Learn
+  watson/awesome-computer-history:
+    category: Learn
+  HollyAdele/awesome-programming-for-kids:
+    category: Learn
+  yrgo/awesome-educational-games:
+    category: Learn
+  micromata/awesome-javascript-learning:
+    category: Learn
+  micromata/awesome-css-learning:
+    category: Learn
+  dend/awesome-product-management:
+    category: Learn
+  liuchong/awesome-roadmaps:
+    category: Learn
+  shime/creative-commons-media:
+    category: Media
+  brabadu/awesome-fonts:
+    category: Media
+  chrissimpkins/codeface:
+    category: Media
+  neutraltone/awesome-stock-resources:
+    category: Media
+  davisonio/awesome-gif:
+    category: Media
+  ciconia/awesome-music:
+    category: Media
+  44bits/awesome-opensource-documents:
+    category: Media
+  willianjusten/awesome-audio-visualization:
+    category: Media
+  ebu/awesome-broadcasting:
+    category: Media
+  Siilwyn/awesome-pixel-art:
+    category: Media
+  transitive-bullshit/awesome-ffmpeg:
+    category: Media
+  notlmn/awesome-icons:
+    category: Media
+  stingalleman/awesome-audiovisual:
+    category: Media
+  mfkl/awesome-vlc:
+    category: Media
+  agarrharr/awesome-macos-screensavers: {}
+  Solido/awesome-flutter: {}
+  ramitsurana/awesome-kubernetes: {}
+  gaerae/awesome-algorithms-education: {}
+  stevemao/awesome-git-addons: {}
+  paragonie/awesome-appsec: {}
+  writing-resources/awesome-scientific-writing:
+    category: Miscellaneous
+  burningtree/awesome-json:
+    category: Miscellaneous
+  tmcw/awesome-geojson:
+    category: Miscellaneous
+  jdorfman/awesome-json-datasets:
+    category: Miscellaneous
+  secretGeek/AwesomeCSV:
+    category: Miscellaneous
+  Hack-with-Github/Awesome-Hacking:
+    category: Miscellaneous
+  AchoArnold/discount-for-student-dev:
+    category: Miscellaneous
+  kyleterry/awesome-radio:
+    category: Miscellaneous
+  sindresorhus/awesome: {}
+  newTendermint/awesome-analytics:
+    category: Miscellaneous
+  marmelab/awesome-rest:
+    category: Miscellaneous
+  cicdops/awesome-ciandcd:
+    category: Miscellaneous
+  mmcgrana/services-engineering:
+    category: Miscellaneous
+  ripienaar/free-for-dev: {}
+  cyberglot/awesome-answers:
+    category: Miscellaneous
+  diessica/awesome-sketch:
+    category: Miscellaneous
+  melvin0008/awesome-projects-boilerplates:
+    category: Miscellaneous
+  matiassingers/awesome-readme:
+    category: Miscellaneous
+  NARKOZ/guides:
+    category: Miscellaneous
+  kilimchoi/engineering-blogs:
+    category: Miscellaneous
+  awesome-selfhosted/awesome-selfhosted: {}
+  DataDaoDe/awesome-foss-apps:
+    category: Miscellaneous
+  alferov/awesome-gulp:
+    category: Miscellaneous
+  sindresorhus/amas:
+    category: Miscellaneous
+  ibaaj/awesome-OpenSourcePhotography:
+    category: Miscellaneous
+  eug/awesome-opengl:
+    category: Miscellaneous
+  chentsulin/awesome-graphql:
+    category: Miscellaneous
+  APA-Technology-Division/urban-and-regional-planning-resources:
+    category: Miscellaneous
+  CUTR-at-USF/awesome-transit:
+    category: Miscellaneous
+  emptymalei/awesome-research:
+    category: Miscellaneous
+  javierluraschi/awesome-dataviz:
+    category: Miscellaneous
+  mfornos/awesome-microservices:
+    category: Miscellaneous
+  jagracey/Awesome-Unicode:
+    category: Miscellaneous
+  Codepoints/awesome-codepoints:
+    category: Miscellaneous
+  MunGell/awesome-for-beginners: {}
+  gamontal/awesome-katas:
+    category: Miscellaneous
+  drewrwilson/toolsforactivism:
+    category: Miscellaneous
+  dylanrees/citizen-science:
+    category: Miscellaneous
+  unicodeveloper/awesome-opensource-apps:
+    category: Miscellaneous
+  hobbyquaker/awesome-mqtt:
+    category: Miscellaneous
+  cristianoliveira/awesome4girls:
+    category: Miscellaneous
+  vorpaljs/awesome-vorpal:
+    category: Miscellaneous
+  vinjn/awesome-vulkan:
+    category: Miscellaneous
+  egeerardyn/awesome-LaTeX:
+    category: Miscellaneous
+  antontarasenko/awesome-economics:
+    category: Miscellaneous
+  sublimino/awesome-funny-markov:
+    category: Miscellaneous
+  danielecook/Awesome-Bioinformatics:
+    category: Miscellaneous
+  hsiaoyi0504/awesome-cheminformatics:
+    category: Miscellaneous
+  Siddharth11/Colorful:
+    category: Miscellaneous
+  scholtzm/awesome-steam:
+    category: Miscellaneous
+  hackerkid/bots:
+    category: Miscellaneous
+  dastergon/awesome-sre:
+    category: Miscellaneous
+  xen0l/awesome-dtrace:
+    category: Miscellaneous
+  bvolpato/awesome-userscripts:
+    category: Miscellaneous
+  tobiasbueschel/awesome-pokemon:
+    category: Miscellaneous
+  exAspArk/awesome-chatops:
+    category: Miscellaneous
+  kdeldycke/awesome-falsehood:
+    category: Miscellaneous
+  heynickc/awesome-ddd:
+    category: Miscellaneous
+  woop/awesome-quantified-self:
+    category: Miscellaneous
+  hbokh/awesome-saltstack:
+    category: Miscellaneous
+  xn0px90/Awesome-Qubes-OS:
+    category: Miscellaneous
+  nicolesaidy/awesome-web-design:
+    category: Miscellaneous
+  terkelg/awesome-creative-coding:
+    category: Miscellaneous
+  filipecalegario/awesome-generative-deep-art:
+    category: Miscellaneous
+  aviaryan/awesome-no-login-web-apps:
+    category: Miscellaneous
+  johnjago/awesome-free-software:
+    category: Miscellaneous
+  podo/awesome-framer:
+    category: Miscellaneous
+  BubuAnabelas/awesome-markdown:
+    category: Miscellaneous
+  mislavcimpersak/awesome-dev-fun:
+    category: Miscellaneous
+  run-as-root/awesome-magento2:
+    category: Miscellaneous
+  xiaohanyu/awesome-tikz:
+    category: Miscellaneous
+  johnjago/awesome-ad-free:
+    category: Miscellaneous
+  angrykoala/awesome-esolangs:
+    category: Miscellaneous
+  roaldnefs/awesome-prometheus:
+    category: Miscellaneous
+  homematic-community/awesome-homematic:
+    category: Miscellaneous
+  sfischer13/awesome-ledger:
+    category: Miscellaneous
+  thomasbnt/awesome-web-monetization:
+    category: Miscellaneous
+  johnjago/awesome-uncopyright:
+    category: Miscellaneous
+  Zheaoli/awesome-coins:
+    category: Miscellaneous
+  zachflower/awesome-open-source-supporters:
+    category: Miscellaneous
+  vkarampinis/awesome-icons:
+    category: Miscellaneous
+  robinstickel/awesome-design-principles:
+    category: Miscellaneous
+  johnjago/awesome-theravada:
+    category: Miscellaneous
+  inspectit-labs/awesome-inspectit:
+    category: Miscellaneous
+  xxczaki/awesome-calculators:
+    category: Miscellaneous
+  ZYSzys/awesome-captcha:
+    category: Miscellaneous
+  markusschanta/awesome-jupyter:
+    category: Miscellaneous
+  krzemienski/awesome-video:
+    category: Miscellaneous
+  andrewda/awesome-frc:
+    category: Miscellaneous
+  karlhorky/awesome-speakers:
+    category: Miscellaneous
+  edm00se/awesome-board-games:
+    category: Miscellaneous
+  uraimo/awesome-software-patreons:
+    category: Miscellaneous
+  ecohealthalliance/awesome-parasite:
+    category: Miscellaneous
+  jzarca01/awesome-food:
+    category: Miscellaneous
+  nschloe/awesome-scientific-computing:
+    category: Miscellaneous
+  ScaleLeap/awesome-amazon-seller:
+    category: Miscellaneous
+  brycejohnston/awesome-agriculture:
+    category: Miscellaneous
+  ttt30ga/awesome-product-design:
+    category: Miscellaneous
+  catalinmiron/awesome-prisma:
+    category: Miscellaneous
+  simskij/awesome-software-architecture:
+    category: Miscellaneous
+  stevesong/awesome-connectivity-info:
+    category: Miscellaneous
+  stackshareio/awesome-stacks:
+    category: Miscellaneous
+  cytodata/awesome-cytodata:
+    category: Miscellaneous
+  davisonio/awesome-irc:
+    category: Miscellaneous
+  cenoura/awesome-ads:
+    category: Miscellaneous
+  philsturgeon/awesome-earth:
+    category: Miscellaneous
+  gruhn/awesome-naming:
+    category: Miscellaneous
+  iipc/awesome-web-archiving:
+    category: Miscellaneous
+  schlessera/awesome-wp-cli:
+    category: Miscellaneous
+  mourarthur/awesome-credit-modeling:
+    category: Miscellaneous
+  ansible-community/awesome-ansible:
+    category: Miscellaneous
+  keller-mark/awesome-biological-visualizations:
+    category: Miscellaneous
+  make-github-pseudonymous-again/awesome-qr-code:
+    category: Miscellaneous
+  sdassow/awesome-veganism:
+    category: Miscellaneous
+  mbiesiad/awesome-translations:
+    category: Miscellaneous
+  dersvenhesse/awesome-scriptable:
+    category: Miscellaneous
+  msub2/awesome-webxr:
+    category: Miscellaneous
+  osmlab/awesome-openstreetmap:
+    category: Miscellaneous
+  inoue0426/awesome-computational-biology:
+    category: Miscellaneous
+  antdimot/awesome-lowcode:
+    category: Miscellaneous
+  tortuvshin/open-source-flutter-apps:
+    category: Miscellaneous
+  AboutRSS/ALL-about-RSS:
+    category: Miscellaneous
+  plenaryapp/awesome-rss-feeds:
+    category: Miscellaneous
+  soruly/awesome-acg:
+    category: Miscellaneous
+  mendel5/alternative-front-ends:
+    category: Miscellaneous
+  ai-collection/ai-collection:
+    category: Miscellaneous
+  public-apis/public-apis: {}
+  nayafia/awesome-maintainers: {}
+  KotlinBy/awesome-kotlin: {}
+  alexk111/awesome-bitcoin-payment-processors: {}
+  hackerkid/Mind-Expanding-Books: {}
+  j0hnm4r5/awesome-creative-technology: {}
+  therebelrobot/awesome-workshopper: {}
+  victorlaerte/awesome-it-quotes: {}
+  wasabeef/awesome-android-ui: {}
+  lnishan/awesome-competitive-programming: {}
+  sdnds-tw/awesome-sdn:
+    category: Networking
+  briatte/awesome-network-analysis:
+    category: Networking
+  caesar0301/awesome-pcaptools:
+    category: Networking
+  rtckit/awesome-rtc:
+    category: Networking
+  eozer/awesome-snmp:
+    category: Networking
+  sindresorhus/awesome-nodejs:
+    category: Platforms
+  bcoe/awesome-cross-platform-nodejs:
+    category: Platforms
+  dypsilon/frontend-dev-bookmarks:
+    category: Platforms
+  vsouza/awesome-ios:
+    category: Platforms
+  JStumpp/awesome-android:
+    category: Platforms
+  weblancaster/awesome-IoT-hybrid:
+    category: Platforms
+  sindresorhus/awesome-electron:
+    category: Platforms
+  busterc/awesome-cordova:
+    category: Platforms
+  jondot/awesome-react-native:
+    category: Platforms
+  XamSome/awesome-xamarin:
+    category: Platforms
+  inputsh/awesome-linux:
+    category: Platforms
+  Friz-zy/awesome-linux-containers:
+    category: Platforms
+  zoidbergwill/awesome-ebpf:
+    category: Platforms
+  PandaFoss/Awesome-Arch:
+    category: Platforms
+  AppImageCommunity/awesome-appimage:
+    category: Platforms
+  jaywcjlove/awesome-mac:
+    category: Platforms
+  serhii-londar/open-source-mac-os-apps:
+    category: Platforms
+  deephacks/awesome-jvm:
+    category: Platforms
+  mailtoharshit/awesome-salesforce:
+    category: Platforms
+  donnemartin/awesome-aws:
+    category: Platforms
+  Awesome-Windows/Awesome:
+    category: Platforms
+  ipfs/awesome-ipfs:
+    category: Platforms
+  fuse-compound/awesome-fuse:
+    category: Platforms
+  ianstormtaylor/awesome-heroku:
+    category: Platforms
+  thibmaek/awesome-raspberry-pi:
+    category: Platforms
+  JesseTG/awesome-qt:
+    category: Platforms
+  fregante/Awesome-WebExtensions:
+    category: Platforms
+  vitalets/awesome-smart-tv:
+    category: Platforms
+  Kazhnuz/awesome-gnome:
+    category: Platforms
+  francoism90/awesome-kde:
+    category: Platforms
+  quozd/awesome-dotnet:
+    category: Platforms
+  thangchung/awesome-dotnet-core:
+    category: Platforms
+  ironcev/awesome-roslyn:
+    category: Platforms
+  miguelmota/awesome-amazon-alexa:
+    category: Platforms
+  jonleibowitz/awesome-digitalocean:
+    category: Platforms
+  frenck/awesome-home-assistant:
+    category: Platforms
+  victorshinya/awesome-ibmcloud:
+    category: Platforms
+  jthegedus/awesome-firebase:
+    category: Platforms
+  fkromer/awesome-ros2:
+    category: Platforms
+  adafruit/awesome-adafruitio:
+    category: Platforms
+  irazasyed/awesome-cloudflare:
+    category: Platforms
+  ravirupareliya/awesome-actions-on-google:
+    category: Platforms
+  agucova/awesome-esp:
+    category: Platforms
+  denolib/awesome-deno:
+    category: Platforms
+  balintkissdev/awesome-dos:
+    category: Platforms
+  nix-community/awesome-nix:
+    category: Platforms
+  stn1slv/awesome-integration:
+    category: Platforms
+  naimo84/awesome-nodered:
+    category: Platforms
+  zenitysec/awesome-low-code:
+    category: Platforms
+  riderx/awesome-capacitor:
+    category: Platforms
+  Esri/awesome-arcgis-developers:
+    category: Platforms
+  sorrycc/awesome-javascript:
+    category: Programming Languages
+  wbinnssmith/awesome-promises:
+    category: Programming Languages
+  standard/awesome-standard:
+    category: Programming Languages
+  bolshchikov/js-must-watch:
+    category: Programming Languages
+  loverajoel/jstips:
+    category: Programming Languages
+  Kikobeats/awesome-network-js:
+    category: Programming Languages
+  parro-it/awesome-micro-npm-packages:
+    category: Programming Languages
+  feross/awesome-mad-science:
+    category: Programming Languages
+  sindresorhus/awesome-npm:
+    category: Programming Languages
+  avajs/awesome-ava:
+    category: Programming Languages
+  dustinspecker/awesome-eslint:
+    category: Programming Languages
+  stoeffel/awesome-fp-js:
+    category: Programming Languages
+  sindresorhus/awesome-observables:
+    category: Programming Languages
+  RyanZim/awesome-npm-scripts:
+    category: Programming Languages
+  Richienb/awesome-ponyfills:
+    category: Programming Languages
+  matteocrippa/awesome-swift:
+    category: Programming Languages
+  uraimo/Awesome-Swift-Playgrounds:
+    category: Programming Languages
+  vinta/awesome-python:
+    category: Programming Languages
+  timofurrer/awesome-asyncio:
+    category: Programming Languages
+  faroit/awesome-python-scientific-audio:
+    category: Programming Languages
+  adafruit/awesome-circuitpython:
+    category: Programming Languages
+  krzjoa/awesome-python-data-science:
+    category: Programming Languages
+  typeddjango/awesome-python-typing:
+    category: Programming Languages
+  wsvincent/awesome-django:
+    category: Programming Languages
+  mcauser/awesome-micropython:
+    category: Programming Languages
+  rust-unofficial/awesome-rust:
+    category: Programming Languages
+  krispo/awesome-haskell:
+    category: Programming Languages
+  passy/awesome-purescript:
+    category: Programming Languages
+  avelino/awesome-go:
+    category: Programming Languages
+  lauris/awesome-scala:
+    category: Programming Languages
+  tindzk/awesome-scala-native:
+    category: Programming Languages
+  markets/awesome-ruby:
+    category: Programming Languages
+  razum2um/awesome-clojure:
+    category: Programming Languages
+  hantuzun/awesome-clojurescript:
+    category: Programming Languages
+  h4cc/awesome-elixir:
+    category: Programming Languages
+  sporto/awesome-elm:
+    category: Programming Languages
+  drobakowski/awesome-erlang:
+    category: Programming Languages
+  svaksha/Julia.jl:
+    category: Programming Languages
+  LewisJEllis/awesome-lua:
+    category: Programming Languages
+  inputsh/awesome-c:
+    category: Programming Languages
+  fffaraz/awesome-cpp:
+    category: Programming Languages
+  qinwf/awesome-R:
+    category: Programming Languages
+  iamericfletcher/awesome-r-learning-resources:
+    category: Programming Languages
+  dlang-community/awesome-d:
+    category: Programming Languages
+  CodyReichert/awesome-cl:
+    category: Programming Languages
+  GustavBertram/awesome-common-lisp-learning:
+    category: Programming Languages
+  hachiojipm/awesome-perl:
+    category: Programming Languages
+  kdabir/awesome-groovy:
+    category: Programming Languages
+  yissachar/awesome-dart:
+    category: Programming Languages
+  akullpp/awesome-java:
+    category: Programming Languages
+  eleventigers/awesome-rxjava:
+    category: Programming Languages
+  ocaml-community/awesome-ocaml:
+    category: Programming Languages
+  seancoyne/awesome-coldfusion:
+    category: Programming Languages
+  rabbiabram/awesome-fortran:
+    category: Programming Languages
+  ziadoz/awesome-php:
+    category: Programming Languages
+  jakoch/awesome-composer:
+    category: Programming Languages
+  Fr0sT-Brutal/awesome-pascal:
+    category: Programming Languages
+  ahkscript/awesome-AutoHotkey:
+    category: Programming Languages
+  J2TEAM/awesome-AutoIt:
+    category: Programming Languages
+  veelenga/awesome-crystal:
+    category: Programming Languages
+  sfischer13/awesome-frege:
+    category: Programming Languages
+  onqtam/awesome-cmake:
+    category: Programming Languages
+  robinrodricks/awesome-actionscript3:
+    category: Programming Languages
+  sfischer13/awesome-eta:
+    category: Programming Languages
+  joaomilho/awesome-idris:
+    category: Programming Languages
+  ohenley/awesome-ada:
+    category: Programming Languages
+  ebraminio/awesome-qsharp:
+    category: Programming Languages
+  koolamusic/awesome-imba:
+    category: Programming Languages
+  desiderantes/awesome-vala:
+    category: Programming Languages
+  coq-community/awesome-coq:
+    category: Programming Languages
+  vlang/awesome-v:
+    category: Programming Languages
+  catdevnull/awesome-zig:
+    category: Programming Languages
+  rust-embedded/awesome-embedded-rust:
+    category: Programming Languages
+  sbilly/awesome-security:
+    category: Security
+  Igglybuff/awesome-piracy:
+    category: Security
+  pluja/awesome-privacy:
+    category: Security
+  enaqx/awesome-pentest:
+    category: Security
+  apsdehal/awesome-ctf:
+    category: Security
+  brootware/awesome-cyber-security-university:
+    category: Security
+  rshipp/awesome-malware-analysis:
+    category: Security
+  ashishb/android-security-awesome:
+    category: Security
+  carpedm20/awesome-hacking:
+    category: Security
+  daviddias/awesome-hacking-locations:
+    category: Security
+  paralax/awesome-honeypots:
+    category: Security
+  meirwah/awesome-incident-response:
+    category: Security
+  jaredthecoder/awesome-vehicle-security:
+    category: Security
+  qazbnm456/awesome-web-security:
+    category: Security
+  fabacab/awesome-lockpicking:
+    category: Security
+  fabacab/awesome-cybersecurity-blueteam:
+    category: Security
+  cpuu/awesome-fuzzing:
+    category: Security
+  fkie-cad/awesome-embedded-and-iot-security:
+    category: Security
+  bakke92/awesome-gdpr:
+    category: Security
+  TaptuIT/awesome-devsecops:
+    category: Security
+  packing-box/awesome-executable-packing:
+    category: Security
+  Karneades/awesome-malware-persistence:
+    category: Security
+  kareniel/awesome-evm-security:
+    category: Security
+  thomasdarimont/awesome-keycloak:
+    category: Security
+  TheJambo/awesome-testing:
+    category: Testing
+  mojoaxel/awesome-regression-testing:
+    category: Testing
+  christian-bromann/awesome-selenium:
+    category: Testing
+  SrinivasanTarget/awesome-appium:
+    category: Testing
+  sindresorhus/awesome-tap:
+    category: Testing
+  aliesbelik/awesome-jmeter:
+    category: Testing
+  grafana/awesome-k6:
+    category: Testing
+  mxschmitt/awesome-playwright:
+    category: Testing
+  aliesbelik/awesome-gatling:
+    category: Testing
+  papers-we-love/papers-we-love:
+    category: Theory
+  JanVanRyswyck/awesome-talks:
+    category: Theory
+  tayllan/awesome-algorithms:
+    category: Theory
+  owainlewis/awesome-artificial-intelligence:
+    category: Theory
+  jivoi/awesome-osint:
+    category: Theory
+  marcobiedermann/search-engine-optimization:
+    category: Theory
+  rossant/awesome-math:
+    category: Theory
+  passy/awesome-recursion-schemes:
+    category: Theory
+  erwanlemerrer/awesome-audit-algorithms:
+    category: Theory
+  YuzheSHI/awesome-agi-cocosci:
+    category: Theory
+  matiassingers/awesome-slack:
+    category: Work
+  filipelinhares/awesome-slack:
+    category: Work
+  lukasz-madon/awesome-remote-job:
+    category: Work
+  jyguyomarch/awesome-productivity:
+    category: Work
+  tramcar/awesome-job-boards:
+    category: Work
+  DopplerHQ/awesome-interview-questions:
+    category: Work
+  joho/awesome-code-review:
+    category: Work
+  lodthe/awesome-internships:
+    category: Work
+  elyase/awesome-gpt3:
+    category: GPT-3
+  humanloop/awesome-chatgpt:
+    category: ChatGPT
+  Kamigami55/awesome-chatgpt:
+    category: ChatGPT
+  saharmor/awesome-chatgpt:
+    category: ChatGPT
+  f/awesome-chatgpt-prompts:
+    category: ChatGPT
+  kyrolabs/awesome-langchain:
+    category: ChatGPT
+  ddotta/awesome-polars:
+    category: Programming Languages
+  beansource/awesome-orgs:
+    category: Miscellaneous
+  wilsonfreitas/awesome-quant:
+    category: Finance
+
