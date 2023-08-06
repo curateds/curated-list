@@ -1,4 +1,4 @@
-import { cheerio } from "../deps.ts";
+import { cheerio } from "../deps.ts"
 
 export type Link = { name: string; url: string; description: string }
 
