@@ -9,3 +9,14 @@ Deno.test(async function fetchReadMe() {
     "the response should contains html <article> tag.",
   )
 })
+
+Deno.test(async function queryRepositories() {
+  const repositories = ["lilac/fun", "in-fun/KubeScript"]
+  const data = await Github.queryRepositories(repositories)
+  console.log(data)
+  for (const repo of repositories) {
+    const { nameWithOwner } = data[repo]
+    assert(nameWithOwner)
+    assert(nameWithOwner === repo)
+  }
+})
