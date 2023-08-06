@@ -35,8 +35,8 @@ export async function fetchReadMeWithCache(repo: string): Promise<string> {
   const dir = "cache"
   const response = await fetchReadMe(repo)
 
-  Deno.mkdirSync(dir, { recursive: true })
-  Deno.writeTextFileSync(`${dir}/${name}.html`, response)
+  await Deno.mkdir(dir, { recursive: true })
+  await Deno.writeTextFile(`${dir}/${name}.html`, response)
   return response
 }
 

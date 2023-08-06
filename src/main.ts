@@ -5,6 +5,7 @@ import { yaml } from "../deps.ts"
 if (import.meta.main) {
   const config = await readConfig()
   const sources = Object.keys(config.sources)
+  console.log(`Update ${sources.length} sources`)
   synchronizeSources(sources, "data")
 }
 

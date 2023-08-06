@@ -13,16 +13,19 @@ export async function indexRepo(repo: string) {
 if (import.meta.main) {
   const config = await readConfig()
   const sources = Object.keys(config.sources)
+  let count = 0
   for (const source of sources) {
-    synchronizeRepo(source, "data/raw")
+    count += await synchronizeRepo(source, "data/raw")
   }
+  console.log(`Indexed ${count} links from ${sources.length} repositories`)
 }
 
 async function synchronizeRepo(repo: string, prefix: string) {
   const links = await indexRepo(repo)
-  console.log(`Extracted ${links.length} links`)
+  console.log(`Extracted ${links.length} links from ${repo}`)
   const text = JSON.stringify(links, null, 2)
   const name = Github.nameOfRepo(repo)
-  Deno.mkdirSync(prefix, { recursive: true })
-  Deno.writeTextFileSync(`${prefix}/${name}.json`, text)
+  await Deno.mkdir(prefix, { recursive: true })
+  await Deno.writeTextFile(`${prefix}/${name}.json`, text)
+  return links.length
 }
