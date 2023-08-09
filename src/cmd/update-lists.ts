@@ -1,6 +1,6 @@
 import * as Github from "../github.ts"
 import extractLinks from "../extract-links.ts"
-import { readConfig } from "../main.ts"
+import readConfig from "../config.ts"
 
 export async function indexRepo(repo: string) {
   // Given a repository name with author ex: vinta/awesome-python
