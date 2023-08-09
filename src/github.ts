@@ -44,6 +44,8 @@ type Repository = {
   nameWithOwner: string
   description: string
   owner: Owner
+  createdAt: string
+  updatedAt: string
 }
 
 type Owner = {
@@ -53,7 +55,7 @@ type Owner = {
   name?: string
 }
 
-type QueryResult = Record<string, Repository>
+export type QueryResult = Record<string, Repository>
 
 export async function queryRepositories(
   repositories: Array<string>,
@@ -88,6 +90,8 @@ export async function queryRepositories(
         }
       }
       description
+      createdAt
+      updatedAt
     }`
   const url = "https://api.github.com/graphql"
   const response = await fetch(url, {
