@@ -40,7 +40,7 @@ export async function fetchReadMeWithCache(repo: string): Promise<string> {
   return response
 }
 
-type Repository = {
+export type Repository = {
   nameWithOwner: string
   description: string
   owner: Owner

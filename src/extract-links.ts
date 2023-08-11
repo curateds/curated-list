@@ -1,6 +1,6 @@
 import { cheerio } from "../deps.ts"
 
-export type Link = { name: string; url: string; description: string }
+export type Link = { name: string; url: string; description?: string }
 
 export default function extractLinks(content: string) {
   const $ = cheerio.load(content)
@@ -14,7 +14,7 @@ export default function extractLinks(content: string) {
       const item = {
         name: splited[0],
         url: link,
-        description: splited[1],
+        description: splited[1], // todo: handle if desc is empty
       }
       all.push(item)
     }

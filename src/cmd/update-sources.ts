@@ -20,6 +20,7 @@ async function synchronizeSources(
 ): Promise<string> {
   const repositories = await retry.retryAsync(
     () => Github.queryRepositories(sources),
+    { delay: 1000 },
   )
   const text = JSON.stringify(repositories, null, 2)
   const file = `${prefix}/repositories.json`

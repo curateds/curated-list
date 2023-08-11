@@ -9,23 +9,26 @@ export async function indexRepo(repo: string) {
   return links
 }
 
+export const directory = "data/raw"
+
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
 if (import.meta.main) {
   const config = await readConfig()
   const sources = Object.keys(config.sources)
   let count = 0
   for (const source of sources) {
-    count += await synchronizeRepo(source, "data/raw")
+    const links = await synchronizeRepo(source, directory)
+    count += links.length
   }
   console.log(`Indexed ${count} links from ${sources.length} repositories`)
 }
 
-async function synchronizeRepo(repo: string, prefix: string) {
+export async function synchronizeRepo(repo: string, prefix: string) {
   const links = await indexRepo(repo)
   console.log(`Extracted ${links.length} links from ${repo}`)
   const text = JSON.stringify(links, null, 2)
   const name = Github.nameOfRepo(repo)
   await Deno.mkdir(prefix, { recursive: true })
   await Deno.writeTextFile(`${prefix}/${name}.json`, text)
-  return links.length
+  return links
 }
