@@ -41,6 +41,8 @@ jobs:
         with:
           deno-version: v1.x
       - name: Generate Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git fetch origin main
           git checkout refs/remotes/origin/main -- .
