@@ -42,7 +42,7 @@ jobs:
           deno-version: v1.x
       - name: Generate Changes
         run: |
-          git checkout refs/remotes/origin/main
+          git checkout origin/main -- .
           ls .
           deno run -A src/cmd/diff.ts
       # - name: Setup Pages
