@@ -31,8 +31,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
       - name: Checkout Data
         uses: actions/checkout@v3
         with:
@@ -44,7 +42,7 @@ jobs:
           deno-version: v1.x
       - name: Generate Changes
         run: |
-          git branch -v
+          git checkout refs/remotes/origin/main
           ls .
           deno run -A src/cmd/diff.ts
       # - name: Setup Pages
