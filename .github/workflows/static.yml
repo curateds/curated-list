@@ -42,6 +42,7 @@ jobs:
           deno-version: v1.x
       - name: Generate Changes
         run: |
+          git fetch origin main
           git checkout refs/remotes/origin/main -- .
           ls .
           deno run -A src/cmd/diff.ts
