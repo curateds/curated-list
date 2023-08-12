@@ -1,0 +1,518 @@
+[
+  {
+    "name": "OPEN CONTAINER INITIATIVE",
+    "url": "https://www.opencontainers.org/"
+  },
+  {
+    "name": "Cloud Native Computing Foundation",
+    "url": "https://cncf.io/"
+  },
+  {
+    "name": "Cloud Foundry Foundation",
+    "url": "https://www.cloudfoundry.org/foundation/"
+  },
+  {
+    "name": "Open Container Specifications",
+    "url": "https://github.com/opencontainers/specs"
+  },
+  {
+    "name": "App Container basics",
+    "url": "https://github.com/coreos/rkt/blob/master/Documentation/app-container.md"
+  },
+  {
+    "name": "Systemd Container Interface",
+    "url": "https://wiki.freedesktop.org/www/Software/systemd/ContainerInterface/"
+  },
+  {
+    "name": "Nulecule Specification",
+    "url": "https://github.com/projectatomic/atomicapp/tree/master/docs/spec"
+  },
+  {
+    "name": "Oracle microcontainer manifesto",
+    "url": "https://blogs.oracle.com/developers/the-microcontainer-manifesto"
+  },
+  {
+    "name": "Cloud Native Application Bundle Specification",
+    "url": "https://github.com/deislabs/cnab-spec"
+  },
+  {
+    "name": "Amazon EC2 Container Service ",
+    "url": "https://aws.amazon.com/ecs/"
+  },
+  {
+    "name": "Google Cloud Platform",
+    "url": "https://cloud.google.com/container-engine/"
+  },
+  {
+    "name": "Jelastic",
+    "url": "http://jelastic.com/"
+  },
+  {
+    "name": "Joyent",
+    "url": "https://www.joyent.com/"
+  },
+  {
+    "name": "Kubernetes",
+    "url": "http://kubernetes.io/"
+  },
+  {
+    "name": "Mesosphere",
+    "url": "https://mesosphere.com/"
+  },
+  {
+    "name": "OpenShift Origin",
+    "url": "https://www.openshift.org/"
+  },
+  {
+    "name": "Warden",
+    "url": "https://github.com/cloudfoundry/warden",
+    "description": "the open platform as a service project."
+  },
+  {
+    "name": "Virtuozzo",
+    "url": "https://virtuozzo.com"
+  },
+  {
+    "name": "Rancher",
+    "url": "http://rancher.com/"
+  },
+  {
+    "name": "Docker Swarm",
+    "url": "https://docs.docker.com/engine/swarm/"
+  },
+  {
+    "name": "Azure Container Service",
+    "url": "https://azure.microsoft.com/en-us/services/container-service/"
+  },
+  {
+    "name": "CIAO",
+    "url": "https://ciao-project.github.io/"
+  },
+  {
+    "name": "Alibaba Cloud Container Service",
+    "url": "https://www.alibabacloud.com/fr/product/container-service"
+  },
+  {
+    "name": "Nomad",
+    "url": "https://www.nomadproject.io/"
+  },
+  {
+    "name": "CoreOs",
+    "url": "https://coreos.com/"
+  },
+  {
+    "name": "RancherOS",
+    "url": "http://rancher.com/rancher-os/"
+  },
+  {
+    "name": "Project Atomic",
+    "url": "http://www.projectatomic.io/"
+  },
+  {
+    "name": "Snappy Ubuntu Core",
+    "url": "https://www.ubuntu.com/cloud/snappy"
+  },
+  {
+    "name": "ResinOS",
+    "url": "https://resinos.io/"
+  },
+  {
+    "name": "Photon",
+    "url": "https://github.com/vmware/photon"
+  },
+  {
+    "name": "Clear Linux Project",
+    "url": "https://clearlinux.org"
+  },
+  {
+    "name": "CargOS",
+    "url": "https://cargos.io/"
+  },
+  {
+    "name": "OSv",
+    "url": "http://osv.io/"
+  },
+  {
+    "name": "HypriotOS",
+    "url": "http://blog.hypriot.com/about/"
+  },
+  {
+    "name": "MCL",
+    "url": "https://mcl.host"
+  },
+  {
+    "name": "Docker",
+    "url": "https://github.com/veggiemonk/awesome-docker#cloud-infrastructure"
+  },
+  {
+    "name": "LXD",
+    "url": "https://github.com/lxc/lxd"
+  },
+  {
+    "name": "OpenVZ",
+    "url": "https://openvz.org/"
+  },
+  {
+    "name": "MultiDocker",
+    "url": "https://github.com/marty90/multidocker"
+  },
+  {
+    "name": "Lithos",
+    "url": "https://github.com/tailhook/lithos/"
+  },
+  {
+    "name": "containerd",
+    "url": "https://containerd.io/",
+    "description": "from image transfer/storage to container execution, supervision and networking."
+  },
+  {
+    "name": "runc",
+    "url": "https://github.com/opencontainers/runc"
+  },
+  {
+    "name": "Bocker",
+    "url": "https://github.com/p8952/bocker"
+  },
+  {
+    "name": "Rocket",
+    "url": "https://github.com/coreos/rkt"
+  },
+  {
+    "name": "LXC",
+    "url": "https://github.com/lxc/lxc"
+  },
+  {
+    "name": "Vagga",
+    "url": "https://github.com/tailhook/vagga"
+  },
+  {
+    "name": "libct",
+    "url": "https://github.com/xemul/libct"
+  },
+  {
+    "name": "libvirt",
+    "url": "https://libvirt.org/drvlxc.html"
+  },
+  {
+    "name": "systemd-nspawn",
+    "url": "https://wiki.archlinux.org/index.php/Systemd-nspawn"
+  },
+  {
+    "name": "porto",
+    "url": "https://github.com/yandex/porto"
+  },
+  {
+    "name": "udocker",
+    "url": "https://github.com/indigo-dc/udocker"
+  },
+  {
+    "name": "Let Me Contain That For You",
+    "url": "https://github.com/google/lmctfy"
+  },
+  {
+    "name": "cc-oci-runtime",
+    "url": "https://github.com/01org/cc-oci-runtime"
+  },
+  {
+    "name": "railcar",
+    "url": "https://github.com/oracle/railcar"
+  },
+  {
+    "name": "Kata Containers",
+    "url": "https://katacontainers.io/"
+  },
+  {
+    "name": "plash",
+    "url": "https://github.com/ihucos/plash/"
+  },
+  {
+    "name": "runv",
+    "url": "https://github.com/hyperhq/runv"
+  },
+  {
+    "name": "podman",
+    "url": "https://github.com/containers/libpod"
+  },
+  {
+    "name": "firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker"
+  },
+  {
+    "name": "sysbox",
+    "url": "https://github.com/nestybox/sysbox"
+  },
+  {
+    "name": "youki",
+    "url": "https://github.com/containers/youki"
+  },
+  {
+    "name": "footloose",
+    "url": "https://github.com/weaveworks/footloose"
+  },
+  {
+    "name": "Firejail",
+    "url": "https://l3net.wordpress.com/projects/firejail/"
+  },
+  {
+    "name": "NsJail",
+    "url": "https://github.com/google/nsjail"
+  },
+  {
+    "name": "Subuser",
+    "url": "https://github.com/subuser-security/subuser"
+  },
+  {
+    "name": "Snappy",
+    "url": "https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement",
+    "description": "a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism."
+  },
+  {
+    "name": "xdg-app",
+    "url": "https://wiki.gnome.org/Projects/SandboxedApps"
+  },
+  {
+    "name": "Bubblewrap",
+    "url": "https://github.com/projectatomic/bubblewrap"
+  },
+  {
+    "name": "singularity",
+    "url": "https://github.com/singularityware/singularity"
+  },
+  {
+    "name": "Lxroot",
+    "url": "https://github.com/parke/lxroot"
+  },
+  {
+    "name": "nsenter",
+    "url": "http://man7.org/linux/man-pages/man1/nsenter.1.html"
+  },
+  {
+    "name": "ip-netns",
+    "url": "http://man7.org/linux/man-pages/man8/ip-netns.8.html"
+  },
+  {
+    "name": "unshare",
+    "url": "http://man7.org/linux/man-pages/man1/unshare.1.html"
+  },
+  {
+    "name": "python-nsenter",
+    "url": "https://github.com/zalando/python-nsenter"
+  },
+  {
+    "name": "butter",
+    "url": "https://pypi.python.org/pypi/butter"
+  },
+  {
+    "name": "pyspaces",
+    "url": "https://github.com/Friz-zy/pyspaces"
+  },
+  {
+    "name": "CRIU",
+    "url": "https://criu.org/Main_Page"
+  },
+  {
+    "name": "Moby",
+    "url": "https://github.com/moby/moby"
+  },
+  {
+    "name": "container-diff",
+    "url": "https://github.com/GoogleCloudPlatform/container-diff"
+  },
+  {
+    "name": "buildah",
+    "url": "https://github.com/projectatomic/buildah"
+  },
+  {
+    "name": "skopeo",
+    "url": "https://github.com/projectatomic/skopeo",
+    "description": "retrieving information, images, signing content."
+  },
+  {
+    "name": "img",
+    "url": "https://github.com/jessfraz/img"
+  },
+  {
+    "name": "dgr",
+    "url": "https://github.com/blablacar/dgr"
+  },
+  {
+    "name": "Whaler",
+    "url": "https://github.com/P3GLEG/Whaler"
+  },
+  {
+    "name": "dive",
+    "url": "https://github.com/wagoodman/dive"
+  },
+  {
+    "name": "go-containerregistry",
+    "url": "https://github.com/google/go-containerregistry"
+  },
+  {
+    "name": "kaniko",
+    "url": "https://github.com/GoogleContainerTools/kaniko"
+  },
+  {
+    "name": "umoci",
+    "url": "https://umo.ci/"
+  },
+  {
+    "name": "docker pushrm",
+    "url": "https://github.com/christian-korneck/docker-pushrm"
+  },
+  {
+    "name": "LXC-Web-Panel",
+    "url": "https://lxc-webpanel.github.io/"
+  },
+  {
+    "name": "Liman",
+    "url": "https://github.com/salihciftci/liman"
+  },
+  {
+    "name": "portainer",
+    "url": "https://github.com/portainer/portainer"
+  },
+  {
+    "name": "swarmpit",
+    "url": "https://github.com/swarmpit/swarmpit"
+  },
+  {
+    "name": "The Twelve-Factor App",
+    "url": "https://12factor.net/"
+  },
+  {
+    "name": "Container Best Practices",
+    "url": "http://docs.projectatomic.io/container-best-practices/"
+  },
+  {
+    "name": "Docker bench security",
+    "url": "https://github.com/docker/docker-bench-security"
+  },
+  {
+    "name": "CoreOS Clair",
+    "url": "https://coreos.com/blog/vulnerability-analysis-for-containers/"
+  },
+  {
+    "name": "bane",
+    "url": "https://github.com/jfrazelle/bane"
+  },
+  {
+    "name": "OpenSCAP",
+    "url": "https://github.com/OpenSCAP/container-compliance"
+  },
+  {
+    "name": "drydock",
+    "url": "https://github.com/zuBux/drydock"
+  },
+  {
+    "name": "trireme",
+    "url": "https://www.aporeto.com/trireme/"
+  },
+  {
+    "name": "goss",
+    "url": "https://github.com/aelsabbahy/goss"
+  },
+  {
+    "name": "sockguard",
+    "url": "https://github.com/buildkite/sockguard"
+  },
+  {
+    "name": "gvisor",
+    "url": "https://github.com/google/gvisor"
+  },
+  {
+    "name": "docker-explorer",
+    "url": "https://github.com/google/docker-explorer/"
+  },
+  {
+    "name": "oci-seccomp-bpf-hook",
+    "url": "https://github.com/containers/oci-seccomp-bpf-hook"
+  },
+  {
+    "name": "CIS Security Benchmarks",
+    "url": "https://benchmarks.cisecurity.org/about/"
+  },
+  {
+    "name": "Are Docker containers really secure?",
+    "url": "https://opensource.com/business/14/7/docker-security-selinux"
+  },
+  {
+    "name": "Bringing new security features to Docker",
+    "url": "https://opensource.com/business/14/9/security-for-docker"
+  },
+  {
+    "name": "Docker, Linux Containers (LXC), and security",
+    "url": "http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security"
+  },
+  {
+    "name": "For containers, security is problem #1",
+    "url": "http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html"
+  },
+  {
+    "name": "Linux Container Security",
+    "url": "https://mjg59.dreamwidth.org/33170.html"
+  },
+  {
+    "name": "Ask HN: Best Linux sandbox?",
+    "url": "https://news.ycombinator.com/item?id=10030868"
+  },
+  {
+    "name": "CIS Docker 1.6 Benchmark v1.0.0",
+    "url": "https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf"
+  },
+  {
+    "name": "Understanding docker security and best practices",
+    "url": "https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/"
+  },
+  {
+    "name": "Update on Ubuntu Phone security issue",
+    "url": "https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/"
+  },
+  {
+    "name": "Don't expose the Docker socket (not even to a container)",
+    "url": "https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container/"
+  },
+  {
+    "name": "RedHat Blog",
+    "url": "http://rhelblog.redhat.com/?s=container&submit=Search"
+  },
+  {
+    "name": "Introduction to Linux Containers",
+    "url": "https://access.redhat.com/articles/1353593"
+  },
+  {
+    "name": "What’s Next for Containers? User Namespaces",
+    "url": "http://rhelblog.redhat.com/2015/07/07/whats-next-for-containers-user-namespaces/#more-1004"
+  },
+  {
+    "name": "Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters",
+    "url": "http://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/"
+  },
+  {
+    "name": "Architecting Containers Part 2: Why the User Space Matters",
+    "url": "http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/"
+  },
+  {
+    "name": "Secure Your Containers with this One Weird Trick",
+    "url": "http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/"
+  },
+  {
+    "name": "Why you shouldn't use ENV variables for secret data",
+    "url": "https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/"
+  },
+  {
+    "name": "When to use-Docker alternatives rkt and LXD",
+    "url": "http://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD"
+  },
+  {
+    "name": "The container is a lie",
+    "url": "https://platform.sh/blog/2020/the-container-is-a-lie/"
+  },
+  {
+    "name": "sysdig-container-ecosystem",
+    "url": "https://github.com/draios/sysdig-container-ecosystem"
+  },
+  {
+    "name": "doger.io",
+    "url": "http://doger.io/"
+  }
+]

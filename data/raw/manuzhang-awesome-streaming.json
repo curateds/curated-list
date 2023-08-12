@@ -1,0 +1,575 @@
+[
+  {
+    "name": "Apache Apex",
+    "url": "https://github.com/apache/apex-core",
+    "description": "unified platform for big data stream and batch processing."
+  },
+  {
+    "name": "Apache Ballista",
+    "url": "https://github.com/apache/arrow-ballista",
+    "description": "distributed compute platform powered by Apache Arrow."
+  },
+  {
+    "name": "Apache Flink",
+    "url": "https://github.com/apache/flink",
+    "description": "system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing."
+  },
+  {
+    "name": "Apache Heron (incubating)",
+    "url": "https://github.com/apache/incubator-heron",
+    "description": "a realtime, distributed, fault-tolerant stream processing engine from Twitter."
+  },
+  {
+    "name": "Apache Samza",
+    "url": "https://github.com/apache/samza",
+    "description": "distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management)."
+  },
+  {
+    "name": "Apache Spark Streaming",
+    "url": "https://github.com/apache/spark",
+    "description": "makes it easy to build scalable fault-tolerant streaming applications."
+  },
+  {
+    "name": "Apache Storm",
+    "url": "https://github.com/apache/storm",
+    "description": "distributed real-time computation system. Storm is to stream processing what Hadoop is to batch processing."
+  },
+  {
+    "name": "AthenaX",
+    "url": "https://github.com/uber/AthenaX",
+    "description": "Uber's Stream Analytics Framework used in production"
+  },
+  {
+    "name": "Bytewax",
+    "url": "https://github.com/bytewax/bytewax",
+    "description": "data parallel, distributed, stateful stream processing framework."
+  },
+  {
+    "name": "Faust",
+    "url": "https://github.com/robinhood/faust",
+    "description": "stream processing library, porting the ideas from Kafka Streams to Python"
+  },
+  {
+    "name": "Gearpump",
+    "url": "https://github.com/gearpump/gearpump",
+    "description": "lightweight real-time distributed streaming engine built on Akka."
+  },
+  {
+    "name": "Hazelcast Jet",
+    "url": "https://github.com/hazelcast/hazelcast-jet",
+    "description": "A general purpose distributed data processing engine, built on top of Hazelcast."
+  },
+  {
+    "name": "hailstorm",
+    "url": "https://github.com/hailstorm-hs/hailstorm",
+    "description": "distributed stream processing with exactly-once semantics based on Storm."
+  },
+  {
+    "name": "Maki Nage",
+    "url": "https://github.com/maki-nage/makinage",
+    "description": "A stream processing framework for data scientists, based on Kafka and ReactiveX."
+  },
+  {
+    "name": "mantis",
+    "url": "https://github.com/Netflix/mantis",
+    "description": "Netflix's platform to build an ecosystem of realtime stream processing applications"
+  },
+  {
+    "name": "mupd8(muppet)",
+    "url": "https://github.com/walmartlabs/mupd8",
+    "description": "mapReduce-style framework for processing fast/streaming data."
+  },
+  {
+    "name": "Onyx",
+    "url": "https://github.com/onyx-platform/onyx",
+    "description": "Distributed, masterless, high performance, fault tolerant data processing."
+  },
+  {
+    "name": "s4",
+    "url": "https://github.com/apache/incubator-s4",
+    "description": "general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data."
+  },
+  {
+    "name": "SABER",
+    "url": "https://github.com/lsds/Saber",
+    "description": "Window-Based Hybrid CPU/GPU Stream Processing Engine."
+  },
+  {
+    "name": "Scramjet Cloud Platform",
+    "url": "https://github.com/scramjetorg/transform-hub",
+    "description": "data processing engine for running multiple data processing apps (sequences) written in Python, JavaScript or TypeScript"
+  },
+  {
+    "name": "SPQR",
+    "url": "https://github.com/ottogroup/SPQR",
+    "description": "dynamic framework for processing high volumn data streams through pipelines."
+  },
+  {
+    "name": "tigon",
+    "url": "https://github.com/caskdata/tigon",
+    "description": "high throughput real-time streaming processing framework built on Hadoop and HBase."
+  },
+  {
+    "name": "Teknek",
+    "url": "https://github.com/edwardcapriolo/teknek-core",
+    "description": "Simple elegant stream processing with interactive prototying shell SOL (Stream Operator Language)"
+  },
+  {
+    "name": "Trill",
+    "url": "https://github.com/Microsoft/trill",
+    "description": "Trill is a high-performance one-pass in-memory streaming analytics engine from Microsoft Research."
+  },
+  {
+    "name": "Wallaroo",
+    "url": "https://github.com/WallarooLabs/wallaroo",
+    "description": "A fast, stream-processing framework. Wallaroo makes it easy to react to data in real-time. By eliminating infrastructure complexity, going from prototype to production has never been simpler."
+  },
+  {
+    "name": "LightSaber",
+    "url": "https://github.com/lsds/LightSaber",
+    "description": "Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation."
+  },
+  {
+    "name": "HStreamDB",
+    "url": "https://github.com/hstreamdb/hstream",
+    "description": "The streaming database built for IoT data storage and real-time processing."
+  },
+  {
+    "name": "Kuiper",
+    "url": "https://github.com/emqx/kuiper",
+    "description": "An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices."
+  },
+  {
+    "name": "WindFlow",
+    "url": "https://paragroup.github.io/WindFlow",
+    "description": "A C++17 Data Stream Processing Parallel Library for Multicores and GPUs"
+  },
+  {
+    "name": "Apache Kafka Streams",
+    "url": "https://github.com/apache/kafka",
+    "description": "lightweight stream processing library included in Apache Kafka (since 0.10 version)."
+  },
+  {
+    "name": "Streamiz",
+    "url": "https://github.com/LGouellec/kafka-streams-dotnet",
+    "description": "a .Net Stream Processing Library for Apache Kafka"
+  },
+  {
+    "name": "Akka Streams",
+    "url": "https://github.com/akka/akka",
+    "description": "stream processing library on Akka Actors."
+  },
+  {
+    "name": "Daggy",
+    "url": "https://github.com/synacker/daggy",
+    "description": "real-time streams aggregation and catching."
+  },
+  {
+    "name": "Benthos",
+    "url": "https://github.com/Jeffail/benthos",
+    "description": "Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads"
+  },
+  {
+    "name": "FS2(prev. 'Scalaz-Stream')",
+    "url": "https://github.com/functional-streams-for-scala/fs2",
+    "description": "Compositional, streaming I/O library for Scala."
+  },
+  {
+    "name": "monix",
+    "url": "https://github.com/monix/monix",
+    "description": "high-performance Scala / Scala.js library for composing asynchronous and event-based programs."
+  },
+  {
+    "name": "Quix Streams",
+    "url": "https://github.com/quixio/quix-streams",
+    "description": "a streaming library originally designed for the McLaren Formula 1 racing team that can process high volumes of time-series data with up to nanosecond precision using Apache Kafka as a message broker."
+  },
+  {
+    "name": "Scramjet Node.js",
+    "url": "https://github.com/scramjetorg/framework-js",
+    "description": "[Node.js] functional reactive stream programming framework written on top of Node.js object streams + the legacy Scramjet.js version"
+  },
+  {
+    "name": "Scramjet Python",
+    "url": "https://github.com/scramjetorg/framework-python",
+    "description": "[Python] functional reactive stream programming framework written from scratch operating on object, string and buffer streams."
+  },
+  {
+    "name": "Scramjet C++",
+    "url": "https://github.com/scramjetorg/framework-cpp",
+    "description": "[C++] functional reactive stream programming framework written on top of Node.js object streams."
+  },
+  {
+    "name": "Streamline",
+    "url": "https://github.com/hortonworks/streamline",
+    "description": "Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic."
+  },
+  {
+    "name": "StreamAlert",
+    "url": "https://github.com/airbnb/streamalert",
+    "description": "Airbnb's Real-time Data Analysis and Alerting."
+  },
+  {
+    "name": "Swave",
+    "url": "https://github.com/sirthias/swave",
+    "description": "A lightweight Reactive Streams Infrastructure Toolkit for Scala."
+  },
+  {
+    "name": "Streamz",
+    "url": "https://github.com/python-streamz/streamz",
+    "description": "A lightweight library for building pipelines to manage continuous streams of data; supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on."
+  },
+  {
+    "name": "Stream Ops",
+    "url": "https://github.com/nanosai/stream-ops-java",
+    "description": "A fully embeddable data streaming engine and stream processing API for Java."
+  },
+  {
+    "name": "Substation",
+    "url": "https://github.com/brexhq/substation",
+    "description": "Substation is a cloud native data pipeline and transformation toolkit written in Go."
+  },
+  {
+    "name": "Tributary",
+    "url": "https://github.com/timkpaine/tributary",
+    "description": "A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams."
+  },
+  {
+    "name": "YoMo",
+    "url": "https://github.com/yomorun/yomo",
+    "description": "An open source Streaming Serverless Framework for building Low-latency Geo-distributed system. YoMo Built atop QUIC Transport Protocol and Functional Reactive Programming interface."
+  },
+  {
+    "name": "Mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media."
+  },
+  {
+    "name": "javactrl-kafka",
+    "url": "https://github.com/javactrl/javactrl-kafka",
+    "description": "An application of a stateful stream processing for workflow as Java code (microservices orchestration, business process automation, and more)."
+  },
+  {
+    "name": "straw",
+    "url": "https://github.com/rwalk/straw",
+    "description": "A platform for real-time streaming search."
+  },
+  {
+    "name": "storm-crawler",
+    "url": "https://github.com/DigitalPebble/storm-crawler",
+    "description": "Web crawler SDK based on Apache Storm."
+  },
+  {
+    "name": "Zilla",
+    "url": "https://github.com/aklivity/zilla",
+    "description": "Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol."
+  },
+  {
+    "name": "sensorbee",
+    "url": "https://github.com/sensorbee/sensorbee",
+    "description": "lightweight stream processing engine for IoT."
+  },
+  {
+    "name": "Apache Edgent",
+    "url": "https://github.com/apache/incubator-edgent",
+    "description": "a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM."
+  },
+  {
+    "name": "Apache StreamPipes",
+    "url": "https://github.com/apache/incubator-streampipes",
+    "description": "a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams."
+  },
+  {
+    "name": "Apache Beam",
+    "url": "https://github.com/apache/beam",
+    "description": "unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google."
+  },
+  {
+    "name": "coast",
+    "url": "https://github.com/bkirwi/coast",
+    "description": "a DSL that builds DAGs on top of Samza and provides exactly-once semantics."
+  },
+  {
+    "name": "Esper",
+    "url": "https://github.com/espertechinc/esper",
+    "description": "component for complex event processing (CEP) and event series analysis."
+  },
+  {
+    "name": "Streamparse",
+    "url": "https://github.com/Parsely/streamparse",
+    "description": "lets you run Python code against real-time streams of data via Apache Storm."
+  },
+  {
+    "name": "summingbird",
+    "url": "https://github.com/twitter/summingbird",
+    "description": "library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding."
+  },
+  {
+    "name": "Apache Kafka",
+    "url": "https://github.com/apache/kafka",
+    "description": "distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design."
+  },
+  {
+    "name": "Apache Pulsar",
+    "url": "https://github.com/apache/incubator-pulsar",
+    "description": "distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API."
+  },
+  {
+    "name": "Apache RocketMQ",
+    "url": "https://github.com/apache/rocketmq",
+    "description": "distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability."
+  },
+  {
+    "name": "brooklin",
+    "url": "https://github.com/linkedin/Brooklin/",
+    "description": "a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus)."
+  },
+  {
+    "name": "camus",
+    "url": "https://github.com/linkedin/camus",
+    "description": "Linkedin's Kafka -> HDFS pipeline."
+  },
+  {
+    "name": "databus",
+    "url": "https://github.com/linkedin/databus",
+    "description": "Linkedin's source-agnostic distributed change data capture system."
+  },
+  {
+    "name": "flume",
+    "url": "https://github.com/apache/flume",
+    "description": "distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data."
+  },
+  {
+    "name": "fluvio",
+    "url": "https://github.com/infinyon/fluvio",
+    "description": "Real-time programmable data streaming platform with in-line computation capabilities."
+  },
+  {
+    "name": "Gazette",
+    "url": "https://github.com/gazette/core",
+    "description": "Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms."
+  },
+  {
+    "name": "LogDevice",
+    "url": "https://logdevice.io/",
+    "description": "a high-performant distributed system by Facebook for streaming and storing sequential data, using a log structure."
+  },
+  {
+    "name": "metaq",
+    "url": "https://github.com/killme2008/Metamorphosis",
+    "description": "Taobao's high available, high performance distributed messaging system"
+  },
+  {
+    "name": "NATS streaming",
+    "url": "https://github.com/nats-io/nats-streaming-server",
+    "description": "fast disk-backed messaging solution"
+  },
+  {
+    "name": "nsq",
+    "url": "https://github.com/nsqio/nsq",
+    "description": "realtime distributed messaging platform designed to operate at scale, handling billions of messages per day."
+  },
+  {
+    "name": "Redpanda",
+    "url": "https://github.com/redpanda-data/redpanda",
+    "description": "Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available."
+  },
+  {
+    "name": "RudderStack",
+    "url": "https://github.com/rudderlabs/rudder-server",
+    "description": "an open source customer data infrastructure (segment, mparticle alternative)."
+  },
+  {
+    "name": "suro",
+    "url": "https://github.com/Netflix/suro",
+    "description": "data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data."
+  },
+  {
+    "name": "StreamSets Data Collector",
+    "url": "https://github.com/streamsets/datacollector-oss",
+    "description": "continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others."
+  },
+  {
+    "name": "Apache Samoa",
+    "url": "https://github.com/apache/incubator-samoa",
+    "description": "distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms."
+  },
+  {
+    "name": "DataSketches",
+    "url": "https://github.com/DataSketches/sketches-core",
+    "description": "sketches library from Yahoo!."
+  },
+  {
+    "name": "River",
+    "url": "https://github.com/online-ml/river",
+    "description": "online machine learning library."
+  },
+  {
+    "name": "streamDM",
+    "url": "https://github.com/huawei-noah/streamDM",
+    "description": "mining Big Data streams using Spark Streaming from Huawei."
+  },
+  {
+    "name": "StreamingBandit",
+    "url": "https://github.com/Nth-iteration-labs/streamingbandit",
+    "description": "Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems."
+  },
+  {
+    "name": "StormCV",
+    "url": "https://github.com/sensorstorm/StormCV",
+    "description": "enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model."
+  },
+  {
+    "name": "trident-ml",
+    "url": "https://github.com/pmerienne/trident-ml",
+    "description": "realtime online machine learning library based on Trident."
+  },
+  {
+    "name": "yurita",
+    "url": "https://github.com/paypal/yurita",
+    "description": "Anomaly detection framework built on Spark Structured Streaming from Paypal."
+  },
+  {
+    "name": "pipelinedb",
+    "url": "https://github.com/pipelinedb/pipelinedb",
+    "description": "An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables."
+  },
+  {
+    "name": "squall",
+    "url": "https://github.com/epfldata/squall",
+    "description": "Squall executes SQL queries on top of Storm for doing online processing."
+  },
+  {
+    "name": "StreamCQL",
+    "url": "https://github.com/Zhiqiang-He/StreamCQL",
+    "description": "Continuous Query Language on RealTime Computation System."
+  },
+  {
+    "name": "ksqlDB",
+    "url": "https://github.com/confluentinc/ksql",
+    "description": "A cloud-native, source-available database purpose-built for stream processing applications"
+  },
+  {
+    "name": "Materialize",
+    "url": "https://materialize.com",
+    "description": "A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases."
+  },
+  {
+    "name": "Siddhi",
+    "url": "https://github.com/siddhi-io/siddhi",
+    "description": "A cloud native Streaming and Complex Event Processing engine that understands Streaming SQL queries in order to capture events from diverse data sources, process them, detect complex conditions, and publish output to various endpoints in real time."
+  },
+  {
+    "name": "storm-perf-test",
+    "url": "https://github.com/yahoo/storm-perf-test",
+    "description": "a simple storm performance/stress test."
+  },
+  {
+    "name": "streaming-benchmarks",
+    "url": "https://github.com/yahoo/streaming-benchmarks",
+    "description": "Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc."
+  },
+  {
+    "name": "flotilla",
+    "url": "https://github.com/tylertreat/Flotilla",
+    "description": "Automated message queue orchestration for scaled-up benchmarking."
+  },
+  {
+    "name": "akka",
+    "url": "https://github.com/akka/akka",
+    "description": "toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM."
+  },
+  {
+    "name": "pulsar",
+    "url": "https://github.com/quantmind/pulsar/",
+    "description": "Actor based event driven concurrent framework for Python."
+  },
+  {
+    "name": "aeron",
+    "url": "https://github.com/real-logic/Aeron",
+    "description": "efficient reliable unicast and multicast message transport."
+  },
+  {
+    "name": "StreamFlow",
+    "url": "https://github.com/lmco/streamflow",
+    "description": "stream processing tool designed to help build and monitor processing workflows."
+  },
+  {
+    "name": "samza-luwak",
+    "url": "https://github.com/romseygeek/samza-luwak",
+    "description": "uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams."
+  },
+  {
+    "name": "Turbine",
+    "url": "https://github.com/Netflix/Turbine",
+    "description": "tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream."
+  },
+  {
+    "name": "Nussknacker",
+    "url": "https://github.com/TouK/nussknacker",
+    "description": "A visual tool to define and run real-time decision algorithms."
+  },
+  {
+    "name": "Amazon Kinesis Streams",
+    "url": "https://aws.amazon.com/kinesis/",
+    "description": "real-time, fully managed and scalable data stream engine provided by AWS."
+  },
+  {
+    "name": "Azure Stream Analytics",
+    "url": "https://azure.microsoft.com/en-us/services/stream-analytics/"
+  },
+  {
+    "name": "Cloud Dataflow",
+    "url": "https://cloud.google.com/dataflow/",
+    "description": "Google's managed stream and batch data processing engine. Supports running Beam pipelines."
+  },
+  {
+    "name": "concord",
+    "url": "https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos",
+    "description": "a distributed stream processing framework built in C++ on top of Apache."
+  },
+  {
+    "name": "IBM Streams",
+    "url": "https://www.ibm.com/analytics/us/en/technology/stream-computing/",
+    "description": "platform for distributed processing and real-time analytics. Provides toolkits for advanced analytics like geospatial, time series, etc. out of the box."
+  },
+  {
+    "name": "jubatus",
+    "url": "http://jubat.us/en/",
+    "description": "distributed processing framework and streaming machine learning library."
+  },
+  {
+    "name": "millwheel",
+    "url": "http://research.google.com/pubs/pub41378.html",
+    "description": "framework for building low-latency data-processing applications that is widely used at Google."
+  },
+  {
+    "name": "NVIDIA Deep Stream",
+    "url": "https://developer.nvidia.com/deepstream-sdk",
+    "description": "a platform for real-time image, video and audio processing, preferably using on edge devices or cloud."
+  },
+  {
+    "name": "In-Stream Big Data Processing",
+    "url": "https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/"
+  },
+  {
+    "name": "The world beyond batch: Streaming 101",
+    "url": "http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html"
+  },
+  {
+    "name": "Real Time Analytics: Algorithms and Systems (VLDB 2015)",
+    "url": "http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf"
+  },
+  {
+    "name": "Grokking Streaming Systems",
+    "url": "https://www.manning.com/books/grokking-streaming-systems"
+  },
+  {
+    "name": "Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing",
+    "url": "https://www.oreilly.com/library/view/streaming-systems/9781491983867/"
+  },
+  {
+    "name": "Data Pipelines with Apache Airflow",
+    "url": "https://www.manning.com/books/data-pipelines-with-apache-airflow"
+  }
+]

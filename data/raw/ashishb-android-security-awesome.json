@@ -1,0 +1,924 @@
+[
+  {
+    "name": "AndroTotal",
+    "url": "http://andrototal.org/"
+  },
+  {
+    "name": "Appknox",
+    "url": "https://www.appknox.com/",
+    "description": "not free"
+  },
+  {
+    "name": "Virustotal",
+    "url": "https://www.virustotal.com/",
+    "description": "max 128MB"
+  },
+  {
+    "name": "Fraunhofer App-ray",
+    "url": "http://app-ray.co/",
+    "description": "not free"
+  },
+  {
+    "name": "NowSecure Lab Automated",
+    "url": "https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/",
+    "description": "Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free"
+  },
+  {
+    "name": "App Detonator",
+    "url": "https://appdetonator.run/",
+    "description": "Detonate APK binary to provide source code level details including app author, signature, build, and manifest information. 3 Analysis/day free quota."
+  },
+  {
+    "name": "Pithus",
+    "url": "https://beta.pithus.org/",
+    "description": "Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malware with Yara rules. More here."
+  },
+  {
+    "name": "Approver",
+    "url": "https://approver.talos-sec.com/",
+    "description": "Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free."
+  },
+  {
+    "name": "Oversecured",
+    "url": "https://oversecured.com/",
+    "description": "Enterprise vulnerability scanner for Android and iOS apps, it offers app owners and developers the ability to secure each new version of a mobile app by integrating Oversecured into the development process. Not free."
+  },
+  {
+    "name": "AppSweep by Guardsquare",
+    "url": "https://appsweep.guardsquare.com/",
+    "description": "Free, fast Android application security testing for developers"
+  },
+  {
+    "name": "Koodous",
+    "url": "https://koodous.com",
+    "description": "Performs static/dynamic malware analysis over a vast repository of Android samples and checks them against public and private Yara rules."
+  },
+  {
+    "name": "BitBaan",
+    "url": "https://malab.bitbaan.com/"
+  },
+  {
+    "name": "AVC UnDroid",
+    "url": "http://undroid.av-comparatives.info/"
+  },
+  {
+    "name": "AMAaaS",
+    "url": "https://amaaas.com",
+    "description": "Free Android Malware Analysis Service. A bare-metal service features static and dynamic analysis for Android applications. A product of MalwarePot."
+  },
+  {
+    "name": "AppCritique",
+    "url": "https://appcritique.boozallen.com",
+    "description": "Upload your Android APKs and receive comprehensive free security assessments"
+  },
+  {
+    "name": "NVISO ApkScan",
+    "url": "https://apkscan.nviso.be/",
+    "description": "sunsetting on Oct 31, 2019"
+  },
+  {
+    "name": "Mobile Malware Sandbox",
+    "url": "http://www.mobilemalware.com.br/analysis/index_en.php"
+  },
+  {
+    "name": "IBM Security AppScan Mobile Analyzer",
+    "url": "https://appscan.bluemix.net/mobileAnalyzer",
+    "description": "not free"
+  },
+  {
+    "name": "Visual Threat",
+    "url": "https://www.visualthreat.com/",
+    "description": "no longer an Android app analyzer"
+  },
+  {
+    "name": "Tracedroid",
+    "url": "http://tracedroid.few.vu.nl/"
+  },
+  {
+    "name": "habo",
+    "url": "https://habo.qq.com/",
+    "description": "10/day"
+  },
+  {
+    "name": "CopperDroid",
+    "url": "http://copperdroid.isg.rhul.ac.uk/copperdroid/"
+  },
+  {
+    "name": "SandDroid",
+    "url": "http://sanddroid.xjtu.edu.cn/"
+  },
+  {
+    "name": "Stowaway",
+    "url": "http://www.android-permissions.org/"
+  },
+  {
+    "name": "Anubis",
+    "url": "http://anubis.iseclab.org/"
+  },
+  {
+    "name": "Mobile app insight",
+    "url": "http://www.mobile-app-insight.org"
+  },
+  {
+    "name": "Mobile-Sandbox",
+    "url": "http://mobile-sandbox.com"
+  },
+  {
+    "name": "Ijiami",
+    "url": "http://safe.ijiami.cn/"
+  },
+  {
+    "name": "Comdroid",
+    "url": "http://www.comdroid.org/"
+  },
+  {
+    "name": "Android Sandbox",
+    "url": "http://www.androidsandbox.net/"
+  },
+  {
+    "name": "Foresafe",
+    "url": "http://www.foresafe.com/scan"
+  },
+  {
+    "name": "Dexter",
+    "url": "https://dexter.dexlabs.org/"
+  },
+  {
+    "name": "MobiSec Eacus",
+    "url": "http://www.mobiseclab.org/eacus.jsp"
+  },
+  {
+    "name": "Fireeye",
+    "url": "https://fireeye.ijinshan.com/"
+  },
+  {
+    "name": "Androwarn",
+    "url": "https://github.com/maaaaz/androwarn/",
+    "description": "detect and warn the user about potential malicious behaviors developed by an Android application."
+  },
+  {
+    "name": "ApkAnalyser",
+    "url": "https://github.com/sonyxperiadev/ApkAnalyser"
+  },
+  {
+    "name": "APKInspector",
+    "url": "https://github.com/honeynet/apkinspector/"
+  },
+  {
+    "name": "Droid Intent Data Flow Analysis for Information Leakage",
+    "url": "https://www.cert.org/secure-coding/tools/didfail.cfm"
+  },
+  {
+    "name": "DroidLegacy",
+    "url": "https://bitbucket.org/srl/droidlegacy"
+  },
+  {
+    "name": "Smali CFG generator",
+    "url": "https://github.com/EugenioDelfa/Smali-CFGs"
+  },
+  {
+    "name": "FlowDroid",
+    "url": "https://blogs.uni-paderborn.de/sse/tools/flowdroid/"
+  },
+  {
+    "name": "Android Decompiler",
+    "url": "https://www.pnfsoftware.com/"
+  },
+  {
+    "name": "PSCout",
+    "url": "https://security.csl.toronto.edu/pscout/",
+    "description": "A tool that extracts the permission specification from the Android OS source code using static analysis"
+  },
+  {
+    "name": "Amandroid",
+    "url": "http://amandroid.sireum.org/"
+  },
+  {
+    "name": "SmaliSCA",
+    "url": "https://github.com/dorneanu/smalisca",
+    "description": "Smali Static Code Analysis"
+  },
+  {
+    "name": "CFGScanDroid",
+    "url": "https://github.com/douggard/CFGScanDroid",
+    "description": "Scans and compares CFG against CFG of malicious applications"
+  },
+  {
+    "name": "Madrolyzer",
+    "url": "https://github.com/maldroid/maldrolyzer",
+    "description": "extracts actionable data like C&C, phone number etc."
+  },
+  {
+    "name": "SPARTA",
+    "url": "https://www.cs.washington.edu/sparta",
+    "description": "verifies (proves) that an app satisfies an information-flow security policy; built on the Checker Framework"
+  },
+  {
+    "name": "ConDroid",
+    "url": "https://github.com/JulianSchuette/ConDroid",
+    "description": "Performs a combination of symbolic + concrete execution of the app"
+  },
+  {
+    "name": "DroidRA",
+    "url": "https://github.com/serval-snt-uni-lu/DroidRA"
+  },
+  {
+    "name": "RiskInDroid",
+    "url": "https://github.com/ClaudiuGeorgiu/RiskInDroid",
+    "description": "A tool for calculating the risk of Android apps based on their permissions, with an online demo available."
+  },
+  {
+    "name": "SUPER",
+    "url": "https://github.com/SUPERAndroidAnalyzer/super",
+    "description": "Secure, Unified, Powerful and Extensible Rust Android Analyzer"
+  },
+  {
+    "name": "ClassyShark",
+    "url": "https://github.com/google/android-classyshark",
+    "description": "Standalone binary inspection tool which can browse any Android executable and show important info."
+  },
+  {
+    "name": "StaCoAn",
+    "url": "https://github.com/vincentcox/StaCoAn",
+    "description": "Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface."
+  },
+  {
+    "name": "JAADAS",
+    "url": "https://github.com/flankerhqd/JAADAS",
+    "description": "Joint intraprocedural and interprocedural program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala"
+  },
+  {
+    "name": "Quark-Engine",
+    "url": "https://github.com/quark-engine/quark-engine",
+    "description": "An Obfuscation-Neglect Android Malware Scoring System"
+  },
+  {
+    "name": "One Step Decompiler",
+    "url": "https://github.com/b-mueller/apkx",
+    "description": "Android APK Decompilation for the Lazy"
+  },
+  {
+    "name": "APKLeaks",
+    "url": "https://github.com/dwisiswant0/apkleaks",
+    "description": "Scanning APK file for URIs, endpoints & secrets."
+  },
+  {
+    "name": "Mobile Audit",
+    "url": "https://github.com/mpast/mobileAudit",
+    "description": "Web application for performing Static Analysis and detecting malware in Android APKs."
+  },
+  {
+    "name": "Several tools from PSU",
+    "url": "http://siis.cse.psu.edu/tools.html"
+  },
+  {
+    "name": "QARK",
+    "url": "https://github.com/linkedin/qark/",
+    "description": "QARK by LinkedIn is for app developers to scan apps for security issues"
+  },
+  {
+    "name": "AndroBugs",
+    "url": "https://github.com/AndroBugs/AndroBugs_Framework"
+  },
+  {
+    "name": "Nogotofail",
+    "url": "https://github.com/google/nogotofail"
+  },
+  {
+    "name": "Devknox",
+    "url": "https://devknox.io/",
+    "description": "IDE plugin to build secure Android apps. Not maintained anymore."
+  },
+  {
+    "name": "Android DBI frameowork",
+    "url": "http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html"
+  },
+  {
+    "name": "Androl4b",
+    "url": "https://github.com/sh4hin/Androl4b"
+  },
+  {
+    "name": "House",
+    "url": "https://github.com/nccgroup/house"
+  },
+  {
+    "name": "Mobile-Security-Framework MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "description": "Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing."
+  },
+  {
+    "name": "AppUse",
+    "url": "https://appsec-labs.com/AppUse/"
+  },
+  {
+    "name": "Droidbox",
+    "url": "https://github.com/pjlantz/droidbox"
+  },
+  {
+    "name": "Drozer",
+    "url": "https://github.com/mwrlabs/drozer"
+  },
+  {
+    "name": "Xposed",
+    "url": "https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053",
+    "description": "equivalent of doing Stub-based code injection but without any modifications to the binary"
+  },
+  {
+    "name": "Inspeckage",
+    "url": "https://github.com/ac-pm/Inspeckage",
+    "description": "Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)"
+  },
+  {
+    "name": "Android Hooker",
+    "url": "https://github.com/AndroidHooker/hooker",
+    "description": "Dynamic Java code instrumentation (requires the Substrate Framework)"
+  },
+  {
+    "name": "ProbeDroid",
+    "url": "https://github.com/ZSShen/ProbeDroid",
+    "description": "Dynamic Java code instrumentation"
+  },
+  {
+    "name": "Android Tamer",
+    "url": "https://androidtamer.com/",
+    "description": "Virtual / Live Platform for Android Security Professionals"
+  },
+  {
+    "name": "DECAF",
+    "url": "https://github.com/sycurelab/DECAF",
+    "description": "Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)"
+  },
+  {
+    "name": "CuckooDroid",
+    "url": "https://github.com/idanr1986/cuckoo-droid",
+    "description": "Android extension for Cuckoo sandbox"
+  },
+  {
+    "name": "Mem",
+    "url": "https://github.com/MobileForensicsResearch/mem",
+    "description": "Memory analysis of Android (root required)"
+  },
+  {
+    "name": "Crowdroid",
+    "url": "http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf"
+  },
+  {
+    "name": "AuditdAndroid",
+    "url": "https://github.com/nwhusted/AuditdAndroid"
+  },
+  {
+    "name": "Android Security Evaluation Framework",
+    "url": "https://code.google.com/p/asef/",
+    "description": "not under active development anymore"
+  },
+  {
+    "name": "Aurasium",
+    "url": "https://github.com/xurubin/aurasium"
+  },
+  {
+    "name": "Android Linux Kernel modules",
+    "url": "https://github.com/strazzere/android-lkms"
+  },
+  {
+    "name": "Appie",
+    "url": "https://manifestsecurity.com/appie/",
+    "description": "Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines."
+  },
+  {
+    "name": "StaDynA",
+    "url": "https://github.com/zyrikby/StaDynA",
+    "description": "a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information."
+  },
+  {
+    "name": "DroidAnalytics",
+    "url": "https://github.com/zhengmin1989/DroidAnalytics",
+    "description": "incomplete"
+  },
+  {
+    "name": "Vezir Project",
+    "url": "https://github.com/oguzhantopgul/Vezir-Project",
+    "description": "Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis"
+  },
+  {
+    "name": "MARA",
+    "url": "https://github.com/xtiankisutsa/MARA_Framework",
+    "description": "Mobile Application Reverse Engineering and Analysis Framework"
+  },
+  {
+    "name": "Taintdroid",
+    "url": "http://appanalysis.org",
+    "description": "requires AOSP compilation"
+  },
+  {
+    "name": "ARTist",
+    "url": "https://artist.cispa.saarland",
+    "description": "a flexible open-source instrumentation and hybrid analysis framework for Android apps and Android's Java middleware. It is based on the Android Runtime's (ART) compiler and modifies code during on-device compilation."
+  },
+  {
+    "name": "Android Malware Sandbox",
+    "url": "https://github.com/Areizen/Android-Malware-Sandbox"
+  },
+  {
+    "name": "AndroPyTool",
+    "url": "https://github.com/alexMyG/AndroPyTool",
+    "description": "a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis."
+  },
+  {
+    "name": "Runtime Mobile Security (RMS)",
+    "url": "https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security",
+    "description": "is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime"
+  },
+  {
+    "name": "PAPIMonitor",
+    "url": "https://github.com/Dado1513/PAPIMonitor"
+  },
+  {
+    "name": "Android_application_analyzer",
+    "url": "https://github.com/NotSoSecure/android_application_analyzer",
+    "description": "The tool is used to analyze the content of the Android application in local storage."
+  },
+  {
+    "name": "Android Malware Analysis Toolkit",
+    "url": "http://www.mobilemalware.com.br/amat/download.html",
+    "description": "(Linux distro) Earlier it use to be an online analyzer"
+  },
+  {
+    "name": "Android Reverse Engineering",
+    "url": "https://redmine.honeynet.org/projects/are/wiki"
+  },
+  {
+    "name": "ViaLab Community Edition",
+    "url": "https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/"
+  },
+  {
+    "name": "Mercury",
+    "url": "https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/"
+  },
+  {
+    "name": "Cobradroid",
+    "url": "https://thecobraden.com/projects/cobradroid/"
+  },
+  {
+    "name": "Smali/Baksmali",
+    "url": "https://github.com/JesusFreke/smali"
+  },
+  {
+    "name": "emacs syntax coloring for smali files",
+    "url": "https://github.com/strazzere/Emacs-Smali"
+  },
+  {
+    "name": "vim syntax coloring for smali files",
+    "url": "http://codetastrophe.com/smali.vim"
+  },
+  {
+    "name": "AndBug",
+    "url": "https://github.com/swdunlop/AndBug"
+  },
+  {
+    "name": "Androguard",
+    "url": "https://github.com/androguard/androguard"
+  },
+  {
+    "name": "Apktool",
+    "url": "https://ibotpeaches.github.io/Apktool/"
+  },
+  {
+    "name": "Android Framework for Exploitation",
+    "url": "https://github.com/appknox/AFE"
+  },
+  {
+    "name": "Bypass signature and permission checks for IPCs",
+    "url": "https://github.com/iSECPartners/Android-KillPermAndSigChecks"
+  },
+  {
+    "name": "Android OpenDebug",
+    "url": "https://github.com/iSECPartners/Android-OpenDebug"
+  },
+  {
+    "name": "Dex2Jar",
+    "url": "https://github.com/pxb1988/dex2jar",
+    "description": "dex to jar converter"
+  },
+  {
+    "name": "Enjarify",
+    "url": "https://github.com/google/enjarify",
+    "description": "dex to jar converter from Google"
+  },
+  {
+    "name": "Dedexer",
+    "url": "https://sourceforge.net/projects/dedexer/"
+  },
+  {
+    "name": "Fino",
+    "url": "https://github.com/sysdream/fino"
+  },
+  {
+    "name": "Frida",
+    "url": "https://www.frida.re/",
+    "description": "inject javascript to explore applications and a GUI tool for it"
+  },
+  {
+    "name": "Indroid",
+    "url": "https://bitbucket.org/aseemjakhar/indroid"
+  },
+  {
+    "name": "IntentSniffer",
+    "url": "https://www.nccgroup.com/us/our-research/intent-sniffer/"
+  },
+  {
+    "name": "Introspy",
+    "url": "https://github.com/iSECPartners/Introspy-Android"
+  },
+  {
+    "name": "Jad",
+    "url": "https://varaneckas.com/jad/",
+    "description": "Java decompiler"
+  },
+  {
+    "name": "JD-GUI",
+    "url": "https://github.com/java-decompiler/jd-gui",
+    "description": "Java decompiler"
+  },
+  {
+    "name": "CFR",
+    "url": "http://www.benf.org/other/cfr/",
+    "description": "Java decompiler"
+  },
+  {
+    "name": "Krakatau",
+    "url": "https://github.com/Storyyeller/Krakatau",
+    "description": "Java decompiler"
+  },
+  {
+    "name": "FernFlower",
+    "url": "https://github.com/fesh0r/fernflower",
+    "description": "Java decompiler"
+  },
+  {
+    "name": "Redexer",
+    "url": "https://github.com/plum-umd/redexer"
+  },
+  {
+    "name": "Simplify Android deobfuscator",
+    "url": "https://github.com/CalebFenton/simplify"
+  },
+  {
+    "name": "Bytecode viewer",
+    "url": "https://github.com/Konloch/bytecode-viewer"
+  },
+  {
+    "name": "Radare2",
+    "url": "https://github.com/radare/radare2"
+  },
+  {
+    "name": "Jadx",
+    "url": "https://github.com/skylot/jadx"
+  },
+  {
+    "name": "Dwarf",
+    "url": "https://github.com/iGio90/Dwarf",
+    "description": "GUI for reverse engineering"
+  },
+  {
+    "name": "Andromeda",
+    "url": "https://github.com/secrary/Andromeda",
+    "description": "Another basic command-line reverse engineering tool"
+  },
+  {
+    "name": "apk-mitm",
+    "url": "https://github.com/shroudedcode/apk-mitm",
+    "description": "A CLI application that prepares Android APK files for HTTPS inspection"
+  },
+  {
+    "name": "Noia",
+    "url": "https://github.com/0x742/noia",
+    "description": "Simple Android application sandbox file browser tool"
+  },
+  {
+    "name": "Obfuscapk",
+    "url": "https://github.com/ClaudiuGeorgiu/Obfuscapk",
+    "description": "Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code."
+  },
+  {
+    "name": "ARMANDroid",
+    "url": "https://github.com/Mobile-IoT-Security-Lab/ARMANDroid",
+    "description": "ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code."
+  },
+  {
+    "name": "MVT (Mobile Verification Toolkit)",
+    "url": "https://github.com/mvt-project/mvt",
+    "description": "a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices"
+  },
+  {
+    "name": "Procyon",
+    "url": "https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler",
+    "description": "Java decompiler"
+  },
+  {
+    "name": "Smali viewer",
+    "url": "http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip"
+  },
+  {
+    "name": "ZjDroid",
+    "url": "https://github.com/BaiduSecurityLabs/ZjDroid"
+  },
+  {
+    "name": "Dare",
+    "url": "http://siis.cse.psu.edu/dare/index.html"
+  },
+  {
+    "name": "Decompiler.com",
+    "url": "https://www.decompiler.com/",
+    "description": "Online APK and Java decompiler"
+  },
+  {
+    "name": "Radamsa Fuzzer",
+    "url": "https://github.com/anestisb/radamsa-android"
+  },
+  {
+    "name": "Honggfuzz",
+    "url": "https://github.com/google/honggfuzz"
+  },
+  {
+    "name": "An Android port of the Melkor ELF fuzzer",
+    "url": "https://github.com/anestisb/melkor-android"
+  },
+  {
+    "name": "Media Fuzzing Framework for Android",
+    "url": "https://github.com/fuzzing/MFFA"
+  },
+  {
+    "name": "AndroFuzz",
+    "url": "https://github.com/jonmetz/AndroFuzz"
+  },
+  {
+    "name": "QuarksLab's Android Fuzzing",
+    "url": "https://github.com/quarkslab/android-fuzzing"
+  },
+  {
+    "name": "IntentFuzzer",
+    "url": "https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/"
+  },
+  {
+    "name": "FSquaDRA",
+    "url": "https://github.com/zyrikby/FSquaDRA",
+    "description": "a tool for the detection of repackaged Android applications based on app resources hash comparison."
+  },
+  {
+    "name": "Google Play crawler (Java)",
+    "url": "https://github.com/Akdeniz/google-play-crawler"
+  },
+  {
+    "name": "Google Play crawler (Python)",
+    "url": "https://github.com/egirault/googleplay-api"
+  },
+  {
+    "name": "Google Play crawler (Node)",
+    "url": "https://github.com/dweinstein/node-google-play",
+    "description": "get app details and download apps from the official Google Play Store."
+  },
+  {
+    "name": "Aptoide downloader (Node)",
+    "url": "https://github.com/dweinstein/node-aptoide",
+    "description": "download apps from Aptoide third-party Android market"
+  },
+  {
+    "name": "Appland downloader (Node)",
+    "url": "https://github.com/dweinstein/node-appland",
+    "description": "download apps from Appland third-party Android market"
+  },
+  {
+    "name": "Apkpure",
+    "url": "https://apkpure.com/",
+    "description": "Online apk downloader. Provides also its own app for downloading."
+  },
+  {
+    "name": "PlaystoreDownloader",
+    "url": "https://github.com/ClaudiuGeorgiu/PlaystoreDownloader",
+    "description": "PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name."
+  },
+  {
+    "name": "APK Downloader",
+    "url": "https://apkcombo.com/apk-downloader/"
+  },
+  {
+    "name": "smalihook",
+    "url": "http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html"
+  },
+  {
+    "name": "AXMLPrinter2",
+    "url": "http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar",
+    "description": "to convert binary XML files to human-readable XML files"
+  },
+  {
+    "name": "adb autocomplete",
+    "url": "https://github.com/mbrubeck/android-completion"
+  },
+  {
+    "name": "mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy"
+  },
+  {
+    "name": "dockerfile/androguard",
+    "url": "https://github.com/dweinstein/dockerfile-androguard"
+  },
+  {
+    "name": "Android Vulnerability Test Suite",
+    "url": "https://github.com/AndroidVTS/android-vts",
+    "description": "android-vts scans a device for set of vulnerabilities"
+  },
+  {
+    "name": "AppMon",
+    "url": "https://github.com/dpnishant/appmon"
+  },
+  {
+    "name": "Internal Blue",
+    "url": "https://github.com/seemoo-lab/internalblue",
+    "description": "Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers"
+  },
+  {
+    "name": "Android Mobile Device Hardening",
+    "url": "https://github.com/SecTheTech/AMDH",
+    "description": "AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions."
+  },
+  {
+    "name": "Android Device Security Database",
+    "url": "https://www.android-device-security.org/client/datatable",
+    "description": "Database of security features of Android devices"
+  },
+  {
+    "name": "Opcodes table for quick reference",
+    "url": "http://ww38.xchg.info/corkami/opcodes_tables.pdf"
+  },
+  {
+    "name": "APK-Downloader",
+    "url": "http://codekiem.com/2012/02/24/apk-downloader/",
+    "description": "seems dead now"
+  },
+  {
+    "name": "Dalvik opcodes",
+    "url": "http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html"
+  },
+  {
+    "name": "Damn Insecure Vulnerable Application (DIVA)",
+    "url": "https://github.com/payatu/diva-android"
+  },
+  {
+    "name": "Vuldroid",
+    "url": "https://github.com/jaiswalakshansh/Vuldroid"
+  },
+  {
+    "name": "ExploitMe Android Labs",
+    "url": "http://securitycompass.github.io/AndroidLabs/setup.html"
+  },
+  {
+    "name": "GoatDroid",
+    "url": "https://github.com/jackMannino/OWASP-GoatDroid-Project"
+  },
+  {
+    "name": "Android InsecureBank",
+    "url": "https://github.com/dineshshetty/Android-InsecureBankv2"
+  },
+  {
+    "name": "Insecureshop",
+    "url": "https://github.com/optiv/insecureshop"
+  },
+  {
+    "name": "Oversecured Vulnerable Android App (OVAA)",
+    "url": "https://github.com/oversecured/ovaa"
+  },
+  {
+    "name": "Exploit Database",
+    "url": "https://www.exploit-db.com/papers/"
+  },
+  {
+    "name": "Android security-related presentations",
+    "url": "https://github.com/jacobsoo/AndroidSlides"
+  },
+  {
+    "name": "A good collection of static analysis papers",
+    "url": "https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/"
+  },
+  {
+    "name": "SEI CERT Android Secure Coding Standard",
+    "url": "https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard"
+  },
+  {
+    "name": "OWASP Mobile Security Testing Guide Manual",
+    "url": "https://github.com/OWASP/owasp-mstg"
+  },
+  {
+    "name": "doridori/Android-Security-Reference",
+    "url": "https://github.com/doridori/Android-Security-Reference"
+  },
+  {
+    "name": "android app security checklist",
+    "url": "https://github.com/b-mueller/android_app_security_checklist"
+  },
+  {
+    "name": "Mobile App Pentest Cheat Sheet",
+    "url": "https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet"
+  },
+  {
+    "name": "Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)",
+    "url": "http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/"
+  },
+  {
+    "name": "Mobile Security Reading Room",
+    "url": "https://mobile-security.zeef.com",
+    "description": "A reading room that contains well-categorized technical reading material about mobile penetration testing, mobile malware, mobile forensics, and all kind of mobile security-related topics"
+  },
+  {
+    "name": "Android Security Bulletins",
+    "url": "https://source.android.com/security/bulletin/"
+  },
+  {
+    "name": "Android's reported security vulnerabilities",
+    "url": "https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html"
+  },
+  {
+    "name": "AOSP - Issue tracker",
+    "url": "https://code.google.com/p/android/issues/list?can=2&q=priority=Critical&sort=-opened",
+    "description": "Issue tracker"
+  },
+  {
+    "name": "OWASP Mobile Top 10 2016",
+    "url": "https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10"
+  },
+  {
+    "name": "Exploit Database",
+    "url": "https://www.exploit-db.com/search/?action=search&q=android",
+    "description": "click search"
+  },
+  {
+    "name": "Vulnerability Google Doc",
+    "url": "https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html"
+  },
+  {
+    "name": "Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)",
+    "url": "https://source.android.com/security/reports/Google_Android_Security_PHA_classifications.pdf"
+  },
+  {
+    "name": "Android Devices Security Patch Status",
+    "url": "https://kb.androidtamer.com/Device_Security_Patch_tracker/"
+  },
+  {
+    "name": "androguard - Database Android Malware wiki",
+    "url": "https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares",
+    "description": "Database Android Malware wiki"
+  },
+  {
+    "name": "Android Malware Github repo",
+    "url": "https://github.com/ashishb/android-malware"
+  },
+  {
+    "name": "Android Malware Genome Project",
+    "url": "http://www.malgenomeproject.org/policy.html",
+    "description": "contains 1260 malware samples categorized into 49 different malware families, free for research purposes."
+  },
+  {
+    "name": "Contagio Mobile Malware Mini Dump",
+    "url": "http://contagiominidump.blogspot.com"
+  },
+  {
+    "name": "Drebin",
+    "url": "https://www.sec.tu-bs.de/~danarp/drebin/"
+  },
+  {
+    "name": "Kharon Malware Dataset",
+    "url": "http://kharon.gforge.inria.fr/dataset/",
+    "description": "7 malware which have been reverse-engineered and documented"
+  },
+  {
+    "name": "Android Adware and General Malware Dataset",
+    "url": "https://www.unb.ca/cic/datasets/android-adware.html"
+  },
+  {
+    "name": "AndroZoo",
+    "url": "https://androzoo.uni.lu/",
+    "description": "AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market."
+  },
+  {
+    "name": "Android PRAGuard Dataset",
+    "url": "http://pralab.diee.unica.it/en/AndroidPRAGuardDataset",
+    "description": "The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques."
+  },
+  {
+    "name": "Admire",
+    "url": "http://admire.necst.it/"
+  },
+  {
+    "name": "Android Security Reward Program",
+    "url": "https://www.google.com/about/appsecurity/android-rewards/"
+  },
+  {
+    "name": "Android - reporting security issues",
+    "url": "https://source.android.com/security/overview/updates-resources.html#report-issues",
+    "description": "reporting security issues"
+  },
+  {
+    "name": "Android Reports and Resources",
+    "url": "https://github.com/B3nac/Android-Reports-and-Resources",
+    "description": "List of Android Hackerone disclosed reports and other resources"
+  }
+]

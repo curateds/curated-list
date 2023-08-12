@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Stacks Wallet for Desktop",
+    "url": "https://www.hiro.so/wallet/install-desktop",
+    "description": "Desktop wallet application for managing STX and stacking individually or in pools."
+  },
+  {
+    "name": "Stacks Wallet for Web",
+    "url": "https://www.hiro.so/wallet/install-web",
+    "description": "Web wallet for connecting to Stacks web applications."
+  },
+  {
+    "name": "Xverse Wallet",
+    "url": "https://www.secretkeylabs.com/",
+    "description": "Mobile wallet application for managing STX and stacking (not open source)."
+  },
+  {
+    "name": "Stacks Explorer",
+    "url": "https://explorer.stacks.co/?chain=mainnet",
+    "description": "An application for reviewing transactions on the Stacks blockchain."
+  },
+  {
+    "name": "Boom.money",
+    "url": "https://boom.money",
+    "description": "A web wallet focused on NFTs, and custom tokens."
+  },
+  {
+    "name": "Send Many",
+    "url": "https://sendstx.com",
+    "description": "An application to send STX to many recipients in one transaction."
+  },
+  {
+    "name": "MIA Block explorer",
+    "url": "http://miamining.com",
+    "description": "A web application to exolore MIA coin transactions for all and personal accounts."
+  },
+  {
+    "name": "Speed Spend",
+    "url": "https://speed-spend.org",
+    "description": "A suite of working Clarity experiments on testnet (source)."
+  },
+  {
+    "name": "Sigle",
+    "url": "https://www.sigle.io/",
+    "description": "Decentralized writing platform."
+  },
+  {
+    "name": "Console",
+    "url": "https://www.console.xyz/",
+    "description": "Decentralized community application."
+  },
+  {
+    "name": "Stacks On Chain",
+    "url": "https://stacksonchain.com",
+    "description": "Chain data analysis tool."
+  },
+  {
+    "name": "BNSx",
+    "url": "https://www.dots.so/",
+    "description": "Manage many BNS names with one account (1:n)."
+  },
+  {
+    "name": "btc.us",
+    "url": "https://btc.us",
+    "description": "An application for .btc names."
+  },
+  {
+    "name": "BNS search",
+    "url": "https://www.bnssearch.com/",
+    "description": "An application to search registered BNS names."
+  },
+  {
+    "name": "BNS and Ordinals",
+    "url": "https://www.bns.xyz/",
+    "description": "Inscribe BNS as Ordinal."
+  },
+  {
+    "name": "Owl.link",
+    "url": "https://owl.link",
+    "description": "An application to create linking page for BNS names."
+  },
+  {
+    "name": "Ryder Handles",
+    "url": "https://handles.ryder.id",
+    "description": "BNS namespaces for communities."
+  },
+  {
+    "name": "Alex Lab",
+    "url": "https://app.alexlab.co",
+    "description": "A service platform for DeFi."
+  },
+  {
+    "name": "Lydian",
+    "url": "https://app.lydian.xyz",
+    "description": "A decentralised treasury management protocol."
+  },
+  {
+    "name": "Arkadiko Protocol",
+    "url": "https://github.com/arkadiko-dao/arkadiko",
+    "description": "Stable coin (USDA) based on self-repaying loans."
+  },
+  {
+    "name": "Zest Protocol",
+    "url": "https://www.zestprotocol.com/",
+    "description": "Decentralized borrowing and lending on Bitcoin. Currently only on Testnet."
+  },
+  {
+    "name": "Stacks Degens",
+    "url": "https://stacksdegens.com",
+    "description": "A car racing game with retro graphics enabled through NFTs."
+  },
+  {
+    "name": "Project Indigo",
+    "url": "https://www.projectindigonft.com",
+    "description": "An interactive story and RPG experience."
+  },
+  {
+    "name": "Lock Stacks",
+    "url": "https://lockstacks.com",
+    "description": "App to stack Stacks token directly or with a pool."
+  },
+  {
+    "name": "Friedger pool",
+    "url": "https://pool.friedger.de/",
+    "description": "Community stacking pool with no fees."
+  },
+  {
+    "name": "PlanBetter pool",
+    "url": "https://planbetter.org/",
+    "description": "Stacking pool with Bitcoin rewards."
+  },
+  {
+    "name": "Xverse pool",
+    "url": "https://pool.xverse.app/",
+    "description": "Stacking pool built into Xverse mobile app."
+  },
+  {
+    "name": "Clarinet",
+    "url": "https://github.com/hirosystems/clarinet",
+    "description": "Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts."
+  },
+  {
+    "name": "Clariform",
+    "url": "https://github.com/njordhov/clariform",
+    "description": "Linter and formatter for Clarity."
+  },
+  {
+    "name": "Clarigen",
+    "url": "https://github.com/obylabs/clarigen",
+    "description": "A tool for writing TypeScript code that interacts with Clarity smart contracts."
+  },
+  {
+    "name": "clarity.tools",
+    "url": "https://clarity.tools",
+    "description": "In-browser Clarity REPL."
+  },
+  {
+    "name": "ClarityGPT Prompt",
+    "url": "https://claritygpt.com/",
+    "description": "Writing smart contracts with a chat bot."
+  },
+  {
+    "name": "Hiro Platform",
+    "url": "https://platform.hiro.so/",
+    "description": "In-browser IDE."
+  },
+  {
+    "name": "Source of Clarity",
+    "url": "https://source-of-clarity.com",
+    "description": "Listing of all deployed Clarity contracts on mainnet with some comments."
+  },
+  {
+    "name": "Example Contracts",
+    "url": "https://github.com/hirosystems/clarity-examples",
+    "description": "A collection of sample smart contracts to serve as a starting point for writing your own."
+  },
+  {
+    "name": "Audited Example Smart Contracts",
+    "url": "https://github.com/clarity-lang/book/tree/main/projects",
+    "description": "Another collection of smart contract examples, these have been audited for security."
+  },
+  {
+    "name": "uint256",
+    "url": "https://github.com/KStasi/clarity-uint256-lib",
+    "description": "A library for converting values into 256-bits."
+  },
+  {
+    "name": "clarity-bitcoin",
+    "url": "https://github.com/friedger/clarity-bitcoin",
+    "description": "A library to verify Bitcoin transactions."
+  },
+  {
+    "name": "CityCoin",
+    "url": "https://github.com/citycoins/citycoin",
+    "description": "An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities."
+  },
+  {
+    "name": "SWAPR",
+    "url": "https://github.com/psq/swapr",
+    "description": "A Uniswap-like implementation on Stacks 2.0 and Clarity."
+  },
+  {
+    "name": "FLEXR",
+    "url": "https://github.com/psq/flexr",
+    "description": "An interpretation of Ampleforth for Stacks."
+  },
+  {
+    "name": "ClarityDAO",
+    "url": "https://github.com/friedger/clarity-dao",
+    "description": "A conversion of Moloch DAO in Clarity."
+  },
+  {
+    "name": "NFT Marketplace",
+    "url": "https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar",
+    "description": "Clarity smart contract for a marketplace of tradable assets."
+  },
+  {
+    "name": "StackStarter",
+    "url": "https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar",
+    "description": "Clarity smart contract for crowdfunding."
+  },
+  {
+    "name": "Lightning Swaps",
+    "url": "https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar",
+    "description": "Fraud-proof swaps using Lightning Network."
+  },
+  {
+    "name": "Election Voting",
+    "url": "https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar",
+    "description": "Basic voting for candidates using Clarity."
+  },
+  {
+    "name": "DualX",
+    "url": "https://github.com/westridgeblockchain/dualX",
+    "description": "A collection of Clarity contracts that implement a DeFi ecosystem for exchanges."
+  },
+  {
+    "name": "ExecutorDAO",
+    "url": "https://github.com/MarvinJanssen/executor-dao",
+    "description": "A Clarity framework for building DAO functionality into your smart contracts."
+  },
+  {
+    "name": "Digital Will",
+    "url": "https://github.com/LoRdSoban/Cryptonomers",
+    "description": "Conditional fund transfers."
+  },
+  {
+    "name": "Tofauti",
+    "url": "https://www.tofauti.net",
+    "description": "Collection of resources around NFTs on Stacks."
+  },
+  {
+    "name": "This is #1",
+    "url": "https://www.thisisnumberone.com",
+    "description": "The first professional NFT built on Bitcoin and the Stacks blockchain (contract)."
+  },
+  {
+    "name": "Nothing",
+    "url": "https://www.nothingtoken.com/",
+    "description": "A fungible token that does nothing (contract)."
+  },
+  {
+    "name": "Stacking Pools",
+    "url": "https://github.com/friedger/clarity-stacking-pools",
+    "description": "Wrapper contracts of PoX for stacking pools."
+  },
+  {
+    "name": "Stacks.js",
+    "url": "https://github.com/hirosystems/stacks.js",
+    "description": "Monorepo for JavaScript libraries for interacting with the Stacks blockchain."
+  },
+  {
+    "name": "micro-stacks",
+    "url": "https://github.com/fungible-systems/micro-stacks/",
+    "description": "Monorepo for JavaScript libraries for interacting with the Stacks blockchain."
+  },
+  {
+    "name": "@stacks/cli",
+    "url": "https://github.com/hirosystems/stacks.js/tree/master/packages/cli",
+    "description": "Command line interface for interacting with auth, storage, and transactions."
+  },
+  {
+    "name": "CompassDB",
+    "url": "https://github.com/eder-ai/compass-db",
+    "description": "A library for managing advanced collections in Gaia storage."
+  },
+  {
+    "name": "lens-file-source",
+    "url": "https://gitlab.com/MyLens/lens-file-source",
+    "description": "File storage abstraction through mechanisms like caching, transactions, and JSON map aggregation for Gaia."
+  },
+  {
+    "name": "GaiaDown",
+    "url": "https://github.com/AcidLeroy/gaiadown-ts",
+    "description": "Gaia storage backend for LevelUp."
+  },
+  {
+    "name": "Stacks API",
+    "url": "https://www.hiro.so/stacks-api",
+    "description": "Hosted API to interact directly with the blockchain to query information, broadcast transactions, and scale your projects on Stacks."
+  },
+  {
+    "name": "Quicknode",
+    "url": "https://www.quicknode.com/chains/stx",
+    "description": "Hosted ednpoint to quickly and easily connect to Stacks using Quicknode."
+  },
+  {
+    "name": "Self-Hosted Render",
+    "url": "https://github.com/stacksfoundation/render-stacks",
+    "description": "One-click deploy tool to self-host a Stacks node on Render."
+  },
+  {
+    "name": "Self-Hosted Digital Ocean",
+    "url": "https://marketplace.digitalocean.com/apps/stacks-blockchain",
+    "description": "Digital Ocean droplet for running a Stacks node."
+  },
+  {
+    "name": "Self-Hosted Docker",
+    "url": "https://github.com/stacks-network/stacks-blockchain-docker",
+    "description": "Tool to run a self-hosted Stacks node with Docker."
+  },
+  {
+    "name": "Official Stacks documentation",
+    "url": "https://docs.stacks.co/",
+    "description": "Documentation and developer tutorials for learning"
+  },
+  {
+    "name": "Hiro documentation",
+    "url": "https://docs.hiro.so/",
+    "description": "Documentation focused on developers."
+  },
+  {
+    "name": "Stacks 101",
+    "url": "https://stacks101.com",
+    "description": "Community curated STX knowledge."
+  },
+  {
+    "name": "Clarity 101",
+    "url": "https://youtu.be/lXJutQqDq3w",
+    "description": "Learn the basics of Clarity's design principles."
+  },
+  {
+    "name": "Developer Registry 101",
+    "url": "https://www.crowdcast.io/e/clarity-program",
+    "description": "Learn how to build a Clarity smart contract from scratch."
+  },
+  {
+    "name": "How Clarity Prevents Common Smart Contract Vulnerabilities",
+    "url": "https://www.youtube.com/watch?v=VYXhrwPsBws",
+    "description": "Explanation of Clarity's security princples."
+  },
+  {
+    "name": "Proof of Transfer Whitepaper Reading with Muneeb Ali",
+    "url": "https://www.youtube.com/watch?v=NY_eUrIcWOY&t=3s",
+    "description": "Overview of the Proof of Transfer (PoX) whitepaper from the author."
+  },
+  {
+    "name": "Web3 for Bitcoin",
+    "url": "https://www.crowdcast.io/e/web3-for-bitcoin/",
+    "description": "Overview of Stacks, the problem it solves, how it brings smart contract functionality to Bitcoin, and how to start building on it."
+  },
+  {
+    "name": "Why Build on Stacks",
+    "url": "https://www.youtube.com/watch?v=WaTMCremGwE",
+    "description": "An overview of why web3 developers might want to build on Stacks over other blockchain protocols."
+  },
+  {
+    "name": "Built on Bitcoin: An Introduction to Full-Stack Web3 Development with Stacks",
+    "url": "https://dev.to/stacks/built-on-bitcoin-an-introduction-to-full-stack-web3-development-with-stacks-me9",
+    "description": "A high-level overview of building full-stack applications with Stacks."
+  },
+  {
+    "name": "Understanding Stacks Post Conditions",
+    "url": "https://dev.to/stacks/understanding-stacks-post-conditions-e65",
+    "description": "A guide to understanding and working with Post Conditions in Stacks."
+  },
+  {
+    "name": "Test-Driven Stacks Development with Clarinet",
+    "url": "https://dev.to/stacks/test-driven-stacks-development-with-clarinet-2e4i",
+    "description": "A tutorial showing how to utilize Clarinet for testing and TDD."
+  },
+  {
+    "name": "Build a DEX with Stacks",
+    "url": "https://www.pointer.gg/tutorials/build-a-dex-with-stacks/56abb3a4-05c1-4608-b096-f82189e9f759",
+    "description": "An extensive introduction to working with Stacks by building a full-stack decentralized exchange."
+  },
+  {
+    "name": "Build a Stacks app with Remix",
+    "url": "https://micro-stacks.dev/guides/with-remix",
+    "description": "How to create a server-side rendered Stacks app using the Remix JS framework and Micro-Stacks."
+  },
+  {
+    "name": "Build a Stacks app with Next.js",
+    "url": "https://micro-stacks.dev/guides/with-nextjs",
+    "description": "Similar to the Remix tutorial above, this one utilizing Next.js and Micro-Stacks."
+  },
+  {
+    "name": "Creating a Voting Contract",
+    "url": "https://www.clearness.dev/01-voting-clarity-smart-contract/01-getting-started",
+    "description": "A multi-part series showing how to use Clarity to create a simple voting smart contract."
+  },
+  {
+    "name": "Building an NFT with Stacks and Clarity",
+    "url": "https://blog.developerdao.com/building-an-nft-with-stacks-and-clarity",
+    "description": "Utilize the SIP-009 standard to create an NFT using Clarity."
+  },
+  {
+    "name": "Order Book Contract Walkthrough",
+    "url": "https://byzantion.hiro.so/",
+    "description": "Walkthrough of an order book smart contract built with Clarity."
+  },
+  {
+    "name": "NFT Tutorial",
+    "url": "https://docs.hiro.so/tutorials/clarity-nft",
+    "description": "Create an NFT with Clarity."
+  },
+  {
+    "name": "Clarity of Mind",
+    "url": "https://book.clarity-lang.org/",
+    "description": "Writing productive smart contracts that are predictable. CC BY-SA 4.0"
+  },
+  {
+    "name": "Clarity Universe",
+    "url": "https://clarity-lang.org/universe",
+    "description": "A comprehensive Clarity development course, offered as both a self-paced course or as a 6-week guided cohort."
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.gg/zrvWsQC",
+    "description": "Stacks ecosystem Discord."
+  },
+  {
+    "name": "Twitter",
+    "url": "https://twitter.com/stacks",
+    "description": "Stacks ecosystem Twitter."
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/c/Blockstack",
+    "description": "Stacks ecosystem YouTube."
+  },
+  {
+    "name": "Official Stacks Forum",
+    "url": "https://forum.stacks.org/",
+    "description": "Stacks community forum."
+  },
+  {
+    "name": "r/stacks",
+    "url": "https://www.reddit.com/r/stacks",
+    "description": "Stacks subreddit."
+  }
+]

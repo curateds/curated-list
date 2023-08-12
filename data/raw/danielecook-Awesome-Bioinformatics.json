@@ -1,0 +1,877 @@
+[
+  {
+    "name": "Bioperl",
+    "url": "https://github.com/bioperl/bioperl-live",
+    "description": "International association of users & developers of open source Perl tools for bioinformatics, genomics and life sciences. [ paper-2002 | web ]"
+  },
+  {
+    "name": "Bioconductor",
+    "url": "https://github.com/Bioconductor",
+    "description": "A plethora of tools for analysis and comprehension of high-throughput genomic data, including 1500+ software packages. [ paper-2004 | web ]"
+  },
+  {
+    "name": "Biopython",
+    "url": "https://github.com/biopython/biopython",
+    "description": "Freely available tools for biological computing in Python, with included cookbook, packaging and thorough documentation. Part of the Open Bioinformatics Foundation. Contains the very useful Entrez package for API access to the NCBI databases. [ paper-2009 | web ]"
+  },
+  {
+    "name": "Bioconda",
+    "url": "https://github.com/bioconda",
+    "description": "A channel for the conda package manager specializing in bioinformatics software. Includes a repository with 3000+ ready-to-install (with conda install) bioinformatics packages. [ paper-2018 | web ]"
+  },
+  {
+    "name": "BioJulia",
+    "url": "https://github.com/BioJulia",
+    "description": "Bioinformatics and computational biology infastructure for the Julia programming language. [ web ]"
+  },
+  {
+    "name": "Rust-Bio",
+    "url": "https://github.com/rust-bio/rust-bio",
+    "description": "Rust implementations of algorithms and data structures useful for bioinformatics. [ paper-2016 ]"
+  },
+  {
+    "name": "SeqAn",
+    "url": "https://github.com/seqan/seqan3",
+    "description": "The modern C++ library for sequence analysis."
+  },
+  {
+    "name": "(Poly)merase",
+    "url": "https://github.com/TimothyStiles/poly",
+    "description": "A Go library and command line utility for engineering organisms."
+  },
+  {
+    "name": "Biocaml",
+    "url": "https://github.com/biocaml/biocaml",
+    "description": "Biocaml aims to be a high-performance user-friendly library for Bioinformatics."
+  },
+  {
+    "name": "GGD",
+    "url": "https://github.com/gogetdata/ggd-cli",
+    "description": "Go Get Data; A command line interface for obtaining genomic data. [ web ]"
+  },
+  {
+    "name": "SRA-Explorer",
+    "url": "https://github.com/ewels/sra-explorer",
+    "description": "Easily get SRA download links and other information. [ web ]"
+  },
+  {
+    "name": "Genozip",
+    "url": "https://github.com/divonlan/genozip",
+    "description": "A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). [ web | paper-2021 ]"
+  },
+  {
+    "name": "Bioinformatics One Liners",
+    "url": "https://github.com/stephenturner/oneliners",
+    "description": "Git repo of useful single line commands."
+  },
+  {
+    "name": "BioNode",
+    "url": "https://github.com/bionode/bionode",
+    "description": "Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows. [ web ]"
+  },
+  {
+    "name": "bioSyntax",
+    "url": "https://github.com/bioSyntax/bioSyntax",
+    "description": "Syntax Highlighting for Computational Biology file formats (SAM, VCF, GTF, FASTA, PDB, etc...) in vim/less/gedit/sublime. [ paper-2018 | web ]"
+  },
+  {
+    "name": "CSVKit",
+    "url": "https://github.com/wireservice/csvkit",
+    "description": "Utilities for working with CSV/Tab-delimited files. [ web ]"
+  },
+  {
+    "name": "csvtk",
+    "url": "https://github.com/shenwei356/csvtk",
+    "description": "Another cross-platform, efficient, practical and pretty CSV/TSV toolkit. [ web ]"
+  },
+  {
+    "name": "datamash",
+    "url": "https://git.savannah.gnu.org/gitweb/?p=datamash.git",
+    "description": "Data transformations and statistics. [ web ]"
+  },
+  {
+    "name": "easy_qsub",
+    "url": "https://github.com/shenwei356/easy_qsub",
+    "description": "Easily submitting PBS jobs with script template. Multiple input files supported."
+  },
+  {
+    "name": "Here",
+    "url": "https://www.biostars.org/p/63816/",
+    "description": "General parallelizer that runs jobs in parallel on a single multi-core machine. Here are some example scripts using GNU Parallel. [ web ]"
+  },
+  {
+    "name": "grabix",
+    "url": "https://github.com/arq5x/grabix",
+    "description": "A wee tool for random access into BGZF files."
+  },
+  {
+    "name": "gsort",
+    "url": "https://github.com/brentp/gsort",
+    "description": "Sort genomic files according to a specified order."
+  },
+  {
+    "name": "tabix",
+    "url": "https://github.com/samtools/tabix",
+    "description": "Table file index. [ paper-2011 ]"
+  },
+  {
+    "name": "wormtable",
+    "url": "https://github.com/wormtable/wormtable",
+    "description": "Write-once-read-many table for large datasets."
+  },
+  {
+    "name": "zindex",
+    "url": "https://github.com/mattgodbolt/zindex",
+    "description": "Create an index on a compressed text file."
+  },
+  {
+    "name": "BigDataScript",
+    "url": "https://github.com/pcingola/BigDataScript",
+    "description": "A cross-system scripting language for working with big data pipelines in computer systems of different sizes and capabilities. [ paper-2014 | web ]"
+  },
+  {
+    "name": "Bpipe",
+    "url": "https://github.com/ssadedin/bpipe",
+    "description": "A small language for defining pipeline stages and linking them together to make pipelines. [ web ]"
+  },
+  {
+    "name": "Common Workflow Language",
+    "url": "https://github.com/common-workflow-language/common-workflow-language",
+    "description": "a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments. [ web ]"
+  },
+  {
+    "name": "Cromwell",
+    "url": "https://github.com/broadinstitute/cromwell",
+    "description": "A Workflow Management System geared towards scientific workflows. [ web ]"
+  },
+  {
+    "name": "Galaxy",
+    "url": "https://github.com/galaxyproject",
+    "description": "a popular open-source, web-based platform for data intensive biomedical research. Has several features, from data analysis to workflow management to visualization tools. [ paper-2018 | web ]"
+  },
+  {
+    "name": "Nextflow",
+    "url": "https://github.com/nextflow-io/nextflow",
+    "description": "A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner. [ paper-2018 | web ]"
+  },
+  {
+    "name": "redun",
+    "url": "https://github.com/insitro/redun",
+    "description": "A python-based workflow manager."
+  },
+  {
+    "name": "Ruffus",
+    "url": "https://github.com/cgat-developers/ruffus",
+    "description": "Computation Pipeline library for python widely used in science and bioinformatics. [ paper-2010 | web ]"
+  },
+  {
+    "name": "SciPipe",
+    "url": "https://github.com/scipipe/scipipe",
+    "description": "Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output [ paper-2019 | web ]"
+  },
+  {
+    "name": "SeqWare",
+    "url": "https://github.com/SeqWare/seqware",
+    "description": "Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments. [ paper-2010 | web ]"
+  },
+  {
+    "name": "Snakemake",
+    "url": "https://bitbucket.org/snakemake",
+    "description": "A workflow management system in Python that aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment. [ paper-2018 | web ]"
+  },
+  {
+    "name": "Workflow Descriptor Language",
+    "url": "https://github.com/broadinstitute/wdl",
+    "description": "Workflow standard developed by the Broad. [ web ]"
+  },
+  {
+    "name": "Awesome-Pipeline",
+    "url": "https://github.com/pditommaso/awesome-pipeline",
+    "description": "A list of pipeline resources."
+  },
+  {
+    "name": "Bactopia",
+    "url": "https://github.com/bactopia/bactopia/",
+    "description": "A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. [ web ]"
+  },
+  {
+    "name": "Bacannot",
+    "url": "https://github.com/fmalmeida/bacannot",
+    "description": "A generic but comprehensive bacterial annotation pipeline, built with Nextflow, with nice graphical options for investigating results. [ web ]"
+  },
+  {
+    "name": "bcbio-nextgen",
+    "url": "https://github.com/chapmanb/bcbio-nextgen",
+    "description": "Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ web ]"
+  },
+  {
+    "name": "R-Peridot",
+    "url": "https://github.com/pentalpha/r-peridot",
+    "description": "Customizable pipeline for differential expression analysis with an intuitive GUI. [ web ]"
+  },
+  {
+    "name": "ngs-preprocess",
+    "url": "https://github.com/fmalmeida/ngs-preprocess",
+    "description": "A pipeline for preprocessing short and long sequencing reads, built with Nextflow. [ web ]"
+  },
+  {
+    "name": "AfterQC",
+    "url": "https://github.com/OpenGene/AfterQC",
+    "description": "Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. [ paper-2017 ]"
+  },
+  {
+    "name": "FastQC",
+    "url": "https://github.com/s-andrews/FastQC",
+    "description": "A quality control tool for high throughput sequence data. [ web ]"
+  },
+  {
+    "name": "Fastqp",
+    "url": "https://github.com/mdshw5/fastqp",
+    "description": "FASTQ and SAM quality control using Python."
+  },
+  {
+    "name": "Fastx Tookit",
+    "url": "https://github.com/agordon/fastx_toolkit",
+    "description": "FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities. [ web ]"
+  },
+  {
+    "name": "MultiQC",
+    "url": "https://github.com/ewels/MultiQC",
+    "description": "Aggregate results from bioinformatics analyses across many samples into a single report. [ paper-2016 | web ]"
+  },
+  {
+    "name": "SeqFu",
+    "url": "https://github.com/telatin/seqfu2",
+    "description": "Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. [ paper-2021 | web ]"
+  },
+  {
+    "name": "SeqKit",
+    "url": "https://github.com/shenwei356/seqkit",
+    "description": "A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. [ paper-2016 | web ]"
+  },
+  {
+    "name": "seqmagick",
+    "url": "https://github.com/fhcrc/seqmagick",
+    "description": "file format conversion in Biopython in a convenient way. [ web ]"
+  },
+  {
+    "name": "Seqtk",
+    "url": "https://github.com/lh3/seqtk",
+    "description": "Toolkit for processing sequences in FASTA/Q formats."
+  },
+  {
+    "name": "smof",
+    "url": "https://github.com/incertae-sedis/smof",
+    "description": "UNIX-style FASTA manipulation tools."
+  },
+  {
+    "name": "Hail",
+    "url": "https://github.com/hail-is/hail",
+    "description": "Scalable genomic analysis."
+  },
+  {
+    "name": "GLNexus",
+    "url": "https://github.com/dnanexus-rnd/GLnexus",
+    "description": "Scalable gVCF merging and joint variant calling for population sequencing projects. [ paper-2018 ]"
+  },
+  {
+    "name": "Bowtie 2",
+    "url": "https://github.com/BenLangmead/bowtie2",
+    "description": "An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. [ paper-2012 | web ]"
+  },
+  {
+    "name": "BWA",
+    "url": "https://github.com/lh3/bwa",
+    "description": "Burrow-Wheeler Aligner for pairwise alignment between DNA sequences."
+  },
+  {
+    "name": "WFA",
+    "url": "https://github.com/smarco/WFA",
+    "description": "the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment [ paper-2020 ]"
+  },
+  {
+    "name": "Parasail",
+    "url": "https://github.com/jeffdaily/parasail",
+    "description": "SIMD C library for global, semi-global, and local pairwise sequence alignments [ paper-2016 ]"
+  },
+  {
+    "name": "MUMmer",
+    "url": "https://github.com/mummer4/mummer",
+    "description": " A system for rapidly aligning entire genomes, whether in complete or draft form. [ paper-1999 | paper-2002 | paper-2004 | web ]"
+  },
+  {
+    "name": "DIAMOND",
+    "url": "https://github.com/bbuchfink/diamond",
+    "description": "An ultrafast protein aligner for blastp and blastx like searches. [ paper-2021 ]"
+  },
+  {
+    "name": "POA",
+    "url": "https://github.com/ljdursi/poapy",
+    "description": "Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. [ paper-2002 ]"
+  },
+  {
+    "name": "MMseqs2",
+    "url": "https://github.com/soedinglab/MMseqs2",
+    "description": "Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. [ paper-2017 | paper-2018 ]"
+  },
+  {
+    "name": "Cufflinks",
+    "url": "https://github.com/cole-trapnell-lab/cufflinks",
+    "description": "Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. [ paper-2010 ]"
+  },
+  {
+    "name": "RSEM",
+    "url": "https://github.com/deweylab/RSEM",
+    "description": "A software package for estimating gene and isoform expression levels from RNA-Seq data. [ paper-2011 | web ]"
+  },
+  {
+    "name": "DeepVariant",
+    "url": "https://github.com/google/deepvariant",
+    "description": "Deep learning-based variant caller [ paper-2018 ]"
+  },
+  {
+    "name": "freebayes",
+    "url": "https://github.com/ekg/freebayes",
+    "description": "Bayesian haplotype-based polymorphism discovery and genotyping. [ web ]"
+  },
+  {
+    "name": "GATK",
+    "url": "https://github.com/broadgsa/gatk",
+    "description": "Variant Discovery in High-Throughput Sequencing Data. [ web ]"
+  },
+  {
+    "name": "Octopus",
+    "url": "https://github.com/luntergroup/octopus",
+    "description": "A polymorphic bayesian genotyping model with wide applicability. [ paper-2021 ]"
+  },
+  {
+    "name": "bcftools",
+    "url": "https://github.com/samtools/bcftools",
+    "description": "samtools/bcftools are a suite of tools for manipulating NGS data and can be used to call variants. [ paper-2009 | web ]"
+  },
+  {
+    "name": "Delly",
+    "url": "https://github.com/dellytools/delly",
+    "description": "Structural variant discovery by integrated paired-end and split-read analysis. [ paper-2012 ]"
+  },
+  {
+    "name": "lumpy",
+    "url": "https://github.com/arq5x/lumpy-sv",
+    "description": "lumpy: a general probabilistic framework for structural variant discovery. [ paper-2014 ]"
+  },
+  {
+    "name": "manta",
+    "url": "https://github.com/Illumina/manta",
+    "description": "Structural variant and indel caller for mapped sequencing data. [ paper-2015 ]"
+  },
+  {
+    "name": "gridss",
+    "url": "https://github.com/PapenfussLab/gridss",
+    "description": "GRIDSS: the Genomic Rearrangement IDentification Software Suite. [ paper-2017 ]"
+  },
+  {
+    "name": "smoove",
+    "url": "https://github.com/brentp/smoove",
+    "description": "structural variant calling and genotyping with existing tools, but,smoothly."
+  },
+  {
+    "name": "Bamtools",
+    "url": "https://github.com/pezmaster31/bamtools",
+    "description": "Collection of tools for working with BAM files. [ paper-2011 ]"
+  },
+  {
+    "name": "bam toolbox",
+    "url": "https://github.com/AndersenLab/bam-toolbox"
+  },
+  {
+    "name": "mergesam",
+    "url": "https://github.com/DarwinAwardWinner/mergesam",
+    "description": "Automate common SAM & BAM conversions."
+  },
+  {
+    "name": "mosdepth",
+    "url": "https://github.com/brentp/mosdepth",
+    "description": "fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing. [ paper-2017 ]"
+  },
+  {
+    "name": "SAMstat",
+    "url": "https://github.com/TimoLassmann/samstat",
+    "description": "Displaying sequence statistics for next-generation sequencing. [ paper-2010 | web ]"
+  },
+  {
+    "name": "Somalier",
+    "url": "https://github.com/brentp/somalier",
+    "description": "Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. [ paper-2020 ]"
+  },
+  {
+    "name": "Telseq",
+    "url": "https://github.com/zd1/telseq",
+    "description": "Telseq is a tool for estimating telomere length from whole genome sequence data. [ paper-2014 ]"
+  },
+  {
+    "name": "bcftools",
+    "url": "https://github.com/samtools/bcftools",
+    "description": "Set of tools for manipulating VCF files. [ paper-2016 | paper-2017 | web ]"
+  },
+  {
+    "name": "vcfanno",
+    "url": "https://github.com/brentp/vcfanno",
+    "description": "Annotate a VCF with other VCFs/BEDs/tabixed files. [ paper-2016 ]"
+  },
+  {
+    "name": "vcflib",
+    "url": "https://github.com/vcflib/vcflib",
+    "description": "A C++ library for parsing and manipulating VCF files."
+  },
+  {
+    "name": "vcftools",
+    "url": "https://github.com/vcftools/vcftools",
+    "description": "VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst). [ paper-2011 ]"
+  },
+  {
+    "name": "AGAT",
+    "url": "https://github.com/NBISweden/AGAT",
+    "description": "Suite of tools to handle gene annotations in any GTF/GFF format. [ web ]"
+  },
+  {
+    "name": "gffutils",
+    "url": "https://github.com/daler/gffutils",
+    "description": "GFF and GTF file manipulation and interconversion. [ web ]"
+  },
+  {
+    "name": "BEDOPS",
+    "url": "https://bedops.readthedocs.io/en/latest/index.html",
+    "description": "The fast, highly scalable and easily-parallelizable genome analysis toolkit. [ paper-2012 ]"
+  },
+  {
+    "name": "Bedtools2",
+    "url": "https://github.com/arq5x/bedtools2",
+    "description": "A Swiss Army knife for genome arithmetic. [ paper-2010 | paper-2014 | web ]"
+  },
+  {
+    "name": "Bam Surgeon",
+    "url": "https://github.com/adamewing/bamsurgeon",
+    "description": "Tools for adding mutations to existing .bam files, used for testing mutation callers. [ web ]"
+  },
+  {
+    "name": "wgsim",
+    "url": "https://github.com/lh3/wgsim",
+    "description": "Comes with samtools! - Reads simulator. [ web ]"
+  },
+  {
+    "name": "SIFT",
+    "url": "https://github.com/teamdfir/sift",
+    "description": "Predicts whether an amino acid substitution affects protein function. [ paper-2003 | web ]"
+  },
+  {
+    "name": "SnpEff",
+    "url": "https://github.com/pcingola/SnpEff",
+    "description": "Genetic variant annotation and effect prediction toolbox. [ paper-2012 | web ]"
+  },
+  {
+    "name": "Ensembl VEP",
+    "url": "https://anaconda.org/bioconda/ensembl-vep",
+    "description": "The VEP determines the effect of your variants (SNPs, insertions, deletions, CNVs or structural variants) on genes, transcripts, and protein sequence, as well as regulatory regions. [ paper-2016 | web ]"
+  },
+  {
+    "name": "cruzdb",
+    "url": "https://github.com/brentp/cruzdb",
+    "description": "Pythonic access to the UCSC Genome database. [ paper-2013 ]"
+  },
+  {
+    "name": "pyensembl",
+    "url": "https://github.com/openvax/pyensembl",
+    "description": "Pythonic Access to the Ensembl database. [ web ]"
+  },
+  {
+    "name": "bioservices",
+    "url": "https://github.com/cokelaer/bioservices",
+    "description": "Access to Biological Web Services from Python. [ paper-2013 | web ]"
+  },
+  {
+    "name": "cyvcf",
+    "url": "https://github.com/arq5x/cyvcf",
+    "description": "A port of pyVCF using Cython for speed."
+  },
+  {
+    "name": "cyvcf2",
+    "url": "https://github.com/brentp/cyvcf2",
+    "description": "Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. [ paper-2017 | web ]"
+  },
+  {
+    "name": "pyBedTools",
+    "url": "https://github.com/daler/pybedtools",
+    "description": "Python wrapper for bedtools. [ paper-2011 | web ]"
+  },
+  {
+    "name": "pyfaidx",
+    "url": "https://github.com/mdshw5/pyfaidx",
+    "description": "Pythonic access to FASTA files."
+  },
+  {
+    "name": "pysam",
+    "url": "https://github.com/pysam-developers/pysam",
+    "description": "Python wrapper for samtools. [ web ]"
+  },
+  {
+    "name": "pyVCF",
+    "url": "https://github.com/jamescasbon/PyVCF",
+    "description": "A VCF Parser for Python. [ web ]"
+  },
+  {
+    "name": "SPAdes",
+    "url": "https://github.com/ablab/spades",
+    "description": "SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies."
+  },
+  {
+    "name": "SKESA",
+    "url": "https://github.com/ncbi/SKESA",
+    "description": "SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity."
+  },
+  {
+    "name": "Prokka",
+    "url": "https://github.com/tseemann/prokka",
+    "description": "Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations."
+  },
+  {
+    "name": "Bakta",
+    "url": "https://github.com/oschwengers/bakta",
+    "description": "Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis."
+  },
+  {
+    "name": "canu",
+    "url": "https://github.com/marbl/canu",
+    "description": "A single molecule sequence assembler for genomes large and small."
+  },
+  {
+    "name": "flye",
+    "url": "https://github.com/fenderglass/Flye",
+    "description": "De novo assembler for single molecule sequencing reads using repeat graphs."
+  },
+  {
+    "name": "hifiasm",
+    "url": "https://github.com/chhylp123/hifiasm",
+    "description": "A haplotype-resolved assembler for accurate Hifi reads."
+  },
+  {
+    "name": "wtdbg2",
+    "url": "https://github.com/ruanjue/wtdbg2",
+    "description": " A fuzzy Bruijn graph approach to long noisy reads assembly"
+  },
+  {
+    "name": "Squiggle",
+    "url": "https://github.com/Lab41/squiggle",
+    "description": "Easy-to-use DNA sequence visualization tool that turns FASTA files into browser-based visualizations. [ paper-2018 | web ]"
+  },
+  {
+    "name": "biodalliance",
+    "url": "https://github.com/dasmoth/dalliance",
+    "description": "Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF."
+  },
+  {
+    "name": "BioJS",
+    "url": "https://github.com/biojs/biojs",
+    "description": "BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies. [ paper-2014 | web ]"
+  },
+  {
+    "name": "Circleator",
+    "url": "https://github.com/jonathancrabtree/Circleator",
+    "description": "Flexible circular visualization of genome-associated data with BioPerl and SVG. [ paper-2014 ]"
+  },
+  {
+    "name": "DNAism",
+    "url": "https://github.com/drio/dnaism",
+    "description": "Horizon chart D3-based JavaScript library for DNA data. [ paper-2016 | web ]"
+  },
+  {
+    "name": "IGV js",
+    "url": "https://github.com/igvteam/igv",
+    "description": "Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. [ paper-2019 | web ]"
+  },
+  {
+    "name": "Island Plot",
+    "url": "https://github.com/lairdm/islandplot",
+    "description": "D3 JavaScript based genome viewer. Constructs SVGs. [ paper-2015 ]"
+  },
+  {
+    "name": "JBrowse",
+    "url": "https://github.com/GMOD/jbrowse",
+    "description": "JavaScript genome browser that is highly customizable via plugins and track customizations. [ paper-2016 | web ]"
+  },
+  {
+    "name": "PHAT",
+    "url": "https://github.com/chgibb/PHAT",
+    "description": "Point and click, cross platform suite for analysing and visualizing next-generation sequencing datasets. [ paper-2018 | web ]"
+  },
+  {
+    "name": "pileup.js",
+    "url": "https://github.com/hammerlab/pileup.js",
+    "description": "JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers. [ paper-2016 ]"
+  },
+  {
+    "name": "scribl",
+    "url": "https://github.com/chmille4/Scribl",
+    "description": "JavaScript library for drawing canvas-based gene diagrams. [ paper-2012 | web ]"
+  },
+  {
+    "name": "web",
+    "url": "https://lucidalign.com",
+    "description": "A modern sequence alignment viewer. [ web ]"
+  },
+  {
+    "name": "Circos",
+    "url": "https://github.com/vigsterkr/circos",
+    "description": "Perl package for circular plots, which are well suited for genomic rearrangements. [ paper-2009 | web ]"
+  },
+  {
+    "name": "paper-2015",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26227146",
+    "description": "An interactive web-based service of Circos. [ paper-2015 ]"
+  },
+  {
+    "name": "paper-2014",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24526832",
+    "description": "R package for circular plots for omics data. [ paper-2014 | web ]"
+  },
+  {
+    "name": "paper-2014",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25540184",
+    "description": "A Java application for doing interactive work with circos plots. [ paper-2014 | web ]"
+  },
+  {
+    "name": "rCircos",
+    "url": "https://bitbucket.org/henryhzhang/rcircos/src/master/",
+    "description": "R package for circular plots. [ paper-2013 | web ]"
+  },
+  {
+    "name": "fujiplot",
+    "url": "https://github.com/mkanai/fujiplot",
+    "description": "A circos representation of multiple GWAS results. [ paper-2018 ]"
+  },
+  {
+    "name": "Entrez Direct: E-utilities on the UNIX command line",
+    "url": "http://www.ncbi.nlm.nih.gov/books/NBK179288/",
+    "description": "UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link."
+  },
+  {
+    "name": "What is a bioinformatician",
+    "url": "http://blog.fejes.ca/?p=2418"
+  },
+  {
+    "name": "Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies",
+    "url": "http://www.ploscompbiol.org/article/info:doi%2F10.1371%2Fjournal.pcbi.1003496"
+  },
+  {
+    "name": "Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology",
+    "url": "http://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/"
+  },
+  {
+    "name": "A 10-Step Guide to Party Conversation For Bioinformaticians",
+    "url": "https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104",
+    "description": "Here is a step-by-step guide on how to convey concepts to people not involved in the field when asked the question: 'So, what do you do?'"
+  },
+  {
+    "name": "A History Of Bioinformatics (In The Year 2039)",
+    "url": "https://www.youtube.com/watch?v=uwsjwMO-TEA",
+    "description": "A talk by C. Titus Brown on his take of looking back at bioinformatics from the year 2039. His notes for this talk can be found here."
+  },
+  {
+    "name": "A farewell to bioinformatics",
+    "url": "https://madhadron.com/science/farewell_to_bioinformatics.html",
+    "description": "A critical view of the state of bioinformatics."
+  },
+  {
+    "name": "A Series of Interviews with Notable Bioinformaticians",
+    "url": "http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians",
+    "description": "Dr. Keith Bradnam \"thought it might be instructive to ask a simple series of questions to a bunch of notable bioinformaticians to assess their feelings on the current state of bioinformatics research, and maybe get any tips they have about what has been useful to their bioinformatics careers.\""
+  },
+  {
+    "name": "Open Source Society University on Bioinformatics",
+    "url": "https://github.com/ossu/bioinformatics",
+    "description": "Solid path for those of you who want to complete a Bioinformatics course on your own time, for free, with courses from the best universities in the World."
+  },
+  {
+    "name": "Rosalind",
+    "url": "http://rosalind.info/",
+    "description": "Rosalind is a platform for learning bioinformatics through problem solving."
+  },
+  {
+    "name": "A guide for the lonely bioinformatician",
+    "url": "http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/",
+    "description": "This guide is aimed at bioinformaticians, and is meant to guide them towards better career development."
+  },
+  {
+    "name": "A brief history of bioinformatics",
+    "url": "https://doi.org/10.1093/bib/bby063"
+  },
+  {
+    "name": "Awesome-alternative-splicing",
+    "url": "https://github.com/HussainAther/awesome-alternative-splicing",
+    "description": "List of resources on alternative splicing including software, databases, and other tools."
+  },
+  {
+    "name": "Awesome AI-based Protein Design",
+    "url": "https://github.com/opendilab/awesome-AI-based-protein-design",
+    "description": "A collection of research papers for AI-based protein design."
+  },
+  {
+    "name": "Next-Generation Sequencing Technologies - Elaine Mardis (2014)",
+    "url": "https://youtu.be/6Is3W7JkFp8",
+    "description": "Elaine Mardis (2014) [1:34:35] - Excellent (technical) overview of next-generation and third-generation sequencing technologies, along with some applications in cancer research."
+  },
+  {
+    "name": "Annotated bibliography of *Seq assays",
+    "url": "https://liorpachter.wordpress.com/seq/",
+    "description": "List of ~100 papers on various sequencing technologies and assays ranging from transcription to transposable element discovery."
+  },
+  {
+    "name": "For all you seq... (PDF)",
+    "url": "http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf",
+    "description": "Massive infographic by Illumina on illustrating how many sequencing techniques work. Techniques cover protein-protein interactions, RNA transcription, RNA-protein interactions, RNA low-level detection, RNA modifications, RNA structure, DNA rearrangements and markers, DNA low-level detection, epigenetics, and DNA-protein interactions. References included."
+  },
+  {
+    "name": "Review papers on RNA-seq (Biostars)",
+    "url": "https://www.biostars.org/p/52152/",
+    "description": "Includes lots of seminal papers on RNA-seq and analysis methods."
+  },
+  {
+    "name": "Informatics for RNA-seq: A web resource for analysis on the cloud",
+    "url": "https://github.com/griffithlab/rnaseq_tutorial",
+    "description": "Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation."
+  },
+  {
+    "name": "RNA-seqlopedia",
+    "url": "http://rnaseq.uoregon.edu/",
+    "description": "RNA-seqlopedia provides an awesome overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment."
+  },
+  {
+    "name": "A survey of best practices for RNA-seq data analysis",
+    "url": "http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8",
+    "description": "Gives awesome roadmap for RNA-seq computational analyses, including challenges/obstacles and things to look out for, but also how you might integrate RNA-seq data with other data types."
+  },
+  {
+    "name": "Stories from the Supplement",
+    "url": "https://www.youtube.com/watch?v=5NiFibnbE8o",
+    "description": "Dr. Lior Pachter shares his stories from the supplement for well-known RNA-seq analysis software CuffDiff and Cufflinks and explains some of their methodologies."
+  },
+  {
+    "name": "List of RNA-seq Bioinformatics Tools",
+    "url": "https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools",
+    "description": "Extensive list on Wikipedia of RNA-seq bioinformatics tools needed in analysis, ranging from all parts of an analysis pipeline from quality control, alignment, splice analysis, and visualizations."
+  },
+  {
+    "name": "RNA-seq Analysis",
+    "url": "https://github.com/crazyhottommy/RNA-seq-analysis",
+    "description": "@crazyhottommy's notes on various steps and considerations when doing RNA-seq analysis."
+  },
+  {
+    "name": "ChIP-seq analysis notes from Tommy Tang",
+    "url": "https://github.com/crazyhottommy/ChIP-seq-analysis",
+    "description": "Resources on ChIP-seq data which include papers, methods, links to software, and analysis."
+  },
+  {
+    "name": "Current Topics in Genome Analysis 2016",
+    "url": "https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/",
+    "description": "Excellent series of fourteen lectures given at NIH about current topics in genomics ranging from sequence analysis, to sequencing technologies, and even more translational topics such as genomic medicine."
+  },
+  {
+    "name": "GenomeTV",
+    "url": "https://www.youtube.com/user/GenomeTV",
+    "description": "\"GenomeTV is NHGRI's collection of official video resources from lectures, to news documentaries, to full video collections of meetings that tackle the research, issues and clinical applications of genomic research.\""
+  },
+  {
+    "name": "Leading Strand",
+    "url": "https://www.youtube.com/user/LeadingStrand",
+    "description": "Keynote lectures from Cold Spring Harbor Laboratory (CSHL) Meetings. More on The Leading Strand."
+  },
+  {
+    "name": "Genomics, Big Data and Medicine Seminar Series",
+    "url": "https://www.youtube.com/playlist?list=PLqLDR0CTP9_pboZCk6gR9Zn4kW7h9XWJI",
+    "description": "\"Our seminars are dedicated to the critical intersection of GBM, delving into 'bleeding edge' technology and approaches that will deeply shape the future.\""
+  },
+  {
+    "name": "Rafael Irizarry's Channel",
+    "url": "https://www.youtube.com/user/RafalabChannel/videos",
+    "description": "Dr. Rafael Irizarry's lectures and academic talks on statistics for genomics."
+  },
+  {
+    "name": "NIH VideoCasting and Podcasting",
+    "url": "https://www.youtube.com/user/nihvcast",
+    "description": "\"NIH VideoCast broadcasts seminars, conferences and meetings live to a world-wide audience over the Internet as a real-time streaming video.\" Not exclusively genomics and bioinformatics video but many great talks on domain specific use of bioinformatics and genomics."
+  },
+  {
+    "name": "ACGT",
+    "url": "http://www.acgt.me/",
+    "description": "Dr. Keith Bradnam writes about this \"thoughts on biology, genomics, and the ongoing threat to humanity from the bogus use of bioinformatics acroynums.\""
+  },
+  {
+    "name": "Opiniomics",
+    "url": "http://www.opiniomics.org/",
+    "description": "Dr. Mick Watson write on bioinformatics, genomes, and biology."
+  },
+  {
+    "name": "Bits of DNA",
+    "url": "https://liorpachter.wordpress.com/",
+    "description": "Dr. Lior Pachter writes review and commentary on computational biology."
+  },
+  {
+    "name": "it is NOT junk",
+    "url": "http://www.michaeleisen.org/blog/",
+    "description": "Dr. Michael Eisen writes \"a blog about genomes, DNA, evolution, open science, baseball and other important things\""
+  },
+  {
+    "name": "#!/perl/bioinfo",
+    "url": "https://bioinfoperl.blogspot.com",
+    "description": "The Computational and Structural Biology group at EEAD-CSIC writes, in Spanish and English, about ideas and code for plant genomics, computational and structural biology problems."
+  },
+  {
+    "name": "The Leek group guide to genomics papers",
+    "url": "https://github.com/jtleek/genomicspapers/",
+    "description": "Expertly curated genomics papers to get up to speed on genomics, RNA-seq, statistics (used in genomics), software development, and more."
+  },
+  {
+    "name": "A New Online Computational Biology Curriculum",
+    "url": "https://doi.org/10.1371/journal.pcbi.1003662",
+    "description": "\"This article introduces a catalog of several hundred free video courses of potential interest to those wishing to expand their knowledge of bioinformatics and computational biology. The courses are organized into eleven subject areas modeled on university departments and are accompanied by commentary and career advice.\""
+  },
+  {
+    "name": "How Perl Saved the Human Genome Project",
+    "url": "http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html",
+    "description": "An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project."
+  },
+  {
+    "name": "Educational Papers from Nature Biotechnology and PLoS Computational Biology",
+    "url": "https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html",
+    "description": "Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics."
+  },
+  {
+    "name": "The PeerJ Bioinformatics Software Tools Collection",
+    "url": "https://peerj.com/collections/45-bioinformatics-software/",
+    "description": "Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ."
+  },
+  {
+    "name": "Bioinformatics (on Discord)",
+    "url": "https://discord.com/invite/3uxbPns",
+    "description": "a Discord server for general bioinformatics"
+  },
+  {
+    "name": "r-bioinformatics",
+    "url": "https://www.reddit.com/r/bioinformatics/comments/7ndwm1/rbioinformatics_slack_channel_and_an_open_call/",
+    "description": "the official Slack workspace of r/bioinformatics (send a direct message to apfejes on reddit)"
+  },
+  {
+    "name": "BioinformaticsGRX",
+    "url": "https://bioinformaticsgrx.es/",
+    "description": "A community of bioinformaticians based in Granada, Spain"
+  },
+  {
+    "name": "Comunidad de Desarolladores de Software en Bioinformática",
+    "url": "https://comunidadbioinfo.github.io/",
+    "description": "A community of bioinformaticians centered in Latin America"
+  },
+  {
+    "name": "COMBINE",
+    "url": "https://combine.org.au/",
+    "description": "An Austrialian group for bioinformatics students"
+  }
+]

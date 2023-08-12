@@ -1,0 +1,898 @@
+[
+  {
+    "name": "Announcing WSL2",
+    "url": "https://devblogs.microsoft.com/commandline/announcing-wsl-2/",
+    "description": "Microsoft blog announcing WSL2"
+  },
+  {
+    "name": "The new Windows subsystem for Linux architecture: a deep dive",
+    "url": "https://www.youtube.com/watch?v=lwhMThePdIo",
+    "description": "WSL2 presentation at Microsoft Build 2019"
+  },
+  {
+    "name": "WSL2-Linux-Kernel",
+    "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+    "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2."
+  },
+  {
+    "name": "Windows Subsystem for Linux Overview",
+    "url": "https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/"
+  },
+  {
+    "name": "WSL File System Support",
+    "url": "https://blogs.msdn.microsoft.com/wsl/2016/06/15/wsl-file-system-support/"
+  },
+  {
+    "name": "WSL System Calls",
+    "url": "https://blogs.msdn.microsoft.com/wsl/2016/06/08/wsl-system-calls/"
+  },
+  {
+    "name": "Windows and Ubuntu Interoperability",
+    "url": "https://blogs.msdn.microsoft.com/wsl/2016/10/19/windows-and-ubuntu-interoperability/"
+  },
+  {
+    "name": "WSL Antivirus and Firewall Compatibility",
+    "url": "https://blogs.msdn.microsoft.com/wsl/2016/11/01/wsl-antivirus-and-firewall-compatibility/"
+  },
+  {
+    "name": "WSL Release Notes",
+    "url": "https://docs.microsoft.com/en-us/windows/wsl/release-notes"
+  },
+  {
+    "name": "Windows Subsystem for Linux Documentation",
+    "url": "https://docs.microsoft.com/en-us/windows/wsl/about"
+  },
+  {
+    "name": "Windows Subsystem for Linux - Update",
+    "url": "https://www.youtube.com/watch?v=PP_T_m0UV9E",
+    "description": "Update from Microsoft Developer YouTube channel."
+  },
+  {
+    "name": "Windows for Linux Nerds",
+    "url": "https://blog.jessfraz.com/post/windows-for-linux-nerds/"
+  },
+  {
+    "name": "WSL1 Installation Guide",
+    "url": "https://docs.microsoft.com/en-us/windows/wsl/install",
+    "description": "Microsoft's official guide for WSL."
+  },
+  {
+    "name": "Windows Server Installation Guide",
+    "url": "https://docs.microsoft.com/en-us/windows/wsl/install-on-server",
+    "description": "Microsoft's official guide for Windows Server."
+  },
+  {
+    "name": "Windows-Subsystem-For-Linux-Setup",
+    "url": "https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup",
+    "description": "A basic guide for how to get setup with the WSL feature that is included with Windows 10. "
+  },
+  {
+    "name": "Everything You Can Do With Windows 10’s New Bash Shell",
+    "url": "https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/"
+  },
+  {
+    "name": "The Unix Workbench",
+    "url": "http://seankross.com/the-unix-workbench/",
+    "description": "A book for anyone to get started with Unix/Linux environments."
+  },
+  {
+    "name": "The Art of Command Line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line in one page. "
+  },
+  {
+    "name": "The Bash Academy",
+    "url": "https://guide.bash.academy/",
+    "description": "The Bash Academy is an initiative to promote the bash shell language and educate people on its use."
+  },
+  {
+    "name": "Awesome Command Line Apps",
+    "url": "https://github.com/herrbischoff/awesome-command-line-apps"
+  },
+  {
+    "name": "Epic Development Environment Using Windows Subsystem for Linux",
+    "url": "https://medium.com/@johnwoodruff91/epic-dev-environment-with-wsl-dc81e234ae61",
+    "description": "One developer's approach to their development environment using WSL1."
+  },
+  {
+    "name": "Far More Epic Development Environment using WSL2",
+    "url": "https://dev.to/johnbwoodruff/far-more-epic-development-environment-using-wsl-2-439g"
+  },
+  {
+    "name": "Setting Up a Programming Environment via Windows 10 Bash",
+    "url": "https://www.cs.odu.edu/~zeil/FAQs/Public/win10Bash/",
+    "description": "From the computer science department at Old Dominion University."
+  },
+  {
+    "name": "WSL as a Development Environment",
+    "url": "https://github.com/hsab/WSL-config",
+    "description": "From the computer science department at University of Utah. "
+  },
+  {
+    "name": "Using WSL and MobaXterm to Create a Linux Dev Environment on Windows",
+    "url": "https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows",
+    "description": "Another developer's approach using the third-party terminal MobaXterm."
+  },
+  {
+    "name": "Setting up my WSL Environment - Azure CLI, Docker and .NET",
+    "url": "http://tattoocoder.com/setting-up-my-wsl-environment-azure-cli-docker-and-net/",
+    "description": "Azure CLI, Docker and .NET"
+  },
+  {
+    "name": "ubuntu-win-boostrap",
+    "url": "https://github.com/seapagan/ubuntu-win-bootstrap",
+    "description": "A very simple bootstrap script to install some development basic tools on Debian/Ubuntu on WSL. "
+  },
+  {
+    "name": "Badass Terminal",
+    "url": "https://jessicadeen.com/badass-terminal-wsl-macos-and-ubuntu-dotfiles-update/"
+  },
+  {
+    "name": "We put Linux in your Windows",
+    "url": "https://www.youtube.com/watch?v=JZCPYWrTLTg",
+    "description": "YouTube talk by Windows kernel team member Sarah Cooley on WSL for Windows."
+  },
+  {
+    "name": "Setting Up Windows for Web Development",
+    "url": "https://blog.cloudboost.io/setting-up-windows-for-web-development-28483d245a82"
+  },
+  {
+    "name": "How to Install LAMP Stack Server on Windows Subsystem Linux",
+    "url": "https://medium.com/@ssharizal/how-to-install-lamp-stack-server-on-windows-subsystem-linux-wsl-windows-10-133419c22473"
+  },
+  {
+    "name": "CUDA drivers and toolkit",
+    "url": "https://developer.nvidia.com/cuda-toolkit"
+  },
+  {
+    "name": "Section 3",
+    "url": "https://docs.nvidia.com/cuda/wsl-user-guide/index.html"
+  },
+  {
+    "name": "Arduino setup checklist",
+    "url": "https://yanivpaz.com/2020-04-13-arduino-wsl1/",
+    "description": "Checklist to connect Arduino board from WSL 1."
+  },
+  {
+    "name": "programming",
+    "url": "https://www.codecademy.com"
+  },
+  {
+    "name": "Azure",
+    "url": "https://blogs.technet.microsoft.com/stefan_stranger/2018/03/08/installing-azure-cli-on-debian-gnulinux-for-wsl/"
+  },
+  {
+    "name": "Python",
+    "url": "https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/"
+  },
+  {
+    "name": "with Xfce, Gnome, KDE, or i3.",
+    "url": "https://github.com/NathanCastle/BootShellCredentialProvider"
+  },
+  {
+    "name": "OpenFOAM",
+    "url": "https://openfoam.org/download/windows-10/"
+  },
+  {
+    "name": "Ansible",
+    "url": "https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux"
+  },
+  {
+    "name": "pWSLinux+K8S: The Interop way",
+    "url": "https://medium.com/@hoxunn/wslinux-k8s-the-interop-way-2d98e5b88f08"
+  },
+  {
+    "name": "Vagrant and Windows Subsystem for Linux",
+    "url": "https://www.vagrantup.com/docs/other/wsl.html"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/store/productId/9NBLGGH4MSV6"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/store/productId/9N9TNGVNDL3Q"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/en-gb/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/en-us/p/app/9pn20msr04dw#activetab=pivot:overviewtab"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://apps.microsoft.com/store/detail/ubuntu-on-windows-community-preview/9P9Q5ZH1HRR0?hl=en-gb&gl=gb"
+  },
+  {
+    "name": "Installing Software",
+    "url": "https://help.ubuntu.com/community/InstallingSoftware"
+  },
+  {
+    "name": "Installing Software",
+    "url": "https://help.ubuntu.com/community/InstallingSoftware"
+  },
+  {
+    "name": "Ubuntu Server Guide",
+    "url": "https://help.ubuntu.com/lts/serverguide/index.html"
+  },
+  {
+    "name": "Ubuntu Community Previews",
+    "url": "https://ubuntu.com/blog/explore-whats-in-store-ubuntu-preview-on-wsl"
+  },
+  {
+    "name": "Issues and Feedback",
+    "url": "https://discourse.ubuntu.com/c/wsl2/27?_ga=2.263253898.784609326.1665083044-1177481074.1653602430"
+  },
+  {
+    "name": "Issues and Feedback",
+    "url": "https://discourse.ubuntu.com/c/wsl2/27?_ga=2.263253898.784609326.1665083044-1177481074.1653602430"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/store/productId/9MSVKQC78PK6"
+  },
+  {
+    "name": "Debian Reference",
+    "url": "https://www.debian.org/doc/manuals/debian-reference/"
+  },
+  {
+    "name": "Package Management",
+    "url": "https://www.debian.org/doc/manuals/debian-reference/ch02.en.html"
+  },
+  {
+    "name": "WSL Wiki page",
+    "url": "https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/en-us/p/opensuse-tumbleweed/9mssk2zxxn11"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/en-us/p/opensuse-leap-153/9n6j06bmcgt3"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/store/productId/9PMW35D7FNLX"
+  },
+  {
+    "name": "Managing Software with Command Line Tools",
+    "url": "https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-sw-cl.html"
+  },
+  {
+    "name": "OpenSUSE Reference",
+    "url": "https://doc.opensuse.org/documentation/leap/reference/html/book-reference/index.html"
+  },
+  {
+    "name": "SUSE Linux Enterprise Documentation",
+    "url": "https://documentation.suse.com/sles"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/store/productId/9PKR34TNCV07"
+  },
+  {
+    "name": "Kali Linux Official Documentation",
+    "url": "https://www.kali.org/kali-linux-documentation/"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/store/productId/9N6GDM4K2HNC"
+  },
+  {
+    "name": "Fedora Project Documentation",
+    "url": "https://docs.fedoraproject.org/"
+  },
+  {
+    "name": "Fedora Remix for WSL Homepage",
+    "url": "https://www.whitewaterfoundry.com/fedora-remix-for-wsl/"
+  },
+  {
+    "name": "Fedora Remix for WSL GitHub",
+    "url": "https://github.com/WhitewaterFoundry/WSLFedoraRemix"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://apps.microsoft.com/store/detail/pengwin/9NV1GV1PXZ6P"
+  },
+  {
+    "name": "Pengwin GitHub",
+    "url": "https://github.com/WhitewaterFoundry/Pengwin"
+  },
+  {
+    "name": "Pengwin Enterprise Homepage",
+    "url": "https://www.whitewaterfoundry.com/pengwin-enterprise"
+  },
+  {
+    "name": "Pengwin Enterprise GitHub",
+    "url": "https://github.com/WhitewaterFoundry/Pengwin-Enterprise"
+  },
+  {
+    "name": "Microsoft Store Link",
+    "url": "https://www.microsoft.com/store/productId/9N8LP0X93VCP"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/en-us/p/oracle-linux-79/9p7l0qwbsltk"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://www.microsoft.com/en-us/p/oracle-linux-85/9p06h18wxbvp#activetab=pivot:overviewtab"
+  },
+  {
+    "name": "Oracle Linux 7 Documentation",
+    "url": "https://docs.oracle.com/en/operating-systems/oracle-linux/7/"
+  },
+  {
+    "name": "Oracle Linux 8 Documentation",
+    "url": "https://docs.oracle.com/en/operating-systems/oracle-linux/8/"
+  },
+  {
+    "name": "Windows Store Link",
+    "url": "https://apps.microsoft.com/store/detail/almalinux-8-wsl/9NMD96XJJ19F"
+  },
+  {
+    "name": "miniwsl",
+    "url": "https://github.com/0xbadfca11/miniwsl",
+    "description": "A mini Linux distribution for WSL powered by busybox. "
+  },
+  {
+    "name": "ArchWSL",
+    "url": "https://github.com/yuk7/ArchWSL",
+    "description": "ArchLinux in WSL. "
+  },
+  {
+    "name": "AlpineWSL",
+    "url": "https://github.com/yuk7/AlpineWSL",
+    "description": "Alpine in WSL. "
+  },
+  {
+    "name": "windows-subsystem-linux-fedora",
+    "url": "https://gitlab.com/gbraad/windows-subsystem-for-linux-fedora",
+    "description": "Fedora in WSL."
+  },
+  {
+    "name": "WSLInstall",
+    "url": "https://github.com/Biswa96/WSLInstall",
+    "description": "Install any GNU/Linux distribution userspace in Windows Subsystem for Linux (WSL) with compressed RootFS tarballs, Docker containers, or ISO files. "
+  },
+  {
+    "name": "wsldl",
+    "url": "https://github.com/yuk7/wsldl",
+    "description": "General purpose WSL installer and launcher. "
+  },
+  {
+    "name": "WSL-Distribution-Switcher",
+    "url": "https://github.com/RoliSoft/WSL-Distribution-Switcher",
+    "description": "Scripts to replace the distribution behind WSL with any other Linux distribution published on Docker Hub. Includes alpine, CentOS, Fedora, Clear, and others. "
+  },
+  {
+    "name": "acme-wsl",
+    "url": "https://github.com/elrzn/acme-wsl",
+    "description": "Install acme / plan9port on Debian, Ubuntu, or Kali Linux distributions on WSL."
+  },
+  {
+    "name": "CentWSL",
+    "url": "https://github.com/yuk7/CentWSL",
+    "description": "CentOS as a WSL distro. "
+  },
+  {
+    "name": "RHWSL",
+    "url": "https://github.com/yosukes-dev/RHWSL",
+    "description": "Red Hat Universal Base Image as a WSL distro. If you have a Red Hat Subscription, you can register and subscribe the system and use it as RHEL. "
+  },
+  {
+    "name": "FedoraWSL",
+    "url": "https://github.com/yosukes-dev/FedoraWSL",
+    "description": "Fedora as a WSL distro. "
+  },
+  {
+    "name": "AmazonWSL",
+    "url": "https://github.com/yosukes-dev/AmazonWSL",
+    "description": "Amazon Linux as a WSL distro. "
+  },
+  {
+    "name": "GentooWSL",
+    "url": "https://github.com/imaandrew/GentooWSL",
+    "description": "Gentoo as a WSL distro. "
+  },
+  {
+    "name": "DevuanWSL",
+    "url": "https://github.com/VPraharsha03/DevuanWSL",
+    "description": "Devuan Linux as a WSL Distro. Devuan is a Debian variant without the complexities and dependencies of systemd. "
+  },
+  {
+    "name": "ManjaroWSL2",
+    "url": "https://github.com/sileshn/ManjaroWSL2",
+    "description": "Manjaro as a WSL2 distro based on wsldl. "
+  },
+  {
+    "name": "WSLackware",
+    "url": "https://github.com/Mohsens22/WSLackware",
+    "description": "Slackware as a WSL distro. "
+  },
+  {
+    "name": "X410",
+    "url": "https://token2shell.com/x410/",
+    "description": "X server for Windows 10 on the Microsoft Store. 💰"
+  },
+  {
+    "name": "VcXsrv",
+    "url": "https://sourceforge.net/projects/vcxsrv/",
+    "description": "X server for Windows with hardware acceleration compiled with Visual Studio."
+  },
+  {
+    "name": "GWSL",
+    "url": "https://www.microsoft.com/store/apps/9NL6KD1H33V3",
+    "description": "An X server for Windows 10 with an app launcher, distro manager, shortcut creator, and ssh launcher."
+  },
+  {
+    "name": "Xmanager",
+    "url": "https://www.netsarang.com/en/xmanager/",
+    "description": "X server for Windows from NetSarang. 💰"
+  },
+  {
+    "name": "Xming open-source version",
+    "url": "https://sourceforge.net/projects/xming/",
+    "description": "An older X server for Windows. Has not been updated since 2016."
+  },
+  {
+    "name": "Xming commercial version",
+    "url": "http://www.straightrunning.com/XmingNotes/",
+    "description": "The current version of Xming, that is updated monthly. Donate at least £10 to have access to it. 💰"
+  },
+  {
+    "name": "Cygwin/X",
+    "url": "https://x.cygwin.com",
+    "description": "Cygwin/X is a port of the X Window System to the Cygwin API layer for Windows."
+  },
+  {
+    "name": "Windows Terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new open-source Windows Terminal. "
+  },
+  {
+    "name": "wsltty",
+    "url": "https://github.com/mintty/wsltty",
+    "description": "Mintty as a terminal for WSL. "
+  },
+  {
+    "name": "wsl-terminal",
+    "url": "https://github.com/goreliu/wsl-terminal",
+    "description": "A terminal emulator for WSL, based on mintty, fatty and wslbridge. "
+  },
+  {
+    "name": "Tabby",
+    "url": "https://tabby.sh/",
+    "description": "A terminal for a more modern age. "
+  },
+  {
+    "name": "ConEmu",
+    "url": "https://conemu.github.io",
+    "description": "ConEmu aims to be handy, comprehensive, fast and reliable terminal where you may host any console application for the Windows command line, PowerShell, or WSL."
+  },
+  {
+    "name": "MobaXterm",
+    "url": "https://mobaxterm.mobatek.net",
+    "description": "Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more."
+  },
+  {
+    "name": "extraterm",
+    "url": "https://github.com/sedwards2009/extraterm",
+    "description": "Open source project to build a terminal emulator and expand it with new features to support modern workflows. "
+  },
+  {
+    "name": "Hyper",
+    "url": "https://hyper.is/",
+    "description": "A terminal built on web technologies. "
+  },
+  {
+    "name": "Terminator",
+    "url": "https://medium.com/@bhupathy/install-terminator-on-windows-with-wsl-2826591d2156",
+    "description": "Feature-rich tabbed terminal. Requires X server."
+  },
+  {
+    "name": "Alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "description": "A terminal emulator with focus on performance and simplicity."
+  },
+  {
+    "name": "Fluent Terminal",
+    "url": "https://github.com/felixse/FluentTerminal",
+    "description": "A Terminal Emulator based on UWP and web technologies."
+  },
+  {
+    "name": "Ansible-WSL",
+    "url": "https://github.com/Wintus/Ansible-WSL",
+    "description": "Provision WSL using Ansible. "
+  },
+  {
+    "name": "LxRunOffline",
+    "url": "https://github.com/DDoSolitary/LxRunOffline",
+    "description": "A full-featured utility for managing WSL. "
+  },
+  {
+    "name": "Raft WSL",
+    "url": "https://www.microsoft.com/store/apps/9MSMJQD017X7",
+    "description": "Raft is a Windows Subsystem for Linux (WSL) distribution manager in native C#/XAML. 💰"
+  },
+  {
+    "name": "WSL GUI Tool",
+    "url": "https://github.com/emeric-martineau/wsl-gui-tool",
+    "description": "A graphical tool to manage (run, stop, import, export...) WSL. "
+  },
+  {
+    "name": "WSL Distro Manager",
+    "url": "https://github.com/bostrot/wsl2-distro-manager",
+    "description": "GUI to manage, copy, distribute WSL distros. "
+  },
+  {
+    "name": "wslgit",
+    "url": "https://github.com/andy-5/wslgit",
+    "description": "Use git installed on WSL from Visual Studio Code on Windows. "
+  },
+  {
+    "name": "pinentry-wsl-ps1",
+    "url": "https://github.com/diablodale/pinentry-wsl-ps1",
+    "description": "Store passwords for gpg-agent in Windows Credential Manager "
+  },
+  {
+    "name": "wslexec",
+    "url": "https://github.com/int128/wslexec",
+    "description": "Execute Linux executables as .exe files on Windows. "
+  },
+  {
+    "name": "wsl-proxy",
+    "url": "https://github.com/watzon/wsl-proxy",
+    "description": "A collection of 'proxy' batch files that can be used to route requests to the WSL version of a command. "
+  },
+  {
+    "name": "wslpath",
+    "url": "https://github.com/laurent22/wslpath",
+    "description": "Easily convert Windows to WSL path names and vice-versa. "
+  },
+  {
+    "name": "wsl-open",
+    "url": "https://github.com/4U6U57/wsl-open",
+    "description": "Open files with xdg-open in WSL from Windows applications. "
+  },
+  {
+    "name": "OpenInWSL",
+    "url": "https://github.com/Opticos/OpenInWSL-Source",
+    "description": "Easily Make WSL Linux Apps Windows File Handlers. "
+  },
+  {
+    "name": "is-wsl for Node",
+    "url": "https://github.com/sindresorhus/is-wsl",
+    "description": "Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. "
+  },
+  {
+    "name": "wsl-gui-bins",
+    "url": "https://github.com/Konfekt/wsl-gui-bins",
+    "description": " Start common GUI applications under WSL as under Linux. "
+  },
+  {
+    "name": "xclip-xsel-WSL",
+    "url": "https://github.com/Konfekt/xclip-xsel-WSL",
+    "description": " Make xclip and xsel in WSL read and write on the Windows instead of the Linux clipboard."
+  },
+  {
+    "name": "vim-wsl-copy-paste",
+    "url": "https://github.com/Konfekt/vim-wsl-copy-paste",
+    "description": " Adds mappings in Vim to write and read on the Windows clipboard."
+  },
+  {
+    "name": "WslShortcut",
+    "url": "//github.com/HanabishiRecca/WslShortcut",
+    "description": "Run WSL commands directly in Windows. Also allows to use WSL git/node/etc. in Visual Studio Code or another software. Combines functionality of utilities like wslgit, wslnodejs, wslexec etc. with simpler usage. "
+  },
+  {
+    "name": "community.wsl.sdk",
+    "url": "https://github.com/Gitii/community.wsl.sdk",
+    "description": "SDK for Windows Subsystem for Linux for .NET 5, 6 and Standard 2.1 "
+  },
+  {
+    "name": "wslu",
+    "url": "https://github.com/wslutilities/wslu",
+    "description": "A collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL and creating your favorite linux GUI application shortcuts on Windows 10. "
+  },
+  {
+    "name": "wslpy",
+    "url": "https://github.com/wslutilities/wslpy",
+    "description": "A Python3 library for WSL specific tasks. "
+  },
+  {
+    "name": "ghc",
+    "url": "https://launchpad.net/~hvr/+archive/ubuntu/ghc-wsl",
+    "description": "A version of the Glasgow Haskell Compiler built and optimized for WSL and hosted in a PPA for Debian and Ubuntu-based WSL distros."
+  },
+  {
+    "name": "BootShellCredentialProvider",
+    "url": "https://github.com/NathanCastle/BootShellCredentialProvider",
+    "description": "BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. "
+  },
+  {
+    "name": "wsl-dotfiles",
+    "url": "https://github.com/Xyene/wsl-dotfiles",
+    "description": "Configuration files and scripts for creating an i3-based environment inside WSL. "
+  },
+  {
+    "name": "EnumWSL",
+    "url": "https://github.com/therealkenc/EnumWSL",
+    "description": "Enumerates installed WSL packages. "
+  },
+  {
+    "name": "WSL-DistroLauncher",
+    "url": "https://github.com/Microsoft/WSL-DistroLauncher",
+    "description": "Reference launcher app for developing your own WSL distribution Microsoft Store package. "
+  },
+  {
+    "name": "WSL_Reverse",
+    "url": "https://github.com/Biswa96/WSL_Reverse",
+    "description": "Reveal hidden COM interface between WSL and Lxss Manager Service. "
+  },
+  {
+    "name": "wslbridge",
+    "url": "https://github.com/rprichard/wslbridge",
+    "description": "wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. "
+  },
+  {
+    "name": "WSLInstall",
+    "url": "https://github.com/Biswa96/WSLInstall",
+    "description": "Install any Linux distribution userspace in WSL with compressed RootFS tarballs (tar.gz) or with Docker containers or with ISO files. "
+  },
+  {
+    "name": "cmd-colors-solarized",
+    "url": "https://github.com/neilpa/cmd-colors-solarized",
+    "description": "This is a solarized color scheme for the Windows command prompt that works in WSL."
+  },
+  {
+    "name": "weasel-pageant",
+    "url": "https://github.com/vuori/weasel-pageant",
+    "description": "An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux."
+  },
+  {
+    "name": "wsl2-ssh-pageant",
+    "url": "https://github.com/BlackReloaded/wsl2-ssh-pageant",
+    "description": "A bridge between Windows Pageant and WSL2."
+  },
+  {
+    "name": "WinCryptSSHAgent",
+    "url": "https://github.com/buptczq/WinCryptSSHAgent",
+    "description": "Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2."
+  },
+  {
+    "name": "Files",
+    "url": "https://github.com/files-community/Files",
+    "description": "A modern file explorer that supports WSL filesystem. "
+  },
+  {
+    "name": "easyWSL",
+    "url": "https://github.com/redcode-labs/easyWSL",
+    "description": "Use any Docker image as a WSL distro. "
+  },
+  {
+    "name": "setup-wsl",
+    "url": "https://github.com/Vampire/setup-wsl",
+    "description": "A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). "
+  },
+  {
+    "name": "Learn Windows Subsystem for Linux",
+    "url": "https://www.apress.com/gp/book/9781484260371",
+    "description": "A Practical Guide for Developers and IT Professionals"
+  },
+  {
+    "name": "Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration",
+    "url": "https://www.amazon.com/Hayden-Barnes-ebook/dp/B096TRZMW1"
+  },
+  {
+    "name": "Windows Subsystem for Linux 2 (WSL 2): Tips, Tricks and Techniques by Stuart Leeks",
+    "url": "https://www.amazon.co.uk/Windows-Subsystem-Linux-Tricks-Techniques/dp/1800562446/"
+  },
+  {
+    "name": "Windows Subsystem for Linux: Tactics, Mindset and Tips",
+    "url": "https://www.amazon.com/Windows-Subsystem-Linux-Tactics-Mindset/dp/1977718094"
+  },
+  {
+    "name": "WSL Official Documentation",
+    "url": "https://docs.microsoft.com/en-us/windows/wsl/"
+  },
+  {
+    "name": "WSL Blog",
+    "url": "https://blogs.msdn.microsoft.com/wsl"
+  },
+  {
+    "name": "Console Blog",
+    "url": "https://blogs.msdn.microsoft.com/commandline/"
+  },
+  {
+    "name": "WSL-Programs",
+    "url": "https://github.com/ethanhs/WSL-Programs",
+    "description": "A community powered list of programs that work on the Windows Subsystem for Linux. "
+  },
+  {
+    "name": "/r/bashonubuntuonwindows",
+    "url": "https://www.reddit.com/r/bashonubuntuonwindows/",
+    "description": "Reddit subreddit."
+  },
+  {
+    "name": "##windows-wsl",
+    "url": "https://netsplit.de/channels/details.php?room=%23windows-wsl&net=Libera.Chat",
+    "description": "IRC channel on Libera.Chat."
+  },
+  {
+    "name": "#debian-wsl",
+    "url": "https://www.oftc.net",
+    "description": "IRC channel on OFTC.net."
+  },
+  {
+    "name": "WSL on GitHub",
+    "url": "https://github.com/Microsoft/WSL",
+    "description": "For reporting issues with WSL. "
+  },
+  {
+    "name": "Microsoft Developer Feedback",
+    "url": "https://wpdev.uservoice.com/forums/266908-command-prompt-console-windows-subsystem-for-l",
+    "description": "For developers to send Microsoft feeback on WSL."
+  },
+  {
+    "name": "Portable Node.js guide",
+    "url": "https://github.com/ehmicky/portable-node-guide",
+    "description": "Practical guide on how to write portable/cross-platform Node.js code."
+  },
+  {
+    "name": "Stack Overflow: WSL",
+    "url": "https://stackoverflow.com/questions/tagged/wsl",
+    "description": "Programming question and answer site."
+  },
+  {
+    "name": "Bash",
+    "url": "https://www.gnu.org/software/bash/",
+    "description": "Bash is the GNU Project's shell. Bash is the Bourne Again SHell. Bash is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)."
+  },
+  {
+    "name": "Cygwin",
+    "url": "https://cygwin.com",
+    "description": "Cygwin is a Unix-like environment and command-line interface for Microsoft Windows."
+  },
+  {
+    "name": "Cmder",
+    "url": "https://cmder.net/",
+    "description": "A very nice console emulator built on ConEmu. "
+  },
+  {
+    "name": "PuTTY",
+    "url": "https://www.putty.org",
+    "description": "PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform. "
+  },
+  {
+    "name": "PowerShell",
+    "url": "https://learn.microsoft.com/en-us/powershell/",
+    "description": "PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language."
+  },
+  {
+    "name": "Visual Studio Code",
+    "url": "https://code.visualstudio.com",
+    "description": "Visual Studio Code (\"vscode\") is a source code editor developed by Microsoft for Windows, Linux, and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring."
+  },
+  {
+    "name": "Visual Studio 2017",
+    "url": "https://www.visualstudio.com/vs/",
+    "description": "Visual Studio is an IDE from Microsoft. It is used to develop computer programs, as well as web sites, web apps, web services and mobile apps. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store, and Microsoft Silverlight."
+  },
+  {
+    "name": "Windows Services for UNIX",
+    "url": "https://en.wikipedia.org/wiki/Windows_Services_for_UNIX",
+    "description": "SFU is a discontinued software package produced by Microsoft which provided a Unix environment on Windows NT and some of its immediate successor operating-systems. TechNet documentation."
+  },
+  {
+    "name": "Awesome UNIX",
+    "url": "https://github.com/sirredbeard/Awesome-UNIX"
+  },
+  {
+    "name": "Awesome Windows",
+    "url": "https://github.com/Awesome-Windows/Awesome"
+  },
+  {
+    "name": "Awesome VSCode",
+    "url": "https://github.com/viatsko/awesome-vscode"
+  },
+  {
+    "name": "Awesome Bash",
+    "url": "https://github.com/awesome-lists/awesome-bash"
+  },
+  {
+    "name": "Awesome Shell",
+    "url": "https://github.com/alebcay/awesome-shell"
+  },
+  {
+    "name": "Awesome Powershell",
+    "url": "https://github.com/janikvonrotz/awesome-powershell"
+  },
+  {
+    "name": "Awesome Linux",
+    "url": "https://github.com/aleksandar-todorovic/awesome-linux"
+  },
+  {
+    "name": "Tara Raj",
+    "url": "https://twitter.com/tara_msft"
+  },
+  {
+    "name": "Canonical",
+    "url": "https://www.ubuntu.com"
+  },
+  {
+    "name": "Awesome community",
+    "url": "https://awesome.re"
+  },
+  {
+    "name": "*",
+    "url": "https://www.linuxfoundation.org/trademark-usage/"
+  },
+  {
+    "name": "*",
+    "url": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx"
+  },
+  {
+    "name": "*",
+    "url": "https://www.edx.org/trademarks"
+  },
+  {
+    "name": "*",
+    "url": "https://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy"
+  },
+  {
+    "name": "*",
+    "url": "https://www.suse.com/company/legal/"
+  },
+  {
+    "name": "*",
+    "url": "https://www.redhat.com/en/about/trademark-guidelines-and-policies"
+  },
+  {
+    "name": "*",
+    "url": "http://www.unix.org/trademark.html"
+  },
+  {
+    "name": "*",
+    "url": "https://www.debian.org/trademark"
+  },
+  {
+    "name": "*",
+    "url": "https://www.offensive-security.com/trademark-policy/"
+  },
+  {
+    "name": "*",
+    "url": "https://www.docker.com/legal/trademark-guidelines/"
+  },
+  {
+    "name": "*",
+    "url": "https://www.google.com/permissions/trademark/our-trademarks.html"
+  },
+  {
+    "name": "*",
+    "url": "https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html"
+  },
+  {
+    "name": "githublogo",
+    "url": "https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png"
+  },
+  {
+    "name": "*",
+    "url": "https://www.oracle.com/legal/trademarks.html"
+  },
+  {
+    "name": "*",
+    "url": "https://www.gentoo.org/inside-gentoo/foundation/name-logo-guidelines.html"
+  },
+  {
+    "name": "*",
+    "url": "https://almalinux.org/p/the-almalinux-os-trademark-usage-policy/"
+  }
+]

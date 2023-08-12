@@ -1,0 +1,1095 @@
+[
+  {
+    "name": "Handbook - Welcome to TypeScript",
+    "url": "http://www.typescriptlang.org/Handbook",
+    "description": "Welcome to TypeScript the official resource for learning TypeScript"
+  },
+  {
+    "name": "TypeScript Deep Dive",
+    "url": "https://basarat.gitbooks.io/typescript/"
+  },
+  {
+    "name": "Microsoft/TypeScript on Github",
+    "url": "https://github.com/Microsoft/TypeScript"
+  },
+  {
+    "name": "The official TypeScript Roadmap",
+    "url": "https://github.com/Microsoft/TypeScript/wiki/Roadmap"
+  },
+  {
+    "name": "TypeScript Team Blog",
+    "url": "http://blogs.msdn.com/b/typescript/"
+  },
+  {
+    "name": "DefinitelyTyped/DefinitelyTyped",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+  },
+  {
+    "name": "Type search",
+    "url": "https://aka.ms/typings"
+  },
+  {
+    "name": "Community Curated Resources",
+    "url": "https://hackr.io/tutorials/learn-typescript"
+  },
+  {
+    "name": "Clean Code concepts adapted for TypeScript",
+    "url": "https://github.com/labs42io/clean-code-typescript"
+  },
+  {
+    "name": "Should You Learn TypeScript? (Benefits & Resources)",
+    "url": "https://snipcart.com/blog/learn-typescript-why-use-ts"
+  },
+  {
+    "name": "Learn how to unleash the full potential of the Turing Complete type system of TypeScript!",
+    "url": "https://type-level-typescript.com"
+  },
+  {
+    "name": "Codebook",
+    "url": "https://github.com/gvanastasov/codebook-typescript"
+  },
+  {
+    "name": "typescript-starter",
+    "url": "https://github.com/bitjson/typescript-starter"
+  },
+  {
+    "name": "next-smrt",
+    "url": "https://github.com/csprance/next-smrt"
+  },
+  {
+    "name": "Next-Postgres-With-Typescript",
+    "url": "https://github.com/brandontle/next-postgres-with-typescript",
+    "description": "Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion"
+  },
+  {
+    "name": "MicroTS",
+    "url": "https://www.npmjs.com/package/microts"
+  },
+  {
+    "name": "pankod/next-boilerplate",
+    "url": "https://github.com/pankod/next-boilerplate"
+  },
+  {
+    "name": "jsynowiec/node-typescript-boilerplate",
+    "url": "https://github.com/jsynowiec/node-typescript-boilerplate"
+  },
+  {
+    "name": "typescript-express-starter",
+    "url": "https://github.com/ljlm0402/typescript-express-starter",
+    "description": "Quick and Easy TypeScript Express Starter."
+  },
+  {
+    "name": "The Knests Stack",
+    "url": "https://github.com/tudorconstantin/knests/",
+    "description": "Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured."
+  },
+  {
+    "name": "tRPC + Next.js",
+    "url": "https://trpc.io/docs/nextjs/introduction",
+    "description": "Full-stack starter projects for end-to-end type safe development with React"
+  },
+  {
+    "name": "nd.ts",
+    "url": "https://github.com/heyayushh/nd.ts/",
+    "description": "setup bare minimum Node.ts project asap"
+  },
+  {
+    "name": "samchon/backend",
+    "url": "https://github.com/samchon/backend",
+    "description": "TypeScript backend template project using the NestJS (nestia) and TypeORM (safe-typeorm). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the pm2."
+  },
+  {
+    "name": "ts-express-boilerplate",
+    "url": "https://github.com/d4rkstar/ts-express-boilerplate",
+    "description": "ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access."
+  },
+  {
+    "name": "create-typescript-app",
+    "url": "https://github.com/hein-htut-aung/create-typescript-app",
+    "description": "provides a starting point for TypeScript web applications. pnpm, Rollup, Jest, and CSS Modules with SCSS."
+  },
+  {
+    "name": "TypeScript in 50 Lessons",
+    "url": "https://typescript-book.com/"
+  },
+  {
+    "name": "TypeScript Quickly",
+    "url": "https://www.manning.com/books/typescript-quickly"
+  },
+  {
+    "name": "Angular Development with Typescript, Second Edition (MEAP October 2017)",
+    "url": "https://www.manning.com/books/angular-development-with-typescript-second-edition"
+  },
+  {
+    "name": "Angular 2 Development with TypeScript (2016)",
+    "url": "https://www.manning.com/books/angular-2-development-with-typescript"
+  },
+  {
+    "name": "Learning TypeScript 2.x 2nd Ed.",
+    "url": "https://www.learningtypescript.com"
+  },
+  {
+    "name": "Mastering TypeScript 2nd Ed.",
+    "url": "https://www.packtpub.com/application-development/mastering-typescript-second-edition"
+  },
+  {
+    "name": "Beginning Angular 4 with TypeScript",
+    "url": "https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674"
+  },
+  {
+    "name": "Programming with Types",
+    "url": "https://www.manning.com/books/programming-with-types",
+    "description": "A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)"
+  },
+  {
+    "name": "Essential TypeScript 5",
+    "url": "https://www.manning.com/books/essential-typescript-5",
+    "description": "Third edition of the bestselling guide to TypeScript. (by Adam Freeman)"
+  },
+  {
+    "name": "Effective TypeScript",
+    "url": "https://www.oreilly.com/library/view/effective-typescript/9781492053736/"
+  },
+  {
+    "name": "Advanced TypeScript 3 Programming Projects",
+    "url": "https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042"
+  },
+  {
+    "name": "The Concise TypeScript Book (Free and Open Source)",
+    "url": "https://github.com/gibbok/typescript-book"
+  },
+  {
+    "name": "TypeScript Reference for JS developers",
+    "url": "https://welldan97.github.io/typescript-reference/",
+    "description": "Glossary of keywords, operators, statements and directives"
+  },
+  {
+    "name": "@captain-yossarian's blog",
+    "url": "https://catchts.com/",
+    "description": "fully dedicated to static typings in TypeScript"
+  },
+  {
+    "name": "ts-node",
+    "url": "https://github.com/TypeStrong/ts-node"
+  },
+  {
+    "name": "shebang",
+    "url": "https://en.wikipedia.org/wiki/Shebang_(Unix)"
+  },
+  {
+    "name": "shebang",
+    "url": "https://en.wikipedia.org/wiki/Shebang_(Unix)"
+  },
+  {
+    "name": " Visual Studio Community Edition 2015",
+    "url": "https://www.visualstudio.com/products/visual-studio-community-vs",
+    "description": "free (conditionally) IDE with integrated TypeScript support"
+  },
+  {
+    "name": "VS Addon - TypescriptSyntaxPaste",
+    "url": "https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7",
+    "description": "TypescriptSyntaxPaste - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface"
+  },
+  {
+    "name": "NodeJS Tools for Visual Studio",
+    "url": "https://github.com/Microsoft/nodejstools"
+  },
+  {
+    "name": "Visual Studio Code",
+    "url": "https://www.visualstudio.com/en-us/products/code-vs.aspx"
+  },
+  {
+    "name": "PhpStorm",
+    "url": "https://www.jetbrains.com/phpstorm/download/"
+  },
+  {
+    "name": "WebStorm",
+    "url": "https://www.jetbrains.com/webstorm/download/"
+  },
+  {
+    "name": "CATS",
+    "url": "http://jbaron.github.io/cats/"
+  },
+  {
+    "name": "TypeScript Sublime Plugin",
+    "url": "https://github.com/Microsoft/TypeScript-Sublime-Plugin"
+  },
+  {
+    "name": "Atom TypeScript",
+    "url": "https://github.com/TypeStrong/atom-typescript"
+  },
+  {
+    "name": "TypeScript Interactive Development Environment for Emacs",
+    "url": "https://github.com/ananthakumaran/tide"
+  },
+  {
+    "name": "TypeScript Syntax for VIM",
+    "url": "https://github.com/leafgarland/typescript-vim"
+  },
+  {
+    "name": "Typescript addin for",
+    "url": "https://github.com/mrward/typescript-addin"
+  },
+  {
+    "name": "Typescript tooling for Neovim",
+    "url": "https://github.com/mhartington/nvim-typescript"
+  },
+  {
+    "name": "Coc",
+    "url": "https://github.com/neoclide/coc.nvim"
+  },
+  {
+    "name": "TypeScript playground",
+    "url": "https://agentcooper.github.io/typescript-play/"
+  },
+  {
+    "name": "TypeScript playground-on-ace",
+    "url": "https://github.com/hi104/typescript-playground-on-ace"
+  },
+  {
+    "name": "TypeScript official Playground",
+    "url": "http://www.typescriptlang.org/Playground/"
+  },
+  {
+    "name": "JS Bin",
+    "url": "http://jsbin.com/?js"
+  },
+  {
+    "name": "Codepen",
+    "url": "http://codepen.io/"
+  },
+  {
+    "name": "TypeScript Interpret - Terminal Emulator",
+    "url": "http://niutech.github.io/typescript-interpret/",
+    "description": "Terminal Emulator by @niutech"
+  },
+  {
+    "name": "TypeScript Editor",
+    "url": "http://drake7707.github.io/Typescript-Editor/"
+  },
+  {
+    "name": "Grunt",
+    "url": "http://gruntjs.com/",
+    "description": "Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts"
+  },
+  {
+    "name": "grunt-ts",
+    "url": "https://www.npmjs.com/package/grunt-ts",
+    "description": "Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts"
+  },
+  {
+    "name": "Zwitterion",
+    "url": "https://github.com/lastmjs/zwitterion",
+    "description": "Super simple development server with built-in support for TypeScript files."
+  },
+  {
+    "name": "Crisp BigQuery",
+    "url": "https://github.com/winwiz1/crisp-bigquery"
+  },
+  {
+    "name": "DDB-Table",
+    "url": "https://github.com/neuledge/ddb-table"
+  },
+  {
+    "name": "Webpack",
+    "url": "http://webpack.github.io/",
+    "description": "supports CommonJS and AMD module bundling"
+  },
+  {
+    "name": "TypeScript and webpack",
+    "url": "http://www.jbrantly.com/typescript-and-webpack/",
+    "description": "How to configure Webpack for TypeScript with source map support"
+  },
+  {
+    "name": "Browserify",
+    "url": "http://browserify.org/",
+    "description": "CommonJS module bundler. Does not support TypeScript \"out of the box\", but can be applied with * Grunt tasks: grunt-ts, grunt-browserify, grunt-contrib-uglify"
+  },
+  {
+    "name": "fuse-box",
+    "url": "https://github.com/fuse-box/fuse-box",
+    "description": "typescript sample: fuse-box-ts-react-reflux-seed"
+  },
+  {
+    "name": "Factor",
+    "url": "https://factor.dev",
+    "description": "The Javascript CMS (TypeScript supported natively)"
+  },
+  {
+    "name": "Graphweaver",
+    "url": "https://github.com/exogee-technology/graphweaver",
+    "description": "Turn multiple data sources into a single GraphQL Headless CMS."
+  },
+  {
+    "name": "sqlx-ts",
+    "url": "https://github.com/JasonShin/sqlx-ts",
+    "description": "SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe"
+  },
+  {
+    "name": "deno",
+    "url": "https://deno.land/",
+    "description": "A secure runtime for JavaScript and TypeScript"
+  },
+  {
+    "name": "SweetIQ/schemats",
+    "url": "https://github.com/SweetIQ/schemats"
+  },
+  {
+    "name": "TypeDoc",
+    "url": "http://typedoc.org/",
+    "description": "A documentation generator for TypeScript projects"
+  },
+  {
+    "name": "TypeScript Standard",
+    "url": "https://github.com/e2tox/typescript-standard",
+    "description": "Zero-configuration TypeScript 2 Standard Validation"
+  },
+  {
+    "name": "typed-install",
+    "url": "https://github.com/xavdid/typed-install",
+    "description": "Easily install new dependencies and their typings, no matter where they may be"
+  },
+  {
+    "name": "Interactive TypeScript AST Viewer",
+    "url": "https://ast.carlosroso.com/",
+    "description": "Write TypeScript snippets and explore its AST."
+  },
+  {
+    "name": "type-config",
+    "url": "https://github.com/Saul-Mirone/type-config",
+    "description": "A generator for tsconfig."
+  },
+  {
+    "name": "Zapatos",
+    "url": "https://jawj.github.io/zapatos/",
+    "description": "Zero-Abstraction Postgres for TypeScript"
+  },
+  {
+    "name": "dep-tree",
+    "url": "https://github.com/gabotechs/dep-tree",
+    "description": "Render your project's file dependency tree and/or validate it against your own rules."
+  },
+  {
+    "name": "jsonup",
+    "url": "https://github.com/tani/jsonup",
+    "description": "Compile-time JSON parser"
+  },
+  {
+    "name": "type-o-rama",
+    "url": "https://github.com/stereobooster/type-o-rama",
+    "description": "JS type systems interoperability"
+  },
+  {
+    "name": "utility-types",
+    "url": "https://github.com/piotrwitek/utility-types",
+    "description": "Utility Types for TypeScript (provide compatibility with Flow's Utility Types)"
+  },
+  {
+    "name": "elm-ts",
+    "url": "https://github.com/gcanti/elm-ts",
+    "description": "Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React"
+  },
+  {
+    "name": "ts-essentials",
+    "url": "https://github.com/krzkaczor/ts-essentials",
+    "description": "All essential TypeScript types in one place"
+  },
+  {
+    "name": "typescript-conditional-types",
+    "url": "https://github.com/LeDDGroup/typescript-conditional-types",
+    "description": "Helpers for typescript generic types"
+  },
+  {
+    "name": "ts-types-utils",
+    "url": "https://github.com/LeDDGroup/ts-types-utils",
+    "description": "Type utilities for typescript"
+  },
+  {
+    "name": "typesync",
+    "url": "https://github.com/jeffijoe/typesync",
+    "description": "Install missing TypeScript typings for dependencies in your package.json."
+  },
+  {
+    "name": "type-fest",
+    "url": "https://github.com/sindresorhus/type-fest",
+    "description": "A collection of essential TypeScript types"
+  },
+  {
+    "name": "typetype",
+    "url": "https://github.com/mistlog/typetype",
+    "description": "A programming language designed for typescript type generation"
+  },
+  {
+    "name": "nominal",
+    "url": "https://github.com/Coder-Spirit/nominal",
+    "description": "nominal types & dependent types for Typescript."
+  },
+  {
+    "name": "@tool-belt/type-predicates",
+    "url": "https://github.com/tool-belt/type-predicates",
+    "description": "Type Predicates, Assertion Functions and Utilities."
+  },
+  {
+    "name": "getmytypes",
+    "url": "https://github.com/halchester/getmytypes",
+    "description": "Install @types files into your devDependencies."
+  },
+  {
+    "name": "ts-toolbelt",
+    "url": "https://github.com/millsp/ts-toolbelt",
+    "description": "Large collection of type utilities for TypeScript"
+  },
+  {
+    "name": "json-decoder",
+    "url": "https://github.com/venil7/json-decoder",
+    "description": "Typesafe JSON decoder and runtime checker"
+  },
+  {
+    "name": "typescript-is",
+    "url": "https://github.com/woutervh-/typescript-is",
+    "description": "TypeScript transformer that generates run-time type-checks."
+  },
+  {
+    "name": "type-plus",
+    "url": "https://github.com/unional/type-plus",
+    "description": "Additional types and type adjusted utilities"
+  },
+  {
+    "name": "Agent Framework",
+    "url": "https://github.com/agentframework/agentframework"
+  },
+  {
+    "name": "SunTori",
+    "url": "https://github.com/LancerComet/SunTori",
+    "description": "A JSON de/serializer to ensure everything is safe at runtime."
+  },
+  {
+    "name": "io-ts",
+    "url": "https://github.com/gcanti/io-ts",
+    "description": "Runtime type system for IO decoding/encoding"
+  },
+  {
+    "name": "zod",
+    "url": "https://github.com/vriad/zod",
+    "description": "TypeScript-first schema validation with static type inference"
+  },
+  {
+    "name": "runtypes",
+    "url": "https://github.com/pelotom/runtypes",
+    "description": "Runtime validation for static types"
+  },
+  {
+    "name": "ts-codec",
+    "url": "https://github.com/julienvincent/ts-codec",
+    "description": "TypeScript Codecs for encoding, decoding and validating data"
+  },
+  {
+    "name": "ow",
+    "url": "https://github.com/sindresorhus/ow",
+    "description": "Function argument validation for humans"
+  },
+  {
+    "name": "superstruct",
+    "url": "https://github.com/ianstormtaylor/superstruct",
+    "description": "A simple and composable way to validate data"
+  },
+  {
+    "name": "computed-types",
+    "url": "https://github.com/neuledge/computed-types",
+    "description": "🦩 Joi like validations for TypeScript"
+  },
+  {
+    "name": "json-schema-to-ts",
+    "url": "https://github.com/thomasaribart/json-schema-to-ts",
+    "description": "Dynamic type inference from JSON schemas"
+  },
+  {
+    "name": "Yunomix",
+    "url": "https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix",
+    "description": "A form validation toolkit which is designed in AOP form."
+  },
+  {
+    "name": "typia",
+    "url": "https://github.com/samchon/typia",
+    "description": "20,000x times faster runtime validator using pure TypeScript type. Only one line required like typia.assert<T>(input). Also, supports 200x faster JSON serialization and JSON schema generator with only one line. 🚀 (see also https://typia.io/docs)"
+  },
+  {
+    "name": "fta",
+    "url": "https://github.com/sgb-io/fta",
+    "description": "Rust-based static analysis to monitor code quality"
+  },
+  {
+    "name": "dto-classes",
+    "url": "https://github.com/rsinger86/dto-classes",
+    "description": "Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators."
+  },
+  {
+    "name": "NativeScript",
+    "url": "https://github.com/NativeScript/NativeScript",
+    "description": "Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript"
+  },
+  {
+    "name": "Monaco Editor",
+    "url": "https://microsoft.github.io/monaco-editor/"
+  },
+  {
+    "name": "Angular",
+    "url": "https://github.com/angular/angular",
+    "description": "Angular is a development platform for building mobile and desktop web applications"
+  },
+  {
+    "name": "feednext.io",
+    "url": "https://github.com/feednext/feednext",
+    "description": "An open-source social media application built with Typescript on both client-server side."
+  },
+  {
+    "name": "ionic",
+    "url": "https://github.com/ionic-team/ionic",
+    "description": "An open-source mobile app development framework build in TypeScript"
+  },
+  {
+    "name": "React-UWP",
+    "url": "https://github.com/myxvisual/react-uwp",
+    "description": "React Components that Implement Microsoft's UWP Design & Fluent Design."
+  },
+  {
+    "name": "palantir/plottable",
+    "url": "https://github.com/palantir/plottable",
+    "description": "A library of modular chart components, built on D3 (see also: http://plottablejs.org)"
+  },
+  {
+    "name": "APIs-guru/graphql-voyager",
+    "url": "https://github.com/APIs-guru/graphql-voyager",
+    "description": "Represent any GraphQL API as an interactive graph 🛰️"
+  },
+  {
+    "name": "Rebilly/ReDoc",
+    "url": "https://github.com/Rebilly/Redoc",
+    "description": "OpenAPI/Swagger-generated API Reference Documentation"
+  },
+  {
+    "name": "excaliburjs/Excalibur",
+    "url": "https://github.com/excaliburjs/Excalibur",
+    "description": "Free open source JavaScript game engine"
+  },
+  {
+    "name": "Bobril",
+    "url": "https://github.com/Bobris/Bobril",
+    "description": "Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)"
+  },
+  {
+    "name": "Stencil",
+    "url": "https://github.com/ionic-team/stencil",
+    "description": "a tool for building modern Web Components"
+  },
+  {
+    "name": "redux-zero",
+    "url": "https://github.com/concretesolutions/redux-zero",
+    "description": "A lightweight state container based on Redux"
+  },
+  {
+    "name": "wretch",
+    "url": "https://github.com/elbywan/wretch",
+    "description": "A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax."
+  },
+  {
+    "name": "Cycle.js",
+    "url": "https://github.com/cyclejs/cyclejs",
+    "description": "A functional and reactive JavaScript framework for predictable code."
+  },
+  {
+    "name": "Tridactyl",
+    "url": "https://github.com/tridactyl/tridactyl",
+    "description": "A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim."
+  },
+  {
+    "name": "armour/vue-typescript-admin-template",
+    "url": "https://github.com/Armour/vue-typescript-admin-template",
+    "description": "A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces (demo)"
+  },
+  {
+    "name": "n8n.io",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Open Source Workflow Automation Tool"
+  },
+  {
+    "name": "Dnote",
+    "url": "https://github.com/dnote/dnote",
+    "description": "A command line notebook with a multi-device sync and a web interface."
+  },
+  {
+    "name": "Thin Backend",
+    "url": "https://github.com/digitallyinduced/thin-backend",
+    "description": "Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema"
+  },
+  {
+    "name": "Flowbite",
+    "url": "https://github.com/themesberg/flowbite",
+    "description": "Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript"
+  },
+  {
+    "name": "ILLA Cloud",
+    "url": "https://www.illacloud.com/",
+    "description": "Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes."
+  },
+  {
+    "name": "Treehouse",
+    "url": "https://github.com/treehousedev/treehouse",
+    "description": "Open source lightweight library to build your own note-taking tool."
+  },
+  {
+    "name": "facebook/create-react-app",
+    "url": "https://facebook.github.io/create-react-app/docs/adding-typescript"
+  },
+  {
+    "name": "Microsoft/TypeScript-React-Starter",
+    "url": "https://github.com/Microsoft/TypeScript-React-Starter"
+  },
+  {
+    "name": "typescript-cheatsheets/react-typescript-cheatsheet",
+    "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet"
+  },
+  {
+    "name": "jsxtyper",
+    "url": "https://github.com/fuselabs/jsxtyper"
+  },
+  {
+    "name": "Building a simple react component with typescript",
+    "url": "http://www.austentalbot.com/how-to-use-react-with-typescript/"
+  },
+  {
+    "name": "TodoMVC • TypeScript + React Example",
+    "url": "https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react"
+  },
+  {
+    "name": "Working with React and TypeScript",
+    "url": "http://blog.wolksoftware.com/working-with-react-and-typescript"
+  },
+  {
+    "name": "vortigern - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.",
+    "url": "https://github.com/barbar/vortigern",
+    "description": "A universal boilerplate for building web applications w/ TypeScript, React, Redux and more."
+  },
+  {
+    "name": "Convert React code to TypeScript automatically",
+    "url": "https://github.com/lyft/react-javascript-to-typescript-transform"
+  },
+  {
+    "name": "React Server Example TSX",
+    "url": "https://github.com/styfle/react-server-example-tsx"
+  },
+  {
+    "name": "React & Redux in TypeScript - Static Typing Guide",
+    "url": "https://github.com/piotrwitek/react-redux-typescript-guide",
+    "description": "Static Typing Guide The complete guide to static typing in \"React & Redux\" using TypeScript"
+  },
+  {
+    "name": "Typescript Monorepo CRA Example",
+    "url": "https://github.com/deptno/typescript-monorepo-cra-example",
+    "description": "A minimalistic CRA + typescript monorepo."
+  },
+  {
+    "name": "Typescript Monorepo Next Example",
+    "url": "https://github.com/deptno/typescript-monorepo-next-example",
+    "description": "A minimalistic next.js + typescript monorepo."
+  },
+  {
+    "name": "Crisp React",
+    "url": "https://github.com/winwiz1/crisp-react"
+  },
+  {
+    "name": "React by Example",
+    "url": "https://reactbyexample.github.io/"
+  },
+  {
+    "name": "Materio Free MUI React NextJS Typescript Admin Template",
+    "url": "https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free",
+    "description": "Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript."
+  },
+  {
+    "name": "Flowbite React",
+    "url": "https://github.com/themesberg/flowbite-react",
+    "description": "Open-source component library based on React, TypeScript, and Tailwind CSS"
+  },
+  {
+    "name": "Actio",
+    "url": "https://github.com/crufters/actio/",
+    "description": "The Node.js framework for monoliths and microservices."
+  },
+  {
+    "name": "design-first",
+    "url": "https://adam-hanna.github.io/design-first-docs/",
+    "description": "A REST Api templating engine for Typescript"
+  },
+  {
+    "name": "Nest",
+    "url": "https://github.com/nestjs/nest",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)"
+  },
+  {
+    "name": "nestia",
+    "url": "https://github.com/samchon/nestia",
+    "description": "20,000x faster validation and 200x faster JSON serialization decorators using typia. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, it supports SDK (collection of fetch functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) generation, and even possible to migrate NestJS project only by swagger.json file. 🚀 (see also: https://nestia.io/docs)"
+  },
+  {
+    "name": "LoopBack 4",
+    "url": "https://github.com/strongloop/loopback-next",
+    "description": "A highly extensible Node.js and TypeScript framework for building APIs and microservices. 🚀 (see also: https://loopback.io/)"
+  },
+  {
+    "name": "FoalTS",
+    "url": "https://github.com/FoalTS/foal",
+    "description": "A simple, intuitive and complete framework for building enterprise-grade Node.JS applications 💥 🚀 (see also: https://foalts.org)"
+  },
+  {
+    "name": "Enso",
+    "url": "http://ensojs.netlify.com",
+    "description": "Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience"
+  },
+  {
+    "name": "Libstack",
+    "url": "https://libstack.io",
+    "description": "A collection of various modules to create Typescript server easily and ready to be deployed on Docker."
+  },
+  {
+    "name": "tinyhttp",
+    "url": "https://github.com/talentlessguy/tinyhttp",
+    "description": "A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM."
+  },
+  {
+    "name": "ZenTS",
+    "url": "https://github.com/sahachide/ZenTS",
+    "description": "A modern Node.js and TypeScript first framework for building rich web applications (see also: https://zents.dev)"
+  },
+  {
+    "name": "Booster Framework",
+    "url": "https://github.com/boostercloud/booster",
+    "description": "Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: https://booster.cloud)"
+  },
+  {
+    "name": "Visual Studio Code",
+    "url": "https://github.com/Microsoft/vscode",
+    "description": "Multiplatform IDE."
+  },
+  {
+    "name": "alm",
+    "url": "https://github.com/alm-tools/alm",
+    "description": "A next generation IDE just for TypeScript written in TypeScript + React"
+  },
+  {
+    "name": "App Outlet",
+    "url": "https://github.com/app-outlet/app-outlet",
+    "description": "An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular"
+  },
+  {
+    "name": "SnowFS",
+    "url": "https://github.com/snowtrack/snowfs",
+    "description": "a fast, scalable version control file storage for graphic files"
+  },
+  {
+    "name": "OctoLinker",
+    "url": "https://github.com/OctoLinker/browser-extension"
+  },
+  {
+    "name": "lc-mate",
+    "url": "https://github.com/cglotr/lc-mate",
+    "description": "Extension that adds contest rating to usernames in LC"
+  },
+  {
+    "name": "Design Patterns implementation",
+    "url": "https://github.com/torokmark/design_patterns_in_typescript",
+    "description": "Implementation of the well-known 23 patterns of GoF"
+  },
+  {
+    "name": "Procedurem",
+    "url": "https://github.com/ImVexed/Procedurem",
+    "description": "A Small (2kb) And Performant Bi-Directional RPC Library Using WebSockets."
+  },
+  {
+    "name": "RxJS",
+    "url": "https://github.com/ReactiveX/RxJS",
+    "description": "A reactive programming library for JavaScript."
+  },
+  {
+    "name": "xstream",
+    "url": "https://github.com/staltz/xstream",
+    "description": "An extremely intuitive, small, and fast functional reactive stream library for JavaScript."
+  },
+  {
+    "name": "substitute.js",
+    "url": "https://github.com/ffMathy/FluffySpoon.JavaScript.Testing",
+    "description": "A fluent mocking library for TypeScript ported from NSubstitute."
+  },
+  {
+    "name": "TypeMoq",
+    "url": "https://github.com/florinn/typemoq",
+    "description": "A simple mocking library for TypeScript."
+  },
+  {
+    "name": "fast-check",
+    "url": "https://github.com/dubzzz/fast-check",
+    "description": "Property based testing framework for TypeScript."
+  },
+  {
+    "name": "InversifyJS",
+    "url": "https://github.com/inversify/InversifyJS/",
+    "description": " powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript."
+  },
+  {
+    "name": "TypeORM",
+    "url": "https://github.com/typeorm/typeorm",
+    "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+  },
+  {
+    "name": "Safe-TypeORM",
+    "url": "https://github.com/samchon/safe-typeorm",
+    "description": "Enhances TypeORM in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming."
+  },
+  {
+    "name": "MikroORM",
+    "url": "https://github.com/mikro-orm/mikro-orm",
+    "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite."
+  },
+  {
+    "name": "Prisma",
+    "url": "https://github.com/prisma/prisma",
+    "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite"
+  },
+  {
+    "name": "Neuledge",
+    "url": "https://github.com/neuledge/engine-js",
+    "description": "Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation."
+  },
+  {
+    "name": "Typetta",
+    "url": "https://github.com/twinlogix/typetta",
+    "description": "Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB."
+  },
+  {
+    "name": "TypeGQL",
+    "url": "https://github.com/prismake/typegql",
+    "description": "Set of tools for creating GraphQL schema directly from typed TypeScript class."
+  },
+  {
+    "name": "TSTL",
+    "url": "https://github.com/samchon/tstl",
+    "description": "Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors."
+  },
+  {
+    "name": "ECol",
+    "url": "https://github.com/samchon/ecol",
+    "description": "Extension of TSTL containers; collections dispatching Elements I/O events."
+  },
+  {
+    "name": "TGrid",
+    "url": "https://github.com/samchon/tgrid",
+    "description": "Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call)."
+  },
+  {
+    "name": "Mutex-Server",
+    "url": "https://github.com/samchon/mutex-server",
+    "description": "Critical sections controller, like mutex and semaphore, in the network level."
+  },
+  {
+    "name": "Kalimdor.js",
+    "url": "https://github.com/JasonShin/kalimdorjs",
+    "description": "Machine Learning library for the Web, Node and Developers!"
+  },
+  {
+    "name": "prelude.ts",
+    "url": "https://github.com/emmanueltouzery/prelude.ts",
+    "description": "Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators."
+  },
+  {
+    "name": "ee-ts",
+    "url": "https://github.com/aleclarson/ee-ts",
+    "description": "Typed event emitters"
+  },
+  {
+    "name": "io-ts",
+    "url": "https://github.com/gcanti/io-ts",
+    "description": "Type validation at runtime"
+  },
+  {
+    "name": "mokia",
+    "url": "https://github.com/varHarrie/mokia",
+    "description": "A mock server integrated data simulation and http service."
+  },
+  {
+    "name": "sub-events",
+    "url": "https://github.com/vitaly-t/sub-events",
+    "description": "Strongly-typed events."
+  },
+  {
+    "name": "ts-audio",
+    "url": "https://github.com/EvandroLG/ts-audio",
+    "description": "an agnostic and easy-to-use library to work with the AudioContext API"
+  },
+  {
+    "name": "tslog",
+    "url": "https://github.com/fullstack-build/tslog",
+    "description": "A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage"
+  },
+  {
+    "name": "tsParticles",
+    "url": "https://github.com/matteobruni/tsparticles",
+    "description": "A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)"
+  },
+  {
+    "name": "statek",
+    "url": "https://github.com/pie6k/statek",
+    "description": "Reactive state management library"
+  },
+  {
+    "name": "Injex",
+    "url": "https://www.injex.dev/",
+    "description": "Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications"
+  },
+  {
+    "name": "tRPC",
+    "url": "https://www.trpc.io/",
+    "description": "TypeScript toolkit for building end-to-end type-safe APIs"
+  },
+  {
+    "name": "interface-forge",
+    "url": "https://www.npmjs.com/package/interface-forge",
+    "description": "Test data factories using TypeScript types and interfaces"
+  },
+  {
+    "name": "iter-ops",
+    "url": "https://github.com/vitaly-t/iter-ops",
+    "description": "Operations with iterable objects"
+  },
+  {
+    "name": "Remult",
+    "url": "https://github.com/remult/remult",
+    "description": "End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications."
+  },
+  {
+    "name": "Jest",
+    "url": "https://github.com/facebook/jest",
+    "description": "A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects."
+  },
+  {
+    "name": "diod",
+    "url": "https://github.com/artberri/diod",
+    "description": "A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps."
+  },
+  {
+    "name": "@deliberative/crypto",
+    "url": "https://github.com/deliberative/crypto",
+    "description": "A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser."
+  },
+  {
+    "name": "castore",
+    "url": "https://github.com/castore-dev/castore",
+    "description": "Typescript library to easily implement Event Sourcing in your application"
+  },
+  {
+    "name": "Angular Applications with TypeScript",
+    "url": "https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330"
+  },
+  {
+    "name": "AngularJS with TypeScript made easy",
+    "url": "https://www.youtube.com/watch?v=OZxnFB0yQHs"
+  },
+  {
+    "name": "Full Stack React GraphQL TypeScript Tutorial - 14 hour course",
+    "url": "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
+    "description": "14 hour course (YouTube)"
+  },
+  {
+    "name": "Evolving JavaScript with TypeScript",
+    "url": "https://www.youtube.com/watch?v=Ut694dsIa8w"
+  },
+  {
+    "name": "Why program in TypeScript?",
+    "url": "https://www.youtube.com/watch?v=1TW9SdHIiXI"
+  },
+  {
+    "name": "List of free online courses about Typescript",
+    "url": "https://skillcombo.com/topic/typescript/free"
+  },
+  {
+    "name": "Functional Programming with TypeScript",
+    "url": "https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo",
+    "description": "Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist."
+  },
+  {
+    "name": "TypeScript Fundamentals",
+    "url": "https://www.pluralsight.com/courses/typescript"
+  },
+  {
+    "name": "Practical TypeScript Migration",
+    "url": "https://www.pluralsight.com/courses/typescript-practical-migration"
+  },
+  {
+    "name": "Angular with TypeScript",
+    "url": "http://www.pluralsight.com/courses/angular-typescript"
+  },
+  {
+    "name": "Using TypeScript for Large AngularJS Applications",
+    "url": "https://www.pluralsight.com/courses/using-typescript-large-angularjs-apps"
+  },
+  {
+    "name": "Introduction to TypeScript",
+    "url": "https://www.packtpub.com/application-development/introduction-typescript-video"
+  },
+  {
+    "name": "Mastering TypeScript",
+    "url": "https://www.packtpub.com/web-development/mastering-typescript-video"
+  },
+  {
+    "name": "TypeScript: The Complete Developer's Guide",
+    "url": "https://www.udemy.com/typescript-the-complete-developers-guide/"
+  },
+  {
+    "name": "Angular with TypeScript",
+    "url": "https://www.manning.com/livevideo/angular-for-java-developers-typescript/"
+  },
+  {
+    "name": "Mastering TypeScript - 2022 Edition",
+    "url": "https://www.udemy.com/course/learn-typescript/",
+    "description": "2022 Edition (Udemy)"
+  },
+  {
+    "name": "List of paid online courses about Typescript",
+    "url": "https://skillcombo.com/topic/typescript/"
+  },
+  {
+    "name": "Converting your vanilla JavaScript app to TypeScript",
+    "url": "https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript"
+  },
+  {
+    "name": "Difference Between TypeScript and JavaScript",
+    "url": "https://www.scaler.com/topics/typescript-vs-javascript/"
+  },
+  {
+    "name": "TypeScript Roadmap",
+    "url": "https://roadmap.sh/typescript"
+  },
+  {
+    "name": "TypeScript Badges",
+    "url": "https://github.com/ellerbrock/typescript-badges/"
+  },
+  {
+    "name": "@typescriptlang",
+    "url": "https://twitter.com/typescriptlang",
+    "description": "Official Typescript Twitter"
+  },
+  {
+    "name": "@angularjs",
+    "url": "https://twitter.com/angularjs",
+    "description": "Official Angularjs Twitter using Typescript Since 2.0"
+  },
+  {
+    "name": "@jntrnr",
+    "url": "https://twitter.com/jntrnr",
+    "description": "Typescript Program Manager at Microsoft"
+  },
+  {
+    "name": "@ahejlsberg",
+    "url": "https://twitter.com/ahejlsberg",
+    "description": "Technical Fellow at Microsoft involved with the Typescript project"
+  }
+]

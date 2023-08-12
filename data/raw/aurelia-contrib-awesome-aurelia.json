@@ -1,0 +1,733 @@
+[
+  {
+    "name": "Official Site",
+    "url": "http://aurelia.io"
+  },
+  {
+    "name": "Official Blog",
+    "url": "http://blog.aurelia.io/"
+  },
+  {
+    "name": "Official Documentation",
+    "url": "http://aurelia.io/docs.html"
+  },
+  {
+    "name": "API Documentation",
+    "url": "http://aurelia.io/docs.html#/api/home"
+  },
+  {
+    "name": "Official Getting Started Guide",
+    "url": "http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/getting-started"
+  },
+  {
+    "name": "Official GitHub Repo",
+    "url": "https://github.com/aurelia/framework"
+  },
+  {
+    "name": "Rob Eisenberg on Twitter",
+    "url": "https://twitter.com/eisenbergeffect"
+  },
+  {
+    "name": "#aureliajs",
+    "url": "https://twitter.com/hashtag/aureliajs"
+  },
+  {
+    "name": "Aurelia Forum",
+    "url": "https://discourse.aurelia.io/"
+  },
+  {
+    "name": "Gitter Channel",
+    "url": "https://gitter.im/Aurelia/Discuss"
+  },
+  {
+    "name": "Gitter Channel",
+    "url": "https://gitter.im/cmichaelgraham/aurelia-typescript"
+  },
+  {
+    "name": "Aurelia StackOverflow",
+    "url": "http://stackoverflow.com/questions/tagged/aurelia"
+  },
+  {
+    "name": "Aurelia AMA (Ask Me Anything)",
+    "url": "https://hashnode.com/ama/with-aurelia-team-cijv67apt000o535313ewe3qo"
+  },
+  {
+    "name": "/r/Aureliajs Subreddit",
+    "url": "http://www.reddit.com/r/aureliajs/"
+  },
+  {
+    "name": "Aurelia on Google+",
+    "url": "https://plus.google.com/communities/103785338632993439883"
+  },
+  {
+    "name": "Personal blog of Aurelia developer Matthew James Davis",
+    "url": "http://davismj.me/"
+  },
+  {
+    "name": "Personal blog on Aurelia dev / Developer Jeremy Danyow",
+    "url": "http://www.danyow.net/"
+  },
+  {
+    "name": "Personal blog on Aurelia dev / Developer Patrick Walters aka 'PWKAD'",
+    "url": "http://patrickwalters.net/"
+  },
+  {
+    "name": "Personal blog on Aurelia dev / Developer Ashley Grant",
+    "url": "http://blog.ashleygrant.com/"
+  },
+  {
+    "name": "Personal blog of Australian Front End / Aurelia Javascript Developer Dwayne Charrington",
+    "url": "http://ilikekillnerds.com/category/javascript/aurelia/"
+  },
+  {
+    "name": "Personal blog on Aurelia dev / Developer Don Wilcox aka 'drdwilcox'",
+    "url": "http://drdwilcox.blogspot.com/"
+  },
+  {
+    "name": "Personal blog on Aurelia dev / Developer Michael Lambert",
+    "url": "http://hobbit-on-aurelia.net/"
+  },
+  {
+    "name": "Personal blog on Aurelia dev / Developer Sean Hunter",
+    "url": "http://sean-hunter.io/"
+  },
+  {
+    "name": "Personal blog on Aurelia dev / Developer Paul van Bladel",
+    "url": "http://blog.opinionatedapps.com/"
+  },
+  {
+    "name": "Personal blog on Aurelia dev / Developer Jason Sobell",
+    "url": "http://www.sobell.net/category/aurelia/"
+  },
+  {
+    "name": "Rob Eisenberg's other Blog",
+    "url": "http://eisenbergeffect.bluespire.com/"
+  },
+  {
+    "name": "Medium posts by Aurelia Core team member Erik Lieben",
+    "url": "https://medium.com/@eriklieben"
+  },
+  {
+    "name": "Personal blog of Canadian developer Manuel Guilbault",
+    "url": "http://manuelguilbault.com/"
+  },
+  {
+    "name": "Personal blog of Canadian developer Jeremy Gonzalez",
+    "url": "http://www.jeremyg.net/"
+  },
+  {
+    "name": "Personal blog of German developer Katharina Bähr",
+    "url": "https://kabaehr.de/"
+  },
+  {
+    "name": "Personal blog of American developer Eric L. Anderson",
+    "url": "https://elanderson.net/tag/aurelia/"
+  },
+  {
+    "name": "Chrome Extension",
+    "url": "https://chrome.google.com/webstore/detail/aurelia-inspector/ofemgdknaajmpeoblfdjkenbpcfbdefg"
+  },
+  {
+    "name": "vscode-extension",
+    "url": "https://github.com/aurelia/vscode-extension"
+  },
+  {
+    "name": "vscode-aurelia-snippets",
+    "url": "https://github.com/behzad888/vscode-aurelia-snippets"
+  },
+  {
+    "name": "aurelia-update",
+    "url": "https://github.com/SpoonX/aurelia-update"
+  },
+  {
+    "name": "aurelia-template-lint",
+    "url": "https://github.com/MeirionHughes/aurelia-template-lint"
+  },
+  {
+    "name": "atom-aurelia-snippets",
+    "url": "https://atom.io/packages/atom-aurelia-snippets"
+  },
+  {
+    "name": "aurelia-installer",
+    "url": "https://github.com/kristianmandrup/aurelia-installer"
+  },
+  {
+    "name": "aurelia-debugger",
+    "url": "https://github.com/charlespockert/aurelia-debugger"
+  },
+  {
+    "name": "Beginner kits",
+    "url": "https://github.com/aurelia/beginner-kits"
+  },
+  {
+    "name": "TypeScript + Webpack Starter Kit",
+    "url": "https://github.com/michaelbull/aurelia-typescript-webpack-starter"
+  },
+  {
+    "name": "{{ add_your_repo }}",
+    "url": "https://github.com/behzad888/awesome/edit/master/README.md"
+  },
+  {
+    "name": "zewa666/generator-aurelia",
+    "url": "https://github.com/zewa666/generator-aurelia"
+  },
+  {
+    "name": "kristianmandrup/generator-aurelia-ts",
+    "url": "https://github.com/kristianmandrup/generator-aurelia-ts"
+  },
+  {
+    "name": "Aurelia Getting Started Cheat Sheet by ErikCH",
+    "url": "http://www.cheatography.com/erikch/cheat-sheets/aurelia-getting-started/"
+  },
+  {
+    "name": "Aurelia Value Converters",
+    "url": "https://jdanyow.github.io/aurelia-converters-sample/"
+  },
+  {
+    "name": "Aurelia & Framework7 vs. Angular2 & Ionic2",
+    "url": "http://www.jujens.eu/posts/en/2016/Mar/15/ionic2-aurelia-f7/"
+  },
+  {
+    "name": "Aurelia-styleguide",
+    "url": "https://github.com/behzad888/Aurelia-styleguide"
+  },
+  {
+    "name": "Aurelia Tutorial | TutorialsPoint",
+    "url": "https://www.tutorialspoint.com/aurelia/index.htm"
+  },
+  {
+    "name": "No Fluff Just Stuff Podcast: Checking out Aurelia with Peter Pavlovich",
+    "url": "http://blog.nofluffjuststuff.com/2016/02/22/podcast-checking-out-aurelia-with-peter-pavlovich/"
+  },
+  {
+    "name": "Program With Erik Podcast: The History Behind Aurelia with Rob Eisenberg",
+    "url": "http://www.programwitherik.com/the-history-behind-aurelia-with-rob-eisenberg/"
+  },
+  {
+    "name": "Adventures in Angular Podcast: Aurelia with Rob Eisenberg",
+    "url": "https://devchat.tv/adventures-in-angular/080-aia-aurelia-with-rob-eisenberg"
+  },
+  {
+    "name": "Herding Code 203: Rob Eisenberg on Aurelia",
+    "url": "http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/"
+  },
+  {
+    "name": "The Changelog #140: Aurelia, Durandal, and leaving AngularJS with Rob Eisenberg",
+    "url": "http://5by5.tv/changelog/140"
+  },
+  {
+    "name": "The Web Platform Podcast : 38: Aurelia.io",
+    "url": "http://thewebplatform.libsyn.com/38-aureliaio"
+  },
+  {
+    "name": "Aurelia For Beginners: The New Age JS Framework | Packt",
+    "url": "https://www.packtpub.com/application-development/aurelia-beginners-new-age-js-framework-video"
+  },
+  {
+    "name": "Tutorial Series of Aurelia | AureliaCasts",
+    "url": "https://aureliacasts.com/"
+  },
+  {
+    "name": "Aurelia Web Development - Part 1 | Packt",
+    "url": "https://www.packtpub.com/web-development/aurelia-web-development-part-1-video",
+    "description": "Part 1 | Packt"
+  },
+  {
+    "name": "Brian Noyes | Aurelia Fundamentals on Pluralsight.com",
+    "url": "https://www.pluralsight.com/courses/aurelia-fundamentals"
+  },
+  {
+    "name": "Discover Aurelia with CEO Rob Eisenberg",
+    "url": "https://www.youtube.com/watch?v=fi33aDFKvxE"
+  },
+  {
+    "name": "Rob Eisenberg | Aurelia: Next Generation Web Apps | NDC {London}",
+    "url": "https://vimeo.com/153090562"
+  },
+  {
+    "name": "Ashley Grant on Custom Components in Aurelia | Dev Chat",
+    "url": "https://www.youtube.com/watch?v=KOCiYJAWXeQ"
+  },
+  {
+    "name": "Jeremy Danyow on Binding | Readthesource 12",
+    "url": "https://www.youtube.com/watch?v=NyxGZYgOCuo"
+  },
+  {
+    "name": "Jakub Jedryszek | Aurelia * The next generation JavaScript framework you will love | SeattleCodeCamp",
+    "url": "https://vimeo.com/152733803"
+  },
+  {
+    "name": "Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9",
+    "url": "https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia"
+  },
+  {
+    "name": "Aurelia for Real World Applications",
+    "url": "https://leanpub.com/aurelia-for-real-world-applications"
+  },
+  {
+    "name": "Mastering Aurelia Store",
+    "url": "https://leanpub.com/mastering-aurelia-store"
+  },
+  {
+    "name": "Aurelia in Action",
+    "url": "https://www.manning.com/books/aurelia-in-action"
+  },
+  {
+    "name": "Hands-On Full Stack Web Development with Aurelia",
+    "url": "https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia"
+  },
+  {
+    "name": "Practical App Development with Aurelia",
+    "url": "https://www.apress.com/gp/book/9781484234013"
+  },
+  {
+    "name": "Practical Aurelia",
+    "url": "https://leanpub.com/practical-aurelia"
+  },
+  {
+    "name": "Learning Aurelia",
+    "url": "https://www.packtpub.com/web-development/learning-aurelia"
+  },
+  {
+    "name": "Beginning Aurelia",
+    "url": "https://leanpub.com/beginning-of-aurelia"
+  },
+  {
+    "name": "Aurelia App Amazement",
+    "url": "https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details"
+  },
+  {
+    "name": "Authorization in Aurelia using CASL",
+    "url": "https://medium.com/@sergiy.stotskiy/casl-based-authorization-in-aurelia-app-3e44c0fe1703"
+  },
+  {
+    "name": "Official Aurelia Material Design (Github)",
+    "url": "https://github.com/joelcoxokc/aurelia-interface"
+  },
+  {
+    "name": "aurelia-mdl",
+    "url": "https://github.com/genadis/aurelia-mdl"
+  },
+  {
+    "name": "aurelia-material",
+    "url": "https://github.com/redpelicans/aurelia-material"
+  },
+  {
+    "name": "aurelia-mdl-plugin",
+    "url": "https://github.com/arabsight/aurelia-mdl-plugin"
+  },
+  {
+    "name": "{{ add_your_repo }}",
+    "url": "https://github.com/behzad888/awesome/edit/master/README.md"
+  },
+  {
+    "name": "aurelia-auth",
+    "url": "https://github.com/paulvanbladel/aurelia-auth"
+  },
+  {
+    "name": "aurelia-computed",
+    "url": "https://github.com/jdanyow/aurelia-computed"
+  },
+  {
+    "name": "aurelia-i18n",
+    "url": "https://github.com/aurelia/i18n"
+  },
+  {
+    "name": "aurelia-ui-virtualization",
+    "url": "https://github.com/aurelia/ui-virtualization"
+  },
+  {
+    "name": "aurelia-bs-grid",
+    "url": "https://github.com/charlespockert/aurelia-bs-grid"
+  },
+  {
+    "name": "aurelia-polymer",
+    "url": "https://github.com/roguePanda/aurelia-polymer"
+  },
+  {
+    "name": "aurelia-google-maps",
+    "url": "https://github.com/Vheissu/aurelia-google-maps"
+  },
+  {
+    "name": "webpack-plugin",
+    "url": "https://github.com/aurelia/webpack-plugin"
+  },
+  {
+    "name": "aurelia-cycle",
+    "url": "https://github.com/niieani/aurelia-cycle"
+  },
+  {
+    "name": "aurelia-kendoui-bridge",
+    "url": "https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge"
+  },
+  {
+    "name": "aurelia-long-click-event",
+    "url": "https://github.com/avrahamcool/aurelia-long-click-event"
+  },
+  {
+    "name": "aurelia-react-loader",
+    "url": "https://github.com/bryanrsmith/aurelia-react-loader"
+  },
+  {
+    "name": "aurelia-validatejs",
+    "url": "https://github.com/aurelia/validatejs"
+  },
+  {
+    "name": "aurelia-view-pipeline",
+    "url": "https://github.com/behzad888/aurelia-view-pipeline"
+  },
+  {
+    "name": "aurelia-routed-footer",
+    "url": "https://github.com/drivesoftware/aurelia-routed-footer"
+  },
+  {
+    "name": "aurelia-api",
+    "url": "https://github.com/SpoonX/aurelia-api"
+  },
+  {
+    "name": "aurelia-authentication",
+    "url": "https://github.com/SpoonX/aurelia-authentication"
+  },
+  {
+    "name": "aurelia-orm",
+    "url": "https://github.com/SpoonX/aurelia-orm"
+  },
+  {
+    "name": "aurelia-notification",
+    "url": "https://github.com/SpoonX/aurelia-notification"
+  },
+  {
+    "name": "aurelia-binding-loader",
+    "url": "https://github.com/bryanrsmith/aurelia-binding-loader"
+  },
+  {
+    "name": "aurelia-dragula",
+    "url": "https://github.com/michaelmalonenz/aurelia-dragula"
+  },
+  {
+    "name": "aurelia-breeze",
+    "url": "https://github.com/jdanyow/aurelia-breeze"
+  },
+  {
+    "name": "aurelia-bootstrap-datepicker",
+    "url": "https://github.com/Itprosolutions/aurelia-bootstrap-datepicker"
+  },
+  {
+    "name": "Aurelia-Configuration",
+    "url": "https://github.com/vheissu/aurelia-configuration"
+  },
+  {
+    "name": "aurelia-environment",
+    "url": "https://github.com/MarcScheib/aurelia-environment"
+  },
+  {
+    "name": "aurelia-firebase",
+    "url": "https://github.com/pulsarblow/aurelia-firebase"
+  },
+  {
+    "name": "aurelia-flux",
+    "url": "https://github.com/tfrydrychewicz/aurelia-flux"
+  },
+  {
+    "name": "aurelia-grid",
+    "url": "https://github.com/corneliutusnea/aurelia-grid"
+  },
+  {
+    "name": "aurelia-google-analytics",
+    "url": "https://github.com/miguelzakharia/aurelia-google-analytics"
+  },
+  {
+    "name": "aurelia-knockout",
+    "url": "https://github.com/code-chris/aurelia-knockout"
+  },
+  {
+    "name": "aurelia-leaflet",
+    "url": "https://github.com/ceoaliongroo/aurelia-leaflet"
+  },
+  {
+    "name": "aurelia-notify",
+    "url": "https://github.com/MarcScheib/aurelia-notify"
+  },
+  {
+    "name": "aurelia-rethink-bindtable",
+    "url": "https://github.com/kristianmandrup/aurelia-rethink-bindtable"
+  },
+  {
+    "name": "aurelia-sails-socket-client",
+    "url": "https://github.com/Mordred/aurelia-sails-socket-client"
+  },
+  {
+    "name": "aurelia-switch",
+    "url": "https://github.com/Itprosolutions/aurelia-switch"
+  },
+  {
+    "name": "aurelia-yt-player",
+    "url": "https://github.com/genadis/aurelia-yt-player"
+  },
+  {
+    "name": "abalmus/aurelia-ace-editor",
+    "url": "https://github.com/abalmus/aurelia-ace-editor"
+  },
+  {
+    "name": "Tseberechts/aurelia-place-picker",
+    "url": "https://github.com/Tseberechts/aurelia-place-picker"
+  },
+  {
+    "name": "treacherous-aurelia",
+    "url": "https://github.com/grofit/treacherous-aurelia"
+  },
+  {
+    "name": "aurelia-filter",
+    "url": "https://github.com/SpoonX/aurelia-filter"
+  },
+  {
+    "name": "aurelia-charts",
+    "url": "https://github.com/SpoonX/aurelia-charts"
+  },
+  {
+    "name": "aurelia-view-manager",
+    "url": "https://github.com/SpoonX/aurelia-view-manager"
+  },
+  {
+    "name": "aurelia-resize",
+    "url": "https://github.com/MeirionHughes/aurelia-resize"
+  },
+  {
+    "name": "aurelia-keyboard-plugin",
+    "url": "https://github.com/Novatrox/aurelia-keyboard-plugin"
+  },
+  {
+    "name": "aurelia-ui-framework",
+    "url": "https://github.com/adarshpastakia/aurelia-ui-framework"
+  },
+  {
+    "name": "aurelia-tags-input",
+    "url": "https://github.com/TGMorais/aurelia-tags-input"
+  },
+  {
+    "name": "aurelia-formio",
+    "url": "https://github.com/formio/aurelia-formio",
+    "description": "See Example"
+  },
+  {
+    "name": "aurelia-swipeout",
+    "url": "https://github.com/michaelbull/aurelia-swipeout",
+    "description": "Demo"
+  },
+  {
+    "name": "aurelia-split-pane",
+    "url": "https://github.com/michaelbull/aurelia-split-pane",
+    "description": "Demo"
+  },
+  {
+    "name": "aurelia-bootstrap-plugins",
+    "url": "https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins",
+    "description": "Demo"
+  },
+  {
+    "name": "aurelia-slickgrid",
+    "url": "https://github.com/ghiscoding/aurelia-slickgrid",
+    "description": "Demo"
+  },
+  {
+    "name": "casl-aurelia",
+    "url": "https://github.com/stalniy/casl/tree/master/packages/casl-aurelia"
+  },
+  {
+    "name": "aurelia-json-schema-form",
+    "url": "https://github.com/jbockle/aurelia-json-schema-form"
+  },
+  {
+    "name": "aurelia-highlightjs",
+    "url": "https://aurelia-highlightjs.r-w-x.net/#/demo"
+  },
+  {
+    "name": "aurelia-fontawesome",
+    "url": "https://github.com/jmzagorski/aurelia-fontawesome"
+  },
+  {
+    "name": "aurelia-kis-oidc",
+    "url": "https://github.com/kisssdev/aurelia-kis-oidc"
+  },
+  {
+    "name": "aurelia-telemetry",
+    "url": "https://github.com/manuel-guilbault/aurelia-telemetry"
+  },
+  {
+    "name": "{{ add_your_repo }}",
+    "url": "https://github.com/behzad888/awesome/edit/master/README.md"
+  },
+  {
+    "name": "aurelia-animator-tinyanimate",
+    "url": "https://github.com/gooy/aurelia-animator-tinyanimate"
+  },
+  {
+    "name": "sukobuto/aurelia-tinymce-sample",
+    "url": "https://github.com/sukobuto/aurelia-tinymce-sample"
+  },
+  {
+    "name": "stamp-web/stamp-web-aurelia",
+    "url": "https://github.com/stamp-web/stamp-web-aurelia"
+  },
+  {
+    "name": "aurelia-tabs",
+    "url": "https://github.com/Vheissu/aurelia-tabs"
+  },
+  {
+    "name": "aurelia-flickr-ts-memo-game",
+    "url": "https://github.com/kst83/aurelia-flickr-ts-memo-game"
+  },
+  {
+    "name": "aurelia-datatable",
+    "url": "https://github.com/SpoonX/aurelia-datatable"
+  },
+  {
+    "name": "aurelia-v-grid",
+    "url": "https://github.com/aurelia-ui-toolkits/aurelia-v-grid"
+  },
+  {
+    "name": "aurelia-leaflet",
+    "url": "https://github.com/benib/aurelia-leaflet"
+  },
+  {
+    "name": "aurelia-chart",
+    "url": "https://github.com/grofit/aurelia-chart"
+  },
+  {
+    "name": "aurelia-toolbelt",
+    "url": "https://github.com/aurelia-toolbelt/aurelia-toolbelt"
+  },
+  {
+    "name": "ag-grid-aurelia",
+    "url": "https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia",
+    "description": "Demo"
+  },
+  {
+    "name": "sentry",
+    "url": "https://github.com/Foursails/sentry"
+  },
+  {
+    "name": "aurelia-authentication-loopback-sample",
+    "url": "https://github.com/doktordirk/aurelia-authentication-loopback-sample"
+  },
+  {
+    "name": "aurelia-identityserver-aspnetcore",
+    "url": "https://github.com/paulvanbladel/aurelia-identityserver-aspnetcore"
+  },
+  {
+    "name": "casl-aurelia-example",
+    "url": "https://github.com/stalniy/casl-aurelia-example"
+  },
+  {
+    "name": "pollyfils",
+    "url": "https://github.com/aurelia/polyfills"
+  },
+  {
+    "name": "aurelia-sails-socket-client",
+    "url": "https://github.com/Mordred/aurelia-sails-socket-client"
+  },
+  {
+    "name": "aurelia-bundler",
+    "url": "https://github.com/aurelia/bundler"
+  },
+  {
+    "name": "{{ add_your_repo }}",
+    "url": "https://github.com/behzad888/awesome/edit/master/README.md"
+  },
+  {
+    "name": "jdanyow/aurelia-breeze-northwind",
+    "url": "https://github.com/jdanyow/aurelia-breeze-northwind"
+  },
+  {
+    "name": "jdanyow/aurelia-solitaire",
+    "url": "https://github.com/jdanyow/aurelia-solitaire"
+  },
+  {
+    "name": "discosultan/aurelia-minesweeper",
+    "url": "https://github.com/discosultan/aurelia-minesweeper/"
+  },
+  {
+    "name": "aurelia-webapi-example",
+    "url": "https://github.com/jimschubert/aurelia-webapi-example"
+  },
+  {
+    "name": "michaelbull/aurelia-hacker-news",
+    "url": "https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone"
+  },
+  {
+    "name": "Built with Aurelia",
+    "url": "http://builtwithaurelia.com/"
+  },
+  {
+    "name": "aurelia-electron-webpack",
+    "url": "https://github.com/timfish/aurelia-electron-webpack"
+  },
+  {
+    "name": "AureliaElectronHappiness",
+    "url": "https://github.com/seesharper/AureliaElectronHappiness"
+  },
+  {
+    "name": "electron-aurelia-example",
+    "url": "https://github.com/jimschubert/electron-aurelia-example"
+  },
+  {
+    "name": "TypeScript",
+    "url": "http://www.typescriptlang.org/"
+  },
+  {
+    "name": "REPL",
+    "url": "http://www.typescriptlang.org/Playground"
+  },
+  {
+    "name": "TypeScript Repository (GitHub)",
+    "url": "https://github.com/Microsoft/TypeScript"
+  },
+  {
+    "name": "DefinitelyTyped Repository (GitHub)",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+  },
+  {
+    "name": "TSD",
+    "url": "http://definitelytyped.org/tsd"
+  },
+  {
+    "name": "Aurelia Typescript",
+    "url": "https://github.com/cmichaelgraham/aurelia-typescript"
+  },
+  {
+    "name": "aurelia-axel",
+    "url": "https://github.com/cmichaelgraham/aurelia-axel"
+  },
+  {
+    "name": "aurelia-axel-northwind",
+    "url": "https://github.com/cmichaelgraham/aurelia-axel-northwind"
+  },
+  {
+    "name": "aurelia-skeleton-navigation-gulp-typescript",
+    "url": "https://github.com/Enrapt/aurelia-skeleton-navigation-gulp-typescript"
+  },
+  {
+    "name": "aurelia-chrome-extension-seed",
+    "url": "https://github.com/PraveenGandhi/aurelia-chrome-extension-seed"
+  },
+  {
+    "name": "{{ add_your_repo }}",
+    "url": "https://github.com/behzad888/awesome/edit/master/README.md"
+  },
+  {
+    "name": "{{ help_add_resources }}",
+    "url": "https://github.com/behzad888/awesome/edit/master/README.md"
+  },
+  {
+    "name": "ahmedshuhel/nav-app-es5",
+    "url": "https://github.com/ahmedshuhel/nav-app-es5"
+  },
+  {
+    "name": "aurelia-observer-patterns",
+    "url": "https://github.com/axwalker/aurelia-observer-patterns"
+  },
+  {
+    "name": "TsumiNa/meteor-aurelia",
+    "url": "https://github.com/TsumiNa/meteor-aurelia"
+  }
+]

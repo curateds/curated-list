@@ -1,0 +1,558 @@
+[
+  {
+    "name": "[carbonate] ",
+    "url": "http://www.playframework.com/modules/carbonate"
+  },
+  {
+    "name": "[chronostamp] ",
+    "url": "http://www.playframework.com/modules/chronostamp"
+  },
+  {
+    "name": "[db] ",
+    "url": "http://www.playframework.com/modules/db"
+  },
+  {
+    "name": "[jpagen] ",
+    "url": "http://www.playframework.com/modules/jpagen"
+  },
+  {
+    "name": "[liquibase] ",
+    "url": "http://www.playframework.com/modules/liquibase"
+  },
+  {
+    "name": "[logisimayml] ",
+    "url": "http://www.playframework.com/modules/logisimayml"
+  },
+  {
+    "name": "[migrate] ",
+    "url": "http://www.playframework.com/modules/migrate"
+  },
+  {
+    "name": "[multidb] ",
+    "url": "http://www.playframework.com/modules/multidb"
+  },
+  {
+    "name": "[capistrano] ",
+    "url": "http://www.playframework.com/modules/capistrano"
+  },
+  {
+    "name": "[cargo] ",
+    "url": "http://www.playframework.com/modules/cargo"
+  },
+  {
+    "name": "[cloudbees] ",
+    "url": "http://www.playframework.com/modules/cloudbees"
+  },
+  {
+    "name": "[cloudfoundry] ",
+    "url": "http://www.playframework.com/modules/cloudfoundry"
+  },
+  {
+    "name": "[dotcloud] ",
+    "url": "http://www.playframework.com/modules/dotcloud"
+  },
+  {
+    "name": "[gae] ",
+    "url": "http://www.playframework.com/modules/gae"
+  },
+  {
+    "name": "[heroku] ",
+    "url": "http://www.playframework.com/modules/heroku"
+  },
+  {
+    "name": "[jelastic] ",
+    "url": "http://www.playframework.com/modules/jelastic"
+  },
+  {
+    "name": "[openebay] ",
+    "url": "http://www.playframework.com/modules/openebay"
+  },
+  {
+    "name": "[openshift] ",
+    "url": "http://www.playframework.com/modules/openshift"
+  },
+  {
+    "name": "Q42's Google App Engine",
+    "url": "https://github.com/Q42/play-gae"
+  },
+  {
+    "name": "[playapps] ",
+    "url": "http://www.playframework.com/modules/playapps"
+  },
+  {
+    "name": "[reverseproxy] ",
+    "url": "http://www.playframework.com/modules/reverseproxy"
+  },
+  {
+    "name": "[router] ",
+    "url": "http://www.playframework.com/modules/router"
+  },
+  {
+    "name": "[stax] ",
+    "url": "http://www.playframework.com/modules/stax"
+  },
+  {
+    "name": "[vhost] ",
+    "url": "http://www.playframework.com/modules/vhost"
+  },
+  {
+    "name": "[constretto] ",
+    "url": "http://www.playframework.com/modules/constretto"
+  },
+  {
+    "name": "[guice] ",
+    "url": "http://www.playframework.com/modules/guice"
+  },
+  {
+    "name": "[ivy] ",
+    "url": "http://www.playframework.com/modules/ivy"
+  },
+  {
+    "name": "[maven] ",
+    "url": "http://www.playframework.com/modules/maven"
+  },
+  {
+    "name": "[spring] ",
+    "url": "http://www.playframework.com/modules/spring"
+  },
+  {
+    "name": "[googleclosure] ",
+    "url": "http://www.playframework.com/modules/googleclosure"
+  },
+  {
+    "name": "[gwt] ",
+    "url": "http://www.playframework.com/modules/gwt"
+  },
+  {
+    "name": "[gwt2] ",
+    "url": "http://www.playframework.com/modules/gwt2"
+  },
+  {
+    "name": "[scala] ",
+    "url": "http://www.playframework.com/modules/scala"
+  },
+  {
+    "name": "[scalagen] ",
+    "url": "http://www.playframework.com/modules/scalagen"
+  },
+  {
+    "name": "[scalasecure] ",
+    "url": "http://www.playframework.com/modules/scalasecure"
+  },
+  {
+    "name": "[akka] ",
+    "url": "http://www.playframework.com/modules/akka"
+  },
+  {
+    "name": "[camel] ",
+    "url": "http://www.playframework.com/modules/camel"
+  },
+  {
+    "name": "[pusher] ",
+    "url": "http://www.playframework.com/modules/pusher"
+  },
+  {
+    "name": "[rabbitmq] ",
+    "url": "http://www.playframework.com/modules/rabbitmq"
+  },
+  {
+    "name": "[accesslog] ",
+    "url": "http://www.playframework.com/modules/accesslog"
+  },
+  {
+    "name": "[betterlogs] ",
+    "url": "http://www.playframework.com/modules/betterlogs"
+  },
+  {
+    "name": "[infoplay] ",
+    "url": "http://www.playframework.com/modules/infoplay"
+  },
+  {
+    "name": "[jpastats] ",
+    "url": "http://www.playframework.com/modules/jpastats"
+  },
+  {
+    "name": "[log4play] ",
+    "url": "http://www.playframework.com/modules/log4play"
+  },
+  {
+    "name": "Hibernate statistics",
+    "url": "https://github.com/francisdb/play-hibernate-statistics"
+  },
+  {
+    "name": "[playerrors] ",
+    "url": "http://www.playframework.com/modules/playerrors"
+  },
+  {
+    "name": "Mini-profiler",
+    "url": "https://github.com/PerfectCarl/play-profiler"
+  },
+  {
+    "name": "[recordtracking] ",
+    "url": "http://www.playframework.com/modules/recordtracking"
+  },
+  {
+    "name": "[statsd] ",
+    "url": "http://www.playframework.com/modules/statsd"
+  },
+  {
+    "name": "[associations] ",
+    "url": "http://www.playframework.com/modules/associations"
+  },
+  {
+    "name": "[cream] ",
+    "url": "http://www.playframework.com/modules/cream"
+  },
+  {
+    "name": "[ebean] ",
+    "url": "http://www.playframework.com/modules/ebean"
+  },
+  {
+    "name": "[mongo] ",
+    "url": "http://www.playframework.com/modules/mongo"
+  },
+  {
+    "name": "[morphia] ",
+    "url": "http://www.playframework.com/modules/morphia"
+  },
+  {
+    "name": "[mybatisplay] ",
+    "url": "http://www.playframework.com/modules/mybatisplay"
+  },
+  {
+    "name": "[neo4j] ",
+    "url": "http://www.playframework.com/modules/neo4j"
+  },
+  {
+    "name": "[objectify] ",
+    "url": "http://www.playframework.com/modules/objectify"
+  },
+  {
+    "name": "[orientdb] ",
+    "url": "http://www.playframework.com/modules/orientdb"
+  },
+  {
+    "name": "[redis] ",
+    "url": "http://www.playframework.com/modules/redis"
+  },
+  {
+    "name": "[riak] ",
+    "url": "http://www.playframework.com/modules/riak"
+  },
+  {
+    "name": "[s3blobs] ",
+    "url": "http://www.playframework.com/modules/s3blobs"
+  },
+  {
+    "name": "[siena] ",
+    "url": "http://www.playframework.com/modules/siena"
+  },
+  {
+    "name": "[twig] ",
+    "url": "http://www.playframework.com/modules/twig"
+  },
+  {
+    "name": "[coffee] ",
+    "url": "http://www.playframework.com/modules/coffee"
+  },
+  {
+    "name": "[excel] ",
+    "url": "http://www.playframework.com/modules/excel"
+  },
+  {
+    "name": "[formee] ",
+    "url": "http://www.playframework.com/modules/formee"
+  },
+  {
+    "name": "[greenscript] ",
+    "url": "http://www.playframework.com/modules/greenscript"
+  },
+  {
+    "name": "[html5validation] ",
+    "url": "http://www.playframework.com/modules/html5validation"
+  },
+  {
+    "name": "[jqueryui] ",
+    "url": "http://www.playframework.com/modules/jqueryui"
+  },
+  {
+    "name": "[jqvalidate] ",
+    "url": "http://www.playframework.com/modules/jqvalidate"
+  },
+  {
+    "name": "[jqvalidation] ",
+    "url": "http://www.playframework.com/modules/jqvalidation"
+  },
+  {
+    "name": "[less] ",
+    "url": "http://www.playframework.com/modules/less"
+  },
+  {
+    "name": "[markdown] ",
+    "url": "http://www.playframework.com/modules/markdown"
+  },
+  {
+    "name": "[menu] ",
+    "url": "http://www.playframework.com/modules/menu"
+  },
+  {
+    "name": "[navigation] ",
+    "url": "http://www.playframework.com/modules/navigation"
+  },
+  {
+    "name": "[paginate] ",
+    "url": "http://www.playframework.com/modules/paginate"
+  },
+  {
+    "name": "[pdf] ",
+    "url": "http://www.playframework.com/modules/pdf"
+  },
+  {
+    "name": "[pegdown] ",
+    "url": "http://www.playframework.com/modules/pegdown"
+  },
+  {
+    "name": "[press] ",
+    "url": "http://www.playframework.com/modules/press"
+  },
+  {
+    "name": "[sass] ",
+    "url": "http://www.playframework.com/modules/sass"
+  },
+  {
+    "name": "[table] ",
+    "url": "http://www.playframework.com/modules/table"
+  },
+  {
+    "name": "[tabularasa] ",
+    "url": "http://www.playframework.com/modules/tabularasa"
+  },
+  {
+    "name": "[twitterbootstrap] ",
+    "url": "http://www.playframework.com/modules/twitterbootstrap"
+  },
+  {
+    "name": "[jersey] ",
+    "url": "http://www.playframework.com/modules/jersey"
+  },
+  {
+    "name": "[resteasy] ",
+    "url": "http://www.playframework.com/modules/resteasy"
+  },
+  {
+    "name": "[resteasycrud] ",
+    "url": "http://www.playframework.com/modules/resteasycrud"
+  },
+  {
+    "name": "[swagger] ",
+    "url": "http://www.playframework.com/modules/swagger"
+  },
+  {
+    "name": "[crudsiena] ",
+    "url": "http://www.playframework.com/modules/crudsiena"
+  },
+  {
+    "name": "[mocha] ",
+    "url": "http://www.playframework.com/modules/mocha"
+  },
+  {
+    "name": "Basic bootstrap scaffolding",
+    "url": "https://github.com/phaus/play-bootstrap"
+  },
+  {
+    "name": "[scaffold] ",
+    "url": "http://www.playframework.com/modules/scaffold"
+  },
+  {
+    "name": "[elasticsearch] ",
+    "url": "http://www.playframework.com/modules/elasticsearch"
+  },
+  {
+    "name": "[search] ",
+    "url": "http://www.playframework.com/modules/search"
+  },
+  {
+    "name": "[browserid] ",
+    "url": "http://www.playframework.com/modules/browserid"
+  },
+  {
+    "name": "[cas] ",
+    "url": "http://www.playframework.com/modules/cas"
+  },
+  {
+    "name": "[casino] ",
+    "url": "http://www.playframework.com/modules/casino"
+  },
+  {
+    "name": "[deadbolt] ",
+    "url": "http://www.playframework.com/modules/deadbolt"
+  },
+  {
+    "name": "[fbconnect] ",
+    "url": "http://www.playframework.com/modules/fbconnect"
+  },
+  {
+    "name": "[force] ",
+    "url": "http://www.playframework.com/modules/force"
+  },
+  {
+    "name": "[linkedin] ",
+    "url": "http://www.playframework.com/modules/linkedin"
+  },
+  {
+    "name": "[oauth] ",
+    "url": "http://www.playframework.com/modules/oauth"
+  },
+  {
+    "name": "[recaptcha] ",
+    "url": "http://www.playframework.com/modules/recaptcha"
+  },
+  {
+    "name": "[securepermissions] ",
+    "url": "http://www.playframework.com/modules/securepermissions"
+  },
+  {
+    "name": "[securesocial] ",
+    "url": "http://www.playframework.com/modules/securesocial"
+  },
+  {
+    "name": "[shibboleth] ",
+    "url": "http://www.playframework.com/modules/shibboleth"
+  },
+  {
+    "name": "[fastergt] ",
+    "url": "http://www.playframework.com/modules/fastergt"
+  },
+  {
+    "name": "[japid] ",
+    "url": "http://www.playframework.com/modules/japid"
+  },
+  {
+    "name": "[mustache] ",
+    "url": "http://www.playframework.com/modules/mustache"
+  },
+  {
+    "name": "[rythm] ",
+    "url": "http://www.playframework.com/modules/rythm"
+  },
+  {
+    "name": "[scalate] ",
+    "url": "http://www.playframework.com/modules/scalate"
+  },
+  {
+    "name": "[thymeleaf] ",
+    "url": "http://www.playframework.com/modules/thymeleaf"
+  },
+  {
+    "name": "[cobertura] ",
+    "url": "http://www.playframework.com/modules/cobertura"
+  },
+  {
+    "name": "[httpmock] ",
+    "url": "http://www.playframework.com/modules/httpmock"
+  },
+  {
+    "name": "[mockito] ",
+    "url": "http://www.playframework.com/modules/mockito"
+  },
+  {
+    "name": "[qunit] ",
+    "url": "http://www.playframework.com/modules/qunit"
+  },
+  {
+    "name": "[spocktests] ",
+    "url": "http://www.playframework.com/modules/spocktests"
+  },
+  {
+    "name": "[springtester] ",
+    "url": "http://www.playframework.com/modules/springtester"
+  },
+  {
+    "name": "[tests] ",
+    "url": "http://www.playframework.com/modules/tests"
+  },
+  {
+    "name": "[webdrive] ",
+    "url": "http://www.playframework.com/modules/webdrive"
+  },
+  {
+    "name": "[i18ntools] ",
+    "url": "http://www.playframework.com/modules/i18ntools"
+  },
+  {
+    "name": "[messages] ",
+    "url": "http://www.playframework.com/modules/messages"
+  },
+  {
+    "name": "[nemrod] ",
+    "url": "http://www.playframework.com/modules/nemrod"
+  },
+  {
+    "name": "Play-i18ned",
+    "url": "https://github.com/phaus/play-i18ned"
+  },
+  {
+    "name": "[bespin] ",
+    "url": "http://www.playframework.com/modules/bespin"
+  },
+  {
+    "name": "[bhave] ",
+    "url": "http://www.playframework.com/modules/bhave"
+  },
+  {
+    "name": "[cheese] ",
+    "url": "http://www.playframework.com/modules/cheese"
+  },
+  {
+    "name": "[cms] ",
+    "url": "http://www.playframework.com/modules/cms"
+  },
+  {
+    "name": "[cnm] ",
+    "url": "http://www.playframework.com/modules/cnm"
+  },
+  {
+    "name": "[externalconfig] ",
+    "url": "http://www.playframework.com/modules/externalconfig"
+  },
+  {
+    "name": "[featureflags] ",
+    "url": "http://www.playframework.com/modules/featureflags"
+  },
+  {
+    "name": "[googlecheckout] ",
+    "url": "http://www.playframework.com/modules/googlecheckout"
+  },
+  {
+    "name": "[gravatar] ",
+    "url": "http://www.playframework.com/modules/gravatar"
+  },
+  {
+    "name": "[hazelcast] ",
+    "url": "http://www.playframework.com/modules/hazelcast"
+  },
+  {
+    "name": "[postmark] ",
+    "url": "http://www.playframework.com/modules/postmark"
+  },
+  {
+    "name": "[useragentcheck] ",
+    "url": "http://www.playframework.com/modules/useragentcheck"
+  },
+  {
+    "name": "[play1-chart] ",
+    "url": "http://sant0s.github.io/play1-chart/"
+  },
+  {
+    "name": "Mavenized modules",
+    "url": "https://code.google.com/p/maven-play-plugin/wiki/MavenizedModules"
+  },
+  {
+    "name": "Using Play's controller",
+    "url": "http://www.javabeat.net/using-controllers-in-play-framework/"
+  },
+  {
+    "name": "Luo",
+    "url": "https://github.com/greenlaw110"
+  }
+]

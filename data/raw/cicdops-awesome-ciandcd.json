@@ -1,0 +1,754 @@
+[
+  {
+    "name": "continuousIntegration",
+    "url": "http://martinfowler.com/articles/continuousIntegration.html"
+  },
+  {
+    "name": "continuousdelivery",
+    "url": "http://continuousdelivery.com"
+  },
+  {
+    "name": "software integration",
+    "url": "https://en.wikipedia.org/wiki/System_integration"
+  },
+  {
+    "name": "ci/cd pipeline",
+    "url": "https://semaphoreci.com/blog/cicd-pipeline"
+  },
+  {
+    "name": "devopsdays",
+    "url": "http://www.devopsdays.org"
+  },
+  {
+    "name": "ci cheatsheet",
+    "url": "https://dzone.com/refcardz/continuous-integration"
+  },
+  {
+    "name": "devops_roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "name": "Jenkins",
+    "url": "http://jenkins-ci.org"
+  },
+  {
+    "name": "Solano CI",
+    "url": "https://www.solanolabs.com"
+  },
+  {
+    "name": "Concourse",
+    "url": "https://concourse-ci.org"
+  },
+  {
+    "name": "BuildForge",
+    "url": "https://jazz.net/downloads/rational-build-forge/"
+  },
+  {
+    "name": "ElectricFlow",
+    "url": "http://electric-cloud.com/products/electricflow/"
+  },
+  {
+    "name": "Teamcity",
+    "url": "http://www.jetbrains.com/teamcity/index.html"
+  },
+  {
+    "name": "bamboo",
+    "url": "https://www.atlassian.com/software/bamboo"
+  },
+  {
+    "name": "go (the old snap-ci)",
+    "url": "https://www.gocd.org/"
+  },
+  {
+    "name": "hudson",
+    "url": "http://hudson-ci.org"
+  },
+  {
+    "name": "openbuildservice",
+    "url": "http://openbuildservice.org"
+  },
+  {
+    "name": "buildbot",
+    "url": "http://trac.buildbot.net"
+  },
+  {
+    "name": "Parabuild",
+    "url": "http://www.viewtier.com/index.htm"
+  },
+  {
+    "name": "FinalBuilder",
+    "url": "https://www.finalbuilder.com/"
+  },
+  {
+    "name": "VisualBuild",
+    "url": "http://www.kinook.com/VisBuildPro/"
+  },
+  {
+    "name": "cruisecontrol",
+    "url": "http://www.cruisecontrolnet.org"
+  },
+  {
+    "name": "continuum",
+    "url": "http://continuum.apache.org/"
+  },
+  {
+    "name": "quickbuild",
+    "url": "http://www.pmease.com/"
+  },
+  {
+    "name": "rexify",
+    "url": "http://www.rexify.org//"
+  },
+  {
+    "name": "SimpleCI",
+    "url": "https://github.com/simpleci/simpleci"
+  },
+  {
+    "name": "pulse",
+    "url": "http://zutubi.com"
+  },
+  {
+    "name": "PHP Censor",
+    "url": "https://github.com/php-censor/php-censor"
+  },
+  {
+    "name": "rundeck",
+    "url": "http://rundeck.org"
+  },
+  {
+    "name": "cds",
+    "url": "https://ovh.github.io/cds"
+  },
+  {
+    "name": "Drone CI",
+    "url": "https://drone.io/"
+  },
+  {
+    "name": "Luigi",
+    "url": "https://github.com/spotify/luigi"
+  },
+  {
+    "name": "Kraken CI",
+    "url": "https://kraken.ci"
+  },
+  {
+    "name": "appcircle.io",
+    "url": "https://appcircle.io"
+  },
+  {
+    "name": "closeheat",
+    "url": "http://closeheat.com"
+  },
+  {
+    "name": "travis-ci",
+    "url": "https://travis-ci.org"
+  },
+  {
+    "name": "cloudbees",
+    "url": "https://www.cloudbees.com/"
+  },
+  {
+    "name": "elasticbox",
+    "url": "https://elasticbox.com"
+  },
+  {
+    "name": "coveralls",
+    "url": "https://coveralls.io"
+  },
+  {
+    "name": "shippable",
+    "url": "https://app.shippable.com/"
+  },
+  {
+    "name": "circleci",
+    "url": "https://circleci.com"
+  },
+  {
+    "name": "buildbox",
+    "url": "https://buildkite.com/"
+  },
+  {
+    "name": "drone",
+    "url": "https://drone.io"
+  },
+  {
+    "name": "appveyor",
+    "url": "http://www.appveyor.com"
+  },
+  {
+    "name": "snap-ci",
+    "url": "https://snap-ci.com"
+  },
+  {
+    "name": "codeship",
+    "url": "https://codeship.com"
+  },
+  {
+    "name": "githost",
+    "url": "https://githost.io"
+  },
+  {
+    "name": "testling",
+    "url": "https://ci.testling.com"
+  },
+  {
+    "name": "magnum-ci",
+    "url": "https://magnum-ci.com"
+  },
+  {
+    "name": "wercker",
+    "url": "http://wercker.com"
+  },
+  {
+    "name": "codecov",
+    "url": "https://codecov.io"
+  },
+  {
+    "name": "GitLab CI",
+    "url": "https://about.gitlab.com/gitlab-ci/",
+    "description": "Based off of ruby. They also provide GitLab, which manages git repositories."
+  },
+  {
+    "name": "IBM DevOps Services",
+    "url": "https://hub.jazz.net",
+    "description": "Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform."
+  },
+  {
+    "name": "deploybot",
+    "url": "https://deploybot.com",
+    "description": "Instantly build and ship code anywhere in one consistent process for your entire team."
+  },
+  {
+    "name": "Semaphore CI",
+    "url": "https://semaphoreci.com/"
+  },
+  {
+    "name": "flow.ci",
+    "url": "https://flow.ci/",
+    "description": "flow.ci, hosted continuous integration and delivery service for innovators who shape the future."
+  },
+  {
+    "name": "Bitrise",
+    "url": "https://www.bitrise.io/"
+  },
+  {
+    "name": "Cirrus CI",
+    "url": "https://cirrus-ci.org"
+  },
+  {
+    "name": "DeployPlace",
+    "url": "https://deployplace.com",
+    "description": "Complex deployments become simple. Deploy your applications from git or CI in minutes."
+  },
+  {
+    "name": "Buildkite",
+    "url": "https://buildkite.com",
+    "description": "Lightning fast testing and delivery for all your software projects"
+  },
+  {
+    "name": "CatLight",
+    "url": "https://catlight.io"
+  },
+  {
+    "name": "Barklarm",
+    "url": "https://www.barklarm.com/"
+  },
+  {
+    "name": "CCMenu",
+    "url": "http://ccmenu.org/"
+  },
+  {
+    "name": "GridWiki",
+    "url": "http://wiki.gridengine.info/wiki/index.php/Main_Page"
+  },
+  {
+    "name": "UGE",
+    "url": "http://www.univa.com"
+  },
+  {
+    "name": "SGE",
+    "url": "http://gridscheduler.sourceforge.net"
+  },
+  {
+    "name": "LSF",
+    "url": "http://www-03.ibm.com/systems/platformcomputing/products/lsf/"
+  },
+  {
+    "name": "vmwarevshpere",
+    "url": "http://www.vmware.com/products/vsphere"
+  },
+  {
+    "name": "citrixserver",
+    "url": "http://www.citrix.com/products/xenserver/overview.html"
+  },
+  {
+    "name": "amazon",
+    "url": "http://aws.amazon.com/ec2/"
+  },
+  {
+    "name": "mesosphere-dc/os",
+    "url": "mesosphere.com"
+  },
+  {
+    "name": "boxstarter",
+    "url": "http://boxstarter.org/"
+  },
+  {
+    "name": "T.A.D.S. boilerplate",
+    "url": "https://github.com/Thomvaill/tads-boilerplate"
+  },
+  {
+    "name": "vagrantup",
+    "url": "https://www.vagrantup.com/"
+  },
+  {
+    "name": "veewee",
+    "url": "https://github.com/jedi4ever/veewee"
+  },
+  {
+    "name": "git",
+    "url": "http://git-scm.com"
+  },
+  {
+    "name": "perforce",
+    "url": "https://www.perforce.com/"
+  },
+  {
+    "name": "clearcase",
+    "url": "http://www-03.ibm.com/software/products/en/clearcase"
+  },
+  {
+    "name": "mercurial",
+    "url": "https://www.mercurial-scm.org/"
+  },
+  {
+    "name": "svn",
+    "url": "http://subversion.apache.org"
+  },
+  {
+    "name": "gitlab",
+    "url": "https://about.gitlab.com/"
+  },
+  {
+    "name": "github",
+    "url": "https://github.com"
+  },
+  {
+    "name": "bitbuckets",
+    "url": "https://bitbucket.org"
+  },
+  {
+    "name": "teamfoundationservice",
+    "url": "http://tfs.visualstudio.com"
+  },
+  {
+    "name": "phabricator",
+    "url": "http://phabricator.org/"
+  },
+  {
+    "name": "IBM DevOps Services",
+    "url": "https://hub.jazz.net",
+    "description": "Store, manage, edit, and collaborate on your source code. Then deploy onto the IBM Bluemix cloud platform."
+  },
+  {
+    "name": "codecollaborator",
+    "url": "http://smartbear.com/product/collaborator/overview/"
+  },
+  {
+    "name": "crucible",
+    "url": "https://www.atlassian.com/software/crucible/overview"
+  },
+  {
+    "name": "reviewboard",
+    "url": "https://www.reviewboard.org/"
+  },
+  {
+    "name": "codestriker",
+    "url": "http://codestriker.sourceforge.net"
+  },
+  {
+    "name": "getbarkeep",
+    "url": "http://getbarkeep.org"
+  },
+  {
+    "name": "gerrit",
+    "url": "https://code.google.com/p/gerrit/"
+  },
+  {
+    "name": "Codebrag",
+    "url": "http://www.codebrag.com/"
+  },
+  {
+    "name": "Upsource",
+    "url": "https://www.jetbrains.com/upsource/"
+  },
+  {
+    "name": "Ebert",
+    "url": "https://ebertapp.io"
+  },
+  {
+    "name": "gnumake",
+    "url": "http://www.gnu.org/software/make/"
+  },
+  {
+    "name": "gnuautoconf",
+    "url": "http://www.gnu.org/software/autoconf/"
+  },
+  {
+    "name": "mozillabuildtools",
+    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions"
+  },
+  {
+    "name": "scons",
+    "url": "http://www.scons.org"
+  },
+  {
+    "name": "cmake",
+    "url": "https://cmake.org/"
+  },
+  {
+    "name": "msbuild",
+    "url": "http://msdn.microsoft.com/en-us/library/dd393574.aspx"
+  },
+  {
+    "name": "ant",
+    "url": "http://ant.apache.org"
+  },
+  {
+    "name": "maven",
+    "url": "http://maven.apache.org"
+  },
+  {
+    "name": "gradle",
+    "url": "http://gradle.org/"
+  },
+  {
+    "name": "ElectricacCelerator",
+    "url": "http://electric-cloud.com/products/electricaccelerator"
+  },
+  {
+    "name": "SBT",
+    "url": "http://www.scala-sbt.org/index.html"
+  },
+  {
+    "name": "do",
+    "url": "https://github.com/8gears/do"
+  },
+  {
+    "name": "static tools wiki",
+    "url": "https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis"
+  },
+  {
+    "name": "coverity",
+    "url": "http://www.coverity.com/"
+  },
+  {
+    "name": "fxcop",
+    "url": "http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx"
+  },
+  {
+    "name": "cpd",
+    "url": "http://pmd.sourceforge.net/pmd-4.3.0/cpd.html"
+  },
+  {
+    "name": "sonar",
+    "url": "http://www.sonarqube.org"
+  },
+  {
+    "name": "findbugs",
+    "url": "http://findbugs.sourceforge.net"
+  },
+  {
+    "name": "checkstyle",
+    "url": "http://checkstyle.sourceforge.net"
+  },
+  {
+    "name": "dynamic tools wiki",
+    "url": "https://en.wikipedia.org/wiki/Dynamic_program_analysis"
+  },
+  {
+    "name": "valgrind",
+    "url": "http://valgrind.org"
+  },
+  {
+    "name": "performance tools wiki",
+    "url": "https://en.wikipedia.org/wiki/List_of_performance_analysis_tools"
+  },
+  {
+    "name": "code coverage wiki",
+    "url": "https://en.wikipedia.org/wiki/Code_coverage"
+  },
+  {
+    "name": "Testingautomation",
+    "url": "https://en.wikipedia.org/wiki/Test_automation"
+  },
+  {
+    "name": "softwareqatest",
+    "url": "http://www.softwareqatest.com"
+  },
+  {
+    "name": "qaforums",
+    "url": "http://www.qaforums.com"
+  },
+  {
+    "name": "opensourcetesting",
+    "url": "http://www.opensourcetesting.org"
+  },
+  {
+    "name": "selenium",
+    "url": "http://www.seleniumhq.org"
+  },
+  {
+    "name": "Monkey Test It",
+    "url": "https://monkeytest.it"
+  },
+  {
+    "name": "Assertible",
+    "url": "https://assertible.com"
+  },
+  {
+    "name": "Macaca",
+    "url": "https://github.com/alibaba/macaca"
+  },
+  {
+    "name": "installshield",
+    "url": "http://www.installshield.com"
+  },
+  {
+    "name": "NSIS",
+    "url": "http://nsis.sourceforge.net/Main_Page"
+  },
+  {
+    "name": "rpm",
+    "url": "http://rpm.org"
+  },
+  {
+    "name": "yum",
+    "url": "http://yum.baseurl.org"
+  },
+  {
+    "name": "fpm",
+    "url": "https://github.com/jordansissel/fpm"
+  },
+  {
+    "name": "wix",
+    "url": "http://wixtoolset.org/"
+  },
+  {
+    "name": "packer",
+    "url": "https://www.packer.io/"
+  },
+  {
+    "name": "jfrog",
+    "url": "https://www.jfrog.com/"
+  },
+  {
+    "name": "xl-deploy",
+    "url": "https://xebialabs.com/products/xl-deploy"
+  },
+  {
+    "name": "Jenkinsdeployplugin",
+    "url": "https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin"
+  },
+  {
+    "name": "bintray",
+    "url": "https://bintray.com"
+  },
+  {
+    "name": "Gitploy",
+    "url": "https://www.gitploy.io/"
+  },
+  {
+    "name": "sl-release",
+    "url": "https://xebialabs.com/products/xl-release"
+  },
+  {
+    "name": "archiva",
+    "url": "http://archiva.apache.org/index.cgi"
+  },
+  {
+    "name": "nexus",
+    "url": "http://www.sonatype.com/nexus"
+  },
+  {
+    "name": "chocolatey",
+    "url": "https://chocolatey.org/"
+  },
+  {
+    "name": "pulp",
+    "url": "http://www.pulpproject.org/"
+  },
+  {
+    "name": "herd",
+    "url": "https://github.com/russss/Herd"
+  },
+  {
+    "name": "murder",
+    "url": "https://github.com/lg/murder"
+  },
+  {
+    "name": "Ansible",
+    "url": "http://www.ansible.com"
+  },
+  {
+    "name": "Chef",
+    "url": "https://www.chef.io/chef/"
+  },
+  {
+    "name": "SaltStack",
+    "url": "http://saltstack.com/community/"
+  },
+  {
+    "name": "terraform",
+    "url": "https://www.terraform.io"
+  },
+  {
+    "name": "Deepfence Enterprise",
+    "url": "https://deepfence.io",
+    "description": "Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless."
+  },
+  {
+    "name": "Deepfence Threat Mapper",
+    "url": "https://github.com/deepfence/ThreatMapper",
+    "description": "Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless."
+  },
+  {
+    "name": "whitesource",
+    "url": "https://www.whitesourcesoftware.com/"
+  },
+  {
+    "name": "apache",
+    "url": "https://httpd.apache.org"
+  },
+  {
+    "name": "nginx",
+    "url": "http://nginx.org"
+  },
+  {
+    "name": "tomcat",
+    "url": "http://tomcat.apache.org"
+  },
+  {
+    "name": "jetty",
+    "url": "http://www.eclipse.org/jetty/"
+  },
+  {
+    "name": "HAProxy",
+    "url": "http://www.haproxy.org/",
+    "description": "Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing."
+  },
+  {
+    "name": "awesome-shell",
+    "url": "https://github.com/itech001/awesome-shell/blob/master/README.md"
+  },
+  {
+    "name": "awesome-python",
+    "url": "https://github.com/vinta/awesome-python"
+  },
+  {
+    "name": "awesome-perl",
+    "url": "https://github.com/hachiojipm/awesome-perl"
+  },
+  {
+    "name": "awesome-sysadmin",
+    "url": "https://github.com/kahun/awesome-sysadmin"
+  },
+  {
+    "name": "docker",
+    "url": "https://www.docker.com",
+    "description": "An open platform for distributed applications for developers and sysadmins"
+  },
+  {
+    "name": "suseapplication",
+    "url": "https://www.suse.com/products/susestudio/"
+  },
+  {
+    "name": "liquibase",
+    "url": "http://www.liquibase.org"
+  },
+  {
+    "name": "flywaydb",
+    "url": "http://flywaydb.org"
+  },
+  {
+    "name": "Rumba RDBM",
+    "url": "https://www.dbinvent.com/"
+  },
+  {
+    "name": "dbdeploy",
+    "url": "http://dbdeploy.com"
+  },
+  {
+    "name": "dbmaestro",
+    "url": "http://www.dbmaestro.com/"
+  },
+  {
+    "name": "infoq",
+    "url": "http://www.infoq.com"
+  },
+  {
+    "name": "stackoverflow",
+    "url": "http://stackoverflow.com"
+  },
+  {
+    "name": "devops submit",
+    "url": "http://devopssummit.sys-con.com"
+  },
+  {
+    "name": "Securing DevOps",
+    "url": "https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8",
+    "description": "A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure."
+  },
+  {
+    "name": "Learning Continuous Integraion with TeamCity",
+    "url": "https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw",
+    "description": "Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity"
+  },
+  {
+    "name": "Pipeline as Code",
+    "url": "https://www.manning.com/books/pipeline-as-code",
+    "description": "A book on building CI/CD pipelines with Jenkins for cloud-native applications (including K8s & Serverless apps)."
+  },
+  {
+    "name": "Continuous Delivery for Kubernetes",
+    "url": "https://www.manning.com/books/continuous-delivery-for-kubernetes",
+    "description": "Take the fast track in your journey to continuous delivery, with open source tools for Kubernetes and cloud applications"
+  },
+  {
+    "name": "Continuous Delivery in Go",
+    "url": "https://www.manning.com/books/continuous-delivery-in-go",
+    "description": "Book that shows you how to build pipelines that optimize your development process so you can deliver software seamlessly to production."
+  },
+  {
+    "name": "awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "name": "awesome-awesome",
+    "url": "https://github.com/emijrp/awesome-awesome"
+  },
+  {
+    "name": "awesome-awesomeness",
+    "url": "https://github.com/bayandin/awesome-awesomeness"
+  },
+  {
+    "name": "sysadmin",
+    "url": "https://github.com/itech001/awesome-sysadmin"
+  },
+  {
+    "name": "ci tools compare",
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software"
+  },
+  {
+    "name": "ci tools compare2",
+    "url": "https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md"
+  },
+  {
+    "name": "ci tools compare 3",
+    "url": "https://github.com/ligurio/Continuous-Integration-services"
+  },
+  {
+    "name": "awesome-docker",
+    "url": "https://github.com/veggiemonk/awesome-docker"
+  }
+]

@@ -1,0 +1,1620 @@
+[
+  {
+    "name": "Apache Ant",
+    "url": "https://ant.apache.org/",
+    "description": "Automation build tool, similar to make, a library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "Apache Maven",
+    "url": "http://maven.apache.org/",
+    "description": "Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "Bazel",
+    "url": "http://www.bazel.io/",
+    "description": "A fast, scalable, multi-language and extensible build system. Used by Google. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "Bolt",
+    "url": "https://puppet.com/products/bolt",
+    "description": "You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. (Source Code) Apache-2.0 Ruby"
+  },
+  {
+    "name": "GNU Make",
+    "url": "http://www.gnu.org/software/make/",
+    "description": "The most popular automation build tool for many purposes, make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. (Source Code) GPL-3.0 C"
+  },
+  {
+    "name": "Gradle",
+    "url": "http://gradle.org/",
+    "description": "Another build automation system. (Source Code) Groovy/Java Apache-2.0"
+  },
+  {
+    "name": "Rake",
+    "url": "https://ruby.github.io/rake/",
+    "description": "Build automation tool similar to Make, written in and extensible in Ruby. (Source Code) MIT Ruby"
+  },
+  {
+    "name": "Amanda",
+    "url": "https://www.amanda.org/",
+    "description": "Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. (Source Code) MIT C"
+  },
+  {
+    "name": "Backupninja",
+    "url": "https://0xacab.org/liberate/backupninja",
+    "description": "Lightweight, extensible meta-backup system, provides a centralized way to configure and"
+  },
+  {
+    "name": "BackupPC",
+    "url": "https://backuppc.github.io/backuppc/",
+    "description": "High-performance, enterprise-grade system for backing up to a server's disk.. (Source Code) GPL-3.0 Perl"
+  },
+  {
+    "name": "Bareos",
+    "url": "https://www.bareos.org/",
+    "description": "Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. (Source Code) AGPL-3.0 C++/C"
+  },
+  {
+    "name": "Barman",
+    "url": "https://pgbarman.org",
+    "description": "Backup and Recovery Manager for PostgreSQL. (Source Code) GPL-3.0 Python"
+  },
+  {
+    "name": "BorgBackup",
+    "url": "https://www.borgbackup.org/",
+    "description": "Deduplicating archiver with compression and authenticated encryption. (Source Code) BSD-3-Clause Python"
+  },
+  {
+    "name": "Burp",
+    "url": "https://burp.grke.org/",
+    "description": "Network backup and restore program. (Source Code) AGPL-3.0 C"
+  },
+  {
+    "name": "Dar",
+    "url": "http://dar.linux.free.fr/",
+    "description": "Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. (Source Code) GPL-2.0 C++"
+  },
+  {
+    "name": "Duplicati",
+    "url": "https://www.duplicati.com",
+    "description": "Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. (Source Code) LGPL-2.1 C#"
+  },
+  {
+    "name": "Duplicity",
+    "url": "https://duplicity.gitlab.io/",
+    "description": "Encrypted bandwidth-efficient backup using the rsync algorithm. (Source Code) GPL-2.0 Python"
+  },
+  {
+    "name": "Proxmox Backup Server",
+    "url": "https://www.proxmox.com/en/proxmox-backup-server",
+    "description": "Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. (Source Code) GPL-3.0 Rust"
+  },
+  {
+    "name": "rclone",
+    "url": "https://rclone.org/",
+    "description": "Command-line program to sync files and directories to and from different cloud storage providers.. (Source Code) MIT Go"
+  },
+  {
+    "name": "Rdiff-backup",
+    "url": "https://rdiff-backup.net/",
+    "description": "Reverse differential backup tool, over a network or locally. (Source Code) GPL-2.0 Python"
+  },
+  {
+    "name": "Restic",
+    "url": "https://restic.net/",
+    "description": "Easy, fast, verifiable, secure and efficient remote backup tool. (Source Code) BSD-2-Clause Go"
+  },
+  {
+    "name": "Rsnapshot",
+    "url": "https://rsnapshot.org/",
+    "description": "Filesystem snapshot utility based on rsync. (Source Code) GPL-2.0 Perl"
+  },
+  {
+    "name": "Shield",
+    "url": "https://github.com/starkandwayne/shield",
+    "description": "A pluggable architecture for backup and restore of database systems. MIT Go"
+  },
+  {
+    "name": "UrBackup",
+    "url": "https://www.urbackup.org/",
+    "description": "Client/Server Open Source Network Backup for Windows, MacOS and Linux. (Source Code) AGPL-3.0 C/C++"
+  },
+  {
+    "name": "EasyBuild",
+    "url": "https://easybuild.readthedocs.org/en/latest/",
+    "description": "EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way."
+  },
+  {
+    "name": "environment-modules Lmod",
+    "url": "https://www.tacc.utexas.edu/research-development/tacc-projects/lmod",
+    "description": "Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem."
+  },
+  {
+    "name": "HPCBIOS",
+    "url": "http://hpcbios.readthedocs.org/en/latest/",
+    "description": "HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, inclusive of documentation."
+  },
+  {
+    "name": "Spack",
+    "url": "https://spack.io/",
+    "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers."
+  },
+  {
+    "name": "Eggdrop",
+    "url": "http://www.eggheads.org/",
+    "description": "The oldest Internet Relay Chat (IRC) bot still in active development. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Errbot",
+    "url": "http://errbot.io/",
+    "description": "a plugin based chatbot designed to be easily deployable, extensible and maintainable. (Source Code) GPL-3.0 Python"
+  },
+  {
+    "name": "Hubot",
+    "url": "https://hubot.github.com/",
+    "description": "A customizable, life embetterment robot. (Source Code) MIT Nodejs"
+  },
+  {
+    "name": "Chocolatey",
+    "url": "https://chocolatey.org/"
+  },
+  {
+    "name": "Clonezilla",
+    "url": "http://clonezilla.org/",
+    "description": "Partition and disk imaging/cloning program. (Source Code) GPL-2.0/Other Perl/Shell/Other"
+  },
+  {
+    "name": "Fog",
+    "url": "https://www.fogproject.org/",
+    "description": "Cloning/imaging solution/rescue suite. (Source Code) GPL-3.0 PHP/Shell"
+  },
+  {
+    "name": "CloudSlang",
+    "url": "http://www.cloudslang.io/",
+    "description": "Flow-based orchestration tool for managing deployed applications, with Docker capabilities. (Source Code)"
+  },
+  {
+    "name": "CloudStack",
+    "url": "http://cloudstack.apache.org/",
+    "description": "Cloud computing software for creating, managing, and deploying infrastructure cloud services. (Source Code)"
+  },
+  {
+    "name": "Cobbler",
+    "url": "http://cobbler.github.io/",
+    "description": "Cobbler is a Linux installation server that allows for rapid setup of network installation environments. (Source Code)"
+  },
+  {
+    "name": "Genesis",
+    "url": "https://github.com/starkandwayne/genesis",
+    "description": "A template framework for multi-environment BOSH deployments."
+  },
+  {
+    "name": "Overcast",
+    "url": "http://andrewchilds.github.io/overcast/",
+    "description": "Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. (SOurce Code)"
+  },
+  {
+    "name": "Collins",
+    "url": "http://tumblr.github.io/collins/",
+    "description": "At Tumblr, it's the infrastructure source of truth and knowledge."
+  },
+  {
+    "name": "i-doit",
+    "url": "http://www.i-doit.org/",
+    "description": "IT Documentation and CMDB."
+  },
+  {
+    "name": "iTop",
+    "url": "http://www.combodo.com/itop-193",
+    "description": "Complete ITIL web based service management tool."
+  },
+  {
+    "name": "netbox",
+    "url": "https://github.com/digitalocean/netbox",
+    "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool"
+  },
+  {
+    "name": "Ansible",
+    "url": "https://www.ansible.com/",
+    "description": "Provisioning, configuration management, and application-deployment tool. (Source Code)"
+  },
+  {
+    "name": "CFEngine",
+    "url": "https://cfengine.com/",
+    "description": "Configuration management system for automated configuration and maintenance of large-scale computer systems. (Source Code)"
+  },
+  {
+    "name": "Chef",
+    "url": "https://www.chef.io/products/chef-infra",
+    "description": "Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration \"recipes\". (Source Code)"
+  },
+  {
+    "name": "Puppet",
+    "url": "https://www.puppet.com/",
+    "description": "Software configuration management tool which includes its own declarative language to describe system configuration. (Source Code)"
+  },
+  {
+    "name": "Salt",
+    "url": "https://docs.saltproject.io/",
+    "description": "Event-driven IT automation, remote task execution, and configuration management software. (Source Code)"
+  },
+  {
+    "name": "Buildbot",
+    "url": "http://buildbot.net/",
+    "description": "Python-based toolkit for continuous integration. (Source Code) GPL-2.0 Python"
+  },
+  {
+    "name": "CapsuleCD",
+    "url": "https://analogj.github.io/capsulecd-slides/",
+    "description": "CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). (Source Code) MIT Go"
+  },
+  {
+    "name": "CDS",
+    "url": "https://ovh.github.io/cds/",
+    "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. (Source Code) BSD-3-Clause Go"
+  },
+  {
+    "name": "Concourse",
+    "url": "https://concourse-ci.org/",
+    "description": "Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. (Demo, Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "drone",
+    "url": "https://drone.io/",
+    "description": "Drone is a Continuous Delivery platform built on Docker, written in Go. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Factor",
+    "url": "http://www.factor.io/",
+    "description": "Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. (Source Code) MIT Ruby"
+  },
+  {
+    "name": "GitLab CI",
+    "url": "https://about.gitlab.com/gitlab-ci/",
+    "description": "Gitlab's built-in, full-featured CI/CD solution. (Source Code) MIT Ruby"
+  },
+  {
+    "name": "GoCD",
+    "url": "http://www.go.cd/",
+    "description": "Continuous delivery server. (Source Code) Apache-2.0 Java/Ruby"
+  },
+  {
+    "name": "GolangCI",
+    "url": "https://golangci.com/",
+    "description": "Open Source automated code review service for Go integrated with GitHub pull requests. (Source Code) AGPL-3.0 Go"
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://jenkins-ci.org/",
+    "description": "Continuous Integration Server. (Source Code) MIT Java"
+  },
+  {
+    "name": "Laminar",
+    "url": "http://laminar.ohwg.net",
+    "description": "Fast, lightweight, simple and flexible Continuous Integration. (Source Code) GPL-3.0 C++"
+  },
+  {
+    "name": "PHP Censor",
+    "url": "https://github.com/php-censor/php-censor",
+    "description": "Open source self-hosted continuous integration server for PHP projects. BSD-2-Clause PHP"
+  },
+  {
+    "name": "PHPCI",
+    "url": "https://www.phptesting.org/",
+    "description": "Free and open source continuous integration specifically designed for PHP. (Source Code) BSD-2-Clause PHP"
+  },
+  {
+    "name": "Strider",
+    "url": "http://strider-cd.github.io/",
+    "description": "Open Source Continuous Deployment / Continuous Integration platform. (Source Code) MIT Nodejs"
+  },
+  {
+    "name": "werf",
+    "url": "https://werf.io/",
+    "description": "Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Woodpecker",
+    "url": "https://woodpecker-ci.org/",
+    "description": "Community fork of Drone that uses Docker containers. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Ajenti",
+    "url": "http://ajenti.org/",
+    "description": "Control panel for Linux and BSD. (Source Code) MIT Python/Shell"
+  },
+  {
+    "name": "Cockpit",
+    "url": "http://cockpit-project.org/",
+    "description": "web-based graphical interface for servers. (Source Code) LGPL-2.1 C"
+  },
+  {
+    "name": "Froxlor",
+    "url": "https://froxlor.org/",
+    "description": "Lightweight server management software with Nginx and PHP-FPM support. (Source Code) GPL-2.0 PHP"
+  },
+  {
+    "name": "ISPConfig",
+    "url": "http://www.ispconfig.org",
+    "description": "Manage Linux servers directly through your browser. (Source Code) BSD-3-Clause PHP"
+  },
+  {
+    "name": "Sentora",
+    "url": "http://sentora.org/",
+    "description": "Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). (Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "VestaCP",
+    "url": "http://vestacp.com/",
+    "description": "Open-Source hosting control panel. (Source Code) GPL-3.0 PHP/Shell/Other"
+  },
+  {
+    "name": "Virtualmin",
+    "url": "http://www.virtualmin.com/",
+    "description": "Powerful and flexible web hosting control panel for Linux and BSD systems. (Source Code) GPL-3.0 Shell/Perl/Other"
+  },
+  {
+    "name": "Webmin",
+    "url": "http://www.webmin.com/",
+    "description": "Web-based interface for system administration for Unix. (Source Code) BSD-3-Clause Perl"
+  },
+  {
+    "name": "Capistrano",
+    "url": "http://capistranorb.com/",
+    "description": "Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based)."
+  },
+  {
+    "name": "Fabric",
+    "url": "http://www.fabfile.org/",
+    "description": "Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks."
+  },
+  {
+    "name": "Mina",
+    "url": "http://nadarei.co/mina/",
+    "description": "Really fast deployer and server automation tool (rake based)."
+  },
+  {
+    "name": "munki",
+    "url": "https://www.munki.org/munki/",
+    "description": "Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs."
+  },
+  {
+    "name": "Vlad the Deployer",
+    "url": "https://github.com/seattlerb/vlad",
+    "description": "Deployment automation (rake based)."
+  },
+  {
+    "name": "Diagrams.net",
+    "url": "https://app.diagrams.net/",
+    "description": "A.K.A. Draw.io. Easy to use Diagram UI with a plethora of templates."
+  },
+  {
+    "name": "DrawThe.Net",
+    "url": "http://go.drawthe.net/",
+    "description": "Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams."
+  },
+  {
+    "name": "Kroki",
+    "url": "https://kroki.io",
+    "description": "API for generating diagrams from textual descriptions. (Source Code) MIT Java"
+  },
+  {
+    "name": "Mermaid",
+    "url": "https://mermaid-js.github.io/mermaid-live-editor/",
+    "description": "Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana."
+  },
+  {
+    "name": "Ceph",
+    "url": "https://ceph.com/",
+    "description": "Distributed object, block, and file storage platform. (Source Code) LGPL-3.0 C++"
+  },
+  {
+    "name": "DRBD",
+    "url": "https://linbit.com/drbd/",
+    "description": "Distributed replicated storage system, implemented as a Linux kernel driver. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "GlusterFS",
+    "url": "https://www.gluster.org/",
+    "description": "Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. (Source Code) GPL-2.0/LGPL-3.0 C"
+  },
+  {
+    "name": "Hadoop Distributed Filesystem (HDFS)",
+    "url": "https://hadoop.apache.org/",
+    "description": "Distributed file system that provides high-throughput access to application data. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "JuiceFS",
+    "url": "https://juicefs.com/",
+    "description": "Distributed POSIX file system built on top of Redis and S3. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Kubo",
+    "url": "https://github.com/ipfs/kubo",
+    "description": "Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. Apache-2.0/MIT Go"
+  },
+  {
+    "name": "LeoFS",
+    "url": "https://leo-project.net",
+    "description": "Highly available, distributed, replicated eventually consistent object/blob store. (Source Code) Apache-2.0 Erlang"
+  },
+  {
+    "name": "Lustre",
+    "url": "https://www.lustre.org/",
+    "description": "Parallel distributed file system, generally used for large-scale cluster computing. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Minio",
+    "url": "https://min.io/",
+    "description": "High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. (Source Code) AGPL-3.0 Go"
+  },
+  {
+    "name": "MooseFS",
+    "url": "https://moosefs.com/",
+    "description": "Fault tolerant, network distributed file system. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "OpenAFS",
+    "url": "https://www.openafs.org/",
+    "description": "Distributed network file system with read-only replicas and multi-OS support. (Source Code) IPL-1.0 C"
+  },
+  {
+    "name": "Openstack Swift",
+    "url": "https://docs.openstack.org/developer/swift/",
+    "description": "A highly available, distributed, eventually consistent object/blob store. (Source Code) Apache-2.0 Python"
+  },
+  {
+    "name": "Perkeep",
+    "url": "https://perkeep.org/",
+    "description": "A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data (previously Camlistore). (Source Code) Apache-2.0 C"
+  },
+  {
+    "name": "TahoeLAFS",
+    "url": "https://tahoe-lafs.org/trac/tahoe-lafs",
+    "description": "Secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system. (Source Code) GPL-2.0 Python"
+  },
+  {
+    "name": "XtreemFS",
+    "url": "https://www.xtreemfs.org/",
+    "description": "Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. (Source Code) BSD-3-Clause Java"
+  },
+  {
+    "name": "Bind",
+    "url": "https://www.isc.org/bind/",
+    "description": "Versatile, classic, complete name server software. (Source Code) MPL-2.0 C"
+  },
+  {
+    "name": "CoreDNS",
+    "url": "https://coredns.io/",
+    "description": "Flexible DNS server. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "djbdns",
+    "url": "http://cr.yp.to/djbdns.html",
+    "description": "A collection of DNS applications, including tinydns. (Source Code) Public Domain C"
+  },
+  {
+    "name": "dnsmasq",
+    "url": "https://www.thekelleys.org.uk/dnsmasq/doc.html",
+    "description": "Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Knot",
+    "url": "https://www.knot-dns.cz/",
+    "description": "High performance authoritative-only DNS server. (Source Code) GPL-3.0 C"
+  },
+  {
+    "name": "NSD",
+    "url": "https://www.nlnetlabs.nl/projects/nsd/about/",
+    "description": "Authoritative DNS name server developed speed, reliability, stability and security. (Source Code) BSD-3-Clause C"
+  },
+  {
+    "name": "PowerDNS Authoritative Server",
+    "url": "https://doc.powerdns.com/authoritative/",
+    "description": "Versatile nameserver which supports a large number of backends. (Source Code) GPL-2.0 C++"
+  },
+  {
+    "name": "Unbound",
+    "url": "https://nlnetlabs.nl/projects/unbound/about/",
+    "description": "Validating, recursive, and caching DNS resolver. (Source Code) BSD-3-Clause C"
+  },
+  {
+    "name": "Yadifa",
+    "url": "https://www.yadifa.eu/",
+    "description": "Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. (Source Code) BSD-3-Clause C"
+  },
+  {
+    "name": "Atomia DNS",
+    "url": "https://atomiadns.com/",
+    "description": "DNS management system. (Source Code) ISC Perl"
+  },
+  {
+    "name": "Designate",
+    "url": "https://wiki.openstack.org/wiki/Designate",
+    "description": "DNSaaS services for OpenStack. (Source Code)"
+  },
+  {
+    "name": "DNSControl",
+    "url": "https://stackexchange.github.io/dnscontrol/",
+    "description": "Synchronize your DNS to multiple providers from a simple DSL. (Source Code) MIT Go/Docker"
+  },
+  {
+    "name": "DomainMOD",
+    "url": "https://domainmod.org",
+    "description": "Manage your domains and other internet assets in a central location. (Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "nsupdate.info",
+    "url": "https://www.nsupdate.info/",
+    "description": "Dynamic DNS service. (Demo, Source Code) BSD-3-Clause Python"
+  },
+  {
+    "name": "octoDNS",
+    "url": "https://github.com/github/octodns",
+    "description": "DNS as code - Tools for managing DNS across multiple providers. MIT Python"
+  },
+  {
+    "name": "Poweradmin",
+    "url": "https://www.poweradmin.org/",
+    "description": "Web-based DNS control panel for PowerDNS server. (Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "SPF Toolbox",
+    "url": "https://spftoolbox.com",
+    "description": "Application to look up DNS records such as SPF, MX, Whois, and more. (Source Code) MIT PHP"
+  },
+  {
+    "name": "Atom Community",
+    "url": "https://github.com/atom-community/atom",
+    "description": "A fork of atom A hackable text editor from Github."
+  },
+  {
+    "name": "Brackets",
+    "url": "http://brackets.io/",
+    "description": "Code editor for web designers and front-end developers."
+  },
+  {
+    "name": "Eclipse",
+    "url": "http://www.eclipse.org/",
+    "description": "IDE written in Java with an extensible plug-in system."
+  },
+  {
+    "name": "Geany",
+    "url": "http://www.geany.org/",
+    "description": "GTK2 text editor."
+  },
+  {
+    "name": "GNU Emacs",
+    "url": "http://www.gnu.org/software/emacs/",
+    "description": "An extensible, customizable text editor-and more."
+  },
+  {
+    "name": "Haroopad",
+    "url": "http://pad.haroopress.com/",
+    "description": "Markdown editor with live preview."
+  },
+  {
+    "name": "ICEcoder",
+    "url": "https://icecoder.net/",
+    "description": "Code editor awesomeness, built with common web languages."
+  },
+  {
+    "name": "jotgit",
+    "url": "https://github.com/jdleesmiller/jotgit",
+    "description": "Git-backed real-time collaborative code editing."
+  },
+  {
+    "name": "KDevelop",
+    "url": "https://www.kdevelop.org/",
+    "description": "IDE by the people behind KDE."
+  },
+  {
+    "name": "Micro",
+    "url": "https://micro-editor.github.io/",
+    "description": "A modern and intuitive terminal-based text editor"
+  },
+  {
+    "name": "Nano",
+    "url": "http://nano-editor.org",
+    "description": "Easy to use, customizable text editor."
+  },
+  {
+    "name": "Notepad++",
+    "url": "https://notepad-plus-plus.org/",
+    "description": "GPLv2 multi-language editor with syntax highlighting for Windows."
+  },
+  {
+    "name": "TextMate",
+    "url": "https://github.com/textmate/textmate/",
+    "description": "A graphical text editor for OS X."
+  },
+  {
+    "name": "Vim",
+    "url": "http://www.vim.org",
+    "description": "A highly configurable text editor built to enable efficient editing."
+  },
+  {
+    "name": "VSCodium",
+    "url": "https://github.com/VSCodium/vscodium",
+    "description": "An open source cross-platform extensible code editor based on VS Code by Microsoft removing their non-free additions."
+  },
+  {
+    "name": "389 Directory Server",
+    "url": "https://www.port389.org/",
+    "description": "Enterprise-class Open Source LDAP server for Linux. (Source Code) GPL-3.0 C"
+  },
+  {
+    "name": "Apache Directory Server",
+    "url": "https://directory.apache.org/apacheds/",
+    "description": "Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "FreeIPA",
+    "url": "https://www.freeipa.org/",
+    "description": "Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). (Source Code) GPL-3.0 Python/C/JavaScript"
+  },
+  {
+    "name": "FreeRADIUS",
+    "url": "https://freeradius.org/",
+    "description": "Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "lldap",
+    "url": "https://github.com/nitnelave/lldap",
+    "description": "Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. GPL-3.0 Rust"
+  },
+  {
+    "name": "OpenLDAP",
+    "url": "https://www.openldap.org/",
+    "description": "Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients). (Source Code) OLDAP-2.8 C"
+  },
+  {
+    "name": "BounCA",
+    "url": "https://bounca.org/",
+    "description": "A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates."
+  },
+  {
+    "name": "easy-rsa",
+    "url": "https://github.com/OpenVPN/easy-rsa",
+    "description": "bash script to build and manage a PKI CA."
+  },
+  {
+    "name": "Fusion Directory",
+    "url": "https://www.fusiondirectory.org",
+    "description": "Improve the Management of the services and the company directory based on OpenLDAP."
+  },
+  {
+    "name": "Indieauth",
+    "url": "https://indieauth.com/",
+    "description": "Sign in with your domain name (using the rel-me-auth protocol)."
+  },
+  {
+    "name": "LDAP Account Manager (LAM)",
+    "url": "https://www.ldap-account-manager.org/lamcms/",
+    "description": "Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory."
+  },
+  {
+    "name": "Libravatar",
+    "url": "https://www.libravatar.org/",
+    "description": "Libravatar is a service which delivers your avatar (profile picture) to other websites."
+  },
+  {
+    "name": "OpenID Connect",
+    "url": "http://openid.net/developers/libraries/",
+    "description": "A Simple Identity layer on top of OAuth 2.0."
+  },
+  {
+    "name": "OSIAM",
+    "url": "http://osiam.github.io/",
+    "description": "Secure identity management solution providing REST based services for authentication and authorization."
+  },
+  {
+    "name": "Pomerium",
+    "url": "https://www.pomerium.io/",
+    "description": "An identity and context aware access-proxy inspired by BeyondCorp."
+  },
+  {
+    "name": "Samba",
+    "url": "https://www.samba.org/"
+  },
+  {
+    "name": "Smallstep Certificates",
+    "url": "https://smallstep.com/certificates/",
+    "description": "A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management."
+  },
+  {
+    "name": "ZITADEL",
+    "url": "https://github.com/caos/zitadel",
+    "description": "Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management."
+  },
+  {
+    "name": "Authelia",
+    "url": "https://www.authelia.com/",
+    "description": "The Single Sign-On Multi-Factor portal for web apps. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Authentik",
+    "url": "https://goauthentik.io/",
+    "description": "Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). (Source Code) MIT Python"
+  },
+  {
+    "name": "KeyCloak",
+    "url": "https://www.keycloak.org",
+    "description": "Open Source Identity and Access Management. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "GLPI",
+    "url": "https://www.glpi-project.org/",
+    "description": "Information Resource-Manager with an additional Administration Interface. (Source Code)"
+  },
+  {
+    "name": "OCS Inventory NG",
+    "url": "https://ocsinventory-ng.org/",
+    "description": "Asset management and deployment solution for all devices in your IT Department. (Source Code) GPL-2.0 PHP/Perl"
+  },
+  {
+    "name": "OPSI",
+    "url": "http://www.opsi.org",
+    "description": "Hardware and software inventory, client management, deployment, and patching for Linux and Windows. (Source Code) GPL-3.0/AGPL-3.0 OVF/Python"
+  },
+  {
+    "name": "RackTables",
+    "url": "http://racktables.org/",
+    "description": "Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. (Source Code, Demo) GPL-2.0 PHP"
+  },
+  {
+    "name": "Ralph",
+    "url": "https://ralph.allegro.tech/",
+    "description": "Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. (Source Code, Demo) Apache-2.0 Python/Docker"
+  },
+  {
+    "name": "Snipe IT",
+    "url": "https://snipeitapp.com/",
+    "description": "Asset & license management software. (Source Code) AGPL-3.0 PHP"
+  },
+  {
+    "name": "Fluentd",
+    "url": "https://www.fluentd.org/",
+    "description": "Data collector for unified logging layer. (Source Code) Apache-2.0 Ruby"
+  },
+  {
+    "name": "Flume",
+    "url": "https://flume.apache.org/",
+    "description": "distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "GoAccess",
+    "url": "https://goaccess.io/",
+    "description": "Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. (Source Code) MIT C"
+  },
+  {
+    "name": "Loki",
+    "url": "https://grafana.com/oss/loki/",
+    "description": "Log aggregation system designed to store and query logs from all your applications and infrastructure. (Source Code) AGPL-3.0 Go"
+  },
+  {
+    "name": "rsyslog",
+    "url": "https://www.rsyslog.com/",
+    "description": "Rocket-fast system for log processing. (Source Code) GPL-3.0 C"
+  },
+  {
+    "name": "Claws Mail",
+    "url": "http://www.claws-mail.org/",
+    "description": "Old school email client (and news reader), based on GTK+. (Source Code)"
+  },
+  {
+    "name": "ImapSync",
+    "url": "http://imapsync.lamiral.info/"
+  },
+  {
+    "name": "Mutt",
+    "url": "http://www.mutt.org/",
+    "description": "Small but very powerful text-based mail client. (Source Code)"
+  },
+  {
+    "name": "Sylpheed",
+    "url": "http://sylpheed.sraoss.jp/en/"
+  },
+  {
+    "name": "Thunderbird",
+    "url": "https://www.thunderbird.net/",
+    "description": "Free email application that's easy to set up and customize. (Source Code)"
+  },
+  {
+    "name": "Adagios",
+    "url": "http://adagios.org/",
+    "description": "Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. (Source Code) AGPL-3.0 Docker/Python"
+  },
+  {
+    "name": "Alerta",
+    "url": "https://alerta.io/",
+    "description": "Distributed, scalable and flexible monitoring system. (Source Code) Apache-2.0 Python"
+  },
+  {
+    "name": "Bloonix",
+    "url": "https://bloonix-monitoring.org/",
+    "description": "Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. (Source Code) GPL-3.0 Perl"
+  },
+  {
+    "name": "Bosun",
+    "url": "http://bosun.org/",
+    "description": "Monitoring and alerting system by Stack Exchange (Source Code) MIT Go"
+  },
+  {
+    "name": "Cabot",
+    "url": "http://cabotapp.com/",
+    "description": "Monitoring and alerts, similar to PagerDuty. (Source Code) MIT Python"
+  },
+  {
+    "name": "Cacti",
+    "url": "http://www.cacti.net",
+    "description": "Web-based network monitoring and graphing tool. (Source Code) GPL-2.0 PHP"
+  },
+  {
+    "name": "cadvisor",
+    "url": "https://github.com/google/cadvisor",
+    "description": "Analyzes resource usage and performance characteristics of running containers (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "checkmk",
+    "url": "https://checkmk.com/",
+    "description": "Comprehensive solution for monitoring of applications, servers, and networks. (Source Code) Python/PHP"
+  },
+  {
+    "name": "dashdot",
+    "url": "https://github.com/MauriceNino/dashdot",
+    "description": "A simple, modern server dashboard for smaller private servers. (Demo) MIT Nodejs/Docker"
+  },
+  {
+    "name": "EdMon",
+    "url": "https://github.com/Edraens/EdMon",
+    "description": "A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. MIT Java"
+  },
+  {
+    "name": "eZ Server Monitor",
+    "url": "http://www.ezservermonitor.com",
+    "description": "A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. (Source Code) GPL-3.0 PHP/Shell"
+  },
+  {
+    "name": "Healthchecks",
+    "url": "https://healthchecks.io/docs/self_hosted/",
+    "description": "Monitoring for cron jobs, background services and scheduled tasks. (Source Code) BSD-3-Clause Python"
+  },
+  {
+    "name": "Icinga",
+    "url": "https://www.icinga.com/",
+    "description": "Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. (Source Code) GPL-2.0 C++"
+  },
+  {
+    "name": "LibreNMS",
+    "url": "http://www.librenms.org",
+    "description": "Fully featured network monitoring system that provides a wealth of features and device support. (Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "Linux Dash",
+    "url": "https://github.com/afaqurk/linux-dash",
+    "description": "A low-overhead monitoring web dashboard for a GNU/Linux machine. MIT Nodejs/Go/Python/PHP"
+  },
+  {
+    "name": "Monit",
+    "url": "http://mmonit.com/monit/#home",
+    "description": "Small utility for managing and monitoring Unix systems. (Source Code) AGPL-3.0 C"
+  },
+  {
+    "name": "Munin",
+    "url": "http://munin-monitoring.org/",
+    "description": "Networked resource monitoring tool. (Source Code) GPL-2.0 Perl/Shell"
+  },
+  {
+    "name": "Naemon",
+    "url": "http://www.naemon.org/",
+    "description": "Network monitoring tool based on the Nagios 4 core with performance enhancements and new features. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Nagios",
+    "url": "https://www.nagios.org/",
+    "description": "Computer system, network and infrastructure monitoring software application. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Netdata",
+    "url": "https://www.netdata.cloud/",
+    "description": "Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS. (Source Code) GPL-3.0 C"
+  },
+  {
+    "name": "NetXMS",
+    "url": "https://www.netxms.org/",
+    "description": "Open Source network and infrastructure monitoring and management. (Source Code) LGPL-3.0/GPL-3.0 Java/C++/C"
+  },
+  {
+    "name": "Observium",
+    "url": "http://www.observium.org/",
+    "description": "SNMP monitoring for servers and networking devices. Runs on linux."
+  },
+  {
+    "name": "OMD",
+    "url": "http://omdistro.org/",
+    "description": "The Open Monitoring Distribution."
+  },
+  {
+    "name": "Performance Co-Pilot",
+    "url": "http://pcp.io",
+    "description": "Lightweight, distributed system performance and analysis framework."
+  },
+  {
+    "name": "PHP Server Monitor",
+    "url": "https://www.phpservermonitor.org/",
+    "description": "Open source tool to monitor your servers and websites. (Source Code)"
+  },
+  {
+    "name": "PhpSysInfo",
+    "url": "https://phpsysinfo.github.io/phpsysinfo/",
+    "description": "A customizable PHP script that displays information about your system nicely. (Source Code)"
+  },
+  {
+    "name": "Prometheus",
+    "url": "https://prometheus.io/",
+    "description": "Service monitoring system and time series database. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "pyDash",
+    "url": "https://k3oni.github.io/pydash/",
+    "description": "Small web-based monitoring dashboard for linux. (Source Code)"
+  },
+  {
+    "name": "Riemann",
+    "url": "http://riemann.io/",
+    "description": "Flexible and fast events processor allowing complex events/metrics analysis. (Source Code)"
+  },
+  {
+    "name": "rtop",
+    "url": "https://github.com/rapidloop/rtop",
+    "description": "an interactive, remote system monitoring tool based on SSH. (Source Code)"
+  },
+  {
+    "name": "ruptime",
+    "url": "https://github.com/alexmyczko/ruptime",
+    "description": "classic system status server (Source Code) AGPL-3.0 Shell"
+  },
+  {
+    "name": "Scrutiny",
+    "url": "https://github.com/AnalogJ/scrutiny",
+    "description": "Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds"
+  },
+  {
+    "name": "Sensu",
+    "url": "https://sensu.io/",
+    "description": "Monitoring tool for ephemeral infrastructure and distributed applications. (Source Code)"
+  },
+  {
+    "name": "Status",
+    "url": "https://github.com/dani3l0/Status",
+    "description": "Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. (Demo) MIT Python"
+  },
+  {
+    "name": "Thruk",
+    "url": "http://www.thruk.org/",
+    "description": "Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. (Source Code)"
+  },
+  {
+    "name": "Zabbix",
+    "url": "http://www.zabbix.com/",
+    "description": "Enterprise-class software for monitoring of networks and applications. (Source Code)"
+  },
+  {
+    "name": "Beats",
+    "url": "https://www.elastic.co/beats/",
+    "description": "Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. (Source Code) Apache-2.0"
+  },
+  {
+    "name": "Collectd",
+    "url": "https://collectd.org/",
+    "description": "System statistics collection daemon. (Source Code) MIT C"
+  },
+  {
+    "name": "Diamond",
+    "url": "https://github.com/python-diamond/Diamond",
+    "description": "Daemon that collects system metrics and publishes them to Graphite (and others). MIT Python"
+  },
+  {
+    "name": "Grafana",
+    "url": "https://grafana.com/",
+    "description": "A Graphite & InfluxDB Dashboard and Graph Editor. (Source Code) AGPL-3.0 Go"
+  },
+  {
+    "name": "Graphite",
+    "url": "https://graphite.readthedocs.org/en/latest/",
+    "description": "Scalable graphing server. (Source Code) Apache-2.0 Python"
+  },
+  {
+    "name": "RRDtool",
+    "url": "https://oss.oetiker.ch/rrdtool/",
+    "description": "Industry standard, high performance data logging and graphing system for time series data. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Statsd",
+    "url": "https://github.com/etsy/statsd/",
+    "description": "Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. Nodejs MIT"
+  },
+  {
+    "name": "tcollector",
+    "url": "http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html",
+    "description": "Gathers data from local collectors and pushes the data to OpenTSDB. (Source Code) LGPL-3.0/GPL-3.0 Python"
+  },
+  {
+    "name": "Telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "description": "Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. MIT Go"
+  },
+  {
+    "name": "GNS3",
+    "url": "https://www.gns3.com/",
+    "description": "Graphical network simulator that provides a variety of virtual appliances. (Source Code) GPL-3.0 Python"
+  },
+  {
+    "name": "OpenWISP",
+    "url": "https://openwisp.org/",
+    "description": "Open Source Network Management System for OpenWRT based routers and access points. (Demo, Source Code) GPL-3.0 Python"
+  },
+  {
+    "name": "Oxidized",
+    "url": "https://github.com/ytti/oxidized",
+    "description": "Network device configuration backup tool. Apache-2.0 Ruby"
+  },
+  {
+    "name": "phpIPAM",
+    "url": "http://phpipam.net/",
+    "description": "Open source IP address management with PowerDNS integration. (Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "RANCID",
+    "url": "http://www.shrubbery.net/rancid/",
+    "description": "Monitor network devices configuration and maintain history of changes. (Source Code) BSD-3-Clause Perl/Shell"
+  },
+  {
+    "name": "rConfig",
+    "url": "http://www.rconfig.com/",
+    "description": "Network device configuration management tool. (Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "DadaMail",
+    "url": "http://dadamailproject.com/",
+    "description": "Mailing List Manager, written in Perl."
+  },
+  {
+    "name": "Lewsnetter",
+    "url": "https://github.com/bborn/lewsnetter",
+    "description": "E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats."
+  },
+  {
+    "name": "LibreMailer",
+    "url": "https://github.com/averna-syd/LibreMailer",
+    "description": "Libre Mailer is a modest and simple web based email marketing application."
+  },
+  {
+    "name": "phpList",
+    "url": "https://www.phplist.com/",
+    "description": "Newsletter manager written in PHP."
+  },
+  {
+    "name": "aptly",
+    "url": "https://www.aptly.info/",
+    "description": "Swiss army knife for Debian repository management. (Source Code) MIT Go"
+  },
+  {
+    "name": "fpm",
+    "url": "https://fpm.readthedocs.io/en/latest/",
+    "description": "Versatile multi format package creator. (Source Code) MIT Ruby"
+  },
+  {
+    "name": "omnibus-ruby",
+    "url": "https://github.com/chef/omnibus",
+    "description": "Easily create full-stack installers for your project across a variety of platforms. Apache-2.0 Ruby"
+  },
+  {
+    "name": "tito",
+    "url": "https://github.com/dgoodwin/tito",
+    "description": "Builds RPMs for git-based projects. GPL-2.0 Python"
+  },
+  {
+    "name": "ActiveMQ",
+    "url": "https://activemq.apache.org/",
+    "description": "Java message broker. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "BeanstalkD",
+    "url": "https://beanstalkd.github.io/",
+    "description": "A simple, fast work queue. (Source Code) MIT C"
+  },
+  {
+    "name": "Gearman",
+    "url": "http://gearman.org/",
+    "description": "Fast multi-language queuing/job processing platform. (Source Code) BSD-3-Clause C++"
+  },
+  {
+    "name": "Kafka",
+    "url": "https://kafka.apache.org",
+    "description": "Extremely high performance publish/subscribe message system. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "NSQ",
+    "url": "https://nsq.io/",
+    "description": "A realtime distributed messaging platform. (Source Code) MPL-2.0 Go"
+  },
+  {
+    "name": "RabbitMQ",
+    "url": "https://www.rabbitmq.com/",
+    "description": "Robust, fully featured, cross distro queuing system. (Source Code) Erlang"
+  },
+  {
+    "name": "ZeroMQ",
+    "url": "https://zeromq.org/",
+    "description": "Lightweight queuing system. (Source Code) GPL-3.0 C++"
+  },
+  {
+    "name": "Remmina",
+    "url": "https://www.remmina.org/",
+    "description": "Feature-rich remote desktop application for linux and other unixes. (Source Code)"
+  },
+  {
+    "name": "Tiger VNC",
+    "url": "https://tigervnc.org/",
+    "description": "High-performance, multi-platform VNC client and server. (Source Code)"
+  },
+  {
+    "name": "X2go",
+    "url": "https://wiki.x2go.org/doku.php",
+    "description": "X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. (Source Code)"
+  },
+  {
+    "name": "DD-WRT",
+    "url": "https://dd-wrt.com/",
+    "description": "A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "OpenWrt",
+    "url": "https://openwrt.org/",
+    "description": "A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "OPNsense",
+    "url": "https://opnsense.org/",
+    "description": "An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. (Source Code) BSD-2-Clause C PHP"
+  },
+  {
+    "name": "pfSense CE",
+    "url": "https://www.pfsense.org/",
+    "description": "Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. (Source Code) Apache-2.0 Shell/PHP/Other"
+  },
+  {
+    "name": "Consul",
+    "url": "https://www.consul.io/",
+    "description": "Consul is a tool for service discovery, monitoring and configuration. (Source Code) MPL-2.0 Go"
+  },
+  {
+    "name": "etcd",
+    "url": "https://etcd.io/",
+    "description": "distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "ZooKeeper",
+    "url": "http://zookeeper.apache.org/",
+    "description": "ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. (Source Code) Apache-2.0 Java/C++"
+  },
+  {
+    "name": "Docker Compose",
+    "url": "https://docs.docker.com/compose/",
+    "description": "Define and run multi-container Docker applications. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Docker Swarm",
+    "url": "https://docs.docker.com/engine/swarm/",
+    "description": "Manage cluster of Docker Engines. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Docker",
+    "url": "https://www.docker.com/",
+    "description": "Platform for developers and sysadmins to build, ship, and run distributed applications. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "LXC",
+    "url": "https://linuxcontainers.org/lxc/",
+    "description": "Userspace interface for the Linux kernel containment features. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "LXD",
+    "url": "https://linuxcontainers.org/lxd/"
+  },
+  {
+    "name": "OpenVZ",
+    "url": "https://openvz.org",
+    "description": "Container-based virtualization for Linux. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Podman",
+    "url": "https://podman.io",
+    "description": "Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: alias docker=podman. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Portainer Community Edition",
+    "url": "https://www.portainer.io/",
+    "description": "Simple management UI for Docker. (Source Code) Zlib Go"
+  },
+  {
+    "name": "systemd-nspawn",
+    "url": "https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html",
+    "description": "Lightweight, chroot-like, environment to run an OS or command directly under systemd. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "grml",
+    "url": "https://grml.org"
+  },
+  {
+    "name": "mitmproxy",
+    "url": "http://mitmproxy.org/",
+    "description": "A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems."
+  },
+  {
+    "name": "mtr",
+    "url": "https://www.bitwizard.nl/mtr/",
+    "description": "Network utility that combines traceroute and ping."
+  },
+  {
+    "name": "perf-tools",
+    "url": "https://github.com/brendangregg/perf-tools",
+    "description": "Performance analysis tools based on Linux perf_events (aka perf) and ftrace."
+  },
+  {
+    "name": "Sysdig",
+    "url": "http://www.sysdig.org/",
+    "description": "Capture system state and activity from a running Linux instance, then save, filter and analyze."
+  },
+  {
+    "name": "Wireshark",
+    "url": "https://www.wireshark.org/",
+    "description": "The world's foremost network protocol analyzer."
+  },
+  {
+    "name": "Darcs",
+    "url": "http://darcs.net/",
+    "description": "Patch-based distributed version control (more info: wiki)"
+  },
+  {
+    "name": "Fossil",
+    "url": "http://www.fossil-scm.org/",
+    "description": "Distributed version control with built-in wiki and bug tracking."
+  },
+  {
+    "name": "Git",
+    "url": "http://git-scm.com/",
+    "description": "Distributed revision control and source code management (SCM) with an emphasis on speed."
+  },
+  {
+    "name": "GNU Bazaar",
+    "url": "http://bazaar.canonical.com/",
+    "description": "Distributed revision control system sponsored by Canonical."
+  },
+  {
+    "name": "Mercurial",
+    "url": "https://www.mercurial-scm.org/",
+    "description": "Another distributed revision control."
+  },
+  {
+    "name": "Subversion",
+    "url": "http://subversion.apache.org/",
+    "description": "Client-server revision control system."
+  },
+  {
+    "name": "ConVirt",
+    "url": "http://www.convirture.com/products_opensource.php",
+    "description": "Provides the core functionality for centrally managing your KVM or Xen virtualized environment."
+  },
+  {
+    "name": "Ganeti",
+    "url": "http://www.ganeti.org/",
+    "description": "Cluster virtual server management software tool built on top of KVM and Xen."
+  },
+  {
+    "name": "KVM",
+    "url": "http://www.linux-kvm.org",
+    "description": "Linux kernel virtualization infrastructure."
+  },
+  {
+    "name": "OpenNebula",
+    "url": "http://opennebula.org/",
+    "description": "Flexible enterprise cloud made simple."
+  },
+  {
+    "name": "OpenNode",
+    "url": "http://opennodecloud.com",
+    "description": "Builds open-source infrastructure management software and implements cloud systems."
+  },
+  {
+    "name": "oVirt",
+    "url": "http://www.ovirt.org/",
+    "description": "Manages virtual machines, storage and virtual networks."
+  },
+  {
+    "name": "Packer",
+    "url": "https://www.packer.io/",
+    "description": "A tool for creating identical machine images for multiple platforms from a single source configuration."
+  },
+  {
+    "name": "Proxmox VE",
+    "url": "https://www.proxmox.com/proxmox-ve",
+    "description": "Virtualization management solution."
+  },
+  {
+    "name": "QEMU",
+    "url": "http://www.qemu.org/",
+    "description": "QEMU is a generic machine emulator and virtualizer."
+  },
+  {
+    "name": "Vagrant",
+    "url": "https://www.vagrantup.com/",
+    "description": "Tool for building complete development environments."
+  },
+  {
+    "name": "VirtualBox",
+    "url": "https://www.virtualbox.org/",
+    "description": "Virtualization product from Oracle Corporation."
+  },
+  {
+    "name": "XCP-ng",
+    "url": "http://www.xcp-ng.org/",
+    "description": "Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform."
+  },
+  {
+    "name": "Xen",
+    "url": "http://www.xenproject.org/",
+    "description": "Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures."
+  },
+  {
+    "name": "Dockovpn",
+    "url": "https://dockovpn.io",
+    "description": "Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds."
+  },
+  {
+    "name": "Firezone",
+    "url": "https://www.firez.one/",
+    "description": "WireGuard based VPN Server and Firewall."
+  },
+  {
+    "name": "Headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "description": "Self-hostable fork of Tailscale, cross-platform clients, simple to use, built-in (currently experimental) monitoring tools."
+  },
+  {
+    "name": "Nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "description": "A scalable p2p VPN with a focus on performance, simplicity and security."
+  },
+  {
+    "name": "ocserv",
+    "url": "http://www.infradead.org/ocserv/",
+    "description": "Cisco AnyConnect-compatible VPN server"
+  },
+  {
+    "name": "OpenVPN",
+    "url": "https://community.openvpn.net",
+    "description": "Uses a custom security protocol that utilizes SSL/TLS for key exchange."
+  },
+  {
+    "name": "PiVPN",
+    "url": "https://www.pivpn.io/",
+    "description": "The simplest way to setup and manage a VPN, designed for Raspberry Pi. (Source Code) MIT Shell"
+  },
+  {
+    "name": "Pritunl",
+    "url": "http://pritunl.com/",
+    "description": "OpenVPN based solution. Easy to set up."
+  },
+  {
+    "name": "SoftEther",
+    "url": "https://www.softether.org/",
+    "description": "Multi-protocol software VPN with advanced features"
+  },
+  {
+    "name": "sshuttle",
+    "url": "https://github.com/sshuttle/sshuttle",
+    "description": "Poor man's VPN."
+  },
+  {
+    "name": "strongSwan",
+    "url": "https://www.strongswan.org/",
+    "description": "Complete IPsec implementation for Linux."
+  },
+  {
+    "name": "tinc",
+    "url": "http://www.tinc-vpn.org/",
+    "description": "Distributed p2p VPN."
+  },
+  {
+    "name": "WireGuard",
+    "url": "https://www.wireguard.com/",
+    "description": "Very fast VPN based on elliptic curve and public key crypto."
+  },
+  {
+    "name": "Algernon",
+    "url": "https://algernon.roboticoverlords.org/",
+    "description": "Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. (Source Code) BSD-3-Clause Go"
+  },
+  {
+    "name": "Apache HTTP Server",
+    "url": "https://httpd.apache.org/",
+    "description": "Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. (Source Code) Apache-2.0 C"
+  },
+  {
+    "name": "Caddy",
+    "url": "https://caddyserver.com/",
+    "description": "Powerful, enterprise-ready, open source web server with automatic HTTPS. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "HAProxy",
+    "url": "https://www.haproxy.org/",
+    "description": "Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Hiawatha",
+    "url": "https://www.hiawatha-webserver.org/",
+    "description": "An advanced and secure webserver for Unix. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Lighttpd",
+    "url": "https://www.lighttpd.net/",
+    "description": "Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. (Source Code) BSD-3-Clause C"
+  },
+  {
+    "name": "Nginx",
+    "url": "https://nginx.org/en/",
+    "description": "HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. (Source Code) BSD-2-Clause C"
+  },
+  {
+    "name": "Traefik",
+    "url": "https://traefik.io/",
+    "description": "HTTP reverse proxy and load balancer that makes deploying microservices easy. (Source Code) MIT Go/Docker"
+  },
+  {
+    "name": "Varnish",
+    "url": "https://varnish-cache.org/",
+    "description": "Web application accelerator/caching HTTP reverse proxy. (Source Code) BSD-2-Clause C"
+  },
+  {
+    "name": "GNU Affero General Public License 3.0",
+    "url": "https://www.gnu.org/licenses/agpl-3.0",
+    "description": "GNU Affero General Public License 3.0"
+  },
+  {
+    "name": "Apache, Version 2.0",
+    "url": "https://www.apache.org/licenses/",
+    "description": "Apache, Version 2.0"
+  },
+  {
+    "name": "BSD 2-clause \"Simplified\"",
+    "url": "https://opensource.org/licenses/BSD-2-Clause",
+    "description": "BSD 2-clause \"Simplified\""
+  },
+  {
+    "name": "BSD 3-Clause \"New\" or \"Revised\"",
+    "url": "https://opensource.org/licenses/BSD-3-Clause",
+    "description": "BSD 3-Clause \"New\" or \"Revised\""
+  },
+  {
+    "name": "GNU General Public License 2.0",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+    "description": "GNU General Public License 2.0"
+  },
+  {
+    "name": "GNU General Public License 3.0",
+    "url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+    "description": "GNU General Public License 3.0"
+  },
+  {
+    "name": "MIT License",
+    "url": "https://opensource.org/licenses/MIT",
+    "description": "MIT License"
+  },
+  {
+    "name": "Mozilla Public License",
+    "url": "https://www.mozilla.org/MPL/2.0/index.txt",
+    "description": "Mozilla Public License"
+  },
+  {
+    "name": "ArsTechnica OpenForum",
+    "url": "http://arstechnica.com/civis/"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com",
+    "description": "Really, really large bulletin board system."
+  },
+  {
+    "name": "/r/Linux",
+    "url": "https://www.reddit.com/r/linux",
+    "description": "News and information about Linux."
+  },
+  {
+    "name": "/r/LinuxQuestions",
+    "url": "https://www.reddit.com/r/linuxquestions"
+  },
+  {
+    "name": "/r/SysAdmin",
+    "url": "https://www.reddit.com/r/sysadmin/"
+  },
+  {
+    "name": "Spiceworks Community",
+    "url": "https://community.spiceworks.com/start"
+  },
+  {
+    "name": "StackExchange Network",
+    "url": "https://stackexchange.com/sites#technology"
+  },
+  {
+    "name": "Server Fault",
+    "url": "https://serverfault.com/"
+  },
+  {
+    "name": "AlternativeTo",
+    "url": "http://alternativeto.net",
+    "description": "Find alternatives to software you know and discover new software."
+  },
+  {
+    "name": "deb.sury.org",
+    "url": "https://deb.sury.org/",
+    "description": "Repository with LAMP updated packages for Debian and Ubuntu."
+  },
+  {
+    "name": "ElRepo",
+    "url": "http://elrepo.org/tiki/tiki-index.php",
+    "description": "Community Repo for Enterprise Linux (RHEL, CentOS, etc)."
+  },
+  {
+    "name": "EPEL",
+    "url": "https://fedoraproject.org/wiki/EPEL",
+    "description": "Repository for RHEL and compatibles (CentOS, Scientific Linux)."
+  },
+  {
+    "name": "IUS",
+    "url": "https://ius.io/",
+    "description": "Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions."
+  },
+  {
+    "name": "Remi",
+    "url": "http://rpms.famillecollet.com/",
+    "description": "Repository with LAMP updated packages for RHEL/Centos/Fedora."
+  },
+  {
+    "name": "Software Collections",
+    "url": "https://www.softwarecollections.org",
+    "description": "Community Release of Red Hat Software Collections. Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x."
+  },
+  {
+    "name": "Cloud Native Software Landscape",
+    "url": "https://landscape.cncf.io/card-mode?license=open-source&grouping=category",
+    "description": "Compilation of software and tools for cloud computing."
+  },
+  {
+    "name": "ArchWiki",
+    "url": "https://wiki.archlinux.org/",
+    "description": "Arch Linux Wiki which has really nice written articles valid for other distros."
+  },
+  {
+    "name": "Gentoo Wiki",
+    "url": "https://wiki.gentoo.org/",
+    "description": "Gentoo Linux Wiki with a lot in-detail description of Linux components."
+  },
+  {
+    "name": "Awesome SysAdmin @ LibHunt",
+    "url": "https://sysadmin.libhunt.com",
+    "description": "Your go-to SysAdmin Toolbox. Based on the list here."
+  },
+  {
+    "name": "Ops School",
+    "url": "http://www.opsschool.org",
+    "description": "Comprehensive program that will help you learn to be an operations engineer."
+  },
+  {
+    "name": "Digital Ocean Tutorials",
+    "url": "https://www.digitalocean.com/community/tutorials",
+    "description": "6,000+ tutorials for getting the basics of certain applications/tools/systems administration topics."
+  }
+]

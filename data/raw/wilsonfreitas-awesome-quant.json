@@ -1,0 +1,1665 @@
+[
+  {
+    "name": "numpy",
+    "url": "https://www.numpy.org",
+    "description": "NumPy is the fundamental package for scientific computing with Python."
+  },
+  {
+    "name": "scipy",
+    "url": "https://www.scipy.org",
+    "description": "SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering."
+  },
+  {
+    "name": "pandas",
+    "url": "https://pandas.pydata.org",
+    "description": "pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."
+  },
+  {
+    "name": "quantdsl",
+    "url": "https://github.com/johnbywater/quantdsl",
+    "description": "Domain specific language for quantitative analytics in finance and trading."
+  },
+  {
+    "name": "statistics",
+    "url": "https://docs.python.org/3/library/statistics.html",
+    "description": "Builtin Python library for all basic statistical calculations."
+  },
+  {
+    "name": "sympy",
+    "url": "https://www.sympy.org/",
+    "description": "SymPy is a Python library for symbolic mathematics."
+  },
+  {
+    "name": "pymc3",
+    "url": "https://docs.pymc.io/",
+    "description": "Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano."
+  },
+  {
+    "name": "PyQL",
+    "url": "https://github.com/enthought/pyql",
+    "description": "QuantLib's Python port."
+  },
+  {
+    "name": "pyfin",
+    "url": "https://github.com/opendoor-labs/pyfin",
+    "description": "Basic options pricing in Python. ARCHIVED"
+  },
+  {
+    "name": "vollib",
+    "url": "https://github.com/vollib/vollib",
+    "description": "vollib is a python library for calculating option prices, implied volatility and greeks."
+  },
+  {
+    "name": "QuantPy",
+    "url": "https://github.com/jsmidt/QuantPy",
+    "description": "A framework for quantitative finance In python."
+  },
+  {
+    "name": "Finance-Python",
+    "url": "https://github.com/alpha-miner/Finance-Python",
+    "description": "Python tools for Finance."
+  },
+  {
+    "name": "ffn",
+    "url": "https://github.com/pmorissette/ffn",
+    "description": "A financial function library for Python."
+  },
+  {
+    "name": "pynance",
+    "url": "https://github.com/GriffinAustin/pynance",
+    "description": "Lightweight Python library for assembling and analysing financial data."
+  },
+  {
+    "name": "tia",
+    "url": "https://github.com/bpsmith/tia",
+    "description": "Toolkit for integration and analysis."
+  },
+  {
+    "name": "hasura/base-python-dash",
+    "url": "https://platform.hasura.io/hub/projects/hasura/base-python-dash",
+    "description": "Hasura quickstart to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python."
+  },
+  {
+    "name": "hasura/base-python-bokeh",
+    "url": "https://platform.hasura.io/hub/projects/hasura/base-python-bokeh",
+    "description": "Hasura quickstart to visualize data with bokeh library."
+  },
+  {
+    "name": "pysabr",
+    "url": "https://github.com/ynouri/pysabr",
+    "description": "SABR model Python implementation."
+  },
+  {
+    "name": "FinancePy",
+    "url": "https://github.com/domokane/FinancePy",
+    "description": "A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives."
+  },
+  {
+    "name": "gs-quant",
+    "url": "https://github.com/goldmansachs/gs-quant",
+    "description": "Python toolkit for quantitative finance"
+  },
+  {
+    "name": "willowtree",
+    "url": "https://github.com/federicomariamassari/willowtree",
+    "description": "Robust and flexible Python implementation of the willow tree lattice for derivatives pricing."
+  },
+  {
+    "name": "financial-engineering",
+    "url": "https://github.com/federicomariamassari/financial-engineering",
+    "description": "Applications of Monte Carlo methods to financial engineering projects, in Python."
+  },
+  {
+    "name": "optlib",
+    "url": "https://github.com/dbrojas/optlib",
+    "description": "A library for financial options pricing written in Python."
+  },
+  {
+    "name": "tf-quant-finance",
+    "url": "https://github.com/google/tf-quant-finance",
+    "description": "High-performance TensorFlow library for quantitative finance."
+  },
+  {
+    "name": "Q-Fin",
+    "url": "https://github.com/RomanMichaelPaolucci/Q-Fin",
+    "description": "A Python library for mathematical finance."
+  },
+  {
+    "name": "Quantsbin",
+    "url": "https://github.com/quantsbin/Quantsbin",
+    "description": "Tools for pricing and plotting of vanilla option prices, greeks and various other analysis around them."
+  },
+  {
+    "name": "finoptions",
+    "url": "https://github.com/bbcho/finoptions-dev",
+    "description": "Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options."
+  },
+  {
+    "name": "pandas_talib",
+    "url": "https://github.com/femtotrader/pandas_talib",
+    "description": "A Python Pandas implementation of technical analysis indicators."
+  },
+  {
+    "name": "finta",
+    "url": "https://github.com/peerchemist/finta",
+    "description": "Common financial technical analysis indicators implemented in Pandas."
+  },
+  {
+    "name": "Tulipy",
+    "url": "https://github.com/cirla/tulipy",
+    "description": "Financial Technical Analysis Indicator Library (Python bindings for tulipindicators)"
+  },
+  {
+    "name": "lppls",
+    "url": "https://github.com/Boulder-Investment-Technologies/lppls",
+    "description": "A Python module for fitting the Log-Periodic Power Law Singularity (LPPLS) model."
+  },
+  {
+    "name": "Blankly",
+    "url": "https://github.com/Blankly-Finance/Blankly",
+    "description": "Fully integrated backtesting, paper trading, and live deployment."
+  },
+  {
+    "name": "TA-Lib",
+    "url": "https://github.com/mrjbq7/ta-lib",
+    "description": "Python wrapper for TA-Lib (http://ta-lib.org/)."
+  },
+  {
+    "name": "zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "description": "Pythonic algorithmic trading library."
+  },
+  {
+    "name": "QuantSoftware Toolkit",
+    "url": "https://github.com/QuantSoftware/QuantSoftwareToolkit",
+    "description": "Python-based open source software framework designed to support portfolio construction and management."
+  },
+  {
+    "name": "quantitative",
+    "url": "https://github.com/jeffrey-liang/quantitative",
+    "description": "Quantitative finance, and backtesting library."
+  },
+  {
+    "name": "analyzer",
+    "url": "https://github.com/llazzaro/analyzer",
+    "description": "Python framework for real-time financial and backtesting trading strategies."
+  },
+  {
+    "name": "bt",
+    "url": "https://github.com/pmorissette/bt",
+    "description": "Flexible Backtesting for Python."
+  },
+  {
+    "name": "backtrader",
+    "url": "https://github.com/backtrader/backtrader",
+    "description": "Python Backtesting library for trading strategies."
+  },
+  {
+    "name": "pythalesians",
+    "url": "https://github.com/thalesians/pythalesians",
+    "description": "Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc."
+  },
+  {
+    "name": "pybacktest",
+    "url": "https://github.com/ematvey/pybacktest",
+    "description": "Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier."
+  },
+  {
+    "name": "pyalgotrade",
+    "url": "https://github.com/gbeced/pyalgotrade",
+    "description": "Python Algorithmic Trading Library."
+  },
+  {
+    "name": "tradingWithPython",
+    "url": "https://pypi.org/project/tradingWithPython/",
+    "description": "A collection of functions and classes for Quantitative trading."
+  },
+  {
+    "name": "Pandas TA",
+    "url": "https://github.com/twopirllc/pandas-ta",
+    "description": "Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies."
+  },
+  {
+    "name": "ta",
+    "url": "https://github.com/bukosabino/ta",
+    "description": "Technical Analysis Library using Pandas (Python)"
+  },
+  {
+    "name": "algobroker",
+    "url": "https://github.com/joequant/algobroker",
+    "description": "This is an execution engine for algo trading."
+  },
+  {
+    "name": "pysentosa",
+    "url": "https://pypi.org/project/pysentosa/",
+    "description": "Python API for sentosa trading system."
+  },
+  {
+    "name": "finmarketpy",
+    "url": "https://github.com/cuemacro/finmarketpy",
+    "description": "Python library for backtesting trading strategies and analyzing financial markets."
+  },
+  {
+    "name": "binary-martingale",
+    "url": "https://github.com/metaperl/binary-martingale",
+    "description": "Computer program to automatically trade binary options martingale style."
+  },
+  {
+    "name": "fooltrader",
+    "url": "https://github.com/foolcage/fooltrader",
+    "description": "the project using big-data technology to provide an uniform way to analyze the whole market."
+  },
+  {
+    "name": "zvt",
+    "url": "https://github.com/zvtvz/zvt",
+    "description": "the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime."
+  },
+  {
+    "name": "pylivetrader",
+    "url": "https://github.com/alpacahq/pylivetrader",
+    "description": "zipline-compatible live trading library."
+  },
+  {
+    "name": "pipeline-live",
+    "url": "https://github.com/alpacahq/pipeline-live",
+    "description": "zipline's pipeline capability with IEX for live trading."
+  },
+  {
+    "name": "zipline-extensions",
+    "url": "https://github.com/quantrocket-llc/zipline-extensions",
+    "description": "Zipline extensions and adapters for QuantRocket."
+  },
+  {
+    "name": "moonshot",
+    "url": "https://github.com/quantrocket-llc/moonshot",
+    "description": "Vectorized backtester and trading engine for QuantRocket based on Pandas."
+  },
+  {
+    "name": "PyPortfolioOpt",
+    "url": "https://github.com/robertmartin8/PyPortfolioOpt",
+    "description": "Financial portfolio optimisation in python, including classical efficient frontier and advanced methods."
+  },
+  {
+    "name": "Eiten",
+    "url": "https://github.com/tradytics/eiten",
+    "description": "Eiten is an open source toolkit by Tradytics that implements various statistical and algorithmic investing strategies such as Eigen Portfolios, Minimum Variance Portfolios, Maximum Sharpe Ratio Portfolios, and Genetic Algorithms based Portfolios."
+  },
+  {
+    "name": "riskparity.py",
+    "url": "https://github.com/dppalomar/riskparity.py",
+    "description": "fast and scalable design of risk parity portfolios with TensorFlow 2.0"
+  },
+  {
+    "name": "mlfinlab",
+    "url": "https://github.com/hudson-and-thames/mlfinlab",
+    "description": "Implementations regarding \"Advances in Financial Machine Learning\" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)"
+  },
+  {
+    "name": "pyqstrat",
+    "url": "https://github.com/abbass2/pyqstrat",
+    "description": "A fast, extensible, transparent python library for backtesting quantitative strategies."
+  },
+  {
+    "name": "NowTrade",
+    "url": "https://github.com/edouardpoitras/NowTrade",
+    "description": "Python library for backtesting technical/mechanical strategies in the stock and currency markets."
+  },
+  {
+    "name": "pinkfish",
+    "url": "https://github.com/fja05680/pinkfish",
+    "description": "A backtester and spreadsheet library for security analysis."
+  },
+  {
+    "name": "aat",
+    "url": "https://github.com/timkpaine/aat",
+    "description": "Async Algorithmic Trading Engine"
+  },
+  {
+    "name": "Backtesting.py",
+    "url": "https://kernc.github.io/backtesting.py/",
+    "description": "Backtest trading strategies in Python"
+  },
+  {
+    "name": "catalyst",
+    "url": "https://github.com/enigmampc/catalyst",
+    "description": "An Algorithmic Trading Library for Crypto-Assets in Python"
+  },
+  {
+    "name": "quantstats",
+    "url": "https://github.com/ranaroussi/quantstats",
+    "description": "Portfolio analytics for quants, written in Python"
+  },
+  {
+    "name": "qtpylib",
+    "url": "https://github.com/ranaroussi/qtpylib",
+    "description": "QTPyLib, Pythonic Algorithmic Trading http://qtpylib.io"
+  },
+  {
+    "name": "Quantdom",
+    "url": "https://github.com/constverum/Quantdom",
+    "description": "Python-based framework for backtesting trading strategies & analyzing financial markets [GUI ]"
+  },
+  {
+    "name": "freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot"
+  },
+  {
+    "name": "algorithmic-trading-with-python",
+    "url": "https://github.com/chrisconlan/algorithmic-trading-with-python",
+    "description": "Free pandas and scikit-learn resources for trading simulation, backtesting, and machine learning on financial data."
+  },
+  {
+    "name": "DeepDow",
+    "url": "https://github.com/jankrepl/deepdow",
+    "description": "Portfolio optimization with deep learning"
+  },
+  {
+    "name": "Qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution."
+  },
+  {
+    "name": "machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "description": "Code and resources for Machine Learning for Algorithmic Trading"
+  },
+  {
+    "name": "AlphaPy",
+    "url": "https://github.com/ScottfreeLLC/AlphaPy",
+    "description": "Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost"
+  },
+  {
+    "name": "jesse",
+    "url": "https://github.com/jesse-ai/jesse",
+    "description": "An advanced crypto trading bot written in Python"
+  },
+  {
+    "name": "rqalpha",
+    "url": "https://github.com/ricequant/rqalpha",
+    "description": "A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities."
+  },
+  {
+    "name": "FinRL-Library",
+    "url": "https://github.com/AI4Finance-LLC/FinRL-Library",
+    "description": "A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020."
+  },
+  {
+    "name": "bulbea",
+    "url": "https://github.com/achillesrasquinha/bulbea",
+    "description": "Deep Learning based Python Library for Stock Market Prediction and Modelling."
+  },
+  {
+    "name": "ib_nope",
+    "url": "https://github.com/ajhpark/ib_nope",
+    "description": "Automated trading system for NOPE strategy over IBKR TWS."
+  },
+  {
+    "name": "OctoBot",
+    "url": "https://github.com/Drakkar-Software/OctoBot",
+    "description": "Open source cryptocurrency trading bot for high frequency, arbitrage, TA and social trading with an advanced web interface."
+  },
+  {
+    "name": "bta-lib",
+    "url": "https://github.com/mementum/bta-lib",
+    "description": "Technical Analysis library in pandas for backtesting algotrading and quantitative analysis."
+  },
+  {
+    "name": "Stock-Prediction-Models",
+    "url": "https://github.com/huseinzol05/Stock-Prediction-Models",
+    "description": "Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations."
+  },
+  {
+    "name": "TuneTA",
+    "url": "https://github.com/jmrichardson/tuneta",
+    "description": "TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return."
+  },
+  {
+    "name": "AutoTrader",
+    "url": "https://github.com/kieran-mackle/AutoTrader",
+    "description": "A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading."
+  },
+  {
+    "name": "fast-trade",
+    "url": "https://github.com/jrmeier/fast-trade",
+    "description": "A library built with backtest portability and performance in mind for backtest trading strategies."
+  },
+  {
+    "name": "qf-lib",
+    "url": "https://github.com/quarkfin/qf-lib",
+    "description": "QF-Lib is a Python library that provides high quality tools for quantitative finance."
+  },
+  {
+    "name": "tda-api",
+    "url": "https://github.com/alexgolec/tda-api",
+    "description": "Gather data and trade equities, options, and ETFs via TDAmeritrade."
+  },
+  {
+    "name": "vectorbt",
+    "url": "https://github.com/polakowo/vectorbt",
+    "description": "Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research."
+  },
+  {
+    "name": "Lean",
+    "url": "https://github.com/QuantConnect/Lean",
+    "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)."
+  },
+  {
+    "name": "fast-trade",
+    "url": "https://github.com/jrmeier/fast-trade",
+    "description": "Low code backtesting library utilizing pandas and technical analysis indicators."
+  },
+  {
+    "name": "pyfolio",
+    "url": "https://github.com/quantopian/pyfolio",
+    "description": "Portfolio and risk analytics in Python."
+  },
+  {
+    "name": "empyrical",
+    "url": "https://github.com/quantopian/empyrical",
+    "description": "Common financial risk and performance metrics."
+  },
+  {
+    "name": "fecon235",
+    "url": "https://github.com/rsvp/fecon235",
+    "description": "Computational tools for financial economics include: Gaussian Mixture model of leptokurtotic risk, adaptive Boltzmann portfolios."
+  },
+  {
+    "name": "finance",
+    "url": "https://pypi.org/project/finance/",
+    "description": "Financial Risk Calculations. Optimized for ease of use through class construction and operator overload."
+  },
+  {
+    "name": "qfrm",
+    "url": "https://pypi.org/project/qfrm/",
+    "description": "Quantitative Financial Risk Management: awesome OOP tools for measuring, managing and visualizing risk of financial instruments and portfolios."
+  },
+  {
+    "name": "visualize-wealth",
+    "url": "https://github.com/benjaminmgross/visualize-wealth",
+    "description": "Portfolio construction and quantitative analysis."
+  },
+  {
+    "name": "VisualPortfolio",
+    "url": "https://github.com/wegamekinglc/VisualPortfolio",
+    "description": "This tool is used to visualize the perfomance of a portfolio."
+  },
+  {
+    "name": "universal-portfolios",
+    "url": "https://github.com/Marigold/universal-portfolios",
+    "description": "Collection of algorithms for online portfolio selection."
+  },
+  {
+    "name": "FinQuant",
+    "url": "https://github.com/fmilthaler/FinQuant",
+    "description": "A program for financial portfolio management, analysis and optimisation."
+  },
+  {
+    "name": "Empyrial",
+    "url": "https://github.com/ssantoshp/Empyrial",
+    "description": "Portfolio's risk and performance analytics and returns predictions."
+  },
+  {
+    "name": "risktools",
+    "url": "https://github.com/bbcho/risktools-dev",
+    "description": "Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics."
+  },
+  {
+    "name": "Riskfolio-Lib",
+    "url": "https://github.com/dcajasn/Riskfolio-Lib",
+    "description": "Portfolio Optimization and Quantitative Strategic Asset Allocation in Python."
+  },
+  {
+    "name": "alphalens",
+    "url": "https://github.com/quantopian/alphalens",
+    "description": "Performance analysis of predictive alpha factors."
+  },
+  {
+    "name": "Spectre",
+    "url": "https://github.com/Heerozh/spectre",
+    "description": "GPU-accelerated Factors analysis library and Backtester"
+  },
+  {
+    "name": "ARCH",
+    "url": "https://github.com/bashtage/arch",
+    "description": "ARCH models in Python."
+  },
+  {
+    "name": "statsmodels",
+    "url": "http://statsmodels.sourceforge.net",
+    "description": "Python module that allows users to explore data, estimate statistical models, and perform statistical tests."
+  },
+  {
+    "name": "dynts",
+    "url": "https://github.com/quantmind/dynts",
+    "description": "Python package for timeseries analysis and manipulation."
+  },
+  {
+    "name": "PyFlux",
+    "url": "https://github.com/RJT1990/pyflux",
+    "description": "Python library for timeseries modelling and inference (frequentist and Bayesian) on models."
+  },
+  {
+    "name": "tsfresh",
+    "url": "https://github.com/blue-yonder/tsfresh",
+    "description": "Automatic extraction of relevant features from time series."
+  },
+  {
+    "name": "hasura/quandl-metabase",
+    "url": "https://platform.hasura.io/hub/projects/anirudhm/quandl-metabase-time-series",
+    "description": "Hasura quickstart to visualize Quandl's timeseries datasets with Metabase."
+  },
+  {
+    "name": "Facebook Prophet",
+    "url": "https://github.com/facebook/prophet",
+    "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth."
+  },
+  {
+    "name": "tsmoothie",
+    "url": "https://github.com/cerlymarco/tsmoothie",
+    "description": "A python library for time-series smoothing and outlier detection in a vectorized way."
+  },
+  {
+    "name": "pmdarima",
+    "url": "https://github.com/alkaline-ml/pmdarima",
+    "description": "A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function."
+  },
+  {
+    "name": "gluon-ts",
+    "url": "https://github.com/awslabs/gluon-ts",
+    "description": "vProbabilistic time series modeling in Python."
+  },
+  {
+    "name": "exchange_calendars",
+    "url": "https://github.com/gerrymanoim/exchange_calendars",
+    "description": "Stock Exchange Trading Calendars."
+  },
+  {
+    "name": "bizdays",
+    "url": "https://github.com/wilsonfreitas/python-bizdays",
+    "description": "Business days calculations and utilities."
+  },
+  {
+    "name": "pandas_market_calendars",
+    "url": "https://github.com/rsheftel/pandas_market_calendars",
+    "description": "Exchange calendars to use with pandas for trading applications."
+  },
+  {
+    "name": "yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "description": "Yahoo! Finance market data downloader (+faster Pandas Datareader)"
+  },
+  {
+    "name": "findatapy",
+    "url": "https://github.com/cuemacro/findatapy",
+    "description": "Python library to download market data via Bloomberg, Quandl, Yahoo etc."
+  },
+  {
+    "name": "googlefinance",
+    "url": "https://github.com/hongtaocai/googlefinance",
+    "description": "Python module to get real-time stock data from Google Finance API."
+  },
+  {
+    "name": "yahoo-finance",
+    "url": "https://github.com/lukaszbanasiak/yahoo-finance",
+    "description": "Python module to get stock data from Yahoo! Finance."
+  },
+  {
+    "name": "pandas-datareader",
+    "url": "https://github.com/pydata/pandas-datareader",
+    "description": "Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism."
+  },
+  {
+    "name": "pandas-finance",
+    "url": "https://github.com/davidastephens/pandas-finance",
+    "description": "High level API for access to and analysis of financial data."
+  },
+  {
+    "name": "pyhoofinance",
+    "url": "https://github.com/innes213/pyhoofinance",
+    "description": "Rapidly queries Yahoo Finance for multiple tickers and returns typed data for analysis."
+  },
+  {
+    "name": "yfinanceapi",
+    "url": "https://github.com/Karthik005/yfinanceapi",
+    "description": "Finance API for Python."
+  },
+  {
+    "name": "yql-finance",
+    "url": "https://github.com/slawek87/yql-finance",
+    "description": "yql-finance is simple and fast. API returns stock closing prices for current period of time and current stock ticker (i.e. APPL, GOOGL)."
+  },
+  {
+    "name": "ystockquote",
+    "url": "https://github.com/cgoldberg/ystockquote",
+    "description": "Retrieve stock quote data from Yahoo Finance."
+  },
+  {
+    "name": "wallstreet",
+    "url": "https://github.com/mcdallas/wallstreet",
+    "description": "Real time stock and option data."
+  },
+  {
+    "name": "stock_extractor",
+    "url": "https://github.com/ZachLiuGIS/stock_extractor",
+    "description": "General Purpose Stock Extractors from Online Resources."
+  },
+  {
+    "name": "Stockex",
+    "url": "https://github.com/cttn/Stockex",
+    "description": "Python wrapper for Yahoo! Finance API."
+  },
+  {
+    "name": "finsymbols",
+    "url": "https://github.com/skillachie/finsymbols",
+    "description": "Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ."
+  },
+  {
+    "name": "FRB",
+    "url": "https://github.com/avelkoski/FRB",
+    "description": "Python Client for FRED® API."
+  },
+  {
+    "name": "inquisitor",
+    "url": "https://github.com/econdb/inquisitor",
+    "description": "Python Interface to Econdb.com API."
+  },
+  {
+    "name": "yfi",
+    "url": "https://github.com/nickelkr/yfi",
+    "description": "Yahoo! YQL library."
+  },
+  {
+    "name": "chinesestockapi",
+    "url": "https://pypi.org/project/chinesestockapi/",
+    "description": "Python API to get Chinese stock price."
+  },
+  {
+    "name": "exchange",
+    "url": "https://github.com/akarat/exchange",
+    "description": "Get current exchange rate."
+  },
+  {
+    "name": "ticks",
+    "url": "https://github.com/jamescnowell/ticks",
+    "description": "Simple command line tool to get stock ticker data."
+  },
+  {
+    "name": "pybbg",
+    "url": "https://github.com/bpsmith/pybbg",
+    "description": "Python interface to Bloomberg COM APIs."
+  },
+  {
+    "name": "ccy",
+    "url": "https://github.com/lsbardel/ccy",
+    "description": "Python module for currencies."
+  },
+  {
+    "name": "tushare",
+    "url": "https://pypi.org/project/tushare/",
+    "description": "A utility for crawling historical and Real-time Quotes data of China stocks."
+  },
+  {
+    "name": "jsm",
+    "url": "https://pypi.org/project/jsm/",
+    "description": "Get the japanese stock market data."
+  },
+  {
+    "name": "cn_stock_src",
+    "url": "https://github.com/jealous/cn_stock_src",
+    "description": "Utility for retrieving basic China stock data from different sources."
+  },
+  {
+    "name": "coinmarketcap",
+    "url": "https://github.com/barnumbirr/coinmarketcap",
+    "description": "Python API for coinmarketcap."
+  },
+  {
+    "name": "after-hours",
+    "url": "https://github.com/datawrestler/after-hours",
+    "description": "Obtain pre market and after hours stock prices for a given symbol."
+  },
+  {
+    "name": "bronto-python",
+    "url": "https://pypi.org/project/bronto-python/",
+    "description": "Bronto API Integration for Python."
+  },
+  {
+    "name": "pytdx",
+    "url": "https://github.com/rainx/pytdx",
+    "description": "Python Interface for retrieving chinese stock realtime quote data from TongDaXin Nodes."
+  },
+  {
+    "name": "pdblp",
+    "url": "https://github.com/matthewgilbert/pdblp",
+    "description": "A simple interface to integrate pandas and the Bloomberg Open API."
+  },
+  {
+    "name": "tiingo",
+    "url": "https://github.com/hydrosquall/tiingo-python",
+    "description": "Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform."
+  },
+  {
+    "name": "iexfinance",
+    "url": "https://github.com/addisonlynch/iexfinance",
+    "description": "Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange."
+  },
+  {
+    "name": "pyEX",
+    "url": "https://github.com/timkpaine/pyEX",
+    "description": "Python interface to IEX with emphasis on pandas, support for streaming data, premium data, points data (economic, rates, commodities), and technical indicators."
+  },
+  {
+    "name": "alpaca-trade-api",
+    "url": "https://github.com/alpacahq/alpaca-trade-api-python",
+    "description": "Python interface for retrieving real-time and historical prices from Alpaca API as well as trade execution."
+  },
+  {
+    "name": "metatrader5",
+    "url": "https://pypi.org/project/MetaTrader5/",
+    "description": "API Connector to MetaTrader 5 Terminal"
+  },
+  {
+    "name": "akshare",
+    "url": "https://github.com/jindaxiang/akshare",
+    "description": "AkShare is an elegant and simple financial data interface library for Python, built for human beings! https://akshare.readthedocs.io"
+  },
+  {
+    "name": "yahooquery",
+    "url": "https://github.com/dpguthrie/yahooquery",
+    "description": "Python interface for retrieving data through unofficial Yahoo Finance API."
+  },
+  {
+    "name": "investpy",
+    "url": "https://github.com/alvarobartt/investpy",
+    "description": "Financial Data Extraction from Investing.com with Python! https://investpy.readthedocs.io/"
+  },
+  {
+    "name": "yliveticker",
+    "url": "https://github.com/yahoofinancelive/yliveticker",
+    "description": "Live stream of market data from Yahoo Finance websocket."
+  },
+  {
+    "name": "bbgbridge",
+    "url": "https://github.com/ran404/bbgbridge",
+    "description": "Easy to use Bloomberg Desktop API wrapper for Python."
+  },
+  {
+    "name": "alpha_vantage",
+    "url": "https://github.com/RomelTorres/alpha_vantage",
+    "description": "A python wrapper for Alpha Vantage API for financial data."
+  },
+  {
+    "name": "FinanceDataReader",
+    "url": "https://github.com/FinanceData/FinanceDataReader",
+    "description": "Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks"
+  },
+  {
+    "name": "pystlouisfed",
+    "url": "https://github.com/TomasKoutek/pystlouisfed",
+    "description": "Python client for Federal Reserve Bank of St. Louis API - FRED, ALFRED, GeoFRED and FRASER."
+  },
+  {
+    "name": "python-bcb",
+    "url": "https://github.com/wilsonfreitas/python-bcb",
+    "description": "Python interface to Brazilian Central Bank web services."
+  },
+  {
+    "name": "xlwings",
+    "url": "https://www.xlwings.org/",
+    "description": "Make Excel fly with Python."
+  },
+  {
+    "name": "openpyxl",
+    "url": "https://openpyxl.readthedocs.io/en/latest/",
+    "description": "Read/Write Excel 2007 xlsx/xlsm files."
+  },
+  {
+    "name": "xlrd",
+    "url": "https://github.com/python-excel/xlrd",
+    "description": "Library for developers to extract data from Microsoft Excel spreadsheet files."
+  },
+  {
+    "name": "xlsxwriter",
+    "url": "https://xlsxwriter.readthedocs.io/",
+    "description": "Write files in the Excel 2007+ XLSX file format."
+  },
+  {
+    "name": "xlwt",
+    "url": "https://github.com/python-excel/xlwt",
+    "description": "Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform."
+  },
+  {
+    "name": "DataNitro",
+    "url": "https://datanitro.com/",
+    "description": "DataNitro also offers full-featured Python-Excel integration, including UDFs. Trial downloads are available, but users must purchase a license."
+  },
+  {
+    "name": "xlloop",
+    "url": "http://xlloop.sourceforge.net",
+    "description": "XLLoop is an open source framework for implementing Excel user-defined functions (UDFs) on a centralised server (a function server)."
+  },
+  {
+    "name": "expy",
+    "url": "http://www.bnikolic.co.uk/expy/expy.html",
+    "description": "The ExPy add-in allows easy use of Python directly from within an Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions."
+  },
+  {
+    "name": "pyxll",
+    "url": "https://www.pyxll.com",
+    "description": "PyXLL is an Excel add-in that enables you to extend Excel using nothing but Python code."
+  },
+  {
+    "name": "D-Tale",
+    "url": "https://github.com/man-group/dtale",
+    "description": "Visualizer for pandas dataframes and xarray datasets."
+  },
+  {
+    "name": "mplfinance",
+    "url": "https://github.com/matplotlib/mplfinance",
+    "description": "matplotlib utilities for the visualization, and visual analysis, of financial data."
+  },
+  {
+    "name": "finplot",
+    "url": "https://github.com/highfestiva/finplot",
+    "description": "Performant and effortless finance plotting for Python."
+  },
+  {
+    "name": "finvizfinance",
+    "url": "https://github.com/lit26/finvizfinance",
+    "description": "Finviz analysis python library."
+  },
+  {
+    "name": "xts",
+    "url": "https://github.com/joshuaulrich/xts",
+    "description": "eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability."
+  },
+  {
+    "name": "data.table",
+    "url": "https://github.com/Rdatatable/data.table",
+    "description": "Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development."
+  },
+  {
+    "name": "sparseEigen",
+    "url": "https://github.com/dppalomar/sparseEigen",
+    "description": "Sparse pricipal component analysis."
+  },
+  {
+    "name": "TSdbi",
+    "url": "http://tsdbi.r-forge.r-project.org/",
+    "description": "Provides a common interface to time series databases."
+  },
+  {
+    "name": "tseries",
+    "url": "https://cran.r-project.org/web/packages/tseries/index.html",
+    "description": "Time Series Analysis and Computational Finance."
+  },
+  {
+    "name": "zoo",
+    "url": "https://cran.r-project.org/web/packages/zoo/index.html",
+    "description": "S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)."
+  },
+  {
+    "name": "tis",
+    "url": "https://cran.r-project.org/web/packages/tis/index.html",
+    "description": "Functions and S3 classes for time indexes and time indexed series, which are compatible with FAME frequencies."
+  },
+  {
+    "name": "tfplot",
+    "url": "https://cran.r-project.org/web/packages/tfplot/index.html",
+    "description": "Utilities for simple manipulation and quick plotting of time series data."
+  },
+  {
+    "name": "tframe",
+    "url": "https://cran.r-project.org/web/packages/tframe/index.html",
+    "description": "A kernel of functions for programming time series methods in a way that is relatively independently of the representation of time."
+  },
+  {
+    "name": "IBrokers",
+    "url": "https://cran.r-project.org/web/packages/IBrokers/index.html",
+    "description": "Provides native R access to Interactive Brokers Trader Workstation API."
+  },
+  {
+    "name": "Rblpapi",
+    "url": "https://github.com/Rblp/Rblpapi",
+    "description": "An R Interface to 'Bloomberg' is provided via the 'Blp API'."
+  },
+  {
+    "name": "Quandl",
+    "url": "https://www.quandl.com/tools/r",
+    "description": "Get Financial Data Directly Into R."
+  },
+  {
+    "name": "Rbitcoin",
+    "url": "https://github.com/jangorecki/Rbitcoin",
+    "description": "Unified markets API interface (bitstamp, kraken, btce, bitmarket)."
+  },
+  {
+    "name": "GetTDData",
+    "url": "https://github.com/msperlin/GetTDData",
+    "description": "Downloads and aggregates data for Brazilian government issued bonds directly from the website of Tesouro Direto."
+  },
+  {
+    "name": "GetHFData",
+    "url": "https://github.com/msperlin/GetHFData",
+    "description": "Downloads and aggregates high frequency trading data for Brazilian instruments directly from Bovespa ftp site."
+  },
+  {
+    "name": "Reddit WallstreetBets API",
+    "url": "https://dashboard.nbshare.io/apps/reddit/api/",
+    "description": "Provides daily top 50 stocks from reddit (subreddit) Wallstreetbets and their sentiments via the API."
+  },
+  {
+    "name": "td",
+    "url": "https://github.com/eddelbuettel/td",
+    "description": "Interfaces the 'twelvedata' API for stocks and (digital and standard) currencies."
+  },
+  {
+    "name": "rbcb",
+    "url": "https://github.com/wilsonfreitas/rbcb",
+    "description": "R interface to Brazilian Central Bank web services."
+  },
+  {
+    "name": "RQuantLib",
+    "url": "http://dirk.eddelbuettel.com/code/rquantlib.html",
+    "description": "RQuantLib connects GNU R with QuantLib."
+  },
+  {
+    "name": "quantmod",
+    "url": "https://cran.r-project.org/web/packages/quantmod/index.html",
+    "description": "Quantitative Financial Modelling Framework."
+  },
+  {
+    "name": "Rmetrics",
+    "url": "https://www.rmetrics.org",
+    "description": "The premier open source software solution for teaching and training quantitative finance."
+  },
+  {
+    "name": "fAsianOptions",
+    "url": "https://cran.r-project.org/web/packages/fAsianOptions/index.html",
+    "description": "EBM and Asian Option Valuation."
+  },
+  {
+    "name": "fAssets",
+    "url": "https://cran.r-project.org/web/packages/fAssets/index.html",
+    "description": "Analysing and Modelling Financial Assets."
+  },
+  {
+    "name": "fBasics",
+    "url": "https://cran.r-project.org/web/packages/fBasics/index.html",
+    "description": "Markets and Basic Statistics."
+  },
+  {
+    "name": "fBonds",
+    "url": "https://cran.r-project.org/web/packages/fBonds/index.html",
+    "description": "Bonds and Interest Rate Models."
+  },
+  {
+    "name": "fExoticOptions",
+    "url": "https://cran.r-project.org/web/packages/fExoticOptions/index.html",
+    "description": "Exotic Option Valuation."
+  },
+  {
+    "name": "fOptions",
+    "url": "https://cran.r-project.org/web/packages/fOptions/index.html",
+    "description": "Pricing and Evaluating Basic Options."
+  },
+  {
+    "name": "fPortfolio",
+    "url": "https://cran.r-project.org/web/packages/fPortfolio/index.html",
+    "description": "Portfolio Selection and Optimization."
+  },
+  {
+    "name": "portfolio",
+    "url": "https://github.com/dgerlanc/portfolio",
+    "description": "Analysing equity portfolios."
+  },
+  {
+    "name": "sparseIndexTracking",
+    "url": "https://github.com/dppalomar/sparseIndexTracking",
+    "description": "Portfolio design to track an index."
+  },
+  {
+    "name": "covFactorModel",
+    "url": "https://github.com/dppalomar/covFactorModel",
+    "description": "Covariance matrix estimation via factor models."
+  },
+  {
+    "name": "riskParityPortfolio",
+    "url": "https://github.com/dppalomar/riskParityPortfolio",
+    "description": "Blazingly fast design of risk parity portfolios."
+  },
+  {
+    "name": "sde",
+    "url": "https://cran.r-project.org/web/packages/sde/index.html",
+    "description": "Simulation and Inference for Stochastic Differential Equations."
+  },
+  {
+    "name": "YieldCurve",
+    "url": "https://cran.r-project.org/web/packages/YieldCurve/index.html",
+    "description": "Modelling and estimation of the yield curve."
+  },
+  {
+    "name": "SmithWilsonYieldCurve",
+    "url": "https://cran.r-project.org/web/packages/SmithWilsonYieldCurve/index.html",
+    "description": "Constructs a yield curve by the Smith-Wilson method from a table of LIBOR and SWAP rates."
+  },
+  {
+    "name": "ycinterextra",
+    "url": "https://cran.r-project.org/web/packages/ycinterextra/index.html",
+    "description": "Yield curve or zero-coupon prices interpolation and extrapolation."
+  },
+  {
+    "name": "AmericanCallOpt",
+    "url": "https://cran.r-project.org/web/packages/AmericanCallOpt/index.html",
+    "description": "This package includes pricing function for selected American call options with underlying assets that generate payouts."
+  },
+  {
+    "name": "VarSwapPrice",
+    "url": "https://cran.r-project.org/web/packages/VarSwapPrice/index.html",
+    "description": "Pricing a variance swap on an equity index."
+  },
+  {
+    "name": "RND",
+    "url": "https://cran.r-project.org/web/packages/RND/index.html",
+    "description": "Risk Neutral Density Extraction Package."
+  },
+  {
+    "name": "LSMonteCarlo",
+    "url": "https://cran.r-project.org/web/packages/LSMonteCarlo/index.html",
+    "description": "American options pricing with Least Squares Monte Carlo method."
+  },
+  {
+    "name": "OptHedging",
+    "url": "https://cran.r-project.org/web/packages/OptHedging/index.html",
+    "description": "Estimation of value and hedging strategy of call and put options."
+  },
+  {
+    "name": "tvm",
+    "url": "https://cran.r-project.org/web/packages/tvm/index.html",
+    "description": "Time Value of Money Functions."
+  },
+  {
+    "name": "OptionPricing",
+    "url": "https://cran.r-project.org/web/packages/OptionPricing/index.html",
+    "description": "Option Pricing with Efficient Simulation Algorithms."
+  },
+  {
+    "name": "credule",
+    "url": "https://github.com/blenezet/credule",
+    "description": "Credit Default Swap Functions."
+  },
+  {
+    "name": "derivmkts",
+    "url": "https://cran.r-project.org/web/packages/derivmkts/index.html",
+    "description": "Functions and R Code to Accompany Derivatives Markets."
+  },
+  {
+    "name": "FinCal",
+    "url": "https://github.com/felixfan/FinCal",
+    "description": "Package for time value of money calculation, time series analysis and computational finance."
+  },
+  {
+    "name": "r-quant",
+    "url": "https://github.com/artyyouth/r-quant",
+    "description": "R code for quantitative analysis in finance."
+  },
+  {
+    "name": "options.studies",
+    "url": "https://github.com/taylorizing/options.studies",
+    "description": "options trading studies functions for use with options.data package and shiny."
+  },
+  {
+    "name": "PortfolioAnalytics",
+    "url": "https://github.com/braverock/PortfolioAnalytics",
+    "description": "Portfolio Analysis, Including Numerical Methods for Optimizationof Portfolios."
+  },
+  {
+    "name": "fmbasics",
+    "url": "https://github.com/imanuelcostigan/fmbasics",
+    "description": "Financial Market Building Blocks."
+  },
+  {
+    "name": "R-fixedincome",
+    "url": "https://github.com/wilsonfreitas/R-fixedincome",
+    "description": "Fixed income tools for R."
+  },
+  {
+    "name": "backtest",
+    "url": "https://cran.r-project.org/web/packages/backtest/index.html",
+    "description": "Exploring Portfolio-Based Conjectures About Financial Instruments."
+  },
+  {
+    "name": "pa",
+    "url": "https://cran.r-project.org/web/packages/pa/index.html",
+    "description": "Performance Attribution for Equity Portfolios."
+  },
+  {
+    "name": "TTR",
+    "url": "https://github.com/joshuaulrich/TTR",
+    "description": "Technical Trading Rules."
+  },
+  {
+    "name": "QuantTools",
+    "url": "https://quanttools.bitbucket.io/_site/index.html",
+    "description": "Enhanced Quantitative Trading Modelling."
+  },
+  {
+    "name": "blotter",
+    "url": "https://github.com/braverock/blotter",
+    "description": "Transaction infrastructure for defining instruments, transactions, portfolios and accounts for trading systems and simulation. Provides portfolio support for multi-asset class and multi-currency portfolios. Actively maintained and developed."
+  },
+  {
+    "name": "quantstrat",
+    "url": "https://github.com/braverock/quantstrat",
+    "description": "Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research."
+  },
+  {
+    "name": "PerformanceAnalytics",
+    "url": "https://github.com/braverock/PerformanceAnalytics",
+    "description": "Econometric tools for performance and risk analysis."
+  },
+  {
+    "name": "FactorAnalytics",
+    "url": "https://github.com/braverock/FactorAnalytics",
+    "description": "The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models."
+  },
+  {
+    "name": "Expected Returns",
+    "url": "https://github.com/JustinMShea/ExpectedReturns",
+    "description": "Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen."
+  },
+  {
+    "name": "tseries",
+    "url": "https://cran.r-project.org/web/packages/tseries/index.html",
+    "description": "Time Series Analysis and Computational Finance."
+  },
+  {
+    "name": "fGarch",
+    "url": "https://cran.r-project.org/web/packages/fGarch/index.html",
+    "description": "Rmetrics - Autoregressive Conditional Heteroskedastic Modelling."
+  },
+  {
+    "name": "timeSeries",
+    "url": "https://cran.r-project.org/web/packages/timeSeries/index.html",
+    "description": "Rmetrics - Financial Time Series Objects."
+  },
+  {
+    "name": "rugarch",
+    "url": "https://github.com/alexiosg/rugarch",
+    "description": "Univariate GARCH Models."
+  },
+  {
+    "name": "rmgarch",
+    "url": "https://github.com/alexiosg/rmgarch",
+    "description": "Multivariate GARCH Models."
+  },
+  {
+    "name": "tidypredict",
+    "url": "https://github.com/edgararuiz/tidypredict",
+    "description": "Run predictions inside the database https://tidypredict.netlify.com/."
+  },
+  {
+    "name": "tidyquant",
+    "url": "https://github.com/business-science/tidyquant",
+    "description": "Bringing financial analysis to the tidyverse."
+  },
+  {
+    "name": "timetk",
+    "url": "https://github.com/business-science/timetk",
+    "description": "A toolkit for working with time series in R."
+  },
+  {
+    "name": "tibbletime",
+    "url": "https://github.com/business-science/tibbletime",
+    "description": "Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index."
+  },
+  {
+    "name": "matrixprofile",
+    "url": "https://github.com/matrix-profile-foundation/matrixprofile",
+    "description": "Time series data mining library built on top of the novel Matrix Profile data structure and algorithms."
+  },
+  {
+    "name": "garchmodels",
+    "url": "https://github.com/AlbertoAlmuinha/garchmodels",
+    "description": "A parsnip backend for GARCH models."
+  },
+  {
+    "name": "timeDate",
+    "url": "https://cran.r-project.org/web/packages/timeDate/index.html",
+    "description": "Chronological and Calendar Objects"
+  },
+  {
+    "name": "bizdays",
+    "url": "https://github.com/wilsonfreitas/R-bizdays",
+    "description": "Business days calculations and utilities"
+  },
+  {
+    "name": "QUANTAXIS",
+    "url": "https://github.com/yutiansut/quantaxis",
+    "description": "Integrated Quantitative Toolbox with Matlab."
+  },
+  {
+    "name": "QuantLib.jl",
+    "url": "https://github.com/pazzo83/QuantLib.jl",
+    "description": "Quantlib implementation in pure Julia."
+  },
+  {
+    "name": "Ito.jl",
+    "url": "https://github.com/aviks/Ito.jl",
+    "description": "A Julia package for quantitative finance."
+  },
+  {
+    "name": "TALib.jl",
+    "url": "https://github.com/femtotrader/TALib.jl",
+    "description": "A Julia wrapper for TA-Lib."
+  },
+  {
+    "name": "Miletus.jl",
+    "url": "https://github.com/JuliaComputing/Miletus.jl",
+    "description": "A financial contract definition, modeling language, and valuation framework."
+  },
+  {
+    "name": "Temporal.jl",
+    "url": "https://github.com/dysonance/Temporal.jl",
+    "description": "Flexible and efficient time series class & methods."
+  },
+  {
+    "name": "Indicators.jl",
+    "url": "https://github.com/dysonance/Indicators.jl",
+    "description": "Financial market technical analysis & indicators on top of Temporal."
+  },
+  {
+    "name": "Strategems.jl",
+    "url": "https://github.com/dysonance/Strategems.jl",
+    "description": "Quantitative systematic trading strategy development and backtesting."
+  },
+  {
+    "name": "TimeSeries.jl",
+    "url": "https://github.com/JuliaStats/TimeSeries.jl",
+    "description": "Time series toolkit for Julia."
+  },
+  {
+    "name": "MarketTechnicals.jl",
+    "url": "https://github.com/JuliaQuant/MarketTechnicals.jl",
+    "description": "Technical analysis of financial time series on top of TimeSeries."
+  },
+  {
+    "name": "MarketData.jl",
+    "url": "https://github.com/JuliaQuant/MarketData.jl",
+    "description": "Time series market data."
+  },
+  {
+    "name": "TimeFrames.jl",
+    "url": "https://github.com/femtotrader/TimeFrames.jl",
+    "description": "A Julia library that defines TimeFrame (essentially for resampling TimeSeries)."
+  },
+  {
+    "name": "Strata",
+    "url": "http://strata.opengamma.io/",
+    "description": "Modern open-source analytics and market risk library designed and written in Java."
+  },
+  {
+    "name": "JQuantLib",
+    "url": "http://www.jquantlib.org",
+    "description": "JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java."
+  },
+  {
+    "name": "finmath.net",
+    "url": "http://finmath.net",
+    "description": "Java library with algorithms and methodologies related to mathematical finance."
+  },
+  {
+    "name": "quantcomponents",
+    "url": "https://github.com/lsgro/quantcomponents",
+    "description": "Free Java components for Quantitative Finance and Algorithmic Trading."
+  },
+  {
+    "name": "DRIP",
+    "url": "https://lakshmidrip.github.io/DRIP",
+    "description": "Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries."
+  },
+  {
+    "name": "ta4j",
+    "url": "https://github.com/ta4j/ta4j",
+    "description": "A Java library for technical analysis."
+  },
+  {
+    "name": "finance.js",
+    "url": "https://github.com/ebradyjobory/finance.js",
+    "description": "A JavaScript library for common financial calculations."
+  },
+  {
+    "name": "portfolio-allocation",
+    "url": "https://github.com/lequant40/portfolio_allocation_js",
+    "description": "PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks..."
+  },
+  {
+    "name": "Ghostfolio",
+    "url": "https://github.com/ghostfolio/ghostfolio",
+    "description": "Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions."
+  },
+  {
+    "name": "IndicatorTS",
+    "url": "https://github.com/cinar/indicatorts",
+    "description": "Indicator is a TypeScript module providing various stock technical analysis indicators, strategies, and a backtest framework for trading."
+  },
+  {
+    "name": "ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges."
+  },
+  {
+    "name": "QUANTAXIS_Webkit",
+    "url": "https://github.com/yutiansut/QUANTAXIS_Webkit",
+    "description": "An awesome visualization center based on quantaxis."
+  },
+  {
+    "name": "quantfin",
+    "url": "https://github.com/boundedvariation/quantfin",
+    "description": "quant finance in pure haskell."
+  },
+  {
+    "name": "Haxcel",
+    "url": "https://github.com/MarcusRainbow/Haxcel",
+    "description": "Excel Addin for Haskell."
+  },
+  {
+    "name": "Ffinar",
+    "url": "https://github.com/MarcusRainbow/Ffinar",
+    "description": "A financial maths library in Haskell."
+  },
+  {
+    "name": "QuantScale",
+    "url": "https://github.com/choucrifahed/quantscale",
+    "description": "Scala Quantitative Finance Library."
+  },
+  {
+    "name": "Scala Quant",
+    "url": "https://github.com/frankcash/Scala-Quant",
+    "description": "Scala library for working with stock data from IFTTT recipes or Google Finance."
+  },
+  {
+    "name": "Jiji",
+    "url": "https://github.com/unageanu/jiji2",
+    "description": "Open Source Forex algorithmic trading framework using OANDA REST API."
+  },
+  {
+    "name": "Tai",
+    "url": "https://github.com/fremantle-capital/tai",
+    "description": "Open Source composable, real time, market data and trade execution toolkit."
+  },
+  {
+    "name": "Workbench",
+    "url": "https://github.com/fremantle-industries/workbench",
+    "description": "From Idea to Execution - Manage your trading operation across a globally distributed cluster"
+  },
+  {
+    "name": "Prop",
+    "url": "https://github.com/fremantle-industries/prop",
+    "description": "An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation."
+  },
+  {
+    "name": "Kelp",
+    "url": "https://github.com/stellar/kelp",
+    "description": "Kelp is an open-source Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX (command-line usage and desktop GUI)."
+  },
+  {
+    "name": "marketstore",
+    "url": "https://github.com/alpacahq/marketstore",
+    "description": "DataFrame Server for Financial Timeseries Data."
+  },
+  {
+    "name": "IndicatorGo",
+    "url": "https://github.com/cinar/indicator",
+    "description": "IndicatorGo is a Golang module providing various stock technical analysis indicators, strategies, and a backtest framework for trading."
+  },
+  {
+    "name": "TradeFrame",
+    "url": "https://github.com/rburkholder/trade-frame",
+    "description": "C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in Option Greeks/IV calculation library."
+  },
+  {
+    "name": "QuantLib",
+    "url": "https://www.quantlib.org",
+    "description": "The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance."
+  },
+  {
+    "name": "JQuantLib",
+    "url": "http://www.jquantlib.org",
+    "description": "Java port."
+  },
+  {
+    "name": "RQuantLib",
+    "url": "http://dirk.eddelbuettel.com/code/rquantlib.html",
+    "description": "R port."
+  },
+  {
+    "name": "QuantLibAddin",
+    "url": "https://www.quantlib.org/quantlibaddin/",
+    "description": "Excel support."
+  },
+  {
+    "name": "QuantLibXL",
+    "url": "https://www.quantlib.org/quantlibxl/",
+    "description": "Excel support."
+  },
+  {
+    "name": "QLNet",
+    "url": "https://github.com/amaggiulli/qlnet",
+    "description": ".Net port."
+  },
+  {
+    "name": "PyQL",
+    "url": "https://github.com/enthought/pyql",
+    "description": "Python port."
+  },
+  {
+    "name": "QuantLib.jl",
+    "url": "https://github.com/pazzo83/QuantLib.jl",
+    "description": "Julia port."
+  },
+  {
+    "name": "TA-Lib",
+    "url": "https://ta-lib.org",
+    "description": "perform technical analysis of financial market data."
+  },
+  {
+    "name": "ta-lib-python",
+    "url": "https://github.com/TA-Lib/ta-lib-python"
+  },
+  {
+    "name": "ta-lib",
+    "url": "https://github.com/TA-Lib/ta-lib"
+  },
+  {
+    "name": "Portfolio Optimizer",
+    "url": "https://portfoliooptimizer.io/",
+    "description": "Portfolio Optimizer is a Web API for portfolio analysis and optimization."
+  },
+  {
+    "name": "QuantConnect",
+    "url": "https://github.com/QuantConnect/Lean",
+    "description": "Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage."
+  },
+  {
+    "name": "StockSharp",
+    "url": "https://github.com/StockSharp/StockSharp",
+    "description": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options)."
+  },
+  {
+    "name": "TDAmeritrade.DotNetCore",
+    "url": "https://github.com/NVentimiglia/TDAmeritrade.DotNetCore",
+    "description": "Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions."
+  },
+  {
+    "name": "QuantMath",
+    "url": "https://github.com/MarcusRainbow/QuantMath",
+    "description": "Financial maths library for risk-neutral pricing and risk"
+  },
+  {
+    "name": "Derman Papers",
+    "url": "https://github.com/MarcosCarreira/DermanPapers",
+    "description": "Notebooks that replicate original quantitative finance papers from Emanuel Derman."
+  },
+  {
+    "name": "ML-Quant",
+    "url": "https://www.ml-quant.com/",
+    "description": "Top Quant resources like ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs."
+  },
+  {
+    "name": "volatility-trading",
+    "url": "https://github.com/jasonstrimpel/volatility-trading",
+    "description": "A complete set of volatility estimators based on Euan Sinclair's Volatility Trading."
+  },
+  {
+    "name": "quant",
+    "url": "https://github.com/paulperry/quant",
+    "description": "Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas."
+  },
+  {
+    "name": "fecon235",
+    "url": "https://github.com/rsvp/fecon235",
+    "description": "Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively."
+  },
+  {
+    "name": "Quantitative-Notebooks",
+    "url": "https://github.com/LongOnly/Quantitative-Notebooks",
+    "description": "Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy"
+  },
+  {
+    "name": "QuantEcon",
+    "url": "https://quantecon.org/",
+    "description": "Lecture series on economics, finance, econometrics and data science; QuantEcon.py, QuantEcon.jl, notebooks"
+  },
+  {
+    "name": "FinanceHub",
+    "url": "https://github.com/Finance-Hub/FinanceHub",
+    "description": "Resources for Quantitative Finance"
+  },
+  {
+    "name": "Python_Option_Pricing",
+    "url": "https://github.com/dedwards25/Python_Option_Pricing",
+    "description": "An libary to price financial options written in Python. Includes: Black Scholes, Black 76, Implied Volatility, American, European, Asian, Spread Options."
+  },
+  {
+    "name": "python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "description": "J.P. Morgan's Python training for business analysts and traders."
+  },
+  {
+    "name": "Stock_Analysis_For_Quant",
+    "url": "https://github.com/LastAncientOne/Stock_Analysis_For_Quant",
+    "description": "Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau."
+  },
+  {
+    "name": "algorithmic-trading-with-python",
+    "url": "https://github.com/chrisconlan/algorithmic-trading-with-python",
+    "description": "Source code for Algorithmic Trading with Python (2020) by Chris Conlan."
+  },
+  {
+    "name": "MEDIUM_NoteBook",
+    "url": "https://github.com/cerlymarco/MEDIUM_NoteBook",
+    "description": "Repository containing notebooks of cerlymarco's posts on Medium."
+  },
+  {
+    "name": "QuantFinance",
+    "url": "https://github.com/PythonCharmers/QuantFinance",
+    "description": "Training materials in quantitative finance."
+  },
+  {
+    "name": "IPythonScripts",
+    "url": "https://github.com/mgroncki/IPythonScripts",
+    "description": "Tutorials about Quantitative Finance in Python and QuantLib: Pricing, xVAs, Hedging, Portfolio Optimisation, Machine Learning and Deep Learning."
+  },
+  {
+    "name": "Computational-Finance-Course",
+    "url": "https://github.com/LechGrzelak/Computational-Finance-Course",
+    "description": "Materials for the course of Computational Finance."
+  },
+  {
+    "name": "Machine-Learning-for-Asset-Managers",
+    "url": "https://github.com/emoen/Machine-Learning-for-Asset-Managers",
+    "description": "Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado."
+  },
+  {
+    "name": "Python-for-Finance-Cookbook",
+    "url": "https://github.com/PacktPublishing/Python-for-Finance-Cookbook",
+    "description": "Python for Finance Cookbook, published by Packt."
+  },
+  {
+    "name": "modelos_vol_derivativos",
+    "url": "https://github.com/ysaporito/modelos_vol_derivativos",
+    "description": "\"Modelos de Volatilidade para Derivativos\" book's Jupyter notebooks"
+  },
+  {
+    "name": "NMOF",
+    "url": "https://github.com/enricoschumann/NMOF",
+    "description": "Functions, examples and data from the first and the second edition of \"Numerical Methods and Optimization in Finance\" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658)."
+  },
+  {
+    "name": "py4fi2nd",
+    "url": "https://github.com/yhilpisch/py4fi2nd",
+    "description": "Jupyter Notebooks and code for Python for Finance (2nd ed., O'Reilly) by Yves Hilpisch."
+  },
+  {
+    "name": "aiif",
+    "url": "https://github.com/yhilpisch/aiif",
+    "description": "Jupyter Notebooks and code for the book Artificial Intelligence in Finance (O'Reilly) by Yves Hilpisch."
+  },
+  {
+    "name": "py4at",
+    "url": "https://github.com/yhilpisch/py4at",
+    "description": "Jupyter Notebooks and code for the book Python for Algorithmic Trading (O'Reilly) by Yves Hilpisch."
+  },
+  {
+    "name": "dawp",
+    "url": "https://github.com/yhilpisch/dawp",
+    "description": "Jupyter Notebooks and code for Derivatives Analytics with Python (Wiley Finance) by Yves Hilpisch."
+  },
+  {
+    "name": "dx",
+    "url": "https://github.com/yhilpisch/dx",
+    "description": "DX Analytics | Financial and Derivatives Analytics with Python."
+  },
+  {
+    "name": "QuantFinanceBook",
+    "url": "https://github.com/LechGrzelak/QuantFinanceBook",
+    "description": "Quantitative Finance book."
+  },
+  {
+    "name": "rough_bergomi",
+    "url": "https://github.com/ryanmccrickerd/rough_bergomi",
+    "description": "A Python implementation of the rough Bergomi model."
+  },
+  {
+    "name": "frh-fx",
+    "url": "https://github.com/ryanmccrickerd/frh-fx",
+    "description": "A python implementation of the fast-reversion Heston model of Mechkov for FX purposes."
+  },
+  {
+    "name": "value-investing-studies",
+    "url": "https://github.com/euclidjda/value-investing-studies",
+    "description": "A collection of data analysis studies that examine the performance and characteristics of value investing over long periods of time."
+  },
+  {
+    "name": "machine-learning-asset-management",
+    "url": "https://github.com/firmai/machine-learning-asset-management",
+    "description": "Machine Learning in Asset Management (by @firmai)."
+  },
+  {
+    "name": "Deep-Learning-Machine-Learning-Stock",
+    "url": "https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock",
+    "description": "Deep Learning and Machine Learning stocks represent a promising long-term or short-term opportunity for investors and traders."
+  },
+  {
+    "name": "Technical_Analysis_and_Feature_Engineering",
+    "url": "https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering",
+    "description": "Feature Engineering and Feature Importance of Machine Learning in Financial Market."
+  },
+  {
+    "name": "Financial-Models-Numerical-Methods",
+    "url": "https://github.com/cantaro86/Financial-Models-Numerical-Methods",
+    "description": "Collection of notebooks about quantitative finance, with interactive python code."
+  }
+]

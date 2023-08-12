@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "Keycloak Website",
+    "url": "http://www.keycloak.org"
+  },
+  {
+    "name": "Current Documentation",
+    "url": "http://www.keycloak.org/documentation.html"
+  },
+  {
+    "name": "Archived Documentation",
+    "url": "http://www.keycloak.org/documentation-archive.html"
+  },
+  {
+    "name": "Keycloak Website",
+    "url": "http://www.keycloak.org/"
+  },
+  {
+    "name": "Current Documentation",
+    "url": "http://www.keycloak.org/documentation.html"
+  },
+  {
+    "name": "Archived Documentation",
+    "url": "http://www.keycloak.org/documentation-archive.html"
+  },
+  {
+    "name": "Product Documentation for Red Hat Single Sign-On",
+    "url": "https://access.redhat.com/documentation/en/red-hat-single-sign-on/"
+  },
+  {
+    "name": "Keycloak Users Google Group",
+    "url": "https://groups.google.com/forum/#!forum/keycloak-user"
+  },
+  {
+    "name": "Keycloak Developers Google Group",
+    "url": "https://groups.google.com/forum/#!forum/keycloak-dev"
+  },
+  {
+    "name": "Keycloak Discourse Group",
+    "url": "https://keycloak.discourse.group/"
+  },
+  {
+    "name": "Keycloak Developer Chat",
+    "url": "https://keycloak.zulipchat.com"
+  },
+  {
+    "name": "Inactive - User Mailing List",
+    "url": "https://lists.jboss.org/mailman/listinfo/keycloak-user",
+    "description": "User Mailing List"
+  },
+  {
+    "name": "Inactive - Developer Mailing List",
+    "url": "https://lists.jboss.org/mailman/listinfo/keycloak-dev",
+    "description": "Developer Mailing List"
+  },
+  {
+    "name": "Mailing List Search",
+    "url": "http://www.keycloak.org/search"
+  },
+  {
+    "name": "Keycloak Subreddit",
+    "url": "https://www.reddit.com/r/keycloak"
+  },
+  {
+    "name": "Keycloak - Identity and Access Management for Modern Applications",
+    "url": "https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications/9781800562493",
+    "description": "Identity and Access Management for Modern Applications"
+  },
+  {
+    "name": "How to get Keycloak working with Docker",
+    "url": "https://www.ivonet.nl/2015/05/23/Keycloak-Docker/"
+  },
+  {
+    "name": "Single-Sign-On for Microservices and/or Java EE applications with Keycloak SSO",
+    "url": "http://www.n-k.de/2016/06/keycloak-sso-for-microservices.html"
+  },
+  {
+    "name": "Keycloak Admin Client(s) - multiple ways to manage your SSO system",
+    "url": "http://www.n-k.de/2016/08/keycloak-admin-client.html",
+    "description": "multiple ways to manage your SSO system"
+  },
+  {
+    "name": "How to get the AccessToken of Keycloak in Spring Boot and/or Java EE",
+    "url": "http://www.n-k.de/2016/05/how-to-get-accesstoken-from-keycloak-springboot-javaee.html"
+  },
+  {
+    "name": "JWT authentication with Vert.x, Keycloak and Angular 2",
+    "url": "http://paulbakker.io/java/jwt-keycloak-angular2/"
+  },
+  {
+    "name": "Authenticating via Kerberos with Keycloak and Windows 2008 Active Directory",
+    "url": "http://matthewcasperson.blogspot.de/2015/07/authenticating-via-kerberos-with.html"
+  },
+  {
+    "name": "Deploying Keycloak with Ansible",
+    "url": "https://adam.younglogic.com/2016/01/deploying-keycloak-via-ansible/"
+  },
+  {
+    "name": "Easily secure your Spring Boot applications with Keycloak",
+    "url": "https://developers.redhat.com/blog/2017/05/25/easily-secure-your-spring-boot-applications-with-keycloak/"
+  },
+  {
+    "name": "How Red Hat re-designed its Single Sign On (SSO) architecture, and why",
+    "url": "https://developers.redhat.com/blog/2016/10/04/how-red-hat-re-designed-its-single-sign-on-sso-architecture-and-why/"
+  },
+  {
+    "name": "OAuth2, JWT, Open-ID Connect and other confusing things",
+    "url": "http://giallone.blogspot.de/2017/06/oath2.html"
+  },
+  {
+    "name": "X509 Authentication with Keycloak and JBoss Fuse",
+    "url": "https://sjhiggs.github.io/fuse/sso/x509/smartcard/2017/03/29/fuse-hawtio-keycloak.html"
+  },
+  {
+    "name": "Running Keycloak on OpenShift 3",
+    "url": "https://medium.com/@sbose78/running-keycloak-on-openshift-3-8d195c0daaf6"
+  },
+  {
+    "name": "Introducing Keycloak for Identity and Access Management",
+    "url": "https://www.thomasvitale.com/introducing-keycloak-identity-access-management/"
+  },
+  {
+    "name": "Keycloak Basic Configuration for Authentication and Authorisation",
+    "url": "https://www.thomasvitale.com/keycloak-configuration-authentication-authorisation/"
+  },
+  {
+    "name": "Keycloak on OpenShift Origin",
+    "url": "https://medium.com/@james_devcomb/keycloak-on-openshift-origin-ee81d01dac97"
+  },
+  {
+    "name": "Identity Management, One-Time-Passwords and Two-Factor-Auth with Spring Boot and Keycloak",
+    "url": "http://www.hascode.com/2017/11/identity-management-one-time-passwords-and-two-factor-auth-with-spring-boot-and-keycloak/"
+  },
+  {
+    "name": "Keycloak Identity Brokering with Openshift",
+    "url": "https://developers.redhat.com/blog/2017/12/06/keycloak-identity-brokering-openshift/"
+  },
+  {
+    "name": "OpenID Connect Identity Brokering with Red Hat Single Sign-On",
+    "url": "https://developers.redhat.com/blog/2017/10/18/openid-connect-identity-brokering-red-hat-single-sign/"
+  },
+  {
+    "name": "Authentication & user management is hard",
+    "url": "https://eclipsesource.com/blogs/2018/01/11/authenticating-reverse-proxy-with-keycloak/"
+  },
+  {
+    "name": "Securing Nginx with Keycloak",
+    "url": "https://edhull.co.uk/blog/2018-06-06/keycloak-nginx"
+  },
+  {
+    "name": "Secure kibana dashboards using keycloak",
+    "url": "https://aboullaite.me/secure-kibana-keycloak/"
+  },
+  {
+    "name": "Configuring NGINX for OAuth/OpenID Connect SSO with Keycloak/Red Hat SSO",
+    "url": "https://developers.redhat.com/blog/2018/10/08/configuring-nginx-keycloak-oauth-oidc/"
+  },
+  {
+    "name": "Keycloak Clustering Setup and Configuration Examples",
+    "url": "https://github.com/fit2anything/keycloak-cluster-setup-and-configuration"
+  },
+  {
+    "name": "MicroProfile JWT with Keycloak",
+    "url": "https://kodnito.com/posts/microprofile-jwt-with-keycloak/"
+  },
+  {
+    "name": "Keycloak Essentials",
+    "url": "https://medium.com/keycloak/keycloak-essentials-86254b2f1872"
+  },
+  {
+    "name": "SSO-session failover with Keycloak and AWS S3",
+    "url": "https://medium.com/@georgijsr/sso-session-failover-with-keycloak-and-aws-s3-e0b1db985e12"
+  },
+  {
+    "name": "KTOR and Keycloak: authentication with OpenId",
+    "url": "https://medium.com/slickteam/ktor-and-keycloak-authentication-with-openid-ecd415d7a62e"
+  },
+  {
+    "name": "Keycloak: Core concepts of open source identity and access management",
+    "url": "https://developers.redhat.com/blog/2019/12/11/keycloak-core-concepts-of-open-source-identity-and-access-management"
+  },
+  {
+    "name": "Who am I? Keycloak Impersonation API",
+    "url": "https://blog.softwaremill.com/who-am-i-keycloak-impersonation-api-bfe7acaf051a"
+  },
+  {
+    "name": "Setup Keycloak Server on Ubuntu 18.04",
+    "url": "https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9"
+  },
+  {
+    "name": "Getting started with Keycloak",
+    "url": "https://robferguson.org/blog/2019/12/24/getting-started-with-keycloak/"
+  },
+  {
+    "name": "Angular, OpenID Connect and Keycloak",
+    "url": "https://robferguson.org/blog/2019/12/29/angular-openid-connect-keycloak/"
+  },
+  {
+    "name": "Angular, OAuth 2.0 Scopes and Keycloak",
+    "url": "https://robferguson.org/blog/2019/12/31/angular-oauth2-keycloak/"
+  },
+  {
+    "name": "Keycloak, Flowable and OpenLDAP",
+    "url": "https://robferguson.org/blog/2020/01/03/keycloak-flowable-and-openldap/"
+  },
+  {
+    "name": "How to exchange token from an external provider to a keycloak token",
+    "url": "https://www.mathieupassenaud.fr/token-exchange-keycloak/"
+  },
+  {
+    "name": "Building an Event Listener SPI (Plugin) for Keycloak",
+    "url": "https://dev.to/adwaitthattey/building-an-event-listener-spi-plugin-for-keycloak-2044"
+  },
+  {
+    "name": "Keycloak user migration – connect your legacy authentication system to Keycloak",
+    "url": "https://codesoapbox.dev/keycloak-user-migration/"
+  },
+  {
+    "name": "Keycloak Authentication and Authorization in GraphQL",
+    "url": "https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da"
+  },
+  {
+    "name": "Kong / Konga / Keycloak: securing API through OIDC",
+    "url": "https://github.com/d4rkstar/kong-konga-keycloak"
+  },
+  {
+    "name": "KeyCloak: Custom Login theme",
+    "url": "https://codehumsafar.wordpress.com/2018/09/11/keycloak-custom-login-theme/"
+  },
+  {
+    "name": "Keycloak: Use background color instead of background image in Custom Login theme",
+    "url": "https://codehumsafar.wordpress.com/2018/09/21/keycloak-use-background-color-instead-of-background-image-in-custom-login-theme/"
+  },
+  {
+    "name": "How to turn off the Keycloak theme cache",
+    "url": "https://keycloakthemes.com/blog/how-to-turn-off-the-keycloak-theme-cache"
+  },
+  {
+    "name": "How to add a custom field to the Keycloak registration page",
+    "url": "https://keycloakthemes.com/blog/how-to-add-custom-field-keycloak-registration-page"
+  },
+  {
+    "name": "How to setup Sign in with Google using Keycloak",
+    "url": "https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak"
+  },
+  {
+    "name": "How to sign in users on Keycloak using Github",
+    "url": "https://keycloakthemes.com/blog/how-to-sign-in-users-on-keycloak-using-github"
+  },
+  {
+    "name": "Extending Keycloak SSO Capabilities with IBM Security Verify",
+    "url": "https://community.ibm.com/community/user/security/blogs/jason-choi1/2020/06/10/extending-keycloak-sso-capabilities-with-ibm-secur"
+  },
+  {
+    "name": "AWS SAML based User Federation using Keycloak",
+    "url": "https://medium.com/@karanbir.tech/aws-connect-saml-based-identity-provider-using-keycloak-9b3e6d0111e6"
+  },
+  {
+    "name": "AWS user account OpenID federation using Keycloak",
+    "url": "https://medium.com/@karanbir.tech/aws-account-openid-federation-using-keycloak-40d22b952a43"
+  },
+  {
+    "name": "How to Run Keycloak in HA on Kubernetes",
+    "url": "https://blog.sighup.io/keycloak-ha-on-kubernetes/"
+  },
+  {
+    "name": "How to create a Keycloak authenticator as a microservice?",
+    "url": "https://medium.com/application-security/how-to-create-a-keycloak-authenticator-as-a-microservice-ad332e287b58"
+  },
+  {
+    "name": "keycloak.ch | Installing & Running Keycloak",
+    "url": "https://keycloak.ch/keycloak-tutorials/tutorial-1-installing-and-running-keycloak/"
+  },
+  {
+    "name": "keycloak.ch | Configuring Token Exchange using the CLI",
+    "url": "https://keycloak.ch/keycloak-tutorials/tutorial-token-exchange/"
+  },
+  {
+    "name": "keycloak.ch | Configuring WebAuthn",
+    "url": "https://keycloak.ch/keycloak-tutorials/tutorial-webauthn/"
+  },
+  {
+    "name": "keycloak.ch | Configuring a SwissID integration",
+    "url": "https://keycloak.ch/keycloak-tutorials/tutorial-swissid/"
+  },
+  {
+    "name": "Getting Started with Service Accounts in Keycloak",
+    "url": "https://medium.com/@mihirrajdixit/getting-started-with-service-accounts-in-keycloak-c8f6798a0675"
+  },
+  {
+    "name": "Building cloud native apps: Identity and Access Management",
+    "url": "https://dev.to/lukaszbudnik/building-cloud-native-apps-identity-and-access-management-1e5m"
+  },
+  {
+    "name": "X.509 user certificate authentication with Red Hat’s single sign-on technology",
+    "url": "https://developers.redhat.com/blog/2021/02/19/x-509-user-certificate-authentication-with-red-hats-single-sign-on-technology"
+  },
+  {
+    "name": "Grafana OAuth with Keycloak and how to validate a JWT token",
+    "url": "https://janikvonrotz.ch/2020/08/27/grafana-oauth-with-keycloak-and-how-to-validate-a-jwt-token/"
+  },
+  {
+    "name": "How to setup a Keycloak server with external MySQL database on AWS ECS Fargate in clustered mode",
+    "url": "https://jbjerksetmyr.medium.com/how-to-setup-a-keycloak-server-with-external-mysql-database-on-aws-ecs-fargate-in-clustered-mode-9775d01cd317"
+  },
+  {
+    "name": "Extending Keycloak: adding API key authentication",
+    "url": "http://www.zakariaamine.com/2019-06-14/extending-keycloak"
+  },
+  {
+    "name": "Extending Keycloak: using a custom email sender",
+    "url": "http://www.zakariaamine.com/2019-07-14/extending-keycloak2"
+  },
+  {
+    "name": "Integrating Keycloak and OPA with Confluent",
+    "url": "https://goraft.tech/2021/03/17/integrating-keycloak-and-opa-with-confluent.html"
+  },
+  {
+    "name": "UMA 2.0 : User Managed Access - how to use it with bash",
+    "url": "https://blog.please-open.it/uma/",
+    "description": "how to use it with bash"
+  },
+  {
+    "name": "Setting Up A Keycloak Server For Authenticating To FileMaker",
+    "url": "https://soundsessential.medium.com/setting-up-a-keycloak-server-for-authenticating-to-filemaker-introduction-bfe8bba7a8b2"
+  },
+  {
+    "name": "How to Make Keycloak Start Up Faster When There Are a Lot of Offline Sessions",
+    "url": "https://medium.com/swlh/how-to-make-keycloak-start-up-faster-when-there-are-a-lot-of-offline-sessions-78ee49a907cb"
+  },
+  {
+    "name": "Using Coder to Develop Keycloak Templates Live (almost)",
+    "url": "https://dev.to/m8a-io/m8a-scenario-1-using-coder-to-develop-keycloak-templates-live-almost-26e2"
+  },
+  {
+    "name": "Keycloak Passkeys tutorial",
+    "url": "https://keycloak.ch/keycloak-tutorials/tutorial-passkey/"
+  },
+  {
+    "name": "Keycloak as Authorization Server in .NET",
+    "url": "https://nikiforovall.github.io/dotnet/keycloak/2022/12/28/keycloak-authorization-server.html"
+  },
+  {
+    "name": "How to use Let's Encrypt certificates with Keycloak",
+    "url": "https://kaeruct.github.io/posts/how-to-use-lets-encrypt-certificates-with-keycloak.html"
+  },
+  {
+    "name": "JDD2015 - Keycloak Open Source Identity and Access Management Solution",
+    "url": "https://www.youtube.com/watch?v=TuEkj25lbd0",
+    "description": "Keycloak Open Source Identity and Access Management Solution"
+  },
+  {
+    "name": "2015 Using Tomcat and Keycloak in an iFrame",
+    "url": "https://www.youtube.com/watch?v=nF_lw7uIxao"
+  },
+  {
+    "name": "2016 You've Got Microservices Now Secure Them",
+    "url": "https://www.youtube.com/watch?v=SfVhqf-rMQY"
+  },
+  {
+    "name": "2016 Keycloak: Open Source Single Sign On - Sebastian Rose - AOE conf (german)",
+    "url": "https://www.youtube.com/watch?v=wbKw0Bwyne4",
+    "description": "Sebastian Rose - AOE conf (german)"
+  },
+  {
+    "name": "2016 Sécuriser ses applications back et front facilement avec Keycloak (french)",
+    "url": "https://www.youtube.com/watch?v=bVidgluUcg0"
+  },
+  {
+    "name": "2016 Keycloak and Red Hat Mobile Application Platform",
+    "url": "https://www.youtube.com/watch?v=4NBgiHM5aOA"
+  },
+  {
+    "name": "2016 Easily secure your Front and back applications with KeyCloak",
+    "url": "https://www.youtube.com/watch?v=RGp4HUKikts"
+  },
+  {
+    "name": "2017 Easily secure your Spring Boot applications with Keycloak - Part 1",
+    "url": "https://developers.redhat.com/video/youtube/vpgRTPFDHAw/",
+    "description": "Part 1"
+  },
+  {
+    "name": "2017 Easily secure your Spring Boot applications with Keycloak - Part 2",
+    "url": "https://developers.redhat.com/video/youtube/O5ePCWON08Y/",
+    "description": "Part 2"
+  },
+  {
+    "name": "2018 How to secure your Spring Apps with Keycloak by Thomas Darimont @ Spring I/O 2018",
+    "url": "https://www.youtube.com/watch?v=haHFoeWUj0w"
+  },
+  {
+    "name": "2018 DevNation Live | A Deep Dive into Keycloak",
+    "url": "https://www.youtube.com/watch?v=ZxpY_zZ52kU"
+  },
+  {
+    "name": "2018 IDM Europe: WSO2 Identity Server vs. Keycloak (Dmitry Kann)",
+    "url": "https://www.youtube.com/watch?v=hnjBiGsEDoU"
+  },
+  {
+    "name": "2018 JPrime|Building an effective identity and access management architecture with Keycloak (Sebastien Blanc)",
+    "url": "https://www.youtube.com/watch?v=bMqcGkCvUVQ"
+  },
+  {
+    "name": "2018 WJAX| Sichere Spring-Anwendungen mit Keycloak",
+    "url": "https://www.youtube.com/watch?v=6Z490EMcafs"
+  },
+  {
+    "name": "2019 Spring I/O | Secure your Spring Apps with Keycloak",
+    "url": "https://www.youtube.com/watch?v=KrOd5wIkqls"
+  },
+  {
+    "name": "2019 DevoxxFR | Maitriser sa gestion de l'identité avec Keycloak (L. Benoit, T. Recloux, S. Blanc)",
+    "url": "https://www.youtube.com/watch?v=0cziL__0-K8"
+  },
+  {
+    "name": "2019 DevConf | Fine - Grained Authorization with Keycloak SSO (Marek Posolda)",
+    "url": "https://www.youtube.com/watch?v=yosg4St0iUw",
+    "description": "Grained Authorization with Keycloak SSO (Marek Posolda)"
+  },
+  {
+    "name": "2019 VoxxedDays Minsk | Bilding an effective identity and access management architecture with Keycloak (Sebastien Blanc)",
+    "url": "https://www.youtube.com/watch?v=RupQWmYhrLA"
+  },
+  {
+    "name": "2019 Single-Sign-On Authentifizierung mit dem Keycloak Identity Provider | jambit CoffeeTalk",
+    "url": "https://www.youtube.com/watch?v=dnY6ORaFNY8"
+  },
+  {
+    "name": "2020 Keycloak Team | Keycloak Pitch",
+    "url": "https://www.youtube.com/watch?v=GZTN_VXjoQw"
+  },
+  {
+    "name": "2020 Keycloak Team | Keycloak Overview",
+    "url": "https://www.youtube.com/watch?v=duawSV69LDI"
+  },
+  {
+    "name": "2020 Please-open.it : oauth2 dans le monde des ops (french)",
+    "url": "https://www.youtube.com/watch?v=S-9X50QajmY"
+  },
+  {
+    "name": "2022 Secure digital transformation via keycloak's FAPI - DevConf.cz Mini | June 2022",
+    "url": "https://www.youtube.com/watch?v=Ao15PH2BAw0",
+    "description": "DevConf.cz Mini | June 2022"
+  },
+  {
+    "name": "Keycloak 101",
+    "url": "https://stevenolen.github.io/kc101-talk/#1"
+  },
+  {
+    "name": "Keycloak Identity and Access Management by Łukasz Budnik",
+    "url": "https://www.youtube.com/playlist?list=PLPZal7ksxNs0mgScrJxrggEayV-TPZ9sA"
+  },
+  {
+    "name": "Keycloak by Niko Köbler",
+    "url": "https://www.youtube.com/playlist?list=PLNn3plN7ZiaowUvKzKiJjYfWpp86u98iY"
+  },
+  {
+    "name": "Keycloak Playlist by hexaDefence",
+    "url": "https://youtu.be/35bflT_zxXA"
+  },
+  {
+    "name": "Keycloak Tutorial Series by CodeLens",
+    "url": "https://www.youtube.com/watch?v=Lr9WeIMtFow&list=PLeGNmkzI56BTjRxNGxUhh4k30FD_gy0pC"
+  },
+  {
+    "name": "Official Keycloak Node.js Admin Client",
+    "url": "https://github.com/keycloak/keycloak-admin-client/"
+  },
+  {
+    "name": "Keycloak Node.js TypeScript Admin Client by Canner",
+    "url": "https://github.com/Canner/keycloak-admin/"
+  },
+  {
+    "name": "Keycloak Go Client by Cloudtrust",
+    "url": "https://github.com/cloudtrust/keycloak-client"
+  },
+  {
+    "name": "Keycloak Nest.js Admin Client by Relevant Fruit",
+    "url": "https://github.com/relevantfruit/nestjs-keycloak-admin"
+  },
+  {
+    "name": "Keycloak Mock Library",
+    "url": "https://github.com/TNG/keycloak-mock"
+  },
+  {
+    "name": "Keycloak Extensions List",
+    "url": "https://www.keycloak.org/extensions.html"
+  },
+  {
+    "name": "Keycloak Benchmark Project",
+    "url": "https://github.com/keycloak/keycloak-benchmark"
+  },
+  {
+    "name": "Keycloak: Link IdP Login with User Provider",
+    "url": "https://github.com/ohioit/keycloak-link-idp-with-user"
+  },
+  {
+    "name": "Client Owner Manager: Control who can edit a client",
+    "url": "https://github.com/cyclone-project/cyclone-client-registration"
+  },
+  {
+    "name": "Keyloak Proxy written in Go",
+    "url": "https://github.com/gambol99/keycloak-proxy"
+  },
+  {
+    "name": "Script based ProtocolMapper extension for SAML",
+    "url": "https://github.com/cloudtrust/keycloak-client-mappers"
+  },
+  {
+    "name": "Realm export REST resource by Cloudtrust",
+    "url": "https://github.com/cloudtrust/keycloak-export"
+  },
+  {
+    "name": "Keycloak JDBC Ping Setup by moremagic",
+    "url": "https://github.com/moremagic/keycloak-jdbc-ping"
+  },
+  {
+    "name": "SMS 2 Factor Authentication for Keycloak via AWS SNS",
+    "url": "https://github.com/nickpack/keycloak-sms-authenticator-sns"
+  },
+  {
+    "name": "SMS 2 Factor Authentiation for Keycloak via SMS by Alliander",
+    "url": "https://github.com/Alliander/keycloak-sms-authenticator"
+  },
+  {
+    "name": "Identity Provider for vk.com",
+    "url": "https://github.com/mrk08/keycloak-vk"
+  },
+  {
+    "name": "CAS Protocol Support",
+    "url": "https://github.com/Doccrazy/keycloak-protocol-cas"
+  },
+  {
+    "name": "WS-FED Support",
+    "url": "https://github.com/cloudtrust/keycloak-wsfed"
+  },
+  {
+    "name": "Keycloak Discord Support",
+    "url": "https://github.com/wadahiro/keycloak-discord"
+  },
+  {
+    "name": "Keycloak Login with User Attribute",
+    "url": "https://github.com/cnieg/keycloak-login-attribute"
+  },
+  {
+    "name": "zonaut/keycloak-extensions",
+    "url": "https://github.com/zonaut/keycloak-extensions"
+  },
+  {
+    "name": "leroyguillaume/keycloak-bcrypt",
+    "url": "https://github.com/leroyguillaume/keycloak-bcrypt"
+  },
+  {
+    "name": "SPI Authenticator in Nodejs",
+    "url": "https://www.npmjs.com/package/keycloak-rest-authenticator"
+  },
+  {
+    "name": "Have I Been Pwned? Keycloak Password Policy",
+    "url": "https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned"
+  },
+  {
+    "name": "Keycloak Eventlistener for Google Cloud Pub Sub",
+    "url": "https://github.com/acesso-io/keycloak-event-listener-gcpubsub"
+  },
+  {
+    "name": "Enforcing Password policy based on attributes of User Groups",
+    "url": "https://github.com/sayedcsekuet/keycloak-user-group-based-password-policy"
+  },
+  {
+    "name": "Verify Email with Link or Code by hokumski",
+    "url": "https://github.com/hokumski/keycloak-verifyemailwithcode"
+  },
+  {
+    "name": "Role-based Docker registry authentication",
+    "url": "https://github.com/lifs-tools/keycloak-docker-role-mapper"
+  },
+  {
+    "name": "SCIM for keycloak",
+    "url": "https://github.com/Captain-P-Goldfish/scim-for-keycloak"
+  },
+  {
+    "name": "Keycloak Kafka Module",
+    "url": "https://github.com/SnuK87/keycloak-kafka"
+  },
+  {
+    "name": "Useful Keycloak EventListenerProvider implementations and utilities",
+    "url": "https://github.com/p2-inc/keycloak-events"
+  },
+  {
+    "name": "Keycloak: Home IdP Discovery extension",
+    "url": "https://github.com/sventorben/keycloak-home-idp-discovery"
+  },
+  {
+    "name": "Keycloak Metrics SPI",
+    "url": "https://github.com/aerogear/keycloak-metrics-spi"
+  },
+  {
+    "name": "Organizations for Keycloak by p2-inc",
+    "url": "https://github.com/p2-inc/keycloak-orgs"
+  },
+  {
+    "name": "Flexible IdP mapper for OIDC and SAML providers",
+    "url": "https://github.com/LucaFilipozzi/keycloak-regex-mapper"
+  },
+  {
+    "name": "2FA with Code sent via Email",
+    "url": "https://github.com/mesutpiskin/keycloak-2fa-email-authenticator"
+  },
+  {
+    "name": "MagicLink Authenticator by p2-inc",
+    "url": "https://github.com/p2-inc/keycloak-magic-link"
+  },
+  {
+    "name": "Keycloak Metrics based on Micrometer",
+    "url": "https://github.com/kokuwaio/keycloak-event-metrics"
+  },
+  {
+    "name": "softwarefactory-project/keycloak-filter-provider-users",
+    "url": "https://github.com/softwarefactory-project/keycloak-filter-provider-users"
+  },
+  {
+    "name": "rciam/keycloak-group-management",
+    "url": "https://github.com/rciam/keycloak-group-management"
+  },
+  {
+    "name": "Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter",
+    "url": "https://github.com/authbroker/authbroker"
+  },
+  {
+    "name": "Official Keycloak Node.js Connect Adapter",
+    "url": "https://github.com/keycloak/keycloak-nodejs-connect"
+  },
+  {
+    "name": "Keycloak support for Aurelia",
+    "url": "https://github.com/waynepennington/aurelia-keycloak"
+  },
+  {
+    "name": "Keycloak OAuth2 Auth for PHP",
+    "url": "https://github.com/stevenmaguire/oauth2-keycloak"
+  },
+  {
+    "name": "Jenkins Keycloak Authentication Plugin",
+    "url": "https://github.com/jenkinsci/keycloak-plugin"
+  },
+  {
+    "name": "Meteor Keycloak Accounts",
+    "url": "https://github.com/mxab/meteor-keycloak"
+  },
+  {
+    "name": "HapiJS Keycloak Auth",
+    "url": "https://github.com/felixheck/hapi-auth-keycloak"
+  },
+  {
+    "name": "zmartzone mod_auth_openidc for Apache 2.x",
+    "url": "https://github.com/zmartzone/mod_auth_openidc"
+  },
+  {
+    "name": "Duo Security MFA Authentication for Keycloak",
+    "url": "https://github.com/mulesoft-labs/keycloak-duo-spi"
+  },
+  {
+    "name": "Extension Keycloak facilitant l'utilisation de FranceConnect",
+    "url": "https://github.com/InseeFr/Keycloak-FranceConnect"
+  },
+  {
+    "name": "Ambassador Keycloak Support",
+    "url": "https://www.getambassador.io/reference/idp-support/keycloak/"
+  },
+  {
+    "name": "Keycloak Python Client",
+    "url": "https://github.com/keycloak-client/keycloak-client"
+  },
+  {
+    "name": "Keycloak Terraform Provider",
+    "url": "https://github.com/mrparkers/terraform-provider-keycloak"
+  },
+  {
+    "name": "Keycloak ADFS OpenID Connect",
+    "url": "https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html"
+  },
+  {
+    "name": "React/NextJS Keycloak Bindings",
+    "url": "https://github.com/panz3r/react-keycloak"
+  },
+  {
+    "name": "NextJS + tailwind + keycloak integration",
+    "url": "https://github.com/santiblanko/keycloak-nextjs-auth"
+  },
+  {
+    "name": "Keycloak Open-Shift integration",
+    "url": "https://github.com/keycloak/openshift-integration"
+  },
+  {
+    "name": "Keycloak, Kong and Konga setup scripts (local development)",
+    "url": "https://github.com/JaouherK/Kong-konga-Keycloak"
+  },
+  {
+    "name": "SSO for Keycloak and Nextcloud with SAML",
+    "url": "https://stackoverflow.com/questions/48400812/sso-with-saml-keycloak-and-nextcloud"
+  },
+  {
+    "name": "Keycloak Connect GraphQL Adapter for Node.js",
+    "url": "https://github.com/aerogear/keycloak-connect-graphql"
+  },
+  {
+    "name": "python-keycloak",
+    "url": "https://github.com/marcospereirampj/python-keycloak"
+  },
+  {
+    "name": "Keycloak and PrivacyId3a docker-compose (local development)",
+    "url": "https://github.com/JaouherK/keycloak-privacyIdea"
+  },
+  {
+    "name": "Nerzal/gocloak Golang Keycloak API Package",
+    "url": "https://github.com/Nerzal/gocloak"
+  },
+  {
+    "name": "Apple Social Identity Provider for Keycloak",
+    "url": "https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider"
+  },
+  {
+    "name": "Micrometer Keycloak extension",
+    "url": "https://github.com/micrometer-metrics/micrometer-keycloak"
+  },
+  {
+    "name": "Vault Keycloak Plugin",
+    "url": "https://github.com/Serviceware/vault-plugin-secrets-keycloak"
+  },
+  {
+    "name": "Keycloak with istio envoy jwt-auth proxy",
+    "url": "https://www.youtube.com/watch?v=wscX7JMfuBI"
+  },
+  {
+    "name": "Community Keycloak Ionic Theme",
+    "url": "https://github.com/lfryc/keycloak-ionic-theme"
+  },
+  {
+    "name": "A Keycloak theme based on the AdminLTE UI library",
+    "url": "https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme"
+  },
+  {
+    "name": "GOV.UK Theme",
+    "url": "https://github.com/UKHomeOffice/keycloak-theme-govuk"
+  },
+  {
+    "name": "Carbon Design",
+    "url": "https://github.com/httpsOmkar/carbon-keycloak-theme"
+  },
+  {
+    "name": "Modern",
+    "url": "https://keycloakthemes.com/themes/modern"
+  },
+  {
+    "name": "Adminlte",
+    "url": "https://git.uptic.nl/uptic-public-projects/uptic-keyclock-theme-adminlte"
+  },
+  {
+    "name": "keycloakify: Create Keycloak themes using React",
+    "url": "https://github.com/InseeFrLab/keycloakify"
+  },
+  {
+    "name": "Keywind: Component-based theme built with Tailwind CSS",
+    "url": "https://github.com/lukin/keywind"
+  },
+  {
+    "name": "TailwindUI theme",
+    "url": "https://github.com/santiblanko/tailwind-keycloak-theme"
+  },
+  {
+    "name": "Official Keycloak Docker Images",
+    "url": "https://github.com/jboss-dockerfiles/keycloak"
+  },
+  {
+    "name": "Keycloak Examples as Docker Image",
+    "url": "https://hub.docker.com/r/jboss/keycloak-examples"
+  },
+  {
+    "name": "Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker",
+    "url": "https://github.com/OpenPj/keycloak-docker-quickstart"
+  },
+  {
+    "name": "Deprecated Keycloak Helm Chart",
+    "url": "https://github.com/codecentric/helm-charts/tree/master/charts/keycloak"
+  },
+  {
+    "name": "codecentric Keycloak Helm Chart",
+    "url": "https://github.com/codecentric/helm-charts/tree/master/charts/keycloak"
+  },
+  {
+    "name": "Import / Export Keycloak Config",
+    "url": "https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d"
+  },
+  {
+    "name": "keycloak-operator",
+    "url": "https://github.com/keycloak/keycloak-operator"
+  },
+  {
+    "name": "keycloakmigration: Manage your Keycloak configuration with code",
+    "url": "https://github.com/klg71/keycloakmigration"
+  },
+  {
+    "name": "tool to autogenerate an OpenAPI Specification for Keycloak's Admin API",
+    "url": "https://github.com/ccouzens/keycloak-openapi"
+  },
+  {
+    "name": "oidc-bash-client",
+    "url": "https://github.com/please-openit/oidc-bash-client"
+  },
+  {
+    "name": "louketo-proxy (FKA Gatekeeper)",
+    "url": "https://github.com/louketo/louketo-proxy"
+  },
+  {
+    "name": "keycloak-config-cli: Configuration as Code for Keycloak",
+    "url": "https://github.com/adorsys/keycloak-config-cli"
+  },
+  {
+    "name": "Keycloak Pulumi",
+    "url": "https://github.com/pulumi/pulumi-keycloak"
+  },
+  {
+    "name": "Keycloak on AWS",
+    "url": "https://github.com/aws-samples/keycloak-on-aws"
+  },
+  {
+    "name": "aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python",
+    "url": "https://github.com/aws-samples/cdk-keycloak"
+  },
+  {
+    "name": "keycloak-scanner Python CLI",
+    "url": "https://github.com/NeuronAddict/keycloak-scanner"
+  },
+  {
+    "name": "Keycloak deployment with CDK on AWS with Fargate",
+    "url": "https://github.com/aws-samples/cdk-keycloak"
+  },
+  {
+    "name": "Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications",
+    "url": "https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications",
+    "description": "Identity and Access Management for Modern Applications"
+  },
+  {
+    "name": "Official Examples",
+    "url": "https://github.com/keycloak/keycloak/tree/master/examples"
+  },
+  {
+    "name": "Keycloak Quickstarts",
+    "url": "https://github.com/keycloak/keycloak-quickstarts"
+  },
+  {
+    "name": "Drupal 7.0 with Keycloak",
+    "url": "https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d"
+  },
+  {
+    "name": "Securing Realm Resources With Custom Roles",
+    "url": "https://github.com/dteleguin/custom-admin-roles"
+  },
+  {
+    "name": "BeerCloak: a comprehensive KeyCloak extension example",
+    "url": "https://github.com/dteleguin/beercloak"
+  },
+  {
+    "name": "KeyCloak Extensions: Securing Realm Resources With Custom Roles",
+    "url": "https://github.com/dteleguin/custom-admin-roles"
+  },
+  {
+    "name": "Red Hat Single Sign-On Labs",
+    "url": "https://github.com/RedHatWorkshops/red-hat-sso"
+  },
+  {
+    "name": "Spring Boot Keycloak Tutorial",
+    "url": "https://github.com/sebastienblanc/spring-boot-keycloak-tutorial"
+  },
+  {
+    "name": "Custom Keycloak Docker Image of Computer Science House of RIT",
+    "url": "https://github.com/ComputerScienceHouse/keycloak-docker"
+  },
+  {
+    "name": "Example of custom password hash SPI for Keycloak",
+    "url": "https://github.com/pavelbogomolenko/keycloak-custom-password-hash"
+  },
+  {
+    "name": "Example for a custom http-client-provider with Proxy support",
+    "url": "https://github.com/xiaoyvr/custom-http-client-provider"
+  },
+  {
+    "name": "Monitor your keycloak with prometheus",
+    "url": "https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus"
+  },
+  {
+    "name": "Custom User Storage Provider .ear with jboss-cli setup",
+    "url": "https://github.com/thomasdarimont/keycloak-user-storage-provider-demo"
+  },
+  {
+    "name": "Keycloak - Experimental extensions by Stian Thorgersen/Keycloak",
+    "url": "https://github.com/stianst/keycloak-experimental",
+    "description": "Experimental extensions by Stian Thorgersen/Keycloak"
+  },
+  {
+    "name": "Securing Spring Boot Admin & Actuator Endpoints with Keycloak",
+    "url": "https://github.com/thomasdarimont/spring-boot-admin-keycloak-example"
+  },
+  {
+    "name": "A Keycloak Mobile Implementation using Angular v4 and Ionic v3",
+    "url": "https://github.com/tomjackman/keyonic-v2"
+  },
+  {
+    "name": "Example for Securing Apps with Keycloak on Kubernetes",
+    "url": "https://github.com/stianst/demo-kubernetes"
+  },
+  {
+    "name": "Example for Securing AspDotNet Core Apps with Keycloak",
+    "url": "https://github.com/thomasdarimont/kc-dnc-demo"
+  },
+  {
+    "name": "Example for passing custom URL parameters to a Keycloak theme for dynamic branding",
+    "url": "https://github.com/dteleguin/keycloak-dynamic-branding"
+  },
+  {
+    "name": "Angular Webapp secured with Keycloak",
+    "url": "https://github.com/CodepediaOrg/bookmarks.dev"
+  },
+  {
+    "name": "Keycloak Theme Development Kit",
+    "url": "https://github.com/anthonny/kit-keycloak-theme"
+  },
+  {
+    "name": "Keycloak Clustering examples",
+    "url": "https://github.com/ivangfr/keycloak-clustered"
+  },
+  {
+    "name": "Keycloak Last Login Date Event Listener",
+    "url": "https://github.com/ThoreKr/keycloak-last-login-event-listener"
+  },
+  {
+    "name": "Keycloak Project Example (Customizations, Extensions, Configuration)",
+    "url": "https://github.com/thomasdarimont/keycloak-project-example"
+  },
+  {
+    "name": "Example of adding API Key authentication to Keycloak",
+    "url": "https://github.com/zak905/keycloak-api-key-demo"
+  },
+  {
+    "name": "Example for using Keycloak Authorization with ASP.NET Core",
+    "url": "https://github.com/NikiforovAll/keycloak-authorization-services-dotnet"
+  },
+  {
+    "name": "FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI",
+    "url": "https://github.com/mposolda/fapi-demo/tree/main"
+  },
+  {
+    "name": "Gatling based Benchmark by @rvansa",
+    "url": "https://github.com/rvansa/keycloak-benchmark"
+  },
+  {
+    "name": "Keycloak on Stackoverflow",
+    "url": "https://stackoverflow.com/questions/tagged/keycloak"
+  },
+  {
+    "name": "Red Hat Single Sign-On",
+    "url": "https://access.redhat.com/products/red-hat-single-sign-on"
+  },
+  {
+    "name": "INTEGSOFT UNIFIED USER CREDENTIALS WITH KEYCLOAK SSO",
+    "url": "https://www.integsoft.cz/en/sso.html#what-is-sso"
+  },
+  {
+    "name": "JIRA SSO Plugin by codecentric",
+    "url": "https://marketplace.atlassian.com/plugins/de.codecentric.atlassian.oidc.jira-oidc-plugin/server/overview"
+  },
+  {
+    "name": "Keycloak Competence Center by Inventage AG",
+    "url": "https://keycloak.ch/"
+  },
+  {
+    "name": "Keycloak as a Service",
+    "url": "https://www.cloud-iam.com"
+  },
+  {
+    "name": "Bare.Id - GDPR compliant Keycloak as a Service",
+    "url": "https://bare.id/",
+    "description": "GDPR compliant Keycloak as a Service"
+  },
+  {
+    "name": "Phase Two",
+    "url": "https://phasetwo.io/"
+  },
+  {
+    "name": "Find sites using Keycloak with google",
+    "url": "https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "name": "Keycloak Dev Bookmarks",
+    "url": "http://bookmarks.dev/search?q=keycloak",
+    "description": "Use the tag keycloak"
+  },
+  {
+    "name": "Use fail2ban to block brute-force attacks to keycloak server",
+    "url": "https://gist.github.com/drmalex07/3eba8b98d0ac4a1e821e8e721b3e1816"
+  },
+  {
+    "name": "Pentest-Report Keycloak 8.0 Audit & Pentest 11.2019 by Cure53",
+    "url": "https://cure53.de/pentest-report_keycloak.pdf"
+  },
+  {
+    "name": "Keycloak - CNCF Security SIG - Self Assesment",
+    "url": "https://docs.google.com/document/d/14IIGliP3BWjdS-0wfOk3l_1AU8kyoSiLUzpPImsz4R0/edit#",
+    "description": "CNCF Security SIG - Self Assesment"
+  }
+]

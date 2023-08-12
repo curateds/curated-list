@@ -1,0 +1,603 @@
+[
+  {
+    "name": "(Unofficial) Firebase Admin SDK for PHP",
+    "url": "https://github.com/kreait/firebase-php",
+    "description": "The Firebase Admin PHP SDK enables access to Firebase services from privileged environments (such as servers or cloud) in PHP."
+  },
+  {
+    "name": "App Check",
+    "url": "https://firebase.google.com/docs/app-check",
+    "description": "Protect your backend resources from abuse, such as billing fraud or phishing."
+  },
+  {
+    "name": "Firestore Data Bundles",
+    "url": "https://firebase.google.com/docs/firestore/bundles",
+    "description": "Data Bundles are static query results for CDN caching to speed first page loads."
+  },
+  {
+    "name": "Modular Web SDK (v9)",
+    "url": "https://firebase.google.com/docs/web/learn-more#modular-version",
+    "description": "Import only what you need reducing SDK size up to 80%."
+  },
+  {
+    "name": "Firebase Documentation",
+    "url": "https://firebase.google.com/docs",
+    "description": "Official Firebase Documentation."
+  },
+  {
+    "name": "Firebase Status Dashboard",
+    "url": "https://status.firebase.google.com",
+    "description": "This page provides status information on the services that are part of Firebase."
+  },
+  {
+    "name": "Firebase Quickstarts",
+    "url": "https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=",
+    "description": "Official Firebase Quickstarts."
+  },
+  {
+    "name": "Google Codelabs | Firebase",
+    "url": "https://codelabs.developers.google.com/?cat=Firebase",
+    "description": "Google Developers Codelabs provide a guided, tutorial, hands-on coding experience."
+  },
+  {
+    "name": "Firebase for Games",
+    "url": "https://firebase.google.com/games",
+    "description": "New Firebase for Games landing page with links to Firebase/Google resources for game developers."
+  },
+  {
+    "name": "Firebase Extensions",
+    "url": "https://firebase.google.com/products/extensions",
+    "description": "Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own."
+  },
+  {
+    "name": "Experimental Firebase Extensions",
+    "url": "https://github.com/FirebaseExtended/experimental-extensions",
+    "description": " laboratory for new extensions created by Firebase."
+  },
+  {
+    "name": "Stripe Extensions",
+    "url": "https://github.com/stripe/stripe-firebase-extensions",
+    "description": "Official Stripe subscriptions and invoices extensions."
+  },
+  {
+    "name": "MessageBird Extensions",
+    "url": "https://github.com/messagebird/firestore-send-msg",
+    "description": "Official MessageBird extension to send messages via the MessageBird Converstations API."
+  },
+  {
+    "name": "Algolia Extensions",
+    "url": "https://github.com/algolia/firestore-algolia-search",
+    "description": "Official Algolia extension to enable full text search of Cloud Firestore with Algolia."
+  },
+  {
+    "name": "Mailchimp Extensions",
+    "url": "https://github.com/mailchimp/Firebase",
+    "description": "Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp."
+  },
+  {
+    "name": "Typesense Extension for Full-Text Search",
+    "url": "https://github.com/typesense/firestore-typesense-search",
+    "description": "Official Typesense extension to add full-text search in Firestore, by syncing the data to Typesense, an OSS alternative to Algolia."
+  },
+  {
+    "name": "Firestore Lite",
+    "url": "https://github.com/samuelgozi/firebase-firestore-lite",
+    "description": "Lightweight Cloud Firestore library for the browser."
+  },
+  {
+    "name": "SvelteFire",
+    "url": "https://github.com/codediodeio/sveltefire",
+    "description": "Cybernetically enhanced Firebase apps."
+  },
+  {
+    "name": "React Fire",
+    "url": "https://github.com/FirebaseExtended/reactfire",
+    "description": "Official Firebase React library with Hooks, Context Providers, and Components that make it easy to interact with Firebase."
+  },
+  {
+    "name": "Remote Styles with Remote Config",
+    "url": "https://github.com/firebaseextended/remote-styles/",
+    "description": "Dynamic/Conditional loading of CSS stored in Remote Config. (Launch post)."
+  },
+  {
+    "name": "React Firebase Hooks",
+    "url": "https://github.com/CSFrequency/react-firebase-hooks",
+    "description": "React Hooks for Firebase services."
+  },
+  {
+    "name": "Firebase UI",
+    "url": "https://github.com/firebase/firebaseui-web",
+    "description": "FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices."
+  },
+  {
+    "name": "Firebase UI for React",
+    "url": "https://github.com/firebase/firebaseui-web-react",
+    "description": "React Wrapper for firebaseUI Web."
+  },
+  {
+    "name": "GeoFire for JavaScript",
+    "url": "https://github.com/firebase/geofire-js",
+    "description": "Realtime location queries with Firebase."
+  },
+  {
+    "name": "FirePad",
+    "url": "https://github.com/FirebaseExtended/firepad",
+    "description": "Collaborative Text Editor Powered by Firebase."
+  },
+  {
+    "name": "Ember Fire",
+    "url": "https://github.com/firebase/emberFire",
+    "description": "Official Ember data adapter for Firebase."
+  },
+  {
+    "name": "Firebase Dart",
+    "url": "https://github.com/FirebaseExtended/firebase-dart",
+    "description": "Dart wrapper for Firebase."
+  },
+  {
+    "name": "PolymerFire",
+    "url": "https://github.com/FirebaseExtended/polymerfire",
+    "description": "Polymer Web Components for Firebase."
+  },
+  {
+    "name": "VueFire",
+    "url": "https://github.com/vuejs/vuefire",
+    "description": "Firebase bindings for Vue.js."
+  },
+  {
+    "name": "Angular Fire 2",
+    "url": "https://github.com/angular/angularfire2",
+    "description": "Official library for Firebase and Angular."
+  },
+  {
+    "name": "Re-base",
+    "url": "https://github.com/tylermcginnis/re-base",
+    "description": "Relay inspired library for building React.js + Firebase applications."
+  },
+  {
+    "name": "React Redux Firebase",
+    "url": "https://github.com/prescottprue/react-redux-firebase",
+    "description": "Redux bindings for Firebase. Includes Higher Order Component for use with React."
+  },
+  {
+    "name": "GatsbyJS Firebase Data Source",
+    "url": "https://www.gatsbyjs.org/packages/",
+    "description": "Query your Firebase data right into your statically generated pages with Gatsby."
+  },
+  {
+    "name": "Apollo Link Firebase",
+    "url": "https://github.com/Canner/apollo-link-firebase",
+    "description": "Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB."
+  },
+  {
+    "name": "BuckleScript Bindings for Firebase",
+    "url": "https://github.com/avohq/bs-firebase",
+    "description": "BuckleScript bindings for Firebase for use in ReasonML projects."
+  },
+  {
+    "name": "Angular Firebase PWA",
+    "url": "https://github.com/codediodeio/angular-firestarter",
+    "description": "Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features."
+  },
+  {
+    "name": "FireSQL",
+    "url": "https://github.com/jsayol/FireSQL",
+    "description": "Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request."
+  },
+  {
+    "name": "Hosting Version History",
+    "url": "https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions",
+    "description": "Automatic deletion of older versions of your site deployments."
+  },
+  {
+    "name": "Firestorter",
+    "url": "https://github.com/IjzerenHein/firestorter",
+    "description": "Use Firestore in React with zero effort, using MobX (also for react-native)."
+  },
+  {
+    "name": "Nextbase",
+    "url": "https://github.com/martyan/nextbase",
+    "description": "Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project."
+  },
+  {
+    "name": "Typesaurus",
+    "url": "https://github.com/kossnocorp/typesaurus",
+    "description": "Type-safe TypeScript-first ODM for Firestore."
+  },
+  {
+    "name": "firebase-kotlin-sdk",
+    "url": "https://github.com/GitLiveApp/firebase-kotlin-sdk/",
+    "description": "Kotlin-first SDK for Firebase supporting multiplatform projects (ios, android & js)."
+  },
+  {
+    "name": "GeoFirestore",
+    "url": "https://github.com/MichaelSolati/geofirestore-js",
+    "description": "Location-based querying and filtering using Firebase Firestore."
+  },
+  {
+    "name": "FirelordJS",
+    "url": "https://github.com/tylim88/FirelordJS",
+    "description": "Extremely High Precision Typescript Wrapper for Firestore Web. (Admin version)"
+  },
+  {
+    "name": "FireSageJS",
+    "url": "https://github.com/tylim88/FireSageJS",
+    "description": "Extreme Type Safe For Realtime Database Web."
+  },
+  {
+    "name": "App Distribution App Bundles",
+    "url": "https://firebase.googleblog.com/2021/05/app-distribution-adds-support-to-android-app-bundles.html",
+    "description": "Support for Android App Bundles (AAB) is officially supported in App Distribution."
+  },
+  {
+    "name": "Firebase Flutter Documentation",
+    "url": "https://firebase.google.com/docs/flutter/setup",
+    "description": "Official Firebase Flutter Setup."
+  },
+  {
+    "name": "NativeScript plugin Firebase",
+    "url": "https://github.com/EddyVerbruggen/nativescript-plugin-firebase",
+    "description": "NativeScript plugin for Firebase."
+  },
+  {
+    "name": "FlutterFire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "description": "Collection of Firebase plugins for Flutter apps."
+  },
+  {
+    "name": "React Native Firebase",
+    "url": "https://github.com/invertase/react-native-firebase",
+    "description": "Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms."
+  },
+  {
+    "name": "React Native Firebase Cloud Messaging",
+    "url": "https://github.com/evollu/react-native-fcm",
+    "description": "React Native module for Firebase Cloud Messaging and local notification."
+  },
+  {
+    "name": "Expo Native Firebase",
+    "url": "https://github.com/EvanBacon/expo-native-firebase",
+    "description": "Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database."
+  },
+  {
+    "name": "Flutter Calendar App",
+    "url": "https://github.com/mattgraham1/FlutterCalendar",
+    "description": "New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database."
+  },
+  {
+    "name": "Firebase App Distribution",
+    "url": "https://firebase.google.com/products/app-distribution/",
+    "description": "Distribute pre-release versions of your app to your trusted testers."
+  },
+  {
+    "name": "Flamingo",
+    "url": "https://github.com/hukusuke1007/flamingo",
+    "description": "A Firebase Firestore model framework for Dart."
+  },
+  {
+    "name": "GeoFire for Java",
+    "url": "https://github.com/firebase/geofire-java",
+    "description": "Realtime location queries with Firebase."
+  },
+  {
+    "name": "Firebase UI",
+    "url": "https://github.com/firebase/firebaseui-android",
+    "description": "Optimized UI components for Firebase."
+  },
+  {
+    "name": "FireXtensions",
+    "url": "https://github.com/rosariopfernandes/firextensions",
+    "description": "Unofficial Kotlin Extensions for the Firebase Android SDK."
+  },
+  {
+    "name": "Firecoil",
+    "url": "https://github.com/rosariopfernandes/firecoil",
+    "description": "Load images from GCS in your Android app using the image loading library Coil."
+  },
+  {
+    "name": "GeoFire for Objective-C",
+    "url": "https://github.com/firebase/geofire-objc",
+    "description": "Realtime location queries with Firebase."
+  },
+  {
+    "name": "Firebase UI",
+    "url": "https://github.com/firebase/firebaseui-ios",
+    "description": "iOS UI bindings for Firebase."
+  },
+  {
+    "name": "MLKit - ARCore",
+    "url": "https://github.com/FirebaseExtended/MLKit-ARCore",
+    "description": "ARCore - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB."
+  },
+  {
+    "name": "MLKit - ARKit",
+    "url": "https://github.com/FirebaseExtended/MLKit-ARKit",
+    "description": "ARKit - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality."
+  },
+  {
+    "name": "Firestore for C++ and Unity",
+    "url": "https://firebase.google.com/docs/firestore",
+    "description": "C++ and Unity SDKs for C++ and Unity (with Firebase Unity SDKs available via Unity Package Manager)."
+  },
+  {
+    "name": "Firebase Admin Documentation",
+    "url": "https://firebase.google.com/docs/admin/setup",
+    "description": "Official Firebase Admin SDK Server Setup."
+  },
+  {
+    "name": "Functions Samples",
+    "url": "https://github.com/firebase/functions-samples",
+    "description": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase."
+  },
+  {
+    "name": "Express Server on Cloud Functions",
+    "url": "https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express",
+    "description": "Host an Express server on Cloud Functions."
+  },
+  {
+    "name": "GraphQL Server on Cloud Functions",
+    "url": "https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0",
+    "description": "Host an Express server with GraphQL middleware on Cloud Functions."
+  },
+  {
+    "name": "Compiled Code with Cloud Functions",
+    "url": "https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel",
+    "description": "Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS."
+  },
+  {
+    "name": "BigQuery & Google Analytics",
+    "url": "https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1",
+    "description": "How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery."
+  },
+  {
+    "name": "Official Cloud Function #Firecasts",
+    "url": "https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM",
+    "description": "YouTube video series about understanding how Cloud Functions work."
+  },
+  {
+    "name": "Firebase Hosting for Cloud Run Services",
+    "url": "https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html",
+    "description": "Dynamic content with Hosting Rewrites & Cloud Run Services."
+  },
+  {
+    "name": "Scheduled (Cron) Cloud Functions for Firebase",
+    "url": "https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html",
+    "description": "Firebase-native Cron triggers for Firebase Cloud Functions."
+  },
+  {
+    "name": "Integrify",
+    "url": "https://github.com/anishkny/integrify",
+    "description": "Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers."
+  },
+  {
+    "name": "Free Product Analytics with Firebase + BigQuery + Rakam",
+    "url": "https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/",
+    "description": "How to do behavioral & segmentation analysis on Firebase event data via BigQuery Export and Rakam."
+  },
+  {
+    "name": "Firestore Queue System",
+    "url": "https://github.com/sbarbat/firestore-queuer",
+    "description": "Simple queue system using Firestore and Cloud Functions."
+  },
+  {
+    "name": "Pyrebase",
+    "url": "https://github.com/thisbejim/Pyrebase",
+    "description": "A simple python wrapper for the Firebase API."
+  },
+  {
+    "name": "Firecode",
+    "url": "https://github.com/kafkas/firecode",
+    "description": "A light, fast, and memory-efficient collection traversal library for Firestore and Node.js."
+  },
+  {
+    "name": "Firebase Tools UI",
+    "url": "https://github.com/firebase/firebase-tools-ui",
+    "description": "Web UI for Firebase Emulator Suite."
+  },
+  {
+    "name": "Storage in Emulator Suite",
+    "url": "https://firebase.google.com/docs/emulator-suite/connect_storage",
+    "description": "Emulator suite is now complete!"
+  },
+  {
+    "name": "VSCode Firebase Explorer",
+    "url": "https://github.com/jsayol/vscode-firebase-explorer",
+    "description": "Explore and manage your Firebase projects."
+  },
+  {
+    "name": "Firebase Tools",
+    "url": "https://github.com/firebase/firebase-tools",
+    "description": "The Firebase Command Line Tools."
+  },
+  {
+    "name": "Firebase CI",
+    "url": "https://github.com/prescottprue/firebase-ci",
+    "description": "Simplified Firebase interaction for continuous integration."
+  },
+  {
+    "name": "Firecode",
+    "url": "https://github.com/ChFlick/firecode",
+    "description": " VS Code Firestore Rules Extension."
+  },
+  {
+    "name": "Firebase Firestore Snippets",
+    "url": "https://github.com/peterhdd/firebase-firestore-snippets",
+    "description": "Contains the snippet for both Firebase and Firestore in VS Code editor."
+  },
+  {
+    "name": "Fuego",
+    "url": "https://github.com/sgarciac/fuego",
+    "description": "Firestore client CLI supporting document add/update/query with filtering and pagination."
+  },
+  {
+    "name": "Firestore Rules Generator",
+    "url": "https://github.com/FirebaseExtended/protobuf-rules-gen",
+    "description": "Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format."
+  },
+  {
+    "name": "Firepit",
+    "url": "https://github.com/abehaskins/firepit",
+    "description": "Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js)."
+  },
+  {
+    "name": "Fireward",
+    "url": "https://github.com/bijoutrouvaille/fireward",
+    "description": "Easy to use language for Firestore rules, similar to Firebase Bolt."
+  },
+  {
+    "name": "Svarog",
+    "url": "https://github.com/dantothefuture/svarog",
+    "description": "Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions."
+  },
+  {
+    "name": "Firetable",
+    "url": "https://github.com/AntlerVC/firetable",
+    "description": "Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!"
+  },
+  {
+    "name": "VSFire",
+    "url": "https://github.com/toba/vsfire",
+    "description": "Deprecated VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes."
+  },
+  {
+    "name": "Refi App",
+    "url": "https://refiapp.io/",
+    "description": "A GUI tool to make developers less painful when interacting with Firestore DB"
+  },
+  {
+    "name": "Firefoo",
+    "url": "https://firefoo.app",
+    "description": "Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell."
+  },
+  {
+    "name": "asdf-firebase",
+    "url": "https://github.com/jthegedus/asdf-firebase",
+    "description": "An asdf-vm plugin for firebase-tools. Manage your Firebase CLI without Node.js or npm! Great for python, golang, c++ & java Firebase projects."
+  },
+  {
+    "name": "FireCMS",
+    "url": "https://firecms.co/docs/",
+    "description": "FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration."
+  },
+  {
+    "name": "Flank",
+    "url": "https://github.com/flank/flank/",
+    "description": "Massively parallel Android and iOS test runner for Firebase Test Lab."
+  },
+  {
+    "name": "Firestore Query Browser",
+    "url": "https://firestore-query-browser.firebaseapp.com",
+    "description": "WebApp to Query, (Batch-)Edit & Export documents with app & user switching."
+  },
+  {
+    "name": "FireDrill",
+    "url": "https://github.com/scottlepp/fire-drill",
+    "description": "Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data."
+  },
+  {
+    "name": "Unity Solutions",
+    "url": "https://github.com/FirebaseExtended/unity-solutions",
+    "description": "Use Firebase tools to incorporate common features into your games."
+  },
+  {
+    "name": "Firebase AIR Native Extension",
+    "url": "https://github.com/myflashlab/Firebase-ANE",
+    "description": "Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API."
+  },
+  {
+    "name": "QtFirebase",
+    "url": "https://github.com/Larpon/QtFirebase",
+    "description": "An effort to bring Google's Firebase C++ API to Qt + QML."
+  },
+  {
+    "name": "StackBlitz to Firebase Hosting Deployments",
+    "url": "https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879",
+    "description": "StackBlitz (online code editor) to Firebase Hosting static deployments."
+  },
+  {
+    "name": "Flamelink",
+    "url": "https://flamelink.io/",
+    "description": "CMS for Firebase. Supports Firestore, RealtimeDatabase & Storage."
+  },
+  {
+    "name": "Firebase Summit 2018",
+    "url": "https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R",
+    "description": "All Firebase Summit 2018 talks."
+  },
+  {
+    "name": "Firebase @ Google Cloud Next '18",
+    "url": "https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL",
+    "description": "All Firebase talks @ Google Cloud Next 2018."
+  },
+  {
+    "name": "Firebase @ Google IO '18",
+    "url": "https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd",
+    "description": "All Firebase talks @ Google IO 2018."
+  },
+  {
+    "name": "#AskFirebase YouTube Playlist",
+    "url": "https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA",
+    "description": "Official #AskFirebase playlist on YouTube."
+  },
+  {
+    "name": "State of Firebase (mid 2019)",
+    "url": "https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70",
+    "description": "Cloud Next & Google I/O 2019 updates!"
+  },
+  {
+    "name": "Firebase @ Google IO '19",
+    "url": "https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO",
+    "description": "All Firebase talks @ Google IO 2019."
+  },
+  {
+    "name": "Firebase Summit 2019",
+    "url": "https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX",
+    "description": "All Firebase talks @ the Firebase Summit 2019."
+  },
+  {
+    "name": "Firebase Live 2020",
+    "url": "https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep",
+    "description": "Firebase Live is a web series for app developers consisting of talks, tips, and technical tutorials aimed at increasing their productivity, knowledge, and collaboration."
+  },
+  {
+    "name": "Firebase Summit 2020",
+    "url": "https://goo.gle/firebasesummit2020",
+    "description": "All Firebase talks @ the Firebase Summit 2020."
+  },
+  {
+    "name": "Firebase YouTube",
+    "url": "https://www.youtube.com/user/Firebase"
+  },
+  {
+    "name": "Firebase Blog",
+    "url": "https://firebase.googleblog.com/"
+  },
+  {
+    "name": "@firebase",
+    "url": "https://twitter.com/firebase"
+  },
+  {
+    "name": "Firebase Facebook",
+    "url": "https://www.facebook.com/Firebase"
+  },
+  {
+    "name": "The Firebase Podcast",
+    "url": "https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz",
+    "description": "This is the place where we dive deep into Firebase products and learn new tips and tricks along the way."
+  },
+  {
+    "name": "Firebase Developers Discord",
+    "url": "https://discord.gg/BN2cgc3",
+    "description": "an open community dedicated to Firebase and its services, where you can to socialize and help other web and app developers from around the world."
+  },
+  {
+    "name": "Fireship",
+    "url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+    "description": "A YouTube channel by Jeff Delaney, a Google Firebase expert and creator of the famous \"X in 100 Seconds\" videos."
+  },
+  {
+    "name": "@firebase_ru - Telegram friendly chat",
+    "url": "https://t.me/firebase_ru",
+    "description": "Telegram friendly chat"
+  }
+]

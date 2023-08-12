@@ -1,0 +1,1823 @@
+[
+  {
+    "name": "Website",
+    "url": "https://tailwindcss.com",
+    "description": "Official Tailwind CSS website."
+  },
+  {
+    "name": "Repository",
+    "url": "https://github.com/tailwindcss/tailwindcss",
+    "description": "Official Tailwind CSS repository."
+  },
+  {
+    "name": "Discussions",
+    "url": "https://github.com/tailwindcss/tailwindcss/discussions",
+    "description": "Official place to connect with other community members about Tailwind."
+  },
+  {
+    "name": "Tailwind UI",
+    "url": "https://tailwindui.com",
+    "description": "Component library made with Tailwind CSS."
+  },
+  {
+    "name": "Headless UI",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components."
+  },
+  {
+    "name": "Heroicons",
+    "url": "https://heroicons.com/",
+    "description": "Beautiful, hand-crafted SVG icons."
+  },
+  {
+    "name": "Play",
+    "url": "https://play.tailwindcss.com/",
+    "description": "Advanced online playground for Tailwind CSS."
+  },
+  {
+    "name": "Tailwind Weekly",
+    "url": "https://tailwindweekly.com/",
+    "description": "Weekly newsletter about all things Tailwind CSS."
+  },
+  {
+    "name": "Built With Tailwind",
+    "url": "https://builtwithtailwind.com/",
+    "description": "Community-driven collection of awesome websites built with Tailwind CSS."
+  },
+  {
+    "name": "IntelliSense for Code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss",
+    "description": "IntelliSense extension for Visual Studio Code."
+  },
+  {
+    "name": "Styled Snippets for Code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets",
+    "description": "Snippet extension for Visual Studio Code."
+  },
+  {
+    "name": "Headwind for Code",
+    "url": "https://github.com/heybourn/headwind",
+    "description": "Class sorter extension for Visual Studio Code."
+  },
+  {
+    "name": "Shades for Code",
+    "url": "https://github.com/bourhaouta/vscode-tailwindshades",
+    "description": "Color palette generator extension for Visual Studio Code."
+  },
+  {
+    "name": "IntelliSense for Neovim",
+    "url": "https://github.com/iamcco/coc-tailwindcss",
+    "description": "IntelliSense extension for Neovim."
+  },
+  {
+    "name": "LSP support for Emacs",
+    "url": "https://github.com/merrickluo/lsp-tailwindcss",
+    "description": "LSP support for Emacs."
+  },
+  {
+    "name": "Tailwind CSS Explorer for Code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer",
+    "description": "Explore the classes available in your project's Tailwind CSS setup."
+  },
+  {
+    "name": "Tailwind CSS Highlight",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight",
+    "description": "Highlight utilities extension for Visual Studio Code."
+  },
+  {
+    "name": "CSS to TailwindCSS converter for Code",
+    "url": "https://github.com/Jackardios/vscode-css-to-tailwindcss",
+    "description": "CSS to Tailwind CSS converter extension for Visual Studio Code."
+  },
+  {
+    "name": "Typography",
+    "url": "https://github.com/tailwindlabs/tailwindcss-typography",
+    "description": "Adds a prose class for beautiful typographic defaults."
+  },
+  {
+    "name": "Aspect Ratio",
+    "url": "https://github.com/tailwindlabs/tailwindcss-aspect-ratio",
+    "description": "Adds composable aspect ratio utilities."
+  },
+  {
+    "name": "Forms",
+    "url": "https://github.com/tailwindlabs/tailwindcss-forms",
+    "description": "Adds better default styles to form elements."
+  },
+  {
+    "name": "Theming",
+    "url": "https://github.com/innocenzi/tailwindcss-theming",
+    "description": "Theming using CSS variables, with dark mode support."
+  },
+  {
+    "name": "Theme Variants",
+    "url": "https://github.com/JakeNavith/tailwindcss-theme-variants",
+    "description": "Adds theme variants based on media queries and/or CSS selectors."
+  },
+  {
+    "name": "Multi Theme",
+    "url": "https://github.com/estevanmaito/tailwindcss-multi-theme",
+    "description": "Adds theme variants based on a single theme property."
+  },
+  {
+    "name": "Theme Swapper",
+    "url": "https://github.com/crswll/tailwindcss-theme-swapper",
+    "description": "Theming using CSS variables, with media queries support."
+  },
+  {
+    "name": "Themeable",
+    "url": "https://github.com/upupming/tailwindcss-themeable",
+    "description": "Adds multiple themes support for Tailwind CSS."
+  },
+  {
+    "name": "Themer",
+    "url": "https://github.com/RyanClementsHax/tailwindcss-themer",
+    "description": "Adds theming support for Tailwind CSS with CSS variables and variants."
+  },
+  {
+    "name": "Tailwind Elements",
+    "url": "https://tailwind-elements.com/",
+    "description": "Extends Tailwind CSS with 500+ interactive components (datepickers, modals, forms, tables, darkmode)."
+  },
+  {
+    "name": "Accent",
+    "url": "https://github.com/enjidev/tailwindcss-accent",
+    "description": "Adds accent colors for more dynamic and flexible color utilization."
+  },
+  {
+    "name": "Radix",
+    "url": "https://github.com/ecklf/tailwindcss-radix",
+    "description": "Adds utilities and variants for styling Radix UI state."
+  },
+  {
+    "name": "Custom Native",
+    "url": "https://github.com/SirNavith/tailwindcss-custom-native",
+    "description": "Leverages Tailwind CSS's configuration to allow the creation of utilities."
+  },
+  {
+    "name": "Image Rendering",
+    "url": "https://github.com/hacknug/tailwindcss-image-rendering",
+    "description": "Adds image-rendering utilities."
+  },
+  {
+    "name": "Elevation",
+    "url": "https://github.com/jonaskay/tailwindcss-elevation",
+    "description": "Adds Material UI elevation utilities."
+  },
+  {
+    "name": "Writing Mode",
+    "url": "https://github.com/magicspon/tailwindcss-writing-mode",
+    "description": "Adds writing-mode utilities."
+  },
+  {
+    "name": "Hyphens",
+    "url": "https://github.com/vivgui/tailwindcss-hyphens",
+    "description": "Adds hyphens utilities."
+  },
+  {
+    "name": "Border Gradients",
+    "url": "https://github.com/cossssmin/tailwindcss-border-gradients",
+    "description": "Adds border-image gradient utilities."
+  },
+  {
+    "name": "RFS",
+    "url": "https://github.com/aerni/tailwindcss-rfs",
+    "description": "Adds RFS utilities."
+  },
+  {
+    "name": "List Reset",
+    "url": "https://github.com/opdavies/tailwindcss-list-reset",
+    "description": "Adds back the list-reset class that was removed prior to Tailwind CSS 1.0."
+  },
+  {
+    "name": "Fluid",
+    "url": "https://github.com/bradlc/tailwindcss-fluid",
+    "description": "Adds fluid sizing utilities."
+  },
+  {
+    "name": "Typography",
+    "url": "https://github.com/benface/tailwindcss-typography",
+    "description": "Adds typography utilities."
+  },
+  {
+    "name": "Triangle After",
+    "url": "https://github.com/chrisrowe/tailwindcss-triangle-after",
+    "description": "Adds CSS triangles utilities."
+  },
+  {
+    "name": "Scrims",
+    "url": "https://github.com/brettgullan/tailwindcss-scrims",
+    "description": "Adds scrims utilities."
+  },
+  {
+    "name": "Truncate Multiline",
+    "url": "https://github.com/jhta/tailwindcss-truncate-multiline",
+    "description": "Adds utilities to truncate multi-line text elements."
+  },
+  {
+    "name": "CSS Logical Properties",
+    "url": "https://github.com/omarkhatibco/tailwind-css-logical-properties",
+    "description": "Generate utilities for CSS Logical Properties."
+  },
+  {
+    "name": "Tooltip Arrows After",
+    "url": "https://github.com/gvital3230/tailwindcss-tooltip-arrow-after",
+    "description": "Adds CSS utilities for tooltip arrows with configurable border and background."
+  },
+  {
+    "name": "Bidirectional",
+    "url": "https://github.com/20lives/tailwindcss-rtl",
+    "description": "Adds utilities for creating multilingual bidirectional layouts."
+  },
+  {
+    "name": "Bidirectional",
+    "url": "https://github.com/yassinebridi/tailwind-direction",
+    "description": "Replace the core utilities to be bi-direction compatible."
+  },
+  {
+    "name": "Background SVG",
+    "url": "https://github.com/AndersNielsen85/tailwindcss-bg-svg",
+    "description": "Inject SVGs as background images with color variants."
+  },
+  {
+    "name": "Background Unsplash",
+    "url": "https://github.com/shorwood/tailwindcss-unsplash",
+    "description": "Apply unsplash.com images as background."
+  },
+  {
+    "name": "Brand Colors",
+    "url": "https://github.com/praveenjuge/tailwindcss-brand-colors",
+    "description": "Adds various brand colors for background, border and text."
+  },
+  {
+    "name": "Bootstrap Grid",
+    "url": "https://github.com/karolis-sh/tailwind-bootstrap-grid",
+    "description": "Generates Bootstrap's style flexbox grid system."
+  },
+  {
+    "name": "Leading Trim",
+    "url": "https://github.com/stormwarning/tailwindcss-capsize",
+    "description": "Adds utilities to trim text whitespace, using Capsize."
+  },
+  {
+    "name": "Scrollbar Hide",
+    "url": "https://github.com/reslear/tailwind-scrollbar-hide",
+    "description": "Adds scrollbar-hide class for visual hide scrollbar."
+  },
+  {
+    "name": "Downwind CSS Easings",
+    "url": "https://github.com/downwindcss/easings",
+    "description": "Extends transition-timing-function utilities."
+  },
+  {
+    "name": "Content Placeholder",
+    "url": "https://github.com/javisperez/tailwindcontentplaceholder",
+    "description": "Adds utilities for content placeholder images."
+  },
+  {
+    "name": "No Scrollbar",
+    "url": "https://github.com/redwebcreation/tailwindcss-no-scrollbar",
+    "description": "Exposes scrollbar-none to visually hide a scrollbar."
+  },
+  {
+    "name": "Fluid Type",
+    "url": "https://github.com/davidhellmann/tailwindcss-fluid-type",
+    "description": "Adds fluid type (font-size) utilities."
+  },
+  {
+    "name": "Grid Areas",
+    "url": "https://github.com/SavvyWombat/tailwindcss-grid-areas",
+    "description": "Adds grid-areas and grid-area utilities."
+  },
+  {
+    "name": "Full Bleed Background and Borders",
+    "url": "https://github.com/dgknca/tailwindcss-full-bleed",
+    "description": "Provides utilities for extended backgrounds and borders."
+  },
+  {
+    "name": "CSS Filter Order",
+    "url": "https://github.com/joshdavenport/tailwindcss-filter-order",
+    "description": "Adds filter-order utilities for changing the order of filters in the generated CSS."
+  },
+  {
+    "name": "TailwindCSS 3D",
+    "url": "https://github.com/sambauers/tailwindcss-3d",
+    "description": "Adds 3D transform utilities and animations."
+  },
+  {
+    "name": "Claymorphism",
+    "url": "https://github.com/dulltackle/tailwindcss-claymorphism",
+    "description": "Adds clay utilities for creating claymorphism style."
+  },
+  {
+    "name": "Touch",
+    "url": "https://github.com/SteadfastCollective/tailwindcss-touch",
+    "description": "Adds touch variants."
+  },
+  {
+    "name": "Localized",
+    "url": "https://github.com/hdodov/tailwindcss-localized",
+    "description": "Adds variants based on the HTML lang attribute, to use utilities only with certain languages."
+  },
+  {
+    "name": "Padded Radius",
+    "url": "https://github.com/locksten/tailwindcss-padded-radius",
+    "description": "Adds variants for matching nested border radii."
+  },
+  {
+    "name": "Fluid",
+    "url": "https://github.com/soberwp/tailwindcss-fl",
+    "description": "Generates fl: variants."
+  },
+  {
+    "name": "Pseudo selectors",
+    "url": "https://github.com/Microwawe/tailwindcss-pseudo-selectors",
+    "description": "Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default."
+  },
+  {
+    "name": "Container Queries",
+    "url": "https://github.com/dgknca/tailwindcss-container-query",
+    "description": "Adds CSS Container Query variants."
+  },
+  {
+    "name": "FormKit",
+    "url": "https://github.com/formkit/formkit/tree/master/packages/tailwindcss",
+    "description": "Adds variants for input and form states for FormKit."
+  },
+  {
+    "name": "Debug Screens",
+    "url": "https://github.com/jorenvanhee/tailwindcss-debug-screens",
+    "description": "Adds a component that shows the currently active screen (responsive breakpoint)."
+  },
+  {
+    "name": "Heropatterns",
+    "url": "https://github.com/AndreaMinato/tailwind-heropatterns",
+    "description": "Adds Hero Patterns components."
+  },
+  {
+    "name": "Responsive Embed",
+    "url": "https://github.com/drdogbot7/tailwindcss-responsive-embed",
+    "description": "Adds a responsive-embed component."
+  },
+  {
+    "name": "Bootstrap Tables",
+    "url": "https://github.com/drehimself/tailwindcss-tables",
+    "description": "Adds table components based on Bootstrap's tables."
+  },
+  {
+    "name": "Card",
+    "url": "https://github.com/NathanHeffley/tailwindcss-card",
+    "description": "Adds card components."
+  },
+  {
+    "name": "Skip link",
+    "url": "https://github.com/opdavies/tailwindcss-skip-link",
+    "description": "Adds a Skip to main content accessible component."
+  },
+  {
+    "name": "Colors to CSS Variables",
+    "url": "https://github.com/n1kk/tailwind-color-vars",
+    "description": "Exports color configuration to CSS Custom Properties."
+  },
+  {
+    "name": "CSS Variables",
+    "url": "https://github.com/omarkhatibco/tailwind-css-variables",
+    "description": "Exports configuration to CSS Custom Properties."
+  },
+  {
+    "name": "CSS Variables",
+    "url": "https://github.com/mertasan/tailwindcss-variables",
+    "description": "Exports custom CSS variables (Dark Mode supported)."
+  },
+  {
+    "name": "Perspective",
+    "url": "https://github.com/Kamona-WD/tailwindcss-perspective",
+    "description": "Adds perspective utilities."
+  },
+  {
+    "name": "benface's gradients",
+    "url": "https://github.com/benface/tailwindcss-gradients",
+    "description": "Adds gradient utilities."
+  },
+  {
+    "name": "lorisleiva's gradients",
+    "url": "https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients",
+    "description": "Adds background gradient utilities."
+  },
+  {
+    "name": "Visually Hidden",
+    "url": "https://github.com/webdna/tailwindcss-visuallyhidden",
+    "description": "Adds screen reader utilities."
+  },
+  {
+    "name": "Object Fit",
+    "url": "https://github.com/hendrikeng/tailwindcss-object-fit",
+    "description": "Adds object-fit utilities."
+  },
+  {
+    "name": "Object Position",
+    "url": "https://github.com/hacknug/tailwindcss-object-position",
+    "description": "Adds object-position utilities."
+  },
+  {
+    "name": "Accessibility",
+    "url": "https://github.com/jack-pallot/tailwindcss-accessibility",
+    "description": "Adds screen reader utilities."
+  },
+  {
+    "name": "Layout",
+    "url": "https://github.com/benface/tailwindcss-layout",
+    "description": "Adds some layout utilities."
+  },
+  {
+    "name": "Grid",
+    "url": "https://github.com/chrisrowe/tailwindcss-grid",
+    "description": "Adds CSS grids utilities."
+  },
+  {
+    "name": "Transforms",
+    "url": "https://github.com/benface/tailwindcss-transforms",
+    "description": "Adds transform utilities."
+  },
+  {
+    "name": "benface's transitions",
+    "url": "https://github.com/benface/tailwindcss-transitions",
+    "description": "Adds configurable transition utilities, with or without CSS variables."
+  },
+  {
+    "name": "webdna's transitions",
+    "url": "https://github.com/webdna/tailwindcss-transition",
+    "description": "Adds configurable transition utilities."
+  },
+  {
+    "name": "glhd's transitions",
+    "url": "https://github.com/glhd/tailwindcss-plugins",
+    "description": "Adds basic transition utilities."
+  },
+  {
+    "name": "Cursor Extended",
+    "url": "https://github.com/hacknug/tailwindcss-cursor-extended",
+    "description": "Extends cursor utilities."
+  },
+  {
+    "name": "Font Variant Numeric",
+    "url": "https://github.com/philippbosch/tailwindcss-font-variant-numeric",
+    "description": "Adds font-variant-numeric utilities."
+  },
+  {
+    "name": "Filters",
+    "url": "https://github.com/benface/tailwindcss-filters",
+    "description": "Adds filter utilities."
+  },
+  {
+    "name": "CSS Filters",
+    "url": "https://github.com/Larsklopstra/tailwindcss-css-filters",
+    "description": "Adds filter and backdrop-filter utilities with defaults."
+  },
+  {
+    "name": "Blend Mode",
+    "url": "https://github.com/hacknug/tailwindcss-blend-mode",
+    "description": "Adds blend-mode utilities."
+  },
+  {
+    "name": "Colorize",
+    "url": "https://github.com/philippbosch/tailwindcss-colorize",
+    "description": "Adds filter utilities."
+  },
+  {
+    "name": "Scroll Snap",
+    "url": "https://github.com/innocenzi/tailwindcss-scroll-snap",
+    "description": "Adds scroll-snap utilities."
+  },
+  {
+    "name": "Scroll Behavior",
+    "url": "https://github.com/lukewarlow/tailwind-scroll-behavior",
+    "description": "Adds scroll-smooth and scroll-auto classes to control smooth scrolling."
+  },
+  {
+    "name": "Accent Color",
+    "url": "https://github.com/lukewarlow/tailwind-accent-color",
+    "description": "Adds accent color utilities."
+  },
+  {
+    "name": "Text Indent",
+    "url": "https://github.com/hacknug/tailwindcss-text-indent",
+    "description": "Adds text-indent utilities."
+  },
+  {
+    "name": "Text Decoration Color",
+    "url": "https://github.com/ahmadawais/tailwind-text-decoration-color",
+    "description": "Adds text-decoration-color utilities."
+  },
+  {
+    "name": "Downwind CSS Text Decoration",
+    "url": "https://github.com/downwindcss/text-decoration",
+    "description": "Adds composable text-decoration utilities."
+  },
+  {
+    "name": "Capitalize first letter",
+    "url": "https://github.com/riderx/capitalize-first-tailwind",
+    "description": "Adds capitalize-first utilities."
+  },
+  {
+    "name": "Aspect Ratio",
+    "url": "https://github.com/webdna/tailwindcss-aspect-ratio",
+    "description": "Adds aspect-ratio utilities."
+  },
+  {
+    "name": "Shadow Outline Colors",
+    "url": "https://github.com/octoper/tailwindcss-shadow-outline-colors",
+    "description": "Adds box-shadow utilities based on configured colors."
+  },
+  {
+    "name": "Alpha",
+    "url": "https://github.com/bradlc/tailwindcss-alpha",
+    "description": "Adds alpha color variant utilities."
+  },
+  {
+    "name": "Line Clamp",
+    "url": "https://github.com/tailwindlabs/tailwindcss-line-clamp",
+    "description": "Provides utilities for visually truncating text after a fixed number of lines."
+  },
+  {
+    "name": "Direction",
+    "url": "https://github.com/RonMelkhior/tailwindcss-dir",
+    "description": "Adds RTL and LTR variants."
+  },
+  {
+    "name": "Important",
+    "url": "https://github.com/chasegiunta/tailwindcss-important",
+    "description": "Adds an important variant."
+  },
+  {
+    "name": "Prefers Dark Mode",
+    "url": "https://github.com/javifm86/tailwindcss-prefers-dark-mode",
+    "description": "Adds variants based on the prefers-color-scheme media query."
+  },
+  {
+    "name": "Dark Mode",
+    "url": "https://github.com/danestves/tailwindcss-darkmode",
+    "description": "Adds dark variants based on CSS classes."
+  },
+  {
+    "name": "Dark Mode",
+    "url": "https://github.com/ChanceArthur/tailwindcss-dark-mode",
+    "description": "Adds dark variants based on the prefers-color-scheme media query."
+  },
+  {
+    "name": "CSS Alpha Colors",
+    "url": "https://github.com/soueuls/tailwind-color-alpha",
+    "description": "Adds opacity variants to existing colors."
+  },
+  {
+    "name": "Pseudo",
+    "url": "https://github.com/Log1x/tailwindcss-pseudo",
+    "description": "Adds custom variants to Tailwind CSS's configuration."
+  },
+  {
+    "name": "Spinner",
+    "url": "https://github.com/aniftyco/tailwindcss-spinner",
+    "description": "Adds a spinner component."
+  },
+  {
+    "name": "Spaced Items",
+    "url": "https://github.com/n1kk/tailwindcss-spaced-items",
+    "description": "Adds spaced components that add fixed margins to all container items."
+  },
+  {
+    "name": "Custom Forms",
+    "url": "https://github.com/tailwindlabs/tailwindcss-custom-forms",
+    "description": "Adds better default styles to form elements."
+  },
+  {
+    "name": "Tailwind Color Shades",
+    "url": "https://javisperez.github.io/tailwindcolorshades",
+    "description": "Color shades generator for Tailwind CSS."
+  },
+  {
+    "name": "Palette generator",
+    "url": "https://adevade.github.io/color-scheme-generator",
+    "description": "Color palette generator that outputs Tailwind CSS configuration files."
+  },
+  {
+    "name": "Tailwind Colors",
+    "url": "https://tailwind-colors.meidev.co",
+    "description": "Color configuration generator for Tailwind CSS."
+  },
+  {
+    "name": "Tailwind Color Explorer",
+    "url": "https://stefanbuck.com/tailwind-color-theme-explorer",
+    "description": "Color explorer for Tailwind CSS."
+  },
+  {
+    "name": "TailwindInk",
+    "url": "https://tailwind.ink/",
+    "description": "AI palette generator, trained with the Tailwind CSS palette."
+  },
+  {
+    "name": "Gradient Designer",
+    "url": "https://gradient-designer.csspost.com/",
+    "description": "Generate gradients for Tailwind 2.0+."
+  },
+  {
+    "name": "Grayscale Design",
+    "url": "https://grayscale.design/",
+    "description": "A Luminance-based color palette generator."
+  },
+  {
+    "name": "Hypercolor",
+    "url": "https://hypercolor.dev/",
+    "description": "Collection of pre-configured Tailwind CSS gradients with directional options."
+  },
+  {
+    "name": "Palettolithic",
+    "url": "https://palettolithic.com",
+    "description": "Generates harmonius color palettes based on one color."
+  },
+  {
+    "name": "Tailwind Gradient Generator",
+    "url": "https://tailwindcomponents.com/gradient-generator",
+    "description": "Create perfect Tailwind CSS gradients with zero lines of code."
+  },
+  {
+    "name": "Ui Colors",
+    "url": "https://uicolors.app/create",
+    "description": "Color palette generator for Tailwind CSS."
+  },
+  {
+    "name": "Tints",
+    "url": "https://www.tints.dev/",
+    "description": "Color palette penerator and API for Tailwind CSS."
+  },
+  {
+    "name": "Tailwind CSS v2 colors",
+    "url": "https://www.figma.com/community/file/905719775911766776",
+    "description": "Figma library with Tailwind CSS v2 colors."
+  },
+  {
+    "name": "Colorkraken",
+    "url": "https://github.com/Bouhoum/colorkraken",
+    "description": "Color shades generator for Tailwind CSS."
+  },
+  {
+    "name": "babel-plugin-tailwind-dark",
+    "url": "https://github.com/wowlusitong/babel-plugin-tailwind-dark",
+    "description": "A Babel plugin to add custom dark class when compiling your code using Babel."
+  },
+  {
+    "name": "Twind",
+    "url": "https://github.com/tw-in-js/twind",
+    "description": "Compiler functions that turn Tailwind's classes into CSS at run, serve and build time."
+  },
+  {
+    "name": "GPT-3 Tailwind CSS code generator",
+    "url": "http://gpt-tailwind.com/",
+    "description": "OpenAI GPT-3 powered Tailwind CSS code generator."
+  },
+  {
+    "name": "tail-animista",
+    "url": "https://tail-animista.vercel.app",
+    "description": "Configurable custom animation utilities generator for Tailwind CSS."
+  },
+  {
+    "name": "brands-tail-color",
+    "url": "https://brands-tail-color.vercel.app/",
+    "description": "Configuration generator using various brands' colors."
+  },
+  {
+    "name": "Windframe",
+    "url": "https://www.devwares.com/windframe/",
+    "description": "Tailwind CSS drag and drop builder to rapidly build and prototype websites."
+  },
+  {
+    "name": "Typography Playground",
+    "url": "https://tailwind-typography-playground.vercel.app/",
+    "description": "Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin."
+  },
+  {
+    "name": "Play",
+    "url": "https://play.tailwindcss.com/",
+    "description": "Advanced online playground for Tailwind CSS."
+  },
+  {
+    "name": "Updrafts.app",
+    "url": "https://updrafts.app/",
+    "description": "Advanced online no-code drag and drop editor for Tailwind CSS."
+  },
+  {
+    "name": "Flowrift",
+    "url": "https://flowrift.com",
+    "description": "Beautifully designed Tailwind CSS UI blocks."
+  },
+  {
+    "name": "Tailwindhelper",
+    "url": "https://www.tailwindhelper.com/",
+    "description": "Visualize Tailwind CSS classes and unit converter."
+  },
+  {
+    "name": "Tailwind Automatic Prefix Applicator",
+    "url": "https://github.vue.tailwind-prefix.cbass.dev",
+    "description": "Tailwind classes' prefixer tool."
+  },
+  {
+    "name": "CSS to Tailwind CSS Converter",
+    "url": "https://transform.tools/css-to-tailwind",
+    "description": "Converts CSS to Tailwind CSS by suggesting classes that best match."
+  },
+  {
+    "name": "Tailwindo",
+    "url": "https://github.com/awssat/tailwindo",
+    "description": "Bootstrap to Tailwind CSS converter."
+  },
+  {
+    "name": "Tailupgrade",
+    "url": "https://github.com/virkillz/tailupgrade",
+    "description": "Conversion tool for upgrading HTML files from Tailwind CSS v0.x to v1.0."
+  },
+  {
+    "name": "Tailwind Shift",
+    "url": "https://github.com/awssat/tailwind-shift",
+    "description": "Upgrade tool for upgrading from Tailwind CSS v0.7 to v1.0."
+  },
+  {
+    "name": "RustyWind",
+    "url": "https://github.com/avencera/rustywind",
+    "description": "CLI tool for sorting Tailwind CSS classes."
+  },
+  {
+    "name": "Windy",
+    "url": "https://usewindy.com",
+    "description": "Browser extension to convert HTML elements to Tailwind CSS."
+  },
+  {
+    "name": "react-native-tailwindcss",
+    "url": "https://github.com/TVke/react-native-tailwindcss",
+    "description": "React Native typing system."
+  },
+  {
+    "name": "Gatsby Plugin",
+    "url": "https://github.com/muhajirframe/gatsby-plugin-tailwindcss",
+    "description": "Tailwind CSS integration for Gatsby."
+  },
+  {
+    "name": "Gridsome Plugin",
+    "url": "https://github.com/brandonpittman/gridsome-plugin-tailwindcss",
+    "description": "Tailwind CSS integration for Gridsome."
+  },
+  {
+    "name": "Alfred Workflow",
+    "url": "https://github.com/clnt/alfred-tailwindcss-docs",
+    "description": "Fast Tailwind CSS documentation search application."
+  },
+  {
+    "name": "ng-tailwindcss",
+    "url": "https://github.com/tehpsalmist/ng-tailwindcss",
+    "description": "CLI tool for integrating Tailwind CSS into Angular-CLI projects."
+  },
+  {
+    "name": "vue-cli-plugin-tailwind",
+    "url": "https://github.com/forsartis/vue-cli-plugin-tailwind",
+    "description": "Vue CLI plugin that adds Tailwind CSS to a project."
+  },
+  {
+    "name": "Tailwind CSS Figma Kit",
+    "url": "https://github.com/ecklf/tailwindcss-figma-kit",
+    "description": "Figma Kit for Tailwind CSS."
+  },
+  {
+    "name": "Tailwind CSS Figma UI Design Kit",
+    "url": "https://flowbite.com/figma/",
+    "description": "Figma UI Design Kit for Tailwind CSS."
+  },
+  {
+    "name": "Tailwind CSS Figma Plugin",
+    "url": "https://github.com/ecklf/tailwindcss-figma-plugin",
+    "description": "Figma plugin that integrates Tailwind CSS."
+  },
+  {
+    "name": "@nuxtjs/tailwindcss",
+    "url": "https://github.com/nuxt-community/tailwindcss-module",
+    "description": "Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1)."
+  },
+  {
+    "name": "preact-cli-tailwind",
+    "url": "https://github.com/agneym/preact-cli-tailwind",
+    "description": "Tailwind CSS integration for Preact."
+  },
+  {
+    "name": "tailwind-classes-sorter",
+    "url": "https://github.com/Acidic9/tailwind-classes-sorter",
+    "description": "NPM library which provides a utility to sort Tailwind CSS classes."
+  },
+  {
+    "name": "prettier-plugin-tailwind",
+    "url": "https://github.com/Acidic9/prettier-plugin-tailwind",
+    "description": "Prettier plugin that sorts class lists."
+  },
+  {
+    "name": "tailwindcss-rails",
+    "url": "https://github.com/rails/tailwindcss-rails",
+    "description": "Gem for using Tailwind CSS with Rails' asset pipeline."
+  },
+  {
+    "name": "Zeplin Config & Class generator",
+    "url": "https://extensions.zeplin.io/5ae2d20017c57fd249c9876f",
+    "description": "Zeplin extension that generates Tailwind configurations."
+  },
+  {
+    "name": "@tailwindcssinjs/macro",
+    "url": "https://github.com/Arthie/tailwindcssinjs",
+    "description": "Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries."
+  },
+  {
+    "name": "twin.macro",
+    "url": "https://github.com/ben-rogerson/twin.macro",
+    "description": "Use Tailwind classes within any CSS-in-JS library."
+  },
+  {
+    "name": "tailwindcss-webpack-plugin",
+    "url": "https://github.com/await-ovo/tailwindcss-webpack-plugin",
+    "description": "Out-of-the-box Tailwind CSS, supports \"Design in Devtools\" mode and visualizes Tailwind CSS configuration."
+  },
+  {
+    "name": "tailwindcss-vite-plugin",
+    "url": "https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin",
+    "description": "Vite plugin for Tailwind CSS, supports \"Design in Devtools\" mode and visualizes Tailwind CSS configuration."
+  },
+  {
+    "name": "Tailwind Config Viewer",
+    "url": "https://github.com/rogden/tailwind-config-viewer",
+    "description": "Local UI tool for visualizing your Tailwind CSS configuration file."
+  },
+  {
+    "name": "Laravel Form Components",
+    "url": "https://github.com/pascalbaljetmedia/laravel-form-components",
+    "description": "Blade form components using Tailwind CSS Custom Forms."
+  },
+  {
+    "name": "@ngneat/tailwind",
+    "url": "https://github.com/ngneat/tailwind",
+    "description": "Tailwind CSS integration for Angular."
+  },
+  {
+    "name": "Gust",
+    "url": "https://www.getgust.com",
+    "description": "Drag and drop page builder for WordPress."
+  },
+  {
+    "name": "clb",
+    "url": "https://github.com/crswll/clb",
+    "description": "clb (class list builder) is a utility function that builds a class list based on a Stitches like API."
+  },
+  {
+    "name": "react-with-class",
+    "url": "https://github.com/antomics/react-with-class",
+    "description": "Utility function for creating primitive React components with a set of classes, props or variants."
+  },
+  {
+    "name": "Inspect Flow",
+    "url": "https://inspectflow.io",
+    "description": "The complete developer tool for Tailwind CSS."
+  },
+  {
+    "name": "twined-components",
+    "url": "https://github.com/lowfront/twined-components",
+    "description": "Extended component of a styled-components that prioritizes class names for use in Tailwind CSS."
+  },
+  {
+    "name": "Tails Devtools",
+    "url": "https://github.com/vechai/tails-devtools",
+    "description": "All-in-one browser extension for Tailwind CSS."
+  },
+  {
+    "name": "Impulse.dev",
+    "url": "https://impulse.dev"
+  },
+  {
+    "name": "Tailiscope.nvim",
+    "url": "https://github.com/danielvolchek/tailiscope.nvim",
+    "description": "Tailwind CSS cheat sheet integrated in Neovim."
+  },
+  {
+    "name": "Supertweak",
+    "url": "https://supertweak.dev",
+    "description": "Visual devtools for Tailwind CSS."
+  },
+  {
+    "name": "Tailscan",
+    "url": "https://tailscan.com",
+    "description": "Ultimate devtools for Tailwind CSS v3 with ability to inspect and convert CSS to Tailwind CSS classes."
+  },
+  {
+    "name": "Raycast Extension",
+    "url": "https://www.raycast.com/vimtor/tailwindcss",
+    "description": "Search classes, documentation and colors in Raycast Launcher."
+  },
+  {
+    "name": "DivMagic",
+    "url": "https://divmagic.com",
+    "description": "Copy any web element and style as Tailwind CSS component."
+  },
+  {
+    "name": "re-tailwind",
+    "url": "https://github.com/phthhieu/re-tailwind",
+    "description": "ReasonML utility that generates Tailwind classes."
+  },
+  {
+    "name": "Protoship Codegen",
+    "url": "https://protoship.io",
+    "description": "Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs."
+  },
+  {
+    "name": "create-tailwind-plugin",
+    "url": "https://github.com/Landish/create-tailwind-plugin",
+    "description": "Plugin scaffolder for Tailwind CSS."
+  },
+  {
+    "name": "Maizzle",
+    "url": "https://maizzle.com/",
+    "description": "Framework for rapid email prototyping with Tailwind CSS."
+  },
+  {
+    "name": "Tailwind Cheat Sheet",
+    "url": "http://nerdcave.com/tailwind-cheat-sheet",
+    "description": "Tailwind CSS class names cheat sheet."
+  },
+  {
+    "name": "Tailwind Cheat Sheet",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css",
+    "description": "Tailwind CSS class names in one single file."
+  },
+  {
+    "name": "Tailwind Cheat Sheet",
+    "url": "https://umeshmk.github.io/Tailwindcss-cheatsheet",
+    "description": "Tailwind CSS class names, variants and directives cheat sheet."
+  },
+  {
+    "name": "Tailwind Cheat Sheet",
+    "url": "https://tailwindcomponents.com/cheatsheet",
+    "description": "Tailwind CSS class names in a searchable page."
+  },
+  {
+    "name": "Tailwind Cheat Sheet",
+    "url": "https://flowbite.com/tools/tailwind-cheat-sheet/",
+    "description": "Tailwind CSS utility class names in a searchable interface."
+  },
+  {
+    "name": "Loopple Builder",
+    "url": "https://www.loopple.com/theme/soft-ui-dashboard-tailwind",
+    "description": "Dashboard drag-and-drop builder for Tailwind CSS."
+  },
+  {
+    "name": "Tailwind Grid Generator",
+    "url": "https://www.tailwindgen.com/",
+    "description": "Drag and drop Tailwind CSS grid generator."
+  },
+  {
+    "name": "Tailwind UI",
+    "url": "https://tailwindui.com",
+    "description": "Component library made with Tailwind CSS."
+  },
+  {
+    "name": "Headless UI",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components."
+  },
+  {
+    "name": "VueTailwind",
+    "url": "https://github.com/alfonsobries/vue-tailwind",
+    "description": "Vue.js UI library using Tailwind CSS."
+  },
+  {
+    "name": "Vechai UI",
+    "url": "https://www.vechaiui.com/",
+    "description": "High-quality accessible React components with the built-in dark mode using Tailwind CSS."
+  },
+  {
+    "name": "Flowbite",
+    "url": "https://flowbite.com/docs/getting-started/introduction/",
+    "description": "Open-source component library built with Tailwind CSS."
+  },
+  {
+    "name": "a17t",
+    "url": "https://a17t.miles.land",
+    "description": "Atomic design toolkit built to extend Tailwind CSS."
+  },
+  {
+    "name": "tails-ui",
+    "url": "https://github.com/knipferrc/tails-ui",
+    "description": "React UI library using Tailwind CSS."
+  },
+  {
+    "name": "tails",
+    "url": "https://github.com/thedevdojo/tails",
+    "description": "Hand-crafted templates and components using Tailwind CSS."
+  },
+  {
+    "name": "Svelte Headless UI",
+    "url": "https://github.com/rgossiaux/svelte-headlessui",
+    "description": "Unofficial Svelte port of Headless UI."
+  },
+  {
+    "name": "Xtend UI",
+    "url": "https://xtendui.com/",
+    "description": "Tailwind CSS components with advanced interactions and animations."
+  },
+  {
+    "name": "Headless UI Float",
+    "url": "https://headlessui-float.vercel.app",
+    "description": "Floating UI integration for Headless UI."
+  },
+  {
+    "name": "Vanilla Components",
+    "url": "https://vanilla-components.com",
+    "description": "Set of fully customizable Vue components."
+  },
+  {
+    "name": "Sailboat UI",
+    "url": "https://sailboatui.com/",
+    "description": "Modern UI framework for Tailwind CSS."
+  },
+  {
+    "name": "Built At Lightspeed",
+    "url": "https://www.builtatlightspeed.com/",
+    "description": "Massive directory of 500+ Tailwind templates, starters and UI kits."
+  },
+  {
+    "name": "Statichunt",
+    "url": "https://statichunt.com/tailwind-templates",
+    "description": "Open source directory of hand-picked free and premium Tailwind templates & Starters."
+  },
+  {
+    "name": "Tailkits",
+    "url": "https://tailkits.com/",
+    "description": "Curated Tailwind CSS components, templates, UI kits, resources, tools & more."
+  },
+  {
+    "name": "TailBlocks",
+    "url": "https://mertjf.github.io/tailblocks",
+    "description": "60+ different ready to use Tailwind CSS blocks."
+  },
+  {
+    "name": "Tailwind Components",
+    "url": "https://tailwindcomponents.com",
+    "description": "Community-driven Tailwind CSS component repository."
+  },
+  {
+    "name": "Tailwind Toolbox",
+    "url": "https://www.tailwindtoolbox.com",
+    "description": "Templates, components and resources."
+  },
+  {
+    "name": "Meraki UI Components",
+    "url": "https://merakiui.com",
+    "description": "Beautiful Tailwind CSS components that support RTL languages."
+  },
+  {
+    "name": "Tailwind Cards",
+    "url": "https://github.com/hasinhayder/tailwind-cards",
+    "description": "Growing collection of text/image cards."
+  },
+  {
+    "name": "Tailwind Templates",
+    "url": "https://www.tailwindtemplates.io",
+    "description": "Collection of templates and components."
+  },
+  {
+    "name": "Treact",
+    "url": "https://treact.owaiskhan.me",
+    "description": "React UI templates and components built using Tailwind CSS."
+  },
+  {
+    "name": "Jakarta LTE",
+    "url": "https://github.com/zeroblack-c/jakarta-lte",
+    "description": "Admin template using Tailwind CSS."
+  },
+  {
+    "name": "themes.dev",
+    "url": "https://www.themes.dev/",
+    "description": "Handcrafted, free and premium Tailwind CSS themes and components."
+  },
+  {
+    "name": "Kutty",
+    "url": "https://kutty.netlify.app",
+    "description": "Accessible and reusable components that are commonly used in web applications."
+  },
+  {
+    "name": "Sail UI",
+    "url": "https://sailui.github.io/",
+    "description": "Collection of basic UI components built on Tailwind CSS."
+  },
+  {
+    "name": "jQuery Toggler",
+    "url": "https://craigerskine.github.io/jquery-tailwind-checkbox-toggle",
+    "description": "Switches using jQuery and Tailwind CSS."
+  },
+  {
+    "name": "Tailwind Kit",
+    "url": "https://creative-tim.com/learning-lab/tailwind-starter-kit",
+    "description": "Framework-agnostic, Vue.js, React and Angular components."
+  },
+  {
+    "name": "Windstrap",
+    "url": "https://windstrap.netlify.app",
+    "description": "Tailwind CSS with Bootstrap JS."
+  },
+  {
+    "name": "WickedBlocks",
+    "url": "https://blocks.wickedtemplates.com/",
+    "description": "Collection of more than 120 layout blocks and components built with Tailwind CSS."
+  },
+  {
+    "name": "Daisy UI",
+    "url": "https://github.com/saadeghi/daisyui",
+    "description": "UI Components for Tailwind CSS."
+  },
+  {
+    "name": "Kometa UI Kit",
+    "url": "https://kitwind.io/products/kometa/components",
+    "description": "Free multi-purpose UI kit, built with Tailwind CSS."
+  },
+  {
+    "name": "Mamba UI",
+    "url": "https://mambaui.com",
+    "description": "Free Tailwind CSS components, sections and templates."
+  },
+  {
+    "name": "Litepie Date picker",
+    "url": "https://github.com/kenhyuwa/litepie-datepicker",
+    "description": "A date range picker component for Vue.js and Tailwind CSS."
+  },
+  {
+    "name": "Tailwind Datepicker",
+    "url": "https://github.com/themesberg/tailwind-datepicker",
+    "description": "Adds a datepicker component built with Tailwind CSS and vanilla JavaScript."
+  },
+  {
+    "name": "Tailwind Typeahead",
+    "url": "https://github.com/basarozcan/vue-tailwindcss-typeahead",
+    "description": "Typeahead/Autocomplete component built with Vue.js and Tailwind CSS."
+  },
+  {
+    "name": "Material Tailwind",
+    "url": "https://material-tailwind.com",
+    "description": "Easy to use components library for Tailwind CSS and Material Design."
+  },
+  {
+    "name": "Layouts for Tailwind",
+    "url": "https://layoutsfortailwind.lalokalabs.dev",
+    "description": "Layouts and UI Patterns for Tailwind CSS."
+  },
+  {
+    "name": "HyperUI",
+    "url": "https://hyperui.dev",
+    "description": "Open source marketing and ecommerce Tailwind CSS components."
+  },
+  {
+    "name": "Snippets",
+    "url": "https://snippets.alexandru.so",
+    "description": "Open source collection of animation snippets made for Tailwind CSS."
+  },
+  {
+    "name": "Fancy Tailwind",
+    "url": "https://fancytailwind.com",
+    "description": "Large collection of Tailwind CSS UI components (700+)."
+  },
+  {
+    "name": "Myna UI",
+    "url": "https://mynaui.com",
+    "description": "Open source UI Components and Marketing Elements made with Tailwind CSS."
+  },
+  {
+    "name": "Sira UI",
+    "url": "https://sira.riccox.com",
+    "description": "Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI."
+  },
+  {
+    "name": "RippleUI",
+    "url": "https://www.ripple-ui.com",
+    "description": "Clean, modern and beautiful Tailwind CSS components."
+  },
+  {
+    "name": "Wind UI",
+    "url": "https://wind-ui.com",
+    "description": "Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app."
+  },
+  {
+    "name": "Pines UI",
+    "url": "https://devdojo.com/pines",
+    "description": "Alpine and Tailwind CSS UI library."
+  },
+  {
+    "name": "NativeWind",
+    "url": "https://www.nativewind.dev",
+    "description": "NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native."
+  },
+  {
+    "name": "Windstatic",
+    "url": "https://windstatic.com",
+    "description": "Set of 161 elements & layouts made with Tailwind CSS and Alpine.js."
+  },
+  {
+    "name": "TailwindFlex",
+    "url": "https://tailwindflex.com",
+    "description": "Free library of Tailwind CSS examples."
+  },
+  {
+    "name": "Vue Notus",
+    "url": "https://www.creative-tim.com/product/vue-notus",
+    "description": "Open-source Tailwind CSS and Vue.js UI kit."
+  },
+  {
+    "name": "Red Pixel Themes",
+    "url": "https://redpixelthemes.com/",
+    "description": "Paid, developer-friendly templates made with Tailwind CSS."
+  },
+  {
+    "name": "EasyTailwind",
+    "url": "https://easytailwind.now.sh",
+    "description": "Freemium, easily customizable templates made with Tailwind CSS."
+  },
+  {
+    "name": "Windmill Dashboard",
+    "url": "https://windmill-dashboard.vercel.app/",
+    "description": "Multi theme, completely accessible dashboard template."
+  },
+  {
+    "name": "Tailwind Admin",
+    "url": "https://github.com/tailwindadmin/admin",
+    "description": "Administration panel template with Tailwind CSS."
+  },
+  {
+    "name": "Landing Gradients",
+    "url": "https://landing-gradients.netlify.app",
+    "description": "Landing page template using gradients (1.7+)."
+  },
+  {
+    "name": "Resume",
+    "url": "https://github.com/mohusman360/mohusman360.github.io",
+    "description": "Simple resume with Tailwind CSS."
+  },
+  {
+    "name": "Simple Light",
+    "url": "https://github.com/cruip/tailwind-landing-page-template",
+    "description": "Free landing page template built with React & Tailwind CSS."
+  },
+  {
+    "name": "V-Dashboard",
+    "url": "https://github.com/wobsoriano/v-dashboard",
+    "description": "Dashboard starter template built with Vue 3 and Tailwind CSS."
+  },
+  {
+    "name": "Petra",
+    "url": "https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template",
+    "description": "Free landing page template built with Nuxt.js & Tailwind CSS."
+  },
+  {
+    "name": "Tailmin",
+    "url": "https://github.com/otezz/tailmin",
+    "description": "Admin dashboard built with Vue.js and Tailwind CSS."
+  },
+  {
+    "name": "OhMySMTP Templates",
+    "url": "https://github.com/ohmysmtp/templates",
+    "description": "Set of Transactional HTML Email Templates, built with Maizzle"
+  },
+  {
+    "name": "Material Tailwind Kit React",
+    "url": "https://www.creative-tim.com/product/material-tailwind-kit-react",
+    "description": "Free Tailwind CSS and React UI kit."
+  },
+  {
+    "name": "Material Tailwind Dashboard React",
+    "url": "https://www.creative-tim.com/product/material-tailwind-dashboard-react",
+    "description": "Free Tailwind CSS and React admin template."
+  },
+  {
+    "name": "Admin One Vue 3",
+    "url": "https://github.com/justboil/admin-one-vue-tailwind",
+    "description": "Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support."
+  },
+  {
+    "name": "Cruip",
+    "url": "https://cruip.com/",
+    "description": "Beautifully designed HTML, React, and Vue.js templates."
+  },
+  {
+    "name": "Admin One React",
+    "url": "https://github.com/justboil/admin-one-react-tailwind",
+    "description": "Free React.js Tailwind CSS admin template with Next.js & TypeScript."
+  },
+  {
+    "name": "Flowbite Admin Dashboard",
+    "url": "https://github.com/themesberg/flowbite-admin-dashboard",
+    "description": "Open-source admin dashboard template built with Tailwind CSS and Flowbite."
+  },
+  {
+    "name": "Astro Template Resume",
+    "url": "https://github.com/fortezhuo/fortezhuo.my.id",
+    "description": "Eye-catching resume template built with Astro, Tailwind CSS."
+  },
+  {
+    "name": "Astro Template Cactus",
+    "url": "https://github.com/chrismwilliams/astro-theme-cactus",
+    "description": "Tailwind CSS Astro starter template."
+  },
+  {
+    "name": "Create React App with PurgeCSS",
+    "url": "https://github.com/DemianD/create-react-app-tailwindcss",
+    "description": "CRA script that adds Tailwind CSS and PurgeCSS."
+  },
+  {
+    "name": "Laravel Preset",
+    "url": "https://github.com/use-preset/laravel-tailwindcss",
+    "description": "Adds Tailwind CSS to the Laravel framework."
+  },
+  {
+    "name": "Laravel Front-end Preset",
+    "url": "https://github.com/laravel-frontend-presets/tailwindcss",
+    "description": "Front-end preset using Tailwind CSS for Laravel."
+  },
+  {
+    "name": "Laravel Dark Front-end Preset",
+    "url": "https://github.com/Naoray/dark-tailwind-preset",
+    "description": "Dark-themed front-end preset using Tailwind CSS for Laravel."
+  },
+  {
+    "name": "Create React App with EmotionJS",
+    "url": "https://github.com/muhajirframe/react-tailwind-emotion-starter",
+    "description": "CRA boilerplate using Tailwind CSS and Emotion JS."
+  },
+  {
+    "name": "Create React App with TypeScript",
+    "url": "https://github.com/dance2die/cra-template-tailwindcss-typescript",
+    "description": "CRA template with support for Tailwind CSS and TypeScript."
+  },
+  {
+    "name": "Next.js PWA",
+    "url": "https://github.com/msaaddev/create-next-pwa"
+  },
+  {
+    "name": "new-tailwind-app",
+    "url": "https://github.com/msaaddev/new-tailwind-app",
+    "description": "Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps."
+  },
+  {
+    "name": "Tailwind CSS Boilerplate",
+    "url": "https://github.com/michelegera/create-tailwindcss-boilerplate",
+    "description": "Tailwind CSS boilerplate using Parcel."
+  },
+  {
+    "name": "Jekyll Starter",
+    "url": "https://github.com/taylorbryant/tailwind-jekyll",
+    "description": "Jekyll starter using Tailwind CSS."
+  },
+  {
+    "name": "Jekyll Starter",
+    "url": "https://github.com/mhanberg/jekyll-tailwind-starter",
+    "description": "Jekyll starter using Tailwind CSS."
+  },
+  {
+    "name": "Jekyll Starter",
+    "url": "https://github.com/shenlu89/jekyll-tailwindcss-starter",
+    "description": "Jekyll starter using Tailwind CSS"
+  },
+  {
+    "name": "Gulp Starter",
+    "url": "https://github.com/simonswiss/tailwind-starter",
+    "description": "Gulp starter using Tailwind CSS."
+  },
+  {
+    "name": "Gatsby Starter",
+    "url": "https://github.com/taylorbryant/gatsby-starter-tailwind",
+    "description": "Gatsby starter using Tailwind CSS."
+  },
+  {
+    "name": "Gatsby Starter Simplicity",
+    "url": "https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme",
+    "description": "Gatsby starter using Tailwind CSS."
+  },
+  {
+    "name": "Gatsby Starter + TypeScript",
+    "url": "https://github.com/ecklf/gatsby-typescript-tailwind",
+    "description": "Gatsby starter using Tailwind CSS and TypeScript."
+  },
+  {
+    "name": "Gatsby Starter + Emotion JS",
+    "url": "https://github.com/muhajirframe/gatsby-tailwind-emotion-starter",
+    "description": "Gatsby starter using Tailwind CSS and Emotion JS."
+  },
+  {
+    "name": "Gatsby Starter Opinionated",
+    "url": "https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated",
+    "description": "Gatsby starter using Tailwind CSS and opinionated goodies."
+  },
+  {
+    "name": "Create React App Boilerplate",
+    "url": "https://github.com/kriswep/cra-tailwindcss",
+    "description": "CRA boilerplate using Tailwind CSS."
+  },
+  {
+    "name": "Create React App with PurgeCSS + Autoprefixer + CSSNano",
+    "url": "https://github.com/saadeghi/create-react-app-tailwindcss",
+    "description": "CRA boilerplate using CSS Nano."
+  },
+  {
+    "name": "Dogpatch",
+    "url": "https://github.com/jack-pallot/dogpatch",
+    "description": "WordPress starter using Webpack, Vue, Babel and Tailwind CSS."
+  },
+  {
+    "name": "Next.js Starter",
+    "url": "https://github.com/oddstronaut/tailwind-next",
+    "description": "Next.js boilerplate using Tailwind CSS."
+  },
+  {
+    "name": "Sapper & Svelte Starter",
+    "url": "https://github.com/EricPKerr/sapper-tailwindcss-starter",
+    "description": "Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint."
+  },
+  {
+    "name": "Netlify Lambda Starter",
+    "url": "https://github.com/HugoDF/netlify-lambda-tailwind-static-starter",
+    "description": "Netlify Lambda boilerplate using Tailwind CSS."
+  },
+  {
+    "name": "Hugo Theme Starter with Tailwind CSS",
+    "url": "https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter",
+    "description": "Hugo theme starter using Tailwind CSS."
+  },
+  {
+    "name": "Eleventy Web Starter",
+    "url": "https://github.com/scottishstoater/jamstack-web-starter",
+    "description": "Starter kit using Eleventy, Tailwind CSS, Webpack and PostCSS."
+  },
+  {
+    "name": "Nanoc Starter",
+    "url": "https://github.com/arkency/nanoc-parcel-tailwind-starter",
+    "description": "Nanoc starter using Tailwind CSS."
+  },
+  {
+    "name": "PostCSS and Browsersync Boilerplate",
+    "url": "https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate",
+    "description": "Boilerplate using CSS Nano."
+  },
+  {
+    "name": "ParcelJS + TypeScript Boilerplate",
+    "url": "https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate",
+    "description": "Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript."
+  },
+  {
+    "name": "VuePress Tailwind CSS Starter",
+    "url": "https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter",
+    "description": "A VuePress starter using Tailwind CSS."
+  },
+  {
+    "name": "Gatsby Serif",
+    "url": "https://github.com/windedge/gatsby-tailwind-serif",
+    "description": "Gatsby's serif theme using Tailwind CSS."
+  },
+  {
+    "name": "Seminyak Hugo Theme",
+    "url": "https://git.habd.as/jhabdas/seminyak",
+    "description": "Hugo theme using Tailwind CSS."
+  },
+  {
+    "name": "Eleventy Starter",
+    "url": "https://github.com/ixartz/Eleventy-Starter-Boilerplate/",
+    "description": "Production-ready, SEO-friendly blog starter using Tailwind CSS."
+  },
+  {
+    "name": "Vite + React + Tailwind Starter",
+    "url": "https://github.com/wobsoriano/vite-react-tailwind-starter",
+    "description": "Boilerplate using Vite, React and Tailwind CSS."
+  },
+  {
+    "name": "Vite + React + TypeScript + Tailwind 3.x starter",
+    "url": "https://github.com/PDMLab/vite-react-typescript-tailwind-starter",
+    "description": "GitHub Template for Vite, React + Tailwind 3.x + TypeScript."
+  },
+  {
+    "name": "Vite + Vue 3.x + Tailwind 2.x Starter",
+    "url": "https://github.com/web2033/vite-vue3-tailwind-starter",
+    "description": "Starter template using Vite, Vue, Vue Router and Tailwind CSS."
+  },
+  {
+    "name": "Vite + Lit + Tailwind Starter",
+    "url": "https://github.com/running-grass/starter-lit-with-tailwind",
+    "description": "Boilerplate using Vite, Lit and Tailwind CSS."
+  },
+  {
+    "name": "Shopify Theme Lab",
+    "url": "https://github.com/uicrooks/shopify-theme-lab",
+    "description": "Shopify theme development starter using Vue and Tailwind CSS."
+  },
+  {
+    "name": "Starter Dashboard Layout",
+    "url": "https://github.com/Kamona-WD/starter-dashboard-layout",
+    "description": "Dashboard layout using Tailwind CSS and Alpine JS."
+  },
+  {
+    "name": "Jekyll Landing Website Starter",
+    "url": "https://github.com/abhinavs/cookie",
+    "description": "Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS."
+  },
+  {
+    "name": "Next JS Boilerplate",
+    "url": "https://github.com/ixartz/Next-js-Boilerplate",
+    "description": "Boilerplate for Next.js and Tailwind CSS."
+  },
+  {
+    "name": "Vitailse",
+    "url": "https://github.com/zynth17/vitailse",
+    "description": "Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS."
+  },
+  {
+    "name": "Vite-Boot",
+    "url": "https://github.com/kirklin/vite-boot",
+    "description": "Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template."
+  },
+  {
+    "name": "AstroWind",
+    "url": "https://github.com/onwidget/astrowind",
+    "description": "Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS."
+  },
+  {
+    "name": "Angular-Tailwind",
+    "url": "https://github.com/luciano-work/angular-tailwind",
+    "description": "Dashboard starter kit using Angular and Tailwind CSS."
+  },
+  {
+    "name": "Vue-Resume",
+    "url": "https://github.com/luciano-work/vue-resume",
+    "description": "Developer resume template with Tailwind CSS and Vue."
+  },
+  {
+    "name": "Tailwind sites",
+    "url": "https://tailwindsites.com",
+    "description": "Free Tailwind CSS site templates for your next project."
+  },
+  {
+    "name": "Goodwork",
+    "url": "https://github.com/iluminar/goodwork",
+    "description": "Project Management & Collaboration tool."
+  },
+  {
+    "name": "Todolist",
+    "url": "https://github.com/guillaumebriday/todolist-frontend-vuejs",
+    "description": "To-do list application using Tailwind CSS."
+  },
+  {
+    "name": "LeagueStats",
+    "url": "https://github.com/vkaelin/LeagueStats",
+    "description": "Statistics website for League of Legends players."
+  },
+  {
+    "name": "SapperCommerce",
+    "url": "https://github.com/itswadesh/sapper-ecommerce",
+    "description": "E-commerce storefront using Svelte & Tailwind CSS."
+  },
+  {
+    "name": "Misiki Books",
+    "url": "https://github.com/itswadesh/misiki-books",
+    "description": "Book shop using Vue + Moltin + Tailwind CSS."
+  },
+  {
+    "name": "Ubuntu 20.04",
+    "url": "https://github.com/vivek9patel/vivek9patel.github.io",
+    "description": "An Ubuntu desktop using React.js + Tailwind CSS."
+  },
+  {
+    "name": "Angular Spotify",
+    "url": "https://github.com/trungk18/angular-spotify",
+    "description": "Spotify client built with Angular, Nx Workspace and Tailwind CSS."
+  },
+  {
+    "name": "GitProfile",
+    "url": "https://github.com/arifszn/gitprofile",
+    "description": "Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS."
+  },
+  {
+    "name": "Plugin Examples",
+    "url": "https://github.com/tailwindlabs/tailwindcss-plugin-examples",
+    "description": "Official plugin examples."
+  },
+  {
+    "name": "Tailwind Dark Mode Theme Switcher",
+    "url": "https://github.com/huphtur/tailwind-theme-switcher",
+    "description": "Switching themes with CSS Custom Properties and Tailwind CSS."
+  },
+  {
+    "name": "Acquia",
+    "url": "https://github.com/opdavies/rebuilding-acquia",
+    "description": "Acquia's hosting dashboard rebuilt with Vue.js and Tailwind CSS."
+  },
+  {
+    "name": "Navbar",
+    "url": "https://codepen.io/joshmanders/pen/PQQBoR",
+    "description": "Navbar made with Vue.js and Tailwind CSS."
+  },
+  {
+    "name": "Toggle switch",
+    "url": "https://github.com/TowelSoftware/tailwindcss-toggle",
+    "description": "Switch using Tailwind CSS."
+  },
+  {
+    "name": "“Open” landing page",
+    "url": "https://github.com/michelegera/tailwindcss-open-template/",
+    "description": "“Open” landing page template by Cruip built with Tailwind CSS Boilerplate."
+  },
+  {
+    "name": "Testing Tailwind CSS plugins with Jest",
+    "url": "https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest",
+    "description": "How to test Tailwind CSS plugins with Jest."
+  },
+  {
+    "name": "Tailwind CSS with Webpack 4 and PostCSS",
+    "url": "https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS",
+    "description": "How to setup Tailwind CSS with PostCSS and Webpack."
+  },
+  {
+    "name": "Tailwind CSS with CSS-in-JS",
+    "url": "https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c",
+    "description": "How to use Tailwind CSS with CSS-in-JS."
+  },
+  {
+    "name": "Tailwind CSS in a Laravel Project",
+    "url": "https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project",
+    "description": "How to setup Tailwind CSS in a Laravel project."
+  },
+  {
+    "name": "Tailwind CSS with Ember",
+    "url": "https://github.com/raytiley/tailwind-ember-example",
+    "description": "How to add Tailwind CSS to an Ember application."
+  },
+  {
+    "name": "Sage WordPress theme and Tailwind CSS",
+    "url": "https://roots.io/guides/how-to-setup-tailwind-css-in-sage",
+    "description": "How to setup Tailwind CSS in Sage."
+  },
+  {
+    "name": "Tailwind CSS with GatsbyJS",
+    "url": "https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj",
+    "description": "How to use Tailwind CSS with Gatsby."
+  },
+  {
+    "name": "Tailwind CSS with Phoenix 1.4",
+    "url": "https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4",
+    "description": "How to setup Tailwind CSS in Phoenix 1.4."
+  },
+  {
+    "name": "Extend Tailwind CSS",
+    "url": "https://web-crunch.com/how-to-extend-tailwind-css",
+    "description": "How to Extend Tailwind CSS."
+  },
+  {
+    "name": "Rebuilding Laravel.io",
+    "url": "https://www.youtube.com/watch?v=ZrRRMBaz5Z0",
+    "description": "Rebuilding Laravel.io with Tailwind CSS."
+  },
+  {
+    "name": "Rebuilding Coinbase",
+    "url": "https://www.youtube.com/watch?v=7gX_ApBeSpQ",
+    "description": "Rebuilding Coinbase with Tailwind CSS [see the Codepen]."
+  },
+  {
+    "name": "Rebuilding Twitter",
+    "url": "https://www.youtube.com/watch?v=Pg_5Ni1_bg4",
+    "description": "Rebuilding Twitter with Tailwind CSS [see the CodePen]."
+  },
+  {
+    "name": "Rebuilding YouTube",
+    "url": "https://www.youtube.com/watch?v=qxQKnqmNKv0",
+    "description": "Rebuilding YouTube with Tailwind CSS."
+  },
+  {
+    "name": "Rebuilding Netlify",
+    "url": "https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s",
+    "description": "Rebuilding Netlify with Tailwind CSS."
+  },
+  {
+    "name": "Rebuilding Resolute",
+    "url": "https://www.youtube.com/watch?v=banq3TfAPYk",
+    "description": "Rebuilding Resolute with Tailwind CSS."
+  },
+  {
+    "name": "Let's Build: Movie Production Landing Page",
+    "url": "https://web-crunch.com/tailwind-css-movie-production-landing-page",
+    "description": "Building a movie production landing page with Tailwind CSS."
+  },
+  {
+    "name": "Lets Build: Responsive Navbar",
+    "url": "https://web-crunch.com/lets-build-tailwind-css-responsive-navbar",
+    "description": "Building a responsive navbar with Tailwind CSS."
+  },
+  {
+    "name": "Let's Build: Dribbble Shot",
+    "url": "https://web-crunch.com/lets-build-tailwind-css-dribbble-shot",
+    "description": "Dribbble shot with Tailwind CSS."
+  },
+  {
+    "name": "Tailwind CSS: From Zero to Production",
+    "url": "https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0",
+    "description": "Complete walkthrough of Tailwind CSS, from installation to optimization for deployment."
+  },
+  {
+    "name": "Let's Build: Tweet component",
+    "url": "https://web-crunch.com/lets-build-tailwind-css-tweet",
+    "description": "Building a Tweet component with Tailwind CSS."
+  },
+  {
+    "name": "10 Tailwind CSS Tips and Tricks",
+    "url": "https://www.youtube.com/watch?v=aSlK3GhRuXA",
+    "description": "10 Tailwind CSS tricks you should know."
+  },
+  {
+    "name": "Modal Dialog",
+    "url": "https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f",
+    "description": "Creating a modal dialog with Tailwind CSS."
+  },
+  {
+    "name": "Building real-world UIs using Tailwind CSS",
+    "url": "https://github.com/asvny/building-realworld-user-interfaces-using-tailwind",
+    "description": "Building UIs of Shopify, Spotify, Netlify and Atlassian."
+  },
+  {
+    "name": "Rebuilding FreshBooks",
+    "url": "http://joey.io/rebuilding-freshbooks-with-tailwind-css",
+    "description": "Rebuilding FreshBooks with Tailwind CSS."
+  },
+  {
+    "name": "Login Page (PingPing)",
+    "url": "https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss",
+    "description": "Creating a login page with Tailwind CSS."
+  },
+  {
+    "name": "Login Page",
+    "url": "https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page",
+    "description": "Creating a login page with Tailwind CSS."
+  },
+  {
+    "name": "Vue.js Component with Tailwind and Laravel",
+    "url": "https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project",
+    "description": "Building a Vue.js component in a Laravel project."
+  },
+  {
+    "name": "Vue.js Modal",
+    "url": "https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css",
+    "description": "Building a customizable modal with Tailwind CSS and Vue.js."
+  },
+  {
+    "name": "Navigation",
+    "url": "https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css",
+    "description": "Building a navigation with Tailwind CSS."
+  },
+  {
+    "name": "Forms with Tailwind CSS",
+    "url": "https://css-tricks.com/style-form-tailwind-css",
+    "description": "How to style a form with Tailwind CSS."
+  },
+  {
+    "name": "Photo gallery with CSS grids",
+    "url": "https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css",
+    "description": "Building a photo gallery with CSS grids and Tailwind CSS."
+  },
+  {
+    "name": "Rebuilding Bartik",
+    "url": "https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css",
+    "description": "Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS."
+  },
+  {
+    "name": "Rebuilding Airbnb's Home Page",
+    "url": "https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css",
+    "description": "Rebuilding Airbnb's Home Page with Tailwind CSS."
+  },
+  {
+    "name": "Typographic defaults in Tailwind CSS",
+    "url": "https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/"
+  },
+  {
+    "name": "Create a responsive navigation menu in Tailwind CSS",
+    "url": "https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/"
+  },
+  {
+    "name": "Laracasts Weekly Stream: Tailwind",
+    "url": "https://www.youtube.com/watch?v=HIPgzWS-Bxg"
+  },
+  {
+    "name": "More experimentation with Tailwind CSS",
+    "url": "https://www.youtube.com/watch?v=nBzfVK3QUzM"
+  },
+  {
+    "name": "Rebuilding Spotify",
+    "url": "https://youtu.be/SLGb2RLie9w"
+  },
+  {
+    "name": "Rebuilding Discord",
+    "url": "https://youtu.be/t54tuaoHVLo"
+  },
+  {
+    "name": "Rebuilding Meetup",
+    "url": "https://youtu.be/ULe6yKJrFuI"
+  }
+]

@@ -1,0 +1,3138 @@
+[
+  {
+    "name": "abaplint",
+    "url": "https://abaplint.org"
+  },
+  {
+    "name": "abapOpenChecks",
+    "url": "https://docs.abapopenchecks.org"
+  },
+  {
+    "name": "Codepeer",
+    "url": "https://www.adacore.com/static-analysis/codepeer"
+  },
+  {
+    "name": "Polyspace for Ada",
+    "url": "https://www.mathworks.com/products/polyspace-ada.html"
+  },
+  {
+    "name": "SPARK",
+    "url": "https://www.adacore.com/about-spark"
+  },
+  {
+    "name": "STOKE",
+    "url": "https://github.com/StanfordPL/stoke"
+  },
+  {
+    "name": "gawk --lint",
+    "url": "https://www.gnu.org/software/gawk/manual/html_node/Options.html"
+  },
+  {
+    "name": "Astrée",
+    "url": "https://www.absint.com/astree/index.htm"
+  },
+  {
+    "name": "CBMC",
+    "url": "http://www.cprover.org/cbmc"
+  },
+  {
+    "name": "clang-tidy",
+    "url": "https://clang.llvm.org/extra/clang-tidy"
+  },
+  {
+    "name": "clazy",
+    "url": "https://github.com/KDE/clazy"
+  },
+  {
+    "name": "CMetrics",
+    "url": "https://github.com/MetricsGrimoire/CMetrics"
+  },
+  {
+    "name": "CPAchecker",
+    "url": "https://cpachecker.sosy-lab.org"
+  },
+  {
+    "name": "cppcheck",
+    "url": "https://cppcheck.sourceforge.io"
+  },
+  {
+    "name": "CppDepend",
+    "url": "https://www.cppdepend.com"
+  },
+  {
+    "name": "cpplint",
+    "url": "https://github.com/google/styleguide/tree/gh-pages/cpplint"
+  },
+  {
+    "name": "cqmetrics",
+    "url": "https://github.com/dspinellis/cqmetrics"
+  },
+  {
+    "name": "CScout",
+    "url": "https://www.spinellis.gr/cscout"
+  },
+  {
+    "name": "ESBMC",
+    "url": "http://esbmc.org"
+  },
+  {
+    "name": "flawfinder",
+    "url": "http://dwheeler.com/flawfinder/"
+  },
+  {
+    "name": "flint++",
+    "url": "https://github.com/JossWhittle/FlintPlusPlus"
+  },
+  {
+    "name": "Frama-C",
+    "url": "https://www.frama-c.com"
+  },
+  {
+    "name": "GCC",
+    "url": "https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html"
+  },
+  {
+    "name": "Goblint",
+    "url": "https://goblint.in.tum.de"
+  },
+  {
+    "name": "Helix QAC",
+    "url": "https://www.perforce.com/products/helix-qac"
+  },
+  {
+    "name": "IKOS",
+    "url": "https://github.com/nasa-sw-vnv/ikos"
+  },
+  {
+    "name": "Joern",
+    "url": "https://joern.io"
+  },
+  {
+    "name": "KLEE",
+    "url": "http://klee.github.io/"
+  },
+  {
+    "name": "LDRA",
+    "url": "https://ldra.com"
+  },
+  {
+    "name": "MATE",
+    "url": "https://galoisinc.github.io/MATE/"
+  },
+  {
+    "name": "PC-lint",
+    "url": "https://pclintplus.com/"
+  },
+  {
+    "name": "Phasar",
+    "url": "https://phasar.org"
+  },
+  {
+    "name": "Polyspace Bug Finder",
+    "url": "https://www.mathworks.com/products/polyspace-bug-finder.html"
+  },
+  {
+    "name": "Polyspace Code Prover",
+    "url": "https://www.mathworks.com/products/polyspace-code-prover.html"
+  },
+  {
+    "name": "scan-build",
+    "url": "https://clang-analyzer.llvm.org/scan-build.html"
+  },
+  {
+    "name": "splint",
+    "url": "http://splint.org"
+  },
+  {
+    "name": "SVF",
+    "url": "https://svf-tools.github.io/SVF"
+  },
+  {
+    "name": "TrustInSoft Analyzer",
+    "url": "https://trust-in-soft.com"
+  },
+  {
+    "name": "vera++",
+    "url": "https://bitbucket.org/verateam/vera/wiki/Introduction"
+  },
+  {
+    "name": ".NET Analyzers",
+    "url": "https://github.com/DotNetAnalyzers"
+  },
+  {
+    "name": "ArchUnitNET",
+    "url": "https://github.com/TNG/ArchUnitNET"
+  },
+  {
+    "name": "code-cracker",
+    "url": "https://code-cracker.github.io"
+  },
+  {
+    "name": "CSharpEssentials",
+    "url": "https://github.com/DustinCampbell/CSharpEssentials"
+  },
+  {
+    "name": "Designite",
+    "url": "http://www.designite-tools.com"
+  },
+  {
+    "name": "Gendarme",
+    "url": "https://www.mono-project.com/docs/tools+libraries/tools/gendarme"
+  },
+  {
+    "name": "Infer#",
+    "url": "https://github.com/microsoft/infersharp"
+  },
+  {
+    "name": "NDepend",
+    "url": "http://www.ndepend.com"
+  },
+  {
+    "name": "Puma Scan",
+    "url": "https://pumasecurity.io"
+  },
+  {
+    "name": "Roslynator",
+    "url": "https://github.com/JosefPihrt/Roslynator"
+  },
+  {
+    "name": "VSDiagnostics",
+    "url": "https://github.com/Vannevelj/VSDiagnostics"
+  },
+  {
+    "name": "Wintellect.Analyzers",
+    "url": "https://github.com/Wintellect/Wintellect.Analyzers"
+  },
+  {
+    "name": "Astrée",
+    "url": "https://www.absint.com/astree/index.htm"
+  },
+  {
+    "name": "CBMC",
+    "url": "http://www.cprover.org/cbmc"
+  },
+  {
+    "name": "clang-tidy",
+    "url": "https://clang.llvm.org/extra/clang-tidy"
+  },
+  {
+    "name": "clazy",
+    "url": "https://github.com/KDE/clazy"
+  },
+  {
+    "name": "CMetrics",
+    "url": "https://github.com/MetricsGrimoire/CMetrics"
+  },
+  {
+    "name": "cppcheck",
+    "url": "https://cppcheck.sourceforge.io"
+  },
+  {
+    "name": "CppDepend",
+    "url": "https://www.cppdepend.com"
+  },
+  {
+    "name": "cpplint",
+    "url": "https://github.com/google/styleguide/tree/gh-pages/cpplint"
+  },
+  {
+    "name": "cqmetrics",
+    "url": "https://github.com/dspinellis/cqmetrics"
+  },
+  {
+    "name": "CScout",
+    "url": "https://www.spinellis.gr/cscout"
+  },
+  {
+    "name": "ESBMC",
+    "url": "http://esbmc.org"
+  },
+  {
+    "name": "flawfinder",
+    "url": "http://dwheeler.com/flawfinder/"
+  },
+  {
+    "name": "flint++",
+    "url": "https://github.com/JossWhittle/FlintPlusPlus"
+  },
+  {
+    "name": "Frama-C",
+    "url": "https://www.frama-c.com"
+  },
+  {
+    "name": "Helix QAC",
+    "url": "https://www.perforce.com/products/helix-qac"
+  },
+  {
+    "name": "IKOS",
+    "url": "https://github.com/nasa-sw-vnv/ikos"
+  },
+  {
+    "name": "Joern",
+    "url": "https://joern.io"
+  },
+  {
+    "name": "KLEE",
+    "url": "http://klee.github.io/"
+  },
+  {
+    "name": "LDRA",
+    "url": "https://ldra.com"
+  },
+  {
+    "name": "MATE",
+    "url": "https://galoisinc.github.io/MATE/"
+  },
+  {
+    "name": "PC-lint",
+    "url": "https://pclintplus.com/"
+  },
+  {
+    "name": "Phasar",
+    "url": "https://phasar.org"
+  },
+  {
+    "name": "Polyspace Bug Finder",
+    "url": "https://www.mathworks.com/products/polyspace-bug-finder.html"
+  },
+  {
+    "name": "Polyspace Code Prover",
+    "url": "https://www.mathworks.com/products/polyspace-code-prover.html"
+  },
+  {
+    "name": "scan-build",
+    "url": "https://clang-analyzer.llvm.org/scan-build.html"
+  },
+  {
+    "name": "splint",
+    "url": "http://splint.org"
+  },
+  {
+    "name": "SVF",
+    "url": "https://svf-tools.github.io/SVF"
+  },
+  {
+    "name": "TrustInSoft Analyzer",
+    "url": "https://trust-in-soft.com"
+  },
+  {
+    "name": "vera++",
+    "url": "https://bitbucket.org/verateam/vera/wiki/Introduction"
+  },
+  {
+    "name": "clj-kondo",
+    "url": "https://github.com/borkdude/clj-kondo"
+  },
+  {
+    "name": "coffeelint",
+    "url": "https://coffeelint.github.io/"
+  },
+  {
+    "name": "Fixinator",
+    "url": "https://fixinator.app"
+  },
+  {
+    "name": "ameba",
+    "url": "https://crystal-ameba.github.io"
+  },
+  {
+    "name": "crystal",
+    "url": "https://crystal-lang.org"
+  },
+  {
+    "name": "Dart Code Metrics",
+    "url": "https://pub.dev/packages/dart_code_metrics"
+  },
+  {
+    "name": "effective_dart",
+    "url": "https://pub.dev/packages/effective_dart"
+  },
+  {
+    "name": "lint",
+    "url": "https://github.com/passsy/dart-lint"
+  },
+  {
+    "name": "Linter for dart",
+    "url": "https://dart-lang.github.io/linter"
+  },
+  {
+    "name": "Fix Insight",
+    "url": "https://www.tmssoftware.com/site/fixinsight.asp"
+  },
+  {
+    "name": "Pascal Analyzer",
+    "url": "https://peganza.com/products_pal.html"
+  },
+  {
+    "name": "Pascal Expert",
+    "url": "https://peganza.com/products_pex.html"
+  },
+  {
+    "name": "D-scanner",
+    "url": "https://github.com/dlang-community/D-Scanner"
+  },
+  {
+    "name": "credo",
+    "url": "https://github.com/rrrene/credo"
+  },
+  {
+    "name": "dialyxir",
+    "url": "https://github.com/jeremyjh/dialyxir"
+  },
+  {
+    "name": "sobelow",
+    "url": "https://github.com/nccgroup/sobelow"
+  },
+  {
+    "name": "elm-analyse",
+    "url": "https://stil4m.github.io/elm-analyse"
+  },
+  {
+    "name": "elm-review",
+    "url": "https://package.elm-lang.org/packages/jfmengels/elm-review/latest"
+  },
+  {
+    "name": "dialyzer",
+    "url": "https://www.erlang.org/doc/man/dialyzer.html"
+  },
+  {
+    "name": "elvis",
+    "url": "https://github.com/inaka/elvis"
+  },
+  {
+    "name": "Primitive Erlang Security Tool (PEST)",
+    "url": "https://github.com/okeuday/pest"
+  },
+  {
+    "name": "FSharpLint",
+    "url": "https://fsprojects.github.io/FSharpLint"
+  },
+  {
+    "name": "fprettify",
+    "url": "https://pypi.python.org/pypi/fprettify"
+  },
+  {
+    "name": "i-Code CNES for Fortran",
+    "url": "https://github.com/lequal/i-CodeCNES"
+  },
+  {
+    "name": "aligncheck",
+    "url": "https://gitlab.com/opennota/check"
+  },
+  {
+    "name": "bodyclose",
+    "url": "https://github.com/timakin/bodyclose"
+  },
+  {
+    "name": "deadcode",
+    "url": "https://github.com/tsenart/deadcode"
+  },
+  {
+    "name": "dingo-hunter",
+    "url": "https://github.com/nickng/dingo-hunter"
+  },
+  {
+    "name": "dogsled",
+    "url": "https://github.com/alexkohler/dogsled"
+  },
+  {
+    "name": "dupl",
+    "url": "https://github.com/mibk/dupl"
+  },
+  {
+    "name": "errcheck",
+    "url": "https://github.com/kisielk/errcheck"
+  },
+  {
+    "name": "errwrap",
+    "url": "https://github.com/fatih/errwrap"
+  },
+  {
+    "name": "flen",
+    "url": "https://github.com/lafolle/flen"
+  },
+  {
+    "name": "Go Meta Linter",
+    "url": "https://github.com/alecthomas/gometalinter"
+  },
+  {
+    "name": "go tool vet --shadow",
+    "url": "https://golang.org/cmd/vet#hdr-Shadowed_variables"
+  },
+  {
+    "name": "go vet",
+    "url": "https://golang.org/cmd/vet"
+  },
+  {
+    "name": "go-consistent",
+    "url": "https://github.com/Quasilyte/go-consistent"
+  },
+  {
+    "name": "go-critic",
+    "url": "https://github.com/go-critic/go-critic"
+  },
+  {
+    "name": "go/ast",
+    "url": "https://golang.org/pkg/go/ast"
+  },
+  {
+    "name": "gochecknoglobals",
+    "url": "https://github.com/leighmcculloch/gochecknoglobals"
+  },
+  {
+    "name": "goconst",
+    "url": "https://github.com/jgautheron/goconst"
+  },
+  {
+    "name": "gocyclo",
+    "url": "https://github.com/fzipp/gocyclo"
+  },
+  {
+    "name": "gofmt -s",
+    "url": "https://golang.org/cmd/gofmt"
+  },
+  {
+    "name": "gofumpt",
+    "url": "https://github.com/mvdan/gofumpt"
+  },
+  {
+    "name": "goimports",
+    "url": "https://pkg.go.dev/golang.org/x/tools/cmd/goimports"
+  },
+  {
+    "name": "gokart",
+    "url": "https://github.com/praetorian-inc/gokart"
+  },
+  {
+    "name": "GolangCI-Lint",
+    "url": "https://golangci-lint.run"
+  },
+  {
+    "name": "golint",
+    "url": "https://github.com/golang/lint"
+  },
+  {
+    "name": "goreporter",
+    "url": "https://github.com/360EntSecGroup-Skylar/goreporter"
+  },
+  {
+    "name": "goroutine-inspect",
+    "url": "https://github.com/linuxerwang/goroutine-inspect"
+  },
+  {
+    "name": "gosec (gas)",
+    "url": "https://securego.io"
+  },
+  {
+    "name": "gotype",
+    "url": "https://pkg.go.dev/golang.org/x/tools/cmd/gotype"
+  },
+  {
+    "name": "govulncheck",
+    "url": "https://go.dev/blog/vuln"
+  },
+  {
+    "name": "ineffassign",
+    "url": "https://github.com/gordonklaus/ineffassign"
+  },
+  {
+    "name": "interfacer",
+    "url": "https://github.com/mvdan/interfacer"
+  },
+  {
+    "name": "lll",
+    "url": "https://github.com/walle/lll"
+  },
+  {
+    "name": "maligned",
+    "url": "https://github.com/mdempsky/maligned"
+  },
+  {
+    "name": "misspell",
+    "url": "https://github.com/client9/misspell"
+  },
+  {
+    "name": "nakedret",
+    "url": "https://github.com/alexkohler/nakedret"
+  },
+  {
+    "name": "nargs",
+    "url": "https://github.com/alexkohler/nargs"
+  },
+  {
+    "name": "prealloc",
+    "url": "https://github.com/alexkohler/prealloc"
+  },
+  {
+    "name": "Reviewdog",
+    "url": "https://github.com/haya14busa/reviewdog"
+  },
+  {
+    "name": "revive",
+    "url": "https://revive.run"
+  },
+  {
+    "name": "safesql",
+    "url": "https://github.com/stripe/safesql"
+  },
+  {
+    "name": "shisho",
+    "url": "https://docs.shisho.dev/"
+  },
+  {
+    "name": "staticcheck",
+    "url": "https://staticcheck.io"
+  },
+  {
+    "name": "structcheck",
+    "url": "https://gitlab.com/opennota/check"
+  },
+  {
+    "name": "structslop",
+    "url": "https://github.com/orijtech/structslop"
+  },
+  {
+    "name": "test",
+    "url": "https://pkg.go.dev/testing"
+  },
+  {
+    "name": "unconvert",
+    "url": "https://github.com/mdempsky/unconvert"
+  },
+  {
+    "name": "unparam",
+    "url": "https://github.com/mvdan/unparam"
+  },
+  {
+    "name": "varcheck",
+    "url": "https://gitlab.com/opennota/check"
+  },
+  {
+    "name": "wsl",
+    "url": "https://github.com/bombsimon/wsl"
+  },
+  {
+    "name": "CodeNarc",
+    "url": "https://codenarc.github.io/CodeNarc"
+  },
+  {
+    "name": "brittany",
+    "url": "https://github.com/lspitzner/brittany"
+  },
+  {
+    "name": "HLint",
+    "url": "https://github.com/ndmitchell/hlint"
+  },
+  {
+    "name": "Liquid Haskell",
+    "url": "https://ucsd-progsys.github.io/liquidhaskell-blog/"
+  },
+  {
+    "name": "Stan",
+    "url": "https://kowainik.github.io/projects/stan"
+  },
+  {
+    "name": "Weeder",
+    "url": "https://github.com/ocharles/weeder"
+  },
+  {
+    "name": "Haxe Checkstyle",
+    "url": "https://haxecheckstyle.github.io/docs/haxe-checkstyle/home.html"
+  },
+  {
+    "name": "Checker Framework",
+    "url": "https://checkerframework.org"
+  },
+  {
+    "name": "checkstyle",
+    "url": "https://checkstyle.org"
+  },
+  {
+    "name": "ck",
+    "url": "https://github.com/mauricioaniche/ck"
+  },
+  {
+    "name": "ckjm",
+    "url": "http://www.spinellis.gr/sw/ckjm"
+  },
+  {
+    "name": "CogniCrypt",
+    "url": "https://www.eclipse.org/cognicrypt"
+  },
+  {
+    "name": "DesigniteJava",
+    "url": "http://www.designite-tools.com/designitejava"
+  },
+  {
+    "name": "Diffblue",
+    "url": "https://www.diffblue.com/"
+  },
+  {
+    "name": "Doop",
+    "url": "https://bitbucket.org/yanniss/doop"
+  },
+  {
+    "name": "Error-prone",
+    "url": "https://errorprone.info"
+  },
+  {
+    "name": "fb-contrib",
+    "url": "http://fb-contrib.sourceforge.net"
+  },
+  {
+    "name": "forbidden-apis",
+    "url": "https://github.com/policeman-tools/forbidden-apis"
+  },
+  {
+    "name": "google-java-format",
+    "url": "https://github.com/google/google-java-format"
+  },
+  {
+    "name": "HuntBugs",
+    "url": "https://github.com/amaembo/huntbugs"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "url": "https://www.jetbrains.com/idea"
+  },
+  {
+    "name": "JArchitect",
+    "url": "https://www.jarchitect.com"
+  },
+  {
+    "name": "JBMC",
+    "url": "https://www.cprover.org/jbmc"
+  },
+  {
+    "name": "Mariana Trench",
+    "url": "https://mariana-tren.ch/"
+  },
+  {
+    "name": "NullAway",
+    "url": "https://github.com/uber/NullAway"
+  },
+  {
+    "name": "OWASP Dependency Check",
+    "url": "https://owasp.org/www-project-dependency-check"
+  },
+  {
+    "name": "qulice",
+    "url": "https://www.qulice.com"
+  },
+  {
+    "name": "RefactorFirst",
+    "url": "https://github.com/jimbethancourt/RefactorFirst"
+  },
+  {
+    "name": "Soot",
+    "url": "https://soot-oss.github.io/soot"
+  },
+  {
+    "name": "Spoon",
+    "url": "https://spoon.gforge.inria.fr"
+  },
+  {
+    "name": "SpotBugs",
+    "url": "https://spotbugs.github.io"
+  },
+  {
+    "name": "steady",
+    "url": "https://eclipse.github.io/steady/"
+  },
+  {
+    "name": "Violations Lib",
+    "url": "https://github.com/tomasbjerre/violations-lib"
+  },
+  {
+    "name": "aether",
+    "url": "http://aetherjs.com"
+  },
+  {
+    "name": "Closure Compiler",
+    "url": "https://developers.google.com/closure/compiler"
+  },
+  {
+    "name": "ClosureLinter",
+    "url": "https://github.com/google/closure-linter"
+  },
+  {
+    "name": "complexity-report",
+    "url": "https://github.com/escomplex/complexity-report"
+  },
+  {
+    "name": "DeepScan",
+    "url": "https://deepscan.io"
+  },
+  {
+    "name": "es6-plato",
+    "url": "https://github.com/the-simian/es6-plato"
+  },
+  {
+    "name": "escomplex",
+    "url": "https://github.com/jared-stilwell/escomplex"
+  },
+  {
+    "name": "Esprima",
+    "url": "https://esprima.org"
+  },
+  {
+    "name": "flow",
+    "url": "https://flow.org"
+  },
+  {
+    "name": "hegel",
+    "url": "https://hegel.js.org"
+  },
+  {
+    "name": "jshint",
+    "url": "https://jshint.com/about"
+  },
+  {
+    "name": "JSLint",
+    "url": "https://github.com/douglascrockford/JSLint"
+  },
+  {
+    "name": "JSPrime",
+    "url": "https://dpnishant.github.io/jsprime"
+  },
+  {
+    "name": "NodeJSScan",
+    "url": "https://opensecurity.in"
+  },
+  {
+    "name": "plato",
+    "url": "https://github.com/es-analysis/plato"
+  },
+  {
+    "name": "Polymer-analyzer",
+    "url": "https://github.com/Polymer/tools/tree/master/packages/analyzer"
+  },
+  {
+    "name": "Reshift",
+    "url": "https://www.reshiftsecurity.com"
+  },
+  {
+    "name": "retire.js",
+    "url": "https://retirejs.github.io/retire.js"
+  },
+  {
+    "name": "RSLint",
+    "url": "http://rslint.org/"
+  },
+  {
+    "name": "standard",
+    "url": "http://standardjs.com"
+  },
+  {
+    "name": "tern",
+    "url": "https://ternjs.net"
+  },
+  {
+    "name": "TypL",
+    "url": "https://typl.dev"
+  },
+  {
+    "name": "xo",
+    "url": "https://github.com/xojs/xo"
+  },
+  {
+    "name": "yardstick",
+    "url": "https://github.com/calmh/yardstick"
+  },
+  {
+    "name": "StaticLint",
+    "url": "https://github.com/julia-vscode/StaticLint.jl"
+  },
+  {
+    "name": "detekt",
+    "url": "https://detekt.github.io/detekt"
+  },
+  {
+    "name": "diktat",
+    "url": "https://diktat.saveourtool.com"
+  },
+  {
+    "name": "ktfmt",
+    "url": "https://facebook.github.io/ktfmt/"
+  },
+  {
+    "name": "ktlint",
+    "url": "https://ktlint.github.io"
+  },
+  {
+    "name": "luacheck",
+    "url": "https://github.com/mpeterv/luacheck"
+  },
+  {
+    "name": "lualint",
+    "url": "https://github.com/philips/lualint"
+  },
+  {
+    "name": "Luanalysis",
+    "url": "https://plugins.jetbrains.com/plugin/14698-luanalysis"
+  },
+  {
+    "name": "mlint",
+    "url": "https://mathworks.com/help/matlab/ref/mlint.html"
+  },
+  {
+    "name": "DrNim",
+    "url": "https://nim-lang.org/docs/drnim.html"
+  },
+  {
+    "name": "nimfmt",
+    "url": "https://github.com/FedericoCeratto/nimfmt"
+  },
+  {
+    "name": "Sys",
+    "url": "https://github.com/PLSysSec/sys"
+  },
+  {
+    "name": "VeriFast",
+    "url": "https://github.com/verifast/verifast"
+  },
+  {
+    "name": "churn-php",
+    "url": "https://github.com/bmitch/churn-php"
+  },
+  {
+    "name": "dephpend",
+    "url": "https://github.com/mihaeu/dephpend"
+  },
+  {
+    "name": "deprecation-detector",
+    "url": "https://github.com/sensiolabs-de/deprecation-detector"
+  },
+  {
+    "name": "deptrac",
+    "url": "https://github.com/sensiolabs-de/deptrac"
+  },
+  {
+    "name": "DesignPatternDetector",
+    "url": "https://github.com/Halleck45/DesignPatternDetector"
+  },
+  {
+    "name": "EasyCodingStandard",
+    "url": "https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines"
+  },
+  {
+    "name": "Enlightn",
+    "url": "https://www.laravel-enlightn.com/"
+  },
+  {
+    "name": "exakat",
+    "url": "https://www.exakat.io"
+  },
+  {
+    "name": "GrumPHP",
+    "url": "https://github.com/phpro/grumphp"
+  },
+  {
+    "name": "larastan",
+    "url": "https://github.com/nunomaduro/larastan"
+  },
+  {
+    "name": "Mondrian",
+    "url": "https://trismegiste.github.io/Mondrian"
+  },
+  {
+    "name": "Nitpick CI",
+    "url": "https://nitpick-ci.com"
+  },
+  {
+    "name": "parallel-lint",
+    "url": "https://github.com/php-parallel-lint/PHP-Parallel-Lint"
+  },
+  {
+    "name": "Parse",
+    "url": "https://github.com/psecio/parse"
+  },
+  {
+    "name": "pdepend",
+    "url": "https://pdepend.org"
+  },
+  {
+    "name": "phan",
+    "url": "https://github.com/phan/phan/wiki"
+  },
+  {
+    "name": "PHP Architecture Tester",
+    "url": "https://github.com/carlosas/phpat"
+  },
+  {
+    "name": "PHP Assumptions",
+    "url": "https://github.com/rskuipers/php-assumptions"
+  },
+  {
+    "name": "PHP Coding Standards Fixer",
+    "url": "https://cs.symfony.com"
+  },
+  {
+    "name": "PHP Insights",
+    "url": "https://phpinsights.com"
+  },
+  {
+    "name": "Php Inspections (EA Extended)",
+    "url": "https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-"
+  },
+  {
+    "name": "PHP Refactoring Browser",
+    "url": "https://qafoolabs.github.io/php-refactoring-browser"
+  },
+  {
+    "name": "PHP Semantic Versioning Checker",
+    "url": "https://github.com/tomzx/php-semver-checker"
+  },
+  {
+    "name": "PHP-Parser",
+    "url": "https://github.com/nikic/PHP-Parser"
+  },
+  {
+    "name": "php-speller",
+    "url": "https://github.com/mekras/php-speller"
+  },
+  {
+    "name": "PHP-Token-Reflection",
+    "url": "https://github.com/Andrewsville/PHP-Token-Reflection"
+  },
+  {
+    "name": "php7cc",
+    "url": "https://github.com/sstalle/php7cc"
+  },
+  {
+    "name": "php7mar",
+    "url": "https://github.com/Alexia/php7mar"
+  },
+  {
+    "name": "PHP_CodeSniffer",
+    "url": "https://pear.php.net/package/PHP_CodeSniffer"
+  },
+  {
+    "name": "phpca",
+    "url": "https://github.com/wapmorgan/PhpCodeAnalyzer"
+  },
+  {
+    "name": "phpcpd",
+    "url": "https://github.com/sebastianbergmann/phpcpd"
+  },
+  {
+    "name": "phpdcd",
+    "url": "https://github.com/sebastianbergmann/phpdcd"
+  },
+  {
+    "name": "PhpDependencyAnalysis",
+    "url": "https://mamuz.github.io/PhpDependencyAnalysis"
+  },
+  {
+    "name": "PhpDeprecationDetector",
+    "url": "https://github.com/wapmorgan/PhpDeprecationDetector"
+  },
+  {
+    "name": "phpdoc-to-typehint",
+    "url": "https://github.com/dunglas/phpdoc-to-typehint"
+  },
+  {
+    "name": "phpDocumentor",
+    "url": "https://www.phpdoc.org"
+  },
+  {
+    "name": "phploc",
+    "url": "https://github.com/sebastianbergmann/phploc"
+  },
+  {
+    "name": "PHPMD",
+    "url": "https://phpmd.org"
+  },
+  {
+    "name": "PhpMetrics",
+    "url": "http://www.phpmetrics.org"
+  },
+  {
+    "name": "phpmnd",
+    "url": "https://github.com/povils/phpmnd"
+  },
+  {
+    "name": "PHPQA",
+    "url": "https://edgedesigncz.github.io/phpqa"
+  },
+  {
+    "name": "phpqa - jakzal",
+    "url": "https://github.com/jakzal/phpqa",
+    "description": "jakzal — Many tools for PHP static analysis in one container."
+  },
+  {
+    "name": "phpqa - jmolivas",
+    "url": "https://github.com/jmolivas/phpqa",
+    "description": "jmolivas — PHPQA all-in-one Analyzer CLI tool."
+  },
+  {
+    "name": "phpsa",
+    "url": "https://github.com/ovr/phpsa"
+  },
+  {
+    "name": "PHPStan",
+    "url": "https://phpstan.org",
+    "description": "discover bugs in your code without running it!"
+  },
+  {
+    "name": "Progpilot",
+    "url": "https://github.com/designsecurity/progpilot"
+  },
+  {
+    "name": "Psalm",
+    "url": "https://psalm.dev"
+  },
+  {
+    "name": "Qafoo Quality Analyzer",
+    "url": "https://github.com/Qafoo/QualityAnalyzer"
+  },
+  {
+    "name": "rector",
+    "url": "https://getrector.org"
+  },
+  {
+    "name": "Reflection",
+    "url": "https://github.com/phpDocumentor/Reflection"
+  },
+  {
+    "name": "Symfony Insight",
+    "url": "https://insight.symfony.com/"
+  },
+  {
+    "name": "Tuli",
+    "url": "https://github.com/ircmaxell/Tuli"
+  },
+  {
+    "name": "twig-lint",
+    "url": "https://github.com/asm89/twig-lint"
+  },
+  {
+    "name": "WAP",
+    "url": "https://securityonline.info/owasp-wap-web-application-protection-project"
+  },
+  {
+    "name": "ZPA",
+    "url": "https://felipezorzo.com.br/zpa/"
+  },
+  {
+    "name": "Perl::Analyzer",
+    "url": "https://technix.github.io/Perl-Analyzer/"
+  },
+  {
+    "name": "Perl::Critic",
+    "url": "https://metacpan.org/pod/Perl::Critic"
+  },
+  {
+    "name": "perltidy",
+    "url": "https://perltidy.sourceforge.net/"
+  },
+  {
+    "name": "zarn",
+    "url": "https://github.com/htrgouvea/zarn"
+  },
+  {
+    "name": "autoflake",
+    "url": "https://github.com/PyCQA/autoflake"
+  },
+  {
+    "name": "autopep8",
+    "url": "https://pypi.org/project/autopep8/"
+  },
+  {
+    "name": "bandit",
+    "url": "https://bandit.readthedocs.io/en/latest"
+  },
+  {
+    "name": "bellybutton",
+    "url": "https://github.com/hchasestevens/bellybutton"
+  },
+  {
+    "name": "Black",
+    "url": "https://black.readthedocs.io/en/stable"
+  },
+  {
+    "name": "Bowler",
+    "url": "https://pybowler.io/"
+  },
+  {
+    "name": "ciocheck",
+    "url": "https://github.com/ContinuumIO/ciocheck"
+  },
+  {
+    "name": "cohesion",
+    "url": "https://github.com/mschwager/cohesion"
+  },
+  {
+    "name": "deal",
+    "url": "https://deal.readthedocs.io/"
+  },
+  {
+    "name": "Dlint",
+    "url": "https://github.com/dlint-py/dlint"
+  },
+  {
+    "name": "Dodgy",
+    "url": "https://github.com/landscapeio/dodgy"
+  },
+  {
+    "name": "fixit",
+    "url": "https://pypi.org/project/fixit"
+  },
+  {
+    "name": "flake8",
+    "url": "https://github.com/PyCQA/flake8"
+  },
+  {
+    "name": "InspectorTiger",
+    "url": "https://github.com/thg-consulting/it"
+  },
+  {
+    "name": "jedi",
+    "url": "https://jedi.readthedocs.io/en/latest"
+  },
+  {
+    "name": "linty fresh",
+    "url": "https://github.com/lyft/linty_fresh"
+  },
+  {
+    "name": "mccabe",
+    "url": "https://pypi.org/project/mccabe"
+  },
+  {
+    "name": "multilint",
+    "url": "https://github.com/adamchainz/multilint"
+  },
+  {
+    "name": "mypy",
+    "url": "http://www.mypy-lang.org"
+  },
+  {
+    "name": "prospector",
+    "url": "https://github.com/PyCQA/prospector"
+  },
+  {
+    "name": "py-find-injection",
+    "url": "https://github.com/uber/py-find-injection"
+  },
+  {
+    "name": "pyanalyze",
+    "url": "https://pyanalyze.readthedocs.io/en/latest/"
+  },
+  {
+    "name": "PyCodeQual",
+    "url": "https://pycodequ.al"
+  },
+  {
+    "name": "pycodestyle",
+    "url": "https://pycodestyle.pycqa.org/en/latest"
+  },
+  {
+    "name": "pydocstyle",
+    "url": "http://www.pydocstyle.org"
+  },
+  {
+    "name": "pyflakes",
+    "url": "https://pypi.org/project/pyflakes"
+  },
+  {
+    "name": "pylint",
+    "url": "http://pylint.pycqa.org/en/latest"
+  },
+  {
+    "name": "pyre-check",
+    "url": "https://pyre-check.org"
+  },
+  {
+    "name": "pyright",
+    "url": "https://github.com/Microsoft/pyright"
+  },
+  {
+    "name": "pyroma",
+    "url": "https://github.com/regebro/pyroma"
+  },
+  {
+    "name": "Pysa",
+    "url": "https://pyre-check.org/docs/pysa-basics.html"
+  },
+  {
+    "name": "PyT - Python Taint",
+    "url": "https://github.com/python-security/pyt",
+    "description": "Python Taint ⚠️ — A static analysis tool for detecting security vulnerabilities in Python web applications."
+  },
+  {
+    "name": "pytype",
+    "url": "https://google.github.io/pytype"
+  },
+  {
+    "name": "pyupgrade",
+    "url": "https://pypi.org/project/pyupgrade-docs/"
+  },
+  {
+    "name": "QuantifiedCode",
+    "url": "https://github.com/quantifiedcode/quantifiedcode"
+  },
+  {
+    "name": "radon",
+    "url": "https://radon.readthedocs.io/en/latest"
+  },
+  {
+    "name": "refurb",
+    "url": "https://github.com/dosisod/refurb"
+  },
+  {
+    "name": "ruff",
+    "url": "https://astral.sh/ruff"
+  },
+  {
+    "name": "unimport",
+    "url": "https://unimport.hakancelik.dev"
+  },
+  {
+    "name": "vulture",
+    "url": "https://github.com/jendrikseipp/vulture"
+  },
+  {
+    "name": "wemake-python-styleguide",
+    "url": "https://wemake-python-styleguide.rtfd.io/"
+  },
+  {
+    "name": "wily",
+    "url": "https://github.com/tonybaloney/wily"
+  },
+  {
+    "name": "xenon",
+    "url": "https://xenon.readthedocs.io"
+  },
+  {
+    "name": "yapf",
+    "url": "https://github.com/google/yapf"
+  },
+  {
+    "name": "cyclocomp",
+    "url": "https://github.com/MangoTheCat/cyclocomp"
+  },
+  {
+    "name": "goodpractice",
+    "url": "https://mangothecat.github.io/goodpractice"
+  },
+  {
+    "name": "lintr",
+    "url": "https://github.com/jimhester/lintr"
+  },
+  {
+    "name": "styler",
+    "url": "https://styler.r-lib.org"
+  },
+  {
+    "name": "Regal",
+    "url": "https://github.com/styrainc/regal"
+  },
+  {
+    "name": "brakeman",
+    "url": "https://brakemanscanner.org"
+  },
+  {
+    "name": "bundler-audit",
+    "url": "https://github.com/rubysec/bundler-audit"
+  },
+  {
+    "name": "cane",
+    "url": "https://github.com/square/cane"
+  },
+  {
+    "name": "Churn",
+    "url": "https://github.com/danmayer/churn"
+  },
+  {
+    "name": "dawnscanner",
+    "url": "https://github.com/thesp0nge/dawnscanner"
+  },
+  {
+    "name": "ERB Lint",
+    "url": "https://github.com/Shopify/erb-lint"
+  },
+  {
+    "name": "Fasterer",
+    "url": "https://github.com/DamirSvrtan/fasterer"
+  },
+  {
+    "name": "flay",
+    "url": "https://ruby.sadi.st/Flay.html"
+  },
+  {
+    "name": "flog",
+    "url": "https://ruby.sadi.st/Flog.html"
+  },
+  {
+    "name": "Fukuzatsu",
+    "url": "https://github.com/CoralineAda/fukuzatsu"
+  },
+  {
+    "name": "htmlbeautifier",
+    "url": "https://github.com/threedaymonk/htmlbeautifier"
+  },
+  {
+    "name": "laser",
+    "url": "https://github.com/michaeledgar/laser"
+  },
+  {
+    "name": "MetricFu",
+    "url": "https://github.com/metricfu/metric_fu"
+  },
+  {
+    "name": "pelusa",
+    "url": "https://github.com/codegram/pelusa"
+  },
+  {
+    "name": "quality",
+    "url": "https://github.com/apiology/quality"
+  },
+  {
+    "name": "Querly",
+    "url": "https://github.com/soutaro/querly"
+  },
+  {
+    "name": "Railroader",
+    "url": "https://railroader.org"
+  },
+  {
+    "name": "rails_best_practices",
+    "url": "https://rails-bestpractices.com"
+  },
+  {
+    "name": "reek",
+    "url": "https://github.com/troessner/reek"
+  },
+  {
+    "name": "Roodi",
+    "url": "https://github.com/roodi/roodi"
+  },
+  {
+    "name": "RuboCop",
+    "url": "https://docs.rubocop.org/rubocop"
+  },
+  {
+    "name": "Rubrowser",
+    "url": "https://github.com/blazeeboy/rubrowser"
+  },
+  {
+    "name": "ruby-lint",
+    "url": "http://code.yorickpeterse.com/ruby-lint/latest"
+  },
+  {
+    "name": "rubycritic",
+    "url": "https://github.com/whitesmith/rubycritic"
+  },
+  {
+    "name": "rufo",
+    "url": "https://github.com/ruby-formatter/rufo"
+  },
+  {
+    "name": "Saikuro",
+    "url": "https://metricfu.github.io/Saikuro"
+  },
+  {
+    "name": "SandiMeter",
+    "url": "https://rubygems.org/gems/sandi_meter"
+  },
+  {
+    "name": "Sorbet",
+    "url": "https://sorbet.org"
+  },
+  {
+    "name": "Standard Ruby",
+    "url": "https://github.com/testdouble/standard"
+  },
+  {
+    "name": "Steep",
+    "url": "https://github.com/soutaro/steep"
+  },
+  {
+    "name": "C2Rust",
+    "url": "https://c2rust.com"
+  },
+  {
+    "name": "cargo udeps",
+    "url": "https://github.com/est31/cargo-udeps"
+  },
+  {
+    "name": "cargo-audit",
+    "url": "https://rustsec.org"
+  },
+  {
+    "name": "cargo-bloat",
+    "url": "https://github.com/RazrFalcon/cargo-bloat"
+  },
+  {
+    "name": "cargo-breaking",
+    "url": "https://github.com/iomentum/cargo-breaking"
+  },
+  {
+    "name": "cargo-call-stack",
+    "url": "https://github.com/japaric/cargo-call-stack"
+  },
+  {
+    "name": "cargo-deny",
+    "url": "https://embarkstudios.github.io/cargo-deny"
+  },
+  {
+    "name": "cargo-expand",
+    "url": "https://github.com/dtolnay/cargo-expand"
+  },
+  {
+    "name": "cargo-inspect",
+    "url": "https://github.com/mre/cargo-inspect"
+  },
+  {
+    "name": "cargo-show-asm",
+    "url": "https://github.com/pacak/cargo-show-asm"
+  },
+  {
+    "name": "cargo-spellcheck",
+    "url": "https://github.com/drahnr/cargo-spellcheck"
+  },
+  {
+    "name": "cargo-unused-features",
+    "url": "https://github.com/TimonPost/cargo-unused-features"
+  },
+  {
+    "name": "clippy",
+    "url": "https://rust-lang.github.io/rust-clippy"
+  },
+  {
+    "name": "diff.rs",
+    "url": "https://diff.rs"
+  },
+  {
+    "name": "dylint",
+    "url": "https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy"
+  },
+  {
+    "name": "electrolysis",
+    "url": "https://kha.github.io/electrolysis"
+  },
+  {
+    "name": "herbie",
+    "url": "https://github.com/mcarton/rust-herbie-lint"
+  },
+  {
+    "name": "linter-rust",
+    "url": "https://github.com/AtomLinter/linter-rust"
+  },
+  {
+    "name": "lockbud",
+    "url": "https://github.com/BurtonQin/lockbud"
+  },
+  {
+    "name": "MIRAI",
+    "url": "https://github.com/facebookexperimental/MIRAI"
+  },
+  {
+    "name": "prae",
+    "url": "https://github.com/teenjuna/prae"
+  },
+  {
+    "name": "Prusti",
+    "url": "https://www.pm.inf.ethz.ch/research/prusti.html"
+  },
+  {
+    "name": "Rudra",
+    "url": "https://github.com/sslab-gatech/Rudra"
+  },
+  {
+    "name": "Rust Language Server",
+    "url": "https://github.com/rust-lang-nursery/rls"
+  },
+  {
+    "name": "rust-analyzer",
+    "url": "https://rust-analyzer.github.io"
+  },
+  {
+    "name": "rust-audit",
+    "url": "https://github.com/Shnatsel/rust-audit"
+  },
+  {
+    "name": "rustfix",
+    "url": "https://github.com/rust-lang/rustfix"
+  },
+  {
+    "name": "rustfmt",
+    "url": "https://github.com/rust-lang/rustfmt"
+  },
+  {
+    "name": "RustViz",
+    "url": "https://github.com/rustviz/rustviz"
+  },
+  {
+    "name": "warnalyzer",
+    "url": "https://github.com/est31/warnalyzer"
+  },
+  {
+    "name": "dbcritic",
+    "url": "https://github.com/channable/dbcritic"
+  },
+  {
+    "name": "holistic",
+    "url": "https://holistic.dev/"
+  },
+  {
+    "name": "sleek",
+    "url": "https://github.com/nrempel/sleek"
+  },
+  {
+    "name": "sqlcheck",
+    "url": "https://github.com/jarulraj/sqlcheck"
+  },
+  {
+    "name": "SQLFluff",
+    "url": "https://www.sqlfluff.com/"
+  },
+  {
+    "name": "sqlint",
+    "url": "https://github.com/purcell/sqlint"
+  },
+  {
+    "name": "squawk",
+    "url": "https://squawkhq.com"
+  },
+  {
+    "name": "tsqllint",
+    "url": "https://github.com/tsqllint/tsqllint"
+  },
+  {
+    "name": "TSqlRules",
+    "url": "https://github.com/ashleyglee/TSqlRules"
+  },
+  {
+    "name": "Visual Expert",
+    "url": "https://www.visual-expert.com"
+  },
+  {
+    "name": "linter",
+    "url": "https://github.com/HairyFotr/linter"
+  },
+  {
+    "name": "Scalastyle",
+    "url": "http://www.scalastyle.org"
+  },
+  {
+    "name": "scapegoat",
+    "url": "https://github.com/sksamuel/scapegoat"
+  },
+  {
+    "name": "WartRemover",
+    "url": "https://www.wartremover.org"
+  },
+  {
+    "name": "bashate",
+    "url": "https://github.com/openstack/bashate"
+  },
+  {
+    "name": "i-Code CNES for Shell",
+    "url": "https://github.com/lequal/i-CodeCNES"
+  },
+  {
+    "name": "kmdr",
+    "url": "https://github.com/ediardo/kmdr-cli"
+  },
+  {
+    "name": "sh",
+    "url": "https://pkg.go.dev/mvdan.cc/sh/v3"
+  },
+  {
+    "name": "shellcheck",
+    "url": "https://www.shellcheck.net"
+  },
+  {
+    "name": "shellharden",
+    "url": "https://github.com/anordal/shellharden"
+  },
+  {
+    "name": "SwiftFormat",
+    "url": "https://github.com/nicklockwood/SwiftFormat"
+  },
+  {
+    "name": "SwiftLint",
+    "url": "https://realm.github.io/SwiftLint"
+  },
+  {
+    "name": "Tailor",
+    "url": "https://sleekbyte.github.io/tailor"
+  },
+  {
+    "name": "Frink",
+    "url": "http://catless.ncl.ac.uk/Programs/Frink"
+  },
+  {
+    "name": "Nagelfar",
+    "url": "https://sourceforge.net/projects/nagelfar"
+  },
+  {
+    "name": "tclchecker",
+    "url": "https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt"
+  },
+  {
+    "name": "Angular ESLint",
+    "url": "https://github.com/angular-eslint/angular-eslint#readme"
+  },
+  {
+    "name": "Codelyzer",
+    "url": "http://codelyzer.com"
+  },
+  {
+    "name": "stc",
+    "url": "https://stc.dudy.dev"
+  },
+  {
+    "name": "tslint",
+    "url": "https://palantir.github.io/tslint/"
+  },
+  {
+    "name": "tslint-clean-code",
+    "url": "https://www.npmjs.com/package/tslint-clean-code"
+  },
+  {
+    "name": "tslint-microsoft-contrib",
+    "url": "https://github.com/Microsoft/tslint-microsoft-contrib"
+  },
+  {
+    "name": "TypeScript Call Graph",
+    "url": "https://github.com/whyboris/TypeScript-Call-Graph"
+  },
+  {
+    "name": "TypeScript ESLint",
+    "url": "https://github.com/typescript-eslint/typescript-eslint"
+  },
+  {
+    "name": "zod",
+    "url": "https://zod.dev"
+  },
+  {
+    "name": "Icarus Verilog",
+    "url": "https://github.com/steveicarus/iverilog"
+  },
+  {
+    "name": "svls",
+    "url": "https://github.com/dalance/svls"
+  },
+  {
+    "name": "verible-linter-action",
+    "url": "https://github.com/chipsalliance/verible-linter-action"
+  },
+  {
+    "name": "Verilator",
+    "url": "https://www.veripool.org/verilator"
+  },
+  {
+    "name": "vscode-verilog-hdl-support",
+    "url": "https://github.com/mshr-h/vscode-verilog-hdl-support"
+  },
+  {
+    "name": "vint",
+    "url": "https://github.com/Kuniwak/vint"
+  },
+  {
+    "name": "ale",
+    "url": "https://github.com/w0rp/ale"
+  },
+  {
+    "name": "Android Studio",
+    "url": "https://developer.android.com/studio"
+  },
+  {
+    "name": "AppChecker",
+    "url": "https://npo-echelon.ru/en/solutions/appchecker.php"
+  },
+  {
+    "name": "Application Inspector",
+    "url": "https://www.ptsecurity.com/ww-en/products/ai"
+  },
+  {
+    "name": "ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector"
+  },
+  {
+    "name": "APPscreener",
+    "url": "https://solarappscreener.com",
+    "description": "Java/Scala, PHP, Javascript, C#, PL/SQL, Python, T-SQL, C/C++, ObjectiveC/Swift, Visual Basic 6.0, Ruby, Delphi, ABAP, HTML5 and Solidity."
+  },
+  {
+    "name": "ArchUnit",
+    "url": "https://www.archunit.org"
+  },
+  {
+    "name": "Atom-Beautify",
+    "url": "https://atom.io/packages/atom-beautify"
+  },
+  {
+    "name": "autocorrect",
+    "url": "https://huacnlee.github.io/autocorrect"
+  },
+  {
+    "name": "Axivion Bauhaus Suite",
+    "url": "https://www.axivion.com/en/products-services-9#products_bauhaussuite"
+  },
+  {
+    "name": "Bearer",
+    "url": "https://github.com/bearer/bearer"
+  },
+  {
+    "name": "Better Code Hub",
+    "url": "https://bettercodehub.com"
+  },
+  {
+    "name": "callGraph",
+    "url": "https://github.com/koknat/callGraph"
+  },
+  {
+    "name": "CAST Highlight",
+    "url": "https://www.castsoftware.com/products/highlight"
+  },
+  {
+    "name": "Checkmarx CxSAST",
+    "url": "https://www.checkmarx.com/products/static-application-security-testing"
+  },
+  {
+    "name": "ClassGraph",
+    "url": "https://github.com/classgraph/classgraph"
+  },
+  {
+    "name": "Clayton",
+    "url": "https://www.getclayton.com/"
+  },
+  {
+    "name": "coala",
+    "url": "https://coala.io",
+    "description": "supports over 60 languages by default."
+  },
+  {
+    "name": "Cobra",
+    "url": "https://spinroot.com/cobra"
+  },
+  {
+    "name": "Codacy",
+    "url": "https://www.codacy.com"
+  },
+  {
+    "name": "Code Intelligence",
+    "url": "https://www.code-intelligence.com"
+  },
+  {
+    "name": "Codeac",
+    "url": "https://www.codeac.io/?ref=awesome-static-analysis"
+  },
+  {
+    "name": "codeburner",
+    "url": "https://groupon.github.io/codeburner"
+  },
+  {
+    "name": "codechecker",
+    "url": "https://codechecker.readthedocs.io/en/latest"
+  },
+  {
+    "name": "CodeFactor",
+    "url": "https://codefactor.io"
+  },
+  {
+    "name": "CodeFlow",
+    "url": "https://www.getcodeflow.com"
+  },
+  {
+    "name": "CodeIt.Right",
+    "url": "https://submain.com/products/codeit.right.aspx"
+  },
+  {
+    "name": "CodePatrol",
+    "url": "https://cyber-security.claranet.fr/en/codepatrol"
+  },
+  {
+    "name": "codeql",
+    "url": "https://github.com/github/codeql",
+    "description": "semantic queries and dataflow for several languages with VSCode plugin support."
+  },
+  {
+    "name": "CodeQue",
+    "url": "https://codeque.co"
+  },
+  {
+    "name": "CodeRush",
+    "url": "https://www.devexpress.com/products/coderush"
+  },
+  {
+    "name": "CodeScan",
+    "url": "https://www.codescan.io/"
+  },
+  {
+    "name": "CodeScene",
+    "url": "https://codescene.com"
+  },
+  {
+    "name": "CodeSee",
+    "url": "https://www.codesee.io/"
+  },
+  {
+    "name": "CodeSonar from GrammaTech",
+    "url": "https://www.grammatech.com/products/codesonar"
+  },
+  {
+    "name": "Codiga",
+    "url": "https://www.codiga.io"
+  },
+  {
+    "name": "Corrode",
+    "url": "https://github.com/jameysharp/corrode"
+  },
+  {
+    "name": "Coverity",
+    "url": "https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html"
+  },
+  {
+    "name": "cpp-linter-action",
+    "url": "https://cpp-linter.github.io/cpp-linter-action/"
+  },
+  {
+    "name": "cqc",
+    "url": "https://github.com/xcatliu/cqc"
+  },
+  {
+    "name": "DeepCode",
+    "url": "https://www.deepcode.ai"
+  },
+  {
+    "name": "DeepSource",
+    "url": "https://deepsource.io"
+  },
+  {
+    "name": "Depends",
+    "url": "https://github.com/multilang-depends/depends"
+  },
+  {
+    "name": "DevSkim",
+    "url": "https://github.com/microsoft/devskim",
+    "description": "C/C++, C#, PHP, ASP, Python, Ruby, Java, and others."
+  },
+  {
+    "name": "dotenet-format",
+    "url": "https://github.com/dotnet/format"
+  },
+  {
+    "name": "Embold",
+    "url": "https://embold.io"
+  },
+  {
+    "name": "emerge",
+    "url": "https://github.com/glato/emerge"
+  },
+  {
+    "name": "ESLint",
+    "url": "https://github.com/eslint/eslint"
+  },
+  {
+    "name": "ezno",
+    "url": "https://kaleidawave.github.io/posts/introducing-ezno/"
+  },
+  {
+    "name": "Find Security Bugs",
+    "url": "https://find-sec-bugs.github.io"
+  },
+  {
+    "name": "Fortify",
+    "url": "https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview"
+  },
+  {
+    "name": "Goodcheck",
+    "url": "https://sider.github.io/goodcheck"
+  },
+  {
+    "name": "goone",
+    "url": "https://github.com/masibw/goone"
+  },
+  {
+    "name": "graudit",
+    "url": "http://www.justanotherhacker.com",
+    "description": "source code auditing tool."
+  },
+  {
+    "name": "HCL AppScan Source",
+    "url": "https://www.hcltechsw.com/products/appscan"
+  },
+  {
+    "name": "Hopper",
+    "url": "https://github.com/cuplv/hopper"
+  },
+  {
+    "name": "Hound CI",
+    "url": "https://houndci.com"
+  },
+  {
+    "name": "imhotep",
+    "url": "https://github.com/justinabrahms/imhotep"
+  },
+  {
+    "name": "include-gardener",
+    "url": "https://github.com/feddischson/include_gardener"
+  },
+  {
+    "name": "Infer",
+    "url": "https://fbinfer.com"
+  },
+  {
+    "name": "Kiuwan",
+    "url": "https://www.kiuwan.com/code-security-sast"
+  },
+  {
+    "name": "Klocwork",
+    "url": "https://www.perforce.com/products/klocwork"
+  },
+  {
+    "name": "LGTM",
+    "url": "https://lgtm.com/"
+  },
+  {
+    "name": "lizard",
+    "url": "https://github.com/terryyin/lizard"
+  },
+  {
+    "name": "Mega-Linter",
+    "url": "https://nvuillam.github.io/mega-linter/"
+  },
+  {
+    "name": "oclint",
+    "url": "http://oclint.org"
+  },
+  {
+    "name": "Offensive 360",
+    "url": "https://offensive360.com/"
+  },
+  {
+    "name": "OpenStaticAnalyzer",
+    "url": "https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer"
+  },
+  {
+    "name": "parasoft",
+    "url": "https://www.parasoft.com/"
+  },
+  {
+    "name": "pfff",
+    "url": "https://github.com/facebookarchive/pfff/wiki/Main"
+  },
+  {
+    "name": "PMD",
+    "url": "https://pmd.github.io"
+  },
+  {
+    "name": "pre-commit",
+    "url": "https://pre-commit.com"
+  },
+  {
+    "name": "Prettier",
+    "url": "https://prettier.io"
+  },
+  {
+    "name": "Pronto",
+    "url": "https://github.com/prontolabs/pronto"
+  },
+  {
+    "name": "PT.PM",
+    "url": "https://github.com/PositiveTechnologies/PT.PM"
+  },
+  {
+    "name": "Putout",
+    "url": "https://github.com/coderaiser/putout"
+  },
+  {
+    "name": "PVS-Studio",
+    "url": "https://pvs-studio.com"
+  },
+  {
+    "name": "pylama",
+    "url": "https://klen.github.io/pylama/"
+  },
+  {
+    "name": "Qwiet AI",
+    "url": "https://qwiet.ai/"
+  },
+  {
+    "name": "Refactoring Essentials",
+    "url": "https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio"
+  },
+  {
+    "name": "relint",
+    "url": "https://github.com/codingjoe/relint"
+  },
+  {
+    "name": "ReSharper",
+    "url": "https://www.jetbrains.com/resharper"
+  },
+  {
+    "name": "RIPS",
+    "url": "https://www.ripstech.com"
+  },
+  {
+    "name": "Rome",
+    "url": "https://rome.tools/"
+  },
+  {
+    "name": "Rome Formatter",
+    "url": "https://rome.tools/blog/2022/04/05/rome-formatter-release"
+  },
+  {
+    "name": "Roslyn Analyzers",
+    "url": "https://github.com/dotnet/roslyn-analyzers"
+  },
+  {
+    "name": "Roslyn Security Guard",
+    "url": "https://security-code-scan.github.io"
+  },
+  {
+    "name": "SafeQL",
+    "url": "https://safeql.dev"
+  },
+  {
+    "name": "SAST Online",
+    "url": "https://sast.online/"
+  },
+  {
+    "name": "Scanmycode CE (Community Edition)",
+    "url": "http://www.scanmycode.today",
+    "description": "Code Scanning/SAST/Linting using many tools/Scanners with One Report"
+  },
+  {
+    "name": "Scrutinizer",
+    "url": "https://scrutinizer-ci.com"
+  },
+  {
+    "name": "Security Code Scan",
+    "url": "https://security-code-scan.github.io"
+  },
+  {
+    "name": "Semgrep",
+    "url": "https://semgrep.dev"
+  },
+  {
+    "name": "Semgrep Supply Chain",
+    "url": "https://semgrep.dev/products/semgrep-supply-chain"
+  },
+  {
+    "name": "ShiftLeft Scan",
+    "url": "https://github.com/ShiftLeftSecurity/sast-scan"
+  },
+  {
+    "name": "shipshape",
+    "url": "https://github.com/google/shipshape"
+  },
+  {
+    "name": "Sigrid",
+    "url": "https://www.softwareimprovementgroup.com/solutions/sigrid-software-assurance-platform/"
+  },
+  {
+    "name": "Similarity Tester",
+    "url": "https://dickgrune.com/Programs/similarity_tester/"
+  },
+  {
+    "name": "Snyk Code",
+    "url": "https://snyk.io"
+  },
+  {
+    "name": "SonarCloud",
+    "url": "https://sonarcloud.io"
+  },
+  {
+    "name": "SonarLint for Visual Studio",
+    "url": "https://vs.sonarlint.org"
+  },
+  {
+    "name": "SonarQube",
+    "url": "http://www.sonarqube.org"
+  },
+  {
+    "name": "Sonatype",
+    "url": "https://www.sonatype.com"
+  },
+  {
+    "name": "Soto Platform",
+    "url": "https://www.hello2morrow.com/products/sotograph"
+  },
+  {
+    "name": "SourceMeter",
+    "url": "https://www.sourcemeter.com/"
+  },
+  {
+    "name": "sqlvet",
+    "url": "https://github.com/houqp/sqlvet"
+  },
+  {
+    "name": "StaticReviewer",
+    "url": "https://securityreviewer.atlassian.net/wiki/spaces/KC/pages/196633/Static+Reviewer"
+  },
+  {
+    "name": "Super-Linter",
+    "url": "https://github.com/github/super-linter"
+  },
+  {
+    "name": "Svace",
+    "url": "https://www.ispras.ru/en/technologies/svace/"
+  },
+  {
+    "name": "Synopsys",
+    "url": "https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html"
+  },
+  {
+    "name": "Teamscale",
+    "url": "https://www.cqse.eu/en/teamscale/overview/"
+  },
+  {
+    "name": "TencentCodeAnalysis",
+    "url": "https://tca.tencent.com/"
+  },
+  {
+    "name": "ThreatMapper",
+    "url": "https://github.com/deepfence/ThreatMapper"
+  },
+  {
+    "name": "todocheck",
+    "url": "https://github.com/preslavmihaylov/todocheck"
+  },
+  {
+    "name": "trivy",
+    "url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "name": "trunk",
+    "url": "https://trunk.io"
+  },
+  {
+    "name": "TscanCode",
+    "url": "https://github.com/Tencent/TscanCode"
+  },
+  {
+    "name": "Undebt",
+    "url": "https://github.com/Yelp/undebt"
+  },
+  {
+    "name": "Understand",
+    "url": "https://www.scitools.com"
+  },
+  {
+    "name": "Unibeautify",
+    "url": "https://unibeautify.com"
+  },
+  {
+    "name": "Upsource",
+    "url": "https://www.jetbrains.com/upsource"
+  },
+  {
+    "name": "Veracode",
+    "url": "https://www.veracode.com/security/static-code-analysis"
+  },
+  {
+    "name": "WALA",
+    "url": "https://github.com/wala/WALA"
+  },
+  {
+    "name": "weggli",
+    "url": "https://github.com/googleprojectzero/weggli"
+  },
+  {
+    "name": "WhiteHat Application Security Platform",
+    "url": "https://www.whitehatsec.com/platform/static-application-security-testing"
+  },
+  {
+    "name": "Wotan",
+    "url": "https://github.com/fimbullinter/wotan"
+  },
+  {
+    "name": "XCode",
+    "url": "https://developer.apple.com/xcode"
+  },
+  {
+    "name": "kics",
+    "url": "https://kics.io/"
+  },
+  {
+    "name": "Steampunk Spotter",
+    "url": "https://steampunk.si/spotter/"
+  },
+  {
+    "name": "alquitran",
+    "url": "https://github.com/ferivoz/alquitran"
+  },
+  {
+    "name": "packj",
+    "url": "https://packj.dev"
+  },
+  {
+    "name": "pure",
+    "url": "https://github.com/ronomon/pure"
+  },
+  {
+    "name": "AzSK",
+    "url": "https://azsk.azurewebsites.net/"
+  },
+  {
+    "name": "angr",
+    "url": "https://github.com/angr/angr"
+  },
+  {
+    "name": "binbloom",
+    "url": "https://github.com/quarkslab/binbloom"
+  },
+  {
+    "name": "BinSkim",
+    "url": "https://github.com/Microsoft/binskim"
+  },
+  {
+    "name": "Black Duck",
+    "url": "https://www.blackducksoftware.com"
+  },
+  {
+    "name": "bloaty",
+    "url": "https://github.com/google/bloaty"
+  },
+  {
+    "name": "cargo-bloat",
+    "url": "https://github.com/RazrFalcon/cargo-bloat"
+  },
+  {
+    "name": "cwe_checker",
+    "url": "https://github.com/fkie-cad/cwe_checker"
+  },
+  {
+    "name": "Ghidra",
+    "url": "https://ghidra-sre.org"
+  },
+  {
+    "name": "Hopper",
+    "url": "https://www.hopperapp.com/"
+  },
+  {
+    "name": "IDA Free",
+    "url": "https://www.hex-rays.com/products/ida/support/download_freeware"
+  },
+  {
+    "name": "Jakstab",
+    "url": "https://github.com/jkinder/jakstab"
+  },
+  {
+    "name": "JEB Decompiler",
+    "url": "https://www.pnfsoftware.com/"
+  },
+  {
+    "name": "ktool",
+    "url": "https://ktool.cynder.me/en/latest/ktool.html"
+  },
+  {
+    "name": "Manalyze",
+    "url": "https://github.com/JusticeRage/Manalyze"
+  },
+  {
+    "name": "mcsema",
+    "url": "https://github.com/lifting-bits/mcsema"
+  },
+  {
+    "name": "Nauz File Detector",
+    "url": "https://github.com/horsicq/Nauz-File-Detector"
+  },
+  {
+    "name": "rust-audit",
+    "url": "https://github.com/Shnatsel/rust-audit"
+  },
+  {
+    "name": "Twiggy",
+    "url": "https://rustwasm.github.io/twiggy"
+  },
+  {
+    "name": "VMware chap",
+    "url": "https://github.com/vmware/chap"
+  },
+  {
+    "name": "zydis",
+    "url": "https://zydis.re"
+  },
+  {
+    "name": "checkmake",
+    "url": "https://github.com/mrtazz/checkmake"
+  },
+  {
+    "name": "portlint",
+    "url": "https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports"
+  },
+  {
+    "name": "CSS Stats",
+    "url": "https://cssstats.com"
+  },
+  {
+    "name": "CSScomb",
+    "url": "https://github.com/csscomb/csscomb.js"
+  },
+  {
+    "name": "CSSLint",
+    "url": "http://csslint.net"
+  },
+  {
+    "name": "GraphMyCSS.com",
+    "url": "https://graphmycss.com"
+  },
+  {
+    "name": "Nu Html Checker",
+    "url": "https://validator.github.io/validator/"
+  },
+  {
+    "name": "Parker",
+    "url": "https://github.com/katiefenn/parker"
+  },
+  {
+    "name": "PostCSS",
+    "url": "https://postcss.org"
+  },
+  {
+    "name": "Project Wallace CSS Analyzer",
+    "url": "https://www.projectwallace.com"
+  },
+  {
+    "name": "sass-lint",
+    "url": "https://github.com/sasstools/sass-lint"
+  },
+  {
+    "name": "scsslint",
+    "url": "https://github.com/brigade/scss-lint"
+  },
+  {
+    "name": "Specificity Graph",
+    "url": "https://jonassebastianohlsson.com/specificity-graph"
+  },
+  {
+    "name": "Stylelint",
+    "url": "http://stylelint.io"
+  },
+  {
+    "name": "dotenv-linter",
+    "url": "https://dotenv-linter.readthedocs.io/en/latest"
+  },
+  {
+    "name": "dotenv-linter (Rust)",
+    "url": "https://dotenv-linter.github.io/#/"
+  },
+  {
+    "name": "gixy",
+    "url": "https://github.com/yandex/gixy"
+  },
+  {
+    "name": "ansible-lint",
+    "url": "https://docs.ansible.com/ansible-lint"
+  },
+  {
+    "name": "AWS CloudFormation Guard",
+    "url": "https://github.com/aws-cloudformation/cloudformation-guard"
+  },
+  {
+    "name": "AzSK",
+    "url": "https://azsk.azurewebsites.net/"
+  },
+  {
+    "name": "cfn-lint",
+    "url": "https://github.com/awslabs/cfn-python-lint"
+  },
+  {
+    "name": "cfn_nag",
+    "url": "https://github.com/stelligent/cfn_nag"
+  },
+  {
+    "name": "checkov",
+    "url": "https://www.checkov.io"
+  },
+  {
+    "name": "cookstyle",
+    "url": "https://docs.chef.io/cookstyle.html"
+  },
+  {
+    "name": "foodcritic",
+    "url": "http://www.foodcritic.io"
+  },
+  {
+    "name": "kics",
+    "url": "https://kics.io/"
+  },
+  {
+    "name": "metadata-json-lint",
+    "url": "https://github.com/voxpupuli/metadata-json-lint"
+  },
+  {
+    "name": "Puppet Lint",
+    "url": "https://github.com/rodjek/puppet-lint"
+  },
+  {
+    "name": "Steampunk Spotter",
+    "url": "https://steampunk.si/spotter/"
+  },
+  {
+    "name": "terraform-compliance",
+    "url": "https://terraform-compliance.com"
+  },
+  {
+    "name": "terrascan",
+    "url": "https://github.com/cesar-rodriguez/terrascan"
+  },
+  {
+    "name": "tflint",
+    "url": "https://github.com/wata727/tflint"
+  },
+  {
+    "name": "tfsec",
+    "url": "https://github.com/tfsec/tfsec"
+  },
+  {
+    "name": "anchore",
+    "url": "https://anchore.io"
+  },
+  {
+    "name": "clair",
+    "url": "https://github.com/coreos/clair"
+  },
+  {
+    "name": "collector",
+    "url": "https://github.com/banyanops/collector"
+  },
+  {
+    "name": "dagda",
+    "url": "https://github.com/eliasgranderubio/dagda"
+  },
+  {
+    "name": "Docker Label Inspector",
+    "url": "https://github.com/garethr/docker-label-inspector"
+  },
+  {
+    "name": "Haskell Dockerfile Linter",
+    "url": "https://github.com/lukasmartinelli/hadolint"
+  },
+  {
+    "name": "kics",
+    "url": "https://kics.io/"
+  },
+  {
+    "name": "krane",
+    "url": "https://github.com/appvia/krane"
+  },
+  {
+    "name": "OpenSCAP",
+    "url": "https://www.open-scap.org/"
+  },
+  {
+    "name": "Qualys Container Security",
+    "url": "https://www.qualys.com/apps/container-security"
+  },
+  {
+    "name": "sysdig",
+    "url": "https://sysdig.com/"
+  },
+  {
+    "name": "Vuls",
+    "url": "https://vuls.io/"
+  },
+  {
+    "name": "actionlint",
+    "url": "https://rhysd.github.io/actionlint"
+  },
+  {
+    "name": "AzSK",
+    "url": "https://azsk.azurewebsites.net/"
+  },
+  {
+    "name": "Code Climate",
+    "url": "https://codeclimate.com"
+  },
+  {
+    "name": "Codecov",
+    "url": "https://about.codecov.io/"
+  },
+  {
+    "name": "Diffblue",
+    "url": "https://www.diffblue.com/"
+  },
+  {
+    "name": "exakat",
+    "url": "https://www.exakat.io"
+  },
+  {
+    "name": "Goblint",
+    "url": "https://goblint.in.tum.de"
+  },
+  {
+    "name": "Nitpick CI",
+    "url": "https://nitpick-ci.com"
+  },
+  {
+    "name": "PullRequest",
+    "url": "https://www.pullrequest.com"
+  },
+  {
+    "name": "quality",
+    "url": "https://github.com/apiology/quality"
+  },
+  {
+    "name": "QuantifiedCode",
+    "url": "https://github.com/quantifiedcode/quantifiedcode"
+  },
+  {
+    "name": "RefactorFirst",
+    "url": "https://github.com/jimbethancourt/RefactorFirst"
+  },
+  {
+    "name": "Reviewdog",
+    "url": "https://github.com/haya14busa/reviewdog"
+  },
+  {
+    "name": "Symfony Insight",
+    "url": "https://insight.symfony.com/"
+  },
+  {
+    "name": "Violations Lib",
+    "url": "https://github.com/tomasbjerre/violations-lib"
+  },
+  {
+    "name": "deno_lint",
+    "url": "https://github.com/denoland/deno_lint"
+  },
+  {
+    "name": "oelint-adv",
+    "url": "https://github.com/priv-kweihmann/oelint-adv"
+  },
+  {
+    "name": "ERB Lint",
+    "url": "https://github.com/Shopify/erb-lint"
+  },
+  {
+    "name": "htmlbeautifier",
+    "url": "https://github.com/threedaymonk/htmlbeautifier"
+  },
+  {
+    "name": "gherkin-lint",
+    "url": "https://github.com/vsiakka/gherkin-lint"
+  },
+  {
+    "name": "Angular ESLint",
+    "url": "https://github.com/angular-eslint/angular-eslint#readme"
+  },
+  {
+    "name": "Bootlint",
+    "url": "https://github.com/twbs/bootlint"
+  },
+  {
+    "name": "ERB Lint",
+    "url": "https://github.com/Shopify/erb-lint"
+  },
+  {
+    "name": "grunt-bootlint",
+    "url": "https://github.com/twbs/grunt-bootlint"
+  },
+  {
+    "name": "gulp-bootlint",
+    "url": "https://github.com/tschortsch/gulp-bootlint"
+  },
+  {
+    "name": "HTML Inspector",
+    "url": "https://github.com/philipwalton/html-inspector"
+  },
+  {
+    "name": "HTML Tidy",
+    "url": "http://www.html-tidy.org"
+  },
+  {
+    "name": "HTML-Validate",
+    "url": "https://html-validate.org/"
+  },
+  {
+    "name": "htmlbeautifier",
+    "url": "https://github.com/threedaymonk/htmlbeautifier"
+  },
+  {
+    "name": "HTMLHint",
+    "url": "https://htmlhint.com"
+  },
+  {
+    "name": "Nu Html Checker",
+    "url": "https://validator.github.io/validator/"
+  },
+  {
+    "name": "Polymer-analyzer",
+    "url": "https://github.com/Polymer/tools/tree/master/packages/analyzer"
+  },
+  {
+    "name": "jsonlint",
+    "url": "https://jsonlint.com/"
+  },
+  {
+    "name": "Spectral",
+    "url": "https://stoplight.io/open-source/spectral"
+  },
+  {
+    "name": "chart-testing",
+    "url": "https://github.com/helm/chart-testing"
+  },
+  {
+    "name": "clusterlint",
+    "url": "https://github.com/digitalocean/clusterlint"
+  },
+  {
+    "name": "Datree",
+    "url": "https://datree.io/"
+  },
+  {
+    "name": "kics",
+    "url": "https://kics.io/"
+  },
+  {
+    "name": "klint",
+    "url": "https://github.com/uswitch/klint"
+  },
+  {
+    "name": "krane",
+    "url": "https://github.com/appvia/krane"
+  },
+  {
+    "name": "kube-hunter",
+    "url": "https://aquasecurity.github.io/kube-hunter/"
+  },
+  {
+    "name": "kube-lint",
+    "url": "https://github.com/viglesiasce/kube-lint"
+  },
+  {
+    "name": "kube-linter",
+    "url": "https://github.com/stackrox/kube-linter"
+  },
+  {
+    "name": "kube-score",
+    "url": "https://kube-score.com"
+  },
+  {
+    "name": "kubeconform",
+    "url": "https://github.com/yannh/kubeconform",
+    "description": "which guarantees up-to-date schemas for all recent versions of Kubernetes."
+  },
+  {
+    "name": "KubeLinter",
+    "url": "https://github.com/stackrox/kube-linter"
+  },
+  {
+    "name": "kubeval",
+    "url": "https://kubeval.instrumenta.dev"
+  },
+  {
+    "name": "ChkTeX",
+    "url": "http://www.nongnu.org/chktex"
+  },
+  {
+    "name": "lacheck",
+    "url": "https://www.ctan.org/pkg/lacheck"
+  },
+  {
+    "name": "TeXLab",
+    "url": "https://texlab.netlify.app"
+  },
+  {
+    "name": "Enlightn",
+    "url": "https://www.laravel-enlightn.com/"
+  },
+  {
+    "name": "larastan",
+    "url": "https://github.com/nunomaduro/larastan"
+  },
+  {
+    "name": "checkmake",
+    "url": "https://github.com/mrtazz/checkmake"
+  },
+  {
+    "name": "portlint",
+    "url": "https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports"
+  },
+  {
+    "name": "markdownlint",
+    "url": "https://github.com/DavidAnson/markdownlint"
+  },
+  {
+    "name": "mdformat",
+    "url": "https://mdformat.rtfd.io"
+  },
+  {
+    "name": "mdl",
+    "url": "https://github.com/mivok/markdownlint"
+  },
+  {
+    "name": "remark-lint",
+    "url": "https://remark.js.org"
+  },
+  {
+    "name": "ciocheck",
+    "url": "https://github.com/ContinuumIO/ciocheck"
+  },
+  {
+    "name": "flake8",
+    "url": "https://github.com/PyCQA/flake8"
+  },
+  {
+    "name": "Go Meta Linter",
+    "url": "https://github.com/alecthomas/gometalinter"
+  },
+  {
+    "name": "goreporter",
+    "url": "https://github.com/360EntSecGroup-Skylar/goreporter"
+  },
+  {
+    "name": "multilint",
+    "url": "https://github.com/adamchainz/multilint"
+  },
+  {
+    "name": "prospector",
+    "url": "https://github.com/PyCQA/prospector"
+  },
+  {
+    "name": "Android Lint",
+    "url": "http://tools.android.com/tips/lint"
+  },
+  {
+    "name": "android-lint-summary",
+    "url": "https://passy.github.io/android-lint-summary"
+  },
+  {
+    "name": "FlowDroid",
+    "url": "https://github.com/secure-software-engineering/FlowDroid"
+  },
+  {
+    "name": "iblessing",
+    "url": "https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html"
+  },
+  {
+    "name": "Mariana Trench",
+    "url": "https://mariana-tren.ch/"
+  },
+  {
+    "name": "Oversecured",
+    "url": "https://oversecured.com"
+  },
+  {
+    "name": "paprika",
+    "url": "https://github.com/GeoffreyHecht/paprika"
+  },
+  {
+    "name": "qark",
+    "url": "https://github.com/linkedin/qark"
+  },
+  {
+    "name": "redex",
+    "url": "https://fbredex.com"
+  },
+  {
+    "name": "deadnix",
+    "url": "https://github.com/astro/deadnix"
+  },
+  {
+    "name": "statix",
+    "url": "https://git.peppe.rs/languages/statix/about/"
+  },
+  {
+    "name": "lockfile-lint",
+    "url": "https://github.com/lirantal/lockfile-lint"
+  },
+  {
+    "name": "njsscan",
+    "url": "https://opensecurity.in"
+  },
+  {
+    "name": "NodeJSScan",
+    "url": "https://opensecurity.in"
+  },
+  {
+    "name": "standard",
+    "url": "http://standardjs.com"
+  },
+  {
+    "name": "lintian",
+    "url": "https://lintian.debian.org"
+  },
+  {
+    "name": "rpmlint",
+    "url": "https://github.com/rpm-software-management/rpmlint"
+  },
+  {
+    "name": "buf",
+    "url": "https://buf.build"
+  },
+  {
+    "name": "protolint",
+    "url": "https://github.com/yoheimuta/protolint"
+  },
+  {
+    "name": "metadata-json-lint",
+    "url": "https://github.com/voxpupuli/metadata-json-lint"
+  },
+  {
+    "name": "dawnscanner",
+    "url": "https://github.com/thesp0nge/dawnscanner"
+  },
+  {
+    "name": "AzSK",
+    "url": "https://azsk.azurewebsites.net/"
+  },
+  {
+    "name": "brakeman",
+    "url": "https://brakemanscanner.org"
+  },
+  {
+    "name": "Credential Digger",
+    "url": "https://github.com/SAP/credential-digger"
+  },
+  {
+    "name": "Datree",
+    "url": "https://datree.io/"
+  },
+  {
+    "name": "detect-secrets",
+    "url": "https://github.com/Yelp/detect-secrets"
+  },
+  {
+    "name": "Enlightn",
+    "url": "https://www.laravel-enlightn.com/"
+  },
+  {
+    "name": "Gitleaks",
+    "url": "https://github.com/zricethezav/gitleaks"
+  },
+  {
+    "name": "gokart",
+    "url": "https://github.com/praetorian-inc/gokart"
+  },
+  {
+    "name": "iblessing",
+    "url": "https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html"
+  },
+  {
+    "name": "kics",
+    "url": "https://kics.io/"
+  },
+  {
+    "name": "ktool",
+    "url": "https://ktool.cynder.me/en/latest/ktool.html"
+  },
+  {
+    "name": "kube-hunter",
+    "url": "https://aquasecurity.github.io/kube-hunter/"
+  },
+  {
+    "name": "lockfile-lint",
+    "url": "https://github.com/lirantal/lockfile-lint"
+  },
+  {
+    "name": "LunaSec",
+    "url": "https://www.lunasec.io"
+  },
+  {
+    "name": "njsscan",
+    "url": "https://opensecurity.in"
+  },
+  {
+    "name": "NodeJSScan",
+    "url": "https://opensecurity.in"
+  },
+  {
+    "name": "Oversecured",
+    "url": "https://oversecured.com"
+  },
+  {
+    "name": "PT Application Inspector",
+    "url": "https://www.ptsecurity.com"
+  },
+  {
+    "name": "Qualys Container Security",
+    "url": "https://www.qualys.com/apps/container-security"
+  },
+  {
+    "name": "QuantifiedCode",
+    "url": "https://github.com/quantifiedcode/quantifiedcode"
+  },
+  {
+    "name": "Reshift",
+    "url": "https://www.reshiftsecurity.com"
+  },
+  {
+    "name": "Rezilion",
+    "url": "https://www.rezilion.com/"
+  },
+  {
+    "name": "scorecard",
+    "url": "https://github.com/ossf/scorecard",
+    "description": "Security health metrics for Open Source"
+  },
+  {
+    "name": "SearchDiggity",
+    "url": "https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/"
+  },
+  {
+    "name": "Steampunk Spotter",
+    "url": "https://steampunk.si/spotter/"
+  },
+  {
+    "name": "Symfony Insight",
+    "url": "https://insight.symfony.com/"
+  },
+  {
+    "name": "tfsec",
+    "url": "https://github.com/tfsec/tfsec"
+  },
+  {
+    "name": "trufflehog",
+    "url": "https://trufflesecurity.com"
+  },
+  {
+    "name": "Tsunami Security Scanner",
+    "url": "https://github.com/google/tsunami-security-scanner"
+  },
+  {
+    "name": "mythril",
+    "url": "https://github.com/ConsenSys/mythril"
+  },
+  {
+    "name": "MythX",
+    "url": "https://mythx.io"
+  },
+  {
+    "name": "slither",
+    "url": "https://github.com/trailofbits/slither"
+  },
+  {
+    "name": "solhint",
+    "url": "https://protofire.github.io/solhint"
+  },
+  {
+    "name": "solium",
+    "url": "https://ethlint.readthedocs.io/en/latest"
+  },
+  {
+    "name": "LibVCS4j",
+    "url": "https://github.com/uni-bremen-agst/libvcs4j"
+  },
+  {
+    "name": "RefactorFirst",
+    "url": "https://github.com/jimbethancourt/RefactorFirst"
+  },
+  {
+    "name": "Violations Lib",
+    "url": "https://github.com/tomasbjerre/violations-lib"
+  },
+  {
+    "name": "ember-template-lint",
+    "url": "https://github.com/ember-template-lint/ember-template-lint"
+  },
+  {
+    "name": "haml-lint",
+    "url": "https://github.com/sds/haml-lint"
+  },
+  {
+    "name": "slim-lint",
+    "url": "https://github.com/sds/slim-lint"
+  },
+  {
+    "name": "yamllint",
+    "url": "https://yamllint.readthedocs.io"
+  },
+  {
+    "name": "kics",
+    "url": "https://kics.io/"
+  },
+  {
+    "name": "shisho",
+    "url": "https://docs.shisho.dev/"
+  },
+  {
+    "name": "dennis",
+    "url": "https://github.com/willkg/dennis"
+  },
+  {
+    "name": "HTML-Validate",
+    "url": "https://html-validate.org/"
+  },
+  {
+    "name": "Vetur",
+    "url": "https://marketplace.visualstudio.com/items?itemName=octref.vetur"
+  },
+  {
+    "name": "Twiggy",
+    "url": "https://rustwasm.github.io/twiggy"
+  },
+  {
+    "name": "After the Deadline",
+    "url": "https://open.afterthedeadline.com"
+  },
+  {
+    "name": "alex",
+    "url": "https://alexjs.com"
+  },
+  {
+    "name": "codespell",
+    "url": "https://github.com/codespell-project/codespell"
+  },
+  {
+    "name": "languagetool",
+    "url": "https://languagetool.org"
+  },
+  {
+    "name": "misspell-fixer",
+    "url": "https://github.com/vlajos/misspell-fixer"
+  },
+  {
+    "name": "Misspelled Words In Context",
+    "url": "https://jwilk.net/software/mwic"
+  },
+  {
+    "name": "proselint",
+    "url": "http://proselint.com"
+  },
+  {
+    "name": "vale",
+    "url": "https://docs.errata.ai/vale/about"
+  },
+  {
+    "name": "write-good",
+    "url": "https://github.com/btford/write-good"
+  },
+  {
+    "name": "Spectral",
+    "url": "https://stoplight.io/open-source/spectral"
+  },
+  {
+    "name": "yamllint",
+    "url": "https://yamllint.readthedocs.io"
+  },
+  {
+    "name": "commitlint",
+    "url": "https://commitlint.js.org"
+  },
+  {
+    "name": "Clean code linters",
+    "url": "https://github.com/collections/clean-code-linters"
+  },
+  {
+    "name": "Code Quality Checker Tools For PHP Projects",
+    "url": "https://github.com/collections/code-quality-in-php"
+  },
+  {
+    "name": "go-tools",
+    "url": "https://github.com/dominikh/go-tools"
+  },
+  {
+    "name": "linters",
+    "url": "https://github.com/mcandre/linters"
+  },
+  {
+    "name": "OWASP Source Code Analysis Tools",
+    "url": "https://owasp.org/www-community/Source_Code_Analysis_Tools"
+  },
+  {
+    "name": "php-static-analysis-tools",
+    "url": "https://github.com/exakat/php-static-analysis-tools"
+  },
+  {
+    "name": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis"
+  }
+]

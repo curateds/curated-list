@@ -1,0 +1,1647 @@
+[
+  {
+    "name": "Official OCaml Website",
+    "url": "https://ocaml.org/"
+  },
+  {
+    "name": "OCaml Discourse Web Forum",
+    "url": "https://discuss.ocaml.org/"
+  },
+  {
+    "name": "OCaml Discord Chat",
+    "url": "https://discord.gg/ZBgYuvR"
+  },
+  {
+    "name": "Official OCaml Mailing List",
+    "url": "https://inbox.ocaml.org/caml-list/"
+  },
+  {
+    "name": "OCaml Planet",
+    "url": "https://ocaml.org/community/planet/"
+  },
+  {
+    "name": "OCaml SubReddit",
+    "url": "https://www.reddit.com/r/ocaml/"
+  },
+  {
+    "name": "Comparing a Machine Learning Algorithm Implemented in F# and OCaml",
+    "url": "https://philtomson.github.io/blog/2014-05-29-comparing-a-machine-learning-algorithm-implemented-in-f-sharp-and-ocaml/"
+  },
+  {
+    "name": "OCamlgraph",
+    "url": "https://github.com/backtracking/ocamlgraph"
+  },
+  {
+    "name": "ods",
+    "url": "https://github.com/owainlewis/ods"
+  },
+  {
+    "name": "combine",
+    "url": "https://github.com/backtracking/combine"
+  },
+  {
+    "name": "Decompress",
+    "url": "https://github.com/mirage/decompress",
+    "description": "A pure OCaml implementation of Zlib."
+  },
+  {
+    "name": "Ke",
+    "url": "https://github.com/mirage/ke",
+    "description": "Fast implementation of queue (FIFO) in OCaml."
+  },
+  {
+    "name": "Duff",
+    "url": "https://github.com/mirage/duff",
+    "description": "Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as libXdiff"
+  },
+  {
+    "name": "ORaft",
+    "url": "https://github.com/komamitsu/oraft",
+    "description": "Library of Raft consensus algorithm implemented in OCaml"
+  },
+  {
+    "name": "Batteries Included",
+    "url": "https://github.com/ocaml-batteries-team/batteries-included"
+  },
+  {
+    "name": "Cmdliner",
+    "url": "https://github.com/dbuenzli/cmdliner"
+  },
+  {
+    "name": "Core",
+    "url": "https://github.com/janestreet/core"
+  },
+  {
+    "name": "Base",
+    "url": "https://github.com/janestreet/base",
+    "description": "Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library."
+  },
+  {
+    "name": "React",
+    "url": "http://erratique.ch/software/react"
+  },
+  {
+    "name": "Minicli",
+    "url": "https://github.com/UnixJunkie/minicli"
+  },
+  {
+    "name": "easy-format",
+    "url": "https://github.com/mjambon/easy-format"
+  },
+  {
+    "name": "ocaml-rpc",
+    "url": "https://github.com/mirage/ocaml-rpc"
+  },
+  {
+    "name": "ocaml-containers",
+    "url": "https://github.com/c-cube/ocaml-containers"
+  },
+  {
+    "name": "core_bench",
+    "url": "https://github.com/janestreet/core_bench"
+  },
+  {
+    "name": "Getting Started with Core_bench",
+    "url": "https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench"
+  },
+  {
+    "name": "benchmark",
+    "url": "https://github.com/Chris00/ocaml-benchmark"
+  },
+  {
+    "name": "Gagallium",
+    "url": "http://gallium.inria.fr/blog/"
+  },
+  {
+    "name": "Type OCaml – Many things about OCaml",
+    "url": "http://typeocaml.com/"
+  },
+  {
+    "name": "OCaml Platform",
+    "url": "https://opam.ocaml.org/blog/"
+  },
+  {
+    "name": "Drup's Thingies",
+    "url": "https://drup.github.io/"
+  },
+  {
+    "name": "More OCaml: Algorithms, Methods, and Diversions",
+    "url": "https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/"
+  },
+  {
+    "name": "How to Think Like a (Functional) Programmer",
+    "url": "http://www.greenteapress.com/thinkocaml/index.html"
+  },
+  {
+    "name": "OCaml from the Very Beginning",
+    "url": "http://ocaml-book.com/",
+    "description": "OCaml from the Very Beginning will appeal both to new programmers, and experienced programmers eager to explore functional languages such as OCaml."
+  },
+  {
+    "name": "Pearls of Functional Algorithm Design",
+    "url": "https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383",
+    "description": "It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are here."
+  },
+  {
+    "name": "Real World OCaml",
+    "url": "https://realworldocaml.org/",
+    "description": "Functional programming for the masses."
+  },
+  {
+    "name": "Unix System Programming in OCaml",
+    "url": "https://ocaml.github.io/ocamlunix/"
+  },
+  {
+    "name": "Using, Understanding, and Unraveling OCaml",
+    "url": "https://caml.inria.fr/pub/docs/u3-ocaml"
+  },
+  {
+    "name": "Purely Functional Data Structures",
+    "url": "https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures",
+    "description": "This is the first or only book focus on various data structures in FP world. A must-read one."
+  },
+  {
+    "name": "OCaml for Scientists",
+    "url": "http://www.ffconsultancy.com/products/ocaml_for_scientists/",
+    "description": "by Jon Harrop."
+  },
+  {
+    "name": "Functional Programming in OCaml: A Principled Approach",
+    "url": "https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/",
+    "description": "Textbook for CS 3110 Functional Programming in OCaml, Cornell University."
+  },
+  {
+    "name": "Mascot",
+    "url": "http://mascot.x9c.fr/",
+    "description": "Mascot is a style-checker for OCaml sources"
+  },
+  {
+    "name": "pfff",
+    "url": "https://github.com/returntocorp/pfff"
+  },
+  {
+    "name": "Infer",
+    "url": "https://github.com/facebook/infer",
+    "description": "Infer is a static analyzer for Java, C and Objective-C"
+  },
+  {
+    "name": "Frama-C",
+    "url": "http://frama-c.com",
+    "description": "Frama-C is a static analysis and formal proof framework for C and C++"
+  },
+  {
+    "name": "flow",
+    "url": "https://github.com/facebook/flow",
+    "description": "flow is a static type checker for JavaScript"
+  },
+  {
+    "name": "SLAyer",
+    "url": "https://github.com/Microsoft/SLAyer",
+    "description": "SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs."
+  },
+  {
+    "name": "MemCAD",
+    "url": "https://github.com/Antique-team/memcad",
+    "description": "MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures."
+  },
+  {
+    "name": "Camelot",
+    "url": "https://github.com/upenn-cis1xx/camelot",
+    "description": "Camelot is a modular and fully configurable OCaml linter and stylechecker."
+  },
+  {
+    "name": "coq-of-ocaml",
+    "url": "https://github.com/formal-land/coq-of-ocaml",
+    "description": "Translator from OCaml to Coq to formally verify OCaml code."
+  },
+  {
+    "name": "BAP",
+    "url": "https://github.com/BinaryAnalysisPlatform/bap",
+    "description": "BAP is a reverse engineering and program analysis platform that targets binary programs."
+  },
+  {
+    "name": "BinCat",
+    "url": "https://github.com/airbus-seclab/bincat",
+    "description": "BinCat is a binary code static analysis toolkit."
+  },
+  {
+    "name": "cwe_checker",
+    "url": "https://github.com/fkie-cad/cwe_checker",
+    "description": "cwe_checker finds vulnerable patterns in binary executables."
+  },
+  {
+    "name": "Caramel",
+    "url": "https://caramel.run/",
+    "description": "Caramel is a functional language for building type-safe, scalable, and maintainable applications."
+  },
+  {
+    "name": "Caramel",
+    "url": "https://caramel.run/",
+    "description": "Caramel is a functional language for building type-safe, scalable, and maintainable applications."
+  },
+  {
+    "name": "cDuce",
+    "url": "http://www.cduce.org/",
+    "description": "cDuce is a modern XML-oriented functional language with innovative features."
+  },
+  {
+    "name": "Compcert C Compiler",
+    "url": "http://compcert.inria.fr/",
+    "description": "It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features."
+  },
+  {
+    "name": "Eff Programming Language",
+    "url": "http://www.eff-lang.org/",
+    "description": "Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O."
+  },
+  {
+    "name": "Hack Programming Language",
+    "url": "https://hacklang.org/"
+  },
+  {
+    "name": "Haxe Programming Language",
+    "url": "https://haxe.org/"
+  },
+  {
+    "name": "Neko Programming Language",
+    "url": "https://nekovm.org/",
+    "description": "Originally the compiler was written in OCaml."
+  },
+  {
+    "name": "Mezzo Programming Language",
+    "url": "https://protz.github.io/mezzo/",
+    "description": "Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory."
+  },
+  {
+    "name": "OCaml-Java",
+    "url": "http://www.ocamljava.org/",
+    "description": "OCaml to Java bytecode compiler."
+  },
+  {
+    "name": "Opa Programming Language",
+    "url": "http://opalang.org/"
+  },
+  {
+    "name": "Rhine",
+    "url": "https://github.com/artagnon/rhine-ml"
+  },
+  {
+    "name": "Rust Programming Language",
+    "url": "https://www.rust-lang.org/",
+    "description": "Originally written in OCaml before bootstrapping."
+  },
+  {
+    "name": "Quick C-- Target Language",
+    "url": "http://www.cminusminus.org/",
+    "description": "It is now a dead project. Github Repo. Alternative website."
+  },
+  {
+    "name": "tis-interpreter",
+    "url": "https://github.com/TrustInSoft/tis-interpreter",
+    "description": "An interpreter for finding subtle bugs in programs written in standard C"
+  },
+  {
+    "name": "Reason",
+    "url": "http://facebook.github.io/reason/",
+    "description": "Friendly syntax & toolchain for OCaml by Facebook."
+  },
+  {
+    "name": "RaML",
+    "url": "http://raml.co/index.html",
+    "description": "Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs."
+  },
+  {
+    "name": "Opal",
+    "url": "https://github.com/pyrocat101/opal",
+    "description": "Parser combinators built for speed and memory efficiency"
+  },
+  {
+    "name": "Opal",
+    "url": "https://github.com/pyrocat101/opal"
+  },
+  {
+    "name": "Sedlex",
+    "url": "https://github.com/ocaml-community/sedlex"
+  },
+  {
+    "name": "Menhir",
+    "url": "http://gallium.inria.fr/~fpottier/menhir/"
+  },
+  {
+    "name": "ocaml-parsing",
+    "url": "https://github.com/smolkaj/ocaml-parsing"
+  },
+  {
+    "name": "Obelisk",
+    "url": "https://github.com/Lelio-Brun/Obelisk"
+  },
+  {
+    "name": "ocamllex/ocamlyacc",
+    "url": "http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html"
+  },
+  {
+    "name": "Angstrom",
+    "url": "https://github.com/inhabitedtype/angstrom",
+    "description": "Parser combinators built for speed and memory efficiency"
+  },
+  {
+    "name": "Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶",
+    "url": "http://llvm.org/docs/tutorial/OCamlLangImpl1.html"
+  },
+  {
+    "name": "Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶",
+    "url": "http://llvm.org/docs/tutorial/OCamlLangImpl1.html"
+  },
+  {
+    "name": "Lwt",
+    "url": "http://ocsigen.org/lwt/"
+  },
+  {
+    "name": "Lwt",
+    "url": "http://ocsigen.org/lwt/"
+  },
+  {
+    "name": "Async",
+    "url": "https://opensource.janestreet.com/async/"
+  },
+  {
+    "name": "The blog post that introduced Async",
+    "url": "https://blog.janestreet.com/announcing-async/"
+  },
+  {
+    "name": "The blog post that introduced Async",
+    "url": "https://blog.janestreet.com/announcing-async/"
+  },
+  {
+    "name": "A user gives up on Async",
+    "url": "http://rgrinberg.com/posts/abandoning-async/"
+  },
+  {
+    "name": "Cooperative Concurrency in OCaml: A Core.Std.Async Example",
+    "url": "http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/"
+  },
+  {
+    "name": "Dbm",
+    "url": "https://forge.ocamlcore.org/projects/camldbm/"
+  },
+  {
+    "name": "Dbm",
+    "url": "https://forge.ocamlcore.org/projects/camldbm/"
+  },
+  {
+    "name": "Mongo.ml",
+    "url": "https://massd.github.io/mongo/"
+  },
+  {
+    "name": "PG'OCaml",
+    "url": "http://pgocaml.forge.ocamlcore.org/"
+  },
+  {
+    "name": "ppx_pgsql",
+    "url": "https://github.com/tizoc/ppx_pgsql"
+  },
+  {
+    "name": "PostgreSQL-OCaml",
+    "url": "https://mmottl.github.io/postgresql-ocaml/"
+  },
+  {
+    "name": "SQLite3",
+    "url": "https://github.com/mmottl/sqlite3-ocaml"
+  },
+  {
+    "name": "Sqlite3EZ",
+    "url": "https://mlin.github.io/ocaml-sqlite3EZ/"
+  },
+  {
+    "name": "ocaml-redis",
+    "url": "https://github.com/0xffea/ocaml-redis"
+  },
+  {
+    "name": "mysql",
+    "url": "http://ygrek.org.ua/p/ocaml-mysql/"
+  },
+  {
+    "name": "pgx",
+    "url": "https://github.com/arenadotio/pgx"
+  },
+  {
+    "name": "mysql_protocol",
+    "url": "https://github.com/slegrand45/mysql_protocol"
+  },
+  {
+    "name": "Irmin",
+    "url": "https://github.com/mirage/irmin",
+    "description": "It is a WIP database server written in OCaml."
+  },
+  {
+    "name": "Irmin",
+    "url": "https://github.com/mirage/irmin"
+  },
+  {
+    "name": "Obigstore",
+    "url": "http://obigstore.forge.ocamlcore.org/"
+  },
+  {
+    "name": "RunOrg",
+    "url": "https://github.com/RunOrg/RunOrg",
+    "description": "It is a WIP database server written in OCaml."
+  },
+  {
+    "name": "dokeysto",
+    "url": "https://github.com/UnixJunkie/dokeysto",
+    "description": "dumb OCaml key-value store, string keys and string"
+  },
+  {
+    "name": "Sequoia",
+    "url": "https://github.com/andrenth/sequoia",
+    "description": "Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL"
+  },
+  {
+    "name": "Sequoia",
+    "url": "https://github.com/andrenth/sequoia",
+    "description": "Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL"
+  },
+  {
+    "name": "Macaque",
+    "url": "https://github.com/ocsigen/macaque"
+  },
+  {
+    "name": "ORM",
+    "url": "https://github.com/mirage/orm"
+  },
+  {
+    "name": "Caqti",
+    "url": "https://github.com/paurkedal/ocaml-caqti",
+    "description": "Cooperative-threaded access to relational data"
+  },
+  {
+    "name": "Implementing the Binary Memcached Protocol with Ocaml and Bitstring",
+    "url": "https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/"
+  },
+  {
+    "name": "Implementing the Binary Memcached Protocol with Ocaml and Bitstring",
+    "url": "https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/"
+  },
+  {
+    "name": "Interfacing OCaml and PostgreSQL with Caqti",
+    "url": "https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11"
+  },
+  {
+    "name": "Caqti setence preparation, ppx_rapper",
+    "url": "https://github.com/roddyyaga/ppx_rapper"
+  },
+  {
+    "name": "ISO8601",
+    "url": "https://github.com/sagotch/ISO8601.ml"
+  },
+  {
+    "name": "calendar",
+    "url": "http://calendar.forge.ocamlcore.org/"
+  },
+  {
+    "name": "odate",
+    "url": "https://github.com/hhugo/odate"
+  },
+  {
+    "name": "ptime",
+    "url": "http://erratique.ch/software/ptime"
+  },
+  {
+    "name": "Try OCaml",
+    "url": "https://try.ocamlpro.com/"
+  },
+  {
+    "name": "BetterOCaml",
+    "url": "https://betterocaml.ml"
+  },
+  {
+    "name": "codingground",
+    "url": "https://www.tutorialspoint.com/compile_ocaml_online.php"
+  },
+  {
+    "name": "OCaml: Learn & Code iOS app",
+    "url": "https://apps.apple.com/app/ocaml-learn-code/id1547506826",
+    "description": "Learn and execute OCaml code from your iPhone/iPad/Mac."
+  },
+  {
+    "name": "Jupyter",
+    "url": "https://github.com/akabe/ocaml-jupyter"
+  },
+  {
+    "name": "utop",
+    "url": "https://github.com/ocaml-community/utop"
+  },
+  {
+    "name": "ocamlformat",
+    "url": "https://github.com/ocaml-ppx/ocamlformat",
+    "description": "A command-line tool to format OCaml code."
+  },
+  {
+    "name": "ocamlbrowser",
+    "url": "http://caml.inria.fr/pub/docs/manual-ocaml/browser.html"
+  },
+  {
+    "name": "ghim",
+    "url": "https://github.com/samoht/ghim"
+  },
+  {
+    "name": "OCaml Yeoman Generator",
+    "url": "https://github.com/mabrasil/generator-ocaml"
+  },
+  {
+    "name": "ctypes",
+    "url": "https://github.com/ocamllabs/ocaml-ctypes",
+    "description": "OCaml bindings for Python."
+  },
+  {
+    "name": "ctypes",
+    "url": "https://github.com/ocamllabs/ocaml-ctypes"
+  },
+  {
+    "name": "ocaml-main-program-in-c",
+    "url": "https://github.com/johnwhitington/ocaml-main-program-in-c"
+  },
+  {
+    "name": "Modular foreign function bindings",
+    "url": "http://openmirage.org/blog/modular-foreign-function-bindings"
+  },
+  {
+    "name": "Py.ml",
+    "url": "https://github.com/thierry-martinez/pyml",
+    "description": "OCaml bindings for Python."
+  },
+  {
+    "name": "ocaml-lsp",
+    "url": "https://github.com/ocaml/ocaml-lsp",
+    "description": "An LSP language server for OCaml that integrates with any editor that understands LSP like VSCode, Vim and Emacs."
+  },
+  {
+    "name": "ocaml-lsp",
+    "url": "https://github.com/ocaml/ocaml-lsp",
+    "description": "An LSP language server for OCaml that integrates with any editor that understands LSP like VSCode, Vim and Emacs."
+  },
+  {
+    "name": "merlin",
+    "url": "https://github.com/ocaml/merlin"
+  },
+  {
+    "name": "tuareg",
+    "url": "https://github.com/ocaml/tuareg",
+    "description": "OCaml mode for Emacs that can run the toplevel and the debugger within Emacs."
+  },
+  {
+    "name": "merlin-eldoc",
+    "url": "https://github.com/Khady/merlin-eldoc"
+  },
+  {
+    "name": "vscode-ocaml",
+    "url": "https://github.com/hackwaly/vscode-ocaml"
+  },
+  {
+    "name": "OCaml Debugger",
+    "url": "https://github.com/hackwaly/ocamlearlybird"
+  },
+  {
+    "name": "Sublime better ocaml",
+    "url": "https://github.com/whitequark/sublime-better-ocaml"
+  },
+  {
+    "name": "Sublime text package",
+    "url": "https://github.com/def-lkb/sublime-text-merlin"
+  },
+  {
+    "name": "ocp-index",
+    "url": "http://www.typerex.org/ocp-index.html"
+  },
+  {
+    "name": "ocp-browser",
+    "url": "http://www.typerex.org/ocp-index.html#ocp-browser"
+  },
+  {
+    "name": "ocp-index-top",
+    "url": "https://github.com/reynir/ocp-index-top"
+  },
+  {
+    "name": "Sublime text package",
+    "url": "https://sublime.wbond.net/packages/OCaml%20Autocompletion"
+  },
+  {
+    "name": "ocp-indent",
+    "url": "http://www.typerex.org/ocp-indent.html"
+  },
+  {
+    "name": "Vim plugin",
+    "url": "https://github.com/def-lkb/ocp-indent-vim"
+  },
+  {
+    "name": "Bisect_ppx",
+    "url": "https://github.com/aantron/bisect_ppx"
+  },
+  {
+    "name": "Bisect_ppx",
+    "url": "https://github.com/aantron/bisect_ppx"
+  },
+  {
+    "name": "99 problems",
+    "url": "https://ocaml.org/learn/tutorials/99problems.html"
+  },
+  {
+    "name": "Rosetta Code",
+    "url": "http://rosettacode.org/wiki/Category:OCaml"
+  },
+  {
+    "name": "OCaml at Exercism",
+    "url": "http://exercism.io/languages/ocaml"
+  },
+  {
+    "name": "Programming Language Examples Alike Cookbook",
+    "url": "http://pleac.sourceforge.net/pleac_ocaml/index.html",
+    "description": "The OCaml section of the book is a free reference for solving common programming problems using OCaml."
+  },
+  {
+    "name": "Coq",
+    "url": "https://coq.inria.fr/"
+  },
+  {
+    "name": "Why3",
+    "url": "http://why3.lri.fr/"
+  },
+  {
+    "name": "Alt-Ergo",
+    "url": "http://alt-ergo.lri.fr/"
+  },
+  {
+    "name": "Functional Programming with OCaml",
+    "url": "https://haifengl.wordpress.com/2014/06/17/ocaml-introduction/"
+  },
+  {
+    "name": "Python to OCaml: retrospective",
+    "url": "http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective/"
+  },
+  {
+    "name": "OCaml for the Masses",
+    "url": "http://queue.acm.org/detail.cfm?id=2038036"
+  },
+  {
+    "name": "Why We Use OCaml",
+    "url": "https://espertech.wordpress.com/2014/07/15/why-we-use-ocaml"
+  },
+  {
+    "name": "Xen – OCaml Coding Considerations",
+    "url": "http://wiki.xen.org/wiki/OCaml_Coding_Considerations"
+  },
+  {
+    "name": "Monads are a class of hard drugs",
+    "url": "http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs"
+  },
+  {
+    "name": "Beginner's guide to OCaml",
+    "url": "http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html"
+  },
+  {
+    "name": "Why OCaml, why now?",
+    "url": "http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/"
+  },
+  {
+    "name": "A blog about game development in OCaml",
+    "url": "http://cranialburnout.blogspot.ca/"
+  },
+  {
+    "name": "(Functional) Alternatives to inheritance",
+    "url": "http://ocamltutorials.blogspot.se/2013/06/alternatives-to-subtyping.html"
+  },
+  {
+    "name": "camlPDF",
+    "url": "https://github.com/johnwhitington/camlpdf"
+  },
+  {
+    "name": "slacko",
+    "url": "https://github.com/Leonidas-from-XIV/slacko"
+  },
+  {
+    "name": "Learn X in Y minutes",
+    "url": "https://learnxinyminutes.com/docs/ocaml/",
+    "description": "Where X=OCaml."
+  },
+  {
+    "name": "archimedes",
+    "url": "http://archimedes.forge.ocamlcore.org/"
+  },
+  {
+    "name": "archimedes",
+    "url": "http://archimedes.forge.ocamlcore.org/"
+  },
+  {
+    "name": "cairo2",
+    "url": "https://github.com/Chris00/ocaml-cairo"
+  },
+  {
+    "name": "Vg",
+    "url": "https://github.com/dbuenzli/vg"
+  },
+  {
+    "name": "glMLite",
+    "url": "https://github.com/fccm/glMLite"
+  },
+  {
+    "name": "glMLite",
+    "url": "https://github.com/fccm/glMLite"
+  },
+  {
+    "name": "lablgl",
+    "url": "https://forge.ocamlcore.org/projects/lablgl/"
+  },
+  {
+    "name": "tgls",
+    "url": "http://erratique.ch/software/tgls"
+  },
+  {
+    "name": "Camomile",
+    "url": "https://github.com/yoriyuki/Camomile/"
+  },
+  {
+    "name": "ocaml-m17n",
+    "url": "https://github.com/whitequark/ocaml-m17n"
+  },
+  {
+    "name": "Uucd",
+    "url": "https://github.com/dbuenzli/uucd"
+  },
+  {
+    "name": "Uucp",
+    "url": "https://github.com/dbuenzli/uucp"
+  },
+  {
+    "name": "Uunf",
+    "url": "https://github.com/dbuenzli/uunf"
+  },
+  {
+    "name": "Uuseg",
+    "url": "https://github.com/dbuenzli/uuseg"
+  },
+  {
+    "name": "Uutf",
+    "url": "https://github.com/dbuenzli/uutf"
+  },
+  {
+    "name": "lablgtk",
+    "url": "https://garrigue.github.io/lablgtk/"
+  },
+  {
+    "name": "lablqml",
+    "url": "https://github.com/Kakadu/lablqml"
+  },
+  {
+    "name": "labltk",
+    "url": "https://forge.ocamlcore.org/projects/labltk/"
+  },
+  {
+    "name": "TSDL",
+    "url": "http://erratique.ch/software/tsdl"
+  },
+  {
+    "name": "Lambda-Term",
+    "url": "https://github.com/ocaml-community/lambda-term"
+  },
+  {
+    "name": "Notty",
+    "url": "https://github.com/pqwy/notty",
+    "description": "Notty is a declarative terminal library for OCaml, structured around a notion of composable images."
+  },
+  {
+    "name": "ocaml-linenoise",
+    "url": "https://github.com/ocaml-community/ocaml-linenoise",
+    "description": "Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml."
+  },
+  {
+    "name": "Higher-Rank Polymorphism in OCaml",
+    "url": "http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml"
+  },
+  {
+    "name": "mikmatch",
+    "url": "https://github.com/mjambon/mikmatch"
+  },
+  {
+    "name": "Inlined records in constructors",
+    "url": "https://www.lexifi.com/ocaml/inlined-records-constructors/"
+  },
+  {
+    "name": "Algebraic Data Types",
+    "url": "https://espertech.wordpress.com/2014/07/30/algebraic-data-types/"
+  },
+  {
+    "name": "XEN – OCaml Best Practices for Developers",
+    "url": "http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers"
+  },
+  {
+    "name": "OCaml Style Guide (by Jane Street)",
+    "url": "https://opensource.janestreet.com/standards/",
+    "description": "See also: [1], [2], [3]."
+  },
+  {
+    "name": "A safe but strange way of modifying OCaml compiler",
+    "url": "https://camlspotter.blogspot.com/2012/09/a-safe-but-strange-way-of-modifying.html"
+  },
+  {
+    "name": "Fiddling with the OCaml Type System",
+    "url": "https://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/"
+  },
+  {
+    "name": "Base",
+    "url": "https://github.com/janestreet/base",
+    "description": "Standard library for OCaml"
+  },
+  {
+    "name": "cil",
+    "url": "https://github.com/cil-project/cil",
+    "description": "C Intermediate Language"
+  },
+  {
+    "name": "coq",
+    "url": "https://github.com/coq/coq",
+    "description": "formal proof management system"
+  },
+  {
+    "name": "Dark",
+    "url": "https://github.com/darklang/dark",
+    "description": "a combined language, editor, and infrastructure to make it easy to build backends"
+  },
+  {
+    "name": "frama-c",
+    "url": "https://git.frama-c.com/pub/frama-c",
+    "description": "platform dedicated to the analysis of source code written in C"
+  },
+  {
+    "name": "libguestfs",
+    "url": "https://github.com/libguestfs/libguestfs",
+    "description": "library and tools for accessing and modifying virtual machine disk images"
+  },
+  {
+    "name": "Liquidsoap",
+    "url": "https://github.com/savonet/liquidsoap",
+    "description": "a swiss-army knife for multimedia streaming, notably used for netradios and webtvs"
+  },
+  {
+    "name": "mirage",
+    "url": "https://github.com/mirage/mirage",
+    "description": " library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms"
+  },
+  {
+    "name": "MLDonkey",
+    "url": "https://github.com/ygrek/mldonkey",
+    "description": "cross-platform multi-network peer-to-peer daemon"
+  },
+  {
+    "name": "Oni2",
+    "url": "https://github.com/onivim/oni2",
+    "description": "Native, lightweight modal code editor"
+  },
+  {
+    "name": "pfff",
+    "url": "https://github.com/returntocorp/pfff",
+    "description": "an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code."
+  },
+  {
+    "name": "WHY3",
+    "url": "https://gitlab.inria.fr/why3/why3",
+    "description": "platform for deductive program verification"
+  },
+  {
+    "name": "xen-api",
+    "url": "https://github.com/xapi-project/xen-api",
+    "description": "management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool"
+  },
+  {
+    "name": "dolog",
+    "url": "https://github.com/UnixJunkie/dolog"
+  },
+  {
+    "name": "Volt",
+    "url": "https://github.com/codinuum/volt"
+  },
+  {
+    "name": "Logs",
+    "url": "http://erratique.ch/software/logs",
+    "description": "Logs provides a logging infrastructure for OCaml."
+  },
+  {
+    "name": "Ocaml-sklearn",
+    "url": "https://github.com/lehy/ocaml-sklearn",
+    "description": "Scientific library with neural networks, algoritmic differentiation and ONNX support."
+  },
+  {
+    "name": "Ocaml-sklearn",
+    "url": "https://github.com/lehy/ocaml-sklearn"
+  },
+  {
+    "name": "Owl",
+    "url": "https://ocaml.xyz/",
+    "description": "Scientific library with neural networks, algoritmic differentiation and ONNX support."
+  },
+  {
+    "name": "Object detection convolutional neural network with OCaml (based on Owl)",
+    "url": "https://github.com/owlbarn/owl_mask_rcnn"
+  },
+  {
+    "name": "PyTorch bindings",
+    "url": "https://github.com/LaurentMazare/ocaml-torch",
+    "description": "OCaml bindings for PyTorch."
+  },
+  {
+    "name": "Deep Learning with OCaml (PyTorch bindings)",
+    "url": "https://blog.janestreet.com/deep-learning-experiments-in-ocaml/"
+  },
+  {
+    "name": "Deep Learning with OCaml (PyTorch bindings)",
+    "url": "https://blog.janestreet.com/deep-learning-experiments-in-ocaml/"
+  },
+  {
+    "name": "Transfer Learning with OCaml (PyTorch bindings)",
+    "url": "https://blog.janestreet.com/of-pythons-and-camels/"
+  },
+  {
+    "name": "Reinforcement Learning with OCaml (PyTorch bindings)",
+    "url": "https://blog.janestreet.com/playing-atari-games-with-ocaml-and-deep-rl/"
+  },
+  {
+    "name": "ocaml-zmq",
+    "url": "https://github.com/issuu/ocaml-zmq"
+  },
+  {
+    "name": "onanomsg",
+    "url": "https://github.com/rgrinberg/onanomsg"
+  },
+  {
+    "name": "Kafka",
+    "url": "https://github.com/didier-wenzek/ocaml-kafka"
+  },
+  {
+    "name": "AMQP",
+    "url": "https://github.com/andersfugmann/amqp-client"
+  },
+  {
+    "name": "MPI",
+    "url": "https://github.com/xavierleroy/ocamlmpi"
+  },
+  {
+    "name": "MQTT",
+    "url": "https://github.com/j0sh/ocaml-mqtt"
+  },
+  {
+    "name": "capnp-ocaml",
+    "url": "https://github.com/capnproto/capnp-ocaml"
+  },
+  {
+    "name": "A Guide to Extension Points in OCaml",
+    "url": "http://whitequark.org/blog/2014/04/16/a-guide-to-extension-points-in-ocaml/"
+  },
+  {
+    "name": "A Guide to Extension Points in OCaml",
+    "url": "http://whitequark.org/blog/2014/04/16/a-guide-to-extension-points-in-ocaml/"
+  },
+  {
+    "name": "Extension Points, or how OCaml is becoming more like Lisp",
+    "url": "https://blogs.janestreet.com/extension-points-or-how-ocaml-is-becoming-more-like-lisp"
+  },
+  {
+    "name": "Syntax extensions without Camlp4: let's do it!",
+    "url": "https://www.lexifi.com/ocaml/syntax-extensions-without-camlp4-lets-do-it/"
+  },
+  {
+    "name": "Reading Camlp4 – Ambassador to the Computers",
+    "url": "https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html"
+  },
+  {
+    "name": "ppx_import",
+    "url": "https://github.com/ocaml-ppx/ppx_import"
+  },
+  {
+    "name": "ppx_import",
+    "url": "https://github.com/ocaml-ppx/ppx_import"
+  },
+  {
+    "name": "ppx_string_interpolate",
+    "url": "https://github.com/sheijk/ppx_string_interpolate"
+  },
+  {
+    "name": "ppx_monad",
+    "url": "https://github.com/rizo/ppx_monad"
+  },
+  {
+    "name": "ppx_deriving_yojson",
+    "url": "https://github.com/whitequark/ppx_deriving_yojson"
+  },
+  {
+    "name": "MetaOCaml",
+    "url": "http://okmij.org/ftp/ML/MetaOCaml.html",
+    "description": "Camlp5 is a preprocessor-pretty-printer of OCaml."
+  },
+  {
+    "name": "MetaOCaml",
+    "url": "http://okmij.org/ftp/ML/MetaOCaml.html"
+  },
+  {
+    "name": "Fan",
+    "url": "http://zhanghongbo.me/fan/"
+  },
+  {
+    "name": "camlp5",
+    "url": "https://camlp5.github.io/",
+    "description": "Camlp5 is a preprocessor-pretty-printer of OCaml."
+  },
+  {
+    "name": "camlp4",
+    "url": "http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html",
+    "description": "Camlp4 is part of the standard OCaml distribution and is different from Camlp5."
+  },
+  {
+    "name": "prometheus",
+    "url": "https://github.com/mirage/prometheus"
+  },
+  {
+    "name": "OCaml on iOS 7 Released",
+    "url": "http://psellos.com/2014/08/2014.08.ocamlxarm-402.html"
+  },
+  {
+    "name": "OCaml on iOS 7 Released",
+    "url": "http://psellos.com/2014/08/2014.08.ocamlxarm-402.html"
+  },
+  {
+    "name": "OCaml + Cordova = more secured, typed and hybrid mobile applications",
+    "url": "https://dannywillems.github.io/2016/07/14/ocaml-cordova-secured-typed-hybrid-mobile-applications.html"
+  },
+  {
+    "name": "Cordova plugins",
+    "url": "https://github.com/dannywillems/ocaml-cordova-plugin-list"
+  },
+  {
+    "name": "Cordova plugins",
+    "url": "https://github.com/dannywillems/ocaml-cordova-plugin-list"
+  },
+  {
+    "name": "ocaml-cohttp",
+    "url": "https://github.com/mirage/ocaml-cohttp",
+    "description": "Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml."
+  },
+  {
+    "name": "ocaml-cohttp",
+    "url": "https://github.com/mirage/ocaml-cohttp"
+  },
+  {
+    "name": "ocurl",
+    "url": "https://github.com/ygrek/ocurl"
+  },
+  {
+    "name": "httpaf",
+    "url": "https://github.com/inhabitedtype/httpaf"
+  },
+  {
+    "name": "piaf",
+    "url": "https://github.com/anmonteiro/piaf",
+    "description": "Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml."
+  },
+  {
+    "name": "ocaml-dns",
+    "url": "https://github.com/mirage/ocaml-dns"
+  },
+  {
+    "name": "fluent-logger",
+    "url": "https://github.com/fluent/fluent-logger-ocaml"
+  },
+  {
+    "name": "charrua-unix",
+    "url": "https://github.com/haesbaert/charrua-unix",
+    "description": "charrua-unix is a Unix DHCP daemon based on charrua-core."
+  },
+  {
+    "name": "Introduction to Functional Programming in OCaml",
+    "url": "https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about"
+  },
+  {
+    "name": "Cornell University – Data Structures and Functional Programming",
+    "url": "http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php"
+  },
+  {
+    "name": "Princeton University - Functional programming in OCaml",
+    "url": "http://www.cs.princeton.edu/~dpw/courses/cos326-12/",
+    "description": "Functional programming in OCaml."
+  },
+  {
+    "name": "University of Illinois",
+    "url": "https://courses.engr.illinois.edu/cs421/fa2014/",
+    "description": "Course that uses OCaml to teach functional programming and programming language design"
+  },
+  {
+    "name": "OPAM",
+    "url": "http://opam.ocamlpro.com/",
+    "description": "opam repository and experimental build for Windows (deprecated since 2021)."
+  },
+  {
+    "name": "OPAM",
+    "url": "http://opam.ocamlpro.com/"
+  },
+  {
+    "name": "ocamlfind",
+    "url": "http://projects.camlcity.org/projects/findlib.html"
+  },
+  {
+    "name": "OCaml for Windows",
+    "url": "https://fdopen.github.io/opam-repository-mingw",
+    "description": "opam repository and experimental build for Windows (deprecated since 2021)."
+  },
+  {
+    "name": "Diskuv OCaml",
+    "url": "https://github.com/diskuv/dkml-installer-ocaml#readme",
+    "description": "Diskuv OCaml distribution for Windows."
+  },
+  {
+    "name": "makorel",
+    "url": "https://github.com/sagotch/makorel"
+  },
+  {
+    "name": "esy",
+    "url": "https://github.com/esy/esy",
+    "description": "package.json workflow for native development with Reason/OCaml."
+  },
+  {
+    "name": "dune",
+    "url": "https://github.com/ocaml/dune",
+    "description": "A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily."
+  },
+  {
+    "name": "dune",
+    "url": "https://github.com/ocaml/dune"
+  },
+  {
+    "name": "Oasis",
+    "url": "http://oasis.forge.ocamlcore.org/",
+    "description": "A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily."
+  },
+  {
+    "name": "oasis2opam",
+    "url": "https://github.com/ocaml/oasis2opam"
+  },
+  {
+    "name": "obuild",
+    "url": "https://github.com/ocaml-obuild/obuild"
+  },
+  {
+    "name": "ocaml-makefile",
+    "url": "https://github.com/mmottl/ocaml-makefile"
+  },
+  {
+    "name": "topkg",
+    "url": "https://github.com/dbuenzli/topkg"
+  },
+  {
+    "name": "Bazel",
+    "url": "https://github.com/jin/rules_ocaml",
+    "description": "OCaml rules for Bazel, Google's multi-language and platform build tool."
+  },
+  {
+    "name": "Parmap",
+    "url": "http://rdicosmo.github.io/parmap/",
+    "description": "Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks)."
+  },
+  {
+    "name": "Parmap",
+    "url": "http://rdicosmo.github.io/parmap/"
+  },
+  {
+    "name": "ForkWork",
+    "url": "https://github.com/mlin/forkwork"
+  },
+  {
+    "name": "Functory",
+    "url": "http://functory.lri.fr/About.html"
+  },
+  {
+    "name": "Rpc.Parallel",
+    "url": "https://github.com/janestreet/rpc_parallel"
+  },
+  {
+    "name": "Ocamlnet",
+    "url": "http://projects.camlcity.org/projects/ocamlnet.html"
+  },
+  {
+    "name": "Nproc",
+    "url": "https://github.com/MyLifeLabs/nproc"
+  },
+  {
+    "name": "Parany",
+    "url": "https://github.com/UnixJunkie/parany"
+  },
+  {
+    "name": "Sklml",
+    "url": "http://sklml.inria.fr"
+  },
+  {
+    "name": "SPOC",
+    "url": "https://github.com/mathiasbourgoin/SPOC",
+    "description": "Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks)."
+  },
+  {
+    "name": "What is the state of OCaml's parallelization abilities?",
+    "url": "https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities"
+  },
+  {
+    "name": "What is the state of OCaml's parallelization abilities?",
+    "url": "https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities"
+  },
+  {
+    "name": "Console.log",
+    "url": "https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything"
+  },
+  {
+    "name": "Dum",
+    "url": "https://github.com/mjambon/dum#readme"
+  },
+  {
+    "name": "Inspect",
+    "url": "https://github.com/krohrer/caml-inspect#readme"
+  },
+  {
+    "name": "ppx_deriving ",
+    "url": "https://github.com/ocaml-ppx/ppx_deriving#usage"
+  },
+  {
+    "name": "refl ",
+    "url": "https://github.com/thierry-martinez/refl#basic-usage"
+  },
+  {
+    "name": "lrt ",
+    "url": "https://github.com/LexiFi/lrt#getting-started"
+  },
+  {
+    "name": "tpf ",
+    "url": "https://github.com/pqwy/tpf#readme"
+  },
+  {
+    "name": "typerep ",
+    "url": "https://github.com/janestreet/typerep"
+  },
+  {
+    "name": "repr",
+    "url": "https://mirage.github.io/repr/repr/Repr/index.html#val-pp_json"
+  },
+  {
+    "name": "data-encoding",
+    "url": "https://gitlab.com/nomadic-labs/data-encoding/-/blob/master/src/tutorial.md#how-to-build-an-encoding"
+  },
+  {
+    "name": "cmon ",
+    "url": "https://github.com/let-def/cmon#documentation"
+  },
+  {
+    "name": "dyn ",
+    "url": "https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli"
+  },
+  {
+    "name": "Genprint ",
+    "url": "https://github.com/progman1/genprintlib#readme"
+  },
+  {
+    "name": "OCaml@p ",
+    "url": "https://github.com/tsubame-sp/ocaml_at_p#readme"
+  },
+  {
+    "name": "drom",
+    "url": "https://github.com/OCamlPro/drom/",
+    "description": "The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience."
+  },
+  {
+    "name": "spin",
+    "url": "https://github.com/tmattio/spin",
+    "description": "Reason and Ocaml project generator"
+  },
+  {
+    "name": "modern-ocaml",
+    "url": "https://github.com/Khady/modern-ocaml",
+    "description": "Template for an ocaml project with modern tooling"
+  },
+  {
+    "name": "OCaml polymorphism example other than template function?",
+    "url": "https://stackoverflow.com/questions/14440531/ocaml-polymorphism-example-other-than-template-function"
+  },
+  {
+    "name": "OCaml - polymorphic print and type losing",
+    "url": "https://stackoverflow.com/questions/7442449/ocaml-polymorphic-print-and-type-losing",
+    "description": "polymorphic print and type losing"
+  },
+  {
+    "name": "biocaml",
+    "url": "https://github.com/biocaml/biocaml"
+  },
+  {
+    "name": "bistro",
+    "url": "https://github.com/pveber/bistro"
+  },
+  {
+    "name": "lacaml",
+    "url": "https://mmottl.github.io/lacaml/",
+    "description": "OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries)."
+  },
+  {
+    "name": "obandit",
+    "url": "http://freux.fr/oss/obandit.html",
+    "description": "OCaml library for multi-armed bandits."
+  },
+  {
+    "name": "onumerical",
+    "url": "https://github.com/cheshire/onumerical"
+  },
+  {
+    "name": "oml",
+    "url": "https://github.com/hammerlab/oml",
+    "description": "OCaml library for general numerical work."
+  },
+  {
+    "name": "ocephes",
+    "url": "https://github.com/rleonid/ocephes",
+    "description": "Bindings to frequently used C special functions library."
+  },
+  {
+    "name": "slap",
+    "url": "https://github.com/akabe/slap",
+    "description": "A linear algebra library in OCaml with type-based static size checking for matrix operations."
+  },
+  {
+    "name": "tensorflow-ocaml",
+    "url": "https://github.com/LaurentMazare/tensorflow-ocaml"
+  },
+  {
+    "name": "owl",
+    "url": "https://github.com/owlbarn/owl",
+    "description": "OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions."
+  },
+  {
+    "name": "Re",
+    "url": "https://github.com/ocaml/ocaml-re"
+  },
+  {
+    "name": "ocaml-pcre",
+    "url": "https://github.com/mmottl/pcre-ocaml"
+  },
+  {
+    "name": "Humane-re",
+    "url": "https://github.com/rgrinberg/humane-re"
+  },
+  {
+    "name": "Tyre",
+    "url": "https://github.com/Drup/tyre",
+    "description": "Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups."
+  },
+  {
+    "name": "ocaml-tls",
+    "url": "https://github.com/mirleft/ocaml-tls"
+  },
+  {
+    "name": "Digestif",
+    "url": "https://github.com/mirage/digestif",
+    "description": "Hash algorithms (like SHA* or BLAKE2*) in OCaml and C."
+  },
+  {
+    "name": "cryptokit",
+    "url": "https://github.com/xavierleroy/cryptokit"
+  },
+  {
+    "name": "nocoiner",
+    "url": "https://github.com/marcoonroad/nocoiner",
+    "description": "A Commitment Schemes library for Multi-party Computations such as online Auctions and Gambling."
+  },
+  {
+    "name": "nocrypto",
+    "url": "https://github.com/mirleft/ocaml-nocrypto"
+  },
+  {
+    "name": "OCaml-RDF",
+    "url": "https://framagit.org/zoggy/ocaml-rdf"
+  },
+  {
+    "name": "bencode",
+    "url": "https://github.com/rgrinberg/bencode"
+  },
+  {
+    "name": "biniou",
+    "url": "https://github.com/mjambon/biniou"
+  },
+  {
+    "name": "cbor",
+    "url": "https://github.com/ygrek/ocaml-cbor"
+  },
+  {
+    "name": "jsonm",
+    "url": "http://erratique.ch/software/jsonm"
+  },
+  {
+    "name": "xmlm",
+    "url": "http://erratique.ch/software/xmlm"
+  },
+  {
+    "name": "yojson",
+    "url": "https://github.com/ocaml-community/yojson"
+  },
+  {
+    "name": "sexplib",
+    "url": "https://github.com/janestreet/sexplib"
+  },
+  {
+    "name": "Mirage OS",
+    "url": "https://github.com/mirage/mirage"
+  },
+  {
+    "name": "ocaml-fat",
+    "url": "https://github.com/mirage/ocaml-fat"
+  },
+  {
+    "name": "ocaml-git",
+    "url": "https://github.com/mirage/ocaml-git"
+  },
+  {
+    "name": "ocaml-vchan",
+    "url": "https://github.com/mirage/ocaml-vchan"
+  },
+  {
+    "name": "OMicroB",
+    "url": "https://github.com/stevenvar/omicrob",
+    "description": "A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers."
+  },
+  {
+    "name": "OMicroB",
+    "url": "https://github.com/stevenvar/omicrob",
+    "description": "A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers."
+  },
+  {
+    "name": "OCaPIC",
+    "url": "http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC",
+    "description": "An OCaml virtual machine for PIC18 micro-controlers."
+  },
+  {
+    "name": "ocaml-esp32",
+    "url": "https://github.com/sadiqj/ocaml-esp32",
+    "description": "A compiler for ESP32 SoC."
+  },
+  {
+    "name": "Alcotest",
+    "url": "https://github.com/mirage/alcotest"
+  },
+  {
+    "name": "OUnit",
+    "url": "http://ounit.forge.ocamlcore.org/"
+  },
+  {
+    "name": "QCheck",
+    "url": "https://github.com/c-cube/qcheck"
+  },
+  {
+    "name": "iTeML",
+    "url": "https://github.com/vincent-hugot/iTeML"
+  },
+  {
+    "name": "Kaputt",
+    "url": "http://kaputt.x9c.fr/"
+  },
+  {
+    "name": "Pa_test",
+    "url": "https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test"
+  },
+  {
+    "name": "TestSimple",
+    "url": "https://github.com/hcarty/ocaml-testsimple",
+    "description": "A lightweight unit testing framework compatible with the Test Anything Protocol."
+  },
+  {
+    "name": "expect-test",
+    "url": "https://github.com/janestreet/ppx_expect"
+  },
+  {
+    "name": "ocaml-cuid",
+    "url": "https://github.com/marcoonroad/ocaml-cuid",
+    "description": "Collision-resistant IDs for server scalability & database performance."
+  },
+  {
+    "name": "Uuidm",
+    "url": "https://erratique.ch/software/uuidm",
+    "description": "Uuidm is an OCaml module implementing 128 bits universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122."
+  },
+  {
+    "name": "Opium",
+    "url": "https://github.com/rgrinberg/opium",
+    "description": "Tidy Web framework for OCaml and ReasonML"
+  },
+  {
+    "name": "Opium",
+    "url": "https://github.com/rgrinberg/opium"
+  },
+  {
+    "name": "Ocsigen Eliom",
+    "url": "http://ocsigen.org/eliom/"
+  },
+  {
+    "name": "Dream",
+    "url": "https://aantron.github.io/dream/",
+    "description": "Tidy Web framework for OCaml and ReasonML"
+  },
+  {
+    "name": "webmachine",
+    "url": "https://github.com/inhabitedtype/ocaml-webmachine"
+  },
+  {
+    "name": "incr_dom",
+    "url": "https://github.com/janestreet/incr_dom",
+    "description": "A library for building dynamic webapps, using Js_of_ocaml"
+  },
+  {
+    "name": "ocaml-vdom",
+    "url": "https://github.com/LexiFi/ocaml-vdom",
+    "description": "Elm architecture and (V)DOM for OCaml"
+  },
+  {
+    "name": "COW",
+    "url": "https://github.com/mirage/ocaml-cow",
+    "description": "Easily import and export CommonJS modules from a js_of_ocaml project."
+  },
+  {
+    "name": "COW",
+    "url": "https://github.com/mirage/ocaml-cow"
+  },
+  {
+    "name": "Ocamlnet",
+    "url": "http://projects.camlcity.org/projects/ocamlnet.html"
+  },
+  {
+    "name": "tyxml",
+    "url": "http://ocsigen.org/tyxml"
+  },
+  {
+    "name": "js_of_ocaml",
+    "url": "http://ocsigen.org/js_of_ocaml",
+    "description": "Easily import and export CommonJS modules from a js_of_ocaml project."
+  },
+  {
+    "name": "commonjs_of_ocaml",
+    "url": "https://github.com/AngryLawyer/commonjs_of_ocaml",
+    "description": "Easily import and export CommonJS modules from a js_of_ocaml project."
+  },
+  {
+    "name": "ReScript",
+    "url": "https://rescript-lang.org/",
+    "description": "ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript."
+  },
+  {
+    "name": "ocaml-uri",
+    "url": "https://github.com/mirage/ocaml-uri"
+  },
+  {
+    "name": "Goji",
+    "url": "https://github.com/klakplok/goji"
+  },
+  {
+    "name": "Syndic",
+    "url": "https://github.com/Cumulus/Syndic"
+  },
+  {
+    "name": "ocaml-mustache",
+    "url": "https://github.com/rgrinberg/ocaml-mustache"
+  },
+  {
+    "name": "atdjs",
+    "url": "https://github.com/barko/atdjs"
+  },
+  {
+    "name": "jingoo",
+    "url": "https://github.com/tategakibunko/jingoo"
+  },
+  {
+    "name": "dispatch",
+    "url": "https://github.com/inhabitedtype/ocaml-dispatch"
+  },
+  {
+    "name": "Lambda Soup",
+    "url": "https://github.com/aantron/lambda-soup",
+    "description": "Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup."
+  },
+  {
+    "name": "Markup.ml",
+    "url": "https://github.com/aantron/markup.ml",
+    "description": "Error-recovering streaming HTML5 and XML parsers, serializers."
+  },
+  {
+    "name": "gen_js_api",
+    "url": "https://github.com/LexiFi/gen_js_api",
+    "description": "gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries."
+  },
+  {
+    "name": "routes",
+    "url": "https://github.com/anuragsoni/routes",
+    "description": "Typed routes for OCaml/ReasonML web applications."
+  },
+  {
+    "name": "Cumulus",
+    "url": "https://github.com/Cumulus/Cumulus"
+  },
+  {
+    "name": "Cumulus",
+    "url": "https://github.com/Cumulus/Cumulus"
+  }
+]

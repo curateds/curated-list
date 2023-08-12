@@ -1,0 +1,792 @@
+[
+  {
+    "name": "RQLite",
+    "url": "https://github.com/rqlite/rqlite"
+  },
+  {
+    "name": "RQLite",
+    "url": "https://github.com/rqlite/rqlite"
+  },
+  {
+    "name": "MySQL",
+    "url": "https://www.mysql.com/"
+  },
+  {
+    "name": "TiDB",
+    "url": "https://github.com/pingcap/tidb"
+  },
+  {
+    "name": "Percona XtraBackup",
+    "url": "https://www.percona.com/software/mysql-database/percona-xtrabackup"
+  },
+  {
+    "name": "mysql_utils",
+    "url": "https://github.com/pinterest/mysql_utils"
+  },
+  {
+    "name": "MariaDB",
+    "url": "https://mariadb.org/"
+  },
+  {
+    "name": "PostgreSQL",
+    "url": "https://www.postgresql.org/"
+  },
+  {
+    "name": "Amazon RDS",
+    "url": "https://aws.amazon.com/rds/"
+  },
+  {
+    "name": "Crate.IO",
+    "url": "https://crate.io/"
+  },
+  {
+    "name": "Redis",
+    "url": "https://redis.io/"
+  },
+  {
+    "name": "Redis",
+    "url": "https://redis.io/"
+  },
+  {
+    "name": "Riak",
+    "url": "http://docs.basho.com/riak/kv/"
+  },
+  {
+    "name": "AWS DynamoDB",
+    "url": "https://aws.amazon.com/dynamodb/"
+  },
+  {
+    "name": "HyperDex",
+    "url": "https://github.com/rescrv/HyperDex"
+  },
+  {
+    "name": "SSDB",
+    "url": "http://ssdb.io"
+  },
+  {
+    "name": "Kyoto Tycoon",
+    "url": "https://github.com/alticelabs/kyoto"
+  },
+  {
+    "name": "IonDB",
+    "url": "https://github.com/iondbproject/iondb"
+  },
+  {
+    "name": "Cassandra",
+    "url": "https://cassandra.apache.org/"
+  },
+  {
+    "name": "Cassandra",
+    "url": "https://cassandra.apache.org/"
+  },
+  {
+    "name": "Cassandra Calculator",
+    "url": "https://www.ecyrd.com/cassandracalculator/"
+  },
+  {
+    "name": "CCM",
+    "url": "https://github.com/pcmanus/ccm"
+  },
+  {
+    "name": "ScyllaDB",
+    "url": "https://github.com/scylladb/scylla"
+  },
+  {
+    "name": "HBase",
+    "url": "https://hbase.apache.org/"
+  },
+  {
+    "name": "AWS Redshift",
+    "url": "https://aws.amazon.com/redshift/"
+  },
+  {
+    "name": "FiloDB",
+    "url": "https://github.com/filodb/FiloDB"
+  },
+  {
+    "name": "Vertica",
+    "url": "https://www.vertica.com"
+  },
+  {
+    "name": "ClickHouse",
+    "url": "https://clickhouse.tech"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://www.mongodb.com"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://www.mongodb.com"
+  },
+  {
+    "name": "Percona Server for MongoDB",
+    "url": "https://www.percona.com/software/mongo-database/percona-server-for-mongodb"
+  },
+  {
+    "name": "MemDB",
+    "url": "https://github.com/rain1017/memdb"
+  },
+  {
+    "name": "Elasticsearch",
+    "url": "https://www.elastic.co/"
+  },
+  {
+    "name": "Couchbase",
+    "url": "https://www.couchbase.com/"
+  },
+  {
+    "name": "RethinkDB",
+    "url": "https://rethinkdb.com/"
+  },
+  {
+    "name": "RavenDB",
+    "url": "https://ravendb.net/"
+  },
+  {
+    "name": "Neo4j",
+    "url": "https://neo4j.com/"
+  },
+  {
+    "name": "Neo4j",
+    "url": "https://neo4j.com/"
+  },
+  {
+    "name": "OrientDB",
+    "url": "https://orientdb.com"
+  },
+  {
+    "name": "ArangoDB",
+    "url": "https://www.arangodb.com/"
+  },
+  {
+    "name": "Titan",
+    "url": "https://titan.thinkaurelius.com"
+  },
+  {
+    "name": "FlockDB",
+    "url": "https://github.com/twitter-archive/flockdb"
+  },
+  {
+    "name": "DAtomic",
+    "url": "https://www.datomic.com"
+  },
+  {
+    "name": "DAtomic",
+    "url": "https://www.datomic.com"
+  },
+  {
+    "name": "Apache Geode",
+    "url": "https://geode.apache.org/"
+  },
+  {
+    "name": "Gaffer ",
+    "url": "https://github.com/gchq/Gaffer"
+  },
+  {
+    "name": "InfluxDB",
+    "url": "https://github.com/influxdata/influxdb"
+  },
+  {
+    "name": "InfluxDB",
+    "url": "https://github.com/influxdata/influxdb"
+  },
+  {
+    "name": "OpenTSDB",
+    "url": "https://github.com/OpenTSDB/opentsdb"
+  },
+  {
+    "name": "QuestDB",
+    "url": "https://questdb.io/"
+  },
+  {
+    "name": "kairosdb",
+    "url": "https://github.com/kairosdb/kairosdb"
+  },
+  {
+    "name": "Heroic",
+    "url": "https://github.com/spotify/heroic"
+  },
+  {
+    "name": "Druid",
+    "url": "https://github.com/apache/incubator-druid"
+  },
+  {
+    "name": "Riak-TS",
+    "url": "http://basho.com/products/riak-ts/"
+  },
+  {
+    "name": "Akumuli",
+    "url": "https://github.com/akumuli/Akumuli"
+  },
+  {
+    "name": "Rhombus",
+    "url": "https://github.com/Pardot/Rhombus"
+  },
+  {
+    "name": "Dalmatiner DB",
+    "url": "https://github.com/dalmatinerdb/dalmatinerdb"
+  },
+  {
+    "name": "Blueflood",
+    "url": "https://github.com/rackerlabs/blueflood"
+  },
+  {
+    "name": "Timely",
+    "url": "https://github.com/NationalSecurityAgency/timely"
+  },
+  {
+    "name": "Tarantool",
+    "url": "https://github.com/tarantool/tarantool/"
+  },
+  {
+    "name": "Tarantool",
+    "url": "https://github.com/tarantool/tarantool/"
+  },
+  {
+    "name": "GreenPlum",
+    "url": "https://github.com/greenplum-db/gpdb"
+  },
+  {
+    "name": "cayley",
+    "url": "https://github.com/cayleygraph/cayley"
+  },
+  {
+    "name": "Snappydata",
+    "url": "https://github.com/SnappyDataInc/snappydata"
+  },
+  {
+    "name": "TimescaleDB",
+    "url": "https://www.timescale.com/"
+  },
+  {
+    "name": "Kafka",
+    "url": "https://kafka.apache.org/"
+  },
+  {
+    "name": "BottledWater",
+    "url": "https://github.com/confluentinc/bottledwater-pg"
+  },
+  {
+    "name": "kafkat",
+    "url": "https://github.com/airbnb/kafkat"
+  },
+  {
+    "name": "kafkacat",
+    "url": "https://github.com/edenhill/kafkacat"
+  },
+  {
+    "name": "pg-kafka",
+    "url": "https://github.com/xstevens/pg_kafka"
+  },
+  {
+    "name": "librdkafka",
+    "url": "https://github.com/edenhill/librdkafka"
+  },
+  {
+    "name": "kafka-docker",
+    "url": "https://github.com/wurstmeister/kafka-docker"
+  },
+  {
+    "name": "kafka-manager",
+    "url": "https://github.com/yahoo/kafka-manager"
+  },
+  {
+    "name": "kafka-node",
+    "url": "https://github.com/SOHU-Co/kafka-node"
+  },
+  {
+    "name": "Secor",
+    "url": "https://github.com/pinterest/secor"
+  },
+  {
+    "name": "Kafka-logger",
+    "url": "https://github.com/uber/kafka-logger"
+  },
+  {
+    "name": "AWS Kinesis",
+    "url": "https://aws.amazon.com/kinesis/"
+  },
+  {
+    "name": "RabbitMQ",
+    "url": "https://www.rabbitmq.com/"
+  },
+  {
+    "name": "FluentD",
+    "url": "https://www.fluentd.org"
+  },
+  {
+    "name": "Embulk",
+    "url": "https://www.embulk.org"
+  },
+  {
+    "name": "Apache Sqoop",
+    "url": "https://sqoop.apache.org"
+  },
+  {
+    "name": "Heka",
+    "url": "https://github.com/mozilla-services/heka"
+  },
+  {
+    "name": "Gobblin",
+    "url": "https://github.com/apache/incubator-gobblin"
+  },
+  {
+    "name": "Nakadi",
+    "url": "https://nakadi.io"
+  },
+  {
+    "name": "Pravega",
+    "url": "http://www.pravega.io",
+    "description": "a stream - for continuous and unbounded data."
+  },
+  {
+    "name": "Apache Pulsar",
+    "url": "https://pulsar.apache.org/"
+  },
+  {
+    "name": "AWS Data Wranlger",
+    "url": "https://github.com/awslabs/aws-data-wrangler"
+  },
+  {
+    "name": "HDFS",
+    "url": "https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html"
+  },
+  {
+    "name": "Snakebite",
+    "url": "https://github.com/spotify/snakebite"
+  },
+  {
+    "name": "AWS S3",
+    "url": "https://aws.amazon.com/s3/"
+  },
+  {
+    "name": "smart_open",
+    "url": "https://github.com/RaRe-Technologies/smart_open"
+  },
+  {
+    "name": "Alluxio",
+    "url": "https://www.alluxio.org/"
+  },
+  {
+    "name": "CEPH",
+    "url": "https://ceph.com/"
+  },
+  {
+    "name": "OrangeFS",
+    "url": "https://www.orangefs.org/"
+  },
+  {
+    "name": "SnackFS",
+    "url": "https://github.com/tuplejump/snackfs-release"
+  },
+  {
+    "name": "GlusterFS",
+    "url": "https://www.gluster.org/"
+  },
+  {
+    "name": "XtreemFS",
+    "url": "http://www.xtreemfs.org/"
+  },
+  {
+    "name": "SeaweedFS",
+    "url": "https://github.com/chrislusf/seaweedfs"
+  },
+  {
+    "name": "S3QL",
+    "url": "https://github.com/s3ql/s3ql/"
+  },
+  {
+    "name": "LizardFS",
+    "url": "https://lizardfs.com/"
+  },
+  {
+    "name": "Apache Avro",
+    "url": "https://avro.apache.org"
+  },
+  {
+    "name": "Apache Parquet",
+    "url": "https://parquet.apache.org"
+  },
+  {
+    "name": "Snappy",
+    "url": "https://github.com/google/snappy"
+  },
+  {
+    "name": "PigZ",
+    "url": "https://zlib.net/pigz/"
+  },
+  {
+    "name": "Apache ORC",
+    "url": "https://orc.apache.org/"
+  },
+  {
+    "name": "Apache Thrift",
+    "url": "https://thrift.apache.org"
+  },
+  {
+    "name": "ProtoBuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Google's data interchange format"
+  },
+  {
+    "name": "SequenceFile",
+    "url": "https://wiki.apache.org/hadoop/SequenceFile"
+  },
+  {
+    "name": "Kryo",
+    "url": "https://github.com/EsotericSoftware/kryo"
+  },
+  {
+    "name": "Apache Beam",
+    "url": "https://beam.apache.org/"
+  },
+  {
+    "name": "Spark Streaming",
+    "url": "https://spark.apache.org/streaming/"
+  },
+  {
+    "name": "Apache Flink",
+    "url": "https://flink.apache.org/"
+  },
+  {
+    "name": "Apache Storm",
+    "url": "https://storm.apache.org"
+  },
+  {
+    "name": "Apache Samza",
+    "url": "https://samza.apache.org"
+  },
+  {
+    "name": "Apache NiFi",
+    "url": "https://nifi.apache.org/"
+  },
+  {
+    "name": "Apache Hudi",
+    "url": "https://hudi.apache.org/"
+  },
+  {
+    "name": "VoltDB",
+    "url": "https://voltdb.com/"
+  },
+  {
+    "name": "PipelineDB",
+    "url": "https://github.com/pipelinedb/pipelinedb"
+  },
+  {
+    "name": "Spring Cloud Dataflow",
+    "url": "https://cloud.spring.io/spring-cloud-dataflow/"
+  },
+  {
+    "name": "Bonobo",
+    "url": "https://www.bonobo-project.org/"
+  },
+  {
+    "name": "Robinhood's Faust",
+    "url": "https://github.com/faust-streaming/faust"
+  },
+  {
+    "name": "HStreamDB",
+    "url": "https://github.com/hstreamdb/hstream"
+  },
+  {
+    "name": "Kuiper",
+    "url": "https://github.com/emqx/kuiper"
+  },
+  {
+    "name": "Hadoop MapReduce",
+    "url": "https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html"
+  },
+  {
+    "name": "Spark",
+    "url": "https://spark.apache.org/"
+  },
+  {
+    "name": "Spark Packages",
+    "url": "https://spark-packages.org"
+  },
+  {
+    "name": "Deep Spark",
+    "url": "https://github.com/Stratio/deep-spark"
+  },
+  {
+    "name": "Spark RDD API Examples",
+    "url": "http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html"
+  },
+  {
+    "name": "Livy",
+    "url": "https://livy.incubator.apache.org"
+  },
+  {
+    "name": "AWS EMR",
+    "url": "https://aws.amazon.com/emr/"
+  },
+  {
+    "name": "Tez",
+    "url": "https://tez.apache.org/"
+  },
+  {
+    "name": "Bistro",
+    "url": "https://github.com/asavinov/bistro"
+  },
+  {
+    "name": "H2O",
+    "url": "https://www.h2o.ai/"
+  },
+  {
+    "name": "H2O",
+    "url": "https://www.h2o.ai/"
+  },
+  {
+    "name": "Mahout",
+    "url": "https://mahout.apache.org/"
+  },
+  {
+    "name": "Spark MLlib",
+    "url": "https://spark.apache.org/docs/latest/ml-guide.html"
+  },
+  {
+    "name": "GraphLab Create",
+    "url": "https://turi.com/products/create/docs/"
+  },
+  {
+    "name": "GraphLab Create",
+    "url": "https://turi.com/products/create/docs/"
+  },
+  {
+    "name": "Giraph",
+    "url": "https://giraph.apache.org/"
+  },
+  {
+    "name": "Spark GraphX",
+    "url": "https://spark.apache.org/graphx/"
+  },
+  {
+    "name": "Presto",
+    "url": "https://prestodb.github.io/docs/current/index.html"
+  },
+  {
+    "name": "Presto",
+    "url": "https://prestodb.github.io/docs/current/index.html"
+  },
+  {
+    "name": "Hive",
+    "url": "https://hive.apache.org"
+  },
+  {
+    "name": "Hivemall",
+    "url": "https://github.com/apache/incubator-hivemall"
+  },
+  {
+    "name": "PyHive",
+    "url": "https://github.com/dropbox/PyHive"
+  },
+  {
+    "name": "Drill",
+    "url": "https://drill.apache.org/"
+  },
+  {
+    "name": "Highcharts",
+    "url": "https://www.highcharts.com/"
+  },
+  {
+    "name": "ZingChart",
+    "url": "https://www.zingchart.com/"
+  },
+  {
+    "name": "C3.js",
+    "url": "https://c3js.org"
+  },
+  {
+    "name": "D3.js",
+    "url": "https://d3js.org/"
+  },
+  {
+    "name": "D3Plus",
+    "url": "https://d3plus.org"
+  },
+  {
+    "name": "SmoothieCharts",
+    "url": "http://smoothiecharts.org"
+  },
+  {
+    "name": "PyXley",
+    "url": "https://github.com/stitchfix/pyxley"
+  },
+  {
+    "name": "Plotly",
+    "url": "https://github.com/plotly/dash"
+  },
+  {
+    "name": "Apache Superset",
+    "url": "https://github.com/apache/incubator-superset"
+  },
+  {
+    "name": "Redash",
+    "url": "https://redash.io/"
+  },
+  {
+    "name": "Metabase",
+    "url": "https://github.com/metabase/metabase"
+  },
+  {
+    "name": "PyQtGraph",
+    "url": "http://www.pyqtgraph.org/"
+  },
+  {
+    "name": "Luigi",
+    "url": "https://github.com/spotify/luigi"
+  },
+  {
+    "name": "CronQ",
+    "url": "https://github.com/seatgeek/cronq"
+  },
+  {
+    "name": "Cascading",
+    "url": "https://www.cascading.org/"
+  },
+  {
+    "name": "Airflow",
+    "url": "https://github.com/apache/airflow"
+  },
+  {
+    "name": "Azkaban",
+    "url": "https://azkaban.github.io/"
+  },
+  {
+    "name": "Oozie",
+    "url": "https://oozie.apache.org/"
+  },
+  {
+    "name": "Pinball",
+    "url": "https://github.com/pinterest/pinball"
+  },
+  {
+    "name": "Dagster",
+    "url": "https://github.com/dagster-io/dagster"
+  },
+  {
+    "name": "Dataform",
+    "url": "https://dataform.co/"
+  },
+  {
+    "name": "Census",
+    "url": "https://getcensus.com/"
+  },
+  {
+    "name": "dbt",
+    "url": "https://getdbt.com/"
+  },
+  {
+    "name": "RudderStack",
+    "url": "https://github.com/rudderlabs/rudder-server"
+  },
+  {
+    "name": "lakeFS",
+    "url": "https://github.com/treeverse/lakeFS"
+  },
+  {
+    "name": "docker-logstash",
+    "url": "https://github.com/pblittle/docker-logstash"
+  },
+  {
+    "name": "elasticsearch-jdbc",
+    "url": "https://github.com/jprante/elasticsearch-jdbc"
+  },
+  {
+    "name": "ZomboDB",
+    "url": "https://github.com/zombodb/zombodb"
+  },
+  {
+    "name": "Gockerize",
+    "url": "https://github.com/redbooth/gockerize"
+  },
+  {
+    "name": "Flocker",
+    "url": "https://github.com/ClusterHQ/flocker"
+  },
+  {
+    "name": "Rancher",
+    "url": "https://rancher.com/rancher-os/"
+  },
+  {
+    "name": "Kontena",
+    "url": "https://www.kontena.io/"
+  },
+  {
+    "name": "Weave",
+    "url": "https://github.com/weaveworks/weave"
+  },
+  {
+    "name": "Zodiac",
+    "url": "https://github.com/CenturyLinkLabs/zodiac"
+  },
+  {
+    "name": "cAdvisor",
+    "url": "https://github.com/google/cadvisor"
+  },
+  {
+    "name": "Micro S3 persistence",
+    "url": "https://github.com/figadore/micro-s3-persistence"
+  },
+  {
+    "name": "Rocker-compose",
+    "url": "https://github.com/grammarly/rocker-compose"
+  },
+  {
+    "name": "Nomad",
+    "url": "https://github.com/hashicorp/nomad"
+  },
+  {
+    "name": "ImageLayers",
+    "url": "https://imagelayers.io/"
+  },
+  {
+    "name": "Twitter Realtime",
+    "url": "https://developer.twitter.com/en/docs/tweets/filter-realtime/overview"
+  },
+  {
+    "name": "Eventsim",
+    "url": "https://github.com/Interana/eventsim"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/"
+  },
+  {
+    "name": "GitHub Archive",
+    "url": "https://www.gharchive.org/"
+  },
+  {
+    "name": "Common Crawl",
+    "url": "https://commoncrawl.org/"
+  },
+  {
+    "name": "Wikipedia",
+    "url": "https://dumps.wikimedia.org/enwiki/latest/"
+  },
+  {
+    "name": "Prometheus.io",
+    "url": "https://github.com/prometheus/prometheus"
+  },
+  {
+    "name": "HAProxy Exporter",
+    "url": "https://github.com/prometheus/haproxy_exporter"
+  },
+  {
+    "name": "/r/dataengineering",
+    "url": "https://www.reddit.com/r/dataengineering/"
+  },
+  {
+    "name": "/r/etl",
+    "url": "https://www.reddit.com/r/ETL/"
+  },
+  {
+    "name": "Data Council",
+    "url": "https://www.datacouncil.ai/about"
+  },
+  {
+    "name": "Data Engineering Podcast",
+    "url": "https://www.dataengineeringpodcast.com/"
+  }
+]

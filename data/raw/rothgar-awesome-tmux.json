@@ -1,0 +1,564 @@
+[
+  {
+    "name": "Automatically start tmux on SSH",
+    "url": "http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html"
+  },
+  {
+    "name": "Tmux crash course",
+    "url": "https://thoughtbot.com/blog/a-tmux-crash-course"
+  },
+  {
+    "name": "Tmux primer",
+    "url": "https://danielmiessler.com/study/tmux/"
+  },
+  {
+    "name": "Tmux and Vim together",
+    "url": "https://www.bugsnag.com/blog/tmux-and-vim"
+  },
+  {
+    "name": "tmux-cheatsheet.markdown",
+    "url": "https://gist.github.com/MohamedAlaa/2961058"
+  },
+  {
+    "name": "Oh My Tmux!",
+    "url": "https://github.com/gpakosz/.tmux"
+  },
+  {
+    "name": "Example tmux config",
+    "url": "https://github.com/tony/tmux-config",
+    "description": "screen + vim key-bindings, system stat, cpu load bar"
+  },
+  {
+    "name": "Guide to customizing tmux.conf",
+    "url": "https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
+  },
+  {
+    "name": "practical tmux",
+    "url": "https://mutelight.org/practical-tmux"
+  },
+  {
+    "name": "tmux-extra",
+    "url": "https://github.com/brandur/tmux-extra"
+  },
+  {
+    "name": "tmux yank to system clipboard",
+    "url": "https://www.grailbox.com/2020/08/use-system-clipboard-for-vi-copy-mode-in-tmux-in-macos-and-linux/"
+  },
+  {
+    "name": "automux",
+    "url": "https://github.com/sriramkandukuri/automux"
+  },
+  {
+    "name": "disconnected",
+    "url": "https://github.com/austinwilcox/disconnected"
+  },
+  {
+    "name": "dmux",
+    "url": "https://github.com/zdcthomas/dmux"
+  },
+  {
+    "name": "libtmux",
+    "url": "https://github.com/tmux-python/libtmux"
+  },
+  {
+    "name": "powerline",
+    "url": "https://github.com/powerline/powerline"
+  },
+  {
+    "name": "tmux-powerline",
+    "url": "https://github.com/erikw/tmux-powerline"
+  },
+  {
+    "name": "smug",
+    "url": "https://github.com/ivaaaan/smug"
+  },
+  {
+    "name": "t",
+    "url": "https://github.com/joshmedeski/t-smart-tmux-session-manager"
+  },
+  {
+    "name": "tat",
+    "url": "https://github.com/ryandotsmith/tat"
+  },
+  {
+    "name": "teamocil",
+    "url": "https://github.com/remi/teamocil"
+  },
+  {
+    "name": "tmex",
+    "url": "https://github.com/evnp/tmex"
+  },
+  {
+    "name": "tmux-cssh",
+    "url": "https://github.com/zinic/tmux-cssh"
+  },
+  {
+    "name": "tmux-conf",
+    "url": "https://github.com/jaclu/tmux-conf"
+  },
+  {
+    "name": "tmux-nav-master",
+    "url": "https://github.com/TheSast/tmux-nav-master"
+  },
+  {
+    "name": "tmux-project",
+    "url": "https://github.com/sei40kr/tmux-project"
+  },
+  {
+    "name": "tmux-suspend",
+    "url": "https://github.com/MunifTanjim/tmux-suspend"
+  },
+  {
+    "name": "tmux-up",
+    "url": "https://github.com/jamesottaway/tmux-up"
+  },
+  {
+    "name": "tmuxake",
+    "url": "https://github.com/nkh/tmuxake"
+  },
+  {
+    "name": "tmuxifier",
+    "url": "https://github.com/jimeh/tmuxifier"
+  },
+  {
+    "name": "tmuxinator",
+    "url": "https://github.com/tmuxinator/tmuxinator"
+  },
+  {
+    "name": "tmuxomatic",
+    "url": "https://github.com/oxidane/tmuxomatic"
+  },
+  {
+    "name": "tmuxp",
+    "url": "https://github.com/tmux-python/tmuxp"
+  },
+  {
+    "name": "tmuxpair",
+    "url": "https://github.com/goerz/tmuxpair"
+  },
+  {
+    "name": "twm",
+    "url": "https://github.com/vinnymeller/twm"
+  },
+  {
+    "name": "vim-tmux-navigator",
+    "url": "https://github.com/christoomey/vim-tmux-navigator"
+  },
+  {
+    "name": "xpanes",
+    "url": "https://github.com/greymd/tmux-xpanes"
+  },
+  {
+    "name": "catppuccin",
+    "url": "https://github.com/catppuccin/tmux"
+  },
+  {
+    "name": "dracula/tmux",
+    "url": "https://github.com/dracula/tmux"
+  },
+  {
+    "name": "nord tmux",
+    "url": "https://github.com/arcticicestudio/nord-tmux"
+  },
+  {
+    "name": "tmux-base16-statusline",
+    "url": "https://github.com/jatap/tmux-base16-statusline"
+  },
+  {
+    "name": "tmux-colors-solarized",
+    "url": "https://github.com/seebi/tmux-colors-solarized"
+  },
+  {
+    "name": "tmux-dark-notify",
+    "url": "https://github.com/erikw/tmux-dark-notify",
+    "description": "Make tmux's theme follow macOS dark/light mode."
+  },
+  {
+    "name": "tmux-gruvbox",
+    "url": "https://github.com/egel/tmux-gruvbox"
+  },
+  {
+    "name": "tmux-nova",
+    "url": "https://github.com/o0th/tmux-nova"
+  },
+  {
+    "name": "tmux-power",
+    "url": "https://github.com/wfxr/tmux-power"
+  },
+  {
+    "name": "tmux-snazzy",
+    "url": "https://github.com/ivnvxd/tmux-snazzy"
+  },
+  {
+    "name": "tmux-themepack",
+    "url": "https://github.com/jimeh/tmux-themepack"
+  },
+  {
+    "name": "tmux-tokyo-night",
+    "url": "https://github.com/fabioluciano/tmux-tokyo-night"
+  },
+  {
+    "name": "tokyo-night-tmux",
+    "url": "https://github.com/janoamaral/tokyo-night-tmux"
+  },
+  {
+    "name": "tomorrow",
+    "url": "https://github.com/edouard-lopez/tmux-tomorrow/"
+  },
+  {
+    "name": "aws-tmux",
+    "url": "https://github.com/darko-mesaros/aws-tmux"
+  },
+  {
+    "name": "gitmux",
+    "url": "https://github.com/arl/gitmux"
+  },
+  {
+    "name": "tmux-battery",
+    "url": "https://github.com/tmux-plugins/tmux-battery"
+  },
+  {
+    "name": "tmux-clima",
+    "url": "https://github.com/vascomfnunes/tmux-clima"
+  },
+  {
+    "name": "tmux-colortag",
+    "url": "https://github.com/Determinant/tmux-colortag"
+  },
+  {
+    "name": "tmux-cpu-info",
+    "url": "https://github.com/jdxcode/tmux-cpu-info"
+  },
+  {
+    "name": "tmux-cpu",
+    "url": "https://github.com/tmux-plugins/tmux-cpu"
+  },
+  {
+    "name": "tmux-df",
+    "url": "https://github.com/tassaron/tmux-df",
+    "description": "Show available disk space (output of df command)"
+  },
+  {
+    "name": "tmux-kripto",
+    "url": "https://github.com/vascomfnunes/tmux-kripto"
+  },
+  {
+    "name": "tmux-maildir-counter",
+    "url": "https://github.com/tmux-plugins/tmux-maildir-counter"
+  },
+  {
+    "name": "tmux-mem-cpu-load",
+    "url": "https://github.com/thewtex/tmux-mem-cpu-load"
+  },
+  {
+    "name": "tmux-mode-indicator",
+    "url": "https://github.com/MunifTanjim/tmux-mode-indicator"
+  },
+  {
+    "name": "tmux-mpv-info",
+    "url": "https://github.com/Feqzz/tmux-mpv-info"
+  },
+  {
+    "name": "tmux-mullvad",
+    "url": "https://github.com/jaclu/tmux-mullvad",
+    "description": "Keep track of Mullvad VPN status."
+  },
+  {
+    "name": "tmux-ludanta",
+    "url": "https://github.com/vascomfnunes/tmux-ludanta",
+    "description": "What's playing"
+  },
+  {
+    "name": "tmux-nerd-font-window-name",
+    "url": "https://github.com/joshmedeski/tmux-nerd-font-window-name"
+  },
+  {
+    "name": "tmux-network-bandwidth",
+    "url": "https://github.com/xamut/tmux-network-bandwidth"
+  },
+  {
+    "name": "tmux-nordvpn",
+    "url": "https://github.com/maxrodrigo/tmux-nordvpn"
+  },
+  {
+    "name": "tmux-online-status",
+    "url": "https://github.com/tmux-plugins/tmux-online-status"
+  },
+  {
+    "name": "tmux-packet-loss",
+    "url": "https://github.com/jaclu/tmux-packet-loss",
+    "description": "Displays packet loss % if at or above the specified threshold level"
+  },
+  {
+    "name": "tmux-piavpn",
+    "url": "https://github.com/Brutuski/tmux-piavpn"
+  },
+  {
+    "name": "tmux-plugin-playerctl",
+    "url": "https://github.com/richin13/tmux-plugin-playerctl"
+  },
+  {
+    "name": "tmux-pomodoro-plus",
+    "url": "https://github.com/olimorris/tmux-pomodoro-plus"
+  },
+  {
+    "name": "tmux-prefix-highlight",
+    "url": "https://github.com/tmux-plugins/tmux-prefix-highlight"
+  },
+  {
+    "name": "tmux-split-statusbar",
+    "url": "https://github.com/charlietag/tmux-split-statusbar",
+    "description": "window + left/right status"
+  },
+  {
+    "name": "tmux-spotify-info",
+    "url": "https://github.com/jdxcode/tmux-spotify-info"
+  },
+  {
+    "name": "tmux-spotify-info",
+    "url": "https://github.com/Feqzz/tmux-spotify-info"
+  },
+  {
+    "name": "tmux-transient-status",
+    "url": "https://github.com/TheSast/tmux-transient-status"
+  },
+  {
+    "name": "tmux-weather",
+    "url": "https://github.com/jdxcode/tmux-weather"
+  },
+  {
+    "name": "tmux-weather",
+    "url": "https://github.com/xamut/tmux-weather"
+  },
+  {
+    "name": "tmux-window-name",
+    "url": "https://github.com/ofirgall/tmux-window-name"
+  },
+  {
+    "name": "tmux-weather-info-yr",
+    "url": "https://github.com/Feqzz/tmux-weather-info-yr"
+  },
+  {
+    "name": "tmux-world-clock",
+    "url": "https://github.com/alexanderjeurissen/tmux-world-clock"
+  },
+  {
+    "name": "tmux2html",
+    "url": "https://github.com/tweekmonster/tmux2html"
+  },
+  {
+    "name": "tmux-better-mouse-mode",
+    "url": "https://github.com/NHDaly/tmux-better-mouse-mode"
+  },
+  {
+    "name": "extrakto",
+    "url": "https://github.com/laktak/extrakto"
+  },
+  {
+    "name": "muxile",
+    "url": "https://github.com/bjesus/muxile",
+    "description": "View and control your tmux session from your mobile."
+  },
+  {
+    "name": "tmux-autoreload",
+    "url": "https://github.com/b0o/tmux-autoreload",
+    "description": "Watches your tmux configuration file and automatically reloads it on change."
+  },
+  {
+    "name": "tmux-bitwarden",
+    "url": "https://github.com/Alkindi42/tmux-bitwarden"
+  },
+  {
+    "name": "tmux-browser",
+    "url": "https://github.com/ofirgall/tmux-browser"
+  },
+  {
+    "name": "tmux-cht-sh",
+    "url": "https://github.com/kenos1/tmux-cht-sh"
+  },
+  {
+    "name": "tmux-copytk",
+    "url": "https://github.com/CrispyConductor/tmux-copy-toolkit",
+    "description": "Multi utility rapid copy toolkit."
+  },
+  {
+    "name": "tmux-easy-motion",
+    "url": "https://github.com/IngoMeyer441/tmux-easy-motion"
+  },
+  {
+    "name": "tmux-fingers",
+    "url": "https://github.com/Morantron/tmux-fingers"
+  },
+  {
+    "name": "tmux-fuzzback",
+    "url": "https://github.com/roosta/tmux-fuzzback"
+  },
+  {
+    "name": "tmux-fzf-url",
+    "url": "https://github.com/wfxr/tmux-fzf-url"
+  },
+  {
+    "name": "tmux-fzf-session-switch",
+    "url": "https://github.com/thuanOwa/tmux-fzf-session-switch"
+  },
+  {
+    "name": "tmux-keylocker",
+    "url": "https://github.com/TheSast/tmux-keylocker"
+  },
+  {
+    "name": "tmux-menus",
+    "url": "https://github.com/jaclu/tmux-menus",
+    "description": "Popup menus to help with managing your environment."
+  },
+  {
+    "name": "tmux-modal",
+    "url": "https://github.com/whame/tmux-modal",
+    "description": "Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable."
+  },
+  {
+    "name": "tmux-mouse-swipe",
+    "url": "https://github.com/jaclu/tmux-mouse-swipe",
+    "description": "Switch Window or Session by clicking right mouse button and swiping."
+  },
+  {
+    "name": "tmux-notify",
+    "url": "https://github.com/rickstaa/tmux-notify"
+  },
+  {
+    "name": "tmux-open-nvim",
+    "url": "https://github.com/trevarj/tmux-open-nvim",
+    "description": "A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open."
+  },
+  {
+    "name": "tmux-thumbs",
+    "url": "https://github.com/fcsonline/tmux-thumbs"
+  },
+  {
+    "name": "tmux-1password",
+    "url": "https://github.com/yardnsm/tmux-1password"
+  },
+  {
+    "name": "tmux-jump",
+    "url": "https://github.com/schasse/tmux-jump"
+  },
+  {
+    "name": "tmux-power-zoom",
+    "url": "https://github.com/jaclu/tmux-power-zoom"
+  },
+  {
+    "name": "tmux-session-wizard",
+    "url": "https://github.com/27medkamal/tmux-session-wizard"
+  },
+  {
+    "name": "tmux-simple-git-status",
+    "url": "https://github.com/kristijanhusak/tmux-simple-git-status"
+  },
+  {
+    "name": "tmux-spotify",
+    "url": "https://github.com/xamut/tmux-spotify"
+  },
+  {
+    "name": "tmux-super-fingers",
+    "url": "https://github.com/artemave/tmux_super_fingers"
+  },
+  {
+    "name": "tmux-tilish",
+    "url": "https://github.com/jabirali/tmux-tilish"
+  },
+  {
+    "name": "tmux-wormhole",
+    "url": "https://github.com/gcla/tmux-wormhole"
+  },
+  {
+    "name": "tmux-pianobar",
+    "url": "https://github.com/GoHarder/tmux-pianobar"
+  },
+  {
+    "name": "tmux-plugins",
+    "url": "https://github.com/tmux-plugins"
+  },
+  {
+    "name": "tmux-continuum",
+    "url": "https://github.com/tmux-plugins/tmux-continuum"
+  },
+  {
+    "name": "tmux-copycat",
+    "url": "https://github.com/tmux-plugins/tmux-copycat"
+  },
+  {
+    "name": "tmux-fpp",
+    "url": "https://github.com/tmux-plugins/tmux-fpp"
+  },
+  {
+    "name": "tmux-logging",
+    "url": "https://github.com/tmux-plugins/tmux-logging"
+  },
+  {
+    "name": "tmux-open",
+    "url": "https://github.com/tmux-plugins/tmux-open"
+  },
+  {
+    "name": "tmux-pain-control",
+    "url": "https://github.com/tmux-plugins/tmux-pain-control"
+  },
+  {
+    "name": "tmux-resurrect",
+    "url": "https://github.com/tmux-plugins/tmux-resurrect"
+  },
+  {
+    "name": "tmux-sessionist",
+    "url": "https://github.com/tmux-plugins/tmux-sessionist"
+  },
+  {
+    "name": "tmux-sidebar",
+    "url": "https://github.com/tmux-plugins/tmux-sidebar"
+  },
+  {
+    "name": "tmux-tpm",
+    "url": "https://github.com/tmux-plugins/tpm"
+  },
+  {
+    "name": "tmux-urlview",
+    "url": "https://github.com/tmux-plugins/tmux-urlview"
+  },
+  {
+    "name": "tmux-yank",
+    "url": "https://github.com/tmux-plugins/tmux-yank"
+  },
+  {
+    "name": "tmux-example-plugin",
+    "url": "https://github.com/tmux-plugins/tmux-example-plugin"
+  },
+  {
+    "name": "tmux-test",
+    "url": "https://github.com/tmux-plugins/tmux-test"
+  },
+  {
+    "name": "tmux 2: Productive Mouse-Free Development",
+    "url": "https://pragprog.com/book/bhtmux2/tmux-2/"
+  },
+  {
+    "name": "The Tao of tmux",
+    "url": "https://leanpub.com/the-tao-of-tmux"
+  },
+  {
+    "name": "sixel-tmux",
+    "url": "https://github.com/csdvrx/sixel-tmux"
+  },
+  {
+    "name": "Statically linked tmux",
+    "url": "https://gist.github.com/rothgar/719ef460efc214c8d222"
+  },
+  {
+    "name": "sublime-tmux",
+    "url": "https://github.com/huntie/sublime-tmux"
+  },
+  {
+    "name": "vim-tmux",
+    "url": "https://github.com/tmux-plugins/vim-tmux"
+  },
+  {
+    "name": "tmux-tail-f",
+    "url": "https://github.com/mapio/tmux-tail-f"
+  }
+]
