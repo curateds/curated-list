@@ -91,7 +91,7 @@ export async function queryRepositories(
       }
       description
       createdAt
-      updatedAt
+      pushedAt
     }`
   const url = "https://api.github.com/graphql"
   const response = await fetch(url, {
