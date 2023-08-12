@@ -6,7 +6,7 @@ export default function extractLinks(content: string) {
   const $ = cheerio.load(content)
   const listItem = $("li")
   const all: Link[] = []
-  listItem.each((_: any, element: any) => {
+  listItem.each((_: number, element: cheerio.Element) => {
     const link = $(element).children().attr("href")
     if (link && !link.startsWith("#")) {
       // get project name and desc.
