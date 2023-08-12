@@ -4,9 +4,9 @@ import { decode, encode } from "./encoding.ts"
 const apiPrefix = `https://api.github.com`
 
 async function requireGithubToken(): Promise<string> {
-  const env = await dotenv.load()
+  await dotenv.load({ export: true })
 
-  const githubToken = env["GITHUB_TOKEN"]
+  const githubToken = Deno.env.get("GITHUB_TOKEN")
   if (!githubToken) {
     throw new Error("GITHUB_TOKEN is not set")
   }
