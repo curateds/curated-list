@@ -111,9 +111,9 @@ async function main() {
 
 function currentDate(): string {
   const date = new Date()
-  return `${date.getUTCFullYear()}-${
+  return `${date.getUTCFullYear()}/${
     date.getUTCMonth() + 1
-  }-${date.getUTCDate()}`
+  }/${date.getUTCDate()}`
 }
 
 if (import.meta.main) {
