@@ -51,8 +51,11 @@ export type Repository = {
 type Owner = {
   login: string
   __typename: string
+  databaseId?: number
   email?: string
   name?: string
+  avatarUrl?: string
+  bio?: string
 }
 
 export type QueryResult = Record<string, Repository>

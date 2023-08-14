@@ -1,6 +1,6 @@
 import * as Github from "../github.ts"
 import { retry } from "../../deps.ts"
-import readConfig from "../config.ts"
+import readConfig, { FileName } from "../config.ts"
 
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
 if (import.meta.main) {
@@ -23,7 +23,7 @@ async function synchronizeSources(
     { delay: 1000 },
   )
   const text = JSON.stringify(repositories, null, 2)
-  const file = `${prefix}/repositories.json`
+  const file = `${prefix}/${FileName.repository}`
   await Deno.mkdir(prefix, { recursive: true })
   await Deno.writeTextFile(file, text)
   return file

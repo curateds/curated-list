@@ -1,5 +1,6 @@
 import { Link } from "../extract-links.ts"
 import * as Github from "../github.ts"
+import { backupFile, currentDate, readJson } from "../util.ts"
 import { directory, synchronizeRepo } from "./update-lists.ts"
 import updateSources from "./update-sources.ts"
 import { equal } from "std/assert/equal.ts"
@@ -70,16 +71,6 @@ async function fileDiff(x: string, y: string) {
   return objectDiff(xJson, yJson)
 }
 
-async function readJson(file: string) {
-  const content = await Deno.readTextFile(file)
-  return JSON.parse(content)
-}
-
-async function backupFile(file: string, oldFile: string) {
-  await Deno.copyFile(file, oldFile)
-  console.log(`Backup file ${file} to ${oldFile}`)
-}
-
 async function main() {
   const current = `data/repositories.json`
   const tmp = await Deno.makeTempDir()
@@ -90,12 +81,13 @@ async function main() {
 
   const tmpListDir = `${tmp}/list`
   await Deno.mkdir(tmpListDir, { recursive: true })
-  for (const [key, value] of Object.entries(diff)) {
-    const name = Github.nameOfRepo(key)
+  for (const [_, value] of Object.entries(diff)) {
+    const repo = value as Github.Repository
+    const name = Github.nameOfRepo(repo.nameWithOwner)
     const file = `${directory}/${name}.json`
     const oldFile = `${tmpListDir}/${name}.json`
-    await backupFile(file, oldFile)
-    const links = await synchronizeRepo(key, directory)
+    await backupFile(file, oldFile) // todo: handle old file not exists
+    const links = await synchronizeRepo(repo, directory)
     const oldLinks = await readJson(oldFile) as Link[]
     const linkChanges = linksDiff(oldLinks, links)
     const object = value as Diff
@@ -107,13 +99,6 @@ async function main() {
   await Deno.mkdir(path, { recursive: true })
   await Deno.writeTextFile(`${path}/changes.json`, result)
   console.log(`Diff written to directory ${path}`)
-}
-
-function currentDate(): string {
-  const date = new Date()
-  return `${date.getUTCFullYear()}/${
-    date.getUTCMonth() + 1
-  }/${date.getUTCDate()}`
 }
 
 if (import.meta.main) {

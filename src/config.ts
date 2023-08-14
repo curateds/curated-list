@@ -9,3 +9,7 @@ export default async function readConfig(): Promise<Config> {
   const config = yaml.parse(configText) as Config
   return config
 }
+
+export const FileName = {
+  repository: "repositories.json",
+}
