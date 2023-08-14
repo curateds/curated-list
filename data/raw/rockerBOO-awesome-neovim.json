@@ -60,6 +60,11 @@
     "description": "The plugin shows a lightbulb in the sign column whenever a textDocument/codeAction is available at the current cursor position."
   },
   {
+    "name": "roobert/action-hints.nvim",
+    "url": "https://github.com/roobert/action-hints.nvim",
+    "description": "Show information about the word under the cursor in the statusline or as virtual text."
+  },
+  {
     "name": "onsails/lspkind.nvim",
     "url": "https://github.com/onsails/lspkind.nvim",
     "description": "The plugin adds vscode-like icons to Neovim LSP completions."
@@ -178,6 +183,11 @@
     "name": "amrbashir/nvim-docs-view",
     "url": "https://github.com/amrbashir/nvim-docs-view",
     "description": "Display LSP hover documentation in a side panel."
+  },
+  {
+    "name": "roobert/hoversplit.nvim",
+    "url": "https://github.com/roobert/hoversplit.nvim",
+    "description": "Automatically updated documentation and information about code symbols in a split window."
   },
   {
     "name": "mfussenegger/nvim-jdtls",
@@ -355,6 +365,11 @@
     "description": "Tiny plugin to quickly switch Python virtual environments without restarting."
   },
   {
+    "name": "roobert/f-string-toggle.nvim",
+    "url": "https://github.com/roobert/f-string-toggle.nvim",
+    "description": "Toggle python f-strings."
+  },
+  {
     "name": "gennaro-tedesco/nvim-jqx",
     "url": "https://github.com/gennaro-tedesco/nvim-jqx",
     "description": "Interactive interface for JSON files."
@@ -423,6 +438,11 @@
     "name": "ray-x/web-tools.nvim",
     "url": "https://github.com/ray-x/web-tools.nvim",
     "description": "Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP."
+  },
+  {
+    "name": "roobert/tailwindcss-colorizer-cmp.nvim",
+    "url": "https://github.com/roobert/tailwindcss-colorizer-cmp.nvim",
+    "description": "Add vscode-style TailwindCSS completion to nvim-cmp."
   },
   {
     "name": "ellisonleao/glow.nvim",
@@ -533,6 +553,11 @@
     "name": "kylechui/nvim-surround",
     "url": "https://github.com/kylechui/nvim-surround",
     "description": "A plugin for adding/changing/deleting surrounding delimiter pairs."
+  },
+  {
+    "name": "roobert/surround-ui.nvim",
+    "url": "https://github.com/roobert/surround-ui.nvim",
+    "description": "Helper or training aid for kylechui/nvim-surround."
   },
   {
     "name": "echasnovski/mini.nvim#mini.surround",
@@ -662,7 +687,7 @@
   {
     "name": "roobert/search-replace.nvim",
     "url": "https://github.com/roobert/search-replace.nvim",
-    "description": "Brings better features to the native search and replace experience."
+    "description": "Builds on the native search and replace experience."
   },
   {
     "name": "AckslD/muren.nvim",
@@ -1628,6 +1653,11 @@
     "name": "nanozuki/tabby.nvim",
     "url": "https://github.com/nanozuki/tabby.nvim",
     "description": "A minimal, configurable, Neovim style tabline. Use your Neovim tabs as workspace multiplexer."
+  },
+  {
+    "name": "roobert/bufferline-cycle-windowless.nvim",
+    "url": "https://github.com/roobert/bufferline-cycle-windowless.nvim",
+    "description": "A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience."
   },
   {
     "name": "yamatsum/nvim-cursorline",
@@ -2638,6 +2668,11 @@
     "name": "abecodes/tabout.nvim",
     "url": "https://github.com/abecodes/tabout.nvim",
     "description": "Jump out of brackets, quotes, objects, etc."
+  },
+  {
+    "name": "roobert/tabtree.nvim",
+    "url": "https://github.com/roobert/tabtree.nvim",
+    "description": "Jump between significant code elements, such as brackets, quotes, etc."
   },
   {
     "name": "linty-org/readline.nvim",

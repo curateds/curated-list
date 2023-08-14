@@ -572,8 +572,8 @@
     "description": "Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks."
   },
   {
-    "name": "Parity Signer",
-    "url": "https://www.parity.io/signer/",
+    "name": "Polkadot Vault",
+    "url": "https://signer.parity.io/",
     "description": "Upcycle an unused mobile phone into an air-gapped hardware wallet."
   },
   {
@@ -705,6 +705,11 @@
     "name": "Subsocial SDK Playground",
     "url": "https://play.subsocial.network",
     "description": "Subsocial JS SDK Playground allows you to fetch spaces, send transactions on blockchain and test the SDK code snippets on the go without the need to download or setup anything locally."
+  },
+  {
+    "name": "Uptest Runtime upgrade tool",
+    "url": "https://github.com/uptest-sc/uptest",
+    "description": "Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades."
   },
   {
     "name": "OnFinality",
