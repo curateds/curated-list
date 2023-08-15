@@ -2700,6 +2700,11 @@
     "description": "Fuzzy String Matching in Python."
   },
   {
+    "name": "Neofuzz",
+    "url": "https://github.com/x-tabdeveloping/neofuzz",
+    "description": "Blazing fast, lightweight and customizable fuzzy and semantic text search in Python with fuzzywuzzy/thefuzz compatible API."
+  },
+  {
     "name": "jellyfish",
     "url": "https://github.com/jamesturk/jellyfish",
     "description": "a python library for doing approximate and phonetic matching of strings."
@@ -2996,6 +3001,16 @@
     "name": "gensim",
     "url": "https://github.com/RaRe-Technologies/gensim",
     "description": "Topic Modelling for Humans."
+  },
+  {
+    "name": "tweetopic",
+    "url": "https://centre-for-humanities-computing.github.io/tweetopic/",
+    "description": "Blazing fast short-text-topic-modelling for Python."
+  },
+  {
+    "name": "topicwizard",
+    "url": "https://github.com/x-tabdeveloping/topic-wizard",
+    "description": "Interactive topic model visualization/interpretation framework."
   },
   {
     "name": "topik",
@@ -5262,6 +5277,11 @@
     "name": "layer",
     "url": "https://github.com/cloudkj/layer",
     "description": "Neural network inference from the command line"
+  },
+  {
+    "name": "Synthical",
+    "url": "https://synthical.com",
+    "description": "AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights."
   },
   {
     "name": "Humanloop",

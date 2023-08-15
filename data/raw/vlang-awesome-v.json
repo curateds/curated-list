@@ -360,6 +360,11 @@
     "description": "Memcached client for V, written in V."
   },
   {
+    "name": "vredis",
+    "url": "https://github.com/xiusin/vredis",
+    "description": "A simple, user-friendly, and comprehensive Redis client."
+  },
+  {
     "name": "vsql",
     "url": "https://github.com/lydiandy/vsql",
     "description": "A sql query builder for V."

@@ -385,6 +385,11 @@
     "description": "Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list."
   },
   {
+    "name": "chuwy/ucm.nvim",
+    "url": "https://github.com/chuwy/ucm.nvim",
+    "description": "Navigating Unison projects."
+  },
+  {
     "name": "ray-x/go.nvim",
     "url": "https://github.com/ray-x/go.nvim",
     "description": "Golang plugin based on lsp and Treesitter."
