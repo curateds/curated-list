@@ -86,9 +86,9 @@ async function main() {
     const name = Github.nameOfRepo(repo.nameWithOwner)
     const file = `${directory}/${name}.json`
     const oldFile = `${tmpListDir}/${name}.json`
-    await backupFile(file, oldFile) // todo: handle old file not exists
+    await backupFile(file, oldFile)
     const links = await synchronizeRepo(repo, directory)
-    const oldLinks = await readJson(oldFile) as Link[]
+    const oldLinks = await readJson(oldFile, []) as Link[]
     const linkChanges = linksDiff(oldLinks, links)
     const object = value as Diff
     object.items = linkChanges
