@@ -476,6 +476,10 @@
     "url": "https://golang.org/pkg/go/ast"
   },
   {
+    "name": "goast",
+    "url": "https://github.com/m-mizutani/goast"
+  },
+  {
     "name": "gochecknoglobals",
     "url": "https://github.com/leighmcculloch/gochecknoglobals"
   },
@@ -1181,6 +1185,10 @@
   {
     "name": "flake8",
     "url": "https://github.com/PyCQA/flake8"
+  },
+  {
+    "name": "flakeheaven",
+    "url": "https://pypi.org/project/flakeheaven/"
   },
   {
     "name": "InspectorTiger",
@@ -2009,6 +2017,10 @@
     "url": "https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer"
   },
   {
+    "name": "oxc",
+    "url": "https://github.com/web-infra-dev/oxc"
+  },
+  {
     "name": "parasoft",
     "url": "https://www.parasoft.com/"
   },
@@ -2763,12 +2775,20 @@
     "url": "https://remark.js.org"
   },
   {
+    "name": "textlint",
+    "url": "https://textlint.github.io/"
+  },
+  {
     "name": "ciocheck",
     "url": "https://github.com/ContinuumIO/ciocheck"
   },
   {
     "name": "flake8",
     "url": "https://github.com/PyCQA/flake8"
+  },
+  {
+    "name": "flakeheaven",
+    "url": "https://pypi.org/project/flakeheaven/"
   },
   {
     "name": "Go Meta Linter",

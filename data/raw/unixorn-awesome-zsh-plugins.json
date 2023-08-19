@@ -476,7 +476,7 @@
   },
   {
     "name": "ask",
-    "url": "https://github.com/Michaelwmx/zsh-ask",
+    "url": "https://github.com/Licheam/zsh-ask",
     "description": "Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only cURL and jq."
   },
   {
@@ -2315,6 +2315,11 @@
     "name": "kubectl",
     "url": "https://github.com/mattbangert/kubectl-zsh-plugin",
     "description": "ZSH plugin for managing kubectl."
+  },
+  {
+    "name": "kubectlenv",
+    "url": "https://github.com/rafalmasiarek/oh-my-zsh-kubectlenv-plugin",
+    "description": "Easily switch between multiple kubectl versions."
   },
   {
     "name": "kubectx (ptavares)",
@@ -5792,11 +5797,6 @@
     "name": "aws",
     "url": "https://github.com/chiemerieezechukwu/aws-zsh-theme",
     "description": "Based on robbyrussell, with an extra decorator to show your $AWS_PROFILE when it is set."
-  },
-  {
-    "name": "backbone",
-    "url": "https://github.com/lmllrjr/backbone-zsh-prompt",
-    "description": "Bare minimum single file prompt, fast as the roadrunner. Includes decorators for current directory, git, hg, mq and quilt information."
   },
   {
     "name": "banana",

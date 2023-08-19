@@ -1795,6 +1795,11 @@
     "description": "Image preview based on terminal's Image Protocol support."
   },
   {
+    "name": "niuiic/code-shot.nvim",
+    "url": "https://github.com/niuiic/code-shot.nvim",
+    "description": "Take a picture of the code."
+  },
+  {
     "name": "0styx0/abbreinder.nvim",
     "url": "https://github.com/0styx0/abbreinder.nvim",
     "description": "Abbreviation reminders (Neovim >= 0.5)."
@@ -2605,6 +2610,11 @@
     "description": "Generate sharable file permalinks (with line ranges) for git host websites, a fork of \"ruifm's gitlinker\", refactored with pattern based rule engine, windows support and other enhancements."
   },
   {
+    "name": "9seconds/repolink.nvim",
+    "url": "https://github.com/9seconds/repolink.nvim",
+    "description": "Generate shareable HTTP permalinks for various Git web frontends."
+  },
+  {
     "name": "pwntester/octo.nvim",
     "url": "https://github.com/pwntester/octo.nvim",
     "description": "Work with GitHub issues and PRs from Neovim. Just edit the issue description."
@@ -3003,6 +3013,11 @@
     "name": "gbprod/substitute.nvim",
     "url": "https://github.com/gbprod/substitute.nvim",
     "description": "Neovim plugin introducing a new operator motions to quickly replace and exchange text."
+  },
+  {
+    "name": "echasnovski/mini.nvim#mini.operators",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md",
+    "description": "Module of mini.nvim with various text edit operators: replace, exchange, multiply, sort, evaluate."
   },
   {
     "name": "gbprod/yanky.nvim",

@@ -245,6 +245,11 @@
     "description": "Multi-purpose tracker (Android)."
   },
   {
+    "name": "BiomarkerDash",
+    "url": "https://github.com/NoTranslationLayer/biomarkerdash",
+    "description": "Simple dashboard to visualize trends in bloodwork biomarkers."
+  },
+  {
     "name": "Tasker",
     "url": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en",
     "description": "Automation and event triggering app (Android)."
@@ -883,5 +888,15 @@
     "name": "health-records",
     "url": "https://github.com/pacogomez/health-records",
     "description": "A tool for managing personal health records using plain text."
+  },
+  {
+    "name": "Timeliner",
+    "url": "https://github.com/mholt/timeliner",
+    "description": "A data aggregation and and timeline visualization tool."
+  },
+  {
+    "name": "TimelineBuilder",
+    "url": "https://github.com/facebookresearch/personal-timeline",
+    "description": "A data aggregation and and timeline visualization tool by Facebook."
   }
 ]

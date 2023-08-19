@@ -3464,6 +3464,11 @@
     "description": "Functional Experiment in Go."
   },
   {
+    "name": "go-functional",
+    "url": "https://github.com/BooleanCat/go-functional",
+    "description": "Functional programming in Go using generics"
+  },
+  {
     "name": "go-underscore",
     "url": "https://github.com/tobyhede/go-underscore",
     "description": "Useful collection of helpfully functional Go collection utilities."
@@ -7110,7 +7115,7 @@
   {
     "name": "gograph",
     "url": "https://github.com/hmdsefi/gograph",
-    "description": " A golang generic graph library that provides mathematical graph-theory and algorithms."
+    "description": "A golang generic graph library that provides mathematical graph-theory and algorithms."
   },
   {
     "name": "gohistogram",
@@ -9348,6 +9353,11 @@
     "description": "Go package for working with Problem Details."
   },
   {
+    "name": "go-qr",
+    "url": "https://github.com/piglig/go-qr",
+    "description": "A native, high-quality and minimalistic QR code generator."
+  },
+  {
     "name": "go-rate",
     "url": "https://github.com/beefsack/go-rate",
     "description": "Timed rate limiter for Go."
@@ -9911,6 +9921,11 @@
     "name": "xferspdy",
     "url": "https://github.com/monmohan/xferspdy",
     "description": "Xferspdy provides binary diff and patch library in golang."
+  },
+  {
+    "name": "yogo",
+    "url": "https://github.com/antham/yogo",
+    "description": "Check yopmail mails from command line."
   },
   {
     "name": "goid",
@@ -11387,6 +11402,11 @@
     "description": "Container Cluster Manager from Google."
   },
   {
+    "name": "kubeshark",
+    "url": "https://github.com/kubeshark/kubeshark",
+    "description": "API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes."
+  },
+  {
     "name": "KubeVela",
     "url": "https://github.com/kubevela/kubevela",
     "description": "Cloud native application delivery."
@@ -11415,11 +11435,6 @@
     "name": "Mantil",
     "url": "https://github.com/mantil-io/mantil",
     "description": "Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure."
-  },
-  {
-    "name": "Mizu",
-    "url": "https://github.com/up9inc/mizu",
-    "description": "API traffic viewer for Kubernetes enabling you to view all API communication between microservices, multiprotocol support: HTTP1.1, HTTP/2, AMQP, Kafka, Redis."
   },
   {
     "name": "Moby",

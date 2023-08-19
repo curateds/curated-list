@@ -120,6 +120,11 @@
     "description": "Data consumption based on tariff for Vodafone DE."
   },
   {
+    "name": "scriptable_premiumsim",
+    "url": "https://github.com/BergenSoft/scriptable_premiumsim",
+    "description": "Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM)."
+  },
+  {
     "name": "sonos-nowPlaying.js",
     "url": "https://gist.github.com/marco79cgn/98616fcbb2dfdbd752b33a452208bcc8",
     "description": "Now playing on Sonos."

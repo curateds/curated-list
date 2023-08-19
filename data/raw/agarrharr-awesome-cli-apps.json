@@ -80,6 +80,11 @@
     "description": "deezer.com player."
   },
   {
+    "name": "radio-active",
+    "url": "https://github.com/deep5050/radio-active",
+    "description": "Internet radio player with 40k+ stations."
+  },
+  {
     "name": "facebook-cli",
     "url": "https://github.com/specious/facebook-cli",
     "description": "Facebook command line interface."
@@ -605,6 +610,11 @@
     "description": "Scientific bibliography manager."
   },
   {
+    "name": "fjira",
+    "url": "https://github.com/mk-5/fjira",
+    "description": "Fuzzy finder and TUI application for Jira."
+  },
+  {
     "name": "Timetrap",
     "url": "https://github.com/samg/timetrap",
     "description": "Simple timetracker."
@@ -697,7 +707,12 @@
   {
     "name": "ledger",
     "url": "https://ledger-cli.org/",
-    "description": "Powerful, double-entry accounting system on the terminal"
+    "description": "Powerful, double-entry accounting system."
+  },
+  {
+    "name": "hledger",
+    "url": "https://hledger.org/",
+    "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces."
   },
   {
     "name": "moeda",
@@ -807,7 +822,7 @@
   {
     "name": "clevercli",
     "url": "https://github.com/clevercli/clevercli",
-    "description": "Collection of ChatGTP powered utilities."
+    "description": "Collection of ChatGPT powered utilities."
   },
   {
     "name": "open-pip-cli",

@@ -1414,6 +1414,24 @@
     "description": "GraphQL shard."
   },
   {
+    "name": "graphql",
+    "url": "https://github.com/ballerina-platform/module-ballerina-graphql",
+    "description": "Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions."
+  },
+  {
+    "name": "graphql CLI",
+    "url": "https://github.com/ballerina-platform/graphql-tools",
+    "description": "A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents."
+  },
+  {
+    "name": "Ballerina GraphQL Examples",
+    "url": "https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples"
+  },
+  {
+    "name": "Convert Weather REST API to GraphQL API",
+    "url": "https://github.com/ThisaruGuruge/weather-rest-api-to-graphql"
+  },
+  {
     "name": "GraphiQL",
     "url": "https://github.com/graphql/graphiql",
     "description": "An in-browser IDE for exploring GraphQL."
@@ -2129,6 +2147,10 @@
   {
     "name": "Undocumented: keeping parts of your GraphQL schema hidden from introspection",
     "url": "https://www.useanvil.com/blog/engineering/undocumented-directive/"
+  },
+  {
+    "name": "GraphQL Subscriptions with Apache Kafka in Ballerina",
+    "url": "https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd"
   },
   {
     "name": "How to GraphQL",

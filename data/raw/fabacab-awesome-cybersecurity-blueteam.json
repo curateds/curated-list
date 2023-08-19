@@ -710,6 +710,11 @@
     "description": "Ubuntu-based Open Virtual Appliance (.ova) preconfigured with several threat emulation tools as well as a defender's toolkit."
   },
   {
+    "name": "Stratus Red Team",
+    "url": "https://stratus-red-team.cloud/",
+    "description": "Emulate offensive attack techniques in a granular and self-contained manner against a cloud environment; think \"Atomic Red Team™ for the cloud.\""
+  },
+  {
     "name": "tcpreplay",
     "url": "https://tcpreplay.appneta.com/",
     "description": "Suite of free Open Source utilities for editing and replaying previously captured network traffic originally designed to replay malicious traffic patterns to Intrusion Detection/Prevention Systems."
