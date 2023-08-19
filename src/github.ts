@@ -45,7 +45,8 @@ export type Repository = {
   description: string
   owner: Owner
   createdAt: string
-  updatedAt: string
+  pushedAt: string
+  stargazerCount: number
 }
 
 type Owner = {
@@ -95,6 +96,7 @@ export async function queryRepositories(
       description
       createdAt
       pushedAt
+      stargazerCount
     }`
   const url = "https://api.github.com/graphql"
   const response = await fetch(url, {
