@@ -4,7 +4,7 @@ export type Link = { name: string; url: string; description?: string }
 
 export default function extractLinks(content: string) {
   const $ = cheerio.load(content)
-  const listItem = $("li")
+  const listItem = $("li, h2, h3, h4")
   const all: Link[] = []
   listItem.each((_: number, element: cheerio.Element) => {
     const anchor = $(element).find("a").first()
