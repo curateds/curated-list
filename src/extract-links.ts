@@ -7,18 +7,27 @@ export default function extractLinks(content: string) {
   const listItem = $("li, h2, h3, h4")
   const all: Link[] = []
   listItem.each((_: number, element: cheerio.Element) => {
-    const anchor = $(element).find("a").first()
-    const link = anchor.attr("href")
-    if (link && link.includes("//")) {
+    const anchor = $(element).find("a").filter((_, anchor) => {
+      const link = $(anchor).attr("href")
+      return !!link && link.includes("//")
+    })
+    if (anchor.length > 0) {
+      const link = anchor.first()
       // get project name and desc.
-      const splited = $(element).text().split(/\s-\s(.+)?/)
+      const description = extractDescription($(element).text())
       const item = {
-        name: anchor.text(),
-        url: link,
-        description: splited[1], // todo: handle if desc is empty
+        name: link.text(),
+        url: link.attr("href")!,
+        description: description,
       }
       all.push(item)
     }
   })
   return all
+}
+
+export function extractDescription(text: string) {
+  const splited = text.split(/\s-\s(.+)?/)
+  const description = splited[1]
+  return description?.trim()
 }

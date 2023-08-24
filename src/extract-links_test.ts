@@ -1,5 +1,6 @@
 import { assert, assertEquals } from "std/testing/asserts.ts"
-import extractLinks from "./extract-links.ts"
+import extractLinks, { extractDescription } from "./extract-links.ts"
+import { cheerio } from "../deps.ts"
 
 Deno.test("should extract <li> links", () => {
   const text = `
@@ -23,6 +24,7 @@ Deno.test("should extract <h2> <h3> <h4> links", () => {
     <a href="https://deno.land">Deno website</a>
   </h3>
   <h4 dir="auto">
+  <a href="#cover">Book Cover Image</a>
   <a href="https://www.golang-book.com/" rel="nofollow">An Introduction to Programming in Go</a> <em>Free</em>
   </h4>
   `
@@ -40,4 +42,19 @@ Deno.test("should not extract local links", () => {
   const links = extractLinks(text)
 
   assertEquals(links.length, 0)
+})
+
+Deno.test("should extract description", () => {
+  const html = `
+  <li><a href="https://github.com/crypto101/book">Crypto 101</a> (<a href="https://www.crypto101.io/" rel="nofollow">Site</a>, cc-nc) - the introductory book on cryptography</li>`
+  const text = cheerio.load(html)("li").text()
+  const description = extractDescription(text)
+  assertEquals(description, "the introductory book on cryptography")
+})
+
+Deno.test("should only extract name from the first link", () => {
+  const html = `
+  <li><a href="https://github.com/crypto101/book">Crypto 101</a> (<a href="https://www.crypto101.io/" rel="nofollow">Site</a>, cc-nc) - the introductory book on cryptography</li>`
+  const link = extractLinks(html)[0]
+  assertEquals(link.name, "Crypto 101")
 })
