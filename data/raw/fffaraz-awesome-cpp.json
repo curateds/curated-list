@@ -1984,6 +1984,11 @@
     "description": "Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. [MIT] website"
   },
   {
+    "name": "micro-gl",
+    "url": "https://github.com/micro-gl/micro-gl",
+    "description": "Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. [CUSTOM] website"
+  },
+  {
     "name": "NanoVG",
     "url": "https://github.com/memononen/nanovg",
     "description": "Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. [Zlib]"

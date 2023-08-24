@@ -3561,6 +3561,14 @@
     "url": "https://github.com/serverlesstechnology/cqrs"
   },
   {
+    "name": "aya/aya-rs",
+    "url": "https://github.com/aya-rs/aya"
+  },
+  {
+    "name": "libbpf/libbpf-rs",
+    "url": "https://github.com/libbpf/libbpf-rs"
+  },
+  {
     "name": "gsquire/sendgrid-rs",
     "url": "https://github.com/gsquire/sendgrid-rs"
   },
@@ -3605,6 +3613,10 @@
     "name": "stalwartlabs/mail-send",
     "url": "https://github.com/stalwartlabs/mail-send",
     "description": "E-mail builder and SMTP client library with DKIM support "
+  },
+  {
+    "name": "tweedegolf/mailcrab",
+    "url": "https://github.com/tweedegolf/mailcrab"
   },
   {
     "name": "alex/rust-asn1",
@@ -5439,6 +5451,10 @@
   {
     "name": "Idiomatic Rust",
     "url": "https://github.com/mre/idiomatic-rust"
+  },
+  {
+    "name": "Learn Rust by 500 lines code",
+    "url": "https://github.com/cuppar/rtd"
   },
   {
     "name": "Learning Rust With Entirely Too Many Linked Lists",

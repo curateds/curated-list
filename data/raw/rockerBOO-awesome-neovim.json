@@ -340,6 +340,11 @@
     "description": "Effortless Natural Language Generation with OpenAI's ChatGPT API."
   },
   {
+    "name": "CamdenClark/flyboy",
+    "url": "https://github.com/CamdenClark/flyboy",
+    "description": "Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."
@@ -983,6 +988,11 @@
     "name": "Mofiqul/vscode.nvim",
     "url": "https://github.com/Mofiqul/vscode.nvim",
     "description": "A Lua port of vim-code-dark colorscheme with vscode light and dark theme."
+  },
+  {
+    "name": "askfiy/visual_studio_code",
+    "url": "https://github.com/askfiy/visual_studio_code",
+    "description": "A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode."
   },
   {
     "name": "marko-cerovac/material.nvim",
@@ -1663,6 +1673,11 @@
     "name": "roobert/bufferline-cycle-windowless.nvim",
     "url": "https://github.com/roobert/bufferline-cycle-windowless.nvim",
     "description": "A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience."
+  },
+  {
+    "name": "mg979/tabline.nvim",
+    "url": "https://github.com/mg979/tabline.nvim",
+    "description": "A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management."
   },
   {
     "name": "yamatsum/nvim-cursorline",
@@ -3198,6 +3213,11 @@
     "name": "LucasTavaresA/SingleComment.nvim",
     "url": "https://github.com/LucasTavaresA/SingleComment.nvim",
     "description": "Always single line, comment sensitive, indentation preserving commenting."
+  },
+  {
+    "name": "Zeioth/dooku.nvim",
+    "url": "https://github.com/Zeioth/dooku.nvim",
+    "description": "Generate and open your HTML code documentation."
   },
   {
     "name": "gpanders/editorconfig.nvim",

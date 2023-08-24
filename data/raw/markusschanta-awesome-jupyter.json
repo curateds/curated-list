@@ -515,6 +515,11 @@
     "description": "Extension for Google Drive integration."
   },
   {
+    "name": "jupyter-ai",
+    "url": "https://github.com/jupyterlab/jupyter-ai",
+    "description": "Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab."
+  },
+  {
     "name": "jupyter-fs",
     "url": "https://github.com/jpmorganchase/jupyter-fs",
     "description": "A filesystem-like content manager for multiple backends in Jupyter."

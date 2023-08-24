@@ -392,6 +392,11 @@
     "description": "A small library to make your Deno benchmarking progress and results look pretty."
   },
   {
+    "name": "qunitx",
+    "url": "https://github.com/izelnakri/qunitx",
+    "description": "Zero dependency, fully customizable, mature, universal test API that can run interchangably in node.js, Deno & browser, using default runtime test runners."
+  },
+  {
     "name": "rhum",
     "url": "https://github.com/drashland/rhum",
     "description": "A lightweight testing framework for Deno."
@@ -1130,6 +1135,11 @@
     "name": "ghosind/dvm",
     "url": "https://github.com/ghosind/dvm",
     "description": "A lightweight Deno Version Manager for Linux/MacOS."
+  },
+  {
+    "name": "entype",
+    "url": "https://github.com/bcheidemann/entype",
+    "description": "A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript."
   },
   {
     "name": "kopo-cli",

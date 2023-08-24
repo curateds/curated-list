@@ -340,6 +340,11 @@
     "description": "Plugin for skipping the node part of the ace command."
   },
   {
+    "name": "airpods-battery",
+    "url": "https://github.com/A-delta/zsh-airpods-battery/",
+    "description": "Looks for AirPods via Bluetooth and puts their battery charge state into $RPROMPT."
+  },
+  {
     "name": "alacritty",
     "url": "https://github.com/casonadams/alacritty-shell",
     "description": "Control alacritty color schemes."
@@ -2775,11 +2780,6 @@
     "name": "oh-my-matrix",
     "url": "https://github.com/amstrad/oh-my-matrix",
     "description": "Turn your terminal into the matrix."
-  },
-  {
-    "name": "oh-my-tmux-manager",
-    "url": "omt-manager",
-    "description": "Lets you easily manage your tmux configurations."
   },
   {
     "name": "omz-full-autoupdate",

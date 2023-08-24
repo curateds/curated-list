@@ -2745,6 +2745,11 @@
     "description": "A plug for automatically sending timing and count metrics to statsd."
   },
   {
+    "name": "pluggable",
+    "url": "https://github.com/mruoss/pluggable",
+    "description": "Build plug-like pipelines with your own token (instead of %Plug.Conn{})."
+  },
+  {
     "name": "plugs",
     "url": "https://github.com/sugar-framework/plugs",
     "description": "Collection of Plug middleware for web applications."
@@ -7473,6 +7478,11 @@
     "name": "Elixir Functional Programming",
     "url": "https://github.com/kblake/functional-programming",
     "description": "Material to introduce functional programming using the Elixir language."
+  },
+  {
+    "name": "Elixir Refactorings",
+    "url": "https://github.com/lucasvegi/Elixir-Refactorings",
+    "description": "A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir."
   },
   {
     "name": "Elixir School",

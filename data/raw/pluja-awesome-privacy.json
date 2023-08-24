@@ -4,11 +4,6 @@
     "url": "https://tosdr.org/en/service/217"
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted)."
-  },
-  {
     "name": "ente Auth",
     "url": "https://ente.io/auth",
     "description": "A free, cross platform, end-to-end encrypted and open source app for managing your 2-step verification tokens. From the makers of ente Photos, and uses the same battle tested infrastructure. Needs an ente.io account."
@@ -19,19 +14,9 @@
     "description": "Free and Open Source Two-Factor Authenticator for IOS users."
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator."
-  },
-  {
     "name": "RaivoOTP",
     "url": "https://github.com/raivo-otp/",
     "description": "A native, lightweight and secure one-time-password (OTP) solution for iOS users."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Two-Factor Authentication (2FA) client for Android + Wear OS."
   },
   {
     "name": "Matomo",
@@ -674,16 +659,6 @@
     "description": "Secure sharing of secrets, passwords and files."
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "A privacy oriented fitness tracker for Android."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "OpenTracks is a sport tracking application that completely respects your privacy."
-  },
-  {
     "name": "wger",
     "url": "https://wger.de/en/software/features",
     "description": "A free, open source, self-hosted web application that manages your exercises, workouts and nutrition."
@@ -701,16 +676,6 @@
   {
     "name": "OFF Apps",
     "url": "https://world.openfoodfacts.org/open-food-facts-mobile-app"
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Menstrual cycle and fertility tracking. Everything you enter stays on your device."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "a (very) simple no-frills period tracker for Android."
   },
   {
     "name": "Fasten",
@@ -864,11 +829,6 @@
     "description": "The universal and open messaging standard. Tried and tested. Independent. Privacy-focused. E2E encrypted."
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience."
-  },
-  {
     "name": "AstraChat",
     "url": "https://astrachat.com/",
     "description": "Another XMPP client."
@@ -902,11 +862,6 @@
     "name": "Signal",
     "url": "https://signal.org/",
     "description": "Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Signal-compatible fork client with some security enhancements."
   },
   {
     "name": "Tox",
@@ -1027,16 +982,6 @@
     "description": "Modern full-featured open source secure mail server for low-maintenance self-hosted email."
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Fully featured, open source, privacy friendly email app for Android."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Open Source Email App for Android."
-  },
-  {
     "name": "Thunderbird",
     "url": "https://www.thunderbird.net",
     "description": "A free customizable open source email client."
@@ -1150,16 +1095,6 @@
     "description": "Lightweight, fast and self-contained personal music streamer."
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "A Music Player App made with Flutter"
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "A music player for local files with unique custom playback options."
-  },
-  {
     "name": "Jetispot",
     "url": "https://github.com/iTaysonLab/jetispot",
     "description": "Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose"
@@ -1183,11 +1118,6 @@
     "name": "ncspot*",
     "url": "https://github.com/hrkfdn/ncspot",
     "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç"
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Open source Spotify client, works without premium."
   },
   {
     "name": "Beatbump",
@@ -1879,7 +1809,7 @@
   {
     "name": "Brave Search",
     "url": "https://search.brave.com",
-    "description": "A privacy respecting search engine with its own index, which for the most part doesn't rely on search engines like Google or Bing, but falls back on them if not enough results are found."
+    "description": "A privacy respecting search engine with its own independent index."
   },
   {
     "name": "Farside",
@@ -1957,11 +1887,6 @@
     "description": "An alternative privacy-friendly YouTube frontend which is efficient by design."
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "An alternative frontend for YouTube, for Android using Piped."
-  },
-  {
     "name": "ViewTube",
     "url": "https://github.com/viewtube/viewtube-vue",
     "description": "ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js"
@@ -1972,19 +1897,9 @@
     "description": "browser-based client for watching Youtube anonymously and with greater page performance."
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Alternative Android YouTube app. No account needed, privacy respecting, no ads."
-  },
-  {
     "name": "NewPipe x Sponsorblock",
     "url": "https://github.com/polymorphicshade/NewPipe",
     "description": "NewPipe fork that incorporates Sponsorblock."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Alternative Android YouTube app. No account needed, privacy respecting, no ads."
   },
   {
     "name": "FreeTube",
@@ -1992,18 +1907,9 @@
     "description": "FreeTube is an open source desktop YouTube player built with privacy in mind. (Uses Local RSS API or Invidious for backend)."
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "An alternative frontend for YouTube, for Android using Piped."
-  },
-  {
     "name": "Yattee",
     "url": "https://github.com/yattee/yattee",
     "description": "Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png"
   },
   {
     "name": "ProxiTok",
@@ -2039,11 +1945,6 @@
     "name": "Soapbox",
     "url": "https://gitlab.com/soapbox-pub/soapbox-fe",
     "description": "A frontend for Pleroma with a focus on custom branding and ease of use."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Android client for Pleroma and Mastodon."
   },
   {
     "name": "Nitter",
@@ -2104,21 +2005,6 @@
     "name": "Teddit",
     "url": "https://teddit.net/",
     "description": "Alternative Reddit front-end focused on privacy"
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "A beautiful Reddit client for Android."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "A gesture driven, open source reddit client for android"
-  },
-  {
-    "name": "",
-    "url": "misc/apple.png",
-    "description": "Slide is an open sourced, ad free Reddit browser for Android and iOS."
   },
   {
     "name": "Owncast",
@@ -2389,11 +2275,6 @@
   },
   {
     "name": "",
-    "url": "misc/android.png",
-    "description": "A modification for the Android Discord app that fully disables the Discord Tracking."
-  },
-  {
-    "name": "",
     "url": "https://tosdr.org/en/service/417"
   },
   {
@@ -2471,20 +2352,6 @@
     "description": "Android/iOS"
   },
   {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Privacy hardened fork of Firefox for Android, with proprietary blobs removed."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Privacy and security enhanced releases of Chromium by GrapheneOS."
-  },
-  {
-    "name": "",
-    "url": "misc/android.png"
-  },
-  {
     "name": "Tor Browser",
     "url": "https://www.torproject.org/",
     "description": "iOS/Android. Defend yourself against tracking and surveillance and circumvent censorship."
@@ -2541,11 +2408,6 @@
     "name": "xBrowserSync",
     "url": "https://www.xbrowsersync.org/",
     "description": "Browser syncing as it should be: secure, anonymous and free!"
-  },
-  {
-    "name": "",
-    "url": "misc/android.png",
-    "description": "Bromite WebView is a version of Android System WebView with support for ad blocking and enhanced privacy."
   },
   {
     "name": "WebView Switcher",

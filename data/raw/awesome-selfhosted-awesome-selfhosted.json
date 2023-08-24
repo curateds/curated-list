@@ -32,7 +32,7 @@
   {
     "name": "Fathom Lite",
     "url": "https://github.com/usefathom/fathom",
-    "description": "A simple and privacy-focused web analytics alternative to Google Analytics. MIT Go/Docker"
+    "description": "A simple and privacy-focused web analytics (alternative to Google Analytics). MIT Go/Docker"
   },
   {
     "name": "GoAccess",
@@ -57,7 +57,7 @@
   {
     "name": "Mixpost",
     "url": "https://mixpost.app/",
-    "description": "Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place. Alternative to Hootsuite, Buffer, and other social media tools. (Source Code) MIT PHP/Docker"
+    "description": "Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). (Source Code) MIT PHP/Docker"
   },
   {
     "name": "Netron",
@@ -87,7 +87,7 @@
   {
     "name": "PostHog",
     "url": "https://posthog.com",
-    "description": "Product analytics, session recording, feature flagging and a/b testing that you can self-host. Alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely. (Source Code) MIT Python"
+    "description": "Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). (Source Code) MIT Python"
   },
   {
     "name": "Redash",
@@ -97,7 +97,7 @@
   {
     "name": "RudderStack",
     "url": "https://rudderstack.com/",
-    "description": "Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools. alternative to Segment. (Source Code) AGPL-3.0 Docker/K8S/Go/Nodejs"
+    "description": "Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools (alternative to Segment). (Source Code) AGPL-3.0 Docker/K8S/Go/Nodejs"
   },
   {
     "name": "Shynet",
@@ -185,11 +185,6 @@
     "description": "Automatically generate multiple natural language descriptions of your data varying in wording and structure. Apache-2.0 Java"
   },
   {
-    "name": "Actionsflow",
-    "url": "https://actionsflow.github.io/docs/",
-    "description": "The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. (Source Code) MIT Docker/Nodejs"
-  },
-  {
     "name": "Activepieces",
     "url": "https://www.activepieces.com",
     "description": "No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. (Source Code) MIT Typescript"
@@ -212,7 +207,7 @@
   {
     "name": "Automatisch",
     "url": "https://automatisch.io",
-    "description": "Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). (Source Code) AGPL-3.0 Docker"
+    "description": "Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). (Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "betanin",
@@ -297,7 +292,7 @@
   {
     "name": "Matchering",
     "url": "https://github.com/sergree/matchering",
-    "description": "A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. GPL-3.0 Docker"
+    "description": "A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). GPL-3.0 Docker"
   },
   {
     "name": "Medusa",
@@ -605,11 +600,6 @@
     "description": "Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. (Source Code) GPL-3.0 PHP"
   },
   {
-    "name": "Bloben",
-    "url": "https://bloben.com",
-    "description": "CalDAV web client. (Demo, Source Code) AGPL-3.0 Docker"
-  },
-  {
     "name": "EteSync Web",
     "url": "https://www.etesync.com/faq/#web-client",
     "description": "EteSync's official Web-based client (i.e., their Web app). (Demo, Source Code) AGPL-3.0 Javascript"
@@ -637,7 +627,7 @@
   {
     "name": "Chatwoot",
     "url": "https://www.chatwoot.com",
-    "description": "Self-hosted customer communication platform, an alternative to Intercom & Zendesk. (Source Code) MIT Ruby/Docker/K8S"
+    "description": "Self-hosted customer communication platform (alternative to Intercom & Zendesk). (Source Code) MIT Ruby/Docker/K8S"
   },
   {
     "name": "Chitchatter",
@@ -692,7 +682,7 @@
   {
     "name": "Jam",
     "url": "https://jamshelf.com/",
-    "description": "Jam is an open source alternative to Clubhouse: private audio chat rooms to talk to friends and family. (Demo, Source Code) AGPL-3.0 Docker/Nodejs"
+    "description": "Private audio chat rooms to talk to friends and family (alternative to Clubhouse). (Demo, Source Code) AGPL-3.0 Docker/Nodejs"
   },
   {
     "name": "Jami",
@@ -717,7 +707,7 @@
   {
     "name": "Mattermost",
     "url": "https://mattermost.org/",
-    "description": "Open-source, on-prem Slack-alternative. It can be integrated with Gitlab. (Source Code) AGPL-3.0/Apache-2.0 Go/Docker/K8S"
+    "description": "Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack). (Source Code) AGPL-3.0/Apache-2.0 Go/Docker/K8S"
   },
   {
     "name": "MiAOU",
@@ -767,7 +757,7 @@
   {
     "name": "Rallly",
     "url": "https://rallly.co",
-    "description": "Rallly is an open-source alternative to Doodle that lets you create polls to vote on dates and times. (Source Code) AGPL-3.0 Nodejs"
+    "description": "Create polls to vote on dates and times (alternative to Doodle). (Source Code) AGPL-3.0 Nodejs"
   },
   {
     "name": "RetroShare",
@@ -785,14 +775,14 @@
     "description": "Teamchat solution similar to Gitter.im or Slack. (Source Code) MIT Nodejs/Docker/K8S"
   },
   {
-    "name": "Screensy",
-    "url": "https://github.com/screensy/screensy",
-    "description": "Simple peer-to-peer screen sharing solution for sharing your screen with WebRTC. (Demo) GPL-3.0 Nodejs/Docker"
-  },
-  {
     "name": "Screego",
     "url": "https://screego.net",
     "description": "Screego is a simple tool to quickly share your screen to one or multiple people via web browser. (Demo, Source Code) GPL-3.0 Docker/Go"
+  },
+  {
+    "name": "Screensy",
+    "url": "https://github.com/screensy/screensy",
+    "description": "Simple peer-to-peer screen sharing solution for sharing your screen with WebRTC. (Demo) GPL-3.0 Nodejs/Docker"
   },
   {
     "name": "Shhh",
@@ -807,7 +797,7 @@
   {
     "name": "Soketi",
     "url": "https://soketi.app/",
-    "description": "Soketi is a free, open-source Pusher drop-in alternative. (Source Code) MIT Nodejs/Docker/K8S"
+    "description": "Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). (Source Code) MIT Nodejs/Docker/K8S"
   },
   {
     "name": "Spectrum 2",
@@ -842,7 +832,7 @@
   {
     "name": "Tiledesk",
     "url": "https://tiledesk.com",
-    "description": "All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots. Self hosted alternative to Intercom, Zendesk, Tawk.to and Tidio. (Source Code) MIT Docker/K8S"
+    "description": "All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots (alternative to Intercom, Zendesk, Tawk.to and Tidio). (Source Code) MIT Docker/K8S"
   },
   {
     "name": "Tinode",
@@ -857,7 +847,7 @@
   {
     "name": "Typebot",
     "url": "https://typebot.io",
-    "description": "Typebot is a conversational app builder as an alternative to Typeform or Landbot. (Source Code) AGPL-3.0 Docker"
+    "description": "Conversational app builder (alternative to Typeform or Landbot). (Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "WBO",
@@ -972,7 +962,7 @@
   {
     "name": "MailForm",
     "url": "https://github.com/Feuerhamster/mailform",
-    "description": "Lightweight self-hosted open source alternative to Formspree and SendGrid. Apache-2.0 Nodejs/Docker"
+    "description": "Lightweight self-hosted email service for contact forms and more (alternative to Formspree and SendGrid). Apache-2.0 Nodejs/Docker"
   },
   {
     "name": "Piler",
@@ -1077,7 +1067,7 @@
   {
     "name": "Keila",
     "url": "https://www.keila.io",
-    "description": "Self-hosted reliable and easy-to-use newsletter tool. Alternative to proprietary services like Mailchimp or Sendinblue. (Demo, Source Code) AGPL-3.0 Docker"
+    "description": "Self-hosted reliable and easy-to-use newsletter tool (alternative to Mailchimp or Sendinblue). (Demo, Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "Listmonk",
@@ -1407,7 +1397,7 @@
   {
     "name": "Lemmy",
     "url": "https://join-lemmy.org/",
-    "description": "A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust. (Source Code) AGPL-3.0 Docker/Rust"
+    "description": "A link aggregator / reddit clone for the fediverse (alternative to Reddit). (Source Code) AGPL-3.0 Docker/Rust"
   },
   {
     "name": "Libreddit",
@@ -1422,7 +1412,7 @@
   {
     "name": "Mastodon",
     "url": "https://joinmastodon.org/",
-    "description": "Federated microblogging server, an alternative to GNU social. (Source Code) AGPL-3.0 Ruby"
+    "description": "Federated microblogging server. (Source Code) AGPL-3.0 Ruby"
   },
   {
     "name": "Misago",
@@ -1942,7 +1932,7 @@
   {
     "name": "Baserow",
     "url": "https://baserow.io/",
-    "description": "Open source online database tool and Airtable alternative. Create your own database without technical experience. (Source Code) MIT Docker"
+    "description": "Create your own database without technical experience (alternative to Airtable). (Source Code) MIT Docker"
   },
   {
     "name": "Bytebase",
@@ -1997,7 +1987,7 @@
   {
     "name": "NocoDB",
     "url": "https://www.nocodb.com/",
-    "description": "No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. (Source Code) GPL-3.0 Nodejs/Docker"
+    "description": "No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet). (Source Code) GPL-3.0 Nodejs/Docker"
   },
   {
     "name": "AdGuard Home",
@@ -2362,7 +2352,7 @@
   {
     "name": "RSS Monster",
     "url": "https://github.com/pietheinstrengholt/rssmonster",
-    "description": "RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. MIT PHP"
+    "description": "An easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). MIT PHP"
   },
   {
     "name": "RSS2EMail",
@@ -2836,7 +2826,7 @@
   },
   {
     "name": "Kubek",
-    "url": "https://kubek.seeroycloud.tk",
+    "url": "https://kubek.seeroy.ru",
     "description": "Web management panel for Minecraft servers. (Source Code) GPL-3.0 Nodejs"
   },
   {
@@ -2873,6 +2863,11 @@
     "name": "SourceBans++",
     "url": "https://sbpp.github.io/",
     "description": "Admin, ban, and communication management system for games running on the Source engine. (Source Code) CC-BY-SA-4.0 PHP"
+  },
+  {
+    "name": "Sunshine",
+    "url": "https://app.lizardbyte.dev/Sunshine/",
+    "description": "Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. (Source Code) GPL-3.0 C++"
   },
   {
     "name": "Genea.app",
@@ -3290,11 +3285,6 @@
     "description": "Modern, web-based, convivial, multi-user and free music server. BSD-3-Clause Python/Django"
   },
   {
-    "name": "GNU FM",
-    "url": "https://gnu.io/fm/",
-    "description": "Running music community websites, alternative to last.fm. (Source Code) AGPL-3.0 PHP"
-  },
-  {
     "name": "gonic",
     "url": "https://github.com/sentriz/gonic",
     "description": "Lightweight music streaming server. Subsonic compatible. GPL-3.0 Go"
@@ -3317,7 +3307,7 @@
   {
     "name": "Maloja",
     "url": "https://github.com/krateng/maloja",
-    "description": "Self-hosted music scrobble database, alternative to Last.fm. (Demo) GPL-3.0 Python/Docker"
+    "description": "Self-hosted music scrobble database (alternative to Last.fm). (Demo) GPL-3.0 Python/Docker"
   },
   {
     "name": "moOde Audio",
@@ -3437,7 +3427,7 @@
   {
     "name": "NymphCast",
     "url": "http://nyanko.ws/nymphcast.php",
-    "description": "NymphCast is a Chromecast alternative which turns your choice of Linux-capable hardware into an audio and video source for a television or powered speakers. (Source Code) BSD-3-Clause C++"
+    "description": "Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). (Source Code) BSD-3-Clause C++"
   },
   {
     "name": "Podify",
@@ -3497,7 +3487,7 @@
   {
     "name": "Invidious",
     "url": "https://github.com/iv-org/invidious",
-    "description": "Invidious is an alternative front-end to YouTube. (Demo) AGPL-3.0 Crystal"
+    "description": "Alternative YouTube front-end. (Demo) AGPL-3.0 Crystal"
   },
   {
     "name": "Kerberos.io",
@@ -3527,7 +3517,7 @@
   {
     "name": "Open Streaming Platform",
     "url": "https://openstreamingplatform.com",
-    "description": "Self-Hosted alternative to Twitch and Youtube Live for live and on-demand video streaming. (Source Code) MIT Python"
+    "description": "Live and on-demand video streaming (alternative to Twitch and Youtube Live). (Source Code) MIT Python"
   },
   {
     "name": "OvenMediaEngine",
@@ -3675,14 +3665,19 @@
     "description": "Server tools for maintaining an F-Droid repository system. (Source Code) AGPL-3.0 Python/Docker"
   },
   {
+    "name": "Fasten Health",
+    "url": "https://github.com/fastenhealth/fasten-onprem/",
+    "description": "Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. GPL-3.0 Go/Docker"
+  },
+  {
     "name": "Flagsmith",
     "url": "https://flagsmith.com",
-    "description": "Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications. Alternative to LaunchDarkly. (Source Code) BSD-3-Clause Docker"
+    "description": "Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). (Source Code) BSD-3-Clause Docker"
   },
   {
     "name": "GO Feature Flag",
     "url": "https://gofeatureflag.org",
-    "description": "Simple, complete, and lightweight feature flag solution. Alternative to LaunchDarkly. (Source Code) MIT Go"
+    "description": "Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). (Source Code) MIT Go"
   },
   {
     "name": "google-webfonts-helper",
@@ -3802,7 +3797,7 @@
   {
     "name": "Octave Online",
     "url": "https://octave-online.net/",
-    "description": "Infrastracture behind a web UI for GNU Octave, the libre alternative to MATLAB. (Source Code) AGPL-3.0 Docker/Nodejs"
+    "description": "Infrastracture behind a web UI for GNU Octave (alternative to MATLAB). (Source Code) AGPL-3.0 Docker/Nodejs"
   },
   {
     "name": "Ombi",
@@ -3930,14 +3925,14 @@
     "description": "Open source software for your weather station. (Demo, Source Code) GPL-3.0 Python"
   },
   {
-    "name": "wger",
-    "url": "https://wger.de/",
-    "description": "Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. (Demo, Source Code) AGPL-3.0 Python"
-  },
-  {
     "name": "WeTTY",
     "url": "https://butlerx.github.io/wetty/#/",
     "description": "Terminal in browser over http/https. (Source Code) MIT Docker/Nodejs"
+  },
+  {
+    "name": "wger",
+    "url": "https://wger.de/",
+    "description": "Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. (Demo, Source Code) AGPL-3.0 Python"
   },
   {
     "name": "Actual",
@@ -3968,11 +3963,6 @@
     "name": "Budget Zen",
     "url": "https://budgetzen.net",
     "description": "End-to-end encrypted and simple expense manager. (Demo, Source Code) AGPL-3.0 Deno"
-  },
-  {
-    "name": "budgetzero",
-    "url": "https://github.com/budgetzero/budgetzero",
-    "description": "Free, self-hosted, open-source, envelope-budgeting web and desktop app. (Demo) AGPL-3.0 Nodejs"
   },
   {
     "name": "Crater",
@@ -4127,7 +4117,7 @@
   {
     "name": "Joplin",
     "url": "https://joplinapp.org/",
-    "description": "Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. (Source Code) MIT Nodejs"
+    "description": "Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). (Source Code) MIT Nodejs"
   },
   {
     "name": "kiwix-serve",
@@ -4237,7 +4227,7 @@
   {
     "name": "Grist",
     "url": "https://getgrist.com/",
-    "description": "Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format. Alternative to Airtable. (Demo, Source Code) Apache-2.0 Nodejs/Python"
+    "description": "Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable). (Demo, Source Code) Apache-2.0 Nodejs/Python"
   },
   {
     "name": "Infinoted",
@@ -4340,11 +4330,6 @@
     "description": "Self-hosted Github Gist clone. (Demo) MIT Nodejs"
   },
   {
-    "name": "EdPaste",
-    "url": "https://github.com/ptnr/EdPaste",
-    "description": "Self-hosted pastebin written in Laravel (PHP Framework). MIT PHP"
-  },
-  {
     "name": "ExBin",
     "url": "https://github.com/m1dnight/exbin",
     "description": "A pastebin with public/private snippets and netcat server. MIT Elixir"
@@ -4370,9 +4355,14 @@
     "description": "A place to quickly paste some text and share it. Mostly used for sharing debug logs and such to help developers provide tech support. The project aims to be both fast and minimal. (Source Code) AGPL-3.0 Docker/Python"
   },
   {
+    "name": "Hemmelig",
+    "url": "https://hemmelig.app",
+    "description": "Share encrypted secrets cross organizations, or as private persons. (Source Code) MIT Docker"
+  },
+  {
     "name": "Lenpaste",
     "url": "https://git.lcomrade.su/root/lenpaste",
-    "description": "Web service that allows you to share notes anonymously, an alternative to pastebin. (Demo) AGPL-3.0 Docker/Go"
+    "description": "Web service that allows you to share notes anonymously. (Demo) AGPL-3.0 Docker/Go"
   },
   {
     "name": "LogPaste",
@@ -4537,12 +4527,12 @@
   {
     "name": "LinkStack",
     "url": "https://linkstack.org/",
-    "description": "Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LinkStack allows you to link all your social media platforms easily accessible on one page. (Demo, Source Code) AGPL-3.0 PHP"
+    "description": "Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). (Demo, Source Code) AGPL-3.0 PHP"
   },
   {
     "name": "LittleLink",
     "url": "https://github.com/sethcottle/littlelink/",
-    "description": "DIY Linktree alternative. A simplistic approach for links in bio with 100+ branded buttons. (Demo, Source Code) MIT HTML5"
+    "description": "A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). (Demo, Source Code) MIT HTML5"
   },
   {
     "name": "Organizr",
@@ -4612,7 +4602,7 @@
   {
     "name": "Mediagoblin",
     "url": "https://mediagoblin.org",
-    "description": "Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc. (Source Code) AGPL-3.0 Python"
+    "description": "Free software media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc). (Source Code) AGPL-3.0 Python"
   },
   {
     "name": "MediaHut",
@@ -4707,12 +4697,12 @@
   {
     "name": "Claper",
     "url": "https://claper.co/",
-    "description": "The ultimate tool to interact with your audience. An open-source alternative to Slido, AhaSlides and Mentimeter. (Source Code) GPL-3.0 Elixir/Docker"
+    "description": "The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter). (Source Code) GPL-3.0 Elixir/Docker"
   },
   {
     "name": "ClearFlask",
     "url": "https://clearflask.com",
-    "description": "Community-feedback tool for managing incoming feedback and prioritizing a public roadmap. Alternative to Canny, UserVoice, Upvoty. (Demo, Source Code) AGPL-3.0 Docker"
+    "description": "Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). (Demo, Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "docassemble",
@@ -4732,7 +4722,7 @@
   {
     "name": "Fider",
     "url": "https://fider.io",
-    "description": "Open source alternative to UserVoice for customer feedback. (Demo, Source Code) MIT Go"
+    "description": "Open platform to collect and prioritize feedback (alternative to UserVoice). (Demo, Source Code) MIT Go"
   },
   {
     "name": "Framadate",
@@ -4772,7 +4762,7 @@
   {
     "name": "OhMyForms",
     "url": "https://ohmyform.com/",
-    "description": "An open source alternative to TypeForm that can create stunning mobile-ready forms, surveys and questionnaires. (Source Code) AGPL-3.0 Docker"
+    "description": "Create stunning mobile-ready forms, surveys and questionnaires (alternative to TypeForm). (Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "Open Event Server",
@@ -4822,7 +4812,7 @@
   {
     "name": "sish",
     "url": "https://github.com/antoniomika/sish",
-    "description": "Open source serveo/ngrok alternative providing HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH. MIT Go"
+    "description": "HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). MIT Go"
   },
   {
     "name": "socks5-proxy-server",
@@ -4915,6 +4905,11 @@
     "description": "A full computer management website. With MeshCentral, you can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. (Source Code) Apache-2.0 Nodejs"
   },
   {
+    "name": "Remotely",
+    "url": "https://github.com/immense/Remotely",
+    "description": "A remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. GPL-3.0 C#/Docker"
+  },
+  {
     "name": "RPort",
     "url": "https://rport.io",
     "description": "Self-hosted open source remote management solution for Windows, macOS & Linux. (Source Code) MIT Go"
@@ -4922,12 +4917,7 @@
   {
     "name": "RustDesk",
     "url": "https://rustdesk.com/",
-    "description": "An open source TeamViewer alternative, works out of the box, no configuration required. (Source Code) AGPL-3.0 Rust/Docker"
-  },
-  {
-    "name": "Remotely",
-    "url": "https://github.com/immense/Remotely",
-    "description": "A remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. GPL-3.0 C#/Docker"
+    "description": "Remote Desktop Access software that works out-of-the-box (alternative to TeamViewer). (Source Code) AGPL-3.0 Rust/Docker"
   },
   {
     "name": "ShellHub",
@@ -5022,7 +5012,7 @@
   {
     "name": "Manticore Search",
     "url": "https://github.com/manticoresoftware/manticoresearch/",
-    "description": "Much faster alternative to Elasticsearch for full-text search and data analytics. Provides much lower response time for small, medium and big data. GPL-2.0 Docker/C++"
+    "description": "Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). GPL-2.0 Docker/C++"
   },
   {
     "name": "MeiliSearch",
@@ -5067,7 +5057,7 @@
   {
     "name": "ZincSearch",
     "url": "https://zincsearch.com",
-    "description": "A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (Demo, Source Code) Apache-2.0 Go"
+    "description": "Search engine that requires minimal resources (alternative to Elasticsearch). (Demo, Source Code) Apache-2.0 Go"
   },
   {
     "name": "Ansible-NAS",
@@ -5190,6 +5180,11 @@
     "description": "Open-source API management platform which helps to build and manage REST APIs. (Demo, Source Code) AGPL-3.0 PHP"
   },
   {
+    "name": "Graphweaver",
+    "url": "https://graphweaver.com/",
+    "description": "Turn multiple data sources into a single GraphQL API. (Source Code) MIT Nodejs"
+  },
+  {
     "name": "Hasura",
     "url": "https://hasura.io",
     "description": "Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. (Source Code) Apache-2.0 Haskell"
@@ -5247,7 +5242,7 @@
   {
     "name": "Dokku",
     "url": "https://dokku.com/",
-    "description": "An open source PAAS alternative to Heroku. (Source Code) MIT Docker/Shell/Go"
+    "description": "An open-source PaaS (alternative to Heroku). (Source Code) MIT Docker/Shell/Go"
   },
   {
     "name": "fx",
@@ -5267,7 +5262,7 @@
   {
     "name": "Nhost",
     "url": "https://nhost.io/",
-    "description": "The Open Source Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. (Source Code) MIT Docker/Nodejs/Go"
+    "description": "Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. (Source Code) MIT Docker/Nodejs/Go"
   },
   {
     "name": "OpenFaaS",
@@ -5377,7 +5372,7 @@
   {
     "name": "Budibase",
     "url": "https://www.budibase.com",
-    "description": "Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes. Budibase is the open source alternative to Outsystems, Retool, Mendix, Appian. (Source Code) GPL-3.0 Nodejs"
+    "description": "Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian). (Source Code) GPL-3.0 Nodejs"
   },
   {
     "name": "Hadmean",
@@ -5402,7 +5397,7 @@
   {
     "name": "ToolJet",
     "url": "https://tooljet.io/",
-    "description": "ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. (Source Code) GPL-3.0 Nodejs"
+    "description": "Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool & Mendix). (Source Code) GPL-3.0 Nodejs"
   },
   {
     "name": "Cgit",
@@ -5527,7 +5522,7 @@
   {
     "name": "Plane",
     "url": "https://plane.so",
-    "description": "Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (Demo, Source Code) Apache-2.0 Docker"
+    "description": "Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). (Demo, Source Code) Apache-2.0 Docker"
   },
   {
     "name": "ProjeQtOr",
@@ -5538,6 +5533,11 @@
     "name": "Redmine",
     "url": "https://www.redmine.org/",
     "description": "Redmine is a flexible project management web application. (Source Code) GPL-2.0 Ruby"
+  },
+  {
+    "name": "rgit",
+    "url": "https://github.com/w4/rgit",
+    "description": "An ultra-fast & lightweight cgit clone. (Demo) WTFPL Rust/Docker"
   },
   {
     "name": "RhodeCode",
@@ -5645,9 +5645,14 @@
     "description": "Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (Demo, Source Code) MPL-2.0 Rust/Docker"
   },
   {
+    "name": "AppFlowy",
+    "url": "https://appflowy.io/",
+    "description": "With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. (Source Code) AGPL-3.0 Rust/Dart/Docker"
+  },
+  {
     "name": "Focalboard",
     "url": "https://www.focalboard.com/",
-    "description": "An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. (Source Code, Clients) MIT/AGPL-3.0/Apache-2.0 Nodejs/Go"
+    "description": "Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana). (Source Code, Clients) MIT/AGPL-3.0/Apache-2.0 Nodejs/Go"
   },
   {
     "name": "Kanbana",
@@ -5682,7 +5687,7 @@
   {
     "name": "Planka",
     "url": "https://planka.app/",
-    "description": "Open source Trello alternative. (Demo, Source Code) AGPL-3.0 Nodejs"
+    "description": "Realtime kanban board for workgroups (alternative to Trello). (Demo, Source Code) AGPL-3.0 Nodejs"
   },
   {
     "name": "Restyaboard",
@@ -6229,10 +6234,6 @@
   {
     "name": "/c/selfhosted on lemmy.world",
     "url": "https://lemmy.world/c/selfhosted"
-  },
-  {
-    "name": "GitHub.com",
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
   },
   {
     "name": "theme.park",

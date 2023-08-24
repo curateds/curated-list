@@ -350,6 +350,11 @@
     "description": "RDP man-in-the-middle and library for Python 3 with the ability to watch connections live or after the fact."
   },
   {
+    "name": "rdppot",
+    "url": "https://github.com/kryptoslogic/rdppot",
+    "description": "RDP honeypot"
+  },
+  {
     "name": "RDPy",
     "url": "https://github.com/citronneur/rdpy",
     "description": "Microsoft Remote Desktop Protocol (RDP) honeypot implemented in Python."

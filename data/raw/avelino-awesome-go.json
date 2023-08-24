@@ -3319,6 +3319,11 @@
     "description": "Arbitrary-precision fixed-point decimal numbers."
   },
   {
+    "name": "decimal",
+    "url": "https://github.com/govalues/decimal",
+    "description": "Immutable decimal numbers with panic-free arithmetic."
+  },
+  {
     "name": "fpdecimal",
     "url": "https://github.com/nikolaydubina/fpdecimal",
     "description": "Fast and precise serialization and arithmetic for small fixed-point decimals"
@@ -3347,6 +3352,11 @@
     "name": "go-money",
     "url": "https://github.com/rhymond/go-money",
     "description": "Implementation of Fowler's Money pattern."
+  },
+  {
+    "name": "money",
+    "url": "https://github.com/govalues/money",
+    "description": "Immutable monetary amounts and exchange rates with panic-free arithmetic."
   },
   {
     "name": "ofxgo",
@@ -6968,6 +6978,11 @@
     "description": "Jsonpath queries with advanced filters."
   },
   {
+    "name": "mql",
+    "url": "https://github.com/hashicorp/mql",
+    "description": "Model Query Language (mql) is a query language for your database models."
+  },
+  {
     "name": "rql",
     "url": "https://github.com/a8m/rql",
     "description": "Resource Query Language for REST API."
@@ -9071,6 +9086,11 @@
     "name": "zooz",
     "url": "https://github.com/gojuno/go-zooz",
     "description": "Go client for the Zooz API."
+  },
+  {
+    "name": "air",
+    "url": "https://github.com/cosmtrek/air",
+    "description": "Air - Live reload for Go apps."
   },
   {
     "name": "apm",
