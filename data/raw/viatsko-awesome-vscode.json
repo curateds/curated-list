@@ -172,9 +172,49 @@
     "url": "https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir"
   },
   {
+    "name": "Migrating from Vim",
+    "url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"
+  },
+  {
+    "name": "Migrating from Atom",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings"
+  },
+  {
+    "name": "Migrating from Sublime Text",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings"
+  },
+  {
+    "name": "Migrating from Visual Studio",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings"
+  },
+  {
+    "name": "Migrating from Intellij IDEA",
+    "url": "https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings"
+  },
+  {
+    "name": "Camel Humps",
+    "url": "https://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html"
+  },
+  {
     "name": "1C/OScript",
     "url": "https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl",
     "description": "rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang"
+  },
+  {
+    "name": "AutoHotkey Plus",
+    "url": "https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus"
+  },
+  {
+    "name": "Bash IDE",
+    "url": "https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode"
+  },
+  {
+    "name": "Bash Debug",
+    "url": "https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug"
+  },
+  {
+    "name": "Shellman",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman"
   },
   {
     "name": "C/C++",
@@ -236,6 +276,14 @@
   {
     "name": ".NET Core Test Explorer",
     "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer"
+  },
+  {
+    "name": "Calva",
+    "url": "https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva"
+  },
+  {
+    "name": "CSS Peek",
+    "url": "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek"
   },
   {
     "name": "stylelint",
@@ -349,6 +397,10 @@
     "description": "Toolkit for Vue.js"
   },
   {
+    "name": "Debugger for Chrome",
+    "url": "https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome"
+  },
+  {
     "name": "Flow Language Support",
     "url": "https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode",
     "description": "provides all the functionality you would expect — linting, intellisense, type tooltips and click-to-definition"
@@ -362,6 +414,30 @@
     "name": "tslint (deprecated)",
     "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin",
     "description": "TSLint for Visual Studio Code."
+  },
+  {
+    "name": "Debugger for Chrome",
+    "url": "https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome"
+  },
+  {
+    "name": "MATLAB",
+    "url": "https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab"
+  },
+  {
+    "name": "markdownlint",
+    "url": "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint"
+  },
+  {
+    "name": "Markdown All in One",
+    "url": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one"
+  },
+  {
+    "name": "Markdown Emoji",
+    "url": "https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji"
+  },
+  {
+    "name": "PHP Tools",
+    "url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode"
   },
   {
     "name": "PHP Intelephense",
@@ -399,6 +475,10 @@
   {
     "name": "Twig Language 2",
     "url": "https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2"
+  },
+  {
+    "name": "Smarty Template Support",
+    "url": "https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support"
   },
   {
     "name": "Format HTML in PHP",
@@ -468,12 +548,536 @@
     "description": "Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform"
   },
   {
+    "name": "GitHub",
+    "url": "https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github"
+  },
+  {
+    "name": "GitHub Pull Requests and Issues",
+    "url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
+  },
+  {
+    "name": "GistPad",
+    "url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs"
+  },
+  {
+    "name": "GitHub Actions",
+    "url": "https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions"
+  },
+  {
+    "name": "GitHub Repositories",
+    "url": "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub"
+  },
+  {
+    "name": "GitHub Pull Request Monitor",
+    "url": "https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor"
+  },
+  {
+    "name": "ARM Template Viewer",
+    "url": "https://marketplace.visualstudio.com/items?itemName=bencoleman.armview"
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb"
+  },
+  {
+    "name": "Azure IoT Toolkit",
+    "url": "https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit"
+  },
+  {
+    "name": "Bookmarks",
+    "url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks"
+  },
+  {
+    "name": "Browser Preview (deprecated)",
+    "url": "https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview"
+  },
+  {
+    "name": "Color Tabs",
+    "url": "https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext"
+  },
+  {
+    "name": "Create tests",
+    "url": "https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests"
+  },
+  {
+    "name": "Dendron",
+    "url": "https://marketplace.visualstudio.com/items?itemName=dendron.dendron"
+  },
+  {
+    "name": "Deploy",
+    "url": "https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy"
+  },
+  {
+    "name": "Duplicate Action",
+    "url": "https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate"
+  },
+  {
+    "name": "Error Lens",
+    "url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
+  },
+  {
+    "name": "Toggle",
+    "url": "https://marketplace.visualstudio.com/items?itemName=rebornix.toggle"
+  },
+  {
+    "name": "ES7 React/Redux/GraphQL/React-Native snippets",
+    "url": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"
+  },
+  {
+    "name": "Gi",
+    "url": "https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi"
+  },
+  {
+    "name": "Git History",
+    "url": "https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory"
+  },
+  {
+    "name": "Git Project Manager",
+    "url": "https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager"
+  },
+  {
+    "name": "GitLink",
+    "url": "https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink"
+  },
+  {
+    "name": "GitLens",
+    "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+  },
+  {
+    "name": "Git Indicators",
+    "url": "https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators"
+  },
+  {
+    "name": "GitLab Workflow",
+    "url": "https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow"
+  },
+  {
+    "name": "Gradle Tasks",
+    "url": "https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle"
+  },
+  {
+    "name": "Icon Fonts",
+    "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts"
+  },
+  {
+    "name": "Import Cost",
+    "url": "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost"
+  },
+  {
+    "name": "Jira and Bitbucket",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode"
+  },
+  {
+    "name": "JS Parameter Annotations",
+    "url": "https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations"
+  },
+  {
+    "name": "Jumpy",
+    "url": "https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy"
+  },
+  {
+    "name": "Kanban",
+    "url": "https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban"
+  },
+  {
+    "name": "Live Server",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"
+  },
+  {
+    "name": "Multiple clipboards",
+    "url": "https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip"
+  },
+  {
+    "name": "ngrok for VSCode",
+    "url": "https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode"
+  },
+  {
+    "name": "Dotnet Core Test Explorer",
+    "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer"
+  },
+  {
+    "name": "i18n Ally",
+    "url": "https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally"
+  },
+  {
+    "name": "Instant Markdown",
+    "url": "https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown"
+  },
+  {
+    "name": "npm Intellisense",
+    "url": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense"
+  },
+  {
+    "name": "Parameter Hints",
+    "url": "https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints"
+  },
+  {
+    "name": "Partial Diff",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff"
+  },
+  {
+    "name": "Paste JSON as Code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype"
+  },
+  {
+    "name": "Path Autocomplete",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete"
+  },
+  {
+    "name": "Path IntelliSense",
+    "url": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense"
+  },
+  {
+    "name": "Power Tools",
+    "url": "https://marketplace.visualstudio.com/items?itemName=egomobile.vscode-powertools"
+  },
+  {
+    "name": "PrintCode",
+    "url": "https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode"
+  },
+  {
+    "name": "Project Manager",
+    "url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"
+  },
+  {
+    "name": "Project Dashboard",
+    "url": "https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard"
+  },
+  {
+    "name": "Rainbow CSV",
+    "url": "https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv"
+  },
+  {
+    "name": "Remote Development",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack"
+  },
+  {
+    "name": "Remote VSCode",
+    "url": "https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode"
+  },
+  {
+    "name": "REST Client",
+    "url": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client"
+  },
+  {
+    "name": "Text Power Tools",
+    "url": "https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools"
+  },
+  {
+    "name": "Todo Tree",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree"
+  },
+  {
+    "name": "Toggle Quotes",
+    "url": "https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes"
+  },
+  {
+    "name": "Typescript Destructure",
+    "url": "https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-typescript-destructure-plugin"
+  },
+  {
+    "name": "WakaTime",
+    "url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
+  },
+  {
+    "name": "Yo",
+    "url": "https://marketplace.visualstudio.com/items?itemName=samverschueren.yo"
+  },
+  {
+    "name": "Timing",
+    "url": "https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing"
+  },
+  {
+    "name": "Better Align",
+    "url": "https://marketplace.visualstudio.com/items?itemName=wwm.better-align"
+  },
+  {
+    "name": "beautify",
+    "url": "https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify"
+  },
+  {
+    "name": "html2pug",
+    "url": "https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug"
+  },
+  {
+    "name": "ECMAScript Quotes Transformer",
+    "url": "https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes"
+  },
+  {
+    "name": "Paste and Indent",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent"
+  },
+  {
+    "name": "Sort Lines",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines"
+  },
+  {
+    "name": "Surround",
+    "url": "https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround"
+  },
+  {
+    "name": "Wrap Selection",
+    "url": "https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection"
+  },
+  {
+    "name": "Formatting Toggle",
+    "url": "https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle"
+  },
+  {
+    "name": "Auto Import",
+    "url": "https://marketplace.visualstudio.com/items?itemName=steoates.autoimport"
+  },
+  {
+    "name": "shell-format",
+    "url": "https://github.com/foxundermoon/vs-shell-format"
+  },
+  {
+    "name": "Vscode Google Translate",
+    "url": "https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate"
+  },
+  {
+    "name": "City Lights Icons",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc"
+  },
+  {
+    "name": "VSCode Icons",
+    "url": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons"
+  },
+  {
+    "name": "Seti Icons",
+    "url": "https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons"
+  },
+  {
+    "name": "Material Icon Theme",
+    "url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
+  },
+  {
+    "name": "CodeRoad",
+    "url": "https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad"
+  },
+  {
+    "name": "Code Runner",
+    "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"
+  },
+  {
+    "name": "Code Time",
+    "url": "https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode"
+  },
+  {
+    "name": "Color Highlight",
+    "url": "https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight"
+  },
+  {
+    "name": "Output Colorizer",
+    "url": "https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer"
+  },
+  {
+    "name": "Dash",
+    "url": "https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash"
+  },
+  {
+    "name": "Edit with Shell Command",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell"
+  },
+  {
+    "name": "Editor Config for VS Code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
+  },
+  {
+    "name": "ftp-sync",
+    "url": "https://marketplace.visualstudio.com/items?itemName=lukasz-wronski.ftp-sync"
+  },
+  {
+    "name": "Highlight JSX/HTML tags",
+    "url": "https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag"
+  },
+  {
+    "name": "Indent Rainbow",
+    "url": "https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow"
+  },
+  {
+    "name": "iTerm2 Theme Sync",
+    "url": "https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-iterm2-theme-sync"
+  },
+  {
+    "name": "Password Generator",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ftonato.password-generator"
+  },
+  {
+    "name": "PlatformIO",
+    "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio"
+  },
+  {
+    "name": "Polacode",
+    "url": "https://marketplace.visualstudio.com/items?itemName=pnp.polacode"
+  },
+  {
+    "name": "carbon-now-sh",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh"
+  },
+  {
+    "name": "Quokka",
+    "url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode"
+  },
+  {
+    "name": "Runner",
+    "url": "https://marketplace.visualstudio.com/items?itemName=mattn.Runner"
+  },
+  {
+    "name": "Slack",
+    "url": "https://marketplace.visualstudio.com/items?itemName=sozercan.slack"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify"
+  },
+  {
+    "name": "SVG",
+    "url": "https://marketplace.visualstudio.com/items?itemName=jock.svg"
+  },
+  {
+    "name": "SVG Viewer",
+    "url": "https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer"
+  },
+  {
+    "name": "Text Marker (Highlighter)",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker"
+  },
+  {
+    "name": "ESDOC MDN",
+    "url": "https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn"
+  },
+  {
+    "name": "Interface generator",
+    "url": "https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator"
+  },
+  {
+    "name": "JFrog",
+    "url": "https://marketplace.visualstudio.com/items?itemName=JFrog.jfrog-vscode-extension"
+  },
+  {
     "name": "Essence",
     "url": "https://github.com/essence-language/vscode-extension"
   },
   {
     "name": "Pragmatic Essence",
     "url": "https://github.com/orta/Essence"
+  },
+  {
+    "name": "2077 theme by Endormi",
+    "url": "https://vscodethemes.com/e/Endormi.2077-theme"
+  },
+  {
+    "name": "An Old Hope Theme by Dustin Sanders",
+    "url": "https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode"
+  },
+  {
+    "name": "Ariake Dark by wart",
+    "url": "https://vscodethemes.com/e/wart.ariake-dark"
+  },
+  {
+    "name": "Atom One Dark Theme by Mahmoud Ali",
+    "url": "https://vscodethemes.com/e/akamud.vscode-theme-onedark"
+  },
+  {
+    "name": "Atomize by emroussel",
+    "url": "https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme"
+  },
+  {
+    "name": "Ayu by teabyii",
+    "url": "https://vscodethemes.com/e/teabyii.ayu"
+  },
+  {
+    "name": "Borealis Theme by Alexander Eckert",
+    "url": "https://vscodethemes.com/e/eckertalex.borealis"
+  },
+  {
+    "name": "Captain Sweetheart by ultradracula",
+    "url": "https://vscodethemes.com/e/ultradracula.captain-sweetheart"
+  },
+  {
+    "name": "City Lights by Yummygum",
+    "url": "https://vscodethemes.com/e/Yummygum.city-lights-theme"
+  },
+  {
+    "name": "Cobalt2 Theme Official by Wes Bos",
+    "url": "https://vscodethemes.com/e/wesbos.theme-cobalt2"
+  },
+  {
+    "name": "Dracula Official by Dracula Theme",
+    "url": "https://vscodethemes.com/e/dracula-theme.theme-dracula"
+  },
+  {
+    "name": "Edge by Bogdan Lazar",
+    "url": "https://vscodethemes.com/e/bogdanlazar.edge"
+  },
+  {
+    "name": "Eva Theme by fisheva",
+    "url": "https://vscodethemes.com/e/fisheva.eva-theme"
+  },
+  {
+    "name": "Fairy Floss by nopjmp and sailorhg",
+    "url": "https://vscodethemes.com/e/nopjmp.fairyfloss"
+  },
+  {
+    "name": "GitHub Theme by Thomas Pink",
+    "url": "https://vscodethemes.com/e/thomaspink.theme-github"
+  },
+  {
+    "name": "Jellybeans Theme by Dimitar Nonov",
+    "url": "https://vscodethemes.com/e/DimitarNonov.jellybeans-theme"
+  },
+  {
+    "name": "Material Palenight Theme by whizkydee",
+    "url": "https://vscodethemes.com/e/whizkydee.material-palenight-theme"
+  },
+  {
+    "name": "Material Theme by Mattia Astorino",
+    "url": "https://vscodethemes.com/e/Equinusocio.vsc-material-theme"
+  },
+  {
+    "name": "Mno by u29dc",
+    "url": "https://vscodethemes.com/e/u29dc.mno"
+  },
+  {
+    "name": "Monokai Oblique by pushqrdx",
+    "url": "https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode"
+  },
+  {
+    "name": "Monokai Pro by monokai (commercial)",
+    "url": "https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode"
+  },
+  {
+    "name": "Night Owl by Sarah Drasner",
+    "url": "https://vscodethemes.com/e/sdras.night-owl"
+  },
+  {
+    "name": "Plastic by Will Stone",
+    "url": "https://vscodethemes.com/e/will-stone.plastic"
+  },
+  {
+    "name": "Nord by arcticicestudio",
+    "url": "https://vscodethemes.com/e/arcticicestudio.nord-visual-studio-code"
+  },
+  {
+    "name": "Rainglow by Dayle Rees",
+    "url": "https://vscodethemes.com/e/daylerees.rainglow"
+  },
+  {
+    "name": "Relaxed Theme by Michael Kühnel",
+    "url": "https://vscodethemes.com/e/mischah.relaxed-theme"
+  },
+  {
+    "name": "Shades of Purple by Ahmad Awais",
+    "url": "https://vscodethemes.com/e/ahmadawais.shades-of-purple"
+  },
+  {
+    "name": "Slime Theme by smlombardi",
+    "url": "https://vscodethemes.com/e/smlombardi.slime"
+  },
+  {
+    "name": "Niketa Theme by Dejan Toteff",
+    "url": "https://vscodethemes.com/e/selfrefactor.niketa-theme"
   },
   {
     "name": "@code",

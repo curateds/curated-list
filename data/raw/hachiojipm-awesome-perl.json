@@ -116,7 +116,7 @@
   {
     "name": "Catalyst::Plugin::Session::Store::CHI",
     "url": "https://metacpan.org/pod/Catalyst::Plugin::Session::Store::CHI",
-    "description": " Use CHI module to handle storage backend for session data"
+    "description": "Use CHI module to handle storage backend for session data"
   },
   {
     "name": "CGI::Application::Plugin::CHI",
@@ -713,7 +713,7 @@
   {
     "name": "DOCSIS::ConfigFile",
     "url": "https://metacpan.org/pod/DOCSIS::ConfigFile",
-    "description": " Decodes and encodes DOCSIS config files"
+    "description": "Decodes and encodes DOCSIS config files"
   },
   {
     "name": "NetAddr::MAC",
@@ -1340,7 +1340,7 @@
   {
     "name": "Monitoring::Plugin",
     "url": "https://metacpan.org/pod/Monitoring::Plugin",
-    "description": " A family of perl modules to streamline writing Naemon, Nagios, Icinga or Shinken (and compatible) plugins"
+    "description": "A family of perl modules to streamline writing Naemon, Nagios, Icinga or Shinken (and compatible) plugins"
   },
   {
     "name": "Net::Connection::Sniffer",

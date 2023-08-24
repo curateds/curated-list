@@ -12,7 +12,7 @@
   {
     "name": "Incudine",
     "url": "http://incudine.sourceforge.net/",
-    "description": " Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly."
+    "description": "Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly."
   },
   {
     "name": "cl-collider",
@@ -121,7 +121,7 @@
   {
     "name": "modularize",
     "url": "https://github.com/Shinmera/modularize",
-    "description": " A modularization framework for Common Lisp. zlib."
+    "description": "A modularization framework for Common Lisp. zlib."
   },
   {
     "name": "April",
@@ -198,7 +198,7 @@
   {
     "name": "cl-frugal-uuid",
     "url": "https://github.com/ak-coram/cl-frugal-uuid/",
-    "description": " Common Lisp UUID library with zero dependencies. MIT."
+    "description": "Common Lisp UUID library with zero dependencies. MIT."
   },
   {
     "name": "bp",
@@ -208,7 +208,7 @@
   {
     "name": "cl-monero-tools",
     "url": "https://github.com/glv2/cl-monero-tools",
-    "description": " Common Lisp toolbox to work with the Monero cryptocurrency. GPL3. Not in Quicklisp."
+    "description": "Common Lisp toolbox to work with the Monero cryptocurrency. GPL3. Not in Quicklisp."
   },
   {
     "name": "emotiq",
@@ -228,7 +228,7 @@
   {
     "name": "peercoin-vote",
     "url": "https://github.com/glv2/peercoin-vote",
-    "description": " A voting system based on data from the blockchain (addresses and balances). GPL3. Not in Quicklisp."
+    "description": "A voting system based on data from the blockchain (addresses and balances). GPL3. Not in Quicklisp."
   },
   {
     "name": "cl-yesql",
@@ -381,7 +381,7 @@
   {
     "name": "cl-mango",
     "url": "https://github.com/cmoore/cl-mango/",
-    "description": " A minimalist CouchDB 2.x database client. BSD_3Clause."
+    "description": "A minimalist CouchDB 2.x database client. BSD_3Clause."
   },
   {
     "name": "clouchdb",
@@ -401,7 +401,7 @@
   {
     "name": "cl-duckdb",
     "url": "https://github.com/ak-coram/cl-duckdb",
-    "description": " Common Lisp CFFI wrapper around the DuckDB C API. MIT."
+    "description": "Common Lisp CFFI wrapper around the DuckDB C API. MIT."
   },
   {
     "name": "cl-migratum",
@@ -426,7 +426,7 @@
   {
     "name": "pzmq",
     "url": "https://github.com/orivej/pzmq",
-    "description": " ZeroMQ 4.0+ Common Lisp bindings. Unlicense."
+    "description": "ZeroMQ 4.0+ Common Lisp bindings. Unlicense."
   },
   {
     "name": "pgloader",
@@ -461,7 +461,7 @@
   {
     "name": "sycamore",
     "url": "https://github.com/ndantam/sycamore",
-    "description": " a fast, purely functional data structure library. BSD_3Clause."
+    "description": "a fast, purely functional data structure library. BSD_3Clause."
   },
   {
     "name": "genhash",
@@ -490,7 +490,7 @@
   {
     "name": "bit-smasher",
     "url": "https://github.com/thephoeron/bit-smasher",
-    "description": " Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions. MIT."
+    "description": "Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions. MIT."
   },
   {
     "name": "cl-containers",
@@ -565,7 +565,7 @@
   {
     "name": "cl-cxx-jit",
     "url": "https://github.com/Islam0mar/CL-CXX-JIT",
-    "description": " Common Lisp and C++ interoperation with JIT. MIT."
+    "description": "Common Lisp and C++ interoperation with JIT. MIT."
   },
   {
     "name": "ABCLJ",
@@ -605,7 +605,7 @@
   {
     "name": "objc-lisp-bridge",
     "url": "https://github.com/fiddlerwoaroof/objc-lisp-bridge",
-    "description": " A portable reader and bridge for interacting with Objective-C and Cocoa. MIT."
+    "description": "A portable reader and bridge for interacting with Objective-C and Cocoa. MIT."
   },
   {
     "name": "burgled-batteries",
@@ -854,7 +854,7 @@
   {
     "name": "cl-gtk4",
     "url": "https://github.com/bohonghuang/cl-gtk4",
-    "description": " GTK4/Libadwaita/WebKit binding for Common Lisp. LGPL3."
+    "description": "GTK4/Libadwaita/WebKit binding for Common Lisp. LGPL3."
   },
   {
     "name": "cl-cffi-gtk",
@@ -917,12 +917,12 @@
   {
     "name": "vk",
     "url": "https://github.com/JolifantoBambla/vk",
-    "description": " Common Lisp/CFFI bindings for the Vulkan API. MIT."
+    "description": "Common Lisp/CFFI bindings for the Vulkan API. MIT."
   },
   {
     "name": "file-select",
     "url": "https://github.com/Shinmera/file-select",
-    "description": " A library to invoke the native system file dialog to select or create files. Zlib."
+    "description": "A library to invoke the native system file dialog to select or create files. Zlib."
   },
   {
     "name": "LispWork's mobile runtime",
@@ -942,7 +942,7 @@
   {
     "name": "sbcl-librarian",
     "url": "https://github.com/quil-lang/sbcl-librarian",
-    "description": " Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. Blog post. Full example."
+    "description": "Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. Blog post. Full example."
   },
   {
     "name": "SBCL-GOODIES",
@@ -1022,7 +1022,7 @@
   {
     "name": "shasht",
     "url": "https://github.com/yitzchak/shasht",
-    "description": " Common Lisp JSON reading and writing for the Kzinti. MIT."
+    "description": "Common Lisp JSON reading and writing for the Kzinti. MIT."
   },
   {
     "name": "json-mop",
@@ -1037,7 +1037,7 @@
   {
     "name": "cl-jwk",
     "url": "https://github.com/dnaeon/cl-jwk",
-    "description": " Common Lisp system for decoding public JSON Web Keys (JWK). BSD License."
+    "description": "Common Lisp system for decoding public JSON Web Keys (JWK). BSD License."
   },
   {
     "name": "cl-yacclyaml",
@@ -1117,7 +1117,7 @@
   {
     "name": "arc-compat",
     "url": "https://github.com/g000001/arc-compat",
-    "description": " Arc compatible package. Perl Foundation's Artistic Licence 2.0."
+    "description": "Arc compatible package. Perl Foundation's Artistic Licence 2.0."
   },
   {
     "name": "cl-syntax",
@@ -1137,7 +1137,7 @@
   {
     "name": "cl-annot-revisit",
     "url": "https://github.com/y2q-actionman/cl-annot-revisit/",
-    "description": " re-implementation of cl-annot. WTFPL."
+    "description": "re-implementation of cl-annot. WTFPL."
   },
   {
     "name": "cl-reader",
@@ -1152,7 +1152,7 @@
   {
     "name": "mstrings",
     "url": "https://git.sr.ht/~shunter/mstrings",
-    "description": " a reader macro to provide visually appealing multiline blocks. An M-string trims leading whitespace, concatenates lines together, etc. BSD_3Clause."
+    "description": "a reader macro to provide visually appealing multiline blocks. An M-string trims leading whitespace, concatenates lines together, etc. BSD_3Clause."
   },
   {
     "name": "pythonic-string-reader",
@@ -1252,7 +1252,7 @@
   {
     "name": "trivial-do",
     "url": "https://github.com/yitzchak/trivial-do/",
-    "description": " Additional dolist style macros for Common Lisp. MIT."
+    "description": "Additional dolist style macros for Common Lisp. MIT."
   },
   {
     "name": "doplus",
@@ -1351,7 +1351,7 @@
   {
     "name": "typo",
     "url": "https://github.com/marcoheisig/Typo/",
-    "description": " A portable type inference library for Common Lisp. MIT."
+    "description": "A portable type inference library for Common Lisp. MIT."
   },
   {
     "name": "ACL2",
@@ -1616,7 +1616,7 @@
   {
     "name": "Quicklisp bundles",
     "url": "https://quicklisp.org/beta/bundles.html",
-    "description": " self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp."
+    "description": "self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp."
   },
   {
     "name": "CLPM",
@@ -1665,7 +1665,7 @@
   {
     "name": "quick-patch",
     "url": "https://github.com/tdrhq/quick-patch/",
-    "description": " easily override quicklisp projects without using git submodules. MPL-2.0."
+    "description": "easily override quicklisp projects without using git submodules. MPL-2.0."
   },
   {
     "name": "print-licenses",
@@ -1685,12 +1685,12 @@
   {
     "name": "qldeb",
     "url": "https://github.com/ralt/qldeb",
-    "description": " Quicklisp systems to debian packages, along with deb-packager (simply create a debian package by defining an s-expression) and an introductory blog post. Both MIT."
+    "description": "Quicklisp systems to debian packages, along with deb-packager (simply create a debian package by defining an s-expression) and an introductory blog post. Both MIT."
   },
   {
     "name": "ql-to-deb",
     "url": "https://github.com/dimitri/ql-to-deb",
-    "description": " Update cl-* debian packages from Quicklisp releases. WTFPL."
+    "description": "Update cl-* debian packages from Quicklisp releases. WTFPL."
   },
   {
     "name": "dh-quicklisp-buildapp",
@@ -1733,7 +1733,7 @@
   {
     "name": "antik",
     "url": "https://www.common-lisp.net/project/antik/",
-    "description": " a foundation for scientific and engineering computation in Common Lisp. GPL. Also mgl-mat and LLA."
+    "description": "a foundation for scientific and engineering computation in Common Lisp. GPL. Also mgl-mat and LLA."
   },
   {
     "name": "sparser",
@@ -1768,7 +1768,7 @@
   {
     "name": "http2",
     "url": "https://github.com/zellerin/http2/",
-    "description": " HTTP/2 implementation in Common Lisp. MIT."
+    "description": "HTTP/2 implementation in Common Lisp. MIT."
   },
   {
     "name": "Hunchentoot",
@@ -1823,12 +1823,12 @@
   {
     "name": "cl-tbnl-gserver-tmgr",
     "url": "https://github.com/mdbergmann/cl-tbnl-gserver-tmgr",
-    "description": " Hunchentoot Gserver-based taskmanager. cl-gserver is an actor-like message-passing library (see below in \"Actors pattern\"). Experimental."
+    "description": "Hunchentoot Gserver-based taskmanager. cl-gserver is an actor-like message-passing library (see below in \"Actors pattern\"). Experimental."
   },
   {
     "name": "tiny-routes",
     "url": "https://github.com/jeko2000/tiny-routes",
-    "description": " A tiny routing library for Common Lisp targeting Clack. BSD_3Clause."
+    "description": "A tiny routing library for Common Lisp targeting Clack. BSD_3Clause."
   },
   {
     "name": "clack-errors",
@@ -2023,7 +2023,7 @@
   {
     "name": "Valtan",
     "url": "https://github.com/cxxxr/valtan",
-    "description": " Common Lisp to JavaScript compiler."
+    "description": "Common Lisp to JavaScript compiler."
   },
   {
     "name": "JACL",
@@ -2033,7 +2033,7 @@
   {
     "name": "cl-react",
     "url": "https://github.com/helmutkian/cl-react",
-    "description": " Common Lisp (Parenscript) utilities for building web apps in ReactJs. MIT."
+    "description": "Common Lisp (Parenscript) utilities for building web apps in ReactJs. MIT."
   },
   {
     "name": "Panic",
@@ -2042,12 +2042,12 @@
   {
     "name": "Parenscriptx",
     "url": "https://github.com/jasom/parenscriptx",
-    "description": " Parenscript Macros to aid generating react code. MIT."
+    "description": "Parenscript Macros to aid generating react code. MIT."
   },
   {
     "name": "jscl-react",
     "url": "https://github.com/nilesr/jscl-react",
-    "description": " A web framework for writing react components in common lisp using jscl. No license specified."
+    "description": "A web framework for writing react components in common lisp using jscl. No license specified."
   },
   {
     "name": "trident-mode",
@@ -2061,7 +2061,7 @@
   {
     "name": "common-lisp-heroku-example",
     "url": "https://github.com/fstamour/common-lisp-heroku-example",
-    "description": " Example of Common Lisp server on Heroku using Docker."
+    "description": "Example of Common Lisp server on Heroku using Docker."
   },
   {
     "name": "cube",
@@ -2124,12 +2124,12 @@
   {
     "name": "clws",
     "url": "https://github.com/3b/clws",
-    "description": " websockets server in CL, built on IOlib and libfixposix. No licence specified."
+    "description": "websockets server in CL, built on IOlib and libfixposix. No licence specified."
   },
   {
     "name": "Hunchensocket",
     "url": "https://github.com/joaotavora/hunchensocket",
-    "description": " RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. MIT."
+    "description": "RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. MIT."
   },
   {
     "name": "websocket-driver",
@@ -2154,12 +2154,12 @@
   {
     "name": "cl-forms",
     "url": "https://github.com/mmontone/cl-forms",
-    "description": " Web forms handling library for Common lisp. MIT."
+    "description": "Web forms handling library for Common lisp. MIT."
   },
   {
     "name": "cl-authentic",
     "url": "https://github.com/charJe/cl-authentic",
-    "description": " Password management for Common Lisp (web) applications. LLGPL."
+    "description": "Password management for Common Lisp (web) applications. LLGPL."
   },
   {
     "name": "mito-email-auth",
@@ -2204,7 +2204,7 @@
   {
     "name": "find-port",
     "url": "https://github.com/eudoxia0/find-port",
-    "description": " Programmatically find open ports. MIT."
+    "description": "Programmatically find open ports. MIT."
   },
   {
     "name": "Postmaster",
@@ -2254,7 +2254,7 @@
   {
     "name": "apispec",
     "url": "https://github.com/cxxxr/apispec",
-    "description": " A Common Lisp library for handling Web API requests and responses. BSD_3Clause."
+    "description": "A Common Lisp library for handling Web API requests and responses. BSD_3Clause."
   },
   {
     "name": "cl-odata-client",
@@ -2329,7 +2329,7 @@
   {
     "name": "cl-pushover",
     "url": "https://github.com/TeMPOraL/cl-pushover",
-    "description": " Common Lisp bindings to Pushover. MIT."
+    "description": "Common Lisp bindings to Pushover. MIT."
   },
   {
     "name": "humbler",
@@ -2530,7 +2530,7 @@
   {
     "name": "Moira",
     "url": "https://github.com/TBRSS/moira",
-    "description": " Monitor and restart background threads. In-lisp process supervisor. MIT."
+    "description": "Monitor and restart background threads. In-lisp process supervisor. MIT."
   },
   {
     "name": "trivial-monitored-thread",
@@ -2555,7 +2555,7 @@
   {
     "name": "STMX",
     "url": "https://github.com/cosmos72/stmx",
-    "description": " High performance Transactional Memory for Common Lisp. LLGPL."
+    "description": "High performance Transactional Memory for Common Lisp. LLGPL."
   },
   {
     "name": "Blackbird",
@@ -2616,7 +2616,7 @@
   {
     "name": "cl-flow",
     "url": "https://github.com/borodust/cl-flow/",
-    "description": " Data-flowish computation tree library for non-blocking concurrent Common Lisp. MIT."
+    "description": "Data-flowish computation tree library for non-blocking concurrent Common Lisp. MIT."
   },
   {
     "name": "event-glue",
@@ -2734,7 +2734,7 @@
   {
     "name": "unix-in-lisp",
     "url": "https://github.com/PuellaeMagicae/unix-in-lisp",
-    "description": " Mount Unix system into Common Lisp image."
+    "description": "Mount Unix system into Common Lisp image."
   },
   {
     "name": "cmd",
@@ -2891,7 +2891,7 @@
   {
     "name": "alive",
     "url": "https://github.com/nobody-famous/alive",
-    "description": " Common Lisp Extension for VSCode. Public domain."
+    "description": "Common Lisp Extension for VSCode. Public domain."
   },
   {
     "name": "using VSCode with Alive",
@@ -2905,7 +2905,7 @@
   {
     "name": "SLT",
     "url": "https://github.com/Enerccio/SLT",
-    "description": " an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank."
+    "description": "an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank."
   },
   {
     "name": "Geany-lisp",
@@ -2924,12 +2924,12 @@
   {
     "name": "Cytoscape widget",
     "url": "https://github.com/yitzchak/cytoscape-clj",
-    "description": " Cytoscape.js widget for common-lisp-jupyter."
+    "description": "Cytoscape.js widget for common-lisp-jupyter."
   },
   {
     "name": "Kekule widget",
     "url": "https://github.com/yitzchak/kekule-clj",
-    "description": " Kekule.js widget for common-lisp-jupyter."
+    "description": "Kekule.js widget for common-lisp-jupyter."
   },
   {
     "name": "molecule viewer",
@@ -2939,12 +2939,12 @@
   {
     "name": "ngl widget",
     "url": "https://github.com/yitzchak/ngl-clj",
-    "description": " A ngl widget (protein viewer) for common-lisp-jupyter."
+    "description": "A ngl widget (protein viewer) for common-lisp-jupyter."
   },
   {
     "name": "sheet widget",
     "url": "https://github.com/yitzchak/sheet-clj",
-    "description": " Data grid widget for common-lisp-jupyter."
+    "description": "Data grid widget for common-lisp-jupyter."
   },
   {
     "name": "cl-jupyter",
@@ -3017,7 +3017,7 @@
   {
     "name": "montezuma",
     "url": "https://github.com/sharplispers/montezuma/",
-    "description": " Full-text indexing and search for Common Lisp. Expat."
+    "description": "Full-text indexing and search for Common Lisp. Expat."
   },
   {
     "name": "mk-string-metrics",
@@ -3037,12 +3037,12 @@
   {
     "name": "cl-string-generator",
     "url": "https://github.com/pokepay/cl-string-generator",
-    "description": " Generate string from regular expression. MIT."
+    "description": "Generate string from regular expression. MIT."
   },
   {
     "name": "trivial-sanitize",
     "url": "https://notabug.org/cage/trivial-sanitize",
-    "description": " clean html strings: \"<a>foo</a>\" → \"foo\". LLGPL."
+    "description": "clean html strings: \"<a>foo</a>\" → \"foo\". LLGPL."
   },
   {
     "name": "Resolve",
@@ -3067,7 +3067,7 @@
   {
     "name": "fiveam-matchers",
     "url": "https://github.com/tdrhq/fiveam-matchers/",
-    "description": " an extensible, composable matchers library for fiveam. Apache2.0."
+    "description": "an extensible, composable matchers library for fiveam. Apache2.0."
   },
   {
     "name": "CLUnit2",
@@ -3117,7 +3117,7 @@
   {
     "name": "function-cache",
     "url": "https://github.com/AccelerationNet/function-cache",
-    "description": " A Common Lisp function caching / memoization library. BSD."
+    "description": "A Common Lisp function caching / memoization library. BSD."
   },
   {
     "name": "chipz",
@@ -3132,7 +3132,7 @@
   {
     "name": "zippy",
     "url": "https://github.com/Shinmera/zippy",
-    "description": " A ZIP archive format library based on 3bz. zlib."
+    "description": "A ZIP archive format library based on 3bz. zlib."
   },
   {
     "name": "archive",
@@ -3280,7 +3280,7 @@
   {
     "name": "printv",
     "url": "https://github.com/danlentz/printv",
-    "description": " A batteries-included tracing and debug-logging macro. Apache2."
+    "description": "A batteries-included tracing and debug-logging macro. Apache2."
   },
   {
     "name": "journal",
@@ -3378,7 +3378,7 @@
   {
     "name": "file-attributes",
     "url": "https://github.com/Shinmera/file-attributes",
-    "description": " access to common file attributes (uid, gid, permissions, ctime, mtime, atime)."
+    "description": "access to common file attributes (uid, gid, permissions, ctime, mtime, atime)."
   },
   {
     "name": "ppath",
@@ -3423,7 +3423,7 @@
   {
     "name": "gettext",
     "url": "https://github.com/rotatef/gettext",
-    "description": " a port of the gettext runtime to Common Lisp. GPL3."
+    "description": "a port of the gettext runtime to Common Lisp. GPL3."
   },
   {
     "name": "translate",
@@ -3468,7 +3468,7 @@
   {
     "name": "literate-lisp",
     "url": "https://github.com/jingtaozf/literate-lisp",
-    "description": " Load Common Lisp code blocks from Emacs' Org files. MIT."
+    "description": "Load Common Lisp code blocks from Emacs' Org files. MIT."
   },
   {
     "name": "erudite",
@@ -3503,7 +3503,7 @@
   {
     "name": "easy-macros",
     "url": "https://github.com/tdrhq/easy-macros/",
-    "description": " an easy way to write 90% of your macros. Apache2.0."
+    "description": "an easy way to write 90% of your macros. Apache2.0."
   },
   {
     "name": "trivial-with-current-source-from",
@@ -3563,7 +3563,7 @@
   {
     "name": "cl-cookieproject",
     "url": "https://github.com/vindarel/cl-cookieproject",
-    "description": " Generate a ready-to-use Common Lisp project. Not in Quicklisp. BSD_3Clause."
+    "description": "Generate a ready-to-use Common Lisp project. Not in Quicklisp. BSD_3Clause."
   },
   {
     "name": "cl-isolated",
@@ -3617,7 +3617,7 @@
   {
     "name": "corona",
     "url": "https://github.com/eudoxia0/corona",
-    "description": " Create and manage virtual machines from Common Lisp http://eudoxia.me/corona MIT."
+    "description": "Create and manage virtual machines from Common Lisp http://eudoxia.me/corona MIT."
   },
   {
     "name": "fast-io",

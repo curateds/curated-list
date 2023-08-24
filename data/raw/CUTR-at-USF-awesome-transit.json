@@ -694,7 +694,7 @@
   {
     "name": "gtfslib-python",
     "url": "https://github.com/afimb/gtfslib-python",
-    "description": " An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks."
+    "description": "An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks."
   },
   {
     "name": "gtfsman",
@@ -1234,7 +1234,7 @@
   {
     "name": "Concentrate",
     "url": "https://github.com/mbta/concentrate",
-    "description": "Combines realtime transit information from multiple sources into single output files. Maintained by "
+    "description": "Combines realtime transit information from multiple sources into single output files. Maintained by"
   },
   {
     "name": "gtfs-realtime-test-service",
@@ -1476,12 +1476,12 @@
   {
     "name": "TIDES project",
     "url": "https://github.com/TIDES-transit/TIDES",
-    "description": " Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data."
+    "description": "Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data."
   },
   {
     "name": "Cal-ITP Operational Data Standard (ODS)",
     "url": "https://docs.calitp.org/operational-data-standard/",
-    "description": " Intended to address the lack of a standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations."
+    "description": "Intended to address the lack of a standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations."
   },
   {
     "name": "Transport Operator Mobility-as-a-service Provider (TOMP)-API",
@@ -1577,6 +1577,11 @@
     "name": "Brakewood and Watkins - \"A literature review of the passenger benefits of real-time transit information\"",
     "url": "https://www.tandfonline.com/doi/full/10.1080/01441647.2018.1472147?scroll=top&needAccess=true",
     "description": "\"A literature review of the passenger benefits of real-time transit information\" (2018) - An overview of many different research studies looking at the benefits of real-time transit information."
+  },
+  {
+    "name": "on GitHub",
+    "url": "https://github.com/pwr-inf/gtfs2vec",
+    "description": "\"gtfs2vec - Learning GTFS Embeddings for comparing Public Transport Offer in Microregions\" - Methology using Uber's H3 spatial index and machine learning to identify areas of \"similar\" public transit service quality in cities. Source code available on GitHub."
   },
   {
     "name": "Higgins et al. - \"Calculating place-based transit accessibility: Methods, tools and algorithmic dependence\" (2022)",

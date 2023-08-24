@@ -316,42 +316,42 @@
   {
     "name": "nrf52810-pac",
     "url": "https://crates.io/crates/nrf52810-pac",
-    "description": "Peripheral access API for the nRF52810 microcontroller (generated using svd2rust) - "
+    "description": "Peripheral access API for the nRF52810 microcontroller (generated using svd2rust) -"
   },
   {
     "name": "nrf52811-pac",
     "url": "https://crates.io/crates/nrf52811-pac",
-    "description": "Peripheral access API for the nRF52811 microcontroller (generated using svd2rust) - "
+    "description": "Peripheral access API for the nRF52811 microcontroller (generated using svd2rust) -"
   },
   {
     "name": "nrf52832-pac",
     "url": "https://crates.io/crates/nrf52832-pac",
-    "description": "Peripheral access API for the nRF52832 microcontroller (generated using svd2rust) - "
+    "description": "Peripheral access API for the nRF52832 microcontroller (generated using svd2rust) -"
   },
   {
     "name": "nrf52833-pac",
     "url": "https://crates.io/crates/nrf52833-pac",
-    "description": "Peripheral access API for the nRF52833 microcontroller (generated using svd2rust) - "
+    "description": "Peripheral access API for the nRF52833 microcontroller (generated using svd2rust) -"
   },
   {
     "name": "nrf52840-pac",
     "url": "https://crates.io/crates/nrf52840-pac",
-    "description": "Peripheral access API for the nRF52840 microcontroller (generated using svd2rust) - "
+    "description": "Peripheral access API for the nRF52840 microcontroller (generated using svd2rust) -"
   },
   {
     "name": "nrf5340-app-pac",
     "url": "https://crates.io/crates/nrf5340-app-pac",
-    "description": "Peripheral access API for the nRF5340 application core (generated using svd2rust) - "
+    "description": "Peripheral access API for the nRF5340 application core (generated using svd2rust) -"
   },
   {
     "name": "nrf5340-net-pac",
     "url": "https://crates.io/crates/nrf5340-net-pac",
-    "description": "Peripheral access API for the nRF5340 network core (generated using svd2rust) - "
+    "description": "Peripheral access API for the nRF5340 network core (generated using svd2rust) -"
   },
   {
     "name": "nrf9160-pac",
     "url": "https://crates.io/crates/nrf9160-pac",
-    "description": "Peripheral access API for the nRF9160 system-in-package (generated using svd2rust) - "
+    "description": "Peripheral access API for the nRF9160 system-in-package (generated using svd2rust) -"
   },
   {
     "name": "k64",
@@ -380,7 +380,7 @@
   {
     "name": "imxrt-ral",
     "url": "https://github.com/imxrt-rs/imxrt-rs",
-    "description": " "
+    "description": ""
   },
   {
     "name": "SKEAZN642",
@@ -389,17 +389,17 @@
   {
     "name": "rp2040-pac",
     "url": "https://crates.io/crates/rp2040-pac",
-    "description": "Peripheral access API for the RP2040 dual-core system-on-chip (generated using svd2rust) - "
+    "description": "Peripheral access API for the RP2040 dual-core system-on-chip (generated using svd2rust) -"
   },
   {
     "name": "e310x",
     "url": "https://github.com/riscv-rust/e310x",
-    "description": "svd2rust generated interface to SiFive Freedom E310 MCUs - "
+    "description": "svd2rust generated interface to SiFive Freedom E310 MCUs -"
   },
   {
     "name": "efm32pg12-pac",
     "url": "https://crates.io/crates/efm32pg12-pac",
-    "description": "Peripheral access API for Silicon Labs EFM32PG12 microcontrollers - "
+    "description": "Peripheral access API for Silicon Labs EFM32PG12 microcontrollers -"
   },
   {
     "name": "efm32g-pac",
@@ -720,12 +720,12 @@
   {
     "name": "atsam4-hal",
     "url": "https://crates.io/crates/atsam4-hal",
-    "description": "HAL for SAM4E, SAM4N and SAM4S - "
+    "description": "HAL for SAM4E, SAM4N and SAM4S -"
   },
   {
     "name": "atsamd-hal",
     "url": "https://crates.io/crates/atsamd-hal",
-    "description": "HAL for SAMD11, SAMD21, SAMD51 and SAME54 - "
+    "description": "HAL for SAMD11, SAMD21, SAMD51 and SAME54 -"
   },
   {
     "name": "avr-hal",
@@ -735,7 +735,7 @@
   {
     "name": "pic32-hal",
     "url": "https://crates.io/crates/pic32-hal",
-    "description": "HAL for PIC32MX - "
+    "description": "HAL for PIC32MX -"
   },
   {
     "name": "nrf51-hal",
@@ -772,7 +772,7 @@
   {
     "name": "lpc8xx-hal",
     "url": "https://crates.io/crates/lpc8xx-hal",
-    "description": "HAL for lpc82x and lpc845 - "
+    "description": "HAL for lpc82x and lpc845 -"
   },
   {
     "name": "mkw41z-hal",
@@ -781,17 +781,17 @@
   {
     "name": "imxrt-hal",
     "url": "https://github.com/imxrt-rs/imxrt-rs",
-    "description": "HAL for i.MX RT series. -  "
+    "description": "HAL for i.MX RT series. -"
   },
   {
     "name": "rp2040-hal",
     "url": "https://crates.io/crates/rp2040-hal",
-    "description": "HAL for the RP2040 dual-core system-on-chip - "
+    "description": "HAL for the RP2040 dual-core system-on-chip -"
   },
   {
     "name": "e310x-hal",
     "url": "https://github.com/riscv-rust/e310x-hal",
-    "description": "HAL for SiFive Freedom E310 MCUs - "
+    "description": "HAL for SiFive Freedom E310 MCUs -"
   },
   {
     "name": "stm32f0xx-hal",
@@ -932,122 +932,122 @@
   {
     "name": "onebitsy",
     "url": "https://crates.io/crates/onebitsy",
-    "description": "Board support crate for the 1bitsy STM32F4-based board - "
+    "description": "Board support crate for the 1bitsy STM32F4-based board -"
   },
   {
     "name": "metro_m0",
     "url": "https://crates.io/crates/metro_m0",
-    "description": "Board support for the Metro M0 board in the atsamd-rs repo. It is an atsamd-rs tier 1 support board. "
+    "description": "Board support for the Metro M0 board in the atsamd-rs repo. It is an atsamd-rs tier 1 support board."
   },
   {
     "name": "metro_m4",
     "url": "https://crates.io/crates/metro_m4",
-    "description": "Board support for the Metro M4 board in the atsamd-rs repo. It is an atsamd-rs tier 1 support board. "
+    "description": "Board support for the Metro M4 board in the atsamd-rs repo. It is an atsamd-rs tier 1 support board."
   },
   {
     "name": "pyportal",
     "url": "https://crates.io/crates/pyportal",
-    "description": "Board support for the PyPortal board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the PyPortal board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "pygamer",
     "url": "https://crates.io/crates/pygamer",
-    "description": "Board support for the PyGamer board in the atsamd-rs repo. It is an atsamd-rs tier 1 support board. "
+    "description": "Board support for the PyGamer board in the atsamd-rs repo. It is an atsamd-rs tier 1 support board."
   },
   {
     "name": "trellis_m4",
     "url": "https://crates.io/crates/trellis_m4",
-    "description": "Board support for the NeoTrellis M4 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the NeoTrellis M4 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "feather-f405",
     "url": "https://crates.io/crates/feather-f405",
-    "description": "Board support for the Feather STM32F405 Express. "
+    "description": "Board support for the Feather STM32F405 Express."
   },
   {
     "name": "feather_m0",
     "url": "https://crates.io/crates/feather_m0",
-    "description": "Board support for the Feather M0 board, and some variants in the atsamd-rs repo. It is an atsamd-rs tier 1 support board. "
+    "description": "Board support for the Feather M0 board, and some variants in the atsamd-rs repo. It is an atsamd-rs tier 1 support board."
   },
   {
     "name": "feather_m4",
     "url": "https://crates.io/crates/feather_m4",
-    "description": "Board support for the Feather M4 board in the atsamd-rs repo. It is an atsamd-rs tier 1 support board. "
+    "description": "Board support for the Feather M4 board in the atsamd-rs repo. It is an atsamd-rs tier 1 support board."
   },
   {
     "name": "circuit_playground_express",
     "url": "https://crates.io/crates/circuit_playground_express",
-    "description": "Board support for the Circuit Playground Express board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Circuit Playground Express board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "edgebadge",
     "url": "https://crates.io/crates/edgebadge",
-    "description": "Board support for the EdgeBadge board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the EdgeBadge board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "gemma_m0",
     "url": "https://crates.io/crates/gemma_m0",
-    "description": "Board support for the Gemma M0 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Gemma M0 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "itsybitsy_m0",
     "url": "https://crates.io/crates/itsybitsy_m0",
-    "description": "Board support for the ItsyBitsy M0 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the ItsyBitsy M0 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "itsybitsy_m4",
     "url": "https://crates.io/crates/itsybitsy_m4",
-    "description": "Board support for the ItsyBitsy M4 Express board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the ItsyBitsy M4 Express board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "trinket_m0",
     "url": "https://crates.io/crates/trinket_m0",
-    "description": "Board support for the Trinket M0 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Trinket M0 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "neo_trinkey",
     "url": "https://crates.io/crates/neo_trinkey",
-    "description": "Board support for the neo trinkey board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the neo trinkey board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "neokey_trinkey",
     "url": "https://crates.io/crates/neokey_trinkey",
-    "description": "Board support for the neokey trinkey board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the neokey trinkey board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "grand_central_m4",
     "url": "https://crates.io/crates/grand_central_m4",
-    "description": "Board support for the grand central m4 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the grand central m4 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "qt_py_m0",
     "url": "https://crates.io/crates/qt_py_m0",
-    "description": "Board support for the QT Py board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the QT Py board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "adafruit-feather-rp2040",
     "url": "https://github.com/rp-rs/rp-hal",
-    "description": "Board Support Crate for the Adafruit Feather RP2040 "
+    "description": "Board Support Crate for the Adafruit Feather RP2040"
   },
   {
     "name": "adafruit-itsy-bitsy-rp2040",
     "url": "https://github.com/rp-rs/rp-hal",
-    "description": "Board Support Crate for the Adafruit ItsyBitsy RP2040 "
+    "description": "Board Support Crate for the Adafruit ItsyBitsy RP2040"
   },
   {
     "name": "adafruit-kb2040",
     "url": "https://github.com/rp-rs/rp-hal",
-    "description": "Board Support Crate for the Adafruit KB2040 "
+    "description": "Board Support Crate for the Adafruit KB2040"
   },
   {
     "name": "adafruit-macropad",
     "url": "https://github.com/rp-rs/rp-hal",
-    "description": "Board Support Crate for the Adafruit Macropad "
+    "description": "Board Support Crate for the Adafruit Macropad"
   },
   {
     "name": "adafruit-qt-py-rp2040",
     "url": "https://github.com/rp-rs/rp-hal",
-    "description": "Board Support Crate for the Adafruit QT Py RP2040 "
+    "description": "Board Support Crate for the Adafruit QT Py RP2040"
   },
   {
     "name": "avr-hal",
@@ -1057,47 +1057,47 @@
   {
     "name": "arduino_mkr1000",
     "url": "https://crates.io/crates/arduino_mkr1000",
-    "description": "Board support for the MKR 1000 WiFi board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the MKR 1000 WiFi board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "arduino_mkrvidor4000",
     "url": "https://crates.io/crates/arduino_mkrvidor4000",
-    "description": "Board support for the MKR Vidor board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the MKR Vidor board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "arduino_mkrzero",
     "url": "https://crates.io/crates/arduino_mkrzero",
-    "description": "Board support for the mkrzero board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the mkrzero board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "arduino_nano33iot",
     "url": "https://crates.io/crates/arduino_nano33iot",
-    "description": "Board support for the Arduino Nano 33 IoT in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Arduino Nano 33 IoT in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "dwm1001",
     "url": "https://crates.io/crates/dwm1001",
-    "description": "Decawave DWM1001-DEV - "
+    "description": "Decawave DWM1001-DEV -"
   },
   {
     "name": "microbit",
     "url": "https://crates.io/crates/microbit",
-    "description": "micro:bit - "
+    "description": "micro:bit -"
   },
   {
     "name": "nrf52840-dk-bsp",
     "url": "https://crates.io/crates/nrf52840-dk-bsp",
-    "description": "nrf52840-dk - "
+    "description": "nrf52840-dk -"
   },
   {
     "name": "Thingy:91-nrf9160",
     "url": "https://crates.io/crates/thingy-91-nrf9160-bsp",
-    "description": "thingy:91 - "
+    "description": "thingy:91 -"
   },
   {
     "name": "frdm-kw41z",
     "url": "https://crates.io/crates/frdm-kw41z",
-    "description": "FRDM-KW41Z - "
+    "description": "FRDM-KW41Z -"
   },
   {
     "name": "pimoroni-pico-explorer",
@@ -1117,7 +1117,7 @@
   {
     "name": "samd21_mini",
     "url": "https://crates.io/crates/samd21_mini",
-    "description": "Board support for the SAMD21 Mini Breakout in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the SAMD21 Mini Breakout in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "sparkfun-pro-micro-rp2040",
@@ -1132,27 +1132,27 @@
   {
     "name": "xiao_m0",
     "url": "https://crates.io/crates/xiao_m0",
-    "description": "Board support for the Seeed Studio Seeeduino XIAO in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Seeed Studio Seeeduino XIAO in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "wio_lite_mg126",
     "url": "https://crates.io/crates/wio_lite_mg126",
-    "description": "Board support for the Seeed Studio wio_lite_mg126 in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Seeed Studio wio_lite_mg126 in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "wio_lite_w600",
     "url": "https://crates.io/crates/wio_lite_w600",
-    "description": "Board support for the Seeed Studio wio_lite_w600 in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Seeed Studio wio_lite_w600 in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "wio_terminal",
     "url": "https://crates.io/crates/wio_terminal",
-    "description": "Board support for the Seeed Studio wio_terminal in the atsamd-rs repo. It is an atsamd-rs tier 1 support board "
+    "description": "Board support for the Seeed Studio wio_terminal in the atsamd-rs repo. It is an atsamd-rs tier 1 support board"
   },
   {
     "name": "hifive1",
     "url": "https://github.com/riscv-rust/hifive1",
-    "description": "Board support crate for HiFive1 and LoFive boards - "
+    "description": "Board support crate for HiFive1 and LoFive boards -"
   },
   {
     "name": "longan-nano",
@@ -1181,7 +1181,7 @@
   {
     "name": "nucleo-f401re",
     "url": "https://github.com/jkristell/nucleo-f401re.git",
-    "description": "Nucleo-F401RE "
+    "description": "Nucleo-F401RE"
   },
   {
     "name": "nucleo-h743zi",
@@ -1227,7 +1227,7 @@
   {
     "name": "stellaris-launchpad",
     "url": "https://crates.io/crates/stellaris-launchpad",
-    "description": "For the Texas Instruments Stellaris Launchpad and Tiva-C Launchpad "
+    "description": "For the Texas Instruments Stellaris Launchpad and Tiva-C Launchpad"
   },
   {
     "name": "tm4c129-launchpad",
@@ -1242,27 +1242,27 @@
   {
     "name": "sodaq_one",
     "url": "https://crates.io/crates/sodaq_one",
-    "description": "Board support for the Sodaq one board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Sodaq one board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "sodaq_sara_aff",
     "url": "https://crates.io/crates/sodaq_sara_aff",
-    "description": "Board support for the Sodaq sara aff board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the Sodaq sara aff board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "serpente",
     "url": "https://crates.io/crates/serpente",
-    "description": "Board support for the serpente board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the serpente board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "p1am_100",
     "url": "https://crates.io/crates/p1am_100",
-    "description": "Board support for the p1am_100 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board. "
+    "description": "Board support for the p1am_100 board in the atsamd-rs repo. It is an atsamd-rs tier 2 support board."
   },
   {
     "name": "accelerometer",
     "url": "https://github.com/NeoBirth/accelerometer.rs",
-    "description": "Generic accelerometer support, including traits and types for taking readings from 2 or 3-axis accelerometers and tracking device orientations - "
+    "description": "Generic accelerometer support, including traits and types for taking readings from 2 or 3-axis accelerometers and tracking device orientations -"
   },
   {
     "name": "embedded-graphics",
@@ -1271,7 +1271,7 @@
   {
     "name": "radio",
     "url": "https://github.com/ryankurte/rust-radio",
-    "description": "Generic radio transceiver traits, mocks, and helpers - "
+    "description": "Generic radio transceiver traits, mocks, and helpers -"
   },
   {
     "name": "smart-leds",
@@ -1300,122 +1300,122 @@
   {
     "name": "AD983x",
     "url": "https://crates.io/crates/ad983x",
-    "description": "SPI - AD9833/AD9837 waveform generators / DDS - Intro blog post - "
+    "description": "SPI - AD9833/AD9837 waveform generators / DDS - Intro blog post -"
   },
   {
     "name": "adafruit-alphanum4",
     "url": "https://crates.io/crates/adafruit-alphanum4",
-    "description": "I2C - Driver for Adafruit 14-segment LED Alphanumeric Backpack based on the ht16k33 chip - "
+    "description": "I2C - Driver for Adafruit 14-segment LED Alphanumeric Backpack based on the ht16k33 chip -"
   },
   {
     "name": "ADE791x",
     "url": "https://crates.io/crates/ade791x",
-    "description": "SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - github - "
+    "description": "SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - github -"
   },
   {
     "name": "ADS1x1x",
     "url": "https://crates.io/crates/ads1x1x",
-    "description": "I2C - 12/16-bit ADCs like ADS1013, ADS1015, ADS1115, etc. - Intro blog post - "
+    "description": "I2C - 12/16-bit ADCs like ADS1013, ADS1015, ADS1115, etc. - Intro blog post -"
   },
   {
     "name": "ADXL313",
     "url": "https://crates.io/crates/adxl313",
-    "description": "SPI - 3-axis accelerometer - "
+    "description": "SPI - 3-axis accelerometer -"
   },
   {
     "name": "ADXL343",
     "url": "https://crates.io/crates/adxl343",
-    "description": "I2C - 3-axis accelerometer - "
+    "description": "I2C - 3-axis accelerometer -"
   },
   {
     "name": "ADXL355",
     "url": "https://crates.io/crates/adxl355",
-    "description": "SPI - 3-axis accelerometer - Intro blog post - "
+    "description": "SPI - 3-axis accelerometer - Intro blog post -"
   },
   {
     "name": "AFE4404",
     "url": "https://github.com/pulse-loop/afe4404",
-    "description": "I2C - Pulse oximeter - "
+    "description": "I2C - Pulse oximeter -"
   },
   {
     "name": "AHT20",
     "url": "https://crates.io/crates/aht20",
-    "description": "I2C - Humidity and temperature sensor - github - "
+    "description": "I2C - Humidity and temperature sensor - github -"
   },
   {
     "name": "AHT20-driver",
     "url": "https://crates.io/crates/aht20-driver",
-    "description": "I2C - Humidity and temperature sensor - Intro blog post - github - "
+    "description": "I2C - Humidity and temperature sensor - Intro blog post - github -"
   },
   {
     "name": "AnyLeaf",
     "url": "https://crates.io/crates/anyleaf",
-    "description": "I2C - pH sensor module - github - "
+    "description": "I2C - pH sensor module - github -"
   },
   {
     "name": "AT86RF212",
     "url": "https://crates.io/crates/radio-at86rf212",
-    "description": "SPI - Low power IEEE 802.15.4-2011 ISM RF Transceiver - Intro blog post - "
+    "description": "SPI - Low power IEEE 802.15.4-2011 ISM RF Transceiver - Intro blog post -"
   },
   {
     "name": "BlueNRG",
     "url": "https://crates.io/crates/bluenrg",
-    "description": "SPI - driver for BlueNRG-MS Bluetooth module - Intro post "
+    "description": "SPI - driver for BlueNRG-MS Bluetooth module - Intro post"
   },
   {
     "name": "BMA400",
     "url": "https://crates.io/crates/bma400",
-    "description": "I2C/SPI - Bosch 12-bit 3-axis accelerometer - github "
+    "description": "I2C/SPI - Bosch 12-bit 3-axis accelerometer - github"
   },
   {
     "name": "BNO055",
     "url": "https://crates.io/crates/bno055",
-    "description": "I2C - Bosch Sensortec BNO055 9-axis IMU driver - Intro post "
+    "description": "I2C - Bosch Sensortec BNO055 9-axis IMU driver - Intro post"
   },
   {
     "name": "CD74HC4067",
     "url": "https://crates.io/crates/cd74hc4067",
-    "description": "GPIO - 16-channel digital and analog multiplexer - Intro blog post - github - "
+    "description": "GPIO - 16-channel digital and analog multiplexer - Intro blog post - github -"
   },
   {
     "name": "dht-sensor",
     "url": "https://crates.io/crates/dht-sensor",
-    "description": "1-Wire - DHT11/DHT22 temperature/humidity sensor driver - github - "
+    "description": "1-Wire - DHT11/DHT22 temperature/humidity sensor driver - github -"
   },
   {
     "name": "DRV8825",
     "url": "https://crates.io/crates/drv8825",
-    "description": "DRV8825 Stepper Motor Driver (based on Stepper) - Intro blog post - "
+    "description": "DRV8825 Stepper Motor Driver (based on Stepper) - Intro blog post -"
   },
   {
     "name": "DS1307",
     "url": "https://crates.io/crates/ds1307",
-    "description": "I2C - Real-time clock driver - Intro blog post - "
+    "description": "I2C - Real-time clock driver - Intro blog post -"
   },
   {
     "name": "ebyte-e32",
     "url": "https://crates.io/crates/ebyte-e32",
-    "description": "SERIAL - Ebyte E32 LoRa module driver - Intro blog post - "
+    "description": "SERIAL - Ebyte E32 LoRa module driver - Intro blog post -"
   },
   {
     "name": "EEPROM24x",
     "url": "https://crates.io/crates/eeprom24x",
-    "description": "I2C - 24x series serial EEPROM driver - Intro blog post - "
+    "description": "I2C - 24x series serial EEPROM driver - Intro blog post -"
   },
   {
     "name": "embedded-ccs811",
     "url": "https://crates.io/crates/embedded-ccs811",
-    "description": "I2C - Gas and VOC sensor driver for monitoring indoor air quality - Intro blog post - "
+    "description": "I2C - Gas and VOC sensor driver for monitoring indoor air quality - Intro blog post -"
   },
   {
     "name": "embedded-sdmmc",
     "url": "https://crates.io/crates/embedded-sdmmc",
-    "description": "SPI - SD/MMC Card Driver with MS-DOS Partition and FAT16/FAT32 support - Intro post "
+    "description": "SPI - SD/MMC Card Driver with MS-DOS Partition and FAT16/FAT32 support - Intro post"
   },
   {
     "name": "ENC28J60",
     "url": "https://crates.io/crates/enc28j60",
-    "description": "SPI - Ethernet controller - Intro blog post - "
+    "description": "SPI - Ethernet controller - Intro blog post -"
   },
   {
     "name": "FUSB302B",
@@ -1425,72 +1425,72 @@
   {
     "name": "HC-12",
     "url": "https://crates.io/crates/hc12-at",
-    "description": "SERIAL - Wireless serial transceiver module - Intro blog post - github - "
+    "description": "SERIAL - Wireless serial transceiver module - Intro blog post - github -"
   },
   {
     "name": "HTS221",
     "url": "https://crates.io/crates/hts221",
-    "description": "I2C - Humidity and temperature sensor - Intro blog post - "
+    "description": "I2C - Humidity and temperature sensor - Intro blog post -"
   },
   {
     "name": "IIS2MDC",
     "url": "https://crates.io/crates/iis2mdc",
-    "description": "I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - "
+    "description": "I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer -"
   },
   {
     "name": "ISM330DHCX",
     "url": "https://crates.io/crates/ism330dhcx",
-    "description": "I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - "
+    "description": "I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more -"
   },
   {
     "name": "keypad",
     "url": "https://crates.io/crates/keypad",
-    "description": "GPIO - Keypad matrix circuits - Intro post - "
+    "description": "GPIO - Keypad matrix circuits - Intro post -"
   },
   {
     "name": "KXCJ9",
     "url": "https://crates.io/crates/kxcj9",
-    "description": "I2C - KXCJ9/KXCJB 3-axis accelerometers - Intro blog post - "
+    "description": "I2C - KXCJ9/KXCJB 3-axis accelerometers - Intro blog post -"
   },
   {
     "name": "L3GD20",
     "url": "https://crates.io/crates/l3gd20",
-    "description": "SPI - Gyroscope - Intro blog post - "
+    "description": "SPI - Gyroscope - Intro blog post -"
   },
   {
     "name": "LSM303DLHC",
     "url": "https://crates.io/crates/lsm303dlhc",
-    "description": "I2C - Accelerometer + compass (magnetometer) - Intro blog post - "
+    "description": "I2C - Accelerometer + compass (magnetometer) - Intro blog post -"
   },
   {
     "name": "MAX6955",
     "url": "https://crates.io/crates/max6955",
-    "description": "I2C - Driver for Alphanumeric LED display driver - Intro blog post - "
+    "description": "I2C - Driver for Alphanumeric LED display driver - Intro blog post -"
   },
   {
     "name": "MAX116xx-10bit",
     "url": "https://crates.io/crates/max116xx-10bit",
-    "description": "SPI - Driver for the MAX11619-MAX11621, MAX11624 and MAX11625 10-bit ADCs - Intro blog post - "
+    "description": "SPI - Driver for the MAX11619-MAX11621, MAX11624 and MAX11625 10-bit ADCs - Intro blog post -"
   },
   {
     "name": "MCP25LCXX",
     "url": "https://crates.io/crates/microchip-eeprom-25lcxx",
-    "description": "SPI - Driver for Microchip's 25LC series of EEPROMs - "
+    "description": "SPI - Driver for Microchip's 25LC series of EEPROMs -"
   },
   {
     "name": "MCP3008",
     "url": "https://crates.io/crates/adc-mcp3008",
-    "description": "SPI - 8 channel 10-bit ADC - Intro blog post - "
+    "description": "SPI - 8 channel 10-bit ADC - Intro blog post -"
   },
   {
     "name": "MCP3425",
     "url": "https://crates.io/crates/mcp3425",
-    "description": "I2C - 16-bit ADC - Intro blog post - "
+    "description": "I2C - 16-bit ADC - Intro blog post -"
   },
   {
     "name": "MCP794xx",
     "url": "https://crates.io/crates/mcp794xx",
-    "description": "I2C - Real-time clock / calendar driver - Intro blog post - "
+    "description": "I2C - Real-time clock / calendar driver - Intro blog post -"
   },
   {
     "name": "MMA7660FC",
@@ -1500,207 +1500,207 @@
   {
     "name": "OPT300x",
     "url": "https://github.com/eldruin/opt300x-rs",
-    "description": "I2C - Ambient light sensor family driver  - Intro blog post - "
+    "description": "I2C - Ambient light sensor family driver  - Intro blog post -"
   },
   {
     "name": "PAC194X",
     "url": "https://github.com/kiranshila/pac194x",
-    "description": "I2C - Single/multi channel power monitor - Intro blog post - "
+    "description": "I2C - Single/multi channel power monitor - Intro blog post -"
   },
   {
     "name": "port-expander",
     "url": "https://crates.io/crates/port-expander",
-    "description": "I2C - Driver for I2C port expanders (supports PCA95xx, PCF85xx) - Intro blog post - "
+    "description": "I2C - Driver for I2C port expanders (supports PCA95xx, PCF85xx) - Intro blog post -"
   },
   {
     "name": "pwm-pca9685",
     "url": "https://crates.io/crates/pwm-pca9685",
-    "description": "I2C - 16-channel, 12-bit PWM/Servo/LED controller - Intro blog post - "
+    "description": "I2C - 16-channel, 12-bit PWM/Servo/LED controller - Intro blog post -"
   },
   {
     "name": "rainbow-hat-rs",
     "url": "https://crates.io/crates/rainbow-hat-rs",
-    "description": "I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - github - "
+    "description": "I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - github -"
   },
   {
     "name": "rotary-encoder-hal",
     "url": "https://crates.io/crates/rotary-encoder-hal",
-    "description": "GPIO - A rotary encoder driver using embedded-hal - Intro blog post - "
+    "description": "GPIO - A rotary encoder driver using embedded-hal - Intro blog post -"
   },
   {
     "name": "sega-controller",
     "url": "https://crates.io/crates/sega-controller",
-    "description": "GPIO - Sega controller input - github - "
+    "description": "GPIO - Sega controller input - github -"
   },
   {
     "name": "SGP30",
     "url": "https://crates.io/crates/sgp30",
-    "description": "I2C - Gas sensor - Intro blog post - "
+    "description": "I2C - Gas sensor - Intro blog post -"
   },
   {
     "name": "SH1106",
     "url": "https://crates.io/crates/sh1106",
-    "description": "I2C - Monochrome OLED display controller - Intro post "
+    "description": "I2C - Monochrome OLED display controller - Intro post"
   },
   {
     "name": "shared-bus",
     "url": "https://github.com/Rahix/shared-bus",
-    "description": "I2C - utility driver for sharing a bus between multiple devices - Intro post "
+    "description": "I2C - utility driver for sharing a bus between multiple devices - Intro post"
   },
   {
     "name": "shift-register-driver",
     "url": "https://crates.io/crates/shift-register-driver",
-    "description": "GPIO - Shift register - Intro blog post - "
+    "description": "GPIO - Shift register - Intro blog post -"
   },
   {
     "name": "Si4703",
     "url": "https://crates.io/crates/si4703",
-    "description": "I2C - FM radio turner (receiver) driver  - Intro blog post - "
+    "description": "I2C - FM radio turner (receiver) driver  - Intro blog post -"
   },
   {
     "name": "SRAM23x",
     "url": "https://crates.io/crates/sram23x",
-    "description": "SPI - Microchip 23x series serial SRAM/NVSRAM driver - Intro blog post - "
+    "description": "SPI - Microchip 23x series serial SRAM/NVSRAM driver - Intro blog post -"
   },
   {
     "name": "SSD1306",
     "url": "https://crates.io/crates/ssd1306",
-    "description": "I2C/SPI - OLED display controller - Intro blog post - "
+    "description": "I2C/SPI - OLED display controller - Intro blog post -"
   },
   {
     "name": "SSD1309",
     "url": "https://crates.io/crates/ssd1309",
-    "description": "I2C/SPI - OLED display controller - Intro blog post - "
+    "description": "I2C/SPI - OLED display controller - Intro blog post -"
   },
   {
     "name": "STSPIN220",
     "url": "https://crates.io/crates/stspin220",
-    "description": "STSPIN220 Stepper Motor Driver (based on Stepper) - Intro blog post - "
+    "description": "STSPIN220 Stepper Motor Driver (based on Stepper) - Intro blog post -"
   },
   {
     "name": "Sx127x",
     "url": "https://crates.io/crates/radio-sx127x",
-    "description": "SPI - Long Range Low Power Sub GHz (Gfsk, LoRa) RF Transceiver - Intro blog post - "
+    "description": "SPI - Long Range Low Power Sub GHz (Gfsk, LoRa) RF Transceiver - Intro blog post -"
   },
   {
     "name": "Sx128x",
     "url": "https://crates.io/crates/radio-sx128x",
-    "description": "SPI - Long range, low power 2.4 GHz (Gfsk, Flrc, LoRa) RF Transceiver - Intro blog post - "
+    "description": "SPI - Long range, low power 2.4 GHz (Gfsk, Flrc, LoRa) RF Transceiver - Intro blog post -"
   },
   {
     "name": "TC72",
     "url": "https://crates.io/crates/microchip-tc72r-rs",
-    "description": "SPI - Microchip TC72 temperature sensor - "
+    "description": "SPI - Microchip TC72 temperature sensor -"
   },
   {
     "name": "TCN75A",
     "url": "https://crates.io/crates/tcn75a",
-    "description": "I2C - Microchip TCN75A temperature sensor - "
+    "description": "I2C - Microchip TCN75A temperature sensor -"
   },
   {
     "name": "TMP006",
     "url": "https://crates.io/crates/tmp006",
-    "description": "I2C - Contact-less infrared (IR) thermopile temperature sensor driver - Intro post "
+    "description": "I2C - Contact-less infrared (IR) thermopile temperature sensor driver - Intro post"
   },
   {
     "name": "TMP1x2",
     "url": "https://crates.io/crates/tmp1x2",
-    "description": "I2C - TMP102 and TMP112x temperature sensor driver - Intro blog post "
+    "description": "I2C - TMP102 and TMP112x temperature sensor driver - Intro blog post"
   },
   {
     "name": "TSIC",
     "url": "https://crates.io/crates/tsic",
-    "description": "GPIO - TSIC 306 temperature sensor driver - Intro blog post "
+    "description": "GPIO - TSIC 306 temperature sensor driver - Intro blog post"
   },
   {
     "name": "TSL256X",
     "url": "https://crates.io/crates/tsl256x",
-    "description": "I2C - Light Intensity Sensor - Intro blog post - "
+    "description": "I2C - Light Intensity Sensor - Intro blog post -"
   },
   {
     "name": "VEML6030/VEML7700",
     "url": "https://crates.io/crates/veml6030",
-    "description": "I2C - Ambient light sensors - Intro blog post - "
+    "description": "I2C - Ambient light sensors - Intro blog post -"
   },
   {
     "name": "VEML6075",
     "url": "https://crates.io/crates/veml6075",
-    "description": "I2C - UVA and UVB light sensor - Intro blog post - "
+    "description": "I2C - UVA and UVB light sensor - Intro blog post -"
   },
   {
     "name": "usbd-serial",
     "url": "http://crates.io/crates/usbd-serial",
-    "description": "USB CDC-ACM class (serial) implementation - github - "
+    "description": "USB CDC-ACM class (serial) implementation - github -"
   },
   {
     "name": "usbd-hid",
     "url": "http://crates.io/crates/usbd-hid",
-    "description": "USB HID class implementation - github - "
+    "description": "USB HID class implementation - github -"
   },
   {
     "name": "usbd-hid-device",
     "url": "http://crates.io/crates/usbd-hid-device",
-    "description": "USB HID class implementation without unsafe - github - "
+    "description": "USB HID class implementation without unsafe - github -"
   },
   {
     "name": "usbd-human-interface-device",
     "url": "https://github.com/dlkj/usbd-human-interface-device",
-    "description": "Batteries included embedded USB HID library for usb-device. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - github - "
+    "description": "Batteries included embedded USB HID library for usb-device. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - github -"
   },
   {
     "name": "usbd-midi",
     "url": "http://crates.io/crates/usbd-midi",
-    "description": "USB MIDI class implementation - github - "
+    "description": "USB MIDI class implementation - github -"
   },
   {
     "name": "usbd-webusb",
     "url": "http://crates.io/crates/usbd-webusb",
-    "description": "USB webUSB class implementation - github - "
+    "description": "USB webUSB class implementation - github -"
   },
   {
     "name": "SHTCx",
     "url": "http://crates.io/crates/shtcx",
-    "description": "I2C - Temperature / humidity sensors - github - "
+    "description": "I2C - Temperature / humidity sensors - github -"
   },
   {
     "name": "ST7789",
     "url": "http://crates.io/crates/st7789",
-    "description": "SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - github - "
+    "description": "SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - github -"
   },
   {
     "name": "DW1000",
     "url": "https://crates.io/crates/dw1000",
-    "description": "SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - Article - "
+    "description": "SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - Article -"
   },
   {
     "name": "Adafruit-7segment",
     "url": "https://crates.io/crates/adafruit-7segment",
-    "description": "I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - github - "
+    "description": "I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - github -"
   },
   {
     "name": "ST7565",
     "url": "http://crates.io/crates/st7565",
-    "description": "SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - github - "
+    "description": "SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - github -"
   },
   {
     "name": "tb6612fng",
     "url": "https://crates.io/crates/tb6612fng",
-    "description": "A no_std driver for the TB6612FNG motor driver - "
+    "description": "A no_std driver for the TB6612FNG motor driver -"
   },
   {
     "name": "vl53l1x-uld",
     "url": "https://crates.io/crates/vl53l1x-uld",
-    "description": "I2C - A pure-rust driver for the ST VL53L1X - "
+    "description": "I2C - A pure-rust driver for the ST VL53L1X -"
   },
   {
     "name": "i2c-multiplexer",
     "url": "https://crates.io/crates/i2c-multiplexer",
-    "description": "I2C - An I2C Multiplexer library that supports the PCA9546 and TCA9546A chips - github - "
+    "description": "I2C - An I2C Multiplexer library that supports the PCA9546 and TCA9546A chips - github -"
   },
   {
     "name": "SHT31-rs",
     "url": "https://crates.io/crates/sht31",
-    "description": "I2C - Fully supported SHT temperature / humidity sensors - github - "
+    "description": "I2C - Fully supported SHT temperature / humidity sensors - github -"
   },
   {
     "name": "AFE4400",
@@ -1710,7 +1710,7 @@
   {
     "name": "APDS9960",
     "url": "https://crates.io/crates/apds9960",
-    "description": "I2C - Proximity, ambient light, RGB and gesture sensor - "
+    "description": "I2C - Proximity, ambient light, RGB and gesture sensor -"
   },
   {
     "name": "AS5048A",
@@ -1730,27 +1730,27 @@
   {
     "name": "BME280",
     "url": "https://crates.io/crates/bme280",
-    "description": "A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor. "
+    "description": "A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor."
   },
   {
     "name": "bme680",
     "url": "https://github.com/marcelbuesing/bme680",
-    "description": "I2C - Temperature / humidity / gas / pressure sensor - "
+    "description": "I2C - Temperature / humidity / gas / pressure sensor -"
   },
   {
     "name": "BMI160",
     "url": "https://crates.io/crates/bmi160",
-    "description": "I2C / SPI - Inertial Measurement Unit - "
+    "description": "I2C / SPI - Inertial Measurement Unit -"
   },
   {
     "name": "BMP280",
     "url": "https://crates.io/crates/bmp280-ehal",
-    "description": "A platform agnostic driver to interface with the BMP280 pressure sensor "
+    "description": "A platform agnostic driver to interface with the BMP280 pressure sensor"
   },
   {
     "name": "CC1101",
     "url": "https://crates.io/crates/cc1101",
-    "description": "SPI - Sub-1GHz RF Transceiver - "
+    "description": "SPI - Sub-1GHz RF Transceiver -"
   },
   {
     "name": "DS3231",
@@ -1765,17 +1765,17 @@
   {
     "name": "DS323x",
     "url": "https://crates.io/crates/ds323x",
-    "description": "I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - "
+    "description": "I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 -"
   },
   {
     "name": "epd-waveshare",
     "url": "https://crates.io/crates/epd-waveshare",
-    "description": "SPI - driver for E-Paper Modules from Waveshare "
+    "description": "SPI - driver for E-Paper Modules from Waveshare"
   },
   {
     "name": "embedded-morse",
     "url": "https://crates.io/crates/embedded-morse",
-    "description": "Output morse messages - "
+    "description": "Output morse messages -"
   },
   {
     "name": "embedded-nrf24l01",
@@ -1785,17 +1785,17 @@
   {
     "name": "Ft6x36",
     "url": "https://crates.io/crates/ft6x36",
-    "description": "I2C - Rust driver for focal tech touch screen FT6236, FT6336 - "
+    "description": "I2C - Rust driver for focal tech touch screen FT6236, FT6336 -"
   },
   {
     "name": "grove-matrix-led-my9221-rs",
     "url": "https://crates.io/crates/grove-matrix-led-my9221-rs",
-    "description": "I2C - Rust driver for Grove RGB Matrix Led with my-9221 Driver - "
+    "description": "I2C - Rust driver for Grove RGB Matrix Led with my-9221 Driver -"
   },
   {
     "name": "GridEYE",
     "url": "https://crates.io/crates/grideye",
-    "description": "I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - "
+    "description": "I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) -"
   },
   {
     "name": "HC-SR04",
@@ -1805,7 +1805,7 @@
   {
     "name": "HD44780-driver",
     "url": "https://crates.io/crates/hd44780-driver",
-    "description": "GPIO - LCD controller - "
+    "description": "GPIO - LCD controller -"
   },
   {
     "name": "HD44780",
@@ -1815,27 +1815,27 @@
   {
     "name": "HM11",
     "url": "https://crates.io/crates/hm11",
-    "description": "USART - HM-11 bluetooth module AT configuration crate - "
+    "description": "USART - HM-11 bluetooth module AT configuration crate -"
   },
   {
     "name": "HRS3300",
     "url": "https://crates.io/crates/hrs3300",
-    "description": "I2C - Heart rate sensor / monitor used in the PineTime smartwatch, for example. - "
+    "description": "I2C - Heart rate sensor / monitor used in the PineTime smartwatch, for example. -"
   },
   {
     "name": "HDC20xx",
     "url": "https://crates.io/crates/hdc20xx",
-    "description": "I2C - Temperature and humidity sensor compatible with HDC2080, HDC2021 and HDC2010. - "
+    "description": "I2C - Temperature and humidity sensor compatible with HDC2080, HDC2021 and HDC2010. -"
   },
   {
     "name": "hub75",
     "url": "https://github.com/david-sawatzke/hub75-rs",
-    "description": "A driver for rgb led matrices with the hub75 interface  - "
+    "description": "A driver for rgb led matrices with the hub75 interface  -"
   },
   {
     "name": "hzgrow-r502",
     "url": "https://crates.io/crates/hzgrow-r502",
-    "description": "UART capacitive fingerprint reader - "
+    "description": "UART capacitive fingerprint reader -"
   },
   {
     "name": "iAQ-Core",
@@ -1850,22 +1850,22 @@
   {
     "name": "INA260",
     "url": "https://crates.io/crates/ina260",
-    "description": "I2C - power monitor - "
+    "description": "I2C - power monitor -"
   },
   {
     "name": "ISL29125",
     "url": "https://crates.io/crates/isl29125",
-    "description": "I2C - RGB Color Light Sensor with IR Blocking Filter - "
+    "description": "I2C - RGB Color Light Sensor with IR Blocking Filter -"
   },
   {
     "name": "IST7920",
     "url": "https://crates.io/crates/ist7920",
-    "description": "SPI monochrome LCD display - "
+    "description": "SPI monochrome LCD display -"
   },
   {
     "name": "LM75",
     "url": "https://crates.io/crates/lm75",
-    "description": "I2C - Temperature sensor and thermal watchdog - "
+    "description": "I2C - Temperature sensor and thermal watchdog -"
   },
   {
     "name": "LS010B7DH01",
@@ -1875,27 +1875,27 @@
   {
     "name": "LSM303C",
     "url": "https://crates.io/crates/lsm303c",
-    "description": "A platform agnostic driver to interface with the LSM303C (accelerometer + compass) "
+    "description": "A platform agnostic driver to interface with the LSM303C (accelerometer + compass)"
   },
   {
     "name": "LSM9DS1",
     "url": "https://crates.io/crates/lsm9ds1",
-    "description": "I2C/SPI - 9-axis motion sensor module "
+    "description": "I2C/SPI - 9-axis motion sensor module"
   },
   {
     "name": "ltr-559",
     "url": "https://crates.io/crates/ltr-559",
-    "description": "I2C - Ambient Light Sensor and Proximity sensor "
+    "description": "I2C - Ambient Light Sensor and Proximity sensor"
   },
   {
     "name": "lvgl",
     "url": "https://github.com/rafaelcaricio/lvgl-rs",
-    "description": "no_std LittleVGL port - "
+    "description": "no_std LittleVGL port -"
   },
   {
     "name": "M95320",
     "url": "https://crates.io/crates/m95320",
-    "description": "SPI - STMicroelectronics Serial flash EEPROM - "
+    "description": "SPI - STMicroelectronics Serial flash EEPROM -"
   },
   {
     "name": "MAG3110",
@@ -1905,7 +1905,7 @@
   {
     "name": "MAX17048/9",
     "url": "https://crates.io/crates/max17048",
-    "description": "I2C - LiPo Fuel gauge, battery monitoring IC - "
+    "description": "I2C - LiPo Fuel gauge, battery monitoring IC -"
   },
   {
     "name": "MAX170xx",
@@ -1925,32 +1925,32 @@
   {
     "name": "MAX31865",
     "url": "https://crates.io/crates/max31865",
-    "description": "SPI - RTD to Digital converter - "
+    "description": "SPI - RTD to Digital converter -"
   },
   {
     "name": "MAX44009",
     "url": "https://crates.io/crates/max44009",
-    "description": "I2C - Ambient light sensor - "
+    "description": "I2C - Ambient light sensor -"
   },
   {
     "name": "MAX7219",
     "url": "https://github.com/almindor/max7219",
-    "description": "SPI - LED display driver - "
+    "description": "SPI - LED display driver -"
   },
   {
     "name": "MCP4725",
     "url": "https://crates.io/crates/mcp4725",
-    "description": "I2C - 12-bit DAC - "
+    "description": "I2C - 12-bit DAC -"
   },
   {
     "name": "MCP49xx",
     "url": "https://crates.io/crates/mcp49xx",
-    "description": "SPI - 8/10/12-bit DACs like MCP4921, MCP4922, MCP4801, etc. - "
+    "description": "SPI - 8/10/12-bit DACs like MCP4921, MCP4922, MCP4801, etc. -"
   },
   {
     "name": "MCP9808",
     "url": "https://crates.io/crates/mcp9808",
-    "description": "I2C - Temperature sensor - "
+    "description": "I2C - Temperature sensor -"
   },
   {
     "name": "MFRC522",
@@ -1960,12 +1960,12 @@
   {
     "name": "midi-port",
     "url": "https://crates.io/crates/midi-port",
-    "description": "UART - MIDI input - "
+    "description": "UART - MIDI input -"
   },
   {
     "name": "MLX9061x",
     "url": "https://crates.io/crates/mlx9061x",
-    "description": "I2C - MLX90614/MLX90615 Contact-less infrared (IR) temperature sensor driver. - "
+    "description": "I2C - MLX90614/MLX90615 Contact-less infrared (IR) temperature sensor driver. -"
   },
   {
     "name": "motor-driver",
@@ -1975,12 +1975,12 @@
   {
     "name": "MPU6050",
     "url": "https://crates.io/crates/mpu6050",
-    "description": "I2C - no_std driver for the MPU6050 "
+    "description": "I2C - no_std driver for the MPU6050"
   },
   {
     "name": "MPU9250",
     "url": "https://crates.io/crates/mpu9250",
-    "description": "no_std driver for the MPU9250 (and other MPU* devices) & onboard AK8963 (accelerometer + gyroscope +  magnetometer IMU) "
+    "description": "no_std driver for the MPU9250 (and other MPU* devices) & onboard AK8963 (accelerometer + gyroscope +  magnetometer IMU)"
   },
   {
     "name": "NRF24L01",
@@ -1990,7 +1990,7 @@
   {
     "name": "OneWire",
     "url": "https://crates.io/crates/onewire",
-    "description": "1wire - OneWire protocol implementation with drivers for devices such as DS18B20 - "
+    "description": "1wire - OneWire protocol implementation with drivers for devices such as DS18B20 -"
   },
   {
     "name": "PCD8544",
@@ -2000,17 +2000,17 @@
   {
     "name": "PCD8544_rich",
     "url": "https://crates.io/crates/pcd8544",
-    "description": "SPI - Rich driver for 48x84 pixels matrix LCD controller  - "
+    "description": "SPI - Rich driver for 48x84 pixels matrix LCD controller  -"
   },
   {
     "name": "PCF857x",
     "url": "https://crates.io/crates/pcf857x",
-    "description": "I2C - I/O expanders: PCF8574, PCF8574A, PCF8575 "
+    "description": "I2C - I/O expanders: PCF8574, PCF8574A, PCF8575"
   },
   {
     "name": "radio-at86rf212",
     "url": "https://crates.io/crates/radio-at86rf212",
-    "description": "SPI - Sub GHz 802.15.4 radio transceiver "
+    "description": "SPI - Sub GHz 802.15.4 radio transceiver"
   },
   {
     "name": "RFM69",
@@ -2025,7 +2025,7 @@
   {
     "name": "SCD30",
     "url": "https://crates.io/crates/scd30",
-    "description": "I2C - CO₂ sensor - "
+    "description": "I2C - CO₂ sensor -"
   },
   {
     "name": "SHT2x",
@@ -2050,47 +2050,47 @@
   {
     "name": "SPL06-007",
     "url": "https://github.com/roxgib/SPL06-007",
-    "description": "I2C - Pressure and temerature sensor - "
+    "description": "I2C - Pressure and temerature sensor -"
   },
   {
     "name": "spi-memory",
     "url": "https://github.com/jonas-schievink/spi-memory/",
-    "description": "SPI - A generic driver for various SPI Flash and EEPROM chips - "
+    "description": "SPI - A generic driver for various SPI Flash and EEPROM chips -"
   },
   {
     "name": "SSD1320",
     "url": "https://crates.io/crates/ssd1320",
-    "description": "SPI - Graphical OLED display controller - "
+    "description": "SPI - Graphical OLED display controller -"
   },
   {
     "name": "SSD1322",
     "url": "https://crates.io/crates/ssd1322",
-    "description": "SPI - Graphical OLED display controller - "
+    "description": "SPI - Graphical OLED display controller -"
   },
   {
     "name": "SSD1351",
     "url": "https://crates.io/crates/ssd1351",
-    "description": "SPI - 16bit colour OLED display driver - "
+    "description": "SPI - 16bit colour OLED display driver -"
   },
   {
     "name": "SSD1675",
     "url": "https://crates.io/crates/ssd1675",
-    "description": "SPI - Tri-color ePaper display controller - "
+    "description": "SPI - Tri-color ePaper display controller -"
   },
   {
     "name": "st7032i",
     "url": "https://github.com/dotcypress/st7032i",
-    "description": "I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - "
+    "description": "I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). -"
   },
   {
     "name": "ST7735-lcd",
     "url": "https://crates.io/crates/st7735-lcd",
-    "description": "SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix "
+    "description": "SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix"
   },
   {
     "name": "ST7920",
     "url": "https://crates.io/crates/st7920",
-    "description": "SPI - LCD displays using the ST7920 controller "
+    "description": "SPI - LCD displays using the ST7920 controller"
   },
   {
     "name": "stm32-eth",
@@ -2110,47 +2110,47 @@
   {
     "name": "TCS3472",
     "url": "https://crates.io/crates/tcs3472",
-    "description": "I2C - RGB color light sensor - "
+    "description": "I2C - RGB color light sensor -"
   },
   {
     "name": "TPA2016D2",
     "url": "https://crates.io/crates/tpa2016d2",
-    "description": "I2C - A driver for interfacing with the Texas Instruments TPA2016D2 Class-D amplifier - "
+    "description": "I2C - A driver for interfacing with the Texas Instruments TPA2016D2 Class-D amplifier -"
   },
   {
     "name": "VEML6040",
     "url": "https://crates.io/crates/veml6040",
-    "description": "I2C - RGBW color light sensor - "
+    "description": "I2C - RGBW color light sensor -"
   },
   {
     "name": "VEML6070",
     "url": "https://crates.io/crates/veml6070",
-    "description": "I2C - UVA light sensor - "
+    "description": "I2C - UVA light sensor -"
   },
   {
     "name": "VEML7700",
     "url": "https://crates.io/crates/veml7700",
-    "description": "I2C - Ambient light sensors - "
+    "description": "I2C - Ambient light sensors -"
   },
   {
     "name": "vesc-comm",
     "url": "https://github.com/chocol4te/vesc-comm",
-    "description": "A driver for communicating with VESC-compatible electronic speed controllers "
+    "description": "A driver for communicating with VESC-compatible electronic speed controllers"
   },
   {
     "name": "VL53L0X",
     "url": "https://crates.io/crates/vl53l0x",
-    "description": "A platform agnostic driver to interface with the vl53l0x (time-of-flight sensor) "
+    "description": "A platform agnostic driver to interface with the vl53l0x (time-of-flight sensor)"
   },
   {
     "name": "w5500",
     "url": "https://crates.io/crates/w5500",
-    "description": "SPI - Ethernet Module with hardwired protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE - "
+    "description": "SPI - Ethernet Module with hardwired protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE -"
   },
   {
     "name": "xCA9548A",
     "url": "https://crates.io/crates/xca9548a",
-    "description": "I2C - I2C switches/multiplexers: TCA9548A, PCA9548A - "
+    "description": "I2C - I2C switches/multiplexers: TCA9548A, PCA9548A -"
   },
   {
     "name": "ublox-cellular-rs",
@@ -2501,5 +2501,9 @@
   {
     "name": "Ferrous Systems' Embedded Training Courses: 2019 edition",
     "url": "https://github.com/ferrous-systems/embedded-trainings/"
+  },
+  {
+    "name": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
   }
 ]

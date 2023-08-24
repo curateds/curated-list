@@ -1,5 +1,85 @@
 [
   {
+    "name": "elementary OS",
+    "url": "http://elementary.io/"
+  },
+  {
+    "name": "Fedora",
+    "url": "https://getfedora.org/"
+  },
+  {
+    "name": "Linux Mint",
+    "url": "http://linuxmint.com/"
+  },
+  {
+    "name": "Ubuntu",
+    "url": "http://www.ubuntu.com/"
+  },
+  {
+    "name": "CentOS",
+    "url": "https://www.centos.org/"
+  },
+  {
+    "name": "Debian GNU/Linux",
+    "url": "https://www.debian.org/"
+  },
+  {
+    "name": "Mageia",
+    "url": "http://www.mageia.org/"
+  },
+  {
+    "name": "Manjaro",
+    "url": "https://manjaro.org/"
+  },
+  {
+    "name": "openSUSE",
+    "url": "http://www.opensuse.org/"
+  },
+  {
+    "name": "Arch Linux",
+    "url": "https://www.archlinux.org/"
+  },
+  {
+    "name": "CoreOS",
+    "url": "https://coreos.com/"
+  },
+  {
+    "name": "Kali Linux",
+    "url": "http://www.kali.org/"
+  },
+  {
+    "name": "Puppy Linux",
+    "url": "http://puppylinux.org/"
+  },
+  {
+    "name": "Ubuntu Studio",
+    "url": "http://ubuntustudio.org/"
+  },
+  {
+    "name": "Tails",
+    "url": "https://tails.boum.org/index.en.html"
+  },
+  {
+    "name": "The Linux Command Line",
+    "url": "https://www.goodreads.com/book/show/11724436-the-linux-command-line"
+  },
+  {
+    "name": "The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery",
+    "url": "https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas"
+  },
+  {
+    "name": "FREE",
+    "url": "https://en.wikibooks.org/wiki/Bash_Shell_Scripting"
+  },
+  {
+    "name": "Introduction to Linux (LFS101x-1)",
+    "url": "https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1"
+  },
+  {
+    "name": "Linux Alternatives to Windows Applications",
+    "url": "https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS"
+  },
+  {
     "name": "Beautiful Bash: Let's make reading and writing bash scripts fun again!",
     "url": "https://www.slideshare.net/a_z_e_t/inpresentation"
   },
@@ -22,6 +102,22 @@
   {
     "name": "Advanced Bash-Scripting Guide",
     "url": "https://linux.die.net/abs-guide/"
+  },
+  {
+    "name": "GNOME",
+    "url": "https://www.gnome.org"
+  },
+  {
+    "name": "KDE",
+    "url": "https://www.kde.org"
+  },
+  {
+    "name": "Xfce",
+    "url": "http://www.xfce.org/"
+  },
+  {
+    "name": "LXDE",
+    "url": "http://lxde.org/"
   },
   {
     "name": "Cinnamon",
@@ -387,5 +483,37 @@
     "name": "youtube-dl",
     "url": "https://github.com/rg3/youtube-dl",
     "description": "A tool to download videos from YouTube and other video sites."
+  },
+  {
+    "name": "Compute Freely",
+    "url": "http://computefreely.org/"
+  },
+  {
+    "name": "AlternativeTo",
+    "url": "http://alternativeto.net"
+  },
+  {
+    "name": "Linux Foundation",
+    "url": "https://www.linuxfoundation.org/"
+  },
+  {
+    "name": "Linux.com",
+    "url": "http://www.linux.com/"
+  },
+  {
+    "name": "Linux.org",
+    "url": "http://www.linux.org/"
+  },
+  {
+    "name": "Kernel.org",
+    "url": "https://www.kernel.org/"
+  },
+  {
+    "name": "Opensource.com",
+    "url": "http://opensource.com"
+  },
+  {
+    "name": "Linux.die",
+    "url": "https://linux.die.net/"
   }
 ]

@@ -1,5 +1,165 @@
 [
   {
+    "name": "Adopting Elixir",
+    "url": "https://pragprog.com/titles/tvmelixir/adopting-elixir/"
+  },
+  {
+    "name": "Elixir Cookbook",
+    "url": "https://www.packtpub.com/product/elixir-cookbook/9781784397517"
+  },
+  {
+    "name": "Elixir in Action",
+    "url": "https://www.manning.com/books/elixir-in-action"
+  },
+  {
+    "name": "Elixir succinctly",
+    "url": "https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly"
+  },
+  {
+    "name": "Études for Elixir",
+    "url": "https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/"
+  },
+  {
+    "name": "Getting Started",
+    "url": "https://elixir-lang.org/getting-started/introduction.html"
+  },
+  {
+    "name": "Introducing Elixir",
+    "url": "https://www.oreilly.com/library/view/introducing-elixir/9781449369989/"
+  },
+  {
+    "name": "Learn Functional Programming with Elixir",
+    "url": "https://pragprog.com/search/?q=learn-functional-programming-with-elixir"
+  },
+  {
+    "name": "Learn You Some Erlang for Great Good",
+    "url": "https://learnyousomeerlang.com/"
+  },
+  {
+    "name": "Learning Elixir",
+    "url": "https://www.packtpub.com/product/learning-elixir/9781785881749"
+  },
+  {
+    "name": "Programming Elixir ≥ 1.6",
+    "url": "https://pragprog.com/titles/elixir16/programming-elixir-1-6/"
+  },
+  {
+    "name": "The Little Elixir & OTP Guidebook",
+    "url": "https://www.manning.com/books/the-little-elixir-and-otp-guidebook"
+  },
+  {
+    "name": "The Ultimate Guide For Making the Jump To Elixir",
+    "url": "https://www.amazon.com/Ultimate-Guide-Making-Jump-Elixir-ebook/dp/B07DH4G7X2"
+  },
+  {
+    "name": "Building Scalable Applications with Erlang",
+    "url": "https://www.abebooks.com/9780321636461/Building-Scalable-Applications-Erlang-Developers-0321636465/plp"
+  },
+  {
+    "name": "Craft GraphQL APIs in Elixir with Absinthe",
+    "url": "https://pragprog.com/titles/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe/"
+  },
+  {
+    "name": "Designing Elixir Systems with OTP",
+    "url": "https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/"
+  },
+  {
+    "name": "Designing for Scalability with Erlang/OTP",
+    "url": "https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/"
+  },
+  {
+    "name": "Erlang and Elixir for Imperative Programmers",
+    "url": "https://www.amazon.com/Erlang-Elixir-Imperative-Programmers-Wolfgang/dp/1484223934"
+  },
+  {
+    "name": "Erlang and OTP in Action",
+    "url": "https://www.manning.com/books/erlang-and-otp-in-action"
+  },
+  {
+    "name": "Erlang In Anger",
+    "url": "http://www.erlang-in-anger.com/"
+  },
+  {
+    "name": "Mastering Elixir",
+    "url": "https://www.packtpub.com/product/mastering-elixir/9781788472678"
+  },
+  {
+    "name": "Metaprogramming Elixir",
+    "url": "https://pragprog.com/titles/cmelixir/metaprogramming-elixir/"
+  },
+  {
+    "name": "Programming Erlang",
+    "url": "https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/"
+  },
+  {
+    "name": "Property-Based Testing with PropEr, Erlang, and Elixir",
+    "url": "https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/"
+  },
+  {
+    "name": "Hands-on Elixir & OTP: Cryptocurrency trading bot",
+    "url": "https://elixircryptobot.com/"
+  },
+  {
+    "name": "Building Web Applications with Erlang",
+    "url": "https://www.oreilly.com/library/view/building-web-applications/9781449320621/"
+  },
+  {
+    "name": "Elixir and Elm Tutorial",
+    "url": "https://leanpub.com/elixir-elm-tutorial"
+  },
+  {
+    "name": "Functional Web Development with Elixir, OTP, and Phoenix",
+    "url": "https://pragprog.com/titles/lhelph/functional-web-development-with-elixir-otp-and-phoenix/"
+  },
+  {
+    "name": "Phoenix in Action",
+    "url": "https://www.manning.com/books/phoenix-in-action"
+  },
+  {
+    "name": "Programming Ecto",
+    "url": "https://pragprog.com/titles/wmecto/programming-ecto/"
+  },
+  {
+    "name": "Programming Phoenix",
+    "url": "https://pragprog.com/titles/phoenix14/programming-phoenix-1-4/"
+  },
+  {
+    "name": "Real-Time Phoenix",
+    "url": "https://pragprog.com/titles/sbsockets/real-time-phoenix/"
+  },
+  {
+    "name": "Testing Elixir",
+    "url": "https://pragprog.com/titles/lmelixir/testing-elixir/"
+  },
+  {
+    "name": "Exploring Graphs with Elixir",
+    "url": "https://pragprog.com/titles/thgraphs/exploring-graphs-with-elixir/"
+  },
+  {
+    "name": "Genetic Algorithms in Elixir",
+    "url": "https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/"
+  },
+  {
+    "name": "Programmer Passport: Elixir",
+    "url": "https://pragprog.com/titles/passelixir/programmer-passport-elixir/"
+  },
+  {
+    "name": "Build a Binary Clock with Elixir and Nerves",
+    "url": "https://pragprog.com/titles/thnerves/build-a-binary-clock-with-elixir-and-nerves/"
+  },
+  {
+    "name": "Build a Weather Station with Elixir and Nerves",
+    "url": "https://pragprog.com/titles/passweather/build-a-weather-station-with-elixir-and-nerves/"
+  },
+  {
+    "name": "Concurrent Data Processing in Elixir",
+    "url": "https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/"
+  },
+  {
+    "name": "Programming Phoenix LiveView",
+    "url": "https://pragprog.com/titles/liveview/programming-phoenix-liveview/"
+  },
+  {
     "name": "Joe Armstrong - A week with Elixir",
     "url": "https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html",
     "description": "A week with Elixir"

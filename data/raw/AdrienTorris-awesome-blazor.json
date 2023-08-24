@@ -42,7 +42,7 @@
   {
     "name": "eShopOnBlazor",
     "url": "https://github.com/dotnet-architecture/eShopOnBlazor",
-    "description": "  Migration of a traditional ASP.NET Web Forms app to Blazor, sample by Microsoft Architecture."
+    "description": "Migration of a traditional ASP.NET Web Forms app to Blazor, sample by Microsoft Architecture."
   },
   {
     "name": "FAQ",
@@ -52,7 +52,7 @@
   {
     "name": "GitHub repository",
     "url": "https://github.com/dotnet/aspnetcore",
-    "description": "  The official Blazor repository (which is the ASP.NET Core repository)."
+    "description": "The official Blazor repository (which is the ASP.NET Core repository)."
   },
   {
     "name": "'Hello World' sample",
@@ -67,7 +67,7 @@
   {
     "name": "Workshop",
     "url": "https://github.com/dotnet-presentations/blazor-workshop/",
-    "description": "  Build a complete Blazor app and learn about the various Blazor framework features along the way."
+    "description": "Build a complete Blazor app and learn about the various Blazor framework features along the way."
   },
   {
     "name": "Blazor WebAssembly performance best practices",
@@ -87,22 +87,22 @@
   {
     "name": "BitPlatform Templates",
     "url": "https://github.com/bitfoundation/bitplatform",
-    "description": "  - Solution templates using .Net MAUI and Blazor with out-of-the-box best practices enabling fast and high-quality cross-platform development for web, android, iOS, and Windows with native beautiful Blazor components. The projects created by these templates contain everything required for developing real-world applications, including (but not limited to) CI/CD pipelines, Infra as Code for Azure, localization, multi-mode development (Blazor Server/WASM/Hybrid), builtin bullet proof exception handling, etc. Read more."
+    "description": "- Solution templates using .Net MAUI and Blazor with out-of-the-box best practices enabling fast and high-quality cross-platform development for web, android, iOS, and Windows with native beautiful Blazor components. The projects created by these templates contain everything required for developing real-world applications, including (but not limited to) CI/CD pipelines, Infra as Code for Azure, localization, multi-mode development (Blazor Server/WASM/Hybrid), builtin bullet proof exception handling, etc. Read more."
   },
   {
     "name": "Blazor Hero",
     "url": "https://github.com/blazorhero/CleanArchitecture",
-    "description": "  - Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. Read the Quick Start Guide here."
+    "description": "- Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. Read the Quick Start Guide here."
   },
   {
     "name": "Blazor BFF Azure AD",
     "url": "https://github.com/damienbod/Blazor.BFF.AzureAD.Template",
-    "description": "  - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure AD and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. Read the Quick Start Guide here."
+    "description": "- This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure AD and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. Read the Quick Start Guide here."
   },
   {
     "name": "Blazor BFF Azure B2C",
     "url": "https://github.com/damienbod/Blazor.BFF.AzureB2C.Template",
-    "description": "  - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure B2C and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. Read the Quick Start Guide here."
+    "description": "- This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure B2C and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. Read the Quick Start Guide here."
   },
   {
     "name": "Text Editor from scratch with Blazor and C#",
@@ -112,42 +112,42 @@
   {
     "name": "BlazorBoilerplate",
     "url": "https://github.com/enkodellc/blazorboilerplate",
-    "description": "  Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. Demo."
+    "description": "Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. Demo."
   },
   {
     "name": "TheIdServer",
     "url": "https://github.com/Aguafrommars/TheIdServer",
-    "description": "  OpenID/Connect server base on IdentityServer4."
+    "description": "OpenID/Connect server base on IdentityServer4."
   },
   {
     "name": "BlazorWithIdentity",
     "url": "https://github.com/stavroskasidis/BlazorWithIdentity",
-    "description": "  A sample project showcasing a Blazor app using EF Core with Identity authentication."
+    "description": "A sample project showcasing a Blazor app using EF Core with Identity authentication."
   },
   {
     "name": "Blorc.OpenIdConnect",
     "url": "https://github.com/WildGums/Blorc.OpenIdConnect",
-    "description": "  The right way to use OpenID Connect on Blazor."
+    "description": "The right way to use OpenID Connect on Blazor."
   },
   {
     "name": "Blazor-WASM-AzureAD-gRPC",
     "url": "https://github.com/StefH/BlazorWasmGrpcWithAADAuth",
-    "description": " Blazor WASM, Azure AD, REST & gRPC."
+    "description": "Blazor WASM, Azure AD, REST & gRPC."
   },
   {
     "name": "Quiz manager secured by Auth0",
     "url": "https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager",
-    "description": " This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by Auth0. The implementation details are described in the following article: Securing Blazor WebAssembly Apps."
+    "description": "This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by Auth0. The implementation details are described in the following article: Securing Blazor WebAssembly Apps."
   },
   {
     "name": "Blogifier",
     "url": "https://github.com/blogifierdotnet/Blogifier",
-    "description": "   ASP.NET Core Blogging application with Blazor Admin Dashboard. Demo."
+    "description": "ASP.NET Core Blogging application with Blazor Admin Dashboard. Demo."
   },
   {
     "name": "eShopOnBlazor",
     "url": "https://github.com/dotnet-architecture/eShopOnBlazor",
-    "description": "  Migration of a traditional ASP.NET Web Forms app to Blazor."
+    "description": "Migration of a traditional ASP.NET Web Forms app to Blazor."
   },
   {
     "name": "JHipster.NET",
@@ -156,52 +156,52 @@
   {
     "name": "RapidCMS",
     "url": "https://github.com/ThomasBleijendaal/RapidCMS",
-    "description": "  A code-first, extensible Blazor app that generates a CMS for your own database."
+    "description": "A code-first, extensible Blazor app that generates a CMS for your own database."
   },
   {
     "name": "BlazorShop",
     "url": "https://github.com/kalintsenkov/BlazorShop",
-    "description": "  Simple shop application built with Blazor WebAssembly."
+    "description": "Simple shop application built with Blazor WebAssembly."
   },
   {
     "name": "Umbraco9 & Blazor WASM Starter Site",
     "url": "https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit",
-    "description": " A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts."
+    "description": "A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts."
   },
   {
     "name": "Trains.NET",
     "url": "https://github.com/davidwengier/Trains.NET",
-    "description": "  2D game built with .NET and C# on a Twitch stream. Trains is available to play online at wengier.com/Trains.NET."
+    "description": "2D game built with .NET and C# on a Twitch stream. Trains is available to play online at wengier.com/Trains.NET."
   },
   {
     "name": "AsteroidsWasm",
     "url": "https://github.com/aesalazar/AsteroidsWasm",
-    "description": "  Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. Demo."
+    "description": "Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. Demo."
   },
   {
     "name": "DiabloBlazor",
     "url": "https://github.com/n-stefan/diabloblazor",
-    "description": "  Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. Demo."
+    "description": "Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. Demo."
   },
   {
     "name": "Board Games",
     "url": "https://github.com/alexyakunin/BoardGames",
-    "description": "  Fusion + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. Demo."
+    "description": "Fusion + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. Demo."
   },
   {
     "name": "Wolfenstein 3D ported to Blazor",
     "url": "https://github.com/JamesRandall/csharp-wolfenstein",
-    "description": "  Wolfenstein 3D ported to modern C# and Blazor. Article."
+    "description": "Wolfenstein 3D ported to modern C# and Blazor. Article."
   },
   {
     "name": "ZXSpectrum",
     "url": "https://github.com/EngstromJimmy/ZXSpectrum",
-    "description": " ZX Spectrum emulator running on Blazor WebAssembly. Demo."
+    "description": "ZX Spectrum emulator running on Blazor WebAssembly. Demo."
   },
   {
     "name": "WordleBlazor",
     "url": "https://github.com/johnt84/WordleBlazorApp",
-    "description": " Simple clone of popular Wordle game in Blazor. Demo."
+    "description": "Simple clone of popular Wordle game in Blazor. Demo."
   },
   {
     "name": "Blazor + Electron",
@@ -216,12 +216,12 @@
   {
     "name": "Photino",
     "url": "https://github.com/tryphotino/photino.NET",
-    "description": "  Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology."
+    "description": "Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology."
   },
   {
     "name": "Blazor + Umbraco Heartcore",
     "url": "https://github.com/umbraco/Umbraco.Headless.Client.Net/tree/master/samples/Umbraco.Headless.Client.Samples.BlazorServer",
-    "description": " Example of using Umbraco Heartcore with Blazor."
+    "description": "Example of using Umbraco Heartcore with Blazor."
   },
   {
     "name": "Blazor Wasm with ASP.NET Framework 4.x",
@@ -231,52 +231,52 @@
   {
     "name": "RemoteBlazorWebView",
     "url": "https://github.com/budcribar/RemoteBlazorWebView",
-    "description": " RemoteBlazorWebView enables you to interact with the user interface of a program developed with either the BlazorWebView WPF control or WinForms control using a web browser."
+    "description": "RemoteBlazorWebView enables you to interact with the user interface of a program developed with either the BlazorWebView WPF control or WinForms control using a web browser."
   },
   {
     "name": "BlazorInAngularDemo",
     "url": "https://github.com/Xenoage/BlazorInAngularDemo",
-    "description": " Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. Demo."
+    "description": "Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. Demo."
   },
   {
     "name": "Blazor Studio",
     "url": "https://github.com/huntercfreeman/BlazorStudio",
-    "description": "  IDE for .NET solutions written using a Photino host, Blazor UI, and C#."
+    "description": "IDE for .NET solutions written using a Photino host, Blazor UI, and C#."
   },
   {
     "name": "Picat Language IDE",
     "url": "https://github.com/andrzejolszak/picat-blazor-monaco-ide/",
-    "description": " IDE for the Picat logic programming language based on the Monaco Editor. Demo."
+    "description": "IDE for the Picat logic programming language based on the Monaco Editor. Demo."
   },
   {
     "name": "PresenceLight",
     "url": "https://github.com/isaacrlevin/PresenceLight",
-    "description": "  PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. Blog post. Demo video."
+    "description": "PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. Blog post. Demo video."
   },
   {
     "name": "Meadow Weather",
     "url": "https://github.com/bradwellsb/blazor-meadow-weather",
-    "description": " In this sample, a Meadow microcontroller polls data from a LM35 temperature sensor. That data is sent via HTTP request to an API controller endpoint and stored in a database where it can be visualized in a chart using a Blazor web app."
+    "description": "In this sample, a Meadow microcontroller polls data from a LM35 temperature sensor. That data is sent via HTTP request to an API controller endpoint and stored in a database where it can be visualized in a chart using a Blazor web app."
   },
   {
     "name": "Scalable sentiment analysis",
     "url": "https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp",
-    "description": "  A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side."
+    "description": "A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side."
   },
   {
     "name": "optimizer.ml",
     "url": "https://github.com/jameschch/LeanParameterOptimization",
-    "description": "  A \"server-less\" general purpose optimization suite for algorithm parameters. Also provides offline optimization of Quantconnect Lean trading algorithms. Demo (https://optimizer.ml)."
+    "description": "A \"server-less\" general purpose optimization suite for algorithm parameters. Also provides offline optimization of Quantconnect Lean trading algorithms. Demo (https://optimizer.ml)."
   },
   {
     "name": "Baseball Machine Learning Workbench",
     "url": "https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp",
-    "description": "  A web application that showcases performing what-if analysis using in-memory Machine Learning models. Live demo."
+    "description": "A web application that showcases performing what-if analysis using in-memory Machine Learning models. Live demo."
   },
   {
     "name": "BlazorML5",
     "url": "https://github.com/sps014/BlazorML5",
-    "description": " ML5 Machine Learning for Blazor with JSInterop mechanism."
+    "description": "ML5 Machine Learning for Blazor with JSInterop mechanism."
   },
   {
     "name": "Mobile Blazor Bindings",
@@ -286,62 +286,62 @@
   {
     "name": "WalkingTec.Mvvm (WTM)",
     "url": "https://github.com/dotnetcore/WTM",
-    "description": "  A development framework based on .NET Core and EF. It supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc. Website."
+    "description": "A development framework based on .NET Core and EF. It supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc. Website."
   },
   {
     "name": "TodoApi by David Fowler",
     "url": "https://github.com/davidfowl/TodoApi",
-    "description": "  Todo application by David Fowler in .NET 7 that features an ASP.NET Core hosted Blazor WASM front end application and an ASP.NET Core REST API backend using minimal APIs."
+    "description": "Todo application by David Fowler in .NET 7 that features an ASP.NET Core hosted Blazor WASM front end application and an ASP.NET Core REST API backend using minimal APIs."
   },
   {
     "name": "Bolero.TodoMVC",
     "url": "https://github.com/fsbolero/TodoMVC",
-    "description": "  A TodoMVC clone using Bolero."
+    "description": "A TodoMVC clone using Bolero."
   },
   {
     "name": "ididit!",
     "url": "https://github.com/Jinjinov/Ididit",
-    "description": "  The procrastination friendly habit tracker. ake notes, manage tasks, track habits. Demo."
+    "description": "The procrastination friendly habit tracker. ake notes, manage tasks, track habits. Demo."
   },
   {
     "name": "CleanArchitecture",
     "url": "https://github.com/blazorhero/CleanArchitecture",
-    "description": "  Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components."
+    "description": "Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components."
   },
   {
     "name": "BlazorSSR",
     "url": "https://github.com/danroth27/BlazorSSR",
-    "description": "  Server-side rendering (SSR) with Blazor components, by Steve Sanderson."
+    "description": "Server-side rendering (SSR) with Blazor components, by Steve Sanderson."
   },
   {
     "name": "Oqtane Framework",
     "url": "https://github.com/oqtane/oqtane.framework",
-    "description": "  Modular Application Framework for Blazor."
+    "description": "Modular Application Framework for Blazor."
   },
   {
     "name": "Flight Finder",
     "url": "https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor",
-    "description": "  Flight Finder."
+    "description": "Flight Finder."
   },
   {
     "name": "LinqToTwitter Blazor sample",
     "url": "https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo",
-    "description": "  LINQ Provider for the Twitter API (Twitter Library)."
+    "description": "LINQ Provider for the Twitter API (Twitter Library)."
   },
   {
     "name": "BlazorFileReader",
     "url": "https://github.com/Tewr/BlazorFileReader",
-    "description": "  Read-only File streams in Blazor. Demo."
+    "description": "Read-only File streams in Blazor. Demo."
   },
   {
     "name": "eShopOnBlazor",
     "url": "https://github.com/dotnet-architecture/eShopOnBlazor",
-    "description": "  Migration of a traditional ASP.NET Web Forms app to Blazor."
+    "description": "Migration of a traditional ASP.NET Web Forms app to Blazor."
   },
   {
     "name": "BlazorChatSample",
     "url": "https://github.com/conficient/blazorchatsample",
-    "description": "  Blazor chat demo using SignalR JS client with interop."
+    "description": "Blazor chat demo using SignalR JS client with interop."
   },
   {
     "name": "Netflix microfrontend like",
@@ -350,47 +350,47 @@
   {
     "name": "Command and Control, by David Fowler",
     "url": "https://github.com/davidfowl/CommandAndControl",
-    "description": "  This is a sample using Blazor server and SignalR to do command and control. Agents connect to the blazor server application which is hosting a SignalR Hub and we can issue various commands against the connected agents (this feature uses client results)."
+    "description": "This is a sample using Blazor server and SignalR to do command and control. Agents connect to the blazor server application which is hosting a SignalR Hub and we can issue various commands against the connected agents (this feature uses client results)."
   },
   {
     "name": "BlazorCRUD",
     "url": "https://github.com/thbst16/BlazorCrud",
-    "description": "  Sample line of business application that illustrates key features of Blazor. Demo."
+    "description": "Sample line of business application that illustrates key features of Blazor. Demo."
   },
   {
     "name": "Money",
     "url": "https://github.com/maraf/Money",
-    "description": "  A money manager implemented using CQRS+ES. Demo."
+    "description": "A money manager implemented using CQRS+ES. Demo."
   },
   {
     "name": "Blazor Weather",
     "url": "https://github.com/danroth27/BlazorWeather",
-    "description": "  A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. Demo."
+    "description": "A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. Demo."
   },
   {
     "name": "Blazor.SVGEditor",
     "url": "https://github.com/KristofferStrube/Blazor.SVGEditor",
-    "description": "  A basic HTML SVG Editor written in Blazor WASM. Demo."
+    "description": "A basic HTML SVG Editor written in Blazor WASM. Demo."
   },
   {
     "name": "NethereumBlazor",
     "url": "https://github.com/Nethereum/NethereumBlazor",
-    "description": "  Ethereum blockchain explorer and simple wallet."
+    "description": "Ethereum blockchain explorer and simple wallet."
   },
   {
     "name": "FFmpegBlazor",
     "url": "https://github.com/sps014/FFmpegBlazor",
-    "description": "  FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. ffmpeg.wasm    is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers."
+    "description": "FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. ffmpeg.wasm    is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers."
   },
   {
     "name": "Blazor Studio",
     "url": "https://github.com/huntercfreeman/BlazorStudio",
-    "description": "  A free and open source IDE written using .NET - a Photino host, Blazor UI, and C#."
+    "description": "A free and open source IDE written using .NET - a Photino host, Blazor UI, and C#."
   },
   {
     "name": "Blazor.MediaCaptureStreams",
     "url": "https://github.com/KristofferStrube/Blazor.MediaCaptureStreams",
-    "description": "  A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. Demo."
+    "description": "A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. Demo."
   },
   {
     "name": "Planning Poker",
@@ -399,12 +399,12 @@
   {
     "name": "C# Regex Tester online",
     "url": "https://github.com/lsvhome/regex-tester",
-    "description": " Online tool for verify .Net regex syntax. (Demo)."
+    "description": "Online tool for verify .Net regex syntax. (Demo)."
   },
   {
     "name": "C# Regex Online tool",
     "url": "https://github.com/MichaelSL/blazor-wasm-test-012020",
-    "description": " Online tool for verify .Net regex syntax, see splits list, table etc. (Demo)."
+    "description": "Online tool for verify .Net regex syntax, see splits list, table etc. (Demo)."
   },
   {
     "name": "Blazor Tour of Heroes",
@@ -414,72 +414,72 @@
   {
     "name": "Blazor.Text.Editor",
     "url": "https://github.com/huntercfreeman/Blazor.Text.Editor",
-    "description": " Blazor.Text.Editor is a Text Editor component library using the Blazor UI Framework for .NET. Demo."
+    "description": "Blazor.Text.Editor is a Text Editor component library using the Blazor UI Framework for .NET. Demo."
   },
   {
     "name": "Blazor Wake-on-LAN",
     "url": "https://github.com/georg-jung/BlazorWoL",
-    "description": " Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI."
+    "description": "Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI."
   },
   {
     "name": "BlazingWaffles",
     "url": "https://github.com/gbiellem/BlazingWaffles",
-    "description": " A Blazor app that wraps Waffle Generator. The generator outputs readable gibberish that can be used in place of Lorum Ipsum. Demo."
+    "description": "A Blazor app that wraps Waffle Generator. The generator outputs readable gibberish that can be used in place of Lorum Ipsum. Demo."
   },
   {
     "name": "Nethereum Playground",
     "url": "https://github.com/Nethereum/Nethereum.Playground",
-    "description": " Compile and run Nethereum snippets on the browser. You can run it here: http://playground.nethereum.com/."
+    "description": "Compile and run Nethereum snippets on the browser. You can run it here: http://playground.nethereum.com/."
   },
   {
     "name": "TypinExamples",
     "url": "https://github.com/adambajguz/Typin/tree/master/src/TypinExamples",
-    "description": " A sample project that demonstrates the usage of Typin framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). Live demo."
+    "description": "A sample project that demonstrates the usage of Typin framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). Live demo."
   },
   {
     "name": "Unofficial eShopOnContainers",
     "url": "https://github.com/n-stefan/eshoponcontainers",
-    "description": " Unofficial Blazor WebAssembly client for eShopOnContainers."
+    "description": "Unofficial Blazor WebAssembly client for eShopOnContainers."
   },
   {
     "name": "UpBlazor",
     "url": "https://github.com/Hona/UpBlazor",
-    "description": " -  Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and Marten DB."
+    "description": "-  Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and Marten DB."
   },
   {
     "name": "WordTester",
     "url": "https://github.com/KamilBugnoKrk/WordTester",
-    "description": " An application for learning foreign words using flashcards and spaced repetition."
+    "description": "An application for learning foreign words using flashcards and spaced repetition."
   },
   {
     "name": "Css in Blazor presentation's source code",
     "url": "https://github.com/EdCharbeneau/Css-For-Blazor-Developers-Presentation",
-    "description": " Source code of a presentation by Ed Charbeneau about Blazor and CSS."
+    "description": "Source code of a presentation by Ed Charbeneau about Blazor and CSS."
   },
   {
     "name": "BlazorViz interop wrapper for Viz.js",
     "url": "https://github.com/mrzhdev/BlazorViz",
-    "description": " A sample of generating Graphviz DOT language files and visualising tree data structures. Demo."
+    "description": "A sample of generating Graphviz DOT language files and visualising tree data structures. Demo."
   },
   {
     "name": "BlazorServerImageRecognitionApp",
     "url": "https://github.com/johnt84/BlazorServerImageRecognitionApp",
-    "description": " Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. Demo."
+    "description": "Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. Demo."
   },
   {
     "name": "FootballBlazorApp",
     "url": "https://github.com/johnt84/FootballBlazorApp",
-    "description": " Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search.  Demo."
+    "description": "Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search.  Demo."
   },
   {
     "name": "Moldinium",
     "url": "https://github.com/jtheisen/moldinium",
-    "description": " MobX-style dependency tracking in Blazor (proof-of-concept level maturity)"
+    "description": "MobX-style dependency tracking in Blazor (proof-of-concept level maturity)"
   },
   {
     "name": "Blazor workshop",
     "url": "https://github.com/dotnet-presentations/blazor-workshop/",
-    "description": " Blazor app building workshop by .NET Foundation, Blazzing Pizza."
+    "description": "Blazor app building workshop by .NET Foundation, Blazzing Pizza."
   },
   {
     "name": "Blazor Meadow Web API Weather Chart.js",
@@ -499,57 +499,57 @@
   {
     "name": "FAST",
     "url": "https://github.com/microsoft/fast",
-    "description": "   FAST is a collection of technologies built on Web Components and modern Web Standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development. FAST & Blazor documentation."
+    "description": "FAST is a collection of technologies built on Web Components and modern Web Standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development. FAST & Blazor documentation."
   },
   {
     "name": "Ant Design Blazor",
     "url": "https://github.com/ant-design-blazor/ant-design-blazor",
-    "description": "  A set of enterprise-class UI components based on Ant Design and Blazor. (Docs as Demo)."
+    "description": "A set of enterprise-class UI components based on Ant Design and Blazor. (Docs as Demo)."
   },
   {
     "name": "MudBlazor",
     "url": "https://github.com/MudBlazor/MudBlazor",
-    "description": "  MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. Documentation. Demo."
+    "description": "MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. Documentation. Demo."
   },
   {
     "name": "Blazorise",
     "url": "https://github.com/Megabit/Blazorise",
-    "description": "  Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. (Bootstrap Demo), (Bulma Demo), (AntDesign Demo), (Material Demo)."
+    "description": "Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. (Bootstrap Demo), (Bulma Demo), (AntDesign Demo), (Material Demo)."
   },
   {
     "name": "MASA Blazor",
     "url": "https://github.com/BlazorComponent/MASA.Blazor",
-    "description": "  A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. Documentation. Pro Demo."
+    "description": "A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. Documentation. Pro Demo."
   },
   {
     "name": "Radzen.Blazor",
     "url": "https://github.com/akorchev/razor.radzen.com",
-    "description": "  Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. (Demo)."
+    "description": "Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. (Demo)."
   },
   {
     "name": "BlazorStrap",
     "url": "https://github.com/chanan/BlazorStrap",
-    "description": "  Material Design components for Blazor. Bootstrap 4 components for Blazor (Demo)."
+    "description": "Material Design components for Blazor. Bootstrap 4 components for Blazor (Demo)."
   },
   {
     "name": "FAST Blazor",
     "url": "https://github.com/microsoft/fast-blazor",
-    "description": "  A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. (Samples & demo)."
+    "description": "A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. (Samples & demo)."
   },
   {
     "name": "Element-Blazor",
     "url": "https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md",
-    "description": "  A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. Blazor WebAssembly Version demo. Blazor WebAssembly Version PWA Mode demo."
+    "description": "A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. Blazor WebAssembly Version demo. Blazor WebAssembly Version PWA Mode demo."
   },
   {
     "name": "BlazorFluentUI",
     "url": "https://github.com/BlazorFluentUI/BlazorFluentUI",
-    "description": "  Simple port of FluenUI/Office Fabric React components and style to Blazor. Client-side demo (WebAssembly). Server-side demo (SignalR)."
+    "description": "Simple port of FluenUI/Office Fabric React components and style to Blazor. Client-side demo (WebAssembly). Server-side demo (SignalR)."
   },
   {
     "name": "BootstrapBlazor",
     "url": "https://github.com/ArgoZhang/BootstrapBlazor",
-    "description": "  Reusable bootstrap components for Blazor. (Docs as Demo)."
+    "description": "Reusable bootstrap components for Blazor. (Docs as Demo)."
   },
   {
     "name": "ComponentOne Blazor UI Components",
@@ -559,57 +559,57 @@
   {
     "name": "DevExpress Blazor UI Components",
     "url": "https://github.com/DevExpress/RazorComponents",
-    "description": "  A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms."
+    "description": "A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms."
   },
   {
     "name": "Syncfusion Blazor UI Components",
     "url": "https://www.syncfusion.com/blazor-components",
-    "description": "  The most comprehensive native Blazor component library including Data Grid, Charts, Scheduler, Diagram and Document Editor components. (Demo)."
+    "description": "The most comprehensive native Blazor component library including Data Grid, Charts, Scheduler, Diagram and Document Editor components. (Demo)."
   },
   {
     "name": "ADMINLTE",
     "url": "https://github.com/sjefvanleeuwen/blazor-adminlte",
-    "description": "  ADMINLTE for Blazor is a collection of reusable components, with which you can easily develop digital services as a designer or developer. Think of buttons, form elements and page templates. This project adapts ADMINLTE 3 so the components can be used from dotnet core Blazor."
+    "description": "ADMINLTE for Blazor is a collection of reusable components, with which you can easily develop digital services as a designer or developer. Think of buttons, form elements and page templates. This project adapts ADMINLTE 3 so the components can be used from dotnet core Blazor."
   },
   {
     "name": "Blazority",
     "url": "https://github.com/blazority/support",
-    "description": "  Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view (Docs & Demos)."
+    "description": "Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view (Docs & Demos)."
   },
   {
     "name": "Makani",
     "url": "https://github.com/getspacetime/makani",
-    "description": "  Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. Demo."
+    "description": "Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. Demo."
   },
   {
     "name": "Material.Blazor",
     "url": "https://github.com/Material-Blazor/Material.Blazor",
-    "description": "  An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from Google's material-components-web - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool \"plus\" components. See our demo and comprehensive documentation."
+    "description": "An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from Google's material-components-web - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool \"plus\" components. See our demo and comprehensive documentation."
   },
   {
     "name": "Majorsoft Blazor Components",
     "url": "https://github.com/majorimi/blazor-components",
-    "description": "  Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. NuGet Demo app Docs."
+    "description": "Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. NuGet Demo app Docs."
   },
   {
     "name": "MComponents",
     "url": "https://github.com/manureini/MComponents",
-    "description": "  Open Source MIT Blazor Components: Grid, Select, Wizard etc."
+    "description": "Open Source MIT Blazor Components: Grid, Select, Wizard etc."
   },
   {
     "name": "PanoramicData Blazor UI Components",
     "url": "https://github.com/panoramicdata/PanoramicData.Blazor",
-    "description": "  An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. Demo."
+    "description": "An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. Demo."
   },
   {
     "name": "HAVIT Blazor",
     "url": "https://github.com/havit/Havit.Blazor",
-    "description": "  Bootstrap 5 components + additional components built on top of Bootstrap 5 (grid, autosuggest, message-boxes, atc.). Enterprise project template with gRPC code-first client/server communication, localization and more. Interactive documentation & Demos."
+    "description": "Bootstrap 5 components + additional components built on top of Bootstrap 5 (grid, autosuggest, message-boxes, atc.). Enterprise project template with gRPC code-first client/server communication, localization and more. Interactive documentation & Demos."
   },
   {
     "name": "Blazority",
     "url": "https://github.com/blazority/support",
-    "description": "  Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view (Docs & Demos)."
+    "description": "Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view (Docs & Demos)."
   },
   {
     "name": "Telerik UI for Blazor",
@@ -624,17 +624,17 @@
   {
     "name": "Smart UI for Blazor",
     "url": "https://github.com/htmlelements/smart-blazor",
-    "description": " Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. Website."
+    "description": "Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. Website."
   },
   {
     "name": "TabBlazor",
     "url": "https://github.com/joadan/TabBlazor",
-    "description": " Blazor Admin theme built on top of Tabler UI. Minimal javascript. Demo."
+    "description": "Blazor Admin theme built on top of Tabler UI. Minimal javascript. Demo."
   },
   {
     "name": "Blazor.Ionic",
     "url": "https://github.com/kukks/Blazor.Ionic",
-    "description": "  Ionic framework integration for Blazor."
+    "description": "Ionic framework integration for Blazor."
   },
   {
     "name": "Blazor Controls Toolkit",
@@ -644,122 +644,122 @@
   {
     "name": "BlazorOcticons",
     "url": "https://github.com/BlazorOcticons/BlazorOcticons",
-    "description": " Github Octicons created as a .razor components and available via the NuGet package. The project website is an example using the generated components."
+    "description": "Github Octicons created as a .razor components and available via the NuGet package. The project website is an example using the generated components."
   },
   {
     "name": "Nevron Open Vision Components for Blazor",
     "url": "https://www.nevron.com/products-open-vision",
-    "description": "  Diagram, Chart, Text Editor, Gauge, Barcode, and User Interface components for Blazor. Demo."
+    "description": "Diagram, Chart, Text Editor, Gauge, Barcode, and User Interface components for Blazor. Demo."
   },
   {
     "name": "CodeBeam.MudExtensions",
     "url": "https://github.com/CodeBeamOrg/CodeBeam.MudExtensions",
-    "description": "  Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  Documentation."
+    "description": "Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  Documentation."
   },
   {
     "name": "Head Element Helper",
     "url": "https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement",
-    "description": "  <Title> and <Meta> components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. (Demo)."
+    "description": "<Title> and <Meta> components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. (Demo)."
   },
   {
     "name": "Blazor.Canvas",
     "url": "https://github.com/excubo-ag/Blazor.Canvas",
-    "description": "  Wrapper library around the HTML canvas API written in C# (no JS dependency) (Demo)."
+    "description": "Wrapper library around the HTML canvas API written in C# (no JS dependency) (Demo)."
   },
   {
     "name": "BlazorIntersectionObserver",
     "url": "https://github.com/ljbc1994/BlazorIntersectionObserver",
-    "description": " This is a wrapper around the Intersection Observer API."
+    "description": "This is a wrapper around the Intersection Observer API."
   },
   {
     "name": "ChartJs.Blazor",
     "url": "https://github.com/mariusmuntean/ChartJs.Blazor",
-    "description": "  Brings ChartJs charts to Blazor."
+    "description": "Brings ChartJs charts to Blazor."
   },
   {
     "name": "Blazor-ApexCharts",
     "url": "https://github.com/joadan/Blazor-ApexCharts",
-    "description": "  Blazor wrapper for ApexCharts. Demo."
+    "description": "Blazor wrapper for ApexCharts. Demo."
   },
   {
     "name": "Plotly.Blazor",
     "url": "https://github.com/LayTec-AG/Plotly.Blazor",
-    "description": "  Brings the charting library plotly.js with over 40 chart types to Blazor (Demo)."
+    "description": "Brings the charting library plotly.js with over 40 chart types to Blazor (Demo)."
   },
   {
     "name": "GG.Net Data Visualization",
     "url": "https://github.com/pablofrommars/GGNet",
-    "description": "  Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. Website."
+    "description": "Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. Website."
   },
   {
     "name": "ChartJs for Blazor",
     "url": "https://github.com/erossini/BlazorChartjs",
-    "description": "  This is a NuGet package for Blazor to use ChartJs, constantly updated with new features."
+    "description": "This is a NuGet package for Blazor to use ChartJs, constantly updated with new features."
   },
   {
     "name": "BlazorSize",
     "url": "https://github.com/EdCharbeneau/BlazorSize",
-    "description": "  BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries."
+    "description": "BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries."
   },
   {
     "name": "BlazorAnimation",
     "url": "https://github.com/aboudoux/BlazorAnimation",
-    "description": "  A Blazor component based on animate.css to easly animate your content. Demo."
+    "description": "A Blazor component based on animate.css to easly animate your content. Demo."
   },
   {
     "name": "DexieNET",
     "url": "https://github.com/b-straub/DexieNET",
-    "description": "  DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component."
+    "description": "DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component."
   },
   {
     "name": "Grid.Blazor",
     "url": "https://github.com/gustavnavar/Grid.Blazor",
-    "description": "  Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others (Demo)."
+    "description": "Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others (Demo)."
   },
   {
     "name": "BlazorGrid",
     "url": "https://github.com/Akinzekeel/BlazorGrid",
-    "description": "  Virtualized data grid component with lean markup, focused on displaying remote data. (Demo & documentation)."
+    "description": "Virtualized data grid component with lean markup, focused on displaying remote data. (Demo & documentation)."
   },
   {
     "name": "BlazorDateRangePicker",
     "url": "https://github.com/jdtcn/BlazorDateRangePicker",
-    "description": "  A date range picker component library for Blazor. Demo."
+    "description": "A date range picker component library for Blazor. Demo."
   },
   {
     "name": "Toast_UI.Blazor_Calendar",
     "url": "https://github.com/gismofx/toast_ui.blazor_calendar",
-    "description": " A fully featured calendar UI component for viewing and creating events, tasks, and milestones. Month, week, and daily views. Blazor Calendar wraps the fully featured Toast UI Calendar JS library. MIT License. Sample project."
+    "description": "A fully featured calendar UI component for viewing and creating events, tasks, and milestones. Month, week, and daily views. Blazor Calendar wraps the fully featured Toast UI Calendar JS library. MIT License. Sample project."
   },
   {
     "name": "BlazorGoogleMaps",
     "url": "https://github.com/rungwiroon/BlazorGoogleMaps",
-    "description": "  Blazor interop for GoogleMap library."
+    "description": "Blazor interop for GoogleMap library."
   },
   {
     "name": "UnlockedData.Mapael",
     "url": "https://github.com/UnlockedData/UnlockedData.Mapael",
-    "description": " Blazor wrapper over vector drawing/mapping library. Jquery Mapael."
+    "description": "Blazor wrapper over vector drawing/mapping library. Jquery Mapael."
   },
   {
     "name": "Blazored.Modal",
     "url": "https://github.com/Blazored/Modal",
-    "description": "  A JavaScript free modal library for Blazor and Razor Components applications."
+    "description": "A JavaScript free modal library for Blazor and Razor Components applications."
   },
   {
     "name": "Blazored.Toast",
     "url": "https://github.com/Blazored/Toast",
-    "description": "  A JavaScript free toast library for Blazor and Razor Component applications."
+    "description": "A JavaScript free toast library for Blazor and Razor Component applications."
   },
   {
     "name": "Blazor.Sidepanel",
     "url": "https://github.com/Append-IT/Blazor.Sidepanel",
-    "description": "  A powerful and customizable Sidepanel implementation for Blazor applications."
+    "description": "A powerful and customizable Sidepanel implementation for Blazor applications."
   },
   {
     "name": "BlazorXTabs",
     "url": "https://github.com/David-Moreira/BlazorXTabs",
-    "description": " An extended tabs component library providing various tab features for Blazor."
+    "description": "An extended tabs component library providing various tab features for Blazor."
   },
   {
     "name": "bUnit - a testing library for Blazor components",
@@ -774,82 +774,82 @@
   {
     "name": "Stl.Fusion",
     "url": "https://github.com/servicetitan/Stl.Fusion",
-    "description": "  .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of \"computed observables\" - immutable, thread-safe, and most importantly, almost invisible for developers. Samples. Overview."
+    "description": ".NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of \"computed observables\" - immutable, thread-safe, and most importantly, almost invisible for developers. Samples. Overview."
   },
   {
     "name": "BlazorContextMenu",
     "url": "https://github.com/stavroskasidis/BlazorContextMenu",
-    "description": "  A context menu component for Blazor (Demo)."
+    "description": "A context menu component for Blazor (Demo)."
   },
   {
     "name": "Z.Blazor.Diagrams",
     "url": "https://github.com/zHaytam/Blazor.Diagrams",
-    "description": "  A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. Demo."
+    "description": "A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. Demo."
   },
   {
     "name": "Blazored.Typeahead",
     "url": "https://github.com/Blazored/Typeahead",
-    "description": "  Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor."
+    "description": "Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor."
   },
   {
     "name": "Blazor-DragDrop",
     "url": "https://github.com/Postlagerkarte/blazor-dragdrop",
-    "description": "  Easy-to-use Drag and Drop library for Blazor."
+    "description": "Easy-to-use Drag and Drop library for Blazor."
   },
   {
     "name": "BlazorDownloadFile",
     "url": "https://github.com/arivera12/BlazorDownloadFile",
-    "description": "  Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility."
+    "description": "Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility."
   },
   {
     "name": "Excubo.Blazor.Diagrams",
     "url": "https://github.com/excubo-ag/Blazor.Diagrams",
-    "description": "  Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). Demo."
+    "description": "Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). Demo."
   },
   {
     "name": "Blazor.FileSystemAccess",
     "url": "https://github.com/KristofferStrube/Blazor.FileSystemAccess",
-    "description": "  A Blazor wrapper for the browser API File System Access. The API makes it possible to read and write to your local file system from the browser both files and directories. [Demo](The API makes it possible to read and write to your local file system from the browser both files and directories.)."
+    "description": "A Blazor wrapper for the browser API File System Access. The API makes it possible to read and write to your local file system from the browser both files and directories. [Demo](The API makes it possible to read and write to your local file system from the browser both files and directories.)."
   },
   {
     "name": "Blorc.PatternFly",
     "url": "https://github.com/WildGums/Blorc.PatternFly",
-    "description": "  Blazor wrappers for PatternFly. To view the latest develop branch in action, visit the demo app."
+    "description": "Blazor wrappers for PatternFly. To view the latest develop branch in action, visit the demo app."
   },
   {
     "name": "BlazorTransitionableRoute",
     "url": "https://github.com/JByfordRew/BlazorTransitionableRoute",
-    "description": "  Allows current and previous route to exist enabling transition animations of UI/UX design systems."
+    "description": "Allows current and previous route to exist enabling transition animations of UI/UX design systems."
   },
   {
     "name": "Razor.SweetAlert2",
     "url": "https://github.com/Basaingeal/Razor.SweetAlert2",
-    "description": " Blazor component implementing the popular SweetAlert2 JavaScript Library."
+    "description": "Blazor component implementing the popular SweetAlert2 JavaScript Library."
   },
   {
     "name": "BlazorMonaco",
     "url": "https://github.com/serdarciplak/BlazorMonaco",
-    "description": " Blazor component for Microsoft's Monaco Editor which powers Visual Studio Code. (Demo)."
+    "description": "Blazor component for Microsoft's Monaco Editor which powers Visual Studio Code. (Demo)."
   },
   {
     "name": "Blazor.Grids",
     "url": "https://github.com/excubo-ag/Blazor.Grids",
-    "description": " Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. (Demo)."
+    "description": "Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. (Demo)."
   },
   {
     "name": "Blazor.TreeViews",
     "url": "https://github.com/excubo-ag/Blazor.TreeViews",
-    "description": " Component library for tree views. (Demo)."
+    "description": "Component library for tree views. (Demo)."
   },
   {
     "name": "GEmojiSharp.Blazor",
     "url": "https://github.com/hlaueriksson/GEmojiSharp",
-    "description": " GitHub Emoji for Blazor (Demo)."
+    "description": "GitHub Emoji for Blazor (Demo)."
   },
   {
     "name": "Texnomic.Blazor.hCaptcha",
     "url": "https://github.com/Texnomic/hCaptcha",
-    "description": " hCaptcha Component for Server-Side Blazor."
+    "description": "hCaptcha Component for Server-Side Blazor."
   },
   {
     "name": "BlazorLocalizationSample",
@@ -858,72 +858,72 @@
   {
     "name": "TimeCalc",
     "url": "https://github.com/michaelrp/TimeCalc",
-    "description": " An app to help keep track of speed cubing averages on the fly using Blazor WebAssembly. Demo."
+    "description": "An app to help keep track of speed cubing averages on the fly using Blazor WebAssembly. Demo."
   },
   {
     "name": "BlazorSliders",
     "url": "https://github.com/carlfranklin/BlazorSliders",
-    "description": " Create multiple panels separated by sliding splitters."
+    "description": "Create multiple panels separated by sliding splitters."
   },
   {
     "name": "BlazorTimeline",
     "url": "https://github.com/Morasiu/BlazorTimeline",
-    "description": "  Responsive, vertical timeline component."
+    "description": "Responsive, vertical timeline component."
   },
   {
     "name": "BlazorTypewriter",
     "url": "https://github.com/ormesam/blazor-typewriter",
-    "description": " A typewriter effect for Blazor."
+    "description": "A typewriter effect for Blazor."
   },
   {
     "name": "BlazorMergely",
     "url": "https://github.com/akovac35/BlazorMergely",
-    "description": " An implementation of Blazor diff and merge component based on Mergely with server side support."
+    "description": "An implementation of Blazor diff and merge component based on Mergely with server side support."
   },
   {
     "name": "MetaMask.Blazor",
     "url": "https://github.com/michielpost/MetaMask.Blazor",
-    "description": " A library that provides an easy helper to use MetaMask with Blazor WebAssembly."
+    "description": "A library that provides an easy helper to use MetaMask with Blazor WebAssembly."
   },
   {
     "name": "Blazor File Drop Zone",
     "url": "https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/",
-    "description": " Surround an \"input type=file\" element by this Blazor component to making a zone that accepts drag and drops files (Demo)."
+    "description": "Surround an \"input type=file\" element by this Blazor component to making a zone that accepts drag and drops files (Demo)."
   },
   {
     "name": "BlazorCurrentDevice",
     "url": "https://github.com/arivera12/BlazorCurrentDevice",
-    "description": " Device detection for blazor using current-device.js."
+    "description": "Device detection for blazor using current-device.js."
   },
   {
     "name": "BlazorStyledTextArea",
     "url": "https://github.com/JByfordRew/BlazorStyledTextArea",
-    "description": " A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors."
+    "description": "A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors."
   },
   {
     "name": "SignaturePad",
     "url": "https://github.com/MarvinKlein1508/SignaturePad",
-    "description": " A simple to use blazor component to draw custom signatures. Demo."
+    "description": "A simple to use blazor component to draw custom signatures. Demo."
   },
   {
     "name": "BlazorInputTags",
     "url": "https://github.com/MarvinKlein1508/BlazorInputTags",
-    "description": " A simple to use blazor component for both Blazor Server and WebAssembly which adds a basic tag editor to your app. Demo."
+    "description": "A simple to use blazor component for both Blazor Server and WebAssembly which adds a basic tag editor to your app. Demo."
   },
   {
     "name": "Fluxor",
     "url": "https://github.com/mrpmorris/fluxor",
-    "description": "  Zero boilerplate Flux/Redux library for DotNet."
+    "description": "Zero boilerplate Flux/Redux library for DotNet."
   },
   {
     "name": "Blazored.LocalStorage",
     "url": "https://github.com/Blazored/LocalStorage",
-    "description": "  A library to provide access to local storage in Blazor applications."
+    "description": "A library to provide access to local storage in Blazor applications."
   },
   {
     "name": "Blazor-State",
     "url": "https://github.com/TimeWarpEngineering/blazor-state",
-    "description": "  Manage client side state in Blazor using MediatR pipeline."
+    "description": "Manage client side state in Blazor using MediatR pipeline."
   },
   {
     "name": "bUnit - a testing library for Blazor components",
@@ -933,47 +933,47 @@
   {
     "name": "TextCopy",
     "url": "https://github.com/CopyText/TextCopy",
-    "description": "  A cross platform package to copy text to and from the clipboard. Supports Blazor via the Clipboard Browser API."
+    "description": "A cross platform package to copy text to and from the clipboard. Supports Blazor via the Clipboard Browser API."
   },
   {
     "name": "CssBuilder",
     "url": "https://github.com/EdCharbeneau/CssBuilder",
-    "description": "  CssBuilder is a Builder pattern for CSS classes to be used with Razor Components."
+    "description": "CssBuilder is a Builder pattern for CSS classes to be used with Razor Components."
   },
   {
     "name": "Blazor.FileSystemAccess",
     "url": "https://github.com/KristofferStrube/Blazor.FileSystemAccess",
-    "description": "  A Blazor wrapper for the browser File System Access API."
+    "description": "A Blazor wrapper for the browser File System Access API."
   },
   {
     "name": "Blazor.Polyfill",
     "url": "https://github.com/Daddoon/Blazor.Polyfill",
-    "description": "  Polyfills for Blazor (for Internet Explorer 11 support and some other browsers)."
+    "description": "Polyfills for Blazor (for Internet Explorer 11 support and some other browsers)."
   },
   {
     "name": "Blazor I18n/Localization Text",
     "url": "https://github.com/jsakamoto/Toolbelt.Blazor.I18nText",
-    "description": "  Localizing contents text in Blazor (Demo)."
+    "description": "Localizing contents text in Blazor (Demo)."
   },
   {
     "name": "BlazorGoogleMaps",
     "url": "https://github.com/rungwiroon/BlazorGoogleMaps",
-    "description": "  Blazor interop for GoogleMap library."
+    "description": "Blazor interop for GoogleMap library."
   },
   {
     "name": "BlazorWorker",
     "url": "https://github.com/Tewr/BlazorWorker",
-    "description": "  Library for creating DotNet Web Worker threads/multithreading in Blazor. Live demo."
+    "description": "Library for creating DotNet Web Worker threads/multithreading in Blazor. Live demo."
   },
   {
     "name": "MvvmBlazor",
     "url": "https://github.com/klemmchr/MvvmBlazor",
-    "description": "  BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work."
+    "description": "BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work."
   },
   {
     "name": "Blazor.BrowserExtension",
     "url": "https://github.com/mingyaulee/Blazor.BrowserExtension",
-    "description": "  Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge."
+    "description": "Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge."
   },
   {
     "name": "Blazor Analytics",
@@ -983,17 +983,17 @@
   {
     "name": "Blazor PDF",
     "url": "https://github.com/tossnet/Blazor-PDF",
-    "description": "  Generate de PDF document with iTextSharp from a Blazor Server App."
+    "description": "Generate de PDF document with iTextSharp from a Blazor Server App."
   },
   {
     "name": "BlazorRouter",
     "url": "https://github.com/hez2010/BlazorRouter",
-    "description": "  BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor."
+    "description": "BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor."
   },
   {
     "name": "DataJuggler.Blazor.FileUpload",
     "url": "https://github.com/DataJuggler/BlazorFileUpload",
-    "description": "  Wrapper for Steve Sanderson's BlazorFileInput component."
+    "description": "Wrapper for Steve Sanderson's BlazorFileInput component."
   },
   {
     "name": "BlazorPrettyCode",
@@ -1013,7 +1013,7 @@
   {
     "name": "Blazor Hotkeys2",
     "url": "https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2",
-    "description": "  A library to provide configuration-centric keyboard shortcuts for Blazor."
+    "description": "A library to provide configuration-centric keyboard shortcuts for Blazor."
   },
   {
     "name": "BlazorRealm",
@@ -1028,7 +1028,7 @@
   {
     "name": "Blazor.SpeechSynthesis",
     "url": "https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis",
-    "description": " A library to provide Speech Synthesis API access for Blazor."
+    "description": "A library to provide Speech Synthesis API access for Blazor."
   },
   {
     "name": "Blazor BarCode",
@@ -1037,137 +1037,137 @@
   {
     "name": "BlazorState.Redux",
     "url": "https://github.com/BerserkerDotNet/BlazorState.Redux",
-    "description": " Develop Blazor apps with Redux."
+    "description": "Develop Blazor apps with Redux."
   },
   {
     "name": "Howler.Blazor",
     "url": "https://github.com/StefH/Howler.Blazor",
-    "description": " A Blazor JSInterop wrapper for Howler.js, an audio library."
+    "description": "A Blazor JSInterop wrapper for Howler.js, an audio library."
   },
   {
     "name": "jsMind.Blazor",
     "url": "https://github.com/StefH/jsMind.Blazor",
-    "description": " A Blazor JSInterop wrapper for jsMind, a MindMapping tool."
+    "description": "A Blazor JSInterop wrapper for jsMind, a MindMapping tool."
   },
   {
     "name": "Blazor Highcharts",
     "url": "https://github.com/Allegiance-Consulting/blazor-highcharts",
-    "description": " A port of the popular Highcharts library. Demo."
+    "description": "A port of the popular Highcharts library. Demo."
   },
   {
     "name": "Blazor.LazyStyleSheet",
     "url": "https://github.com/excubo-ag/Blazor.LazyStyleSheet",
-    "description": " Lazy loading for CSS style sheets."
+    "description": "Lazy loading for CSS style sheets."
   },
   {
     "name": "Blazor.ScriptInjection",
     "url": "https://github.com/excubo-ag/Blazor.ScriptInjection",
-    "description": "  Smart script tags in Blazor components, ideal for lazy loading of javascript files."
+    "description": "Smart script tags in Blazor components, ideal for lazy loading of javascript files."
   },
   {
     "name": "DnetIndexedDb",
     "url": "https://github.com/amuste/DnetIndexedDb",
-    "description": " Blazor Library for IndexedDB DOM API."
+    "description": "Blazor Library for IndexedDB DOM API."
   },
   {
     "name": "BlazorIndexedDbJs",
     "url": "https://github.com/kattunga/BlazorIndexedDbJs",
-    "description": " BlazorIndexedDbJs is a wrapper arround IndexedDB DOM API, supports Blazor WASM and Server."
+    "description": "BlazorIndexedDbJs is a wrapper arround IndexedDB DOM API, supports Blazor WASM and Server."
   },
   {
     "name": "Blazor-Color-Picker",
     "url": "https://github.com/tossnet/Blazor-Color-Picker",
-    "description": " Opens a palette with the Material colors for Blazor application."
+    "description": "Opens a palette with the Material colors for Blazor application."
   },
   {
     "name": "Blazm.Bluetooth",
     "url": "https://github.com/EngstromJimmy/Blazm.Bluetooth",
-    "description": " A Blazor library for connecting to devices using Bluetooth."
+    "description": "A Blazor library for connecting to devices using Bluetooth."
   },
   {
     "name": "WebBluetooth",
     "url": "https://github.com/KeudellCoding/Blazor.WebBluetooth",
-    "description": " Blazor service for the experimental WebBluetooth functions. Based on Blazm.Bluetooth."
+    "description": "Blazor service for the experimental WebBluetooth functions. Based on Blazm.Bluetooth."
   },
   {
     "name": "BlazorApplicationInsights",
     "url": "https://github.com/IvanJosipovic/BlazorApplicationInsights",
-    "description": " Application Insights for Blazor web applications."
+    "description": "Application Insights for Blazor web applications."
   },
   {
     "name": "Blazor Printing",
     "url": "https://github.com/Append-IT/Blazor.Printing",
-    "description": " Print and save PDF documents with a native print dialog in a Blazor Server or client Application."
+    "description": "Print and save PDF documents with a native print dialog in a Blazor Server or client Application."
   },
   {
     "name": "BlazorTemplater",
     "url": "https://github.com/conficient/BlazorTemplater",
-    "description": " Use .razor components to render HTML strings for email content."
+    "description": "Use .razor components to render HTML strings for email content."
   },
   {
     "name": "MediaSession.Blazor",
     "url": "https://github.com/zuozishi/MediaSession.Blazor",
-    "description": " A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. (Demo)."
+    "description": "A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. (Demo)."
   },
   {
     "name": "BlazorAntivirusProtection",
     "url": "https://github.com/stavroskasidis/BlazorWasmAntivirusProtection",
-    "description": "  Antivirus protection for Blazor Wasm projects. This package attempts to guard against false positives from antiviruses that flag Blazor Wasm as malware, until Microsoft gives us an official solution."
+    "description": "Antivirus protection for Blazor Wasm projects. This package attempts to guard against false positives from antiviruses that flag Blazor Wasm as malware, until Microsoft gives us an official solution."
   },
   {
     "name": "Phork.Blazor.Reactivity",
     "url": "https://github.com/phorks/phork-blazor-reactivity",
-    "description": "  An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components."
+    "description": "An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components."
   },
   {
     "name": "CodeBeam.GoogleApis.Blazor",
     "url": "https://github.com/CodeBeamOrg/CodeBeam.GoogleApis.Blazor",
-    "description": "  An open-source utility package for GoogleApis in Blazor. Written from scratch and aims easiest of use."
+    "description": "An open-source utility package for GoogleApis in Blazor. Written from scratch and aims easiest of use."
   },
   {
     "name": "Blazor Extensions Home",
     "url": "https://github.com/BlazorExtensions/Home",
-    "description": " Home for Blazor Extensions."
+    "description": "Home for Blazor Extensions."
   },
   {
     "name": "Bolero",
     "url": "https://github.com/fsbolero/Bolero",
-    "description": "  Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more."
+    "description": "Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more."
   },
   {
     "name": "BlazorFabric",
     "url": "https://github.com/limefrogyank/BlazorFabric",
-    "description": "  Blazor port of Microsoft UI Fabric with fluent design. (Demo)."
+    "description": "Blazor port of Microsoft UI Fabric with fluent design. (Demo)."
   },
   {
     "name": "BlazorWebView",
     "url": "https://github.com/jspuij/BlazorWebView",
-    "description": "  Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. Documentation."
+    "description": "Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. Documentation."
   },
   {
     "name": "BlazorLazyLoading",
     "url": "https://github.com/isc30/blazor-lazy-loading",
-    "description": "  Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc)."
+    "description": "Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc)."
   },
   {
     "name": "Fun.Blazor",
     "url": "https://github.com/slaveOftime/Fun.Blazor",
-    "description": "  This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style."
+    "description": "This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style."
   },
   {
     "name": "Blazor.DownloadFileFast",
     "url": "https://github.com/StefH/Blazor.DownloadFileFast",
-    "description": "  Fast download of files to the browser from Blazor without any javascript library reference or dependency. (Demo)."
+    "description": "Fast download of files to the browser from Blazor without any javascript library reference or dependency. (Demo)."
   },
   {
     "name": "SpotifyService",
     "url": "https://github.com/tresoneur/SpotifyService",
-    "description": "  A high-level Spotify API library for Blazor WebAssembly projects that enables Spotify playback in the browser, manages OAuth 2.0 authorization, provides easy access to the Spotify Web API and uses IndexedDB caching."
+    "description": "A high-level Spotify API library for Blazor WebAssembly projects that enables Spotify playback in the browser, manages OAuth 2.0 authorization, provides easy access to the Spotify Web API and uses IndexedDB caching."
   },
   {
     "name": "Blazor.DynamicJavascriptRuntime.Evaluator",
     "url": "https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator",
-    "description": "  Execute dynamic object expressions as Javascript in Blazor client-side apps."
+    "description": "Execute dynamic object expressions as Javascript in Blazor client-side apps."
   },
   {
     "name": "Bionic",
@@ -1177,12 +1177,12 @@
   {
     "name": "EventHorizon Blazor TypeScript Interop Generator",
     "url": "https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator",
-    "description": " This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project."
+    "description": "This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project."
   },
   {
     "name": "Generators.Blazor",
     "url": "https://github.com/excubo-ag/Generators.Blazor",
-    "description": " Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps."
+    "description": "Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps."
   },
   {
     "name": "BlazorOcticons",
@@ -1191,42 +1191,42 @@
   {
     "name": "BlazorInteropGenerator",
     "url": "https://github.com/surgicalcoder/BlazorInteropGenerator",
-    "description": "  Github Octicons Generates Blazor -> Javascript strongly typed interop methods, by parsing the Javascript it self and generating extension methods for IJSRuntime."
+    "description": "Github Octicons Generates Blazor -> Javascript strongly typed interop methods, by parsing the Javascript it self and generating extension methods for IJSRuntime."
   },
   {
     "name": "RazorPageRouteGenerator",
     "url": "https://github.com/surgicalcoder/RazorPageRouteGenerator",
-    "description": "  Generates methods with parameters for Razor and Blazor pages, so you can navigate without having to guess URLs or parameters."
+    "description": "Generates methods with parameters for Razor and Blazor pages, so you can navigate without having to guess URLs or parameters."
   },
   {
     "name": "Try .NET",
     "url": "https://github.com/dotnet/try",
-    "description": "  Try .NET provides developers and content authors with tools to create interactive experiences."
+    "description": "Try .NET provides developers and content authors with tools to create interactive experiences."
   },
   {
     "name": "Burke Learns Blazor",
     "url": "https://www.youtube.com/watch?v=qONPW7N_r8k",
-    "description": " July 7, 2023 - Finishing the API and starting the UI. Community links."
+    "description": "July 7, 2023 - Finishing the API and starting the UI. Community links."
   },
   {
     "name": "Adding Progress Indicators & Progress Telerik Maps in 'Next Tech Event' | Part 21",
     "url": "https://www.youtube.com/watch?v=cYDs7WyOxcE",
-    "description": " July 4, 2023 - In this episode, we discuss and implement progress indicators to enhance user experience. Plus, we integrate a Map component from Progress Telerik, adding a visually striking and functional element to the platform. Source code."
+    "description": "July 4, 2023 - In this episode, we discuss and implement progress indicators to enhance user experience. Plus, we integrate a Map component from Progress Telerik, adding a visually striking and functional element to the platform. Source code."
   },
   {
     "name": "The Blazor Power Hour: Sections, SectionOutlet, and SectionContent in .NET 8 Preview",
     "url": "https://www.youtube.com/watch?v=6iUNRitiJTQ",
-    "description": " June 28, 2023 - Let's take a deep dive into a .NET 8 Preview feature, sections. What are SectionOutlet, and SectionContent? How do we use them to build an extensive layout system for Blazor applications?"
+    "description": "June 28, 2023 - Let's take a deep dive into a .NET 8 Preview feature, sections. What are SectionOutlet, and SectionContent? How do we use them to build an extensive layout system for Blazor applications?"
   },
   {
     "name": "Creating a Twitter Clone with Blazor Spark",
     "url": "https://www.youtube.com/watch?v=B3giEe1imjY",
-    "description": " June 21, 2023 - Learn how to utilize the Blazor Spark framework by building a Twitter clone."
+    "description": "June 21, 2023 - Learn how to utilize the Blazor Spark framework by building a Twitter clone."
   },
   {
     "name": "Burke learns Blazor by porting a Vue.js app to Blazor",
     "url": "https://www.youtube.com/watch?v=fetGhhVYsLY",
-    "description": " June 16, 2021 - This summer, Burke and Jon are porting theurlist.com to Blazor - a real world JavaScript application written in Vue.js. Join them each week as they use Visual Studio, Visual Studio Code and GitHub Copilot to rebuild this app and try to tackle every frontend issue you might encounter along the way. Community links."
+    "description": "June 16, 2021 - This summer, Burke and Jon are porting theurlist.com to Blazor - a real world JavaScript application written in Vue.js. Join them each week as they use Visual Studio, Visual Studio Code and GitHub Copilot to rebuild this app and try to tackle every frontend issue you might encounter along the way. Community links."
   },
   {
     "name": "ASP.NET Community Standup - Featured community project: Blazor Studio",
@@ -1236,37 +1236,37 @@
   {
     "name": "What's new in .NET 8 for Web frontends backends and futures?",
     "url": "https://www.youtube.com/watch?v=pJGDPEk45Jc",
-    "description": " May 26, 2023 - Join this session to explore new features in .NET 8 for web frontends, backends, and future development. Discover how .NET 8 enhances web app development with better performance, new APIs, and modern development support. Get guidance on leveraging these tools for scalable, efficient cloud apps. Suitable for both experienced and new .NET developers, this session offers valuable insights into the latest developments in .NET 8 for web development."
+    "description": "May 26, 2023 - Join this session to explore new features in .NET 8 for web frontends, backends, and future development. Discover how .NET 8 enhances web app development with better performance, new APIs, and modern development support. Get guidance on leveraging these tools for scalable, efficient cloud apps. Suitable for both experienced and new .NET developers, this session offers valuable insights into the latest developments in .NET 8 for web development."
   },
   {
     "name": "Running ASP.NET Core Apps without a server? WHAT???",
     "url": "https://www.youtube.com/watch?v=IXCZAFwT5GY",
-    "description": " May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could."
+    "description": "May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could."
   },
   {
     "name": "Full stack web in .NET 8 with Blazor",
     "url": "https://www.youtube.com/watch?v=iDLWv3xM1s0",
-    "description": " May 24, 2023 - Learn how ASP.NET Blazor in .NET 8 allows you to use a single powerful component model to handle all of your web UI needs, including server-side rendering, client-side rendering, streaming rendering, progressive enhancement, and much more."
+    "description": "May 24, 2023 - Learn how ASP.NET Blazor in .NET 8 allows you to use a single powerful component model to handle all of your web UI needs, including server-side rendering, client-side rendering, streaming rendering, progressive enhancement, and much more."
   },
   {
     "name": "Blazor + .NET MAUI – the perfect “hybrid”",
     "url": "https://www.youtube.com/watch?v=kjKpZAgXLFY",
-    "description": " May 24, 2023 - In this session, we demonstrate how to leverage DevExpress Blazor/.NET MAUI UI components to deliver intuitive mobile solutions that amaze. We show you how Blazor Hybrid apps reduce time to market and how our adaptive Blazor Data Grid can be used alongside our rich collection of FREE .NET MAUI UI components to address a variety of usage scenarios."
+    "description": "May 24, 2023 - In this session, we demonstrate how to leverage DevExpress Blazor/.NET MAUI UI components to deliver intuitive mobile solutions that amaze. We show you how Blazor Hybrid apps reduce time to market and how our adaptive Blazor Data Grid can be used alongside our rich collection of FREE .NET MAUI UI components to address a variety of usage scenarios."
   },
   {
     "name": "How to Create a PDF Document in Blazor Using the .NET PDF Library",
     "url": "https://build.microsoft.com/en-US/sessions/b559a882-92b9-43b6-9b50-312be2ccadfe?source=sessions",
-    "description": " May 23, 2023 - .NET Build session: How to Create a PDF Document in Blazor Using the .NET PDF Library. PDFs are an ideal format for sharing and archiving documents, but creating a viewer from scratch requires a deep understanding of PDF specifications and programming languages. What benefit does a PDF viewer provide for your business? It makes it easy to send a report to stakeholders, send an invoice to a customer, or generate a receipt in a retail shop. In this demo, we’ll show how you can easily add a PDF viewer to your app with text, images, and a table in the PDF document."
+    "description": "May 23, 2023 - .NET Build session: How to Create a PDF Document in Blazor Using the .NET PDF Library. PDFs are an ideal format for sharing and archiving documents, but creating a viewer from scratch requires a deep understanding of PDF specifications and programming languages. What benefit does a PDF viewer provide for your business? It makes it easy to send a report to stakeholders, send an invoice to a customer, or generate a receipt in a retail shop. In this demo, we’ll show how you can easily add a PDF viewer to your app with text, images, and a table in the PDF document."
   },
   {
     "name": "Blazor + .NET MAUI – the perfect “hybrid”",
     "url": "https://build.microsoft.com/en-US/sessions/7ac85686-2fee-4ce5-82d0-c239a005eb7e?source=sessions",
-    "description": " May 23, 2023 - Microsoft Build session: Blazor + .NET MAUI – the perfect “hybrid”. In this session, we demonstrate how to leverage DevExpress Blazor/.NET MAUI UI components to deliver intuitive mobile solutions that amaze. We show you how Blazor Hybrid apps reduce time to market and how our adaptive Blazor Data Grid can be used alongside our rich collection of FREE .NET MAUI UI components to address a variety of usage scenarios."
+    "description": "May 23, 2023 - Microsoft Build session: Blazor + .NET MAUI – the perfect “hybrid”. In this session, we demonstrate how to leverage DevExpress Blazor/.NET MAUI UI components to deliver intuitive mobile solutions that amaze. We show you how Blazor Hybrid apps reduce time to market and how our adaptive Blazor Data Grid can be used alongside our rich collection of FREE .NET MAUI UI components to address a variety of usage scenarios."
   },
   {
     "name": "",
     "url": "https://camo.githubusercontent.com/5b01a826005bd9fef584495eb43656bf0678977313b65b7fb8fa8fe7ff60f79f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4475726174696f6e3a2532302d342532306d696e2d2532333030393446463f7374796c653d666c61742d7371756172652663616368655365636f6e64733d6d6178416765266c6f676f3d796f7574756265",
-    "description": " May 23, 2023 - Developing Blazor is fun. However, there are a lot of different things that take quite some time when added together. For instance creating isolated CSS files, creating isolated JS files, creating code behind files and others. However, Jimmy Engstrom has created a Visual Extension that solves exactly this problems. Using this extension, your productivity will get a substantial boost. In this video, I'll show you everything you need to know to use this extension in your day to day Blazor development."
+    "description": "May 23, 2023 - Developing Blazor is fun. However, there are a lot of different things that take quite some time when added together. For instance creating isolated CSS files, creating isolated JS files, creating code behind files and others. However, Jimmy Engstrom has created a Visual Extension that solves exactly this problems. Using this extension, your productivity will get a substantial boost. In this video, I'll show you everything you need to know to use this extension in your day to day Blazor development."
   },
   {
     "name": "On .NET Live - Micro Frontends with Blazor",
@@ -1281,12 +1281,12 @@
   {
     "name": "Building \"Next Tech Event\" using Blazor and RavenDB Part 16",
     "url": "https://www.youtube.com/watch?app=desktop&v=crAfcbzpUqg",
-    "description": " May 9, 2023 - Part 16 of our new project, \"NextTechEvent\", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we made the attendee page look better, and with our close personal friend Chat GPT, we did a better-looking temperature view. Source code   ."
+    "description": "May 9, 2023 - Part 16 of our new project, \"NextTechEvent\", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we made the attendee page look better, and with our close personal friend Chat GPT, we did a better-looking temperature view. Source code   ."
   },
   {
     "name": "Build a Connect Four game in your browser with .NET",
     "url": "https://www.youtube.com/watch?v=S9OICr6Qxpc",
-    "description": " May 1, 2023 - Learn C#, F#, and .NET with free self-guided learning from Microsoft Learn. Connect4 lesson on Microsoft Learn."
+    "description": "May 1, 2023 - Learn C#, F#, and .NET with free self-guided learning from Microsoft Learn. Connect4 lesson on Microsoft Learn."
   },
   {
     "name": "ASP.NET Community Standup - Blazor and Data API Builder",
@@ -1301,12 +1301,12 @@
   {
     "name": "Steve Sanderson on Blazor United",
     "url": "https://www.youtube.com/watch?v=QvZcbqT0oIo",
-    "description": " February 23, 2023 - Carl talks to Steve Sanderson, creator of Blazor, to answer questions about Blazor United, coming in .NET 8."
+    "description": "February 23, 2023 - Carl talks to Steve Sanderson, creator of Blazor, to answer questions about Blazor United, coming in .NET 8."
   },
   {
     "name": "Exploring OpenAI with Blazor",
     "url": "https://www.youtube.com/watch?v=ULHxywqxMPk",
-    "description": " February 23, 2023 - Chat with Michael Washington about how .NET developers can leverage OpenAI GPT-3 in their Blazor applications."
+    "description": "February 23, 2023 - Chat with Michael Washington about how .NET developers can leverage OpenAI GPT-3 in their Blazor applications."
   },
   {
     "name": "ASP.NET Community Standup - Blazor United in .NET 8",
@@ -1321,7 +1321,7 @@
   {
     "name": "Blazor United prototype",
     "url": "https://www.youtube.com/watch?v=48G_CEGXZZM",
-    "description": " January 24, 2023 - A quick look at some of the experiments we're considering for Blazor in .NET 8."
+    "description": "January 24, 2023 - A quick look at some of the experiments we're considering for Blazor in .NET 8."
   },
   {
     "name": "ASP.NET Community Standup - Exploring new and experimental features in Blazor",
@@ -1331,7 +1331,7 @@
   {
     "name": "Run a Blazor component inside React",
     "url": "https://www.youtube.com/watch?v=jIlSfgQiWTQ",
-    "description": " December 21, 2022 - Are you tired of slow and clunky web applications? Look no further than Blazor running in React! Blazor is a powerful framework for building interactive client-side web apps with C#, and when combined with the speed and flexibility of React, you get a winning combination for stunning, high-performance web experiences. In this video, we will use the new Custom Elements feature to run Blazor in React, and demonstrate some of the other exciting features and benefits of this dynamic duo. Don't miss out on the future of web development."
+    "description": "December 21, 2022 - Are you tired of slow and clunky web applications? Look no further than Blazor running in React! Blazor is a powerful framework for building interactive client-side web apps with C#, and when combined with the speed and flexibility of React, you get a winning combination for stunning, high-performance web experiences. In this video, we will use the new Custom Elements feature to run Blazor in React, and demonstrate some of the other exciting features and benefits of this dynamic duo. Don't miss out on the future of web development."
   },
   {
     "name": "ASP.NET Community Standup - Blazor .NET 8 Planning",
@@ -1341,62 +1341,62 @@
   {
     "name": "Use the IDE to make a Fluxor CRUD Application | Blazor IDE Part 2",
     "url": "https://www.youtube.com/watch?v=r2XaCISF4dQ",
-    "description": " November 18, 2022 - Use the IDE to make a Fluxor CRUD Application."
+    "description": "November 18, 2022 - Use the IDE to make a Fluxor CRUD Application."
   },
   {
     "name": "What's new for Blazor in .NET 7 | .NET Conf 2022",
     "url": "https://www.youtube.com/watch?v=evW4Gj4sHsk",
-    "description": " November 10, 2022 - Blazor in .NET 7 is loaded with many new improvements to make building beautiful interactive web UI easier and more productive. In this session we'll take a look at the new support for custom elements, improved data binding, handling location changing events, showing loading progress, dynamic authentication requests, and more."
+    "description": "November 10, 2022 - Blazor in .NET 7 is loaded with many new improvements to make building beautiful interactive web UI easier and more productive. In this session we'll take a look at the new support for custom elements, improved data binding, handling location changing events, showing loading progress, dynamic authentication requests, and more."
   },
   {
     "name": "Build an Audio Browser app with Blazor | .NET Conf 2022",
     "url": "https://www.youtube.com/watch?v=2t4VwBeQ9DY",
-    "description": " November 10, 2022 - So you’ve heard about new features in .NET 7, but how does it all fit together when you build an app? Join Steve as he quickly builds an end-to-end audio manager app with Blazor WebAssembly using features old and new. This is a moderately advanced talk (it assumes existing Blazor knowledge) full of hints and tips including: cleaner ways to organize JS interop, directly accessing files on an end user’s filesystem, dynamically generating SVGs, creating an elegant “loading” experience, and the performance impact of AOT compilation. Full source code is provided!"
+    "description": "November 10, 2022 - So you’ve heard about new features in .NET 7, but how does it all fit together when you build an app? Join Steve as he quickly builds an end-to-end audio manager app with Blazor WebAssembly using features old and new. This is a moderately advanced talk (it assumes existing Blazor knowledge) full of hints and tips including: cleaner ways to organize JS interop, directly accessing files on an end user’s filesystem, dynamically generating SVGs, creating an elegant “loading” experience, and the performance impact of AOT compilation. Full source code is provided!"
   },
   {
     "name": ".NET ❤️’s WebAssembly in .NET 7 | .NET Conf 2022",
     "url": "https://www.youtube.com/watch?v=Ru-kO77d3F8",
-    "description": " November 10, 2022 - .NET 7 introduces powerful new capabilities for running .NET code on WebAssembly. In this session we’ll show how you can run .NET from any JavaScript code using the new and improved JavaScript interop support. We’ll look at debugging and hot reload improvements for .NET on WebAssembly  and show how the .NET WebAssembly build tools in .NET 7 take advantage of the latest WebAssembly features like SIMD and Exception Handling to improve performance. We’ll also check out some upcoming and experimental .NET WebAssembly capabilities like support for multithreading."
+    "description": "November 10, 2022 - .NET 7 introduces powerful new capabilities for running .NET code on WebAssembly. In this session we’ll show how you can run .NET from any JavaScript code using the new and improved JavaScript interop support. We’ll look at debugging and hot reload improvements for .NET on WebAssembly  and show how the .NET WebAssembly build tools in .NET 7 take advantage of the latest WebAssembly features like SIMD and Exception Handling to improve performance. We’ll also check out some upcoming and experimental .NET WebAssembly capabilities like support for multithreading."
   },
   {
     "name": "Testing Blazor Applications with Playwright | .NET Conf 2022",
     "url": "https://www.youtube.com/watch?v=gBky9_AskNQ",
-    "description": " November 10, 2022 - Testing is hard, testing takes time to learn and to write, and time is money. As developers we want to test. We know we should but we don't have time. So how can we get more developers to do testing? We can create better tools. Let me introduce you to Playwright - Reliable end-to-end cross browser testing for modern web apps, by Microsoft and fully open source. Playwright's codegen generates tests for you so now you really have no excuses. It's time to play your tests wright."
+    "description": "November 10, 2022 - Testing is hard, testing takes time to learn and to write, and time is money. As developers we want to test. We know we should but we don't have time. So how can we get more developers to do testing? We can create better tools. Let me introduce you to Playwright - Reliable end-to-end cross browser testing for modern web apps, by Microsoft and fully open source. Playwright's codegen generates tests for you so now you really have no excuses. It's time to play your tests wright."
   },
   {
     "name": "Create native desktop & mobile apps using web skills in Blazor Hybrid | .NET Conf 2022",
     "url": "https://www.youtube.com/watch?v=ojcvL8KCOwo",
-    "description": " November 10, 2022 - Are you a web developer and need to target iOS, Android, macOS, and Windows? Ship directly to the store and build world class apps with native API access with .NET MAUI and Blazor Hybrid."
+    "description": "November 10, 2022 - Are you a web developer and need to target iOS, Android, macOS, and Windows? Ship directly to the store and build world class apps with native API access with .NET MAUI and Blazor Hybrid."
   },
   {
     "name": "Modernize your WPF and Windows Forms application with Blazor | .NET Conf 2022",
     "url": "https://www.youtube.com/watch?v=niX1DbFwgq4",
-    "description": " November 10, 2022 - Desktop is not dead and there are a lot of applications written in WPF and Windows Forms that need to be ported to Web, or reuse ready components written by the web team. Blazor can be the answer for both the requirements thanks to Blazor Hybrid. Let’s see how you can use it."
+    "description": "November 10, 2022 - Desktop is not dead and there are a lot of applications written in WPF and Windows Forms that need to be ported to Web, or reuse ready components written by the web team. Blazor can be the answer for both the requirements thanks to Blazor Hybrid. Let’s see how you can use it."
   },
   {
     "name": "CSS Techniques for Blazor Developers | .NET Conf 2022",
     "url": "https://www.youtube.com/watch?v=w_x1keHyXAY",
-    "description": " November 10, 2022 - Does your CSS code remind you of an episode of Hoarders? In this session we’ll explore a variety of CSS related architecture decisions that Blazor developers face. Attendees will learn how and when to use plain CSS, Sass or CSS Isolation with Blazor. Modern CSS techniques like custom CSS properties will be discussed. We’ll explore techniques to build modular and intelligent CSS by leveraging CSS principals and incorporating helper libraries. This session aims to break the dependency on CSS systems like Bootstrap and Tailwind."
+    "description": "November 10, 2022 - Does your CSS code remind you of an episode of Hoarders? In this session we’ll explore a variety of CSS related architecture decisions that Blazor developers face. Attendees will learn how and when to use plain CSS, Sass or CSS Isolation with Blazor. Modern CSS techniques like custom CSS properties will be discussed. We’ll explore techniques to build modular and intelligent CSS by leveraging CSS principals and incorporating helper libraries. This session aims to break the dependency on CSS systems like Bootstrap and Tailwind."
   },
   {
     "name": "Azure Static Web Apps with Blazor and .NET | .NET Conf 2022",
     "url": "https://www.youtube.com/watch?v=FjGjguW1Xa0",
-    "description": " November 10, 2022 - Are you a .NET developer who wants to quickly build and deploy full-stack .NET serverless applications? Then this talk is for you! In this session, we will learn how to use Azure Static Web Apps with Blazor and .NET. First, we will explore Azure Static Web Apps. Then take a look at getting started with Blazor WebAssembly paired with the serverless power of .NET Azure Functions or Azure Container Apps. We will continue on to explore other .NET API options now available. And finally, we will discover how to automatically build and deploy to Azure directly from our code repository."
+    "description": "November 10, 2022 - Are you a .NET developer who wants to quickly build and deploy full-stack .NET serverless applications? Then this talk is for you! In this session, we will learn how to use Azure Static Web Apps with Blazor and .NET. First, we will explore Azure Static Web Apps. Then take a look at getting started with Blazor WebAssembly paired with the serverless power of .NET Azure Functions or Azure Container Apps. We will continue on to explore other .NET API options now available. And finally, we will discover how to automatically build and deploy to Azure directly from our code repository."
   },
   {
     "name": "Localization in Blazor: Carl Franklin's Blazor Train Ep 90",
     "url": "https://www.youtube.com/watch?v=e8IkSFQmonE",
-    "description": " November 3, 2022 - Carl shows how to easily support multiple languages in a Blazor WebAssembly application."
+    "description": "November 3, 2022 - Carl shows how to easily support multiple languages in a Blazor WebAssembly application."
   },
   {
     "name": "Building \"Next Tech Event\" using Blazor and RavenDB Part 12",
     "url": "https://www.youtube.com/watch?v=tpF61oKd3-I",
-    "description": " November 2, 2022 - Part 12 of the project \"NextTechEvent\", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we add search functionality using RavenDB by adding an index. A way for organizers to filter conferences by name, country, location, city, and tags or a combination of them. This way we can see how many conferences are happening in \"Stockholm\" or all the conferences named \"NDC\".    Source code."
+    "description": "November 2, 2022 - Part 12 of the project \"NextTechEvent\", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we add search functionality using RavenDB by adding an index. A way for organizers to filter conferences by name, country, location, city, and tags or a combination of them. This way we can see how many conferences are happening in \"Stockholm\" or all the conferences named \"NDC\".    Source code."
   },
   {
     "name": "MAUI Blazor Podcast Client Part 2: The .NET Show with Carl Franklin Ep 30",
     "url": "https://www.youtube.com/watch?v=csWkVlB3GQo",
-    "description": " October 20, 2022 - Adding guests and links, and playlist functionality."
+    "description": "October 20, 2022 - Adding guests and links, and playlist functionality."
   },
   {
     "name": "ASP.NET Community Standup - Blazor in .NET 7 Part III",
@@ -1406,7 +1406,7 @@
   {
     "name": "MSAL Auth in Blazor Server",
     "url": "https://www.youtube.com/watch?v=AlRxwIOq4jQ&list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz&index=92",
-    "description": " September 22, 2022 - Carl shows how to use MSAL and Azure AD B2C to authenticate users and call a secure API."
+    "description": "September 22, 2022 - Carl shows how to use MSAL and Azure AD B2C to authenticate users and call a secure API."
   },
   {
     "name": "ASP.NET Community Standup - Blazor in .NET 7 Part II",
@@ -1416,17 +1416,17 @@
   {
     "name": "Make a Text Editor in Blazor from scratch, Blazor Text Editor Part 1.",
     "url": "https://www.youtube.com/watch?v=D5PdeRsV-Hk&list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1&index=2",
-    "description": " September 8, 2022 - Make a Text Editor in Blazor from scratch, Blazor Text Editor Part 1."
+    "description": "September 8, 2022 - Make a Text Editor in Blazor from scratch, Blazor Text Editor Part 1."
   },
   {
     "name": "Roslyn Syntax Highlighting | Blazor Text Editor Part 2",
     "url": "https://www.youtube.com/watch?v=ZIt0-mbCgG8&list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1&index=2",
-    "description": " September 8, 2022 - Roslyn Syntax Highlighting | Blazor Text Editor Part 2."
+    "description": "September 8, 2022 - Roslyn Syntax Highlighting | Blazor Text Editor Part 2."
   },
   {
     "name": "Make a Text Editor in Blazor from scratch | Blazor Text Editor Part 1",
     "url": "https://www.youtube.com/watch?v=D5PdeRsV-Hk&t=0s",
-    "description": " September 8, 2022 - Make a Text Editor in Blazor from scratch | Blazor Text Editor Part 1."
+    "description": "September 8, 2022 - Make a Text Editor in Blazor from scratch | Blazor Text Editor Part 1."
   },
   {
     "name": ".NET MAUI & Blazor - Sharing code between app and web",
@@ -1436,12 +1436,12 @@
   {
     "name": "Blazor in 100 Seconds",
     "url": "https://www.youtube.com/watch?v=QXxNlpjnulI",
-    "description": " September 1, 2022 - Short presentation of Blazor. Blazor is a framework that can build frontend web applications with HTML, CSS, and C#. It leverages web assembly to eliminate JavaScript from the usual client-side tech stack."
+    "description": "September 1, 2022 - Short presentation of Blazor. Blazor is a framework that can build frontend web applications with HTML, CSS, and C#. It leverages web assembly to eliminate JavaScript from the usual client-side tech stack."
   },
   {
     "name": "Build an interactive todo list with Blazor in minutes",
     "url": "https://www.youtube.com/watch?v=YhAxMpOtVQU",
-    "description": " August 28, 2022 - In this tutorial we'll learn how to create a todo list with Blazor and improve the page using Bootstrap."
+    "description": "August 28, 2022 - In this tutorial we'll learn how to create a todo list with Blazor and improve the page using Bootstrap."
   },
   {
     "name": "Blazor in .NET 7 - .NET Community Standup",
@@ -1451,42 +1451,42 @@
   {
     "name": "Blazor for ABSOLUTE beginners in 21 Minutes",
     "url": "https://www.youtube.com/watch?v=MhQpGbLxeF0",
-    "description": " August 22, 2022 - In this tutorial you will learn the basics of building a website with Blazor and how the default Blazor project template works. If you have any problems feel free to leave a comment and I will try and get back to you. I've also added some notes below that you might find useful."
+    "description": "August 22, 2022 - In this tutorial you will learn the basics of building a website with Blazor and how the default Blazor project template works. If you have any problems feel free to leave a comment and I will try and get back to you. I've also added some notes below that you might find useful."
   },
   {
     "name": "Implementing Main Page Headers in Blazor",
     "url": "https://www.youtube.com/watch?v=YAgMdsdWzAc",
-    "description": " July 18, 2022 - In this session, Josh and I are back again to continue building a decentralizaed social media platform in the open-source space. This session in particular we will be discussing, designing and implementing a main page header in Blazor using SharpStyles."
+    "description": "July 18, 2022 - In this session, Josh and I are back again to continue building a decentralizaed social media platform in the open-source space. This session in particular we will be discussing, designing and implementing a main page header in Blazor using SharpStyles."
   },
   {
     "name": "Blazor: Flavors of State Management with Blazor WebAssembly",
     "url": "https://www.youtube.com/watch?v=ovgNl_ck22w",
-    "description": " July 12, 2022 - ASP.NET Community Standup - Blazor: Flavors of State Management with Blazor WebAssembly. Working with Blazor WebAssembly applications we often overlook the importance of appropriate state management. Without a good understanding and the right strategy, our applications can end up polluted with components that behave badly and we end up regretting the bad choices.- This session covers the simple state management flavours and then progress towards something more tasty like the Redux pattern. We will see what there is to like and dislike about each flavour. Next, we will take a step back and determine the appropriate seasoning of state management to pair with our application. You will leave this session having sampled all the wonderful flavours and be able to make great decisions to have the best development experience. Community links."
+    "description": "July 12, 2022 - ASP.NET Community Standup - Blazor: Flavors of State Management with Blazor WebAssembly. Working with Blazor WebAssembly applications we often overlook the importance of appropriate state management. Without a good understanding and the right strategy, our applications can end up polluted with components that behave badly and we end up regretting the bad choices.- This session covers the simple state management flavours and then progress towards something more tasty like the Redux pattern. We will see what there is to like and dislike about each flavour. Next, we will take a step back and determine the appropriate seasoning of state management to pair with our application. You will leave this session having sampled all the wonderful flavours and be able to make great decisions to have the best development experience. Community links."
   },
   {
     "name": "Securing Blazor & Web APIs with AAD",
     "url": "https://www.youtube.com/watch?v=wYptdN-P5zU",
-    "description": " July 11, 2022 - This video shows how to secure your Blazor application and a Web API using Azure Active Directory (AAD)."
+    "description": "July 11, 2022 - This video shows how to secure your Blazor application and a Web API using Azure Active Directory (AAD)."
   },
   {
     "name": "What’s next for Blazor, and .NET on WASI",
     "url": "https://www.youtube.com/watch?v=lP_qdhAHFlg",
-    "description": " July 7, 2022 - What’s next for Blazor, and .NET on WASI, talk by Steve Sanderson at the NDC Porto. In this demo-centric talk, Microsoft developer/architect Steve will show the current state-of-the-art in Blazor for building rich web-based UI for browsers and native apps. This will include powerful new features shipped in .NET 6, as well as upcoming enhancements under development for .NET 7 and .NET MAUI. We’ll also look at more experimental future possibilities, including running .NET Core on WASI (WebAssembly on the server) which creates entirely new cloud and edge hosting options and lets you bring .NET code to places it’s never been before."
+    "description": "July 7, 2022 - What’s next for Blazor, and .NET on WASI, talk by Steve Sanderson at the NDC Porto. In this demo-centric talk, Microsoft developer/architect Steve will show the current state-of-the-art in Blazor for building rich web-based UI for browsers and native apps. This will include powerful new features shipped in .NET 6, as well as upcoming enhancements under development for .NET 7 and .NET MAUI. We’ll also look at more experimental future possibilities, including running .NET Core on WASI (WebAssembly on the server) which creates entirely new cloud and edge hosting options and lets you bring .NET code to places it’s never been before."
   },
   {
     "name": "Test the new Blazor experimental tutorial INSIDE Visual Studio",
     "url": "https://www.youtube.com/watch?v=NXtaepJsWp8",
-    "description": " June 29, 2022 - Grace Taylor from the Visual Studio team joins James to talk about a new experiment that they are running to improve tutorial inside of Visual Studio! Their first experiment is going to help developers get started learning and building web apps with Blazor. Install Visual Studio, and you may have the opportunity to test out this new experimental feature from the team."
+    "description": "June 29, 2022 - Grace Taylor from the Visual Studio team joins James to talk about a new experiment that they are running to improve tutorial inside of Visual Studio! Their first experiment is going to help developers get started learning and building web apps with Blazor. Install Visual Studio, and you may have the opportunity to test out this new experimental feature from the team."
   },
   {
     "name": "Test-Driving CSS Styles in Blazor",
     "url": "https://www.youtube.com/watch?v=06chSzVeuls",
-    "description": " June 20, 2022 - This video is about test-driving CSS styles in Blazor."
+    "description": "June 20, 2022 - This video is about test-driving CSS styles in Blazor."
   },
   {
     "name": "Should I Focus on Blazor or ASP.NET Core?",
     "url": "https://www.youtube.com/watch?v=YbH2n4FZAP4",
-    "description": " June 16, 2022 - Should I learn Blazor in more depth or should I better understand ASP.NET Core? Which one is the better one to learn well first? Should I bounce back and forth or specialize in one?"
+    "description": "June 16, 2022 - Should I learn Blazor in more depth or should I better understand ASP.NET Core? Which one is the better one to learn well first? Should I bounce back and forth or specialize in one?"
   },
   {
     "name": "Persisting Data in Blazor WebAssembly",
@@ -1496,22 +1496,22 @@
   {
     "name": "Using TypeScript with Blazor",
     "url": "https://www.youtube.com/watch?v=I_zFlBKgl5s",
-    "description": " May 27, 2022 - Carl shows you how to use TypeScript when creating a Blazor component."
+    "description": "May 27, 2022 - Carl shows you how to use TypeScript when creating a Blazor component."
   },
   {
     "name": "Build native apps for any device with .NET and Visual Studio",
     "url": "https://mybuild.microsoft.com/en-US/sessions/599c82b6-0c5a-4add-9961-48b85d9ffde0",
-    "description": " May 25, 2022 - See how you can quickly and iteratively build modern, native and hybrid web apps for any device with Visual Studio and .NET Multi-platform App UI (.NET MAUI). We’ll take you on a tour of the tools and frameworks that can speed up your development time to create powerful, native desktop and mobile apps for Windows, macOS, iOS, and Android from a single codebase with .NET MAUI. We’ll also show you how to enhance your Blazor web apps with native device capabilities."
+    "description": "May 25, 2022 - See how you can quickly and iteratively build modern, native and hybrid web apps for any device with Visual Studio and .NET Multi-platform App UI (.NET MAUI). We’ll take you on a tour of the tools and frameworks that can speed up your development time to create powerful, native desktop and mobile apps for Windows, macOS, iOS, and Android from a single codebase with .NET MAUI. We’ll also show you how to enhance your Blazor web apps with native device capabilities."
   },
   {
     "name": "Native client apps with Blazor Hybrid",
     "url": "https://mybuild.microsoft.com/en-US/sessions/d2a86fe6-abb9-4939-a44d-ed660f9bb675?source=sessions",
-    "description": " May 25, 2022 - Blazor uses the latest open web standards to enable full stack web development with .NET. But what if you need to build a native client app? Blazor is expanding beyond the web to enable support for building native client apps using a hybrid of web technologies and .NET. In this session we’ll look at the new  Blazor Hybrid support in .NET MAUI for building cross platform native client apps for mobile and desktop as well as Blazor Hybrid support for modernizing WPF and Windows Forms apps."
+    "description": "May 25, 2022 - Blazor uses the latest open web standards to enable full stack web development with .NET. But what if you need to build a native client app? Blazor is expanding beyond the web to enable support for building native client apps using a hybrid of web technologies and .NET. In this session we’ll look at the new  Blazor Hybrid support in .NET MAUI for building cross platform native client apps for mobile and desktop as well as Blazor Hybrid support for modernizing WPF and Windows Forms apps."
   },
   {
     "name": "Future Possibilities for .NET Core and WASI (WebAssembly on the Server)",
     "url": "https://mybuild.microsoft.com/en-US/sessions/ddf48da7-d3e6-4ba5-affd-b5735ce205fa?source=sessions",
-    "description": " May 25, 2022 - WebAssembly is moving beyond the browser and is pitched to become a foundational element of modern cloud-native architecture. It lets any language compile to universal binaries that run on any OS or processor, robustly sandboxed and with great performance. This session covers a new approach to running .NET in WASI environments. You’ll see how your existing .NET code could be built into WASI-compliant modules, plus the opportunities this opens. This is experimental, not yet a committed product."
+    "description": "May 25, 2022 - WebAssembly is moving beyond the browser and is pitched to become a foundational element of modern cloud-native architecture. It lets any language compile to universal binaries that run on any OS or processor, robustly sandboxed and with great performance. This session covers a new approach to running .NET in WASI environments. You’ll see how your existing .NET code could be built into WASI-compliant modules, plus the opportunities this opens. This is experimental, not yet a committed product."
   },
   {
     "name": "Learn .NET MAUI - Full Course for Beginners | Tutorial for iOS, Android, Mac, Windows in C#",
@@ -1521,7 +1521,7 @@
   {
     "name": "Displaying Custom Reports in Blazor using Syncfusion",
     "url": "https://www.youtube.com/watch?v=CA8waGMYHbY",
-    "description": " May 20, 2022 - In the last video, we created a custom report using the Bold Reports Designer. We could use the provided Bold Reports Viewer to display the reports, but that does not always fit with what you want to accomplish. That is why today we will implement a report viewer in a Blazor Server application. That way, we can show our custom report to our clients directly inside of our site instead of sending them to a separate application."
+    "description": "May 20, 2022 - In the last video, we created a custom report using the Bold Reports Designer. We could use the provided Bold Reports Viewer to display the reports, but that does not always fit with what you want to accomplish. That is why today we will implement a report viewer in a Blazor Server application. That way, we can show our custom report to our clients directly inside of our site instead of sending them to a separate application."
   },
   {
     "name": "Bringing WebAssembly to the .NET Mainstream - Steve Sanderson",
@@ -1531,7 +1531,7 @@
   {
     "name": "Rapid development model for Blazor Web Assembly and typed end-to-end services",
     "url": "https://www.youtube.com/watch?v=BcQqCzm4tK0",
-    "description": " May 19, 2022 - In this video we use the ServiceStack Blazor WASM template to show how the combination of typed end-to-end services and Blazor is great for building line of business applications. The template provides a clean separation of concerns, typed end-to-end safety and rapid iteration thanks to shared C# language, Visual Studio Hot Reload and ServiceStack message centric design."
+    "description": "May 19, 2022 - In this video we use the ServiceStack Blazor WASM template to show how the combination of typed end-to-end services and Blazor is great for building line of business applications. The template provides a clean separation of concerns, typed end-to-end safety and rapid iteration thanks to shared C# language, Visual Studio Hot Reload and ServiceStack message centric design."
   },
   {
     "name": "ASP.NET Community Standup - Let's build an app with .NET MAUI and Blazor",
@@ -1541,7 +1541,7 @@
   {
     "name": "Making Blazor work with everything, plus WebAssembly on the server",
     "url": "https://www.youtube.com/watch?v=RevmsFXVJ5Q",
-    "description": " May 13, 2022 - Talk by Steve Sanderson at the NDC London 2022. Real-world software projects often involve combining many technologies. So, is modern Blazor powerful and flexible enough for your team's needs? In this demo-heavy talk, Steve will show how Blazor WebAssembly/Server can seamlessly embed libraries and logic written in other languages such as Rust or C/C++, how Blazor WebAssembly/Server components can be used inside other SPA frameworks such as React or Angular (or vice-versa) and how Blazor components can be used not only for web projects, but also shared with native apps for macOS, iOS, Android, and Windows (including WPF and WinForms) These capabilities should equip your team to take on the most ambitious projects with confidence. We'll then look further into the future and consider how WebAssembly is moving beyond the browser and is pitched to become a foundational element of cloud-native server apps. You'll be among the first to see an experimental new approach to compiling .NET applications into WASI-compliant universal binaries that can run on any OS or processor, robustly sandboxed and with great performance."
+    "description": "May 13, 2022 - Talk by Steve Sanderson at the NDC London 2022. Real-world software projects often involve combining many technologies. So, is modern Blazor powerful and flexible enough for your team's needs? In this demo-heavy talk, Steve will show how Blazor WebAssembly/Server can seamlessly embed libraries and logic written in other languages such as Rust or C/C++, how Blazor WebAssembly/Server components can be used inside other SPA frameworks such as React or Angular (or vice-versa) and how Blazor components can be used not only for web projects, but also shared with native apps for macOS, iOS, Android, and Windows (including WPF and WinForms) These capabilities should equip your team to take on the most ambitious projects with confidence. We'll then look further into the future and consider how WebAssembly is moving beyond the browser and is pitched to become a foundational element of cloud-native server apps. You'll be among the first to see an experimental new approach to compiling .NET applications into WASI-compliant universal binaries that can run on any OS or processor, robustly sandboxed and with great performance."
   },
   {
     "name": "Creating Office Files in Blazor using Syncfusion - PDF, Word, Excel, and PowerPoint",
@@ -1551,22 +1551,22 @@
   {
     "name": "Building apps for Teams in .NET & Blazor",
     "url": "https://www.youtube.com/watch?v=3fLoxkuzzqo",
-    "description": " May 11, 2022 - John Miller joins James on this week's On .NET to chat about how .NET developers can build Microsoft Teams apps and bots completely with C#, .NET, and Blazor! John walks us through everything we need to know to get started and how to even publish apps for Teams."
+    "description": "May 11, 2022 - John Miller joins James on this week's On .NET to chat about how .NET developers can build Microsoft Teams apps and bots completely with C#, .NET, and Blazor! John walks us through everything we need to know to get started and how to even publish apps for Teams."
   },
   {
     "name": "Intro to Blazor Controls in Syncfusion",
     "url": "https://www.youtube.com/watch?v=eQ9S9rt-rKc",
-    "description": " May 11, 2022 - The Blazor controls in Syncfusion are pretty impressive. In this video, we will look at the DataGrid, charts, a Kanban-style board, a dashboard, autocomplete textboxes, context menus, signature pads, menu bars, toast messages, and more. There are so many controls to look at, in fact, that we are going to purposefully ignore the office file creation and display controls, as well as reporting. That way, we can spend more time on the other controls today and then focus on the office files in another video. The reporting will actually have two different videos dedicated to it."
+    "description": "May 11, 2022 - The Blazor controls in Syncfusion are pretty impressive. In this video, we will look at the DataGrid, charts, a Kanban-style board, a dashboard, autocomplete textboxes, context menus, signature pads, menu bars, toast messages, and more. There are so many controls to look at, in fact, that we are going to purposefully ignore the office file creation and display controls, as well as reporting. That way, we can spend more time on the other controls today and then focus on the office files in another video. The reporting will actually have two different videos dedicated to it."
   },
   {
     "name": "Securing SPAs and Blazor Applications using the BFF (Backend for Frontend) Pattern",
     "url": "https://www.youtube.com/watch?v=DdNssiaIY_Q",
-    "description": " May 10, 2022 - Modern web development means that more and more application code is running in the browser. Traditionally this has been JavaScript but more recently there has been the trend to use C#/WASM with Blazor. These modern applications typically also need authentication and single-sign-on as well as token-based security for calling APIs – in other words OpenID Connect and OAuth 2. There are different patterns for securing such applications and this session covers some of the pitfalls of the various approaches, especially given the ever-changing browser landscape. We will conclude with the “backend for frontend” (or BFF) pattern which has become the most secure and stable of these approaches."
+    "description": "May 10, 2022 - Modern web development means that more and more application code is running in the browser. Traditionally this has been JavaScript but more recently there has been the trend to use C#/WASM with Blazor. These modern applications typically also need authentication and single-sign-on as well as token-based security for calling APIs – in other words OpenID Connect and OAuth 2. There are different patterns for securing such applications and this session covers some of the pitfalls of the various approaches, especially given the ever-changing browser landscape. We will conclude with the “backend for frontend” (or BFF) pattern which has become the most secure and stable of these approaches."
   },
   {
     "name": "Multi-environment deployments with Azure DevOps and Static Web Apps",
     "url": "https://www.youtube.com/watch?v=4JkfeZp7aDk",
-    "description": " May 5, 2022 - App walkthrough, Create a static web app with an Azure DevOps pipeline, Add Azure DevOps environments and configure approvals, Configure a multi-stage pipeline, Static Web Apps named preview environments, Playwright tests, Manual approval before production deployment, Secure staging environments with a password. Source code."
+    "description": "May 5, 2022 - App walkthrough, Create a static web app with an Azure DevOps pipeline, Add Azure DevOps environments and configure approvals, Configure a multi-stage pipeline, Static Web Apps named preview environments, Playwright tests, Manual approval before production deployment, Secure staging environments with a password. Source code."
   },
   {
     "name": "On .NET Live - Wrapping browser APIs in Blazor WASM",
@@ -1576,17 +1576,17 @@
   {
     "name": "Securing SPAs and Blazor Applications using the BFF Pattern",
     "url": "https://www.youtube.com/watch?v=xzRhabmlc8M",
-    "description": " April 29, 2022 - Securing SPAs and Blazor Applications using the BFF (Backend for Frontend) Pattern at the NDC Porto, by Dominick Baier."
+    "description": "April 29, 2022 - Securing SPAs and Blazor Applications using the BFF (Backend for Frontend) Pattern at the NDC Porto, by Dominick Baier."
   },
   {
     "name": "State management in Blazor",
     "url": "https://www.youtube.com/watch?v=L9p-9dGp-98",
-    "description": " April 29, 2022 - State management in Blazor, at the NDC Porto 2022. When developing a Single Page Application, a very important aspect is state management. Since Blazer is a component-based UI framework, how do we manage to update the UI when the state of the application changes."
+    "description": "April 29, 2022 - State management in Blazor, at the NDC Porto 2022. When developing a Single Page Application, a very important aspect is state management. Since Blazer is a component-based UI framework, how do we manage to update the UI when the state of the application changes."
   },
   {
     "name": "Streaming three ways with Blazor: REST, gRPC, and SignalR",
     "url": "https://www.youtube.com/watch?v=cYP8TcokSFI",
-    "description": " April 29, 2022 - Streaming three ways with Blazor: REST, gRPC, and SignalR, by Carl Franklin at the NDC Porto 2022. Learn how to stream data from server to client to improve perceived performance and increase scalability. Carl shows how streaming works in general, and then how to implement using each of these three transports."
+    "description": "April 29, 2022 - Streaming three ways with Blazor: REST, gRPC, and SignalR, by Carl Franklin at the NDC Porto 2022. Learn how to stream data from server to client to improve perceived performance and increase scalability. Carl shows how streaming works in general, and then how to implement using each of these three transports."
   },
   {
     "name": "Intro to SignalR in C# Part 1 - using Blazor, WPF, best practices, and more",
@@ -1596,12 +1596,12 @@
   {
     "name": "Revisiting MVVM",
     "url": "https://www.youtube.com/watch?v=M4tgU-V7peI",
-    "description": " April 21, 2022 - Carl revisits the topic of MVVM with Blazor, clarifying your options."
+    "description": "April 21, 2022 - Carl revisits the topic of MVVM with Blazor, clarifying your options."
   },
   {
     "name": "Queryable Repositories",
     "url": "https://www.youtube.com/watch?v=5q21Olur050",
-    "description": " April 14, 2022 - Build a generic repository that the client can query."
+    "description": "April 14, 2022 - Build a generic repository that the client can query."
   },
   {
     "name": "ASP.NET Community Standup - Blazorators: Blazor C# Source Generators",
@@ -1616,12 +1616,12 @@
   {
     "name": "Managing App State with Fluxor",
     "url": "https://www.youtube.com/watch?v=Vn6dKN_hTrs",
-    "description": " March 31, 2022 - pp State Management using Fluxor, a Flux/Redux library for Blazor."
+    "description": "March 31, 2022 - pp State Management using Fluxor, a Flux/Redux library for Blazor."
   },
   {
     "name": "Blazor Basics with Identity",
     "url": "https://www.youtube.com/watch?v=lGabdG5Ge8Y",
-    "description": " Mars 14, 2022 - Fritz shows you how to connect authentication and authorization to your Blazor app.  We'll focus on how to connect a properly configured Microsoft Identity application to your Blazor framework."
+    "description": "Mars 14, 2022 - Fritz shows you how to connect authentication and authorization to your Blazor app.  We'll focus on how to connect a properly configured Microsoft Identity application to your Blazor framework."
   },
   {
     "name": "ASP.NET Community Standup - Native client apps with Blazor Hybrid",
@@ -1631,12 +1631,12 @@
   {
     "name": "Building beautiful Blazor apps with Tailwind CSS",
     "url": "https://www.youtube.com/watch?v=zS0y9krXO6E",
-    "description": " Mars 2, 2022 - Tailwind CSS has been growing in popularity for some time. It’s fast becoming one of the top frameworks to use when styling applications. It offers a different approach to the traditional frameworks like Bootstrap—utility based styling. Rather than using prebuilt components—which result in your application looking like a lot of others on the web—you can tailor your design by applying small focused CSS classes resulting in a unique style for your app. In this talk, you will learn how to bring the power of Tailwind CSS to your Blazor applications. We’ll start off with an introduction to Tailwind and how it differs from other CSS frameworks. Then we’ll get into some code and see how we can integrate Tailwind with Blazor. For the rest of the time, we’ll explore the various features of Tailwind and see how just how beautiful we can make our Blazor app. By Chris Sainty, at the NDC Oslo 2021."
+    "description": "Mars 2, 2022 - Tailwind CSS has been growing in popularity for some time. It’s fast becoming one of the top frameworks to use when styling applications. It offers a different approach to the traditional frameworks like Bootstrap—utility based styling. Rather than using prebuilt components—which result in your application looking like a lot of others on the web—you can tailor your design by applying small focused CSS classes resulting in a unique style for your app. In this talk, you will learn how to bring the power of Tailwind CSS to your Blazor applications. We’ll start off with an introduction to Tailwind and how it differs from other CSS frameworks. Then we’ll get into some code and see how we can integrate Tailwind with Blazor. For the rest of the time, we’ll explore the various features of Tailwind and see how just how beautiful we can make our Blazor app. By Chris Sainty, at the NDC Oslo 2021."
   },
   {
     "name": "Best practices unit testing Blazor components with bUnit",
     "url": "https://www.youtube.com/watch?v=Co7QetPYiO4",
-    "description": " Mars 1, 2022 - Why create tests of UI components? Isn’t UI tests inherently brittle, run slowly, and hard to maintain? By Egil Hansen, at the NDC Oslo 2021."
+    "description": "Mars 1, 2022 - Why create tests of UI components? Isn’t UI tests inherently brittle, run slowly, and hard to maintain? By Egil Hansen, at the NDC Oslo 2021."
   },
   {
     "name": "Learn C# with CSharpFritz - Blazor Application Hosting",
@@ -1646,12 +1646,12 @@
   {
     "name": "Blazor, NET 6, and WebAssembly",
     "url": "https://www.youtube.com/watch?v=Rn8psTi8FBk",
-    "description": " February 21, 2022 - Talk by Steve Sanderson at the NDC Oslo 2021. .NET 6 is a huge release for Blazor, adding a ton of powerful new features for .NET web developers. This talk will be full of demos to get you up-to-speed on this hot framework."
+    "description": "February 21, 2022 - Talk by Steve Sanderson at the NDC Oslo 2021. .NET 6 is a huge release for Blazor, adding a ton of powerful new features for .NET web developers. This talk will be full of demos to get you up-to-speed on this hot framework."
   },
   {
     "name": "Building a classic adventure game with Blazor",
     "url": "https://www.youtube.com/watch?v=WG4Pp1NGXUw",
-    "description": "  February 14, 2022 - Blazor is a free and open-source web framework that enables developers to create web apps using C# and HTML. Being a .NET developer as well as a big fan of classic point-and-click adventure games, I’ve ported my Game-a-Tron 4000 adventure game engine to Blazor."
+    "description": "February 14, 2022 - Blazor is a free and open-source web framework that enables developers to create web apps using C# and HTML. Being a .NET developer as well as a big fan of classic point-and-click adventure games, I’ve ported my Game-a-Tron 4000 adventure game engine to Blazor."
   },
   {
     "name": "ASP.NET Community Standup - Blazor .NET 7 Roadmap",
@@ -1661,7 +1661,7 @@
   {
     "name": "C# Corner .NET Conference Day 1",
     "url": "https://www.youtube.com/watch?v=LpoYTZSMeG0",
-    "description": " January 24, 2022 - The first day of the conference kicks off with a keynote session by Scott Hunter. Day one is focused on front-end technologies (Blazor). Conference website."
+    "description": "January 24, 2022 - The first day of the conference kicks off with a keynote session by Scott Hunter. Day one is focused on front-end technologies (Blazor). Conference website."
   },
   {
     "name": "ASP.NET Community Standup - Blazor WebAssembly on .NET 6",
@@ -1831,7 +1831,7 @@
   {
     "name": "The Future of .NET with WASM",
     "url": "https://blog.jetbrains.com/dotnet/2022/12/15/the-future-of-net-with-wasm/",
-    "description": "December 15, 2022 - This post is about the benefits of using WASM outside the browser and its potential as a transformative technology on the server. "
+    "description": "December 15, 2022 - This post is about the benefits of using WASM outside the browser and its potential as a transformative technology on the server."
   },
   {
     "name": "Use Keycloak as Identity Provider from Blazor WebAssembly (WASM) applications",
@@ -2161,7 +2161,7 @@
   {
     "name": "LiveSharp",
     "url": "https://github.com/ionoy/LiveSharp",
-    "description": "  Update .razor files and see the updates instantly without reloading the page. Your application state is preserved because there is no need to reload anything. livesharp.net."
+    "description": "Update .razor files and see the updates instantly without reloading the page. Your application state is preserved because there is no need to reload anything. livesharp.net."
   },
   {
     "name": "BlazorFiddle",
@@ -2171,12 +2171,12 @@
   {
     "name": "Blazor Minimum Project Templates",
     "url": "https://github.com/jsakamoto/BlazorMinimumTemplates",
-    "description": "  A project templates package of Blazor apps without JavaScript and CSS libraries."
+    "description": "A project templates package of Blazor apps without JavaScript and CSS libraries."
   },
   {
     "name": "Blazor REPL",
     "url": "https://github.com/BlazorRepl/BlazorRepl",
-    "description": "  Write, compile, execute and share Blazor components entirely in the browser - https://blazorrepl.com."
+    "description": "Write, compile, execute and share Blazor components entirely in the browser - https://blazorrepl.com."
   },
   {
     "name": "Blazor Snippets Visual Studio Code extension",
@@ -2186,17 +2186,17 @@
   {
     "name": "Publish-time Pre-render for Blazor Wasm",
     "url": "https://github.com/jsakamoto/BlazorWasmPreRendering.Build",
-    "description": " When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder."
+    "description": "When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder."
   },
   {
     "name": "Publish SPA for GitHub Pages",
     "url": "https://github.com/jsakamoto/PublishSPAforGitHubPages.Build",
-    "description": " Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages."
+    "description": "Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages."
   },
   {
     "name": "WebCompiler",
     "url": "https://github.com/excubo-ag/WebCompiler",
-    "description": "  A dotnet global tool for compilation, minification, and compression of scss, css and js."
+    "description": "A dotnet global tool for compilation, minification, and compression of scss, css and js."
   },
   {
     "name": ".NET Core",
@@ -2211,7 +2211,7 @@
   {
     "name": "Tracetool",
     "url": "https://github.com/capslock66/Tracetool#Blazor-client--server",
-    "description": "  Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi."
+    "description": "Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi."
   },
   {
     "name": "Visual Studio",
@@ -2371,7 +2371,7 @@
   {
     "name": "I Love DotNet",
     "url": "https://github.com/ILoveDotNet/ilovedotnet",
-    "description": "  - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. ilovedotnet.org."
+    "description": "- This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. ilovedotnet.org."
   },
   {
     "name": "Learn Blazor",

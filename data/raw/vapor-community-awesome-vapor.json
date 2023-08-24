@@ -1,5 +1,189 @@
 [
   {
+    "name": "API Error Middleware",
+    "url": "https://github.com/skelpo/APIErrorMiddleware"
+  },
+  {
+    "name": "APNS",
+    "url": "https://github.com/vapor-community/apns"
+  },
+  {
+    "name": "Bugsnag",
+    "url": "https://github.com/nodes-vapor/bugsnag"
+  },
+  {
+    "name": "CouchDB Client",
+    "url": "https://github.com/makoni/couchdb-vapor"
+  },
+  {
+    "name": "CrudRouter",
+    "url": "https://github.com/twof/VaporCRUDRouter"
+  },
+  {
+    "name": "CSRF",
+    "url": "https://github.com/vapor-community/CSRF"
+  },
+  {
+    "name": "CSV Framework",
+    "url": "https://github.com/skelpo/CSV"
+  },
+  {
+    "name": "Ferno",
+    "url": "https://github.com/vapor-community/ferno"
+  },
+  {
+    "name": "Flash",
+    "url": "https://github.com/nodes-vapor/flash"
+  },
+  {
+    "name": "FluentQuery",
+    "url": "https://github.com/MihaelIsaev/FluentQuery"
+  },
+  {
+    "name": "Gatekeeper",
+    "url": "https://github.com/nodes-vapor/gatekeeper"
+  },
+  {
+    "name": "Google Cloud Provider",
+    "url": "https://github.com/vapor-community/google-cloud-provider"
+  },
+  {
+    "name": "Guardian",
+    "url": "https://github.com/Jinxiansen/Guardian"
+  },
+  {
+    "name": "Imperial",
+    "url": "https://github.com/vapor-community/Imperial"
+  },
+  {
+    "name": "JWT Keychain",
+    "url": "https://github.com/nodes-vapor/jwt-keychain"
+  },
+  {
+    "name": "JWT Middleware",
+    "url": "https://github.com/skelpo/JWTMiddleware"
+  },
+  {
+    "name": "Leaf Error Middleware",
+    "url": "https://github.com/brokenhandsio/leaf-error-middleware"
+  },
+  {
+    "name": "Leaf Markdown",
+    "url": "https://github.com/vapor-community/leaf-markdown"
+  },
+  {
+    "name": "Lingo Vapor",
+    "url": "https://github.com/vapor-community/Lingo-Vapor"
+  },
+  {
+    "name": "Local Storage",
+    "url": "https://github.com/gperdomor/local-storage"
+  },
+  {
+    "name": "MailCore",
+    "url": "https://github.com/LiveUI/MailCore"
+  },
+  {
+    "name": "Meow",
+    "url": "https://github.com/OpenKitten/Meow"
+  },
+  {
+    "name": "MongoKitten",
+    "url": "https://github.com/OpenKitten/MongoKitten"
+  },
+  {
+    "name": "Pagination",
+    "url": "https://github.com/vapor-community/pagination"
+  },
+  {
+    "name": "Paginator",
+    "url": "https://github.com/nodes-vapor/paginator"
+  },
+  {
+    "name": "S3",
+    "url": "https://github.com/LiveUI/S3"
+  },
+  {
+    "name": "S3 Storage",
+    "url": "https://github.com/anthonycastelli/s3-storage"
+  },
+  {
+    "name": "Sanitize",
+    "url": "https://github.com/gperdomor/sanitize"
+  },
+  {
+    "name": "SendGrid Provider",
+    "url": "https://github.com/vapor-community/sendgrid-provider"
+  },
+  {
+    "name": "SimpleFileLogger",
+    "url": "https://github.com/hallee/vapor-simple-file-logger"
+  },
+  {
+    "name": "Slugify",
+    "url": "https://github.com/nodes-vapor/slugify"
+  },
+  {
+    "name": "Storage",
+    "url": "https://github.com/nodes-vapor/storage"
+  },
+  {
+    "name": "Stripe Provider",
+    "url": "https://github.com/vapor-community/stripe-provider"
+  },
+  {
+    "name": "Submissions",
+    "url": "https://github.com/nodes-vapor/submissions"
+  },
+  {
+    "name": "Sugar",
+    "url": "https://github.com/nodes-vapor/sugar"
+  },
+  {
+    "name": "SwifQL",
+    "url": "https://github.com/MihaelIsaev/SwifQL"
+  },
+  {
+    "name": "SwiftyBeaver Provider",
+    "url": "https://github.com/vapor-community/swiftybeaver-provider"
+  },
+  {
+    "name": "Telesign Provider",
+    "url": "https://github.com/vapor-community/telesign-provider"
+  },
+  {
+    "name": "Vapor Mailgun Service",
+    "url": "https://github.com/vapor-community/VaporMailgunService"
+  },
+  {
+    "name": "Vapor reCAPTCHA",
+    "url": "https://github.com/gotranseo/vapor-recaptcha"
+  },
+  {
+    "name": "Vapor Request Storage",
+    "url": "https://github.com/skelpo/vapor-request-storage"
+  },
+  {
+    "name": "Vapor Security Headers",
+    "url": "https://github.com/brokenhandsio/VaporSecurityHeaders"
+  },
+  {
+    "name": "Vapor Test Tools",
+    "url": "https://github.com/LiveUI/VaporTestTools"
+  },
+  {
+    "name": "VaporExt",
+    "url": "https://github.com/vapor-community/vapor-ext"
+  },
+  {
+    "name": "WKHTMLTOPDF",
+    "url": "https://github.com/MihaelIsaev/wkhtmltopdf"
+  },
+  {
+    "name": "XMLCoding",
+    "url": "https://github.com/LiveUI/XMLCoding"
+  },
+  {
     "name": "Ether",
     "url": "https://github.com/Ether-CLI/Ether"
   },
@@ -16,6 +200,10 @@
     "url": "https://github.com/krzysztofzablocki/Sourcery"
   },
   {
+    "name": "Sublimate",
+    "url": "https://github.com/gabrielepalma/sublimate"
+  },
+  {
     "name": "Swifter",
     "url": "https://github.com/LiveUI/Swifter"
   },
@@ -28,7 +216,64 @@
     "url": "https://vapor.red"
   },
   {
+    "name": "Deep Dive into Setup and Deployment for Heroku and Ubuntu",
+    "url": "https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/"
+  },
+  {
+    "name": "How to test controllers by mocking dependencies in Vapor 3 and Swift",
+    "url": "https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/"
+  },
+  {
+    "name": "Vapor 3 Tutorials",
+    "url": "https://mihaelamj.github.io/Vapor%20%203%20Tutorial/"
+  },
+  {
+    "name": "Transforming from Vapor 2 to Vapor 3",
+    "url": "https://www.skelpo.com/blog/vapor2-to-vapor3/"
+  },
+  {
+    "name": "Tutorials for Beginner to Advanced",
+    "url": "https://medium.com/@martinlasek"
+  },
+  {
+    "name": "Using the dependency injection framework for testing in Vapor 3 and Swift",
+    "url": "https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/"
+  },
+  {
+    "name": "Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux",
+    "url": "https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/"
+  },
+  {
+    "name": "What’s new in Vapor 4?",
+    "url": "https://theswiftdev.com/2019/08/26/whats-new-in-vapor-4/"
+  },
+  {
+    "name": "Server Side Swift with Vapor",
+    "url": "https://store.raywenderlich.com/products/server-side-swift-with-vapor"
+  },
+  {
+    "name": "Server-Side Swift (Vapor Edition)",
+    "url": "https://www.hackingwithswift.com/store/server-side-swift"
+  },
+  {
     "name": "VaporNation",
     "url": "http://vapornation.news"
+  },
+  {
+    "name": "Server Side Swift with Vapor",
+    "url": "https://www.raywenderlich.com/4493-server-side-swift-with-vapor/lessons/1"
+  },
+  {
+    "name": "Vapor - Beginner to Advanced",
+    "url": "https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw/videos",
+    "description": "Beginner to Advanced"
+  },
+  {
+    "name": "SteamPress",
+    "url": "https://github.com/brokenhandsio/SteamPress"
+  },
+  {
+    "name": "User Manager Service",
+    "url": "https://github.com/skelpo/UserManager"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "name": "Demo",
+    "url": "https://github.com/tucan9389/TextDetection-CoreML",
+    "description": "Detecting text using Vision built-in model in real-time. Download | Demo | Reference"
+  },
+  {
     "name": "Download",
     "url": "https://github.com/yulingtianxia/PhotoAssessment/blob/master/PhotoAssessment-Sample/Sources/NIMANasnet.mlmodel",
     "description": "Photo Assessment using Core ML and Metal. Download | Demo | Reference"
@@ -93,6 +98,11 @@
     "name": "Download",
     "url": "https://drive.google.com/open?id=0B5TjkH3njRqncDJpdDB1Tkl2S2s",
     "description": "Classifies an image either as NSFW (nude) or SFW (not nude)"
+  },
+  {
+    "name": "Demo",
+    "url": "https://github.com/tucan9389/TextRecognition-MLKit",
+    "description": "Recognizing text using ML Kit built-in model in real-time. Download | Demo | Reference"
   },
   {
     "name": "Download",

@@ -412,7 +412,7 @@
   {
     "name": "Thingspeak",
     "url": "https://thingspeak.com/",
-    "description": " An open-source IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices, create instant visualization of live data, and send alerts."
+    "description": "An open-source IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices, create instant visualization of live data, and send alerts."
   },
   {
     "name": "VerneMQ",
@@ -557,7 +557,7 @@
   {
     "name": "Nebula",
     "url": "http://nebula.readthedocs.io",
-    "description": " A docker orchestrator designed to manage IoT devices."
+    "description": "A docker orchestrator designed to manage IoT devices."
   },
   {
     "name": "Gladys",
@@ -573,6 +573,121 @@
     "name": "MQTT File Uploader",
     "url": "https://github.com/volkanalkilic/Mqtt-File-Uploader",
     "description": "MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker."
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/2239b11c73b4e149b628fd6912e4809005e754a5a82c9b21adedb8ed1ee2a729/687474703a2f2f7777772e696565653830322e6f72672f31352f7075622f696565653830322d31352532306c6f676f2e6a7067",
+    "description": "802.15.4 (IEEE)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/a9cca48cf8c324184924ee04f75fdfaa6955867adfcf742311cccab31f4b1654/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66632f426c7565746f6f74684c6f676f2e7376672f37373070782d426c7565746f6f74684c6f676f2e7376672e706e67",
+    "description": "Bluetooth (Bluetooth Special Interest Group)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/57b5771046310d44f55e9b7735040431b1afaab9b2b70e707471803e85467e67/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32302f426c7565746f6f74685f536d6172745f4c6f676f2e7376672f32343170782d426c7565746f6f74685f536d6172745f4c6f676f2e7376672e706e67",
+    "description": "Bluetooth Low Energy (Bluetooth Special Interest Group)"
+  },
+  {
+    "name": "EC-GSM-IoT",
+    "url": "http://www.gsma.com/connectedliving/extended-coverage-gsm-internet-of-things-ec-gsm-iot/"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/2728a7d4b6579f242adc968a174340a0f565479ec4b16f369578eef23a6063e8/68747470733a2f2f696e74656c696c696768742e65752f77702d636f6e74656e742f75706c6f6164732f323031372f30322f746563686e6f6c6f67795f6c6f726177616e2e706e67",
+    "description": "LoRaWAN (LoRa Alliance)"
+  },
+  {
+    "name": "NB-IoT",
+    "url": "https://en.wikipedia.org/wiki/NarrowBand_IOT"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/c97ab12932f508ef5fc1d5ae6d838ad90bc75cf96fa814b4a2f09d66bd784aa2/687474703a2f2f7777772e73696c76657265636f2e66722f77702d636f6e74656e742f75706c6f6164732f323031352f30322f6c6f676f35313066373033613436343766312e6a7067",
+    "description": "Sigfox (Sigfox)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/02d45bb2b5b4e718d32301797d1e9ad4353e509d50ea19a6ba90bcfcba5faa37/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66382f57692d46495f416c6c69616e63655f4c6f676f2e706e67",
+    "description": "Wi-Fi (Wi-Fi Alliance)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/790ae4c991722c9fe47a666d746623291738f263abf3248796fc30ecbc84d50f/687474703a2f2f7777772e746f6e65782e636f6d2f77702d636f6e74656e742f75706c6f6164732f366c6f7770616e2e6a7067",
+    "description": "6LowPan (IETF)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/b0e92cdfce7ad5e20cead9d5183cb5b8a21e311c6967d44477c313a85f5e9a0e/68747470733a2f2f7777772e74687265616467726f75702e6f72672f706f7274616c732f302f696d616765732f636f6e746163742f696d67312e737667",
+    "description": "Thread (Thread Group)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/625da8a05403efae262dd28f41a3755b73504f71e3efa9c4e3fc7d7ddc475dc7/68747470733a2f2f7a6967626565616c6c69616e63652e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31312f7a625f6c6f676f2d625f636f6c6f725f7267625f69636f6e2d65313537333737353135353235312e706e67",
+    "description": "ZigBee (ZigBee Alliance)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/3fd49f36ee2c6fb8abd243c343a2640966bb93d1f44d6c1d22d4c78f209b1982/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30382f5a2d576176655f6c6f676f2e6a7067",
+    "description": "Z-Wave (Z-Wave Alliance)"
+  },
+  {
+    "name": "CoAP",
+    "url": "http://coap.technology/"
+  },
+  {
+    "name": "DTLS",
+    "url": "https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/3489ca08dca5c372bd74fbafda148516618c3af12487dcee6eb219ac7ff254e4/68747470733a2f2f63646e2e617273746563686e6963612e6e65742f77702d636f6e74656e742f75706c6f6164732f323031352f30372f323031352d30372d31335f31362d34362d32362e6a7067",
+    "description": "Eddystone (Google)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/6f2261b5986ef90c683ce45e834f91a5fb445c3ec500b085968bac4eb654ff68/687474703a2f2f7777772e68747470746563686e6f6c6f67792e636f6d2e61752f6c6f676f2e6a7067",
+    "description": "HTTP (IETF)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/c17b47a36d1f62c05b25bf0002f74ec744dc5e412397511633b56abca912fa53/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f69626561636f6e2f696d616765732f69626561636f6e2d6c6f676f2e737667",
+    "description": "iBeacon (Apple)"
+  },
+  {
+    "name": "",
+    "url": "https://raw.githubusercontent.com/mqtt/mqttorg-graphics/master/mqtticon-large.png",
+    "description": "MQTT (IBM)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/7bf4d4b571aada92d9eade017d67ff1667e7bf4bb99938fd3956b45cc2390388/68747470733a2f2f7777772e706a6f6e2e6f72672f6173736574732f696d616765732f504a4f4e2d6c6f676f2d646576696365732e6a7067",
+    "description": "PJON"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/31fa2adfbe513c374f229b264a09372382589b31bca52bae8f236301129c8e86/68747470733a2f2f73746f6d702e6769746875622e696f2f696d616765732f70726f6a6563742d6c6f676f2e706e67",
+    "description": "STOMP"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/60279786a64bf01bb19b7288b604ba84578ac7dbe68eccacacb4f8a3c1562a88/68747470733a2f2f7777772e7261626269746d712e636f6d2f77702d75706c6f6164732f323031322f30322f48544d4c355f4c6f676f5f3235362e706e67",
+    "description": "Websocket"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/e3ec4b33792eb5ac9f3c4e8640477580b273abde73a604b8ae9f26940e109ab1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39352f584d50505f6c6f676f2e737667",
+    "description": "XMPP (IETF)"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/dfe05452c1ac3350be8e394d2888b21a1c26ae520b341bce15a3cb24dced830a/687474703a2f2f766563746f726c6f676f667265652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f31322f6e66632d6c6f676f2d766563746f722d343030783430302e706e67",
+    "description": "NFC"
+  },
+  {
+    "name": "",
+    "url": "https://camo.githubusercontent.com/79378ad31f9dc0d8c51650127021f3959cdfa9c465bf823ae794ec9cc1fa0f9b/68747470733a2f2f6f7063666f756e646174696f6e2e6f72672f77702d636f6e74656e742f7468656d65732f6f70632f696d616765732f6c6f676f2e6a7067"
   },
   {
     "name": "ETSI M2M",
@@ -643,6 +758,39 @@
     "name": "Z-Wave Alliance",
     "url": "http://z-wavealliance.org/",
     "description": "Established in 2005, the Z-Wave Alliance is comprised of industry leaders throughout the globe that are dedicated to the development and extension of Z-Wave as the key enabling technology for 'smart' home and business applications."
+  },
+  {
+    "name": "Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts",
+    "url": "http://www.amazon.com/Abusing-Internet-Things-Blackouts-Freakouts/dp/1491902337"
+  },
+  {
+    "name": "Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing",
+    "url": "http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732"
+  },
+  {
+    "name": "Designing the Internet of Things",
+    "url": "http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8&qid=1444905007&sr=8-1"
+  },
+  {
+    "name": "Edge Computing Technology and Application",
+    "url": "https://www.manning.com/books/edge-computing-technology-and-applications"
+  },
+  {
+    "name": "Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking",
+    "url": "http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511"
+  },
+  {
+    "name": "IoT Inc: How Your Company Can Use the Internet of Things to Win in the Outcome Economy",
+    "url": "https://www.amazon.com/IoT-Inc-Company-Internet-Outcome/dp/1260025896/ref=asc_df_1260025896/?tag=hyprod-20&linkCode=df0&hvadid=312243616995&hvpos=&hvnetw=g&hvrand=13286743199559517729&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014863&hvtargid=pla-332228957705&psc=1"
+  },
+  {
+    "name": "Smart Things: Ubiquitous Computing User Experience Design",
+    "url": "http://www.amazon.com/Smart-Things-Ubiquitous-Computing-Experience/dp/0123748992"
+  },
+  {
+    "name": "JavaScript on Things: Hardware for Web Developers",
+    "url": "https://www.manning.com/books/javascript-on-things",
+    "description": "est.) by Lyza Danger Gardner [early access book]"
   },
   {
     "name": "A Simple Explanation Of 'The Internet Of Things' (Forbes)",

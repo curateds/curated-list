@@ -116,7 +116,7 @@
   {
     "name": "Multiuser editing alert",
     "url": "https://github.com/silverstripe/silverstripe-multiuser-editing-alert",
-    "description": " Alerts users in the Silverstripe CMS when multiple people are editing the same page."
+    "description": "Alerts users in the Silverstripe CMS when multiple people are editing the same page."
   },
   {
     "name": "Fluent",
@@ -126,7 +126,7 @@
   {
     "name": "Autotranslate",
     "url": "https://github.com/bratiask/silverstripe-autotranslate",
-    "description": " Creates automatic translations of fields using Google Translate API."
+    "description": "Creates automatic translations of fields using Google Translate API."
   },
   {
     "name": "Silverstripe Searchable",
@@ -156,22 +156,22 @@
   {
     "name": "Debugbar",
     "url": "https://github.com/lekoala/silverstripe-debugbar/",
-    "description": " Shows debugging statistics in your browser."
+    "description": "Shows debugging statistics in your browser."
   },
   {
     "name": "IdeAnnotator",
     "url": "https://github.com/silverleague/silverstripe-ideannotator",
-    "description": " Auto-generates class annotations on dev/build."
+    "description": "Auto-generates class annotations on dev/build."
   },
   {
     "name": "Populate",
     "url": "https://github.com/dnadesign/silverstripe-populate",
-    "description": " Populate your database through YAML files."
+    "description": "Populate your database through YAML files."
   },
   {
     "name": "Mock DataObjects",
     "url": "https://github.com/unclecheese/silverstripe-mock-dataobjects",
-    "description": " Allows DataObjects to self-populate intelligently with fake data."
+    "description": "Allows DataObjects to self-populate intelligently with fake data."
   },
   {
     "name": "Version Truncator",
@@ -186,17 +186,17 @@
   {
     "name": "Masquerade",
     "url": "https://github.com/dhensby/silverstripe-masquerade",
-    "description": " Allows an Administrator to \"login\" as another \"Member\". This can be useful for debugging and remote support."
+    "description": "Allows an Administrator to \"login\" as another \"Member\". This can be useful for debugging and remote support."
   },
   {
     "name": "Markdown Field",
     "url": "https://github.com/Silverstripers/markdownfield",
-    "description": " Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax."
+    "description": "Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax."
   },
   {
     "name": "Code Editor Field",
     "url": "https://github.com/nathancox/silverstripe-codeeditorfield",
-    "description": " Gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML."
+    "description": "Gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML."
   },
   {
     "name": "SSPak",
@@ -231,17 +231,17 @@
   {
     "name": "brettt89/silverstripe-web",
     "url": "https://hub.docker.com/r/brettt89/silverstripe-web",
-    "description": " Apache + PHP Docker image with pre-installed PHP modules for Silverstripe support."
+    "description": "Apache + PHP Docker image with pre-installed PHP modules for Silverstripe support."
   },
   {
     "name": "brettt89/sspak",
     "url": "https://hub.docker.com/r/brettt89/sspak",
-    "description": " SSPak Docker image."
+    "description": "SSPak Docker image."
   },
   {
     "name": "brettt89/silverstripe-solr-cwp",
     "url": "https://hub.docker.com/r/brettt89/silverstripe-solr-cwp",
-    "description": " CWP Solr Docker image."
+    "description": "CWP Solr Docker image."
   },
   {
     "name": "Twisted Bytes",
@@ -266,6 +266,6 @@
   {
     "name": "Zauberfisch Vagrant Boxes",
     "url": "https://github.com/Zauberfisch/vagrant-boxes",
-    "description": " Preconfigured Vagrant boxes for SS3 and SS4."
+    "description": "Preconfigured Vagrant boxes for SS3 and SS4."
   }
 ]

@@ -1,5 +1,9 @@
 [
   {
+    "name": "CodeKata",
+    "url": "http://codekata.com/"
+  },
+  {
     "name": "Kata01: Supermarket Pricing",
     "url": "http://codekata.com/kata/kata01-supermarket-pricing/"
   },
@@ -84,6 +88,10 @@
     "url": "http://codekata.com/kata/kata21-simple-lists/"
   },
   {
+    "name": "Wonderland Clojure Katas",
+    "url": "https://github.com/gigasquid/wonderland-clojure-katas"
+  },
+  {
     "name": "Alphabet Cipher",
     "url": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher"
   },
@@ -112,6 +120,10 @@
     "url": "https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number"
   },
   {
+    "name": "SensioLabs PoleDev Katas",
+    "url": "https://github.com/devdrops/Katas"
+  },
+  {
     "name": "Kata 1: (Form) DataTransformer",
     "url": "https://github.com/devdrops/Katas/tree/kata-data-transformers"
   },
@@ -130,6 +142,10 @@
   {
     "name": "Kata 5: (Translation) Manage translations",
     "url": "https://github.com/devdrops/Katas/tree/kata-translation"
+  },
+  {
+    "name": "Gaurav Arora's TDD Katas Collection",
+    "url": "https://github.com/garora/TDD-Katas"
   },
   {
     "name": "String Sum Kata",
@@ -340,5 +356,9 @@
   {
     "name": "CodeCrafters(Build your own Git, Redis, Docker etc.)",
     "url": "https://app.codecrafters.io/tracks?r=8Ol"
+  },
+  {
+    "name": "contribution guidelines",
+    "url": "https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md"
   }
 ]

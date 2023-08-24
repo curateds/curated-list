@@ -2,17 +2,17 @@
   {
     "name": "MacTeX",
     "url": "https://tug.org/mactex/",
-    "description": "Most common LaTeX distribution for macOS, basically TeXLive with some Mac-specific tools added. "
+    "description": "Most common LaTeX distribution for macOS, basically TeXLive with some Mac-specific tools added."
   },
   {
     "name": "TeX Live",
     "url": "https://www.tug.org/texlive/",
-    "description": "Most common LaTeX distribution for Unix-like operating systems, including GNU/Linux. Also works on Windows.  "
+    "description": "Most common LaTeX distribution for Unix-like operating systems, including GNU/Linux. Also works on Windows."
   },
   {
     "name": "MikTeX",
     "url": "https://miktex.org",
-    "description": "Most common LaTeX distribution for Windows, but also available for Mac, Linux or as Docker image.     "
+    "description": "Most common LaTeX distribution for Windows, but also available for Mac, Linux or as Docker image."
   },
   {
     "name": "reitzig/texlive-docker",
@@ -32,22 +32,22 @@
   {
     "name": "pdfTeX",
     "url": "https://www.tug.org/applications/pdftex/",
-    "description": "TeX compiler that produces PDF files immediately instead of DVI files (nowadays, this is the standard compiler for many users). "
+    "description": "TeX compiler that produces PDF files immediately instead of DVI files (nowadays, this is the standard compiler for many users)."
   },
   {
     "name": "XeTeX",
     "url": "http://xetex.sourceforge.net",
-    "description": "TeX compiler that provides better unicode and font support than TeX/pdfTeX (i.e. you can use the  fonts of your operating system instead of only TeX fonts). "
+    "description": "TeX compiler that provides better unicode and font support than TeX/pdfTeX (i.e. you can use the  fonts of your operating system instead of only TeX fonts)."
   },
   {
     "name": "LuaTeX",
     "url": "https://www.luatex.org",
-    "description": "(La)TeX compiler that supports Lua code for scripting and has improved unicode and font support than standard TeX/pdfTeX. "
+    "description": "(La)TeX compiler that supports Lua code for scripting and has improved unicode and font support than standard TeX/pdfTeX."
   },
   {
     "name": "tectonic",
     "url": "https://tectonic-typesetting.GitHub.io/en-US/",
-    "description": "Modern, self contained (La)TeX compiler powered by XeTeX and TeXLive. "
+    "description": "Modern, self contained (La)TeX compiler powered by XeTeX and TeXLive."
   },
   {
     "name": "Auto-LaTeX Equations with Google Docs",
@@ -57,32 +57,32 @@
   {
     "name": "MathJaX",
     "url": "https://www.mathjax.org",
-    "description": "JavaScript engine to render mathematical formulas on the web. The outcome looks really slick. "
+    "description": "JavaScript engine to render mathematical formulas on the web. The outcome looks really slick."
   },
   {
     "name": "mimeTeX",
     "url": "https://ctan.org/pkg/mimetex",
-    "description": "mimeTeX is a rather old tool to render LaTeX formulas to PNG figures for your web site, without actually needing a LaTeX installation on your server. "
+    "description": "mimeTeX is a rather old tool to render LaTeX formulas to PNG figures for your web site, without actually needing a LaTeX installation on your server."
   },
   {
     "name": "mathTeX",
     "url": "https://ctan.org/pkg/mathtex",
-    "description": "mathTeX is the successor of mimeTeX: it produces nicer-looking images but it requires LaTeX to be installed on your server. "
+    "description": "mathTeX is the successor of mimeTeX: it produces nicer-looking images but it requires LaTeX to be installed on your server."
   },
   {
     "name": "KaTeX",
     "url": "https://khan.GitHub.io/KaTeX/",
-    "description": "KaTeX is a math rendering library made by Khan Academy focusing on fast load times. All output is processed as plain HTML instead of fixed images. "
+    "description": "KaTeX is a math rendering library made by Khan Academy focusing on fast load times. All output is processed as plain HTML instead of fixed images."
   },
   {
     "name": "Franklin.jl",
     "url": "https://franklinjl.org/",
-    "description": "Static site generator with KaTeX support, code evaluation, LaTeX-like commands and optional pre-rendering, in Julia. "
+    "description": "Static site generator with KaTeX support, code evaluation, LaTeX-like commands and optional pre-rendering, in Julia."
   },
   {
     "name": "xhub",
     "url": "https://github.com/nschloe/xhub",
-    "description": "Browser extension that lets you use LaTeX in GitHub pages. "
+    "description": "Browser extension that lets you use LaTeX in GitHub pages."
   },
   {
     "name": "List of popular LaTeX editors",
@@ -92,7 +92,7 @@
   {
     "name": "Kile",
     "url": "https://kile.sourceforge.io",
-    "description": "Great LaTeX editor originally from the Linux/KDE community. It runs fine on Windows and macOS as well. "
+    "description": "Great LaTeX editor originally from the Linux/KDE community. It runs fine on Windows and macOS as well."
   },
   {
     "name": "TeXMaker",
@@ -112,22 +112,22 @@
   {
     "name": "TeXnicCenter",
     "url": "https://www.texniccenter.org",
-    "description": "Quite old but free and decent editor for LaTeX. "
+    "description": "Quite old but free and decent editor for LaTeX."
   },
   {
     "name": "LyX",
     "url": "https://www.lyx.org",
-    "description": "Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents. "
+    "description": "Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents."
   },
   {
     "name": "TeXShop",
     "url": "https://pages.uoregon.edu/koch/texshop/",
-    "description": "No-nonsense editor for LaTeX documents which is included in MacTeX. "
+    "description": "No-nonsense editor for LaTeX documents which is included in MacTeX."
   },
   {
     "name": "TeXWorks",
     "url": "https://www.tug.org/texworks/",
-    "description": "No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform. "
+    "description": "No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform."
   },
   {
     "name": "BakomaTex",
@@ -137,57 +137,57 @@
   {
     "name": "Inlage",
     "url": "https://www.inlage.com/home",
-    "description": "Commercial LaTeX editor with handwritten formula recognition, Excel importing and more nifty features. "
+    "description": "Commercial LaTeX editor with handwritten formula recognition, Excel importing and more nifty features."
   },
   {
     "name": "Texpad",
     "url": "https://www.texpad.com",
-    "description": "Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing. "
+    "description": "Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing."
   },
   {
     "name": "Atom",
     "url": "https://atom.io",
-    "description": "Atom port of the Sublime Text package of the same name. "
+    "description": "Atom port of the Sublime Text package of the same name."
   },
   {
     "name": "LaTeXTools",
     "url": "https://atom.io/packages/latextools",
-    "description": "Atom port of the Sublime Text package of the same name. "
+    "description": "Atom port of the Sublime Text package of the same name."
   },
   {
     "name": "Sublime Text",
     "url": "https://www.sublimetext.com",
-    "description": "Free plug-in to edit LaTeX. "
+    "description": "Free plug-in to edit LaTeX."
   },
   {
     "name": "LaTeXing",
     "url": "https://github.com/LaTeXing/LaTeXing",
-    "description": "Free plug-in to edit LaTeX. "
+    "description": "Free plug-in to edit LaTeX."
   },
   {
     "name": "LaTeXTools",
     "url": "https://github.com/SublimeText/LaTeXTools",
-    "description": "Free LaTeX plugin for Sublime Text. "
+    "description": "Free LaTeX plugin for Sublime Text."
   },
   {
     "name": "Emacs",
     "url": "https://www.gnu.org/software/emacs/",
-    "description": "Emacs plugin for LaTeX that also shows a preview of equations and figures. "
+    "description": "Emacs plugin for LaTeX that also shows a preview of equations and figures."
   },
   {
     "name": "AucTeX",
     "url": "https://www.gnu.org/software/auctex/",
-    "description": "Emacs plugin for LaTeX that also shows a preview of equations and figures. "
+    "description": "Emacs plugin for LaTeX that also shows a preview of equations and figures."
   },
   {
     "name": "RefTeX",
     "url": "https://www.gnu.org/software/auctex/reftex",
-    "description": "Emacs plugin for LaTeX that adds support for labels, references, and citations. "
+    "description": "Emacs plugin for LaTeX that adds support for labels, references, and citations."
   },
   {
     "name": "Vim",
     "url": "https://www.vim.org",
-    "description": "Instantly previews your LaTeX document. "
+    "description": "Instantly previews your LaTeX document."
   },
   {
     "name": "Vim-LaTeX",
@@ -196,42 +196,42 @@
   {
     "name": "LaTeX Live Preview",
     "url": "https://github.com/xuhdev/vim-latex-live-preview",
-    "description": "Instantly previews your LaTeX document. "
+    "description": "Instantly previews your LaTeX document."
   },
   {
     "name": "vimtex",
     "url": "https://github.com/lervag/vimtex",
-    "description": "Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. "
+    "description": "Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search."
   },
   {
     "name": "IntelliJ",
     "url": "https://www.jetbrains.com/idea/",
-    "description": "Free LaTeX plugin for IntelliJ IDEA. "
+    "description": "Free LaTeX plugin for IntelliJ IDEA."
   },
   {
     "name": "TeXiFy-IDEA",
     "url": "https://github.com/Hannah-Sten/TeXiFy-IDEA",
-    "description": "Free LaTeX plugin for IntelliJ IDEA. "
+    "description": "Free LaTeX plugin for IntelliJ IDEA."
   },
   {
     "name": "VS Code",
     "url": "https://code.visualstudio.com/",
-    "description": "LaTeX extension for Visual Studio Code "
+    "description": "LaTeX extension for Visual Studio Code"
   },
   {
     "name": "LaTeX Workshop",
     "url": "https://github.com/James-Yu/LaTeX-Workshop",
-    "description": "LaTeX extension for Visual Studio Code "
+    "description": "LaTeX extension for Visual Studio Code"
   },
   {
     "name": "LTeX",
     "url": "https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex",
-    "description": "LanguageTool grammar/spell checking "
+    "description": "LanguageTool grammar/spell checking"
   },
   {
     "name": "a-nau/latex-devcontainer",
     "url": "https://github.com/a-nau/latex-devcontainer",
-    "description": "Devcontainer setup for easy LaTeX usage without local installation "
+    "description": "Devcontainer setup for easy LaTeX usage without local installation"
   },
   {
     "name": "List of popular online LaTeX editors",
@@ -266,7 +266,7 @@
   {
     "name": "JabRef",
     "url": "https://www.jabref.org",
-    "description": "Very powerful cross-platform (Java) bibtex editor.    "
+    "description": "Very powerful cross-platform (Java) bibtex editor."
   },
   {
     "name": "Papis",
@@ -281,27 +281,27 @@
   {
     "name": "Zotero",
     "url": "https://www.zotero.org",
-    "description": "Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors.    "
+    "description": "Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors."
   },
   {
     "name": "Mendeley",
     "url": "https://www.mendeley.com",
-    "description": "Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow.   "
+    "description": "Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow."
   },
   {
     "name": "betterbib",
     "url": "https://github.com/nschloe/betterbib",
-    "description": "Command-line utility for improving your BibTeX files. Fetches information from online sources.    "
+    "description": "Command-line utility for improving your BibTeX files. Fetches information from online sources."
   },
   {
     "name": "Arara",
     "url": "https://www.ctan.org/pkg/arara",
-    "description": "Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. "
+    "description": "Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily."
   },
   {
     "name": "latexmk",
     "url": "https://www.ctan.org/pkg/latexmk",
-    "description": "Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files. "
+    "description": "Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files."
   },
   {
     "name": "xu-cheng/latex-action",
@@ -321,22 +321,22 @@
   {
     "name": "Pandoc",
     "url": "https://pandoc.org",
-    "description": "This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used. "
+    "description": "This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used."
   },
   {
     "name": "ChkTeX",
     "url": "https://www.nongnu.org/chktex/",
-    "description": "Linter / code checker for LaTeX documents. "
+    "description": "Linter / code checker for LaTeX documents."
   },
   {
     "name": "blacktex",
     "url": "https://github.com/nschloe/blacktex",
-    "description": "Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files.    "
+    "description": "Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files."
   },
   {
     "name": "TeXtidote",
     "url": "https://github.com/sylvainhalle/textidote",
-    "description": "A cross-platform (Java) spelling, grammar and style checker for LaTeX documents.    "
+    "description": "A cross-platform (Java) spelling, grammar and style checker for LaTeX documents."
   },
   {
     "name": "Codecogs Eqn Editor",
@@ -346,67 +346,67 @@
   {
     "name": "EqualX",
     "url": "https://equalx.sourceforge.io/",
-    "description": "Graphical LaTeX formula editor.   "
+    "description": "Graphical LaTeX formula editor."
   },
   {
     "name": "KLaTeXFormula",
     "url": "https://klatexformula.sourceforge.io",
-    "description": "Cross-platform alternative for LaTeXit. "
+    "description": "Cross-platform alternative for LaTeXit."
   },
   {
     "name": "Laeqed",
     "url": "https://www.thrysoee.dk/laeqed/",
-    "description": "Crossplatform LaTeX formula to PNG convertor.    "
+    "description": "Crossplatform LaTeX formula to PNG convertor."
   },
   {
     "name": "LaTeXEqEdit",
     "url": "http://latexeqedit.sourceforge.net/",
-    "description": "LaTeX formula editor for Windows.  "
+    "description": "LaTeX formula editor for Windows."
   },
   {
     "name": "LaTeXiT",
     "url": "https://www.chachatelier.fr/latexit/",
-    "description": "LaTeXit is an equation editor that makes it easy to drag-and-drop rendered equations (as PDF, PNG, etc.) into your non-LaTeX documents on the Mac. "
+    "description": "LaTeXit is an equation editor that makes it easy to drag-and-drop rendered equations (as PDF, PNG, etc.) into your non-LaTeX documents on the Mac."
   },
   {
     "name": "pix2tex",
     "url": "https://lukas-blecher.github.io/LaTeX-OCR/",
-    "description": "LaTeX OCR    "
+    "description": "LaTeX OCR"
   },
   {
     "name": "TikzEdt",
     "url": "https://www.tikzedt.org",
-    "description": "WYSIWYG and text-based editor for TikZ pictures. "
+    "description": "WYSIWYG and text-based editor for TikZ pictures."
   },
   {
     "name": "TikZ-Editor",
     "url": "https://github.com/fredokun/TikZ-Editor",
-    "description": "Live-previewing editor for TikZ figures.   "
+    "description": "Live-previewing editor for TikZ figures."
   },
   {
     "name": "IPE",
     "url": "https://ipe.otfried.org",
-    "description": "Drawing tool that integrates well with LaTeX commands and documents. "
+    "description": "Drawing tool that integrates well with LaTeX commands and documents."
   },
   {
     "name": "GeoGebra",
     "url": "https://www.geogebra.org/",
-    "description": "Cross-platform geometry tool with output to TikZ. "
+    "description": "Cross-platform geometry tool with output to TikZ."
   },
   {
     "name": "Dia",
     "url": "https://wiki.gnome.org/Apps/Dia",
-    "description": "Cross-platform diagramming tool that can export to PSTricks and MetaPost code. "
+    "description": "Cross-platform diagramming tool that can export to PSTricks and MetaPost code."
   },
   {
     "name": "TikZiT",
     "url": "https://tikzit.GitHub.io",
-    "description": "GUI tool for creating graphs and string diagrams using PGF/TikZ.    "
+    "description": "GUI tool for creating graphs and string diagrams using PGF/TikZ."
   },
   {
     "name": "LaTeXDraw",
     "url": "https://latexdraw.sourceforge.net/",
-    "description": "Vector-based drawing tool having LaTeX as first-class citizen.    "
+    "description": "Vector-based drawing tool having LaTeX as first-class citizen."
   },
   {
     "name": "CTAN",
@@ -421,12 +421,12 @@
   {
     "name": "Excel2LaTeX",
     "url": "https://www.ctan.org/pkg/excel2latex?lang=en",
-    "description": "Excel (2010 and older) macros to produce LaTeX tabular code.  "
+    "description": "Excel (2010 and older) macros to produce LaTeX tabular code."
   },
   {
     "name": "csv2latex",
     "url": "http://freshmeat.sourceforge.net/projects/csv2latex",
-    "description": "Converts CSV files from your favorite programs to LaTeX tabulars.  "
+    "description": "Converts CSV files from your favorite programs to LaTeX tabulars."
   },
   {
     "name": "Tables Generator",
@@ -466,12 +466,12 @@
   {
     "name": "matlab2tikz",
     "url": "https://github.com/matlab2tikz/matlab2tikz",
-    "description": "Convert your MATLAB plots to PGFPlots/TikZ.    "
+    "description": "Convert your MATLAB plots to PGFPlots/TikZ."
   },
   {
     "name": "tikzplotlib",
     "url": "https://github.com/nschloe/tikzplotlib",
-    "description": "Convert your matplotlib plots to PGFPlots/TikZ.    "
+    "description": "Convert your matplotlib plots to PGFPlots/TikZ."
   },
   {
     "name": "TikZBlog",
@@ -566,7 +566,7 @@
   {
     "name": "TeX World",
     "url": "https://tex.world/",
-    "description": " Websites supported by the TeX Users Group, DANTE, and GUTenberg."
+    "description": "Websites supported by the TeX Users Group, DANTE, and GUTenberg."
   },
   {
     "name": "TeXnique",

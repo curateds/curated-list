@@ -1,1 +1,385 @@
-[]
+[
+  {
+    "name": "How to Safely Generate a Random Number",
+    "url": "http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/"
+  },
+  {
+    "name": "Salted Password Hashing - Doing it Right",
+    "url": "https://crackstation.net/hashing-security.htm",
+    "description": "Doing it Right (2014)"
+  },
+  {
+    "name": "A good idea with bad usage: /dev/urandom",
+    "url": "http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html"
+  },
+  {
+    "name": "Why Invest in Application Security?",
+    "url": "https://paragonie.com/white-paper/2015-why-invest-application-security"
+  },
+  {
+    "name": "Be wary of one-time pads and other crypto unicorns",
+    "url": "https://freedom-to-tinker.com/blog/jbonneau/be-wary-of-one-time-pads-and-other-crypto-unicorns/"
+  },
+  {
+    "name": "Web Application Hacker's Handbook",
+    "url": "http://mdsec.net/wahh"
+  },
+  {
+    "name": "Cryptography Engineering",
+    "url": "http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246"
+  },
+  {
+    "name": "Securing DevOps",
+    "url": "https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8"
+  },
+  {
+    "name": "Gray Hat Python: Programming for Hackers and Reverse Engineers",
+    "url": "http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921"
+  },
+  {
+    "name": "The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities",
+    "url": "http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/"
+  },
+  {
+    "name": "C Interfaces and Implementations: Techniques for Creating Reusable Software",
+    "url": "http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/"
+  },
+  {
+    "name": "Reversing: Secrets of Reverse Engineering",
+    "url": "http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817"
+  },
+  {
+    "name": "JavaScript: The Good parts",
+    "url": "http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742"
+  },
+  {
+    "name": "Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ",
+    "url": "http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301"
+  },
+  {
+    "name": "The Mac Hacker's Handbook",
+    "url": "http://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362"
+  },
+  {
+    "name": "The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler",
+    "url": "http://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786"
+  },
+  {
+    "name": "Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)",
+    "url": "http://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436"
+  },
+  {
+    "name": "Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices",
+    "url": "http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771"
+  },
+  {
+    "name": "Computation Structures (MIT Electrical Engineering and Computer Science)",
+    "url": "http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395"
+  },
+  {
+    "name": "Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection",
+    "url": "http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252"
+  },
+  {
+    "name": "Secure Programming HOWTO",
+    "url": "http://www.dwheeler.com/secure-programs/"
+  },
+  {
+    "name": "Security Engineering - Second Edition",
+    "url": "https://www.cl.cam.ac.uk/~rja14/book.html",
+    "description": "Second Edition (2008)"
+  },
+  {
+    "name": "Bulletproof SSL and TLS",
+    "url": "https://www.feistyduck.com/books/bulletproof-ssl-and-tls/"
+  },
+  {
+    "name": "Holistic Info-Sec for Web Developers (Fascicle 0)",
+    "url": "https://leanpub.com/holistic-infosec-for-web-developers"
+  },
+  {
+    "name": "Holistic Info-Sec for Web Developers (Fascicle 1)",
+    "url": "https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications"
+  },
+  {
+    "name": "Offensive Computer Security (CIS 4930) FSU",
+    "url": "https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/"
+  },
+  {
+    "name": "Hack Night",
+    "url": "https://github.com/isislab/Hack-Night"
+  },
+  {
+    "name": "Hack This Site!",
+    "url": "http://www.hackthissite.org"
+  },
+  {
+    "name": "Enigma Group",
+    "url": "http://www.enigmagroup.org"
+  },
+  {
+    "name": "Web App Sec Quiz",
+    "url": "https://timoh6.github.io/WebAppSecQuiz/"
+  },
+  {
+    "name": "SecurePasswords.info",
+    "url": "https://securepasswords.info"
+  },
+  {
+    "name": "Security News Feeds Cheat-Sheet",
+    "url": "http://lzone.de/cheat-sheet/Security-News-Feeds"
+  },
+  {
+    "name": "Open Security Training",
+    "url": "http://opensecuritytraining.info/"
+  },
+  {
+    "name": "MicroCorruption",
+    "url": "https://microcorruption.com/login"
+  },
+  {
+    "name": "The Matasano Crypto Challenges",
+    "url": "http://cryptopals.com"
+  },
+  {
+    "name": "PentesterLab",
+    "url": "https://pentesterlab.com"
+  },
+  {
+    "name": "Juice Shop",
+    "url": "https://bkimminich.github.io/juice-shop"
+  },
+  {
+    "name": "Supercar Showdown",
+    "url": "http://hackyourselffirst.troyhunt.com/"
+  },
+  {
+    "name": "OWASP NodeGoat",
+    "url": "https://github.com/owasp/nodegoat"
+  },
+  {
+    "name": "Securing The Stack",
+    "url": "https://securingthestack.com"
+  },
+  {
+    "name": "OWASP ServerlessGoat",
+    "url": "https://www.owasp.org/index.php/OWASP_Serverless_Goat"
+  },
+  {
+    "name": "Crypto Fails",
+    "url": "http://cryptofails.com"
+  },
+  {
+    "name": "NCC Group - Blog",
+    "url": "https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/",
+    "description": "Blog"
+  },
+  {
+    "name": "Scott Helme",
+    "url": "https://scotthelme.co.uk"
+  },
+  {
+    "name": "Cossack Labs blog",
+    "url": "https://www.cossacklabs.com/blog-archive/"
+  },
+  {
+    "name": "OWASP Top Ten Project",
+    "url": "https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project"
+  },
+  {
+    "name": "Qualys SSL Labs",
+    "url": "https://www.ssllabs.com/"
+  },
+  {
+    "name": "securityheaders.io",
+    "url": "https://securityheaders.io/"
+  },
+  {
+    "name": "report-uri.io",
+    "url": "https://report-uri.io"
+  },
+  {
+    "name": "clickjacker.io",
+    "url": "https://clickjacker.io"
+  },
+  {
+    "name": "PureSec FunctionShield",
+    "url": "https://www.puresec.io/function-shield"
+  },
+  {
+    "name": "SEI CERT Android Secure Coding Standard",
+    "url": "https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard"
+  },
+  {
+    "name": "SEI CERT C Coding Standard",
+    "url": "https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard"
+  },
+  {
+    "name": "Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team",
+    "url": "https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html"
+  },
+  {
+    "name": "SEI CERT C++ Coding Standard",
+    "url": "https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637"
+  },
+  {
+    "name": "Security Driven .NET",
+    "url": "http://securitydriven.net/"
+  },
+  {
+    "name": "Clojure OWASP",
+    "url": "https://github.com/nubank/clj-owasp"
+  },
+  {
+    "name": "Memory Security in Go - spacetime.dev",
+    "url": "https://spacetime.dev/memory-security-go",
+    "description": "spacetime.dev (2017)"
+  },
+  {
+    "name": "SEI CERT Java Coding Standard",
+    "url": "https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java"
+  },
+  {
+    "name": "Secure Coding Guidelines for Java SE",
+    "url": "http://www.oracle.com/technetwork/java/seccodeguide-139067.html"
+  },
+  {
+    "name": "Node.js Security Checklist - Rising Stack Blog",
+    "url": "https://blog.risingstack.com/node-js-security-checklist/",
+    "description": "Rising Stack Blog (2015)"
+  },
+  {
+    "name": "Awesome Electron.js hacking & pentesting resources",
+    "url": "https://github.com/doyensec/awesome-electronjs-hacking"
+  },
+  {
+    "name": "Essential Node.js Security",
+    "url": "https://leanpub.com/nodejssecurity"
+  },
+  {
+    "name": "Security Training by ^Lift Security",
+    "url": "https://liftsecurity.io/training"
+  },
+  {
+    "name": "Security Training from BinaryMist",
+    "url": "https://blog.binarymist.net/presentations-publications/"
+  },
+  {
+    "name": "It's All About Time",
+    "url": "http://blog.ircmaxell.com/2014/11/its-all-about-time.html"
+  },
+  {
+    "name": "Secure Authentication in PHP with Long-Term Persistence",
+    "url": "https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence"
+  },
+  {
+    "name": "20 Point List For Preventing Cross-Site Scripting In PHP",
+    "url": "http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php"
+  },
+  {
+    "name": "25 PHP Security Best Practices For Sys Admins",
+    "url": "http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html"
+  },
+  {
+    "name": "PHP data encryption primer",
+    "url": "https://timoh6.github.io/2014/06/16/PHP-data-encryption-cheatsheet.html"
+  },
+  {
+    "name": "Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide",
+    "url": "https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide",
+    "description": "the Easy and Definitive Guide (2014)"
+  },
+  {
+    "name": "You Wouldn't Base64 a Password - Cryptography Decoded",
+    "url": "https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded",
+    "description": "Cryptography Decoded (2015)"
+  },
+  {
+    "name": "A Guide to Secure Data Encryption in PHP Applications",
+    "url": "https://paragonie.com/white-paper/2015-secure-php-data-encryption"
+  },
+  {
+    "name": "The 2018 Guide to Building Secure PHP Software",
+    "url": "https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software"
+  },
+  {
+    "name": "Securing PHP: Core Concepts",
+    "url": "https://leanpub.com/securingphp-coreconcepts"
+  },
+  {
+    "name": "Using Libsodium in PHP Projects",
+    "url": "https://paragonie.com/book/pecl-libsodium"
+  },
+  {
+    "name": "defuse/php-encryption",
+    "url": "https://github.com/defuse/php-encryption"
+  },
+  {
+    "name": "ircmaxell/password_compat",
+    "url": "https://github.com/ircmaxell/password_compat"
+  },
+  {
+    "name": "ircmaxell/RandomLib",
+    "url": "https://github.com/ircmaxell/RandomLib"
+  },
+  {
+    "name": "thephpleague/oauth2-server",
+    "url": "https://github.com/thephpleague/oauth2-server"
+  },
+  {
+    "name": "paragonie/random_compat",
+    "url": "https://github.com/paragonie/random_compat"
+  },
+  {
+    "name": "psecio/gatekeeper",
+    "url": "https://github.com/psecio/gatekeeper"
+  },
+  {
+    "name": "openwall/phpass",
+    "url": "http://www.openwall.com/phpass/"
+  },
+  {
+    "name": "websec.io",
+    "url": "http://websec.io"
+  },
+  {
+    "name": "Paragon Initiative Enterprises Blog",
+    "url": "https://paragonie.com/blog/"
+  },
+  {
+    "name": "ircmaxell's blog",
+    "url": "http://blog.ircmaxell.com"
+  },
+  {
+    "name": "Pádraic Brady's Blog",
+    "url": "http://blog.astrumfutura.com"
+  },
+  {
+    "name": "Securing PHP Weekly",
+    "url": "http://securingphp.com"
+  },
+  {
+    "name": "SEI CERT Perl Coding Standard",
+    "url": "https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard"
+  },
+  {
+    "name": "Python chapter of Fedora Defensive Coding Guide",
+    "url": "https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html"
+  },
+  {
+    "name": "Black Hat Python: Python Programming for Hackers and Pentesters",
+    "url": "https://www.nostarch.com/blackhatpython"
+  },
+  {
+    "name": "Violent Python",
+    "url": "http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579"
+  },
+  {
+    "name": "OWASP Python Security Wiki",
+    "url": "https://github.com/ebranca/owasp-pysec/wiki"
+  },
+  {
+    "name": "Secure Ruby Development Guide",
+    "url": "https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Secure_Ruby_Development_Guide/index.html"
+  }
+]

@@ -2,77 +2,77 @@
   {
     "name": "ros2_data_collection",
     "url": "https://github.com/Minipada/ros2_data_collection",
-    "description": "Collect, validate and send data reliably from ROS 2 to create APIs and dashboards. "
+    "description": "Collect, validate and send data reliably from ROS 2 to create APIs and dashboards."
   },
   {
     "name": "adlink_ddsbot",
     "url": "https://github.com/Adlink-ROS/adlink_ddsbot",
-    "description": "The ROS 2.0/1.0 based robots swarm architecture (opensplice DDS). "
+    "description": "The ROS 2.0/1.0 based robots swarm architecture (opensplice DDS)."
   },
   {
     "name": "adlink_neuronbot",
     "url": "https://github.com/Adlink-ROS/adlink_neuronbot",
-    "description": "ROS2/DDS robot pkg for human following and swarm. "
+    "description": "ROS2/DDS robot pkg for human following and swarm."
   },
   {
     "name": "turtlebot3",
     "url": "https://github.com/ROBOTIS-GIT/turtlebot3/tree/ros2",
-    "description": "ROS2 based TurtleBot3 demo including Bringup, Teleop and Cartographer. "
+    "description": "ROS2 based TurtleBot3 demo including Bringup, Teleop and Cartographer."
   },
   {
     "name": "turtlebot2_demo",
     "url": "https://github.com/ros2/turtlebot2_demo",
-    "description": "TurtleBot 2 demos using ROS 2. "
+    "description": "TurtleBot 2 demos using ROS 2."
   },
   {
     "name": "examples/rclcpp",
     "url": "https://github.com/ros2/examples/tree/master/rclcpp",
-    "description": "C++ examples. "
+    "description": "C++ examples."
   },
   {
     "name": "examples/rclpy",
     "url": "https://github.com/ros2/examples/tree/master/rclpy",
-    "description": "Python examples. "
+    "description": "Python examples."
   },
   {
     "name": "rcljava_examples",
     "url": "https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples",
-    "description": "Package containing examples of how to use the rcljava API. "
+    "description": "Package containing examples of how to use the rcljava API."
   },
   {
     "name": "ros2_talker_android, ros2_listener_android",
     "url": "https://github.com/esteve/ros2_android_examples",
-    "description": "Example Android apps for the ROS2 Java bindings. "
+    "description": "Example Android apps for the ROS2 Java bindings."
   },
   {
     "name": "zed-ros2-examples",
     "url": "https://github.com/stereolabs/zed-ros2-examples",
-    "description": "Examples and tutorials use the ZED cameras in the ROS2. "
+    "description": "Examples and tutorials use the ZED cameras in the ROS2."
   },
   {
     "name": "realsense-ros:ros2-branch",
     "url": "https://github.com/IntelRealSense/realsense-ros/tree/ros2",
-    "description": "ROS2 Wrapper for Intel® RealSense™ Devices "
+    "description": "ROS2 Wrapper for Intel® RealSense™ Devices"
   },
   {
     "name": "ros2_benchmarking",
     "url": "https://github.com/piappl/ros2_benchmarking",
-    "description": "Framework for ROS2 benchmarking. ROS2 communication characteristics can be evaluated on several axes, quickly and in an automated way. "
+    "description": "Framework for ROS2 benchmarking. ROS2 communication characteristics can be evaluated on several axes, quickly and in an automated way."
   },
   {
     "name": "performance_test",
     "url": "https://github.com/ApexAI/performance_test",
-    "description": "Test performance and latency of various communication means like ROS 2, FastRTPS and Connext DDS Micro. "
+    "description": "Test performance and latency of various communication means like ROS 2, FastRTPS and Connext DDS Micro."
   },
   {
     "name": "docker-ros2-ospl-ce",
     "url": "https://github.com/Adlink-ROS/docker-ros2-ospl-ce",
-    "description": "A dockerfile to build a ROS2 + OpenSplice CE container. "
+    "description": "A dockerfile to build a ROS2 + OpenSplice CE container."
   },
   {
     "name": "ros2_java_docker",
     "url": "https://github.com/esteve/ros2_java_docker",
-    "description": "Dockerfiles for building ros2_java with OpenJDK and Android. "
+    "description": "Dockerfiles for building ros2_java with OpenJDK and Android."
   },
   {
     "name": "micro-ROS/docker",
@@ -92,12 +92,12 @@
   {
     "name": "osrf/docker_images",
     "url": "https://github.com/osrf/docker_images",
-    "description": "Dockerfiles of Official Library on Docker Hub and OSRF Organization on Docker Hub. "
+    "description": "Dockerfiles of Official Library on Docker Hub and OSRF Organization on Docker Hub."
   },
   {
     "name": "docker-ros2-desktop-vnc",
     "url": "https://github.com/Tiryoh/docker-ros2-desktop-vnc",
-    "description": "Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. "
+    "description": "Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2."
   },
   {
     "name": "ros2-lxd",
@@ -107,7 +107,7 @@
   {
     "name": "Husarnet VPN",
     "url": "https://github.com/husarnet/husarnet",
-    "description": "A P2P, secure network layer dedicated for ROS & ROS 2. "
+    "description": "A P2P, secure network layer dedicated for ROS & ROS 2."
   },
   {
     "name": "Link ROS",
@@ -117,42 +117,42 @@
   {
     "name": "rosbag2",
     "url": "https://github.com/ros2/rosbag2",
-    "description": "ROS2 native rosbag. "
+    "description": "ROS2 native rosbag."
   },
   {
     "name": "rviz",
     "url": "https://github.com/ros2/rviz",
-    "description": "3D Robot Visualizer. "
+    "description": "3D Robot Visualizer."
   },
   {
     "name": "urdfdom",
     "url": "https://github.com/ros/urdfdom",
-    "description": "URDF (U-Robot Description Format) library which provides core data structures and a simple XML parser "
+    "description": "URDF (U-Robot Description Format) library which provides core data structures and a simple XML parser"
   },
   {
     "name": "urdfdom_headers",
     "url": "https://github.com/ros/urdfdom_headers",
-    "description": "Headers for URDF parsers. "
+    "description": "Headers for URDF parsers."
   },
   {
     "name": "ros2cli",
     "url": "https://github.com/ros2/ros2cli",
-    "description": "ROS 2 command line tools. "
+    "description": "ROS 2 command line tools."
   },
   {
     "name": "orocos_kinematics_dynamics",
     "url": "https://github.com/ros2/orocos_kinematics_dynamics",
-    "description": "Orocos Kinematics and Dynamics C++ library. "
+    "description": "Orocos Kinematics and Dynamics C++ library."
   },
   {
     "name": "pydds",
     "url": "https://github.com/atolab/pydds",
-    "description": "Simple DDS Python API for Vortex Lite and for OpenSplice. "
+    "description": "Simple DDS Python API for Vortex Lite and for OpenSplice."
   },
   {
     "name": "Webots",
     "url": "https://cyberbotics.com",
-    "description": "Robot simulator for ROS 2. "
+    "description": "Robot simulator for ROS 2."
   },
   {
     "name": "LGSVL",
@@ -167,12 +167,12 @@
   {
     "name": "Foxglove Studio",
     "url": "https://github.com/foxglove/studio",
-    "description": "Integrated visualization and diagnosis tool for robotics. "
+    "description": "Integrated visualization and diagnosis tool for robotics."
   },
   {
     "name": "ROS2 For Unity",
     "url": "https://github.com/RobotecAI/ros2-for-unity",
-    "description": "An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. "
+    "description": "An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem."
   },
   {
     "name": "Jupyter ROS2",
@@ -202,142 +202,142 @@
   {
     "name": "ros2_control",
     "url": "https://github.com/ros-controls/ros2_control",
-    "description": "ros2_control is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (ros2_controllers). "
+    "description": "ros2_control is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (ros2_controllers)."
   },
   {
     "name": "ros2_controllers",
     "url": "https://github.com/ros-controls/ros2_controllers",
-    "description": "Description of ros_controllers. "
+    "description": "Description of ros_controllers."
   },
   {
     "name": "geometry2",
     "url": "https://github.com/ros2/geometry2",
-    "description": "A set of ROS packages for keeping track of coordinate transforms. "
+    "description": "A set of ROS packages for keeping track of coordinate transforms."
   },
   {
     "name": "ros2-ORB_SLAM2",
     "url": "https://github.com/alsora/ros2-ORB_SLAM2",
-    "description": "ROS2 node wrapping the ORB_SLAM2 library. "
+    "description": "ROS2 node wrapping the ORB_SLAM2 library."
   },
   {
     "name": "basalt_ros2",
     "url": "https://github.com/berndpfrommer/basalt_ros2",
-    "description": "ROS2 wrapper for Basalt VIO. "
+    "description": "ROS2 wrapper for Basalt VIO."
   },
   {
     "name": "cartographer",
     "url": "https://github.com/ros2/cartographer",
-    "description": "Real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. "
+    "description": "Real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations."
   },
   {
     "name": "slam_gmapping",
     "url": "https://github.com/Project-MANAS/slam_gmapping",
-    "description": "Slam Gmapping for ROS2. "
+    "description": "Slam Gmapping for ROS2."
   },
   {
     "name": "slam_toolbox",
     "url": "https://github.com/SteveMacenski/slam_toolbox",
-    "description": "Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS. "
+    "description": "Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS."
   },
   {
     "name": "lidarslam_ros2",
     "url": "https://github.com/rsasaki0109/lidarslam_ros2",
-    "description": "ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. "
+    "description": "ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization."
   },
   {
     "name": "li_slam_ros2",
     "url": "https://github.com/rsasaki0109/li_slam_ros2",
-    "description": "ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. "
+    "description": "ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM."
   },
   {
     "name": "octomap_server2",
     "url": "https://github.com/iKrishneel/octomap_server2",
-    "description": "ROS2 stack for mapping with OctoMap. Port of the ROS1 octomap_mapping package. "
+    "description": "ROS2 stack for mapping with OctoMap. Port of the ROS1 octomap_mapping package."
   },
   {
     "name": "vision_opencv",
     "url": "https://github.com/ros-perception/vision_opencv/tree/ros2",
-    "description": "Packages for interfacing ROS2 with OpenCV. "
+    "description": "Packages for interfacing ROS2 with OpenCV."
   },
   {
     "name": "teleop_twist_keyboard",
     "url": "https://github.com/ros2/teleop_twist_keyboard",
-    "description": "Generic Keyboard Teleop for ROS2. "
+    "description": "Generic Keyboard Teleop for ROS2."
   },
   {
     "name": "teleop_twist_joy",
     "url": "https://github.com/ros2/teleop_twist_joy",
-    "description": "Simple joystick teleop for twist robots. "
+    "description": "Simple joystick teleop for twist robots."
   },
   {
     "name": "navigation",
     "url": "https://github.com/ros-planning/navigation2/",
-    "description": "ROS2 Navigation stack. "
+    "description": "ROS2 Navigation stack."
   },
   {
     "name": "diagnostics",
     "url": "https://github.com/bponsler/diagnostics/tree/ros2-devel",
-    "description": "Forked version of the original ROS1 Diagnostics for ROS 2 (currently diagnostics_updater only). "
+    "description": "Forked version of the original ROS1 Diagnostics for ROS 2 (currently diagnostics_updater only)."
   },
   {
     "name": "robot_state_publisher",
     "url": "https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model",
-    "description": "Forked version of the original ROS Robot State Publisher with all modifications to compile within a ROS2 Ecosystem. "
+    "description": "Forked version of the original ROS Robot State Publisher with all modifications to compile within a ROS2 Ecosystem."
   },
   {
     "name": "common_interfaces",
     "url": "https://github.com/ros2/common_interfaces",
-    "description": "A set of packages which contain common interface files (.msg and .srv). "
+    "description": "A set of packages which contain common interface files (.msg and .srv)."
   },
   {
     "name": "ros2_object_map",
     "url": "https://github.com/intel/ros2_object_map",
-    "description": "\"Mark tag of objects on map when SLAM\". "
+    "description": "\"Mark tag of objects on map when SLAM\"."
   },
   {
     "name": "ros2_object_analytics",
     "url": "https://github.com/intel/ros2_object_analytics",
-    "description": "Object Analytics (OA) is ROS2 wrapper for realtime object detection, localization and tracking. "
+    "description": "Object Analytics (OA) is ROS2 wrapper for realtime object detection, localization and tracking."
   },
   {
     "name": "ros2_intel_movidius_ncs",
     "url": "https://github.com/intel/ros2_intel_movidius_ncs",
-    "description": "ROS2 wrapper for Movidius™ Neural Compute Stick (NCS) Neuronal Compute API. "
+    "description": "ROS2 wrapper for Movidius™ Neural Compute Stick (NCS) Neuronal Compute API."
   },
   {
     "name": "ros2_moving_object",
     "url": "https://github.com/intel/ros2_moving_object",
-    "description": "Addressing moving objects based on messages generated by Object Analytics ros2_object_analytics. "
+    "description": "Addressing moving objects based on messages generated by Object Analytics ros2_object_analytics."
   },
   {
     "name": "ros2_openvino_toolkit",
     "url": "https://github.com/intel/ros2_openvino_toolkit",
-    "description": "ROS2 wrapper for CV API of OpenVINO™ (human vision emulation). "
+    "description": "ROS2 wrapper for CV API of OpenVINO™ (human vision emulation)."
   },
   {
     "name": "ros2_grasp_library",
     "url": "https://github.com/intel/ros2_grasp_library",
-    "description": "Probably a grasp library :). "
+    "description": "Probably a grasp library :)."
   },
   {
     "name": "apriltag_ros",
     "url": "https://github.com/christianrauch/apriltag_ros",
-    "description": "ROS2 node for AprilTag detection. "
+    "description": "ROS2 node for AprilTag detection."
   },
   {
     "name": "rosbridge_suite",
     "url": "https://github.com/RobotWebTools/rosbridge_suite",
-    "description": "Bridging your browser to the ROS 2.0. "
+    "description": "Bridging your browser to the ROS 2.0."
   },
   {
     "name": "ros2_message_filters",
     "url": "https://github.com/intel/ros2_message_filters",
-    "description": "ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters. "
+    "description": "ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters."
   },
   {
     "name": "ros2-tensorflow",
     "url": "https://github.com/alsora/ros2-tensorflow",
-    "description": "ROS2 nodes for computer vision tasks in Tensorflow. "
+    "description": "ROS2 nodes for computer vision tasks in Tensorflow."
   },
   {
     "name": "ros2_pytorch",
@@ -352,7 +352,7 @@
   {
     "name": "pid",
     "url": "https://github.com/UTNuclearRoboticsPublic/pid",
-    "description": "A PID controller for ROS2. "
+    "description": "A PID controller for ROS2."
   },
   {
     "name": "system-modes",
@@ -367,22 +367,22 @@
   {
     "name": "easy_perception_deployment",
     "url": "https://github.com/ros-industrial/easy_perception_deployment",
-    "description": "Package that accelerates training and deployment of Computer Vision models for industries. "
+    "description": "Package that accelerates training and deployment of Computer Vision models for industries."
   },
   {
     "name": "easy_manipulation_deployment",
     "url": "https://github.com/ros-industrial/easy_manipulation_deployment",
-    "description": "Package that integrates perception elements to establish an end-to-end pick and place task. "
+    "description": "Package that integrates perception elements to establish an end-to-end pick and place task."
   },
   {
     "name": "ros2_pid_library",
     "url": "https://github.com/dottantgal/ros2_pid_library",
-    "description": "A ROS2 Humble fully configurable PID library "
+    "description": "A ROS2 Humble fully configurable PID library"
   },
   {
     "name": "wayp_plan_tools",
     "url": "https://github.com/jkk-research/wayp_plan_tools",
-    "description": "Waypoint and planner tools for ROS 2 with minimal dependencies and an optional Gazebo Fortress simulation. "
+    "description": "Waypoint and planner tools for ROS 2 with minimal dependencies and an optional Gazebo Fortress simulation."
   },
   {
     "name": "Micro XRCE-DDS Agent",
@@ -417,17 +417,17 @@
   {
     "name": "rclandroid",
     "url": "https://github.com/esteve/ros2_android/tree/master/rclandroid",
-    "description": "Android API for ROS2. "
+    "description": "Android API for ROS2."
   },
   {
     "name": "rclnodejs",
     "url": "https://github.com/RobotWebTools/rclnodejs",
-    "description": "Node.js version of ROS2.0 client. "
+    "description": "Node.js version of ROS2.0 client."
   },
   {
     "name": "riot-ros2",
     "url": "https://github.com/astralien3000/riot-ros2",
-    "description": "This project enables ROS2 to run on microcontrollers using the RIOT Operating System. "
+    "description": "This project enables ROS2 to run on microcontrollers using the RIOT Operating System."
   },
   {
     "name": "ROS2-Integration-Service",
@@ -457,72 +457,72 @@
   {
     "name": "ros2_xmlrpc_interface",
     "url": "https://github.com/aarushsesto/ros2_xmlrpc_interface",
-    "description": "ros2 interface package with xmlrpc, to communicate with a Sesto server using Sesto API. "
+    "description": "ros2 interface package with xmlrpc, to communicate with a Sesto server using Sesto API."
   },
   {
     "name": "cozmo_driver_ros2",
     "url": "https://github.com/FurqanHabibi/cozmo_driver_ros2",
-    "description": "Unofficial Anki Cozmo node for ROS2. "
+    "description": "Unofficial Anki Cozmo node for ROS2."
   },
   {
     "name": "sphero_ros2",
     "url": "https://github.com/athackst/sphero_ros2",
-    "description": "ROS2 sphero driver. "
+    "description": "ROS2 sphero driver."
   },
   {
     "name": "flock2",
     "url": "https://github.com/clydemcqueen/flock2",
-    "description": "ROS2 driver for DJI Tello drones. "
+    "description": "ROS2 driver for DJI Tello drones."
   },
   {
     "name": "ros2_raspicam_node",
     "url": "https://github.com/Misterblue/ros2_raspicam_node",
-    "description": "ROS2 node for Raspberry Pi camera. "
+    "description": "ROS2 node for Raspberry Pi camera."
   },
   {
     "name": "joystick_drivers",
     "url": "https://github.com/ros2/joystick_drivers",
-    "description": "ROS2 drivers for joysticks. "
+    "description": "ROS2 drivers for joysticks."
   },
   {
     "name": "joystick_drivers_from_scratch",
     "url": "https://github.com/ros2/joystick_drivers_from_scratch",
-    "description": "Joystick driver packages for ROS 2. "
+    "description": "Joystick driver packages for ROS 2."
   },
   {
     "name": "joystick_ros2",
     "url": "https://github.com/FurqanHabibi/joystick_ros2",
-    "description": "Joystick driver for ROS2, support all platforms: Linux, macOS, Windows. "
+    "description": "Joystick driver for ROS2, support all platforms: Linux, macOS, Windows."
   },
   {
     "name": "ros2_teleop_keyboard",
     "url": "https://github.com/rohbotics/ros2_teleop_keyboard",
-    "description": "Teleop Twist Keyboard for ROS2. "
+    "description": "Teleop Twist Keyboard for ROS2."
   },
   {
     "name": "ros_astra_camera",
     "url": "https://github.com/ros2/ros_astra_camera",
-    "description": "ROS2 wrapper for Astra camera. "
+    "description": "ROS2 wrapper for Astra camera."
   },
   {
     "name": "ros2_usb_camera",
     "url": "https://github.com/klintan/ros2_usb_camera",
-    "description": "ROS2 General USB camera driver. "
+    "description": "ROS2 General USB camera driver."
   },
   {
     "name": "ros2_android_drivers",
     "url": "https://github.com/esteve/ros2_android_drivers",
-    "description": "Collection of ROS2 drivers for several Android sensors. "
+    "description": "Collection of ROS2 drivers for several Android sensors."
   },
   {
     "name": "ros2_intel_realsense",
     "url": "https://github.com/intel/ros2_intel_realsense",
-    "description": "ROS2 Wrapper for Intel® RealSense™ Devices. "
+    "description": "ROS2 Wrapper for Intel® RealSense™ Devices."
   },
   {
     "name": "raspicam2_node",
     "url": "https://github.com/christianrauch/raspicam2_node",
-    "description": "ROS2 node for camera module of Raspberry Pi. "
+    "description": "ROS2 node for camera module of Raspberry Pi."
   },
   {
     "name": "ros2_track_imu",
@@ -537,32 +537,32 @@
   {
     "name": "FIROS2",
     "url": "https://github.com/eProsima/FIROS2",
-    "description": "ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE. "
+    "description": "ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE."
   },
   {
     "name": "lino2_upper",
     "url": "https://github.com/linorobot2/lino2_upper",
-    "description": "Linorobot on ROS2. "
+    "description": "Linorobot on ROS2."
   },
   {
     "name": "RysROS2",
     "url": "https://github.com/GroupOfRobots/RysROS2",
-    "description": "ROS2 software stack for MiniRys robots. "
+    "description": "ROS2 software stack for MiniRys robots."
   },
   {
     "name": "px4_to_ros",
     "url": "https://github.com/eProsima/px4_to_ros",
-    "description": "ROS2/ROS packages for communicate PX4 with ROS. "
+    "description": "ROS2/ROS packages for communicate PX4 with ROS."
   },
   {
     "name": "multiwii_ros2",
     "url": "https://github.com/christianrauch/multiwii_ros2",
-    "description": "ROS2 Node for MultiWii and Cleanflight flight controllers. "
+    "description": "ROS2 Node for MultiWii and Cleanflight flight controllers."
   },
   {
     "name": "ydlidar_ros2",
     "url": "https://github.com/Adlink-ROS/ydlidar_ros2",
-    "description": "ROS2 wrapper for ydlidar. "
+    "description": "ROS2 wrapper for ydlidar."
   },
   {
     "name": "zed-ros2-wrapper",
@@ -582,7 +582,7 @@
   {
     "name": "ros2_ouster_drivers",
     "url": "https://github.com/SteveMacenski/ros2_ouster_drivers",
-    "description": "ROS2 Drivers for the Ouster OS-1 Lidars. "
+    "description": "ROS2 Drivers for the Ouster OS-1 Lidars."
   },
   {
     "name": "micro-ROS/hardware",
@@ -607,162 +607,162 @@
   {
     "name": "duro_gps_driver",
     "url": "https://github.com/szenergy/duro_gps_driver",
-    "description": "ROS/ROS2 driver for SwiftNav Duro Inertial GPS / GNSS receivers "
+    "description": "ROS/ROS2 driver for SwiftNav Duro Inertial GPS / GNSS receivers"
   },
   {
     "name": "rclada",
     "url": "https://github.com/ada-ros/rclada",
-    "description": "ROS Client Library for Ada. "
+    "description": "ROS Client Library for Ada."
   },
   {
     "name": "rclcpp",
     "url": "https://github.com/ros2/rclcpp",
-    "description": "ROS Client Library for C++. "
+    "description": "ROS Client Library for C++."
   },
   {
     "name": "rclgo",
     "url": "https://github.com/juaruipav/rclgo",
-    "description": "ROS Client Library for Go. "
+    "description": "ROS Client Library for Go."
   },
   {
     "name": "rclpy",
     "url": "https://github.com/ros2/rclpy",
-    "description": "ROS Client Library for Python. "
+    "description": "ROS Client Library for Python."
   },
   {
     "name": "rcljava",
     "url": "https://github.com/esteve/ros2_java/tree/master/rcljava",
-    "description": "ROS Client Library for Java. "
+    "description": "ROS Client Library for Java."
   },
   {
     "name": "rclnodejs",
     "url": "https://github.com/RobotWebTools/rclnodejs",
-    "description": "ROS Client Library for Node.js. "
+    "description": "ROS Client Library for Node.js."
   },
   {
     "name": "rclobjc",
     "url": "https://github.com/esteve/ros2_objc",
-    "description": "ROS Client Library for Objective C (for iOS). "
+    "description": "ROS Client Library for Objective C (for iOS)."
   },
   {
     "name": "rclc",
     "url": "https://github.com/ros2/rclc",
-    "description": "ROS Client Library for C. "
+    "description": "ROS Client Library for C."
   },
   {
     "name": "ros2_rust",
     "url": "https://github.com/ros2-rust/ros2_rust",
-    "description": "Rust bindings for ROS2. "
+    "description": "Rust bindings for ROS2."
   },
   {
     "name": "ros2_dotnet",
     "url": "https://github.com/esteve/ros2_dotnet",
-    "description": ".NET bindings for ROS2. "
+    "description": ".NET bindings for ROS2."
   },
   {
     "name": "ros2cs",
     "url": "https://github.com/RobotecAI/ros2cs",
-    "description": "an alternative to ros2_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. "
+    "description": "an alternative to ros2_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2."
   },
   {
     "name": "rcl",
     "url": "https://github.com/ros2/rcl",
-    "description": "Library to support implementation of language specific ROS Client Libraries. "
+    "description": "Library to support implementation of language specific ROS Client Libraries."
   },
   {
     "name": "system_tests",
     "url": "https://github.com/ros2/system_tests",
-    "description": "Tests for rclcpp and rclpy. "
+    "description": "Tests for rclcpp and rclpy."
   },
   {
     "name": "rcl_interfaces",
     "url": "https://github.com/ros2/rcl_interfaces",
-    "description": "A repository for messages and services used by the ROS client libraries. "
+    "description": "A repository for messages and services used by the ROS client libraries."
   },
   {
     "name": "rosidl_generator_java",
     "url": "https://github.com/esteve/ros2_java/tree/master/rosidl_generator_java",
-    "description": "Generate the ROS interfaces in Java. "
+    "description": "Generate the ROS interfaces in Java."
   },
   {
     "name": "rosidl_generator_objc",
     "url": "https://github.com/esteve/ros2_objc/tree/master/rosidl_generator_objc",
-    "description": "Generate the ROS interfaces in Objective C. "
+    "description": "Generate the ROS interfaces in Objective C."
   },
   {
     "name": "rosidl_generator_cpp",
     "url": "https://github.com/ros2/rosidl/tree/master/rosidl_generator_cpp",
-    "description": "Generate the ROS interfaces in C++. "
+    "description": "Generate the ROS interfaces in C++."
   },
   {
     "name": "rosidl_generator_c",
     "url": "https://github.com/ros2/rosidl/tree/master/rosidl_generator_c",
-    "description": "Generate the ROS interfaces in C. "
+    "description": "Generate the ROS interfaces in C."
   },
   {
     "name": "rosidl",
     "url": "https://github.com/ros2/rosidl",
-    "description": "Packages which provide the ROS IDL (.msg) definition and code generation. "
+    "description": "Packages which provide the ROS IDL (.msg) definition and code generation."
   },
   {
     "name": "rosidl_dds",
     "url": "https://github.com/ros2/rosidl_dds",
-    "description": "Generate the DDS interfaces for ROS interfaces. "
+    "description": "Generate the DDS interfaces for ROS interfaces."
   },
   {
     "name": "rmw",
     "url": "https://github.com/ros2/rmw/tree/master/rmw",
-    "description": "Contains the ROS middleware API. "
+    "description": "Contains the ROS middleware API."
   },
   {
     "name": "rmw_connext_cpp",
     "url": "https://github.com/ros2/rmw_connext/tree/master/rmw_connext_cpp",
-    "description": "Implement the ROS middleware interface using RTI Connext static code generation in C++. "
+    "description": "Implement the ROS middleware interface using RTI Connext static code generation in C++."
   },
   {
     "name": "rmw_fastrtps_cpp",
     "url": "https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp",
-    "description": "Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++. "
+    "description": "Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++."
   },
   {
     "name": "rmw_dps",
     "url": "https://github.com/ros2/rmw_dps",
-    "description": "Implementation of the ROS Middleware (rmw) Interface using Intel's Distributed Publish & Subscribe. "
+    "description": "Implementation of the ROS Middleware (rmw) Interface using Intel's Distributed Publish & Subscribe."
   },
   {
     "name": "rmw_opensplice_cpp",
     "url": "https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp",
-    "description": "Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++. "
+    "description": "Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++."
   },
   {
     "name": "rmw_coredx",
     "url": "https://github.com/tocinc/rmw_coredx",
-    "description": "CoreDX DDS integration layer for ROS2. "
+    "description": "CoreDX DDS integration layer for ROS2."
   },
   {
     "name": "rmw_freertps",
     "url": "https://github.com/ros2/rmw_freertps",
-    "description": "RMW implementation using freertps. "
+    "description": "RMW implementation using freertps."
   },
   {
     "name": "rmw_zenoh",
     "url": "https://github.com/atolab/rmw_zenoh",
-    "description": "RMW implementation using Eclipse zenoh: Zero Overhead Pub/sub, Store/Query and Compute. "
+    "description": "RMW implementation using Eclipse zenoh: Zero Overhead Pub/sub, Store/Query and Compute."
   },
   {
     "name": "rcutils",
     "url": "https://github.com/ros2/rcutils",
-    "description": "Common C functions and data structures used in ROS 2. "
+    "description": "Common C functions and data structures used in ROS 2."
   },
   {
     "name": "freertps",
     "url": "https://github.com/ros2/freertps",
-    "description": "a free, portable, minimalist, work-in-progress RTPS implementation. "
+    "description": "a free, portable, minimalist, work-in-progress RTPS implementation."
   },
   {
     "name": "rmw_cyclonedds",
     "url": "https://github.com/atolab/rmw_cyclonedds",
-    "description": "ROS2 RMW layer for Eclipse Cyclone DDS. "
+    "description": "ROS2 RMW layer for Eclipse Cyclone DDS."
   },
   {
     "name": "rmw_zenoh",
@@ -782,7 +782,7 @@
   {
     "name": "Fast-RTPS",
     "url": "https://github.com/eProsima/Fast-RTPS",
-    "description": "Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS). "
+    "description": "Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS)."
   },
   {
     "name": "OpenSplice",
@@ -797,42 +797,42 @@
   {
     "name": "freertps",
     "url": "https://github.com/ros2/freertps",
-    "description": "A free, portable, minimalist, work-in-progress RTPS implementation. "
+    "description": "A free, portable, minimalist, work-in-progress RTPS implementation."
   },
   {
     "name": "cdds",
     "url": "https://github.com/atolab/cdds",
-    "description": "Cyclone DDS is developed completely in the open and is undergoing the acceptance process to become part of Eclipse IoT. "
+    "description": "Cyclone DDS is developed completely in the open and is undergoing the acceptance process to become part of Eclipse IoT."
   },
   {
     "name": "Micro-XRCE-DDS)",
     "url": "https://github.com/eProsima/Micro-XRCE-DDS",
-    "description": "An XRCE DDS implementation (supported by microROS). "
+    "description": "An XRCE DDS implementation (supported by microROS)."
   },
   {
     "name": "meta-ros2",
     "url": "https://github.com/erlerobot/meta-ros2",
-    "description": "ROS 2 Layer for OpenEmbedded Linux. "
+    "description": "ROS 2 Layer for OpenEmbedded Linux."
   },
   {
     "name": "ci",
     "url": "https://github.com/ros2/ci",
-    "description": "ROS 2 CI Infrastructure. "
+    "description": "ROS 2 CI Infrastructure."
   },
   {
     "name": "ament_cmake_export_jars",
     "url": "https://github.com/esteve/ros2_java/tree/master/ament_cmake_export_jars",
-    "description": "The ability to export Java archives to downstream packages in the ament buildsystem in CMake. "
+    "description": "The ability to export Java archives to downstream packages in the ament buildsystem in CMake."
   },
   {
     "name": "rmw_implementation_cmake",
     "url": "https://github.com/ros2/rmw/tree/master/rmw_implementation_cmake",
-    "description": "CMake functions which can discover and enumerate available implementations. "
+    "description": "CMake functions which can discover and enumerate available implementations."
   },
   {
     "name": "rmw_implementation",
     "url": "https://github.com/ros2/rmw_implementation",
-    "description": "CMake infrastructure and dependencies for rmw implementations. "
+    "description": "CMake infrastructure and dependencies for rmw implementations."
   },
   {
     "name": "NuttX",
@@ -857,7 +857,7 @@
   {
     "name": "ReconROS",
     "url": "https://github.com/Lien182/ReconROS",
-    "description": "Framework for ROS2 FPGA-based hardware acceleration. Based on ReconOS. "
+    "description": "Framework for ROS2 FPGA-based hardware acceleration. Based on ReconOS."
   },
   {
     "name": "Ubuntu Core",

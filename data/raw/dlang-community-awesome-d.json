@@ -470,7 +470,7 @@
   {
     "name": "higgs",
     "url": "https://github.com/higgsjs/Higgs",
-    "description": " Higgs JavaScript Virtual Machine, implemented in D."
+    "description": "Higgs JavaScript Virtual Machine, implemented in D."
   },
   {
     "name": "hunt",
@@ -490,7 +490,7 @@
   {
     "name": "EMSI containers",
     "url": "https://github.com/dlang-community/containers",
-    "description": " Containers that do not use the GC"
+    "description": "Containers that do not use the GC"
   },
   {
     "name": "memutils",
@@ -550,17 +550,17 @@
   {
     "name": "libasync",
     "url": "https://github.com/etcimon/libasync",
-    "description": " Cross-platform event loop library of asynchronous objects"
+    "description": "Cross-platform event loop library of asynchronous objects"
   },
   {
     "name": "libhttp2",
     "url": "https://github.com/etcimon/libhttp2",
-    "description": " HTTP/2 library in D, translated from nghttp2"
+    "description": "HTTP/2 library in D, translated from nghttp2"
   },
   {
     "name": "collie",
     "url": "https://github.com/huntlabs/collie",
-    "description": " An asynchronous event-driven network framework written in dlang, like netty framework in D."
+    "description": "An asynchronous event-driven network framework written in dlang, like netty framework in D."
   },
   {
     "name": "dlang-requests",
@@ -655,7 +655,7 @@
   {
     "name": "fast.json",
     "url": "https://github.com/etcimon/fast",
-    "description": " A library for D that aims to provide the fastest possible implementation of some every day routines."
+    "description": "A library for D that aims to provide the fastest possible implementation of some every day routines."
   },
   {
     "name": "std.json",
@@ -755,7 +755,7 @@
   {
     "name": "tilix",
     "url": "https://github.com/gnunn1/tilix",
-    "description": " A tiling terminal emulator for Linux using GTK+ 3."
+    "description": "A tiling terminal emulator for Linux using GTK+ 3."
   },
   {
     "name": "scriptlike",
@@ -780,12 +780,12 @@
   {
     "name": "dexpect",
     "url": "https://github.com/grogancolin/dexpect/",
-    "description": " A D implementation of the expect framework. Handy for bash emulation."
+    "description": "A D implementation of the expect framework. Handy for bash emulation."
   },
   {
     "name": "Argon",
     "url": "https://github.com/markuslaker/Argon",
-    "description": " A processor for command-line arguments, an alternative to Getopt, written in D."
+    "description": "A processor for command-line arguments, an alternative to Getopt, written in D."
   },
   {
     "name": "argsd",
@@ -845,7 +845,7 @@
   {
     "name": "dqml",
     "url": "https://github.com/filcuc/dqml",
-    "description": " Qt Qml bindings for the D programming language."
+    "description": "Qt Qml bindings for the D programming language."
   },
   {
     "name": "Sciter-Dport",
@@ -860,7 +860,7 @@
   {
     "name": "PowerNex",
     "url": "https://github.com/PowerNex/PowerNex",
-    "description": " A kernel written in D"
+    "description": "A kernel written in D"
   },
   {
     "name": "SerpentOS",
@@ -870,7 +870,7 @@
   {
     "name": "Trinix",
     "url": "https://github.com/Rikarin/Trinix",
-    "description": " Hybrid operating system for x64 PC written in D"
+    "description": "Hybrid operating system for x64 PC written in D"
   },
   {
     "name": "XOmB",
@@ -1045,7 +1045,7 @@
   {
     "name": "Voxelman",
     "url": "https://github.com/MrSmith33/voxelman",
-    "description": " Plugin-based client-server voxel game engine written in D language"
+    "description": "Plugin-based client-server voxel game engine written in D language"
   },
   {
     "name": "PolyplexEngine",
@@ -1095,7 +1095,7 @@
   {
     "name": "Blogsort",
     "url": "https://bitbucket.org/infognition/bsort/",
-    "description": " A simple Windows app for viewing photos and preparing them for a blog."
+    "description": "A simple Windows app for viewing photos and preparing them for a blog."
   },
   {
     "name": "dlib.image",
@@ -1115,12 +1115,12 @@
   {
     "name": "Drill",
     "url": "https://github.com/yatima1460/drill",
-    "description": " Search files without indexing, but clever crawling"
+    "description": "Search files without indexing, but clever crawling"
   },
   {
     "name": "Cryptic-Resolver",
     "url": "https://github.com/cryptic-resolver/cr_D",
-    "description": " Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)"
+    "description": "Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)"
   },
   {
     "name": "Inochi Creator",
@@ -1155,7 +1155,7 @@
   {
     "name": "tfd",
     "url": "https://github.com/ShigekiKarita/tfd",
-    "description": " Tensorflow wrapper for D"
+    "description": "Tensorflow wrapper for D"
   },
   {
     "name": "DCompute",
@@ -1175,17 +1175,17 @@
   {
     "name": "scid",
     "url": "https://github.com/DlangScience/scid",
-    "description": " Scientific library for the D programming language"
+    "description": "Scientific library for the D programming language"
   },
   {
     "name": "dstats",
     "url": "https://github.com/DlangScience/dstats",
-    "description": " A statistics library for D."
+    "description": "A statistics library for D."
   },
   {
     "name": "mir",
     "url": "https://github.com/libmir/mir",
-    "description": " Sandbox for some mir packages: sparse tensors, Hoffman and others."
+    "description": "Sandbox for some mir packages: sparse tensors, Hoffman and others."
   },
   {
     "name": "mir-algorithm",
@@ -1195,7 +1195,7 @@
   {
     "name": "mir-random",
     "url": "https://github.com/libmir/mir-random",
-    "description": " Advanced Random Number Generators."
+    "description": "Advanced Random Number Generators."
   },
   {
     "name": "decimals",

@@ -10,12 +10,172 @@
     "description": "Tooling for running performance tests on multiple ZSH frameworks."
   },
   {
+    "name": "alf",
+    "url": "https://github.com/psyrendust/alf"
+  },
+  {
+    "name": "ansible-role-zsh",
+    "url": "https://github.com/viasite-ansible/ansible-role-zsh"
+  },
+  {
+    "name": "ant-zsh",
+    "url": "https://github.com/anthraxx/ant-zsh"
+  },
+  {
+    "name": "antibody",
+    "url": "https://github.com/getantibody/antibody"
+  },
+  {
+    "name": "antidote",
+    "url": "https://getantidote.github.io/"
+  },
+  {
+    "name": "antigen-hs",
+    "url": "https://github.com/Tarrasch/antigen-hs"
+  },
+  {
+    "name": "antigen",
+    "url": "https://github.com/zsh-users/antigen"
+  },
+  {
+    "name": "ax-zsh",
+    "url": "https://github.com/alexbarton/ax-zsh"
+  },
+  {
+    "name": "dotzsh",
+    "url": "https://github.com/dotphiles/dotzsh"
+  },
+  {
+    "name": "fresh",
+    "url": "https://github.com/freshshell/fresh"
+  },
+  {
+    "name": "miniplug",
+    "url": "https://sr.ht/~yerinalexey/miniplug"
+  },
+  {
+    "name": "mzpm",
+    "url": "https://github.com/Insert-Creative-Name-Here/mzpm"
+  },
+  {
+    "name": "oh-my-zsh",
+    "url": "https://ohmyz.sh/"
+  },
+  {
+    "name": "PMS",
+    "url": "https://github.com/JoshuaEstes/pms"
+  },
+  {
+    "name": "prezto",
+    "url": "https://github.com/sorin-ionescu/prezto"
+  },
+  {
+    "name": "pumice",
+    "url": "https://github.com/ryutamaki/pumice"
+  },
+  {
+    "name": "sheldon",
+    "url": "https://github.com/rossmacarthur/sheldon"
+  },
+  {
     "name": "handlebars",
     "url": "http://handlebarsjs.com/"
   },
   {
     "name": "TOML",
     "url": "https://github.com/toml-lang/toml"
+  },
+  {
+    "name": "shplug",
+    "url": "https://github.com/dtrugman/shplug"
+  },
+  {
+    "name": "Toasty",
+    "url": "https://github.com/5paceToast/toasty-zsh"
+  },
+  {
+    "name": "tzpm",
+    "url": "https://github.com/notusknot/tzpm"
+  },
+  {
+    "name": "uz",
+    "url": "https://github.com/maxrodrigo/uz"
+  },
+  {
+    "name": "yazt",
+    "url": "https://github.com/bashelled/yazt"
+  },
+  {
+    "name": "zap",
+    "url": "https://github.com/zap-zsh/zap"
+  },
+  {
+    "name": "zapack",
+    "url": "https://github.com/aiya000/zsh-zapack"
+  },
+  {
+    "name": "zcomet",
+    "url": "https://github.com/agkozak/zcomet"
+  },
+  {
+    "name": "zeesh",
+    "url": "https://github.com/zeekay/zeesh"
+  },
+  {
+    "name": "zgem",
+    "url": "https://github.com/qoomon/zgem"
+  },
+  {
+    "name": "zgen",
+    "url": "https://github.com/tarjoilija/zgen"
+  },
+  {
+    "name": "zgenom",
+    "url": "https://github.com/jandamm/zgenom"
+  },
+  {
+    "name": "ZI",
+    "url": "https://github.com/z-shell/zi"
+  },
+  {
+    "name": "zilsh",
+    "url": "https://github.com/zilsh/zilsh"
+  },
+  {
+    "name": "zim",
+    "url": "https://github.com/zimfw/zimfw"
+  },
+  {
+    "name": "Zinit",
+    "url": "https://github.com/zdharma-continuum/zinit"
+  },
+  {
+    "name": "zit",
+    "url": "https://github.com/thiagokokada/zit"
+  },
+  {
+    "name": "zlugin",
+    "url": "https://github.com/DrgnFireYellow/zlugin"
+  },
+  {
+    "name": "znap",
+    "url": "https://github.com/marlonrichert/zsh-snap"
+  },
+  {
+    "name": "zoppo",
+    "url": "https://github.com/zoppo/zoppo"
+  },
+  {
+    "name": "zpacker",
+    "url": "https://github.com/happyslowly/zpacker"
+  },
+  {
+    "name": "zpico",
+    "url": "https://github.com/thornjad/zpico"
+  },
+  {
+    "name": "zplug",
+    "url": "https://github.com/zplug/zplug"
   },
   {
     "name": "GitHub",
@@ -54,8 +214,40 @@
     "url": "https://github.com/zplug/zplug#vs"
   },
   {
+    "name": "zpm",
+    "url": "https://github.com/zpm-zsh/zpm"
+  },
+  {
     "name": "oh-my-zsh",
     "url": "http://ohmyz.sh/"
+  },
+  {
+    "name": "zr",
+    "url": "https://github.com/jedahan/zr"
+  },
+  {
+    "name": "zshing",
+    "url": "https://github.com/zakariaGatter/zshing"
+  },
+  {
+    "name": "zshPlug",
+    "url": "https://github.com/Atlas34/zshPlug"
+  },
+  {
+    "name": "ztanesh",
+    "url": "https://github.com/miohtama/ztanesh"
+  },
+  {
+    "name": "ztheme",
+    "url": "https://github.com/SkyyySi/ztheme"
+  },
+  {
+    "name": "ztupide",
+    "url": "https://github.com/mpostaire/ztupide"
+  },
+  {
+    "name": "zulu",
+    "url": "https://github.com/zulu-zsh/zulu"
   },
   {
     "name": "zsh-quickstart-kit",
@@ -150,7 +342,7 @@
   {
     "name": "Arch Linux's ZSH introduction",
     "url": "https://wiki.archlinux.org/index.php/zsh",
-    "description": " Not actually Arch or Linux-specific."
+    "description": "Not actually Arch or Linux-specific."
   },
   {
     "name": "GH",
@@ -285,6 +477,11 @@
     "name": "zinit-configs",
     "url": "https://github.com/zdharma-continuum/zinit-configs",
     "description": "Real-world configuration files (basically a collection of .zshrc files) holding zinit invocations."
+  },
+  {
+    "name": "superconsole",
+    "url": "https://github.com/alexchmykhalo/superconsole",
+    "description": "Windows-only"
   },
   {
     "name": "Antigen",
@@ -1904,7 +2101,7 @@
   {
     "name": "gitstatus",
     "url": "https://github.com/Insert-Creative-Name-Here/gitstatus.zsh",
-    "description": " Makes it easy to show your git status in your prompt."
+    "description": "Makes it easy to show your git status in your prompt."
   },
   {
     "name": "gitsync",
@@ -2639,7 +2836,7 @@
   {
     "name": "new-file-from-template",
     "url": "https://github.com/zpm-zsh/new-file-from-template",
-    "description": " Generates file from template."
+    "description": "Generates file from template."
   },
   {
     "name": "newvwp",
@@ -7579,7 +7776,7 @@
   {
     "name": "lambda (cdimascio)",
     "url": "https://github.com/cdimascio/lambda-zsh-theme",
-    "description": " Inspired by the lambda theme. Includes git status decorations."
+    "description": "Inspired by the lambda theme. Includes git status decorations."
   },
   {
     "name": "lambda (halfo)",
@@ -10178,6 +10375,38 @@
     "name": "Terminus",
     "url": "http://files.ax86.net/terminus-ttf/",
     "description": "TTF version of Terminus that includes powerline glyphs."
+  },
+  {
+    "name": "Antigen",
+    "url": "https://github.com/zsh-users/antigen"
+  },
+  {
+    "name": "dotzsh",
+    "url": "https://github.com/dotphiles/dotzsh"
+  },
+  {
+    "name": "Oh-My-Zsh",
+    "url": "http://ohmyz.sh/"
+  },
+  {
+    "name": "Prezto",
+    "url": "https://github.com/sorin-ionescu/prezto"
+  },
+  {
+    "name": "Zgen",
+    "url": "https://github.com/tarjoilija/zgen"
+  },
+  {
+    "name": "Zgenom",
+    "url": "https://github.com/jandamm/zgenom"
+  },
+  {
+    "name": "zplug",
+    "url": "https://github.com/zplug/zplug"
+  },
+  {
+    "name": "zpm",
+    "url": "https://github.com/zpm-zsh/zpm"
   },
   {
     "name": "oh-plugin",

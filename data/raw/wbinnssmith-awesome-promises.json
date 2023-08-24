@@ -172,6 +172,10 @@
     "description": "Loads the first available implementation. Safe for browserify."
   },
   {
+    "name": "see notes",
+    "url": "https://github.com/sindresorhus/promise-fun"
+  },
+  {
     "name": "delay",
     "url": "https://github.com/sindresorhus/delay",
     "description": "Delay a promise a specified amount of time."
