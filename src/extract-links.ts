@@ -9,7 +9,7 @@ export default function extractLinks(content: string) {
   listItem.each((_: number, element: cheerio.Element) => {
     const anchor = $(element).find("a").first()
     const link = anchor.attr("href")
-    if (link && !link.startsWith("#")) {
+    if (link && link.includes("//")) {
       // get project name and desc.
       const splited = $(element).text().split(/\s-\s(.+)?/)
       const item = {

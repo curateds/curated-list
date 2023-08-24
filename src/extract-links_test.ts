@@ -1,4 +1,4 @@
-import { assert } from "std/testing/asserts.ts"
+import { assert, assertEquals } from "std/testing/asserts.ts"
 import extractLinks from "./extract-links.ts"
 
 Deno.test(function testExtractLinks() {
@@ -12,4 +12,15 @@ Deno.test(function testExtractLinks() {
     links.length > 0,
     "extract links from the html.",
   )
+})
+
+Deno.test("should not extract local links", () => {
+  const text = `
+  <li>
+  <p dir="auto"><a href="/about">About</a></p>
+  </li>`
+
+  const links = extractLinks(text)
+
+  assertEquals(links.length, 0)
 })
