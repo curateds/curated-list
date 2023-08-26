@@ -9,7 +9,7 @@ export default function extractLinks(content: string) {
   listItem.each((_: number, element: cheerio.Element) => {
     const anchor = $(element).find("a").filter((_, anchor) => {
       const link = $(anchor).attr("href")
-      return !!link && link.includes("//")
+      return !!link && link.includes("//") && !!$(anchor).text()
     })
     if (anchor.length > 0) {
       const link = anchor.first()

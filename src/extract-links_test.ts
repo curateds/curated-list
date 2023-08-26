@@ -44,6 +44,17 @@ Deno.test("should not extract local links", () => {
   assertEquals(links.length, 0)
 })
 
+Deno.test("should not extract empty link", () => {
+  const text = `
+  <li>
+  <p dir="auto"><a href="https://github.com/sindresorhus/awesome"><img src="https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a></p>
+  </li>`
+
+  const links = extractLinks(text)
+
+  assertEquals(links.length, 0)
+})
+
 Deno.test("should extract description", () => {
   const html = `
   <li><a href="https://github.com/crypto101/book">Crypto 101</a> (<a href="https://www.crypto101.io/" rel="nofollow">Site</a>, cc-nc) - the introductory book on cryptography</li>`
