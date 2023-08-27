@@ -320,6 +320,11 @@
     "description": "A light weight editor to content creation."
   },
   {
+    "name": "django-ace",
+    "url": "https://github.com/django-ace/django-ace",
+    "description": "ACE integration for Django."
+  },
+  {
     "name": "django-cleanup",
     "url": "https://github.com/un1t/django-cleanup",
     "description": "Zero configuration file/image removal for local and remote files."

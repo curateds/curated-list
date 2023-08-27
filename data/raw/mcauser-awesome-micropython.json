@@ -835,6 +835,16 @@
     "description": "A pure MicroPython RF transmitter. You can create and add your own encoder."
   },
   {
+    "name": "pico_jjy_tx",
+    "url": "https://github.com/elehobica/pico_jjy_tx",
+    "description": "JJY transmitter for Raspberry Pi Pico W."
+  },
+  {
+    "name": "pico_dcf77_tx",
+    "url": "https://github.com/elehobica/pico_dcf77_tx",
+    "description": "DCF77 transmitter for Raspberry Pi Pico W."
+  },
+  {
     "name": "micropython-ppm_reader",
     "url": "https://github.com/redoxcode/micropython-ppm_reader",
     "description": "Library to decode PPM signals coming from a RC receiver."
@@ -2833,6 +2843,11 @@
     "name": "MicroPython_BMI270",
     "url": "https://github.com/jposada202020/MicroPython_BMI270",
     "description": "MicroPython Driver for the Bosch BMI270 Accelerometer/Gyro Sensor."
+  },
+  {
+    "name": "MicroPython_LSM6DSOX",
+    "url": "https://github.com/jposada202020/MicroPython_LSM6DSOX",
+    "description": "MicroPython Library for the ST LSM6DSOX accelerometer/gyro Sensor."
   },
   {
     "name": "ms5803-micropython",

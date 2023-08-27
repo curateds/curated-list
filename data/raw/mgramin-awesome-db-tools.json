@@ -575,6 +575,11 @@
     "description": "A open source REST API backend for mobile, web, and IoT applications."
   },
   {
+    "name": "Graphweaver",
+    "url": "https://github.com/exogee-technology/graphweaver",
+    "description": "Turn multiple data sources into a single GraphQL API."
+  },
+  {
     "name": "Hasura GraphQL Engine",
     "url": "https://github.com/hasura/graphql-engine",
     "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events."
@@ -628,11 +633,6 @@
     "name": "VulcanSQL",
     "url": "https://github.com/Canner/vulcan-sql",
     "description": "Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake."
-  },
-  {
-    "name": "Graphweaver",
-    "url": "https://github.com/exogee-technology/graphweaver",
-    "description": "Turn multiple data sources into a single GraphQL API."
   },
   {
     "name": "Appsmith",

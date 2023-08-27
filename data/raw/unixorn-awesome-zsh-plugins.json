@@ -2871,7 +2871,7 @@
   {
     "name": "node-path",
     "url": "https://github.com/andyrichardson/zsh-node-path",
-    "description": "Automatically adds the npm bin of your current directory to your path."
+    "description": "Automatically adds the npm bin of your current directory to your $PATH."
   },
   {
     "name": "node",

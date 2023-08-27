@@ -298,6 +298,43 @@
     "description": "Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu."
   },
   {
+    "name": "njs scripting language reference and examples",
+    "url": "https://nginx.org/en/docs/njs/"
+  },
+  {
+    "name": "Collection of njs use cases",
+    "url": "https://github.com/f5devcentral/nginx-njs-usecases"
+  },
+  {
+    "name": "JavaScript embedded on NGINX - Getting started with njs",
+    "url": "https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/",
+    "description": "Getting started with njs"
+  },
+  {
+    "name": "Create Nginx extensions in JavaScript",
+    "url": "https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310"
+  },
+  {
+    "name": "Make your nginx config even more modular and reusable with njs 0.7.7",
+    "url": "https://www.nginx.com/blog/make-nginx-config-even-more-modular-reusable-njs-0-7-7/"
+  },
+  {
+    "name": "Diagnostic logging with the NGINX JavaScript module",
+    "url": "https://www.nginx.com/blog/diagnostic-logging-nginx-javascript-module/"
+  },
+  {
+    "name": "How to log request headers with NGINX and njs",
+    "url": "https://wildwolf.name/how-to-log-request-headers-with-nginx-and-njs/"
+  },
+  {
+    "name": "Using NGINX as an Object Storage Gateway via njs",
+    "url": "https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/"
+  },
+  {
+    "name": "Easy HTTPS with NGINX and ACME via njs",
+    "url": "https://steinkamp.us/posts/2023-08-10_easy-https-with-nginx"
+  },
+  {
     "name": "OpenResty - Fast web app server by extending Nginx",
     "url": "https://openresty.org/en/",
     "description": "Fast web app server by extending Nginx"

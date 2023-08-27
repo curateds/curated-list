@@ -30,18 +30,6 @@
     "description": "Browse the various source trees that comprise the Qt project.  Has mirrors at several GitHub organizations:"
   },
   {
-    "name": "",
-    "url": "https://github.com/qt"
-  },
-  {
-    "name": "",
-    "url": "https://github.com/qtproject"
-  },
-  {
-    "name": "",
-    "url": "https://github.com/qt-labs"
-  },
-  {
     "name": "Mailing Lists",
     "url": "http://lists.qt-project.org",
     "description": "Mailing lists for users and developers of Qt alike.  Arguably the best place to communicate directly with Qt's maintainers.  Sees frequent activity."
@@ -119,16 +107,6 @@
     "name": "Emulator",
     "url": "https://doc.qt.io/emulator",
     "description": "Don't forget about Qt's mobile support!"
-  },
-  {
-    "name": "",
-    "url": "https://github.com/qt/qttools/tree/dev/src/qtdiag",
-    "description": "Command-line tool that prints out a lot of information pertaining to both your Qt installation and your system in general.  No link because there's no dedicated web page; just run qtdiag on the command line.  Excellent for troubleshooting."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/qt/qtdeclarative/tree/dev/tools/qmleasing",
-    "description": "Lets you make easing curves suitable for QML, though if you understand the underlying math there's no reason you couldn't use the resulting numbers elsewhere."
   },
   {
     "name": "CMake",

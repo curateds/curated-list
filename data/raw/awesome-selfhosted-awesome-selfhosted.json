@@ -370,11 +370,6 @@
     "description": "Syncs YouTube channels and playlists to a locally hosted media server. AGPL-3.0 Docker/Python"
   },
   {
-    "name": "WebUI-aria2",
-    "url": "https://github.com/ziahamza/webui-aria2",
-    "description": "Interface to interact with the aria2 downloader. Very simple to use, just download and open index.html in any web browser. (Demo) MIT HTML5"
-  },
-  {
     "name": "ydl_api_ng",
     "url": "https://github.com/Totonyus/ydl_api_ng",
     "description": "Simple youtube-dl REST API to launch downloads on a distant server. GPL-3.0 Python"
@@ -562,7 +557,7 @@
   {
     "name": "calypso",
     "url": "https://keithp.com/calypso/",
-    "description": "Python-based CalDAV and CardDAV server, forked from Radicale. (Source Code) GPL-3.0 Python"
+    "description": "Python-based CalDAV and CardDAV server (fork of Radicale). (Source Code) GPL-3.0 Python"
   },
   {
     "name": "DAViCal",
@@ -1107,7 +1102,7 @@
   {
     "name": "Sympa",
     "url": "https://www.sympa.community/",
-    "description": "Mailing list manager. GPL-2.0 Perl"
+    "description": "Mailing list manager. (Source Code) GPL-2.0 Perl"
   },
   {
     "name": "Cypht",
@@ -1132,7 +1127,7 @@
   {
     "name": "SnappyMail",
     "url": "https://snappymail.eu/",
-    "description": "Simple, modern, lightweight & fast web-based email client. (It is an actively developed fork of RainLoop). (Demo, Source Code) AGPL-3.0 PHP"
+    "description": "Simple, modern, lightweight & fast web-based email client (fork of RainLoop). (Demo, Source Code) AGPL-3.0 PHP"
   },
   {
     "name": "SquirrelMail",
@@ -1365,11 +1360,6 @@
     "description": "Social Communication Server. (Source Code) AGPL-3.0 PHP"
   },
   {
-    "name": "GNU social",
-    "url": "https://www.gnusocial.rocks/",
-    "description": "Social communication software for both public and private communications. (Source Code) AGPL-3.0 PHP/Docker"
-  },
-  {
     "name": "GoToSocial",
     "url": "https://github.com/superseriousbusiness/gotosocial",
     "description": "ActivityPub federated social network server implementing the Mastodon client API. AGPL-3.0 Docker/Go"
@@ -1597,7 +1587,7 @@
   {
     "name": "Metronome IM",
     "url": "https://metronome.im/",
-    "description": "Fork of Prosody IM. (Source Code) MIT Lua"
+    "description": "Lightweight xmpp server with advanced microblogging features (fork of Prosody). (Source Code) MIT Lua"
   },
   {
     "name": "MongooseIM",
@@ -2042,7 +2032,7 @@
   {
     "name": "Paperless-ngx",
     "url": "https://docs.paperless-ngx.com/",
-    "description": "A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. (Demo, Source Code) GPL-3.0 Python/Docker"
+    "description": "Scan, index, and archive all of your paper documents with an imporved interface (fork of Paperless). (Demo, Source Code) GPL-3.0 Python/Docker"
   },
   {
     "name": "Papermerge",
@@ -2502,7 +2492,7 @@
   {
     "name": "Transmission",
     "url": "https://transmissionbt.com/",
-    "description": "Fast, easy, Free Bittorrent client. (Source Code) GPL-3.0 C"
+    "description": "Fast, easy, free Bittorrent client. (Source Code) GPL-3.0 C++"
   },
   {
     "name": "ass",
@@ -2545,11 +2535,6 @@
     "description": "Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. (Demo) AGPL-3.0 PHP"
   },
   {
-    "name": "Kleeja",
-    "url": "https://kleeja.net/",
-    "description": "File Upload/sharing application, used by thousands of webmasters since 2007. (Source Code) GPL-2.0 PHP"
-  },
-  {
     "name": "lufi",
     "url": "https://framagit.org/fiat-tux/hat-softwares/lufi",
     "description": "Let's Upload that FIle, client-side encrypted. (Demo, Source Code) AGPL-3.0 Perl"
@@ -2562,7 +2547,7 @@
   {
     "name": "Pairdrop",
     "url": "https://github.com/schlagmichdoch/pairdrop",
-    "description": "Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop. GPL-3.0 Docker"
+    "description": "Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). GPL-3.0 Docker"
   },
   {
     "name": "PicoShare",
@@ -2723,11 +2708,6 @@
     "name": "EmuLinkerSF",
     "url": "https://emulinker.org",
     "description": "EmuLinkerSF is an open source Kaillera server. Kaillera is a client/server system that any emulator can implement to enable netplay over the Internet. (Source Code) GPL-2.0 Java"
-  },
-  {
-    "name": "Hextris",
-    "url": "https://github.com/Hextris/hextris",
-    "description": "Fast paced HTML5 puzzle game inspired by Tetris. GPL-3.0 HTML5"
   },
   {
     "name": "Lila",
@@ -3375,11 +3355,6 @@
     "description": "Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. MIT Docker"
   },
   {
-    "name": "Volumio",
-    "url": "https://volumio.com/",
-    "description": "A free and open source linux distribution, designed and fine-tuned exclusively for music playback. (Source Code) GPL-3.0 Nodejs"
-  },
-  {
     "name": "Dim",
     "url": "https://github.com/Dusk-Labs/dim",
     "description": "Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. GPL-2.0 Rust"
@@ -3707,7 +3682,7 @@
   {
     "name": "Jellyseerr",
     "url": "https://github.com/Fallenbagel/jellyseerr",
-    "description": "A free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers. MIT Docker"
+    "description": "Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). MIT Docker"
   },
   {
     "name": "Journal",
@@ -3963,11 +3938,6 @@
     "name": "Budget Zen",
     "url": "https://budgetzen.net",
     "description": "End-to-end encrypted and simple expense manager. (Demo, Source Code) AGPL-3.0 Deno"
-  },
-  {
-    "name": "Crater",
-    "url": "https://github.com/crater-invoice/crater",
-    "description": "Free & Open Source Invoice App for Freelancers & Small Businesses. (Demo) AAL PHP"
   },
   {
     "name": "DePay",
@@ -4290,19 +4260,9 @@
     "description": "A promising password managers fully featured for teams. (Demo, Source Code) Apache-2.0 Python"
   },
   {
-    "name": "sysPass",
-    "url": "https://www.syspass.org/",
-    "description": "Multiuser password management system. (Demo, Source Code) GPL-3.0 PHP"
-  },
-  {
     "name": "Teampass",
     "url": "https://teampass.net/",
     "description": "Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP. (Source Code) GPL-3.0 PHP"
-  },
-  {
-    "name": "vaults",
-    "url": "https://github.com/IcyDrae/vaults",
-    "description": "Password manager featuring client side AES-256 encryption, PBKDF2 hashing, vaults, password generation & more. GPL-3.0 PHP"
   },
   {
     "name": "Vaultwarden",
@@ -4670,11 +4630,6 @@
     "description": "A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. (Source Code) MIT Python/Docker"
   },
   {
-    "name": "UberGallery",
-    "url": "https://www.ubergallery.net",
-    "description": "UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. (Source Code) MIT PHP"
-  },
-  {
     "name": "Zenphoto",
     "url": "https://www.zenphoto.org/",
     "description": "Open-source gallery and CMS project. (Source Code) GPL-2.0 PHP"
@@ -5032,7 +4987,7 @@
   {
     "name": "SearXNG",
     "url": "https://docs.searxng.org/",
-    "description": "Internet metasearch engine which aggregates results from various search services and databases. (Fork of Searx). (Source Code) AGPL-3.0 Python/Docker"
+    "description": "Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). (Source Code) AGPL-3.0 Python/Docker"
   },
   {
     "name": "sist2",
@@ -5427,7 +5382,7 @@
   {
     "name": "Gitea",
     "url": "https://gitea.io",
-    "description": "Community managed fork of Gogs, lightweight code hosting solution. (Demo, Source Code) MIT Go"
+    "description": "Community managed, lightweight code hosting solution (fork of Gogs). (Demo, Source Code) MIT Go"
   },
   {
     "name": "GitLab",
@@ -5503,11 +5458,6 @@
     "name": "Pagure",
     "url": "https://pagure.io/pagure",
     "description": "A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. (Demo) GPL-2.0 Python"
-  },
-  {
-    "name": "Party Poker",
-    "url": "https://github.com/kksoftwareag/partypoker",
-    "description": "Agile / Scrum Planning Poker WebApp. Estimate User Stories in real time. (Demo) MIT C#"
   },
   {
     "name": "Phorge",
@@ -5657,7 +5607,7 @@
   {
     "name": "Kanbana",
     "url": "https://github.com/SrGMC/kanbana",
-    "description": "Create boards to track users and projects from flat markdown files. Forked from Crepido. MIT Nodejs"
+    "description": "Create boards to track users and projects from flat markdown files (fork of Crepido). MIT Nodejs"
   },
   {
     "name": "Kanboard",
@@ -5688,11 +5638,6 @@
     "name": "Planka",
     "url": "https://planka.app/",
     "description": "Realtime kanban board for workgroups (alternative to Trello). (Demo, Source Code) AGPL-3.0 Nodejs"
-  },
-  {
-    "name": "Restyaboard",
-    "url": "https://github.com/RestyaPlatform/board/",
-    "description": "Open source Trello-like kanban board. OSL-3.0 PHP"
   },
   {
     "name": "Task Keeper",
@@ -5868,11 +5813,6 @@
     "name": "ReducePy",
     "url": "https://github.com/abdullahselek/ReducePy",
     "description": "URL shortener service using Tornado and Redis runs on Docker and Kubernetes. MIT Python"
-  },
-  {
-    "name": "schort",
-    "url": "https://github.com/sqozz/schort",
-    "description": "No login, no javascript, just short links. CC0-1.0 Python"
   },
   {
     "name": "Shlink",

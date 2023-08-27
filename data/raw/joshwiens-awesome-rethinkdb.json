@@ -1,9 +1,5 @@
 [
   {
-    "name": "",
-    "url": "https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/media/rethinkdb.jpg"
-  },
-  {
     "name": "RethinkDB",
     "url": "http://rethinkdb.com/docs/",
     "description": "RethinkDB Documentation"
@@ -43,17 +39,9 @@
     "description": "Officially Supported JavaScript Driver."
   },
   {
-    "name": "",
-    "url": "https://github.com/rethinkdb"
-  },
-  {
     "name": "RethinkDB Dash",
     "url": "https://github.com/neumino/rethinkdbdash",
     "description": "An advanced Node.js driver for RethinkDB with connection pool and Streams Support."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/neumino"
   },
   {
     "name": "Thinky",
@@ -61,17 +49,9 @@
     "description": "JavaScript ORM for RethinkDB"
   },
   {
-    "name": "",
-    "url": "https://github.com/neumino"
-  },
-  {
     "name": "JSData RethinkDB",
     "url": "https://github.com/js-data/js-data-rethinkdb",
     "description": "RethinkDB adapter for the js-data ORM."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/js-data"
   },
   {
     "name": "RethinkDB Pool",
@@ -79,17 +59,9 @@
     "description": "Connection-pool for RethinkDB."
   },
   {
-    "name": "",
-    "url": "https://github.com/hden"
-  },
-  {
     "name": "Express Session RethinkDB",
     "url": "https://github.com/armenfilipetyan/express-session-rethinkdb",
     "description": "RethinkDB session store for Express 4.x."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/armenfilipetyan"
   },
   {
     "name": "Hapi RethinkDB CRUD",
@@ -97,17 +69,9 @@
     "description": "CRUD handlers for Hapi interaction with Rethinkdb."
   },
   {
-    "name": "",
-    "url": "https://github.com/athlite"
-  },
-  {
     "name": "Sails Hook Thinky",
     "url": "https://github.com/mwielbut/sails-hook-thinky",
     "description": "A hook to enable the Thinky ORM for RethinkDB in Sails."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/mwielbut"
   },
   {
     "name": "KOA RethinkDB",
@@ -115,17 +79,9 @@
     "description": "Koa middleware that gets you a RethinkDB client."
   },
   {
-    "name": "",
-    "url": "https://github.com/hden"
-  },
-  {
     "name": "RabbitMQ",
     "url": "http://rethinkdb.com/docs/rabbitmq/javascript/",
     "description": "Integrating RethinkDB with RabbitMQ"
-  },
-  {
-    "name": "",
-    "url": "https://github.com/rethinkdb"
   },
   {
     "name": "RethinkDB Python",
@@ -133,17 +89,9 @@
     "description": "Officially Supported JavaScript Driver."
   },
   {
-    "name": "",
-    "url": "https://github.com/rethinkdb"
-  },
-  {
     "name": "Remodel",
     "url": "https://github.com/linkyndy/remodel",
     "description": "Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/linkyndy"
   },
   {
     "name": "Rethink",
@@ -151,17 +99,9 @@
     "description": "Python RethinkDB Object Mapper Interface Inspired by Appengine NDB."
   },
   {
-    "name": "",
-    "url": "https://github.com/caoimhghin"
-  },
-  {
     "name": "flask-rethinkdb",
     "url": "https://github.com/linkyndy/flask-rethinkdb",
     "description": "Adds RethinkDB support to Flask."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/linkyndy"
   },
   {
     "name": "RabbitMQ",
@@ -169,17 +109,9 @@
     "description": "Integrating RethinkDB with RabbitMQ"
   },
   {
-    "name": "",
-    "url": "https://github.com/rethinkdb"
-  },
-  {
     "name": "RethinkDB Ruby",
     "url": "http://rethinkdb.com/docs/install-drivers/ruby/",
     "description": "Officially Supported Ruby Driver."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/rethinkdb"
   },
   {
     "name": "NoBrainer",
@@ -187,17 +119,9 @@
     "description": "Ruby ORM for RethinkDB."
   },
   {
-    "name": "",
-    "url": "https://github.com/nviennot"
-  },
-  {
     "name": "Epiphy",
     "url": "https://github.com/kureikain/epiphy",
     "description": "Lightweight RethinkDB ORM."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/kureikain"
   },
   {
     "name": "lotus-rethinkdb",
@@ -205,17 +129,9 @@
     "description": "RethinkDB adapter for Lotus::Model."
   },
   {
-    "name": "",
-    "url": "https://github.com/angeloashmore"
-  },
-  {
     "name": "RabbitMQ",
     "url": "https://www.rethinkdb.com/docs/rabbitmq/ruby/",
     "description": "Integrating RethinkDB with RabbitMQ"
-  },
-  {
-    "name": "",
-    "url": "https://github.com/rethinkdb"
   },
   {
     "name": "RethinkDB Java",
@@ -223,17 +139,9 @@
     "description": "Officially Supported Java Driver."
   },
   {
-    "name": "",
-    "url": "https://github.com/rethinkdb"
-  },
-  {
     "name": "Rethinker",
     "url": "https://github.com/futurechimp/rethinker",
     "description": "A simplistic serialisation library for use alongside the official RethinkDb Java driver."
-  },
-  {
-    "name": "",
-    "url": "https://github.com/futurechimp"
   },
   {
     "name": "Rethinkdb4j",
@@ -241,26 +149,14 @@
     "description": "Asynchronous Netty-based RethinkDB driver for Java."
   },
   {
-    "name": "",
-    "url": "https://github.com/tony-brewerio"
-  },
-  {
     "name": "RethinkDB Java ORM",
     "url": "https://github.com/PeterKnego/rethinkdb-java-orm",
     "description": "A custom POJO converter for RethinkDB Java driver."
   },
   {
-    "name": "",
-    "url": "https://github.com/PeterKnego"
-  },
-  {
     "name": "RabbitMQ",
     "url": "https://www.rethinkdb.com/docs/rabbitmq/java/",
     "description": "Integrating RethinkDB with RabbitMQ"
-  },
-  {
-    "name": "",
-    "url": "https://github.com/rethinkdb"
   },
   {
     "name": "C#",
