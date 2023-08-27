@@ -285,6 +285,11 @@
     "description": "A pretty diagnostics list to help you solve all the trouble your code is causing."
   },
   {
+    "name": "piersolenski/wtf.nvim",
+    "url": "https://github.com/piersolenski/wtf.nvim",
+    "description": "AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions."
+  },
+  {
     "name": "folke/lsp-colors.nvim",
     "url": "https://github.com/folke/lsp-colors.nvim",
     "description": "A plugin that adds missing LSP diagnostics highlight groups for color schemes that don't yet support the builtin LSP client."
@@ -1435,6 +1440,11 @@
     "description": "A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more."
   },
   {
+    "name": "Verf/deepwhite.nvim",
+    "url": "https://github.com/Verf/deepwhite.nvim",
+    "description": "A light colorscheme inspired by flatwhite-syntax and elegant-emacs."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -2178,6 +2188,11 @@
     "name": "chrisgrieser/nvim-origami",
     "url": "https://github.com/chrisgrieser/nvim-origami",
     "description": "Fold with relentless elegance."
+  },
+  {
+    "name": "GCBallesteros/NotebookNavigator.nvim",
+    "url": "https://github.com/GCBallesteros/NotebookNavigator.nvim",
+    "description": "Navigate and execute code cells."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",
@@ -3288,6 +3303,11 @@
     "name": "elentok/format-on-save.nvim",
     "url": "https://github.com/elentok/format-on-save.nvim",
     "description": "A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save."
+  },
+  {
+    "name": "stevearc/conform.nvim",
+    "url": "https://github.com/stevearc/conform.nvim",
+    "description": "A lightweight formatting engine that plays nice with LSP."
   },
   {
     "name": "nvimdev/indentmini.nvim",

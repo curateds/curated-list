@@ -210,6 +210,11 @@
     "description": "Bindings for the wasmer WebAssembly runtime"
   },
   {
+    "name": "win32cr",
+    "url": "https://github.com/mjblack/win32cr",
+    "description": "Bindings for Win32 API"
+  },
+  {
     "name": "x_do.cr",
     "url": "https://github.com/woodruffw/x_do.cr",
     "description": "Bindings for libxdo (xdotool)"
