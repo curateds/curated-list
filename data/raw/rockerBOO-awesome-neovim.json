@@ -645,6 +645,11 @@
     "description": "More intentional register handling with delete, cut and yank mappings."
   },
   {
+    "name": "desdic/macrothis.nvim",
+    "url": "https://github.com/desdic/macrothis.nvim",
+    "description": "Save and load macros/registers."
+  },
+  {
     "name": "cbochs/grapple.nvim",
     "url": "https://github.com/cbochs/grapple.nvim",
     "description": "Provides tagging, cursor tracking, and immediate navigation to important project files."
@@ -2438,6 +2443,11 @@
     "name": "Zeioth/compiler.nvim",
     "url": "https://github.com/Zeioth/compiler.nvim",
     "description": "Compiler for building and running your code without having to configure anything."
+  },
+  {
+    "name": "jaytyrrell13/static.nvim",
+    "url": "https://github.com/jaytyrrell13/static.nvim",
+    "description": "Run static site generator commands."
   },
   {
     "name": "folke/neodev.nvim",

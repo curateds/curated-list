@@ -1999,14 +1999,14 @@
     "description": "Collects small inserts and sends big requests to ClickHouse servers."
   },
   {
-    "name": "datagen",
-    "url": "https://github.com/codingconcepts/datagen",
-    "description": "A fast data generator that's multi-table aware and supports multi-row DML."
-  },
-  {
     "name": "dbbench",
     "url": "https://github.com/sj14/dbbench",
     "description": "Database benchmarking tool with support for several databases and scripts."
+  },
+  {
+    "name": "dg",
+    "url": "https://github.com/codingconcepts/dg",
+    "description": "A fast data generator that produces CSV files from generated relational data."
   },
   {
     "name": "dynago",
@@ -2477,6 +2477,11 @@
     "name": "skizze",
     "url": "https://github.com/seiflotfy/skizze",
     "description": "probabilistic data-structures service and storage."
+  },
+  {
+    "name": "approx",
+    "url": "https://github.com/goschtalt/approx",
+    "description": "A Duration extension supporting parsing/printing durations in days, weeks and years."
   },
   {
     "name": "carbon",
