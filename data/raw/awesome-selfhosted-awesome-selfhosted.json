@@ -1535,6 +1535,11 @@
     "description": "Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources. (Source Code) MIT Go"
   },
   {
+    "name": "Janus",
+    "url": "https://janus.conf.meetecho.com/",
+    "description": "General-purpose, lightweight, minimalist WebRTC Server. (Demo, Source Code) GPL-3.0 C"
+  },
+  {
     "name": "Jitsi Meet",
     "url": "https://jitsi.org/Projects/JitsiMeet",
     "description": "Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. (Source Code) Apache-2.0 Nodejs/Docker"
@@ -2057,7 +2062,7 @@
   {
     "name": "Atsumeru",
     "url": "https://atsumeru.xyz",
-    "description": "Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. (Source Code, Clients) MIT Java"
+    "description": "Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. (Source Code, Clients) MIT Java/Docker"
   },
   {
     "name": "Calibre Web",
@@ -2348,6 +2353,11 @@
     "name": "RSS2EMail",
     "url": "https://github.com/rss2email/rss2email",
     "description": "Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. GPL-2.0 Python"
+  },
+  {
+    "name": "RSSHub",
+    "url": "https://docs.rsshub.app",
+    "description": "An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments. (Demo, Source Code) MIT Nodejs/Docker"
   },
   {
     "name": "Selfoss",

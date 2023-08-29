@@ -45,6 +45,11 @@
     "description": "Platform for implementing and verifying query compilers."
   },
   {
+    "name": "SSProve",
+    "url": "https://github.com/SSProve/ssprove",
+    "description": "Framework for modular cryptographic proofs based on the Mathematical Components library."
+  },
+  {
     "name": "VCFloat",
     "url": "https://github.com/VeriNum/vcfloat",
     "description": "Framework for verifying C programs with floating-point computations."

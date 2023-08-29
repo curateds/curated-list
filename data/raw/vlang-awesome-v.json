@@ -155,6 +155,11 @@
     "description": "A simple ray tracer written in V."
   },
   {
+    "name": "cotowali",
+    "url": "https://github.com/cotowali/cotowali",
+    "description": "A statically typed scripting language that transpiles into POSIX sh."
+  },
+  {
     "name": "monkey_v",
     "url": "https://github.com/Delta456/monkey_v",
     "description": "Implementation of Thorsten Ball's Monkey Language in V."
@@ -233,6 +238,11 @@
     "name": "vproto",
     "url": "https://github.com/emily33901/vproto",
     "description": "Protobuf compiler and runtime in V."
+  },
+  {
+    "name": "emoji-mart-desktop",
+    "url": "https://github.com/ttytm/emoji-mart-desktop",
+    "description": "An emoji picker created with V, webview and SvelteKit."
   },
   {
     "name": "Gitly",
@@ -467,7 +477,7 @@
   {
     "name": "vsl.vcl",
     "url": "https://github.com/vlang/vsl/tree/master/vcl#readme",
-    "description": "VCL is a high level way of writting programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels."
+    "description": "VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels."
   },
   {
     "name": "vitric",
@@ -645,9 +655,14 @@
     "description": "Bindings for Nuklear GUI toolkit."
   },
   {
-    "name": "VWebui",
+    "name": "V-WebUI",
     "url": "https://github.com/webui-dev/v-webui",
-    "description": "V Library that makes easy creating WebUI."
+    "description": "A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend."
+  },
+  {
+    "name": "webview",
+    "url": "https://github.com/ttytm/webview",
+    "description": "Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface."
   },
   {
     "name": "range",
@@ -826,6 +841,10 @@
   {
     "name": "V Playground (old)",
     "url": "https://v-wasm.now.sh/"
+  },
+  {
+    "name": "VOSCA V Playground",
+    "url": "https://play.vosca.dev"
   },
   {
     "name": "Simple Linux kernel module example",
