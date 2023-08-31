@@ -694,6 +694,11 @@
     "description": "Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting."
   },
   {
+    "name": "vite-react-ssr-boost-template",
+    "url": "https://github.com/Lomray-Software/vite-template",
+    "description": "Template for creating React 18 SSR/SPA apps with TypeScript, Mobx, React Router, Head Manager, Suspense, Streaming. Also included CI/CD, ESLint, Prettier, Stylelint, Husky, Semantic Release."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -2201,6 +2206,11 @@
     "name": "vue-ssr",
     "url": "https://github.com/bistroo/vue-ssr",
     "description": "Minimalistic wrapper to develop and run SSR powered Vue apps."
+  },
+  {
+    "name": "vite-ssr-boost",
+    "url": "https://github.com/Lomray-Software/vite-ssr-boost",
+    "description": "Server side rendering library for create awesome app based on react-router."
   },
   {
     "name": "vitedge",

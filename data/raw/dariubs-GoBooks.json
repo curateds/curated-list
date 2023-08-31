@@ -1,346 +1,299 @@
 [
   {
-    "name": "The Little Go Book",
-    "url": "https://www.openmymind.net/The-Little-Go-Book/"
-  },
-  {
-    "name": "An Introduction to Programming in Go",
-    "url": "https://www.golang-book.com/"
-  },
-  {
     "name": "Learning Go",
-    "url": "https://www.miek.nl/go"
-  },
-  {
-    "name": "Go for Javascript Developers",
-    "url": "https://github.com/pazams/go-for-javascript-developers"
-  },
-  {
-    "name": "Learn Go With Tests",
-    "url": "https://quii.gitbook.io/learn-go-with-tests/"
-  },
-  {
-    "name": "Go 101",
-    "url": "https://go101.org/article/101.html"
-  },
-  {
-    "name": "Go, from the beginning",
-    "url": "https://leanpub.com/go-from-the-beginning"
-  },
-  {
-    "name": "Practical Go Lessons",
-    "url": "https://www.practical-go-lessons.com/"
-  },
-  {
-    "name": "Go Programming Language Persian",
-    "url": "https://book.gofarsi.ir/"
-  },
-  {
-    "name": "Go in Action",
-    "url": "https://www.manning.com/books/go-in-action"
-  },
-  {
-    "name": "Go Programming Blueprints - 2nd Ed.",
-    "url": "https://www.packtpub.com/application-development/go-programming-blueprints-second-edition",
-    "description": "2nd Ed."
-  },
-  {
-    "name": "Programming in Go: Creating Applications for the 21st Century",
-    "url": "https://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637"
-  },
-  {
-    "name": "The Go Programming Language",
-    "url": "https://gopl.io/"
-  },
-  {
-    "name": "Introducing Go: Build Reliable, Scalable Programs",
-    "url": "https://www.oreilly.com/library/view/introducing-go/9781491941997/"
+    "url": "https://www.miek.nl/go",
+    "description": "Learning Go Free"
   },
   {
     "name": "Get Programming with Go",
-    "url": "https://bit.ly/getprogrammingwithgo"
-  },
-  {
-    "name": "Go Programming by Example",
-    "url": "https://www.amazon.com/dp/B00TWLZVQQ/ref=cm_sw_em_r_mt_dp_hL5bGbWM00XG6"
-  },
-  {
-    "name": "Go Recipes",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-1188-5"
-  },
-  {
-    "name": "Learning Go programming",
-    "url": "https://www.packtpub.com/application-development/learning-go-programming"
+    "url": "https://bit.ly/getprogrammingwithgo",
+    "description": "Get Programming with Go"
   },
   {
     "name": "API Foundations in Go",
-    "url": "https://leanpub.com/api-foundations"
+    "url": "https://leanpub.com/api-foundations",
+    "description": "API Foundations in Go"
   },
   {
-    "name": "How to Code in Go",
-    "url": "https://www.digitalocean.com/community/books/how-to-code-in-go-ebook"
-  },
-  {
-    "name": "For the Love of Go",
-    "url": "https://bitfieldconsulting.com/books/love"
+    "name": "Go for Javascript Developers",
+    "url": "https://github.com/pazams/go-for-javascript-developers",
+    "description": "Go for Javascript Developers Free"
   },
   {
     "name": "The Go Workshop",
-    "url": "https://www.packtpub.com/product/the-go-workshop/9781838647940"
+    "url": "https://www.packtpub.com/product/the-go-workshop/9781838647940",
+    "description": "The Go Workshop"
+  },
+  {
+    "name": "How to Code in Go",
+    "url": "https://www.digitalocean.com/community/books/how-to-code-in-go-ebook",
+    "description": "How to Code in Go"
   },
   {
     "name": "Learning Go: An Idiomatic Approach to Real-World Go Programming",
-    "url": "https://www.oreilly.com/library/view/learning-go/9781492077206/"
+    "url": "https://www.amazon.de/-/en/Jon-Bodner/dp/1492077216",
+    "description": "Learning Go: An Idiomatic Approach to Real-World Go Programming"
+  },
+  {
+    "name": "Go, from the beginning",
+    "url": "https://leanpub.com/go-from-the-beginning",
+    "description": "Go, from the beginning Free"
+  },
+  {
+    "name": "Practical Go Lessons",
+    "url": "https://www.practical-go-lessons.com/",
+    "description": "Practical Go Lessons Free"
   },
   {
     "name": "Pro Go",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-7355-5"
+    "url": "https://link.springer.com/book/10.1007/978-1-4842-7355-5",
+    "description": "Pro Go"
   },
   {
     "name": "Go for DevOps",
-    "url": "https://www.packtpub.com/product/go-for-devops/9781801818896"
+    "url": "https://www.packtpub.com/product/go-for-devops/9781801818896",
+    "description": "Go for DevOps"
   },
   {
     "name": "gRPC Microservices in Go",
-    "url": "https://shortener.manning.com/44lB"
+    "url": "https://shortener.manning.com/44lB",
+    "description": "gRPC Microservices in Go"
+  },
+  {
+    "name": "Learn Go With Tests",
+    "url": "https://quii.gitbook.io/learn-go-with-tests/",
+    "description": "Learn Go With Tests Free"
+  },
+  {
+    "name": "Go 101",
+    "url": "https://go101.org/article/101.html",
+    "description": "Go 101 Free"
+  },
+  {
+    "name": "Go Programming Language",
+    "url": "https://book.gofarsi.ir/",
+    "description": "Persian - Go Programming Language Free"
+  },
+  {
+    "name": "For the Love of Go",
+    "url": "https://bitfieldconsulting.com/books/love",
+    "description": "For the Love of Go"
   },
   {
     "name": "gRPC Go for Professionals",
-    "url": "https://www.amazon.com/gRPC-Professionals-Implement-production-grade-Microservices/dp/1837638845"
+    "url": "https://www.amazon.com/gRPC-Professionals-Implement-production-grade-Microservices/dp/1837638845",
+    "description": "gRPC Go for Professionals"
   },
   {
     "name": "Learn Go with Pocket-Sized Projects",
-    "url": "https://www.manning.com/books/learn-go-with-pocket-sized-projects"
+    "url": "https://www.manning.com/books/learn-go-with-pocket-sized-projects",
+    "description": "Learn Go with Pocket-Sized Projects"
   },
   {
     "name": "Go Faster",
-    "url": "https://leanpub.com/gofaster"
+    "url": "https://leanpub.com/gofaster",
+    "description": "Go Faster"
   },
   {
     "name": "Shipping Go",
-    "url": "https://www.manning.com/books/shipping-go"
+    "url": "https://www.manning.com/books/shipping-go",
+    "description": "Shipping Go"
   },
   {
-    "name": "Microservices with Go",
-    "url": "https://www.packtpub.com/product/microservices-with-go/9781804617007"
+    "name": "Hands-On Dependency Injection in Go",
+    "url": "https://amzn.to/2Q6dLQC",
+    "description": "Hands-On Dependency Injection in Go"
   },
   {
-    "name": "Event-Driven Architecture in Golang",
-    "url": "https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012"
+    "name": "Security with Go",
+    "url": "https://www.packtpub.com/product/security-with-go/9781788627917",
+    "description": "Security with Go"
+  },
+  {
+    "name": "A Go Developer's Notebook",
+    "url": "https://leanpub.com/GoNotebook/",
+    "description": "A Go Developer's Notebook"
+  },
+  {
+    "name": "Black Hat Go",
+    "url": "https://www.nostarch.com/blackhatgo",
+    "description": "Black Hat Go"
+  },
+  {
+    "name": "Writing An Interpreter In Go",
+    "url": "https://interpreterbook.com/",
+    "description": "Writing An Interpreter In Go"
+  },
+  {
+    "name": "Writing A Compiler In Go",
+    "url": "https://compilerbook.com/",
+    "description": "Writing A Compiler In Go"
+  },
+  {
+    "name": "Hands-On Software Engineering with Golang",
+    "url": "https://www.packtpub.com/gb/programming/hands-on-software-engineering-with-golang",
+    "description": "Hands-On Software Engineering with Golang"
   },
   {
     "name": "Building Distributed Applications in Gin",
-    "url": "https://www.packtpub.com/product/building-distributed-applications-in-gin/9781801074858"
+    "url": "https://www.packtpub.com/product/building-distributed-applications-in-gin/9781801074858",
+    "description": "Building Distributed Applications in Gin"
   },
   {
-    "name": "Test-driven development with Go ",
-    "url": "https://leanpub.com/golang-tdd"
+    "name": "Network Programming with Go",
+    "url": "https://nostarch.com/networkprogrammingwithgo",
+    "description": "Network Programming with Go"
+  },
+  {
+    "name": "Powerful Command-Line Applications in Go",
+    "url": "https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/",
+    "description": "Powerful Command-Line Applications in Go"
+  },
+  {
+    "name": "Effective Go",
+    "url": "https://www.manning.com/books/effective-go",
+    "description": "Effective Go"
+  },
+  {
+    "name": "Cloud Native Go - Building Reliable Services in Unreliable Environments",
+    "url": "https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333",
+    "description": "Cloud Native Go - Building Reliable Services in Unreliable Environments"
+  },
+  {
+    "name": "Everyday Go",
+    "url": "https://openfaas.gumroad.com/l/everyday-golang",
+    "description": "Everyday Go"
+  },
+  {
+    "name": "Practical Go: Building Scalable Network and Non-Network Applications",
+    "url": "https://practicalgobook.net",
+    "description": "Practical Go: Building Scalable Network and Non-Network Applications"
+  },
+  {
+    "name": "Microservices with Go",
+    "url": "https://www.packtpub.com/product/microservices-with-go/9781804617007",
+    "description": "Microservices with Go"
+  },
+  {
+    "name": "Event-Driven Architecture in Golang",
+    "url": "https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012",
+    "description": "Event-Driven Architecture in Golang"
+  },
+  {
+    "name": "Efficient Go: Data-Driven Performance Optimization",
+    "url": "https://www.amazon.com/Efficient-Go-Data-Driven-Performance-Optimization/dp/1098105710",
+    "description": "Efficient Go: Data-Driven Performance Optimization"
+  },
+  {
+    "name": "100 Go Mistakes and How to Avoid Them",
+    "url": "https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them",
+    "description": "100 Go Mistakes and How to Avoid Them"
+  },
+  {
+    "name": "Know Go: Generics",
+    "url": "https://bitfieldconsulting.com/books/generics",
+    "description": "Know Go: Generics"
+  },
+  {
+    "name": "The Power of Go: Tests",
+    "url": "https://bitfieldconsulting.com/books/tests",
+    "description": "The Power of Go: Tests"
+  },
+  {
+    "name": "Beyond Effective Go: Part 1 - Achieving High-Performance Code",
+    "url": "https://coreyscott.dev/book/",
+    "description": "Beyond Effective Go: Part 1 - Achieving High-Performance Code"
+  },
+  {
+    "name": "Domain-Driven Design with Golang",
+    "url": "https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450",
+    "description": "Domain-Driven Design with Golang"
   },
   {
     "name": "Go programming language secure coding practices guide",
-    "url": "https://checkmarx.gitbooks.io/go-scp/"
+    "url": "https://checkmarx.gitbooks.io/go-scp/",
+    "description": "Go programming language secure coding practices guide Free"
+  },
+  {
+    "name": "The Power of Go: Tools",
+    "url": "https://bitfieldconsulting.com/books/tools",
+    "description": "The Power of Go: Tools"
+  },
+  {
+    "name": "Build an Orchestrator in Go",
+    "url": "https://www.manning.com/books/build-an-orchestrator-in-go",
+    "description": "Build an Orchestrator in Go"
   },
   {
     "name": "Go with the Domain: Building Modern Business Software in Go",
     "url": "https://threedots.tech/go-with-the-domain/"
   },
   {
-    "name": "Network Programming with Go",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-2692-6"
-  },
-  {
-    "name": "Network Programming with Go",
-    "url": "https://nostarch.com/networkprogrammingwithgo"
-  },
-  {
-    "name": "Mastering Concurrency in Go",
-    "url": "https://www.amazon.com/Mastering-Concurrency-Go-Nathan-Kozyra/dp/1783983485"
-  },
-  {
-    "name": "Go in Practice",
-    "url": "https://www.manning.com/butcher/"
-  },
-  {
-    "name": "A Go Developer's Notebook",
-    "url": "https://leanpub.com/GoNotebook/"
-  },
-  {
-    "name": "The Go Programming Language Phrasebook",
-    "url": "https://www.informit.com/store/go-programming-language-phrasebook-9780321817143"
-  },
-  {
-    "name": "Go Design Patterns",
-    "url": "https://www.packtpub.com/application-development/go-design-patterns"
-  },
-  {
-    "name": "Black Hat Go",
-    "url": "https://www.nostarch.com/blackhatgo"
-  },
-  {
-    "name": "Concurrency in Go",
-    "url": "https://shop.oreilly.com/product/0636920046189.do"
-  },
-  {
-    "name": "Hands-On Dependency Injection in Go",
-    "url": "https://amzn.to/2Q6dLQC"
-  },
-  {
-    "name": "Hands-On Software Engineering with Golang",
-    "url": "https://www.packtpub.com/gb/programming/hands-on-software-engineering-with-golang"
-  },
-  {
     "name": "Spaceship Go",
     "url": "https://blasrodri.github.io/spaceship-go-gh-pages/"
-  },
-  {
-    "name": "Security with Go",
-    "url": "https://www.packtpub.com/product/security-with-go/9781788627917"
-  },
-  {
-    "name": "Writing An Interpreter In Go",
-    "url": "https://interpreterbook.com/"
-  },
-  {
-    "name": "Writing A Compiler In Go",
-    "url": "https://compilerbook.com/"
   },
   {
     "name": "Ultimate Go Notebook",
     "url": "https://courses.ardanlabs.com/courses/ultimate-go-notebook"
   },
   {
-    "name": "Efficient Go",
-    "url": "https://www.oreilly.com/library/view/efficient-go/9781098105709/"
+    "name": "Learn Data Structures and Algorithms with Golang",
+    "url": "https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501",
+    "description": "Learn Data Structures and Algorithms with Golang"
   },
   {
-    "name": "The Power of Go: Tools",
-    "url": "https://bitfieldconsulting.com/books/tools"
-  },
-  {
-    "name": "Powerful Command-Line Applications in Go",
-    "url": "https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/"
-  },
-  {
-    "name": "100 Go Mistakes and How to Avoid Them",
-    "url": "https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them"
-  },
-  {
-    "name": "Effective Go",
-    "url": "https://www.manning.com/books/effective-go"
-  },
-  {
-    "name": "Cloud Native Go - Building Reliable Services in Unreliable Environments",
-    "url": "https://www.oreilly.com/library/view/cloud-native-go/9781492076322/",
-    "description": "Building Reliable Services in Unreliable Environments"
-  },
-  {
-    "name": "Build an Orchestrator in Go",
-    "url": "https://www.manning.com/books/build-an-orchestrator-in-go"
-  },
-  {
-    "name": "Everyday Go",
-    "url": "https://openfaas.gumroad.com/l/everyday-golang"
-  },
-  {
-    "name": "Practical Go: Building Scalable Network and Non-Network Applications",
-    "url": "https://practicalgobook.net"
-  },
-  {
-    "name": "Know Go: Generics",
-    "url": "https://bitfieldconsulting.com/books/generics"
-  },
-  {
-    "name": "The Power of Go: Tests",
-    "url": "https://bitfieldconsulting.com/books/tests"
-  },
-  {
-    "name": "Beyond Effective Go: Part 1 - Achieving High-Performance Code",
-    "url": "https://coreyscott.dev/book/",
-    "description": "Achieving High-Performance Code"
-  },
-  {
-    "name": "Domain-Driven Design with Golang",
-    "url": "https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"
-  },
-  {
-    "name": "Building Web Apps with Go",
-    "url": "https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details"
-  },
-  {
-    "name": "Build Web Application with Golang",
-    "url": "https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details"
+    "name": "12 Factor Applications with Docker and Go",
+    "url": "https://leanpub.com/12fa-docker-golang",
+    "description": "12 Factor Applications with Docker and Go"
   },
   {
     "name": "Webapps in Go the anti textbook",
-    "url": "https://github.com/thewhitetulip/web-dev-golang-anti-textbook"
+    "url": "https://github.com/thewhitetulip/web-dev-golang-anti-textbook",
+    "description": "Webapps in Go the anti textbook Free"
   },
   {
-    "name": "Mastering Go Web Services ",
-    "url": "https://www.packtpub.com/product/mastering-go-web-services/9781783981304"
+    "name": "Build SaaS apps in Go",
+    "url": "https://buildsaasappingo.com",
+    "description": "Build SaaS apps in Go"
   },
   {
-    "name": "Level Up Your Web Apps With Go",
-    "url": "https://www.sitepoint.com/premium/books/level-up-your-web-apps-with-go"
+    "name": "Go Brain Teasers",
+    "url": "https://gum.co/Qkmou",
+    "description": "Go Brain Teasers"
   },
   {
-    "name": "Go Web Programming",
-    "url": "https://www.manning.com/chang/"
+    "name": "Creative DIY Microcontroller Projects with TinyGo and WebAssembly",
+    "url": "https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208",
+    "description": "Creative DIY Microcontroller Projects with TinyGo and WebAssembly"
   },
   {
-    "name": "Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React",
-    "url": "https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796"
+    "name": "Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems",
+    "url": "https://pragprog.com/titles/tjgo/distributed-services-with-go/",
+    "description": "Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems"
+  },
+  {
+    "name": "Build Systems with Go: Everything a Gopher Must Know",
+    "url": "https://www.amazon.com/dp/B091FX4CZX",
+    "description": "Build Systems with Go: Everything a Gopher Must Know"
+  },
+  {
+    "name": "Mastering Go, 3rd edition",
+    "url": "https://www.packtpub.com/product/mastering-go-third-edition/9781801079310",
+    "description": "Mastering Go, 3rd edition"
+  },
+  {
+    "name": "Let's Go!",
+    "url": "https://lets-go.alexedwards.net/",
+    "description": "Let's Go!"
+  },
+  {
+    "name": "Let's Go Further",
+    "url": "https://lets-go-further.alexedwards.net/",
+    "description": "Let's Go Further"
   },
   {
     "name": "Web Development with Go: Learn to Create Real World Web Applications using Go",
     "url": "https://www.usegolang.com/"
-  },
-  {
-    "name": "Go: Building Web Applications",
-    "url": "https://amzn.com/B01LD8K5C0"
-  },
-  {
-    "name": "Building Microservices with Go",
-    "url": "https://www.packtpub.com/application-development/building-microservices-go"
-  },
-  {
-    "name": "12 Factor Applications with Docker and Go",
-    "url": "https://leanpub.com/12fa-docker-golang"
-  },
-  {
-    "name": "Build SaaS apps in Go",
-    "url": "https://buildsaasappingo.com"
-  },
-  {
-    "name": "Let's Go!",
-    "url": "https://lets-go.alexedwards.net/"
-  },
-  {
-    "name": "Let's Go Further",
-    "url": "https://lets-go-further.alexedwards.net/"
-  },
-  {
-    "name": "Go Brain Teasers",
-    "url": "https://gum.co/Qkmou"
-  },
-  {
-    "name": "Creative DIY Microcontroller Projects with TinyGo and WebAssembly",
-    "url": "https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208"
-  },
-  {
-    "name": "Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems",
-    "url": "https://pragprog.com/titles/tjgo/distributed-services-with-go/"
-  },
-  {
-    "name": "Build Systems with Go: Everything a Gopher Must Know",
-    "url": "https://www.amazon.com/dp/B091FX4CZX"
-  },
-  {
-    "name": "Mastering Go, 3rd edition",
-    "url": "https://www.packtpub.com/product/mastering-go-third-edition/9781801079310"
-  },
-  {
-    "name": "Learn Data Structures and Algorithms with Golang",
-    "url": "https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501"
   },
   {
     "name": "Wasm Cooking with Golang",
@@ -351,8 +304,12 @@
     "url": "https://p5v.gumroad.com/l/generative-art-in-golang"
   },
   {
-    "name": "Golang tutorial resources",
-    "url": "https://webia.io/topic/golang-learning-resources"
+    "name": "Building Web Apps with Go",
+    "url": "https://codegangsta.gitbooks.io/building-web-apps-with-go/content/"
+  },
+  {
+    "name": "Build Web Application with Golang",
+    "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html"
   },
   {
     "name": "A tour of Go",
@@ -397,5 +354,9 @@
   {
     "name": "Golangbot.com Articles",
     "url": "https://golangbot.com/"
+  },
+  {
+    "name": "Tuxerrante repo on go exercises",
+    "url": "https://github.com/tuxerrante/go_exercises"
   }
 ]

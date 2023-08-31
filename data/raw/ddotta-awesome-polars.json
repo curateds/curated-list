@@ -43,6 +43,11 @@
     "description": "Official blogs posts from Polars."
   },
   {
+    "name": "Keynote on Polars at EuroSciPy 2023",
+    "url": "https://www.youtube.com/watch?v=GTVm3QyJ-3I&t=43s",
+    "description": "Talk by @ritchie46 that dives into Polars and sees what makes it so efficient.  It will touch on technologies like Arrow, Rust, parallelism, data structures, query optimization and more."
+  },
+  {
     "name": "polars for Python",
     "url": "https://github.com/pola-rs/polars/tree/master/py-polars",
     "description": "Python polars package to use polars DataFrame from Python."
@@ -70,6 +75,10 @@
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."
+  },
+  {
+    "name": "Polars CLI",
+    "url": "https://github.com/pola-rs/polars-cli"
   },
   {
     "name": "GeoPolars",
@@ -168,6 +177,11 @@
     "name": "Data Pipelines with Polars: Step-by-Step Guide",
     "url": "https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4",
     "description": "A tutorial that explains how to build data pipelines with Polars by @AntonsRuberts. Code used is available on Github here."
+  },
+  {
+    "name": "Python Polars: A Lightning-Fast DataFrame Library",
+    "url": "https://realpython.com/polars-python/",
+    "description": "A tutorial that shows how to use Polars with Python ecosystem by @hfhoffman1144. Code used is available on Github here."
   },
   {
     "name": "Using the Polars DataFrame Library",
@@ -458,6 +472,16 @@
     "name": "How to update mass data using Polars DataFrame",
     "url": "https://www.youtube.com/watch?v=ivJSk6JLWBQ",
     "description": "A video that presents the process of writing code to update mass columns across CSV or data files by @AmitXShukla. Notebook used for the video in this github repo."
+  },
+  {
+    "name": "Using the Rust Polars DataFrame library in a CLI",
+    "url": "https://www.youtube.com/watch?v=CUQaoAcc95M",
+    "description": "A video that shows how to integrate Polars in a commande line interface by @paiml."
+  },
+  {
+    "name": "The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame",
+    "url": "https://www.youtube.com/watch?v=keCvzMihDfk&list=PLp0TENYyY8lHJaY4t5bAihnFS5TBUQYV1",
+    "description": "A playlist of 10 videos (WIP) that equips you with all the necessary knowledge required to utilize Python Polars Data Frame by @AmitXShukla."
   },
   {
     "name": "pola-rs (@pola-rs)",

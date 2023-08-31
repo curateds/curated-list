@@ -550,6 +550,11 @@
     "description": "Rust bindings for the AG Grid datatable library."
   },
   {
+    "name": "popper-rs",
+    "url": "https://github.com/ctron/popper-rs/",
+    "description": "Popper JS bindings for Rust."
+  },
+  {
     "name": "Yewdux",
     "url": "https://github.com/intendednull/yewdux",
     "description": "Redux-like state containers for Yew apps."
@@ -603,6 +608,11 @@
     "name": "turf",
     "url": "https://github.com/myFavShrimp/turf",
     "description": "Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules."
+  },
+  {
+    "name": "browser-panic-hook",
+    "url": "https://github.com/ctron/browser-panic-hook",
+    "description": "A panic handler for browser environments, allowing to fail in an end-user friendly way."
   },
   {
     "name": "wasm-bindgen",
