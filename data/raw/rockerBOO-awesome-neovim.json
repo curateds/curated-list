@@ -350,6 +350,11 @@
     "description": "Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI."
   },
   {
+    "name": "gsuuon/llm.nvim",
+    "url": "https://github.com/gsuuon/llm.nvim",
+    "description": "Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."
