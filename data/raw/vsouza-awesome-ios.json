@@ -40,6 +40,11 @@
     "description": "Comprehensive analytics service that improves your project and saves time for product development."
   },
   {
+    "name": "Emerge Tools",
+    "url": "https://www.emergetools.com",
+    "description": "Prevent app size & performance regressions on every pull request, get automated insights on how to improve."
+  },
+  {
     "name": "Inapptics",
     "url": "https://inapptics.com",
     "description": "Helps analyze and visualize user behavior in mobile apps. Provides visual user journeys, heatmaps and crash replays."
@@ -4862,6 +4867,11 @@
     "description": "Unreachable code path optimization hint for Swift."
   },
   {
+    "name": "SmallStrings",
+    "url": "https://github.com/EmergeTools/SmallStrings",
+    "description": "Reduce localized .strings file sizes by 80%."
+  },
+  {
     "name": "CSwiftV",
     "url": "https://github.com/Daniel1of1/CSwiftV",
     "description": "A csv parser written in swift conforming to rfc4180."
@@ -6895,6 +6905,11 @@
     "description": "Fast, platform-independent test runner focused on performance and stability execute tests."
   },
   {
+    "name": "ETTrace",
+    "url": "https://github.com/EmergeTools/ETTrace",
+    "description": "Locally measure performance of your app, without Xcode or Instruments."
+  },
+  {
     "name": "NaughtyKeyboard",
     "url": "https://github.com/Palleas/NaughtyKeyboard",
     "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device."
@@ -8680,6 +8695,11 @@
     "name": "BottomSheet",
     "url": "https://github.com/joomcode/BottomSheet",
     "description": "Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support."
+  },
+  {
+    "name": "LCActionSheet",
+    "url": "https://github.com/iTofu/LCActionSheet",
+    "description": "A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift."
   },
   {
     "name": "MIBadgeButton",

@@ -3610,6 +3610,11 @@
     "description": "Build your own PaaS in a few minutes. (Demo, Source Code) Apache-2.0 Docker/Nodejs"
   },
   {
+    "name": "Cerbos",
+    "url": "https://cerbos.dev",
+    "description": "A self-hosted, open source user authorization layer for your applications. (Demo, Source Code) Apache-2.0 Go"
+  },
+  {
     "name": "changedetection.io",
     "url": "https://github.com/dgtlmoon/changedetection.io",
     "description": "Self-hosted tool for staying up-to-date with web-site content changes. Apache-2.0 Python/Docker"
@@ -4308,11 +4313,6 @@
     "name": "ExBin",
     "url": "https://github.com/m1dnight/exbin",
     "description": "A pastebin with public/private snippets and netcat server. MIT Elixir"
-  },
-  {
-    "name": "fiche",
-    "url": "https://github.com/solusipse/fiche",
-    "description": "Command line pastebin, all you need is netcat. (Demo) MIT C"
   },
   {
     "name": "filite",
