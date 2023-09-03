@@ -164,6 +164,11 @@
     "description": "A Neural Network based generative model for captioning images using Tensorflow."
   },
   {
+    "name": "lightnlg",
+    "url": "https://github.com/kasnerz/lightnlg",
+    "description": "A minimalistic codebase for finetuning and interacting with NLG models using PyTorch Lightning."
+  },
+  {
     "name": "PaperRobot: Incremental Draft Generation of Scientific Ideas",
     "url": "https://github.com/EagleW/PaperRobot",
     "description": "We present a PaperRobot who performs as an automatic research assistant."

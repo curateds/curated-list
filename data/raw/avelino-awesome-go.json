@@ -6708,6 +6708,11 @@
     "description": "An entity framework for Go. Simple, yet powerful ORM for modeling and querying data."
   },
   {
+    "name": "go-dbw",
+    "url": "https://github.com/hashicorp/go-dbw",
+    "description": "A simple package that encapsulates database operations."
+  },
+  {
     "name": "go-firestorm",
     "url": "https://github.com/jschoedt/go-firestorm",
     "description": "A simple ORM for Google/Firebase Cloud Firestore."

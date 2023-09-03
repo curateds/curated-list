@@ -99,6 +99,11 @@
     "description": "Find secrets and passwords in container images and file systems."
   },
   {
+    "name": "Cognito Scanner",
+    "url": "https://github.com/padok-team/cognito-scanner",
+    "description": "CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation"
+  },
+  {
     "name": "BoxyHQ",
     "url": "https://github.com/retracedhq/retraced",
     "description": "Open source API for security and compliance audit logging."
@@ -168,6 +173,11 @@
     "description": "Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation."
   },
   {
+    "name": "Substation",
+    "url": "https://github.com/brexhq/substation",
+    "description": "Substation is a cloud native data pipeline and transformation toolkit written in Go."
+  },
+  {
     "name": "Snort",
     "url": "https://www.snort.org/",
     "description": "Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS)created by Martin Roesch in 1998. Snort is now developed by Sourcefire, of which Roesch is the founder and CTO. In 2009, Snort entered InfoWorld's Open Source Hall of Fame as one of the \"greatest [pieces of] open source software of all time\"."
@@ -181,6 +191,11 @@
     "name": "zeek2es",
     "url": "https://github.com/corelight/zeek2es",
     "description": "An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs!"
+  },
+  {
+    "name": "DrKeithJones.com",
+    "url": "https://drkeithjones.com",
+    "description": "A blog on cyber security and network security monitoring."
   },
   {
     "name": "OSSEC",
@@ -1361,6 +1376,11 @@
     "name": "Azure Security",
     "url": "https://www.manning.com/books/azure-security-2",
     "description": "A practical guide to the native security services of Microsoft Azure."
+  },
+  {
+    "name": "Node.js Secure Coding: Defending Against Command Injection Vulnerabilities",
+    "url": "https://www.nodejs-security.com",
+    "description": "Learn secure coding conventions in Node.js by executing command injection attacks on real-world npm packages and analyzing vulnerable code."
   },
   {
     "name": "Android Security Awesome",

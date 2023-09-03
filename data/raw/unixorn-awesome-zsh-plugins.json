@@ -150,6 +150,10 @@
     "url": "https://github.com/zdharma-continuum/zinit"
   },
   {
+    "name": "zinit-4",
+    "url": "https://github.com/psprint/Zinit-4"
+  },
+  {
     "name": "zit",
     "url": "https://github.com/thiagokokada/zit"
   },
@@ -333,6 +337,11 @@
     "name": "A Beautifully Productive Terminal Experience",
     "url": "https://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/",
     "description": "Tutorial using a combination of iTerm 2, ZSH, Prezto, Tmux, and Tmuxinator to make for an extremely productive developer workflow."
+  },
+  {
+    "name": "A Guide to ZSH Completion With Examples",
+    "url": "https://thevaluable.dev/zsh-completion-guide-examples/",
+    "description": "Explains ZSH autocompletion configuration with examples."
   },
   {
     "name": "adamnorwood-zsh",
@@ -1847,11 +1856,6 @@
     "name": "gdbm",
     "url": "https://github.com/zdharma-continuum/zgdbm",
     "description": "Adds GDBM as a plugin."
-  },
-  {
-    "name": "geeknote",
-    "url": "https://github.com/s7anley/zsh-geeknote",
-    "description": "Geeknote plugin for ZSH."
   },
   {
     "name": "gentoo",
