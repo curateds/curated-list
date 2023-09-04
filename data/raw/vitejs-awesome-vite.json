@@ -934,11 +934,6 @@
     "description": "This is a plugin that automatically creates a type file when using the CSS module type-safely."
   },
   {
-    "name": "vite-esbuild-typescript-checker",
-    "url": "https://github.com/time4dev/vite-esbuild-typescript-checker",
-    "description": "Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin."
-  },
-  {
     "name": "vite-plugin-simple-gql",
     "url": "https://github.com/alansikora/vite-plugin-simple-gql",
     "description": "Easily import .graphql and .gql files."
@@ -1134,6 +1129,11 @@
     "description": "Pack your SVG files in one spritemap file and use them with <svg>/<img> and directly in your CSS."
   },
   {
+    "name": "vite-plugin-json-server",
+    "url": "https://github.com/yracnet/vite-plugin-json-server",
+    "description": "A seamless integration of JSON Server library."
+  },
+  {
     "name": "vite-plugin-react-mpa",
     "url": "https://github.com/dingff/vite-plugin-react-mpa",
     "description": "An out-of-the-box MPA."
@@ -1227,6 +1227,11 @@
     "name": "vite-plugin-thumbhash",
     "url": "https://github.com/cijiugechu/vite-plugin-thumbhash",
     "description": "Load and transform images using ThumbHash."
+  },
+  {
+    "name": "unplugin-vue-images",
+    "url": "https://github.com/vtrbo/unplugin-vue-images",
+    "description": "Use the image resource as a component."
   },
   {
     "name": "vite-plugin-importer",
@@ -1332,6 +1337,11 @@
     "name": "vite-plugin-copy-dts",
     "url": "https://github.com/biggerstar/vite-plugin-copy-dts",
     "description": "Merge declare module and declare global to target d.ts."
+  },
+  {
+    "name": "unplugin-zip-pack",
+    "url": "https://github.com/iamspark1e/unplugin-zip-pack",
+    "description": "Zip your dist with filter function support."
   },
   {
     "name": "vite-plugin-html",
@@ -1542,6 +1552,11 @@
     "name": "vite-plugin-turbo-console",
     "url": "https://github.com/yuyinws/vite-plugin-turbo-console",
     "description": "Enhance the readability of console.log()."
+  },
+  {
+    "name": "vite-plugin-html-injection",
+    "url": "https://github.com/altrusl/vite-plugin-html-injection",
+    "description": "Inject HTML, JavaScript and CSS code snippets into the index.html."
   },
   {
     "name": "vite-tsconfig-paths",
@@ -1784,6 +1799,11 @@
     "description": "Start the project and automatically copy the terminal's network URL."
   },
   {
+    "name": "vite-plugin-module-list",
+    "url": "https://github.com/davidbonnet/vite-plugin-module-list",
+    "description": "Automatically import the modules found in a specified folder."
+  },
+  {
     "name": "mocha-vite-puppeteer",
     "url": "https://github.com/larsthorup/mocha-vite-puppeteer",
     "description": "Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher."
@@ -1810,7 +1830,7 @@
   },
   {
     "name": "@vitejs/plugin-vue",
-    "url": "https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue",
+    "url": "https://github.com/vitejs/vite-plugin-vue",
     "description": "Official Vue 3 support."
   },
   {
@@ -1964,6 +1984,11 @@
     "description": "All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod."
   },
   {
+    "name": "generouted",
+    "url": "https://github.com/oedotme/generouted",
+    "description": "Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more."
+  },
+  {
     "name": "vite-plugin-svgr",
     "url": "https://github.com/pd4d10/vite-plugin-svgr",
     "description": "Transform SVGs into React components."
@@ -1989,6 +2014,11 @@
     "description": "Uses Vite's launch middleware to enable alt+click to go to component."
   },
   {
+    "name": "vite-react-ssg",
+    "url": "https://github.com/Daydreamer-riri/vite-react-ssg",
+    "description": "Static-site generation for React."
+  },
+  {
     "name": "@preact/preset-vite",
     "url": "https://github.com/preactjs/preset-vite",
     "description": "Preact preset. HMR, automatic Preact inject, removal of DevTools in prod."
@@ -2012,6 +2042,11 @@
     "name": "vite-plugin-solid-svg",
     "url": "https://github.com/jfgodoy/vite-plugin-solid-svg",
     "description": "Import SVG files as Solid.js Components."
+  },
+  {
+    "name": "generouted",
+    "url": "https://github.com/oedotme/generouted/tree/main/packages/solid-router",
+    "description": "Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more."
   },
   {
     "name": "vite-plugin-elm",
@@ -2361,11 +2396,6 @@
     "name": "CRA migration guide",
     "url": "https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md",
     "description": "A step-by-step guide for migrating a project from Create React App."
-  },
-  {
-    "name": "CRA to Nx + Vite tool",
-    "url": "https://github.com/nrwl/nx/tree/master/packages/cra-to-nx",
-    "description": "An automated tool to convert a Create React App project to use Nx + Vite + Vitest."
   },
   {
     "name": "VitePress",

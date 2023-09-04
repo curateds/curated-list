@@ -121,13 +121,13 @@
   },
   {
     "name": "EasyBuild",
-    "url": "https://easybuild.readthedocs.org/en/latest/",
-    "description": "EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way."
+    "url": "https://easybuild.io/",
+    "description": "EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. (Source Code) GPL-2.0 Python"
   },
   {
     "name": "environment-modules Lmod",
     "url": "https://www.tacc.utexas.edu/research-development/tacc-projects/lmod",
-    "description": "Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem."
+    "description": "Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. (Source Code) MIT Lua"
   },
   {
     "name": "HPCBIOS",
@@ -137,7 +137,7 @@
   {
     "name": "Spack",
     "url": "https://spack.io/",
-    "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers."
+    "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers. (Source Code) MIT/Apache-2.0 Python"
   },
   {
     "name": "Eggdrop",
@@ -156,7 +156,8 @@
   },
   {
     "name": "Chocolatey",
-    "url": "https://chocolatey.org/"
+    "url": "https://chocolatey.org/",
+    "description": "The package manager for Windows. (Source Code) Apache-2.0 C#/PowerShell"
   },
   {
     "name": "Clonezilla",
@@ -171,72 +172,72 @@
   {
     "name": "CloudSlang",
     "url": "http://www.cloudslang.io/",
-    "description": "Flow-based orchestration tool for managing deployed applications, with Docker capabilities. (Source Code)"
+    "description": "Flow-based orchestration tool for managing deployed applications, with Docker capabilities. (Source Code) Apache-2.0 Java"
   },
   {
     "name": "CloudStack",
     "url": "http://cloudstack.apache.org/",
-    "description": "Cloud computing software for creating, managing, and deploying infrastructure cloud services. (Source Code)"
+    "description": "Cloud computing software for creating, managing, and deploying infrastructure cloud services. (Source Code) Apache-2.0 Java/Python"
   },
   {
     "name": "Cobbler",
     "url": "http://cobbler.github.io/",
-    "description": "Cobbler is a Linux installation server that allows for rapid setup of network installation environments. (Source Code)"
+    "description": "Cobbler is a Linux installation server that allows for rapid setup of network installation environments. (Source Code) GPL-2.0 Python"
   },
   {
     "name": "Genesis",
     "url": "https://github.com/starkandwayne/genesis",
-    "description": "A template framework for multi-environment BOSH deployments."
+    "description": "A template framework for multi-environment BOSH deployments. MIT Perl"
   },
   {
     "name": "Overcast",
     "url": "http://andrewchilds.github.io/overcast/",
-    "description": "Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. (SOurce Code)"
+    "description": "Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. (Source Code) MIT Nodejs"
   },
   {
     "name": "Collins",
     "url": "http://tumblr.github.io/collins/",
-    "description": "At Tumblr, it's the infrastructure source of truth and knowledge."
+    "description": "At Tumblr, it's the infrastructure source of truth and knowledge. (Source Code) Apache-2.0 Docker/Scala"
   },
   {
     "name": "i-doit",
     "url": "http://www.i-doit.org/",
-    "description": "IT Documentation and CMDB."
+    "description": "IT Documentation and CMDB. AGPL-3.0 PHP"
   },
   {
     "name": "iTop",
     "url": "http://www.combodo.com/itop-193",
-    "description": "Complete ITIL web based service management tool."
+    "description": "Complete ITIL web based service management tool. (Source Code) AGPL-3.0 PHP"
   },
   {
     "name": "netbox",
-    "url": "https://github.com/digitalocean/netbox",
-    "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool"
+    "url": "https://netbox.dev/",
+    "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool. (Demo, Source Code) Apache-2.0 Python"
   },
   {
     "name": "Ansible",
     "url": "https://www.ansible.com/",
-    "description": "Provisioning, configuration management, and application-deployment tool. (Source Code)"
+    "description": "Provisioning, configuration management, and application-deployment tool. (Source Code) GPL-3.0 Python"
   },
   {
     "name": "CFEngine",
     "url": "https://cfengine.com/",
-    "description": "Configuration management system for automated configuration and maintenance of large-scale computer systems. (Source Code)"
+    "description": "Configuration management system for automated configuration and maintenance of large-scale computer systems. (Source Code) GPL-3.0 C"
   },
   {
     "name": "Chef",
     "url": "https://www.chef.io/products/chef-infra",
-    "description": "Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration \"recipes\". (Source Code)"
+    "description": "Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration \"recipes\". (Source Code) Apache-2.0 Ruby"
   },
   {
     "name": "Puppet",
     "url": "https://www.puppet.com/",
-    "description": "Software configuration management tool which includes its own declarative language to describe system configuration. (Source Code)"
+    "description": "Software configuration management tool which includes its own declarative language to describe system configuration. (Source Code) Apache-2.0 Ruby/C"
   },
   {
     "name": "Salt",
     "url": "https://docs.saltproject.io/",
-    "description": "Event-driven IT automation, remote task execution, and configuration management software. (Source Code)"
+    "description": "Event-driven IT automation, remote task execution, and configuration management software. (Source Code) Apache-2.0 Python"
   },
   {
     "name": "Buildbot",
@@ -361,37 +362,37 @@
   {
     "name": "Capistrano",
     "url": "http://capistranorb.com/",
-    "description": "Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based)."
+    "description": "Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based). (Source Code) MIT Ruby"
   },
   {
     "name": "Fabric",
     "url": "http://www.fabfile.org/",
-    "description": "Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks."
+    "description": "Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. (Source Code) BSD-2-Clause Python"
   },
   {
     "name": "Mina",
     "url": "http://nadarei.co/mina/",
-    "description": "Really fast deployer and server automation tool (rake based)."
+    "description": "Really fast deployer and server automation tool (rake based). (Source Code) MIT Ruby"
   },
   {
     "name": "munki",
     "url": "https://www.munki.org/munki/",
-    "description": "Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs."
+    "description": "Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. (Source Code) Apache-2.0 Python"
   },
   {
     "name": "Vlad the Deployer",
     "url": "https://github.com/seattlerb/vlad",
-    "description": "Deployment automation (rake based)."
+    "description": "Deployment automation (rake based). MIT Ruby"
   },
   {
     "name": "Diagrams.net",
     "url": "https://app.diagrams.net/",
-    "description": "A.K.A. Draw.io. Easy to use Diagram UI with a plethora of templates."
+    "description": "A.K.A. Draw.io. Easy to use Diagram UI with a plethora of templates. (Source Code) Apache-2.0 JavaScript/Docker"
   },
   {
     "name": "DrawThe.Net",
     "url": "http://go.drawthe.net/",
-    "description": "Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams."
+    "description": "Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. (Source Code) MIT JavaScript"
   },
   {
     "name": "Kroki",
@@ -401,7 +402,7 @@
   {
     "name": "Mermaid",
     "url": "https://mermaid-js.github.io/mermaid-live-editor/",
-    "description": "Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana."
+    "description": "Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. (Source Code) MIT Nodejs/Docker"
   },
   {
     "name": "Ceph",
@@ -566,77 +567,77 @@
   {
     "name": "Atom Community",
     "url": "https://github.com/atom-community/atom",
-    "description": "A fork of atom A hackable text editor from Github."
+    "description": "A fork of atom A hackable text editor from Github. MIT JavaScript"
   },
   {
     "name": "Brackets",
     "url": "http://brackets.io/",
-    "description": "Code editor for web designers and front-end developers."
+    "description": "Code editor for web designers and front-end developers. (Source Code) MIT JavaScript"
   },
   {
     "name": "Eclipse",
     "url": "http://www.eclipse.org/",
-    "description": "IDE written in Java with an extensible plug-in system."
+    "description": "IDE written in Java with an extensible plug-in system. (Source Code) EPL-1.0 Java"
   },
   {
     "name": "Geany",
     "url": "http://www.geany.org/",
-    "description": "GTK2 text editor."
+    "description": "GTK2 text editor. (Source Code) GPL-2.0 C/C++"
   },
   {
     "name": "GNU Emacs",
     "url": "http://www.gnu.org/software/emacs/",
-    "description": "An extensible, customizable text editor-and more."
+    "description": "An extensible, customizable text editor-and more. (Source Code) GPL-3.0 C"
   },
   {
     "name": "Haroopad",
     "url": "http://pad.haroopress.com/",
-    "description": "Markdown editor with live preview."
+    "description": "Markdown editor with live preview. (Source Code) GLP-3.0 JavaScript"
   },
   {
     "name": "ICEcoder",
     "url": "https://icecoder.net/",
-    "description": "Code editor awesomeness, built with common web languages."
+    "description": "Code editor awesomeness, built with common web languages. (Demo, Source Code) MIT PHP"
   },
   {
     "name": "jotgit",
     "url": "https://github.com/jdleesmiller/jotgit",
-    "description": "Git-backed real-time collaborative code editing."
+    "description": "Git-backed real-time collaborative code editing. MIT Nodejs"
   },
   {
     "name": "KDevelop",
     "url": "https://www.kdevelop.org/",
-    "description": "IDE by the people behind KDE."
+    "description": "IDE by the people behind KDE. (Source Code) GFDL-1.2 C++"
   },
   {
     "name": "Micro",
     "url": "https://micro-editor.github.io/",
-    "description": "A modern and intuitive terminal-based text editor"
+    "description": "A modern and intuitive terminal-based text editor. (Source Code) MIT Go"
   },
   {
     "name": "Nano",
     "url": "http://nano-editor.org",
-    "description": "Easy to use, customizable text editor."
+    "description": "Easy to use, customizable text editor. (Source Code) GPL-3.0 C"
   },
   {
     "name": "Notepad++",
     "url": "https://notepad-plus-plus.org/",
-    "description": "GPLv2 multi-language editor with syntax highlighting for Windows."
+    "description": "GPLv2 multi-language editor with syntax highlighting for Windows. (Source Code) GPL-2.0 C++"
   },
   {
     "name": "TextMate",
-    "url": "https://github.com/textmate/textmate/",
-    "description": "A graphical text editor for OS X."
+    "url": "https://macromates.com/",
+    "description": "A graphical text editor for OS X. (Source Code) GPL-3.0 C++"
   },
   {
     "name": "Vim",
     "url": "http://www.vim.org",
-    "description": "A highly configurable text editor built to enable efficient editing."
+    "description": "A highly configurable text editor built to enable efficient editing. (Source Code) Vim C"
   },
   {
     "name": "VSCodium",
-    "url": "https://github.com/VSCodium/vscodium",
-    "description": "An open source cross-platform extensible code editor based on VS Code by Microsoft removing their non-free additions."
+    "url": "https://vscodium.com/",
+    "description": "An open source cross-platform extensible code editor based on VS Code by Microsoft removing their non-free additions. (Source Code) MIT TypeScript"
   },
   {
     "name": "389 Directory Server",
@@ -671,32 +672,32 @@
   {
     "name": "BounCA",
     "url": "https://bounca.org/",
-    "description": "A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates."
+    "description": "A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. (Source Code) Apache-2.0 Python"
   },
   {
     "name": "easy-rsa",
     "url": "https://github.com/OpenVPN/easy-rsa",
-    "description": "bash script to build and manage a PKI CA."
+    "description": "bash script to build and manage a PKI CA. GPL-2.0 Shell"
   },
   {
     "name": "Fusion Directory",
     "url": "https://www.fusiondirectory.org",
-    "description": "Improve the Management of the services and the company directory based on OpenLDAP."
+    "description": "Improve the Management of the services and the company directory based on OpenLDAP. (Source Code) GPL-2.0 PHP"
   },
   {
     "name": "Indieauth",
     "url": "https://indieauth.com/",
-    "description": "Sign in with your domain name (using the rel-me-auth protocol)."
+    "description": "Sign in with your domain name (using the rel-me-auth protocol). (Source Code) Apache-2.0 Ruby"
   },
   {
     "name": "LDAP Account Manager (LAM)",
     "url": "https://www.ldap-account-manager.org/lamcms/",
-    "description": "Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory."
+    "description": "Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. (Source Code) GPL-3.0 PHP"
   },
   {
     "name": "Libravatar",
     "url": "https://www.libravatar.org/",
-    "description": "Libravatar is a service which delivers your avatar (profile picture) to other websites."
+    "description": "Libravatar is a service which delivers your avatar (profile picture) to other websites. (Source Code) AGPL-3.0 Python"
   },
   {
     "name": "OpenID Connect",
@@ -711,21 +712,22 @@
   {
     "name": "Pomerium",
     "url": "https://www.pomerium.io/",
-    "description": "An identity and context aware access-proxy inspired by BeyondCorp."
+    "description": "An identity and context aware access-proxy inspired by BeyondCorp. (Source Code) Apache-2.0 Docker/Go"
   },
   {
     "name": "Samba",
-    "url": "https://www.samba.org/"
+    "url": "https://www.samba.org/",
+    "description": "Active Directory and CIFS protocol implementation. (Source Code) GPL-3.0 C"
   },
   {
     "name": "Smallstep Certificates",
     "url": "https://smallstep.com/certificates/",
-    "description": "A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management."
+    "description": "A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. (Source Code) Apache-2.0 Go"
   },
   {
     "name": "ZITADEL",
-    "url": "https://github.com/caos/zitadel",
-    "description": "Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management."
+    "url": "https://zitadel.com/",
+    "description": "Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. (Source Code) Apache-2.0 Go/Docker/K8S"
   },
   {
     "name": "Authelia",
@@ -804,7 +806,8 @@
   },
   {
     "name": "ImapSync",
-    "url": "http://imapsync.lamiral.info/"
+    "url": "http://imapsync.lamiral.info/",
+    "description": "Simple IMAP migration tool for copying mailboxes to other servers. (Source Code)"
   },
   {
     "name": "Mutt",
@@ -813,7 +816,8 @@
   },
   {
     "name": "Sylpheed",
-    "url": "http://sylpheed.sraoss.jp/en/"
+    "url": "http://sylpheed.sraoss.jp/en/",
+    "description": "Still developed predecessor to Claws Mail, lightweight mail client. (Source Code)"
   },
   {
     "name": "Thunderbird",
@@ -1078,7 +1082,7 @@
   {
     "name": "DadaMail",
     "url": "http://dadamailproject.com/",
-    "description": "Mailing List Manager, written in Perl."
+    "description": "Mailing List Manager, written in Perl. (Source Code) GPL-2.0 Perl"
   },
   {
     "name": "Lewsnetter",
@@ -1153,17 +1157,17 @@
   {
     "name": "Remmina",
     "url": "https://www.remmina.org/",
-    "description": "Feature-rich remote desktop application for linux and other unixes. (Source Code)"
+    "description": "Feature-rich remote desktop application for linux and other unixes. (Source Code) GPL-2.0 C"
   },
   {
     "name": "Tiger VNC",
     "url": "https://tigervnc.org/",
-    "description": "High-performance, multi-platform VNC client and server. (Source Code)"
+    "description": "High-performance, multi-platform VNC client and server. (Source Code) GPL-2.0 C++"
   },
   {
     "name": "X2go",
     "url": "https://wiki.x2go.org/doku.php",
-    "description": "X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. (Source Code)"
+    "description": "X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. (Source Code) GPL-2.0 Perl"
   },
   {
     "name": "DD-WRT",
@@ -1222,7 +1226,8 @@
   },
   {
     "name": "LXD",
-    "url": "https://linuxcontainers.org/lxd/"
+    "url": "https://linuxcontainers.org/lxd/",
+    "description": "a container \"hypervisor\" and a better UX for LXC. (Source Code) Apache-2.0 Go"
   },
   {
     "name": "OpenVZ",
@@ -1246,32 +1251,33 @@
   },
   {
     "name": "grml",
-    "url": "https://grml.org"
+    "url": "https://grml.org",
+    "description": "bootable Debian Live CD with powerful CLI tools. (Source Code) GPL-3.0 Shell"
   },
   {
     "name": "mitmproxy",
     "url": "http://mitmproxy.org/",
-    "description": "A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems."
+    "description": "A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. (Source Code) MIT Python"
   },
   {
     "name": "mtr",
     "url": "https://www.bitwizard.nl/mtr/",
-    "description": "Network utility that combines traceroute and ping."
+    "description": "Network utility that combines traceroute and ping. (Source Code) GPL-2.0 C"
   },
   {
     "name": "perf-tools",
     "url": "https://github.com/brendangregg/perf-tools",
-    "description": "Performance analysis tools based on Linux perf_events (aka perf) and ftrace."
+    "description": "Performance analysis tools based on Linux perf_events (aka perf) and ftrace. GPL-2.0 Shell"
   },
   {
     "name": "Sysdig",
     "url": "http://www.sysdig.org/",
-    "description": "Capture system state and activity from a running Linux instance, then save, filter and analyze."
+    "description": "Capture system state and activity from a running Linux instance, then save, filter and analyze. (Source Code) Apache-2.0 Docker/Lua/C"
   },
   {
     "name": "Wireshark",
     "url": "https://www.wireshark.org/",
-    "description": "The world's foremost network protocol analyzer."
+    "description": "The world's foremost network protocol analyzer. (Source Code) GPL-2.0 C"
   },
   {
     "name": "Darcs",
@@ -1311,12 +1317,12 @@
   {
     "name": "Ganeti",
     "url": "http://www.ganeti.org/",
-    "description": "Cluster virtual server management software tool built on top of KVM and Xen."
+    "description": "Cluster virtual server management software tool built on top of KVM and Xen. (Source Code) BSD-2-Clause Python/Haskell"
   },
   {
     "name": "KVM",
     "url": "http://www.linux-kvm.org",
-    "description": "Linux kernel virtualization infrastructure."
+    "description": "Linux kernel virtualization infrastructure. (Source Code) GPL-2.0/LGPL-2.0 C"
   },
   {
     "name": "OpenNebula",
@@ -1331,32 +1337,32 @@
   {
     "name": "oVirt",
     "url": "http://www.ovirt.org/",
-    "description": "Manages virtual machines, storage and virtual networks."
+    "description": "Manages virtual machines, storage and virtual networks. (Source Code) Apache-2.0 Java"
   },
   {
     "name": "Packer",
     "url": "https://www.packer.io/",
-    "description": "A tool for creating identical machine images for multiple platforms from a single source configuration."
+    "description": "A tool for creating identical machine images for multiple platforms from a single source configuration. (Source Code) MPL-2.0 Go"
   },
   {
     "name": "Proxmox VE",
     "url": "https://www.proxmox.com/proxmox-ve",
-    "description": "Virtualization management solution."
+    "description": "Virtualization management solution. (Source Code) GPL-2.0 Perl/Shell"
   },
   {
     "name": "QEMU",
     "url": "http://www.qemu.org/",
-    "description": "QEMU is a generic machine emulator and virtualizer."
+    "description": "QEMU is a generic machine emulator and virtualizer. (Source Code) LGPL-2.1 C"
   },
   {
     "name": "Vagrant",
     "url": "https://www.vagrantup.com/",
-    "description": "Tool for building complete development environments."
+    "description": "Tool for building complete development environments. (Source Code) BUSL-1.1 Ruby"
   },
   {
     "name": "VirtualBox",
     "url": "https://www.virtualbox.org/",
-    "description": "Virtualization product from Oracle Corporation."
+    "description": "Virtualization product from Oracle Corporation. (Source Code) GPL-3.0/CDDL-1.0 C++"
   },
   {
     "name": "XCP-ng",
@@ -1366,37 +1372,37 @@
   {
     "name": "Xen",
     "url": "http://www.xenproject.org/",
-    "description": "Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures."
+    "description": "Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures. (Source Code) GPL-2.0 C"
   },
   {
     "name": "Dockovpn",
     "url": "https://dockovpn.io",
-    "description": "Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds."
+    "description": "Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. (Source Code) GPL-2.0 Docker"
   },
   {
     "name": "Firezone",
     "url": "https://www.firez.one/",
-    "description": "WireGuard based VPN Server and Firewall."
+    "description": "WireGuard based VPN Server and Firewall. (Source Code) Apache-2.0 Docker"
   },
   {
     "name": "Headscale",
     "url": "https://github.com/juanfont/headscale",
-    "description": "Self-hostable fork of Tailscale, cross-platform clients, simple to use, built-in (currently experimental) monitoring tools."
+    "description": "Self-hostable fork of Tailscale, cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. BSD-3-Clause Go"
   },
   {
     "name": "Nebula",
     "url": "https://github.com/slackhq/nebula",
-    "description": "A scalable p2p VPN with a focus on performance, simplicity and security."
+    "description": "A scalable p2p VPN with a focus on performance, simplicity and security. MIT Go"
   },
   {
     "name": "ocserv",
     "url": "http://www.infradead.org/ocserv/",
-    "description": "Cisco AnyConnect-compatible VPN server"
+    "description": "Cisco AnyConnect-compatible VPN server (Source Code) GPL-2.0 C"
   },
   {
     "name": "OpenVPN",
     "url": "https://community.openvpn.net",
-    "description": "Uses a custom security protocol that utilizes SSL/TLS for key exchange."
+    "description": "Uses a custom security protocol that utilizes SSL/TLS for key exchange. (Source Code) GPL-2.0 C"
   },
   {
     "name": "PiVPN",
@@ -1411,22 +1417,22 @@
   {
     "name": "SoftEther",
     "url": "https://www.softether.org/",
-    "description": "Multi-protocol software VPN with advanced features"
+    "description": "Multi-protocol software VPN with advanced features (Source Code) Apache-2.0 C"
   },
   {
     "name": "sshuttle",
     "url": "https://github.com/sshuttle/sshuttle",
-    "description": "Poor man's VPN."
+    "description": "Poor man's VPN. LGPL-2.1 Python"
   },
   {
     "name": "strongSwan",
     "url": "https://www.strongswan.org/",
-    "description": "Complete IPsec implementation for Linux."
+    "description": "Complete IPsec implementation for Linux. (Source Code) GPL-2.0 C"
   },
   {
     "name": "tinc",
     "url": "http://www.tinc-vpn.org/",
-    "description": "Distributed p2p VPN."
+    "description": "Distributed p2p VPN. (Source Code) GPL-2.0 C"
   },
   {
     "name": "WireGuard",
@@ -1499,6 +1505,26 @@
     "description": "BSD 3-Clause \"New\" or \"Revised\""
   },
   {
+    "name": "Business Source License 1.1",
+    "url": "https://spdx.org/licenses/BUSL-1.1.html",
+    "description": "Business Source License 1.1"
+  },
+  {
+    "name": "Common Development and Distribution License 1.0",
+    "url": "https://spdx.org/licenses/CDDL-1.0.html",
+    "description": "Common Development and Distribution License 1.0"
+  },
+  {
+    "name": "Eclipse Public License 1.0",
+    "url": "https://spdx.org/licenses/EPL-1.0.html",
+    "description": "Eclipse Public License 1.0"
+  },
+  {
+    "name": "GNU Free Documentation License 1.2",
+    "url": "https://spdx.org/licenses/GFDL-1.2.html",
+    "description": "GNU Free Documentation License 1.2"
+  },
+  {
     "name": "GNU General Public License 2.0",
     "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
     "description": "GNU General Public License 2.0"
@@ -1507,6 +1533,16 @@
     "name": "GNU General Public License 3.0",
     "url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
     "description": "GNU General Public License 3.0"
+  },
+  {
+    "name": "GNU Library General Public License v2 only",
+    "url": "https://spdx.org/licenses/LGPL-2.0.html",
+    "description": "GNU Library General Public License v2 only"
+  },
+  {
+    "name": "GNU Lesser General Public License v2.1 only",
+    "url": "https://spdx.org/licenses/LGPL-2.1.html",
+    "description": "GNU Lesser General Public License v2.1 only"
   },
   {
     "name": "MIT License",
@@ -1519,8 +1555,14 @@
     "description": "Mozilla Public License"
   },
   {
+    "name": "Vim License",
+    "url": "https://spdx.org/licenses/Vim.html",
+    "description": "Vim License"
+  },
+  {
     "name": "ArsTechnica OpenForum",
-    "url": "http://arstechnica.com/civis/"
+    "url": "http://arstechnica.com/civis/",
+    "description": "IT Forum which is attached to a large news site."
   },
   {
     "name": "Reddit",
@@ -1542,15 +1584,18 @@
   },
   {
     "name": "Spiceworks Community",
-    "url": "https://community.spiceworks.com/start"
+    "url": "https://community.spiceworks.com/start",
+    "description": "General enterprise IT news and small articles."
   },
   {
     "name": "StackExchange Network",
-    "url": "https://stackexchange.com/sites#technology"
+    "url": "https://stackexchange.com/sites#technology",
+    "description": "Q&A communities."
   },
   {
     "name": "Server Fault",
-    "url": "https://serverfault.com/"
+    "url": "https://serverfault.com/",
+    "description": "StackExchange community for system and network administrators."
   },
   {
     "name": "AlternativeTo",

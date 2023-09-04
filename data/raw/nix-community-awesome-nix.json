@@ -595,6 +595,11 @@
     "description": "mkDerivation for sbt, similar to buildGoModule."
   },
   {
+    "name": "zon2nix",
+    "url": "https://github.com/nix-community/zon2nix",
+    "description": "Convert the dependencies in build.zig.zon to a Nix expression."
+  },
+  {
     "name": "base16.nix",
     "url": "https://github.com/SenchoPens/base16.nix",
     "description": "Flake way to theme programs in base16 colorschemes, mustache template support included."
