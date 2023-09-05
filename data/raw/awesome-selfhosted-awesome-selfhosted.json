@@ -2365,11 +2365,6 @@
     "description": "New multipurpose rss reader, live stream, mashup, aggregation web application. (Source Code) GPL-3.0 PHP"
   },
   {
-    "name": "Sismics Reader",
-    "url": "https://www.sismics.com/reader/",
-    "description": "Free and open source feeds reader, including all major Google Reader features. (Demo, Source Code) GPL-2.0 Java"
-  },
-  {
     "name": "Stringer",
     "url": "https://github.com/stringer-rss/stringer",
     "description": "Work-in-progress self-hosted, anti-social RSS reader. MIT Ruby"
@@ -2913,21 +2908,6 @@
     "name": "Group Office",
     "url": "https://www.group-office.com",
     "description": "Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. (Source Code) AGPL-3.0 PHP"
-  },
-  {
-    "name": "Horde",
-    "url": "https://www.horde.org/",
-    "description": "The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. (Demo, Source Code) GPL-2.0 PHP"
-  },
-  {
-    "name": "HRCloud2",
-    "url": "https://github.com/zelon88/HRCloud2",
-    "description": "Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. GPL-3.0 PHP"
-  },
-  {
-    "name": "Kolab",
-    "url": "https://kolab.org/",
-    "description": "Kolab community is a unified communication and collaboration system. (Source Code) GPL-2.0/LGPL-2.1/GPL-3.0 C++/Python/PHP"
   },
   {
     "name": "Openmeetings",
@@ -4370,11 +4350,6 @@
     "description": "Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. (Source Code) GPL-3.0 Docker"
   },
   {
-    "name": "pacebin",
-    "url": "https://paste.swurl.xyz/",
-    "description": "A dead-simple, self-hostable, filesystem-backed pastebin, written in C using Mongoose. (Source Code) AGPL-3.0 C"
-  },
-  {
     "name": "Password Pusher",
     "url": "https://pwpush.com",
     "description": "A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. (Source Code) GPL-3.0 Docker"
@@ -4813,11 +4788,6 @@
     "name": "Chowdown.io",
     "url": "https://chowdown.io/",
     "description": "Simple recipes in Markdown format. (Source Code) Unlicense Ruby"
-  },
-  {
-    "name": "Groceri.es",
-    "url": "https://groceri.es/",
-    "description": "Web-based application to manage your recipes and plan your meals ahead. groceri.es keeps track of your menu plans and generates a groceries list for you. (Source Code) MIT Docker/Python"
   },
   {
     "name": "kcal",
@@ -5375,6 +5345,11 @@
     "description": "A fast lightweight web interface for git repositories. (Source Code) GPL-2.0 C"
   },
   {
+    "name": "Forgejo",
+    "url": "https://forgejo.org",
+    "description": "A lightweight software forge focused on scaling, federation, and privacy (fork of Gitea). (Demo, Source Code, Clients) MIT Docker/Go"
+  },
+  {
     "name": "Fossil",
     "url": "https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki",
     "description": "Distributed version control system featuring wiki and bug tracker. BSD-2-Clause-FreeBSD C"
@@ -5828,11 +5803,6 @@
     "name": "Pastr",
     "url": "https://github.com/hossainalhaidari/pastr",
     "description": "Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. (Demo) MIT Go"
-  },
-  {
-    "name": "ReducePy",
-    "url": "https://github.com/abdullahselek/ReducePy",
-    "description": "URL shortener service using Tornado and Redis runs on Docker and Kubernetes. MIT Python"
   },
   {
     "name": "Shlink",

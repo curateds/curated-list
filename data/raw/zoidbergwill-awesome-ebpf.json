@@ -492,6 +492,11 @@
     "description": "A detailed explanation of methods used to capture DNS requests at the socket filter layer."
   },
   {
+    "name": "eBPF Developer Tutorial - Learn eBPF by examples",
+    "url": "https://eunomia.dev/tutorials/",
+    "description": "Learn eBPF by examples - Start with eBPF basics and progress to advanced topics using 20+ hands-on tutorials and examples. Covers performance, networking, and security with libbpf and CO-RE. Available in Chinese and English."
+  },
+  {
     "name": "linux/samples/bpf/",
     "url": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/samples/bpf",
     "description": "In the kernel tree: some sample eBPF programs."

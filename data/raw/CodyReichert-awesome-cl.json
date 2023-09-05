@@ -1034,6 +1034,11 @@
     "description": "Common Lisp JSON reading and writing for the Kzinti. MIT."
   },
   {
+    "name": "NJSON",
+    "url": "https://github.com/atlas-engineer/njson",
+    "description": "Parser-agnostic JSON indexing (with JSON Pointer support), destructuring, and validation framework. BSD."
+  },
+  {
     "name": "json-mop",
     "url": "https://github.com/gschjetne/json-mop",
     "description": "A metaclass for bridging CLOS and JSON objects. MIT."
@@ -1114,6 +1119,11 @@
     "description": "when a lot of projects use the “trivial-backtrace” system that just gives them a string with a backtrace, Dissect allows you to capture, step, and completely inspect the stack trace on a variety of Lisp implementations. Also very useful for logging and other situations where execution is automatically continued, but the information of the current stack is still useful to store somewhere. zlib."
   },
   {
+    "name": "ndebug",
+    "url": "https://github.com/atlas-engineer/ndebug",
+    "description": "Framework for portable GUI (or any non-standard) debuggers, based on dissect and trivial-custom-debugger. BSD."
+  },
+  {
     "name": "cl21",
     "url": "https://github.com/cl21/cl21",
     "description": "An experimental project to move Common Lisp into the 21st century. Expat."
@@ -1182,6 +1192,11 @@
     "name": "defclass-std",
     "url": "https://github.com/EuAndreh/defclass-std",
     "description": "a shortcut macro to write DEFCLASS forms quickly. LLGPL."
+  },
+  {
+    "name": "nclasses",
+    "url": "https://github.com/atlas-engineer/nclasses",
+    "description": "Syntactic sugar for class and generic function declarations. Fork of hu.dwim.defclass-star. Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. BSD."
   },
   {
     "name": "specialization-store",
@@ -3408,6 +3423,11 @@
     "name": "fof",
     "url": "https://gitlab.com/ambrevar/fof",
     "description": "File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. GPL3."
+  },
+  {
+    "name": "nfiles",
+    "url": "https://github.com/atlas-engineer/nfiles",
+    "description": "File persistence, watching, data synchronization, (per user profile) path resolution, and structured data retrieval. Has pre-defined classes for configuration files, remote fetched files, data files, Lisp-readable files and many others. BSD."
   },
   {
     "name": "file-notify",
