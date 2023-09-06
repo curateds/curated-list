@@ -54,10 +54,6 @@
     "url": "https://sr.ht/~yerinalexey/miniplug"
   },
   {
-    "name": "mzpm",
-    "url": "https://github.com/Insert-Creative-Name-Here/mzpm"
-  },
-  {
     "name": "oh-my-zsh",
     "url": "https://ohmyz.sh/"
   },
@@ -5780,6 +5776,11 @@
     "description": "Minimalist theme with git status, ruby env and python virtualenv decorators."
   },
   {
+    "name": "aifrim",
+    "url": "https://github.com/aifrim/aifrim.zsh-theme",
+    "description": "Minimalist theme with decorators for git status, truncated current directory, and package versions for javascript, rust and golang."
+  },
+  {
     "name": "air",
     "url": "https://github.com/Ivan-Kuzmichev/air",
     "description": "Minimalist theme with git status decorations."
@@ -9078,14 +9079,9 @@
     "description": "Compresses a lot of information into the prompt with color-coded status decorations."
   },
   {
-    "name": "rei (arturoalviar)",
+    "name": "rei",
     "url": "https://github.com/arturoalviar/rei-zsh-theme",
     "description": "A simple theme with the first character 零(rei), the number 0. Includes git status decorations."
-  },
-  {
-    "name": "rei (eilaluth)",
-    "url": "https://github.com/Eilaluth/rei/",
-    "description": "A minimalist theme with current directory and git status decorations."
   },
   {
     "name": "remiii",
