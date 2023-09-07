@@ -394,6 +394,11 @@
     "description": "AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript."
   },
   {
+    "name": "vue3-quick-start",
+    "url": "https://github.com/wforguo/vue3-quick-start",
+    "description": "Building an engineered Vue 3 project, integrated with Vite + Vue3 + TypeScript + ESLint + Prettier + Commitizen + Husky + LintStaged + CommitLint + AutoImport + ReleaseIt."
+  },
+  {
     "name": "vite-vue2-windicss-starter",
     "url": "https://github.com/lstoeferle/vite-vue2-windicss-starter",
     "description": "Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript."
@@ -1159,6 +1164,11 @@
     "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker."
   },
   {
+    "name": "vite-plugin-meta-env",
+    "url": "https://github.com/wei-design/vite-plugin-meta-env",
+    "description": "Define dynamic env variables in import.meta.env."
+  },
+  {
     "name": "unplugin-icons",
     "url": "https://github.com/antfu/unplugin-icons",
     "description": "Access thousands of icons as components."
@@ -1227,6 +1237,11 @@
     "name": "vite-plugin-thumbhash",
     "url": "https://github.com/cijiugechu/vite-plugin-thumbhash",
     "description": "Load and transform images using ThumbHash."
+  },
+  {
+    "name": "vite-plugin-php",
+    "url": "https://github.com/donnikitos/vite-plugin-php",
+    "description": "Load and process PHP-entry files instead of default index.html."
   },
   {
     "name": "unplugin-vue-images",
@@ -1342,6 +1357,11 @@
     "name": "unplugin-zip-pack",
     "url": "https://github.com/iamspark1e/unplugin-zip-pack",
     "description": "Zip your dist with filter function support."
+  },
+  {
+    "name": "vite-plugin-singlefile",
+    "url": "https://github.com/richardtallent/vite-plugin-singlefile",
+    "description": "Inline all JavaScript and CSS resources directly into the final dist/index.html file."
   },
   {
     "name": "vite-plugin-html",
@@ -1464,8 +1484,8 @@
     "description": "Split the index.html into smaller reusable pieces."
   },
   {
-    "name": "vite-plugin-inject-preload",
-    "url": "https://github.com/Applelo/vite-plugin-inject-preload",
+    "name": "unplugin-inject-preload",
+    "url": "https://github.com/Applelo/unplugin-inject-preload",
     "description": "Inject <link rel=\"preload\"> to your index.html based on your build assets."
   },
   {

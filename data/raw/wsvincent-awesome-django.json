@@ -740,6 +740,11 @@
     "description": "Improved user registration including social auth."
   },
   {
+    "name": "django-improved-user",
+    "url": "https://github.com/jambonsw/django-improved-user",
+    "description": "A custom Django user that authenticates via email. Follows identity and authentication best practices."
+  },
+  {
     "name": "django-organizations",
     "url": "https://github.com/bennylope/django-organizations/",
     "description": "Multi-user accounts for Django projects."

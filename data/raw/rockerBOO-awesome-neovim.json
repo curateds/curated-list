@@ -2195,6 +2195,11 @@
     "description": "\"On this day\" style calendar, which provides information about worldwide history of working class movements and liberation struggles."
   },
   {
+    "name": "subnut/nvim-ghost.nvim",
+    "url": "https://github.com/subnut/nvim-ghost.nvim",
+    "description": "GhostText support with zero dependencies."
+  },
+  {
     "name": "malbertzard/inline-fold.nvim",
     "url": "https://github.com/malbertzard/inline-fold.nvim",
     "description": "Hide certain elements inline like long CSS classes or href content."
@@ -2610,8 +2615,8 @@
     "description": "Git integration: signs, hunk actions, blame, etc."
   },
   {
-    "name": "TimUntersberger/neogit",
-    "url": "https://github.com/TimUntersberger/neogit",
+    "name": "NeogitOrg/neogit",
+    "url": "https://github.com/NeogitOrg/neogit",
     "description": "A Magit clone that may change some things to fit the Vim philosophy."
   },
   {

@@ -350,6 +350,11 @@
     "description": "A lightweight Nix library flake for painless NixOS flake configuration."
   },
   {
+    "name": "flakelight",
+    "url": "https://github.com/accelbread/flakelight",
+    "description": "A modular flake framework aiming to minimize boilerplate."
+  },
+  {
     "name": "flox",
     "url": "https://github.com/flox/flox",
     "description": "Manage and share development environments, package projects, and publish artifacts anywhere."
