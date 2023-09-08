@@ -476,12 +476,13 @@
     "description": "Firebase adapter for Capacitor Background Geolocation."
   },
   {
-    "name": "Aparajita’s plugins",
+    "name": "Aparajita plugins",
     "url": "https://github.com/aparajita?tab=repositories&q=capacitor"
   },
   {
     "name": "Biometric Auth",
-    "url": "https://github.com/aparajita/capacitor-biometric-auth"
+    "url": "https://github.com/aparajita/capacitor-biometric-auth",
+    "description": "Easy access to native biometric auth APIs on iOS and Android."
   },
   {
     "name": "Dark Mode",
@@ -490,11 +491,13 @@
   },
   {
     "name": "Logger",
-    "url": "https://github.com/aparajita/capacitor-logger"
+    "url": "https://github.com/aparajita/capacitor-logger",
+    "description": "Better logging for the web and native Ionic/Capacitor apps."
   },
   {
     "name": "Secure Storage",
-    "url": "https://github.com/aparajita/capacitor-secure-storage"
+    "url": "https://github.com/aparajita/capacitor-secure-storage",
+    "description": "Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS."
   },
   {
     "name": "Apple Pay",

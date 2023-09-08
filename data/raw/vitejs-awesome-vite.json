@@ -399,6 +399,11 @@
     "description": "Building an engineered Vue 3 project, integrated with Vite + Vue3 + TypeScript + ESLint + Prettier + Commitizen + Husky + LintStaged + CommitLint + AutoImport + ReleaseIt."
   },
   {
+    "name": "antd-vue3-admin",
+    "url": "https://github.com/Zuojiangtao/antd-vue3-admin",
+    "description": "A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4."
+  },
+  {
     "name": "vite-vue2-windicss-starter",
     "url": "https://github.com/lstoeferle/vite-vue2-windicss-starter",
     "description": "Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript."
@@ -1132,6 +1137,11 @@
     "name": "@spiriit/vite-plugin-svg-spritemap",
     "url": "https://github.com/SpiriitLabs/vite-plugin-svg-spritemap",
     "description": "Pack your SVG files in one spritemap file and use them with <svg>/<img> and directly in your CSS."
+  },
+  {
+    "name": "vite-plugin-remix",
+    "url": "https://github.com/yracnet/vite-plugin-remix",
+    "description": "Seamless integration of the Remix/Remixjs framework."
   },
   {
     "name": "vite-plugin-json-server",
@@ -2291,6 +2301,11 @@
     "name": "@fastify/fastify-dx",
     "url": "https://github.com/fastify/fastify-dx",
     "description": "Allowing you to serve static or live (SSR)."
+  },
+  {
+    "name": "vite-plugin-vercel",
+    "url": "https://github.com/magne4000/vite-plugin-vercel",
+    "description": "Vercel adapter."
   },
   {
     "name": "AEM Vite",

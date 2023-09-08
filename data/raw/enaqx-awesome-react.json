@@ -127,23 +127,9 @@
     "description": "Simple, Modular & Accessible UI Components for your React Applications"
   },
   {
-    "name": "fluentui",
-    "url": "https://github.com/microsoft/fluentui",
-    "description": "Microsoft's Fluent UI"
-  },
-  {
-    "name": "blueprint",
-    "url": "https://github.com/palantir/blueprint",
-    "description": "A React-based Palantir's UI toolkit for the web"
-  },
-  {
-    "name": "mantine",
-    "url": "https://github.com/mantinedev/mantine"
-  },
-  {
-    "name": "framework7",
-    "url": "https://github.com/framework7io/framework7",
-    "description": "Full featured HTML framework for building iOS & Android apps"
+    "name": "shadcn-ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "description": "Beautifully designed components built using Radix UI and Tailwind CSS"
   },
   {
     "name": "react-bootstrap",
@@ -151,9 +137,18 @@
     "description": "Bootstrap components built with React"
   },
   {
-    "name": "reactstrap",
-    "url": "https://github.com/reactstrap/reactstrap",
-    "description": "Simple React Bootstrap components"
+    "name": "mantine",
+    "url": "https://github.com/mantinedev/mantine"
+  },
+  {
+    "name": "fluentui",
+    "url": "https://github.com/microsoft/fluentui",
+    "description": "Microsoft's Fluent UI"
+  },
+  {
+    "name": "framework7",
+    "url": "https://github.com/framework7io/framework7",
+    "description": "Full featured HTML framework for building iOS & Android apps"
   },
   {
     "name": "semantic-ui-react",
@@ -161,44 +156,9 @@
     "description": "The official Semantic-UI-React integration"
   },
   {
-    "name": "evergreen",
-    "url": "https://github.com/segmentio/evergreen",
-    "description": "Evergreen React UI Framework by Segment"
-  },
-  {
-    "name": "grommet",
-    "url": "https://github.com/grommet/grommet",
-    "description": "A react-based framework that provides accessibility, modularity, responsiveness, and theming"
-  },
-  {
-    "name": "ariakit",
-    "url": "https://github.com/ariakit/ariakit",
-    "description": "Toolkit for building accessible web apps with React"
-  },
-  {
-    "name": "rsuite",
-    "url": "https://github.com/rsuite/rsuite",
-    "description": "A suite of React components"
-  },
-  {
-    "name": "baseweb",
-    "url": "https://github.com/uber/baseweb",
-    "description": "A React Component library implementing the Uber's Base design language"
-  },
-  {
-    "name": "eui",
-    "url": "https://github.com/elastic/eui",
-    "description": "Elastic UI Framework"
-  },
-  {
-    "name": "react-spectrum",
-    "url": "https://github.com/adobe/react-spectrum",
-    "description": "Adobe's collection of libraries and tools"
-  },
-  {
-    "name": "ring-ui",
-    "url": "https://github.com/JetBrains/ring-ui",
-    "description": "A collection of JetBrains Web UI components"
+    "name": "nextui",
+    "url": "https://github.com/nextui-org/nextui",
+    "description": "Beautiful, fast and modern React UI library"
   },
   {
     "name": "radix-primitives",
@@ -206,9 +166,14 @@
     "description": "An open-source UI component library for building high-quality web apps"
   },
   {
-    "name": "nextui",
-    "url": "https://github.com/nextui-org/nextui",
-    "description": "Beautiful, fast and modern React UI library"
+    "name": "ariakit",
+    "url": "https://github.com/ariakit/ariakit",
+    "description": "Toolkit for building accessible web apps with React"
+  },
+  {
+    "name": "react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "description": "Adobe's collection of libraries and tools"
   },
   {
     "name": "redux",

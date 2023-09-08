@@ -608,6 +608,16 @@
     "description": "A Python3 library for WSL specific tasks."
   },
   {
+    "name": "wsl-vpnkit",
+    "url": "https://github.com/sakai135/wsl-vpnkit",
+    "description": "Script providing network connectivity to WSL 2 when blocked by VPN."
+  },
+  {
+    "name": "xdg-open-wsl",
+    "url": "https://github.com/cpbotha/xdg-open-wsl",
+    "description": "xdg-open replacement for WSL that opens files and links using Windows applications."
+  },
+  {
     "name": "ghc",
     "url": "https://launchpad.net/~hvr/+archive/ubuntu/ghc-wsl",
     "description": "A version of the Glasgow Haskell Compiler built and optimized for WSL and hosted in a PPA for Debian and Ubuntu-based WSL distros."
