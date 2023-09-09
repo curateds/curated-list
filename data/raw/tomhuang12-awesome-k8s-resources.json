@@ -1,0 +1,1130 @@
+[
+  {
+    "name": "Helm",
+    "url": "https://github.com/helm/helm",
+    "description": "Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources."
+  },
+  {
+    "name": "Infra",
+    "url": "https://github.com/infrahq/infra",
+    "description": "Infra enables you to discover and access infrastructure (e.g. Kubernetes, databases). We help you connect an identity provider such as Okta or Azure active directory, and map users/groups with the permissions you set to your infrastructure."
+  },
+  {
+    "name": "K9s",
+    "url": "https://github.com/derailed/k9s",
+    "description": "K9s provides a terminal UI to interact with your Kubernetes clusters."
+  },
+  {
+    "name": "kapp",
+    "url": "https://github.com/vmware-tanzu/carvel-kapp",
+    "description": "kapp is a simple deployment tool focused on the concept of \"Kubernetes application\" — a set of resources with the same label"
+  },
+  {
+    "name": "kconnect",
+    "url": "https://github.com/fidelity/kconnect",
+    "description": "kconnect is a CLI utility that can be used to discover and securely access Kubernetes clusters across multiple operating environments."
+  },
+  {
+    "name": "Ktunnel",
+    "url": "https://github.com/omrikiei/ktunnel",
+    "description": "Ktunnel is a CLI tool that establishes a reverse tunnel between a kubernetes cluster and your local machine."
+  },
+  {
+    "name": "Kubebox",
+    "url": "https://github.com/astefanutti/kubebox",
+    "description": "Terminal and Web console for Kubernetes"
+  },
+  {
+    "name": "Kubetail",
+    "url": "https://github.com/johanhaleby/kubetail",
+    "description": "Bash script that enables you to aggregate (tail/follow) logs from multiple pods into one stream."
+  },
+  {
+    "name": "kube-shell",
+    "url": "https://github.com/cloudnativelabs/kube-shell",
+    "description": "Kube-shell: An integrated shell for working with the Kubernetes CLI."
+  },
+  {
+    "name": "kubecolor",
+    "url": "https://github.com/hidetatz/kubecolor",
+    "description": "colorizes kubectl output"
+  },
+  {
+    "name": "kubectl tree",
+    "url": "https://github.com/ahmetb/kubectl-tree",
+    "description": "A kubectl plugin to explore ownership relationships between Kubernetes objects through owners."
+  },
+  {
+    "name": "kubectl-aliases",
+    "url": "https://github.com/ahmetb/kubectl-aliases",
+    "description": "This repository contains a script to generate hundreds of convenient shell aliases for kubectl."
+  },
+  {
+    "name": "kubectx + kubens",
+    "url": "https://github.com/ahmetb/kubectx",
+    "description": "kubectx helps you switch between clusters back and forth, and kubens helps you switch between Kubernetes namespaces smoothly."
+  },
+  {
+    "name": "kubediff",
+    "url": "https://github.com/weaveworks/kubediff",
+    "description": "Kubediff is a tool for Kubernetes to show you the differences between your running configuration and your version controlled configuration."
+  },
+  {
+    "name": "kubeprompt",
+    "url": "https://github.com/jlesquembre/kubeprompt",
+    "description": "Isolates KUBECONFIG in each shell and shows the current Kubernetes context/namespace in your prompt"
+  },
+  {
+    "name": "Kubevela",
+    "url": "https://github.com/oam-dev/kubevela",
+    "description": "KubeVela is an easy-to-use yet extensible platform that enables them to design and ship applications with minimal effort."
+  },
+  {
+    "name": "Move2Kube",
+    "url": "https://github.com/konveyor/move2kube",
+    "description": "A tool to help users migrate their apps from legacy platforms like Cloud Foundry to Kubernetes and Openshift. Analyses the application source code and generates Kubernetes YAMLs, Helm Charts, Tekton Pipelines, etc. The analysis and generation can be heavily customized to produce the exact output that you want."
+  },
+  {
+    "name": "nova",
+    "url": "https://github.com/FairwindsOps/nova/",
+    "description": "Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories."
+  },
+  {
+    "name": "Plural",
+    "url": "https://github.com/pluralsh/plural",
+    "description": "Plural is a CLI tool and holistic DevOps management platform for rapidly deploying, managing, and monitoring open-source applications on Kubernetes."
+  },
+  {
+    "name": "RBAC Lookup",
+    "url": "https://github.com/FairwindsOps/rbac-lookup",
+    "description": "RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name."
+  },
+  {
+    "name": "stern",
+    "url": "https://github.com/stern/stern",
+    "description": "Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod."
+  },
+  {
+    "name": "Bootkube",
+    "url": "https://github.com/kubernetes-sigs/bootkube",
+    "description": "Bootkube is a tool for launching self-hosted Kubernetes clusters."
+  },
+  {
+    "name": "Claudie",
+    "url": "https://github.com/berops/claudie",
+    "description": "Multi-cloud clusters with each nodepool in a different cloud provider."
+  },
+  {
+    "name": "Cluster API",
+    "url": "https://github.com/kubernetes-sigs/cluster-api",
+    "description": "Cluster API is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters."
+  },
+  {
+    "name": "eksctl",
+    "url": "https://github.com/weaveworks/eksctl",
+    "description": "eksctl is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2."
+  },
+  {
+    "name": "k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "description": "k0s - Zero Friction Kubernetes (The Simple, Solid & Certified Kubernetes Distribution)"
+  },
+  {
+    "name": "k3d",
+    "url": "https://github.com/rancher/k3d",
+    "description": "k3d,and Windows.,destroy,half the memory,highly available,is a tool for running local k3s clusters in docker. It's a single binary about 20 MB. You need to have docker installed."
+  },
+  {
+    "name": "k3s",
+    "url": "https://github.com/rancher/k3s",
+    "description": "Lightweight Kubernetes. Easy to install,Kubernetes clusters from the command line."
+  },
+  {
+    "name": "kind",
+    "url": "https://github.com/kubernetes-sigs/kind",
+    "description": "kind is a tool for running local Kubernetes clusters using Docker container \"nodes\"."
+  },
+  {
+    "name": "kops",
+    "url": "https://github.com/kubernetes/kops",
+    "description": "kops helps you create,like kind,upgrade and maintain production-grade"
+  },
+  {
+    "name": "kube-aws",
+    "url": "https://github.com/kubernetes-incubator/kube-aws",
+    "description": "kube-aws is a command-line tool to create/update/destroy Kubernetes clusters on AWS."
+  },
+  {
+    "name": "kubespray",
+    "url": "https://github.com/kubernetes-sigs/kubespray",
+    "description": "Deploy a production ready Kubernetes cluster"
+  },
+  {
+    "name": "microK8s",
+    "url": "https://github.com/ubuntu/microk8s",
+    "description": "The smallest, fastest Kubernetes"
+  },
+  {
+    "name": "Minikube",
+    "url": "https://github.com/kubernetes/minikube",
+    "description": "minikube implements a local Kubernetes cluster on macOS,Linux,all in a binary less than 100 MB."
+  },
+  {
+    "name": "Talos Linux",
+    "url": "https://github.com/siderolabs/talos",
+    "description": "Talos Linux is a minimal, immutable, secure OS that installs vanilla Kubernetes - for production datacenters, K8s@home, and Edge."
+  },
+  {
+    "name": "Kubeadm",
+    "url": "https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/",
+    "description": "kubeadm performs the actions necessary to get a minimum viable cluster up and running."
+  },
+  {
+    "name": "Argo CD",
+    "url": "https://github.com/argoproj/argo-cd",
+    "description": "Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes."
+  },
+  {
+    "name": "Argo Events",
+    "url": "https://github.com/argoproj/argo-events",
+    "description": "Argo Events is an event-driven workflow automation framework for Kubernetes which helps you trigger K8s objects, Argo Workflows, Serverless workloads, etc."
+  },
+  {
+    "name": "Argo Rollouts",
+    "url": "https://github.com/argoproj/argo-rollouts",
+    "description": "Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes."
+  },
+  {
+    "name": "Argo Workflows",
+    "url": "https://github.com/argoproj/argo",
+    "description": "Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes."
+  },
+  {
+    "name": "Flagger",
+    "url": "https://github.com/weaveworks/flagger",
+    "description": "Flagger is a progressive delivery tool that automates the release process for applications running on Kubernetes."
+  },
+  {
+    "name": "Flux2",
+    "url": "https://github.com/fluxcd/flux2",
+    "description": "Flux version 2 is built from the ground up to use Kubernetes' API extension system, and to integrate with Prometheus and other core components of the Kubernetes ecosystem."
+  },
+  {
+    "name": "k8s-image-swapper",
+    "url": "https://github.com/estahn/k8s-image-swapper/",
+    "description": "k8s-image-swapper is a mutating webhook for Kubernetes, downloading images into your own registry and pointing the images to that new location."
+  },
+  {
+    "name": "KubeSphere",
+    "url": "https://github.com/kubesphere/kubesphere",
+    "description": "KubeSphere is a distributed operating system providing cloud native stack with Kubernetes as its kernel, and aims to be plug-and-play architecture for third-party applications seamless integration to boost its ecosystem."
+  },
+  {
+    "name": "Reloader",
+    "url": "https://github.com/stakater/Reloader",
+    "description": "Reloader can watch changes in ConfigMap and Secret and do rolling upgrades on Pods with their associated DeploymentConfigs, Deployments, Daemonsets and Statefulsets."
+  },
+  {
+    "name": "terranetes-controller",
+    "url": "https://github.com/appvia/terranetes-controller",
+    "description": "Terranetes controller enables the platform team to deliver self-service capabilities around cloud resources."
+  },
+  {
+    "name": "Skaffold",
+    "url": "https://github.com/GoogleContainerTools/skaffold",
+    "description": "Skaffold is a command line tool that facilitates continuous development for Kubernetes applications."
+  },
+  {
+    "name": "Spinnaker",
+    "url": "https://github.com/spinnaker/spinnaker",
+    "description": "Spinnaker is an open-source continuous delivery platform for releasing software changes with high velocity and confidence."
+  },
+  {
+    "name": "TF-controller",
+    "url": "https://github.com/weaveworks/tf-controller",
+    "description": "TF-controller is an experimental controller for Flux to reconcile Terraform resources in the GitOps way."
+  },
+  {
+    "name": "werf",
+    "url": "https://github.com/werf/werf",
+    "description": "werf is a CLI tool glueing Git, Docker, Helm & Kubernetes with any CI system to implement CI/CD and GitOps."
+  },
+  {
+    "name": "Weave GitOps",
+    "url": "https://github.com/weaveworks/weave-gitops",
+    "description": "Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise."
+  },
+  {
+    "name": "Clusterpedia",
+    "url": "https://github.com/clusterpedia-io/clusterpedia",
+    "description": "Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters."
+  },
+  {
+    "name": "Grafana Tanka",
+    "url": "https://github.com/grafana/tanka",
+    "description": "The clean, concise and super flexible alternative to YAML for your Kubernetes cluster."
+  },
+  {
+    "name": "KEDA",
+    "url": "https://github.com/kedacore/keda",
+    "description": "KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads."
+  },
+  {
+    "name": "Kruise",
+    "url": "https://github.com/openkruise/kruise",
+    "description": "Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management."
+  },
+  {
+    "name": "KubeDirector",
+    "url": "https://github.com/bluek8s/kubedirector",
+    "description": "KubeDirector uses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters."
+  },
+  {
+    "name": "Kubenav",
+    "url": "https://github.com/kubenav/kubenav",
+    "description": "kubenav is the navigator for your Kubernetes clusters right in your pocket."
+  },
+  {
+    "name": "Liqo",
+    "url": "https://github.com/liqotech/liqo",
+    "description": "Liqo implements Dynamic resource sharing across different Kubernetes clusters (e.g.; offloading pods and services), supporting decentralized governance."
+  },
+  {
+    "name": "Pluto",
+    "url": "https://github.com/FairwindsOps/pluto",
+    "description": "Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases."
+  },
+  {
+    "name": "Polaris",
+    "url": "https://github.com/FairwindsOps/polaris",
+    "description": "Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration."
+  },
+  {
+    "name": "The Hierarchical Namespace Controller",
+    "url": "https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc",
+    "description": "Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful."
+  },
+  {
+    "name": "Kubernetes External Secrets",
+    "url": "https://github.com/godaddy/kubernetes-external-secrets",
+    "description": "Kubernetes External Secrets allows you to use external secret management systems, like AWS Secrets Manager or HashiCorp Vault, to securely add secrets in Kubernetes."
+  },
+  {
+    "name": "Sealed Secrets",
+    "url": "https://github.com/bitnami-labs/sealed-secrets",
+    "description": "Encrypt your Secret into a SealedSecret, which is safe to store - even to a public repository."
+  },
+  {
+    "name": "akv2k8s",
+    "url": "https://github.com/SparebankenVest/azure-key-vault-to-kubernetes",
+    "description": "Azure Key Vault to Kubernetes (akv2k8s) will make Azure Key Vault objects available to Kubernetes in two ways: as native Kubernetes Secrets; as environment variables directly injected into your Container application"
+  },
+  {
+    "name": "Calico Networking",
+    "url": "https://github.com/projectcalico/calico",
+    "description": "Calico is an open source networking and network security solution for containers, virtual machines, and bare-metal workloads"
+  },
+  {
+    "name": "cert-manager",
+    "url": "https://github.com/jetstack/cert-manager",
+    "description": "cert-manager is a Kubernetes add-on to automate the management and issuance of TLS certificates from various issuing sources."
+  },
+  {
+    "name": "cilium",
+    "url": "https://github.com/cilium/cilium",
+    "description": "Cilium is a networking, observability, and security solution with an eBPF-based dataplane."
+  },
+  {
+    "name": "CoreDNS",
+    "url": "https://github.com/coredns/coredns",
+    "description": "CoreDNS is a fast and flexible DNS server that works on Kubernetes."
+  },
+  {
+    "name": "ingress-nginx",
+    "url": "https://github.com/kubernetes/ingress-nginx",
+    "description": "ingress-nginx is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer."
+  },
+  {
+    "name": "Kong for Kubernetes",
+    "url": "https://github.com/Kong/kubernetes-ingress-controller",
+    "description": "Configure plugins, health checking, load balancing and more in Kong for Kubernetes Services."
+  },
+  {
+    "name": "ksniff",
+    "url": "https://github.com/eldadru/ksniff",
+    "description": "A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster."
+  },
+  {
+    "name": "kubectl trace",
+    "url": "https://github.com/iovisor/kubectl-trace",
+    "description": "kubectl trace is a kubectl plugin that allows you to schedule the execution of bpftrace programs in your Kubernetes cluster."
+  },
+  {
+    "name": "Kube Karp",
+    "url": "https://github.com/immanuelfodor/kube-karp",
+    "description": "Add a floating virtual IP to Kubernetes cluster nodes for load balancing easily based on the CARP protocol"
+  },
+  {
+    "name": "kubernetes-ingress",
+    "url": "https://github.com/nginxinc/kubernetes-ingress",
+    "description": "An implementation of an Ingress controller for NGINX and NGINX Plus (commercial)."
+  },
+  {
+    "name": "kube-ovn",
+    "url": "https://github.com/alauda/kube-ovn",
+    "description": "A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations."
+  },
+  {
+    "name": "Longhorn",
+    "url": "https://github.com/longhorn/longhorn",
+    "description": "Longhorn is a distributed block storage system for Kubernetes."
+  },
+  {
+    "name": "OpenEBS",
+    "url": "https://github.com/openebs/openebs",
+    "description": "OpenEBS is the most widely deployed and easy to use open-source storage solution for Kubernetes."
+  },
+  {
+    "name": "Rook",
+    "url": "https://github.com/rook/rook",
+    "description": "Rook is an open source cloud-native storage orchestrator for Kubernetes."
+  },
+  {
+    "name": "Chaos Mesh",
+    "url": "https://github.com/pingcap/chaos-mesh",
+    "description": "Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments."
+  },
+  {
+    "name": "chaoskube",
+    "url": "https://github.com/linki/chaoskube",
+    "description": "chaoskube periodically kills random pods in your Kubernetes cluster."
+  },
+  {
+    "name": "Conftest",
+    "url": "https://github.com/open-policy-agent/conftest",
+    "description": "Conftest helps you write tests against structured configuration data."
+  },
+  {
+    "name": "DETIK",
+    "url": "https://github.com/bats-core/bats-detik",
+    "description": "A library that simplifies end-to-end testing of K8s applications by using BATS assertions and natural language queries."
+  },
+  {
+    "name": "k6",
+    "url": "https://github.com/loadimpact/k6",
+    "description": "k6 is a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry."
+  },
+  {
+    "name": "ksniff",
+    "url": "https://github.com/eldadru/ksniff",
+    "description": "A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster."
+  },
+  {
+    "name": "Kube DOOM",
+    "url": "https://github.com/storax/kubedoom",
+    "description": "The next level of chaos engineering is here! Kill pods inside your Kubernetes cluster by shooting them in Doom!"
+  },
+  {
+    "name": "kube-monkey",
+    "url": "https://github.com/asobti/kube-monkey",
+    "description": "It randomly deletes Kubernetes (k8s) pods in the cluster encouraging and validating the development of failure-resilient services."
+  },
+  {
+    "name": "kube-score",
+    "url": "https://github.com/zegl/kube-score",
+    "description": "kube-score is a tool that performs static code analysis of your Kubernetes object definitions."
+  },
+  {
+    "name": "Kubectl-debug",
+    "url": "https://github.com/JamesTGrant/kubectl-debug",
+    "description": "kubectl-debug is an out-of-tree solution for troubleshooting running pods, which allows you to run a new container in running pods for debugging purpose."
+  },
+  {
+    "name": "KubeInvaders",
+    "url": "https://github.com/lucky-sideburn/KubeInvaders",
+    "description": "Through KubeInvaders you can stress Kubernetes cluster in a fun way and check how it is resilient."
+  },
+  {
+    "name": "Kubetest",
+    "url": "https://github.com/vapor-ware/kubetest",
+    "description": "Kubetest is a pytest plugin that makes it easier to manage a Kubernetes cluster within your integration tests."
+  },
+  {
+    "name": "Litmus",
+    "url": "https://github.com/litmuschaos/litmus",
+    "description": "Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments."
+  },
+  {
+    "name": "popeye",
+    "url": "https://popeyecli.io/",
+    "description": "Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations."
+  },
+  {
+    "name": "PowerfulSeal",
+    "url": "https://github.com/bloomberg/powerfulseal",
+    "description": "PowerfulSeal injects failure into your Kubernetes clusters, so that you can detect problems as early as possible."
+  },
+  {
+    "name": "Testkube",
+    "url": "https://github.com/kubeshop/testkube",
+    "description": "Testkube is a Kubernetes native Testing Framework for test orchestration and execution. It allows you to run any of your tests inside a Kubernetes cluster. Integrates with your CI/CD and allows you to follow a GitOps approach to Testing while having a centralized place for all of your Test Results accross all clusters."
+  },
+  {
+    "name": "BotKube",
+    "url": "https://github.com/infracloudio/botkube",
+    "description": "BotKube integration with Slack or Mattermost helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendations for standard practices by running checks on the Kubernetes resources."
+  },
+  {
+    "name": "Cortex",
+    "url": "https://github.com/cortexproject/cortex",
+    "description": "Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus."
+  },
+  {
+    "name": "Goldilocks",
+    "url": "https://github.com/FairwindsOps/goldilocks",
+    "description": "Goldilocks is a utility that can help you identify a starting point for resource requests and limits."
+  },
+  {
+    "name": "Grafana",
+    "url": "https://github.com/grafana/grafana",
+    "description": "Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored."
+  },
+  {
+    "name": "Helm Dashboard",
+    "url": "https://github.com/komodorio/helm-dashboard",
+    "description": "The missing UI for Helm. The Helm Dashboard plugin offers a UI-driven way to view installed Helm charts, see their revision history and corresponding k8s resources."
+  },
+  {
+    "name": "k8s-image-availability-exporter",
+    "url": "https://github.com/flant/k8s-image-availability-exporter",
+    "description": "Prometheus exporter that warns you proactively about images that are defined in Kubernetes objects but are not available in the container registry."
+  },
+  {
+    "name": "Kiali",
+    "url": "https://github.com/kiali/kiali",
+    "description": "Kiali works with Istio to visualise the service mesh topology."
+  },
+  {
+    "name": "kube-capacity",
+    "url": "https://github.com/robscott/kube-capacity",
+    "description": "This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster."
+  },
+  {
+    "name": "kube-state-metrics",
+    "url": "https://github.com/kubernetes/kube-state-metrics",
+    "description": "kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects."
+  },
+  {
+    "name": "Kubernetes Dashboard",
+    "url": "https://github.com/kubernetes/dashboard",
+    "description": "Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters."
+  },
+  {
+    "name": "Kubernetes Metrics Server",
+    "url": "https://github.com/kubernetes-sigs/metrics-server",
+    "description": "Metrics Server is a scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
+  },
+  {
+    "name": "Kubernetes Operational View",
+    "url": "https://github.com/hjacobs/kube-ops-view",
+    "description": "A tool that aims to provide a common operational picture for multiple Kubernetes clusters."
+  },
+  {
+    "name": "kubewatch",
+    "url": "https://github.com/robusta-dev/kubewatch",
+    "description": "kubewatch is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels."
+  },
+  {
+    "name": "Lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens it's an useful, attractive, open source user interface (UI) for working with Kubernetes clusters."
+  },
+  {
+    "name": "Mizu",
+    "url": "https://github.com/up9inc/mizu",
+    "description": "API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes"
+  },
+  {
+    "name": "Network mapper",
+    "url": "https://github.com/otterize/network-mapper",
+    "description": "Map Kubernetes in-cluster traffic and export as text, intents, or an image."
+  },
+  {
+    "name": "Popeye",
+    "url": "https://github.com/derailed/popeye",
+    "description": "Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations."
+  },
+  {
+    "name": "Prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "description": "Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system."
+  },
+  {
+    "name": "Searchlight",
+    "url": "https://github.com/searchlight/searchlight",
+    "description": "Searchlight/Icinga periodically runs various checks on a Kubernetes cluster and sends notifications if detects an issue."
+  },
+  {
+    "name": "Sloop",
+    "url": "https://github.com/salesforce/sloop",
+    "description": "Sloop monitors Kubernetes, recording histories of events and resource state changes and providing visualizations to aid in debugging past events."
+  },
+  {
+    "name": "Thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "description": "Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity."
+  },
+  {
+    "name": "Kubedev",
+    "url": "https://github.com/relferreira/kubedev",
+    "description": "Kubedev is a powerful and beautiful user interface for managing Kubernetes clusters."
+  },
+  {
+    "name": "KubeHelper",
+    "url": "https://github.com/KubeHelper/kubehelper",
+    "description": "KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface."
+  },
+  {
+    "name": "katafygio",
+    "url": "https://github.com/bpineau/katafygio",
+    "description": "katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository."
+  },
+  {
+    "name": "Velero",
+    "url": "https://github.com/vmware-tanzu/velero",
+    "description": "Velero (formerly Heptio Ark) gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes."
+  },
+  {
+    "name": "Datree",
+    "url": "https://github.com/datreeio/datree",
+    "description": "Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations that can cause clusters to fail in production."
+  },
+  {
+    "name": "Deepfence ThreatMapper",
+    "url": "https://github.com/deepfence/ThreatMapper",
+    "description": "Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless."
+  },
+  {
+    "name": "Falco",
+    "url": "https://github.com/falcosecurity/falco",
+    "description": "Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. You can use Falco to monitor run-time security of your Kubernetes applications and internal components."
+  },
+  {
+    "name": "Gatekeeper",
+    "url": "https://github.com/open-policy-agent/gatekeeper",
+    "description": "Policy controller for Kubernetes"
+  },
+  {
+    "name": "Intents operator",
+    "url": "https://github.com/otterize/intents-operator",
+    "description": "Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease."
+  },
+  {
+    "name": "k-rail",
+    "url": "https://github.com/cruise-automation/k-rail",
+    "description": "k-rail is a workload policy enforcement tool for Kubernetes. It can help you secure a multi tenant cluster with minimal disruption and maximum velocity."
+  },
+  {
+    "name": "Konstraint",
+    "url": "https://github.com/plexsystems/konstraint",
+    "description": "Konstraint is a CLI tool to assist with the creation and management of constraints when using Gatekeeper."
+  },
+  {
+    "name": "kube-bench",
+    "url": "https://github.com/aquasecurity/kube-bench",
+    "description": "kube-bench is a Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark."
+  },
+  {
+    "name": "kube-hunter",
+    "url": "https://github.com/aquasecurity/kube-hunter",
+    "description": "kube-hunter hunts for security weaknesses in Kubernetes clusters."
+  },
+  {
+    "name": "KubeLinter",
+    "url": "https://github.com/stackrox/kube-linter",
+    "description": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices."
+  },
+  {
+    "name": "Kubesploit",
+    "url": "https://github.com/cyberark/kubesploit",
+    "description": "Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent dedicated for containerized environments written in Golang and built on top of Merlin project by Russel Van Tuyl (@Ne0nd0g)."
+  },
+  {
+    "name": "KubiScan",
+    "url": "https://github.com/cyberark/KubiScan",
+    "description": "A tool for scanning Kubernetes cluster for risky permissions in Kubernetes's Role-based access control (RBAC) authorization model."
+  },
+  {
+    "name": "Kyverno",
+    "url": "https://github.com/kyverno/kyverno",
+    "description": "Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans."
+  },
+  {
+    "name": "Netchecks",
+    "url": "https://github.com/hardbyte/netchecks/",
+    "description": "Set of tools for testing network conditions and asserting that they are as expected."
+  },
+  {
+    "name": "Permission manager",
+    "url": "https://github.com/sighupio/permission-manager",
+    "description": "Permission Manager is an application developed by SIGHUP that enables a super-easy and user-friendly RBAC management for Kubernetes."
+  },
+  {
+    "name": "rakkess",
+    "url": "https://github.com/corneliusweig/rakkess",
+    "description": "kubectl plugin to show an access matrix for server resources"
+  },
+  {
+    "name": "Rönd",
+    "url": "https://github.com/rond-authz/rond",
+    "description": "Rönd is an open-source lightweight Kubernetes sidecar container that helps you protect your APIs with simple security policies. It also natively allows you to build your RBAC/ABAC solution."
+  },
+  {
+    "name": "Teleport",
+    "url": "https://github.com/gravitational/teleport",
+    "description": "Teleport Unified Access Plane enables engineers to quickly access any computing resource anywhere."
+  },
+  {
+    "name": "Istio",
+    "url": "https://github.com/istio/istio",
+    "description": "An open platform to connect, manage, and secure microservices."
+  },
+  {
+    "name": "Linkerd",
+    "url": "https://github.com/linkerd/linkerd",
+    "description": "Linkerd is a transparent service mesh, designed to make modern applications safe and sane."
+  },
+  {
+    "name": "Open Service Mesh",
+    "url": "https://github.com/openservicemesh/osm/",
+    "description": "Open Service Mesh (OSM) is a lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments."
+  },
+  {
+    "name": "Eclipse JKube",
+    "url": "https://github.com/eclipse/jkube",
+    "description": "Tools and plugins for Java developers that help you create container images along with the required manifests to deploy your applications to Kubernetes."
+  },
+  {
+    "name": "garden",
+    "url": "https://github.com/garden-io/garden",
+    "description": "Garden provides production-like Kubernetes testing environments for integration tests, QA, and development."
+  },
+  {
+    "name": "gefyra",
+    "url": "https://github.com/gefyrahq/gefyra"
+  },
+  {
+    "name": "ko",
+    "url": "https://github.com/google/ko",
+    "description": "ko is a tool for building and deploying Golang applications to Kubernetes."
+  },
+  {
+    "name": "Konfig",
+    "url": "https://github.com/cloud66-oss/konfig",
+    "description": "Konfig is a Kubernetes friendly Rails gem. It can load configuration and secrets from both YAML or folders with individual files and present them to your application the same way."
+  },
+  {
+    "name": "kubevious",
+    "url": "https://github.com/kubevious/Kubevious",
+    "description": "Kubevious renders all configurations relevant to the application in one place. That saves a lot of time from operators, eliminating the need for looking up settings and digging within selectors and labels."
+  },
+  {
+    "name": "kubectl-warp",
+    "url": "https://github.com/ernoaapa/kubectl-warp",
+    "description": "Kubernetes CLI plugin for syncing and executing local files in Pod on Kubernetes"
+  },
+  {
+    "name": "kubernix",
+    "url": "https://github.com/saschagrunert/kubernix",
+    "description": "This project aims to provide single dependency Kubernetes clusters for local testing, experimenting and development purposes."
+  },
+  {
+    "name": "Makisu",
+    "url": "https://github.com/uber/makisu",
+    "description": "Makisu is a fast and flexible Docker image build tool designed for unprivileged containerized environments such as Mesos or Kubernetes."
+  },
+  {
+    "name": "mirrord",
+    "url": "https://github.com/metalbear-co/mirrord",
+    "description": "mirrord connects your local process and your cloud environment, and runs local code in cloud conditions."
+  },
+  {
+    "name": "Monokle",
+    "url": "https://github.com/kubeshop/monokle",
+    "description": "Monokle helps you create, edit and validate yaml manifests, visualize and validate resource links and dependencies, connect and compare resources to your clusters, debug the output of kustomize or helm, and more!"
+  },
+  {
+    "name": "Okteto",
+    "url": "https://github.com/okteto/okteto",
+    "description": "okteto accelerates the development workflow of Kubernetes applications."
+  },
+  {
+    "name": "Telepresence",
+    "url": "https://github.com/telepresenceio/telepresence",
+    "description": "Telepresence provides fast, realistic local development for Kubernetes microservices."
+  },
+  {
+    "name": "Tilt",
+    "url": "https://github.com/tilt-dev/tilt",
+    "description": "Tilt powers multi-service development and makes sure they behave."
+  },
+  {
+    "name": "Tye",
+    "url": "https://github.com/dotnet/tye",
+    "description": "Tye is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier."
+  },
+  {
+    "name": "Aptakube",
+    "url": "https://aptakube.com",
+    "description": "A modern, lightweight and multi-cluster desktop client for Kubernetes. Connect to multiple clusters simultaneously to view, edit and manage all your resources."
+  },
+  {
+    "name": "Kubeflow",
+    "url": "https://github.com/kubeflow/kubeflow",
+    "description": "Kubeflow is a Cloud Native platform for machine learning based on Google’s internal machine learning pipelines."
+  },
+  {
+    "name": "nos",
+    "url": "https://github.com/nebuly-ai/nos",
+    "description": "nos is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs."
+  },
+  {
+    "name": "Strimzi",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "description": "Strimzi provides a way to run an Apache Kafka cluster on Kubernetes or OpenShift in various deployment configurations."
+  },
+  {
+    "name": "Volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "Volcano is a batch system built on Kubernetes."
+  },
+  {
+    "name": "yunikorn",
+    "url": "https://github.com/apache/incubator-yunikorn-core",
+    "description": "a light-weight, universal resource scheduler for container orchestrator systems."
+  },
+  {
+    "name": "Kubegres",
+    "url": "https://github.com/reactive-tech/kubegres",
+    "description": "Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql pods with data replication and failover enabled out-of-the box."
+  },
+  {
+    "name": "Postgres Operator",
+    "url": "https://github.com/CrunchyData/postgres-operator",
+    "description": "PGO, the Postgres Operator from Crunchy Data, gives you a declarative Postgres solution that automatically manages your PostgreSQL clusters."
+  },
+  {
+    "name": "MongoDB Community Kubernetes Operator",
+    "url": "https://github.com/mongodb/mongodb-kubernetes-operator",
+    "description": "This is a Kubernetes Operator which deploys MongoDB Community into Kubernetes clusters."
+  },
+  {
+    "name": "MySQL Operator for Kubernetes",
+    "url": "https://github.com/mysql/mysql-operator",
+    "description": "The MYSQL Operator for Kubernetes is an Operator for Kubernetes managing MySQL InnoDB Cluster setups inside a Kubernetes Cluster."
+  },
+  {
+    "name": "Redis Operator",
+    "url": "https://github.com/spotahome/redis-operator",
+    "description": "Redis Operator creates/configures/manages redis-failovers atop Kubernetes."
+  },
+  {
+    "name": "Agones",
+    "url": "https://github.com/googleforgames/agones",
+    "description": "Agones is a library for hosting, running and scaling dedicated game servers on Kubernetes."
+  },
+  {
+    "name": "AWS Controllers for Kubernetes",
+    "url": "https://github.com/aws/aws-controllers-k8s",
+    "description": "AWS Controllers for Kubernetes (ACK) lets you define and use AWS service resources directly from Kubernetes."
+  },
+  {
+    "name": "AWS Node Termination Handler",
+    "url": "https://github.com/aws/aws-node-termination-handler",
+    "description": "A Kubernetes Daemonset to gracefully handle EC2 instance shutdown"
+  },
+  {
+    "name": "Brigade",
+    "url": "https://github.com/brigadecore/brigade/",
+    "description": "Brigade is the tool for creating pipelines for Kubernetes."
+  },
+  {
+    "name": "Crossplane",
+    "url": "https://github.com/crossplane/crossplane",
+    "description": "Crossplane is an open source Kubernetes add-on that extends any cluster with the ability to provision and manage cloud infrastructure, services, and applications."
+  },
+  {
+    "name": "Descheduler for Kubernetes",
+    "url": "https://github.com/kubernetes-sigs/descheduler",
+    "description": "Descheduling pods from nodes based on policies"
+  },
+  {
+    "name": "Devtron",
+    "url": "https://github.com/devtron-labs/devtron",
+    "description": "It is designed as a self-serve platform for operationalizing and maintaining applications (AppOps) on kubernetes in a developer friendly way."
+  },
+  {
+    "name": "OpenCost",
+    "url": "https://github.com/opencost/opencost",
+    "description": "OpenCost models give teams visibility into current and historical Kubernetes spend and resource allocation."
+  },
+  {
+    "name": "K8sPurger",
+    "url": "https://github.com/yogeshkk/K8sPurger",
+    "description": "K8sPurger Hunt Unused Resources In Kubernetes."
+  },
+  {
+    "name": "KubeEdge",
+    "url": "https://github.com/kubeedge/kubeedge",
+    "description": "KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge."
+  },
+  {
+    "name": "KubePug",
+    "url": "https://github.com/rikatz/kubepug",
+    "description": "A tool to check deprecations before upgrading Kubernetes version"
+  },
+  {
+    "name": "Shell-operator",
+    "url": "https://github.com/flant/shell-operator",
+    "description": "Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster."
+  },
+  {
+    "name": "A Beginner’s Guide to Kubernetes",
+    "url": "https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6",
+    "description": "A comprehensive introduction to Kubernetes architecture"
+  },
+  {
+    "name": "A Deep Dive Into Kubernetes Schema Validation",
+    "url": "https://www.datree.io/resources/kubernetes-schema-validation",
+    "description": "A guide about the Kubernetes schema and how to validate it using OSS and native tools"
+  },
+  {
+    "name": "A Guide to the Kubernetes Networking Model",
+    "url": "https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/",
+    "description": "A in-depth run-through of Kubernetes networking"
+  },
+  {
+    "name": "Amazon EKS Best Practices Guide for Security",
+    "url": "https://aws.github.io/aws-eks-best-practices/",
+    "description": "This guide provides advice about protecting information, systems, and assets that are reliant on EKS while delivering business value through risk assessments and mitigation strategies."
+  },
+  {
+    "name": "Amazon EKS Node Drainer",
+    "url": "https://github.com/aws-samples/amazon-k8s-node-drainer",
+    "description": "A guide and an example to cordon and evict all evictable pods from an EC2 node being terminated."
+  },
+  {
+    "name": "Comparison of Kubernetes Ingress controllers",
+    "url": "https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/htmlview?pru=AAABdXUHlbs*g6XkyoZXhanlhRazst77Xw",
+    "description": "This research compares the capabilities of 14 different Kubernetes Ingress controllers."
+  },
+  {
+    "name": "Configuring HA Kubernetes cluster on bare metal servers with kubeadm",
+    "url": "https://medium.com/faun/configuring-ha-kubernetes-cluster-on-bare-metal-servers-with-kubeadm-1-2-1e79f0f7857b",
+    "description": "A guide to standing up a HA Kubernetes cluster on bare metal servers with kubeadm."
+  },
+  {
+    "name": "Introduction to Using Google Kubernetes Engine; Explain Like I’m Five!",
+    "url": "https://medium.com/faun/google-kubernetes-engine-explain-like-im-five-1890e550c099",
+    "description": "Creating your first managed Kubernetes cluster on Google Kubernetes Engine using Terraform."
+  },
+  {
+    "name": "Kubernetes Network Policy Recipes",
+    "url": "https://github.com/ahmetb/kubernetes-network-policy-recipes",
+    "description": "This repository contains various use cases of Kubernetes Network Policies and sample YAML files to leverage in your setup."
+  },
+  {
+    "name": "Kubernetes The Hard Way",
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "description": "Kubernetes The Hard Way guides you through bootstrapping a highly available Kubernetes cluster with end-to-end encryption between components and RBAC authentication."
+  },
+  {
+    "name": "Kubernetes Working Group for Multi-Tenancy",
+    "url": "https://github.com/kubernetes-sigs/multi-tenancy",
+    "description": "This is a working place for multi-tenancy related proposals and prototypes."
+  },
+  {
+    "name": "Production grade Kubernetes Monitoring using Prometheus",
+    "url": "https://medium.com/faun/production-grade-kubernetes-monitoring-using-prometheus-78144b835b60",
+    "description": "A in-depth guide to deploy Prometheus monitoring solution."
+  },
+  {
+    "name": "The Illustrated Children’s Guide to Kubernetes",
+    "url": "https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/",
+    "description": "Graphical explanations of Kubernetes"
+  },
+  {
+    "name": "Troubleshooting Kubernetes deployments",
+    "url": "https://learnk8s.io/a/troubleshooting-kubernetes.pdf",
+    "description": "A flow chart to troubleshoot a kubernetes deployment in case of issues"
+  },
+  {
+    "name": "Vertical Pod Autoscaling: The Definitive Guide",
+    "url": "https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/",
+    "description": "An in-depth explanation on Kubernetes VPA: what it is, how it works, how to use it and which limitations it has."
+  },
+  {
+    "name": "Writing Your First Kubernetes Operator",
+    "url": "https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234",
+    "description": "In this article, we’ll see how to build and deploy your first Kubernetes Operator using the Operator SDK."
+  },
+  {
+    "name": "10 most common mistakes using kubernetes",
+    "url": "https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/",
+    "description": "Common pitfalls and how to avoid them."
+  },
+  {
+    "name": "How the Department of Defense Moved to Kubernetes and Istio",
+    "url": "https://www.youtube.com/watch?v=YjZ4AZ7hRM0",
+    "description": "Focus on the sidecar security stack leveraging Envoy and sidecar containers to ensure zero trust security and baked-in multi-layer security."
+  },
+  {
+    "name": "Kubernetes at Reddit: Tales from Production",
+    "url": "https://youtu.be/WTbIBqNcjoQ",
+    "description": "Hear of successes, share in the heartbreak of production explosions, and gain insight into what has and hasn't worked well for one of the world's busiest web properties."
+  },
+  {
+    "name": "Kubernetes Failure Stories",
+    "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+    "description": "A compiled list of links to public failure stories related to Kubernetes."
+  },
+  {
+    "name": "Life of a Packet",
+    "url": "https://www.youtube.com/watch?v=0Omvgd7Hg1I",
+    "description": "Tracing the path of network traffic in the Kubernetes system."
+  },
+  {
+    "name": "OPA Deep Dive",
+    "url": "https://www.youtube.com/watch?v=Uj2N9S58GLU",
+    "description": "Deep dive on some exciting new features in the OPA project presented by the co-creators."
+  },
+  {
+    "name": "Scaling Kubernetes to 2,500 Nodes",
+    "url": "https://openai.com/blog/scaling-kubernetes-to-2500-nodes/",
+    "description": "Issues you will encounter when running high-scale Kubernetes workloads."
+  },
+  {
+    "name": "Service Mesh Comparison",
+    "url": "https://servicemesh.es/",
+    "description": "An easy compensation to help choose one of the service Mesh implementations."
+  },
+  {
+    "name": "ArgoCD Best Practices",
+    "url": "https://datree.io/resources/argocd-best-practices-you-should-know"
+  },
+  {
+    "name": "A Beginner’s Guide to Kubernetes",
+    "url": "https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6",
+    "description": "A comprehensive introduction to Kubernetes architecture"
+  },
+  {
+    "name": "ConfigMaps in Kubernetes: how they work and what you should remember",
+    "url": "https://blog.flant.com/configmaps-in-kubernetes-how-they-work-and-what-you-should-remember/",
+    "description": "Understanding the evolution to ConfigMaps, how they work and what happens when they change."
+  },
+  {
+    "name": "Configuring Redis using a ConfigMap",
+    "url": "https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/",
+    "description": "A walkthrough that provides a real world example of how to configure Redis using a ConfigMap"
+  },
+  {
+    "name": "Example: Deploying Cassandra with a StatefulSet",
+    "url": "https://kubernetes.io/docs/tutorials/stateful-application/cassandra/",
+    "description": "This tutorial shows you how to run Apache Cassandra on Kubernetes. Cassandra, a database, needs persistent storage to provide data durability."
+  },
+  {
+    "name": "Example: Deploying PHP Guestbook application with Redis",
+    "url": "https://kubernetes.io/docs/tutorials/stateless-application/guestbook/",
+    "description": "This tutorial shows you how to build and deploy a simple, multi-tier web application using Kubernetes and Docker."
+  },
+  {
+    "name": "Example: Deploying WordPress and MySQL with Persistent Volumes",
+    "url": "https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/",
+    "description": "This tutorial shows you how to deploy a WordPress site and a MySQL database using Minikube."
+  },
+  {
+    "name": "Exposing an External IP Address to Access an Application in a Cluster",
+    "url": "https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/",
+    "description": "This guide shows how to create a Kubernetes Service object that exposes an external IP address."
+  },
+  {
+    "name": "Katacoda",
+    "url": "https://www.katacoda.com/courses/kubernetes/playground",
+    "description": "This is a Kubernetes playground, a safe place designed for experimenting, exploring and learning Kubernetes."
+  },
+  {
+    "name": "kubectl Cheat Sheet",
+    "url": "https://kubernetes.io/docs/reference/kubectl/cheatsheet/",
+    "description": "An official list of commonly used kubectl commands and flags."
+  },
+  {
+    "name": "Kubectl Kubernetes CheatSheet",
+    "url": "https://github.com/dennyzhang/cheatsheet-kubernetes-A4",
+    "description": "A cheatsheet containing many helpful kubectl commands"
+  },
+  {
+    "name": "Kubernetes API Reference Docs",
+    "url": "https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/",
+    "description": "A high-level overview of the basic types of resources provided by the Kubernetes API and their primary functions."
+  },
+  {
+    "name": "Learn Kubernetes Basics",
+    "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+    "description": "This tutorial provides a walkthrough of the basics of the Kubernetes cluster orchestration system."
+  },
+  {
+    "name": "Play with Kubernetes",
+    "url": "https://labs.play-with-k8s.com/",
+    "description": "Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds."
+  },
+  {
+    "name": "Ready-to-use commands and tips for kubectl",
+    "url": "https://blog.flant.com/ready-to-use-commands-and-tips-for-kubectl/",
+    "description": "Various kubectl tips and tricks by Flant’s engineers."
+  },
+  {
+    "name": "Running ZooKeeper, A Distributed System Coordinator",
+    "url": "https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/",
+    "description": "This tutorial demonstrates running Apache Zookeeper on Kubernetes using StatefulSets, PodDisruptionBudgets, and PodAntiAffinity."
+  },
+  {
+    "name": "Set Up a CI/CD Pipeline with Kubernetes",
+    "url": "https://www.linux.com/audience/enterprise/set-cicd-pipeline-kubernetes-part-1-overview/",
+    "description": "A end-to-end guide to set up a CI/CD Pipeline with Kubernetes."
+  },
+  {
+    "name": "StatefulSet Basics",
+    "url": "https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/",
+    "description": "This tutorial provides an introduction to managing applications with StatefulSets."
+  },
+  {
+    "name": "Webinar: K8s with OPA Gatekeeper",
+    "url": "https://www.youtube.com/watch?v=v4wJE3I8BYM",
+    "description": "How to use OPA to control what end-users can do on the cluster and ways to ensure that clusters are in compliance with company policies."
+  },
+  {
+    "name": "Certified Kubernetes Security Specialist - CKSS",
+    "url": "https://github.com/ijelliti/CKSS-Certified-Kubernetes-Security-Specialist",
+    "description": "CKSS 🔥🔥 - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam."
+  },
+  {
+    "name": "CKS \"Certified Kubernetes security specialist certification",
+    "url": "https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist",
+    "description": "Kubernetes security resources primarly from material allowed during the exam, and extra optional items to help you advance your container and kubernetes security journey."
+  },
+  {
+    "name": "How to pass the Certified Kubernetes Administrator (CKA) exam on the first attempt",
+    "url": "https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e",
+    "description": "A guide to pass CKA exam"
+  },
+  {
+    "name": "The ultimate CKA \"Certfified Kuberenetes Administator\" resource since exam inception",
+    "url": "https://github.com/walidshaari/Kubernetes-Certified-Administrator",
+    "description": "An updated repo of offical resources to help you master the CKA exam as well some extra resources to consolidate your kubernetes administration knowledge."
+  },
+  {
+    "name": "Kubernetes Exam Simulator",
+    "url": "https://killer.sh/",
+    "description": "CKS/CKA/CKAD exams scenarios and environment."
+  }
+]

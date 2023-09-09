@@ -4965,11 +4965,6 @@
     "description": "Open source distributed and RESTful search engine. (Source Code) Apache-2.0 Java"
   },
   {
-    "name": "Searx",
-    "url": "https://searx.github.io/searx/",
-    "description": "Privacy-respecting, hackable metasearch engine. (Source Code) AGPL-3.0 Python"
-  },
-  {
     "name": "SearXNG",
     "url": "https://docs.searxng.org/",
     "description": "Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). (Source Code) AGPL-3.0 Python/Docker"
@@ -5317,7 +5312,7 @@
   {
     "name": "Hadmean",
     "url": "https://hadmean.com",
-    "description": "Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command npx hadmean. (Demo, Source Code) AGPL-3.0 Nodejs"
+    "description": "Generate fully functional admin apps in seconds from your database information, with a single command. (Source Code) AGPL-3.0 Nodejs"
   },
   {
     "name": "Motor Admin",

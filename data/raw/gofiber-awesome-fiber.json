@@ -280,6 +280,11 @@
     "description": "Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files."
   },
   {
+    "name": "rodrigoodhin/fiper",
+    "url": "https://gitlab.com/rodrigoodhin/fiper",
+    "description": "FiPer is a library that provides Fiber with Role Based Access Control (RBAC) using JWT and with database persistence using two ORM libraries are supported: Gorm and Bun."
+  },
+  {
     "name": "gofiber/boilerplate",
     "url": "https://github.com/gofiber/boilerplate",
     "description": "Official fiber boilerplate."

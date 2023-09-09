@@ -399,6 +399,11 @@
     "description": "A blog post that compares the run-time of reading a database into a dataframe using Pandas versus using Polars by Thomas Reid."
   },
   {
+    "name": "Polars and Pandas : What's the difference ?",
+    "url": "https://blog.jetbrains.com/dataspell/2023/08/polars-vs-pandas-what-s-the-difference/",
+    "description": "A blog post that explains how Polars works under the hood and th best use cases for Polars and Pandas by @t-redactyl."
+  },
+  {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
     "url": "https://www.youtube.com/watch?v=kVy3-gMdViM",
     "description": "Introduction to Polars by databricks."

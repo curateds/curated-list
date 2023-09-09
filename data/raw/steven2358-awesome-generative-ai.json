@@ -1,0 +1,952 @@
+[
+  {
+    "name": "How Large Language Models Will Transform Science, Society, and AI",
+    "url": "https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai",
+    "description": "Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021."
+  },
+  {
+    "name": "Generative AI: A Creative New World",
+    "url": "https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/",
+    "description": "A comprehensive examination of the generative AI industry, offering a historical perspective and in-depth analysis of the industry ecosystem. By Sonya Huang, Pat Grady and GPT-3, September 19, 2022."
+  },
+  {
+    "name": "A Coming-Out Party for Generative A.I., Silicon Valley's New Craze",
+    "url": "https://www.nytimes.com/2022/10/21/technology/generative-ai.html",
+    "description": "Article about the rise of generative AI, particularly the success of the Stable Diffusion image generator, and the associated controversies. New York Times, October 21, 2022."
+  },
+  {
+    "name": "AI's New Creative Streak Sparks a Silicon Valley Gold Rush",
+    "url": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
+    "description": "Article about the growing hype and investment in generative AI startups, with various industries exploring its potential applications. Wired, October 27, 2022."
+  },
+  {
+    "name": "ChatGPT Heralds an Intellectual Revolution",
+    "url": "https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912",
+    "description": "An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023."
+  },
+  {
+    "name": "OpenAI API",
+    "url": "https://openai.com/blog/openai-api/",
+    "description": "Announcement of the OpenAI API for text-to-text general-purpose AI models based on GPT-3. OpenAI blog, June 11, 2020."
+  },
+  {
+    "name": "GitHub Copilot",
+    "url": "https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/",
+    "description": "Announcement of Copilot, a new AI pair programmer that helps you write better code. GitHub blog, June 29, 2021."
+  },
+  {
+    "name": "DALL·E 2",
+    "url": "https://openai.com/blog/dall-e-2/",
+    "description": "Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022."
+  },
+  {
+    "name": "Stable Diffusion Public Release",
+    "url": "https://stability.ai/blog/stable-diffusion-public-release",
+    "description": "Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022."
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://openai.com/blog/chatgpt/",
+    "description": "Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022."
+  },
+  {
+    "name": "Bing Search",
+    "url": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/",
+    "description": "Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023."
+  },
+  {
+    "name": "GPT-4",
+    "url": "https://openai.com/research/gpt-4",
+    "description": "Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023."
+  },
+  {
+    "name": "OpenAI API",
+    "url": "https://openai.com/api/",
+    "description": "OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code."
+  },
+  {
+    "name": "Gopher",
+    "url": "https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval",
+    "description": "Gopher by DeepMind is a 280 billion parameter language model."
+  },
+  {
+    "name": "OPT",
+    "url": "https://huggingface.co/facebook/opt-350m",
+    "description": "Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. Announcement. OPT-175B text generation hosted by Alpa."
+  },
+  {
+    "name": "Bloom",
+    "url": "https://huggingface.co/docs/transformers/model_doc/bloom",
+    "description": "BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource"
+  },
+  {
+    "name": "LLaMA",
+    "url": "https://ai.facebook.com/blog/large-language-model-llama-meta-ai/",
+    "description": "A foundational, 65-billion-parameter large language model by Meta. #opensource"
+  },
+  {
+    "name": "Llama 2",
+    "url": "https://ai.meta.com/llama/",
+    "description": "The next generation of Meta's open source large language model. #opensource"
+  },
+  {
+    "name": "Claude 2",
+    "url": "https://claude.ai/",
+    "description": "Talk to Claude, an AI assistant from Anthropic."
+  },
+  {
+    "name": "Vicuna-13B",
+    "url": "https://lmsys.org/blog/2023-03-30-vicuna/",
+    "description": "An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT."
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com/chat",
+    "description": "ChatGPT by OpenAI is a large language model that interacts in a conversational way."
+  },
+  {
+    "name": "Bing Chat",
+    "url": "https://www.bing.com/chat",
+    "description": "A conversational AI language model powered by Microsoft Bing."
+  },
+  {
+    "name": "Bard",
+    "url": "https://bard.google.com",
+    "description": "An experimental AI chatbot by Google, powered by the LaMDA model."
+  },
+  {
+    "name": "Character.AI",
+    "url": "https://character.ai/",
+    "description": "Character.AI lets you create characters and chat to them."
+  },
+  {
+    "name": "ChatPDF",
+    "url": "https://www.chatpdf.com/",
+    "description": "Chat with any PDF."
+  },
+  {
+    "name": "ChatSonic",
+    "url": "https://writesonic.com/chat",
+    "description": "An AI-powered assistant that enables text and image creation."
+  },
+  {
+    "name": "Perplexity AI",
+    "url": "https://www.perplexity.ai/",
+    "description": "AI powered search tools."
+  },
+  {
+    "name": "Metaphor",
+    "url": "https://metaphor.systems/",
+    "description": "Language model powered search."
+  },
+  {
+    "name": "Phind",
+    "url": "https://phind.com/",
+    "description": "AI-based search engine."
+  },
+  {
+    "name": "You.com",
+    "url": "https://you.com/",
+    "description": "A search engine built on AI that provides users with a customized search experience while keeping their data 100% private."
+  },
+  {
+    "name": "privateGPT",
+    "url": "https://github.com/imartinez/privateGPT",
+    "description": "Ask questions to your documents without an internet connection, using the power of LLMs."
+  },
+  {
+    "name": "quivr",
+    "url": "https://github.com/StanGirard/quivr",
+    "description": "Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings."
+  },
+  {
+    "name": "Jasper",
+    "url": "https://www.jasper.ai/",
+    "description": "Create content faster with artificial intelligence."
+  },
+  {
+    "name": "Compose AI",
+    "url": "https://www.compose.ai/",
+    "description": "Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion."
+  },
+  {
+    "name": "Rytr",
+    "url": "https://rytr.me/",
+    "description": "Rytr is an AI writing assistant that helps you create high-quality content."
+  },
+  {
+    "name": "wordtune",
+    "url": "https://www.wordtune.com/",
+    "description": "Personal writing assistant."
+  },
+  {
+    "name": "HyperWrite",
+    "url": "https://hyperwriteai.com/",
+    "description": "HyperWrite helps you write with confidence and get your work done faster from idea to final draft."
+  },
+  {
+    "name": "Moonbeam",
+    "url": "https://www.gomoonbeam.com/",
+    "description": "Better blogs in a fraction of the time."
+  },
+  {
+    "name": "copy.ai",
+    "url": "https://www.copy.ai/",
+    "description": "Write better marketing copy and content with AI."
+  },
+  {
+    "name": "Anyword",
+    "url": "https://anyword.com/",
+    "description": "Anyword's AI writing assistant generates effective copy for anyone."
+  },
+  {
+    "name": "Contenda",
+    "url": "https://contenda.co/",
+    "description": "Create the content your audience wants, from content you've already made."
+  },
+  {
+    "name": "Hypotenuse AI",
+    "url": "https://www.hypotenuse.ai/",
+    "description": "Turn a few keywords into original, insightful articles, product descriptions and social media copy."
+  },
+  {
+    "name": "Lavender",
+    "url": "https://www.lavender.ai/",
+    "description": "Lavender email assistant helps you get more replies in less time."
+  },
+  {
+    "name": "Lex",
+    "url": "https://lex.page/",
+    "description": "A word processor with artificial intelligence baked in, so you can write faster."
+  },
+  {
+    "name": "Jenni",
+    "url": "https://jenni.ai/",
+    "description": "Jenni is the ultimate writing assistant that saves you hours of ideation and writing time."
+  },
+  {
+    "name": "LAIKA",
+    "url": "https://www.writewithlaika.com/",
+    "description": "LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime."
+  },
+  {
+    "name": "QuillBot",
+    "url": "https://quillbot.com",
+    "description": "AI-powered paraphrasing tool."
+  },
+  {
+    "name": "Postwise",
+    "url": "https://postwise.ai/",
+    "description": "Write tweets, schedule posts and grow your following using AI."
+  },
+  {
+    "name": "Copysmith",
+    "url": "https://copysmith.ai/",
+    "description": "AI content creation solution for Enterprise & eCommerce."
+  },
+  {
+    "name": "WebChatGPT",
+    "url": "https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn",
+    "description": "Augment your ChatGPT prompts with relevant results from the web."
+  },
+  {
+    "name": "GPT for Sheets and Docs",
+    "url": "https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654",
+    "description": "ChatGPT extension for Google Sheets and Google Docs."
+  },
+  {
+    "name": "YouTube Summary with ChatGPT",
+    "url": "https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli",
+    "description": "Use ChatGPT to summarize YouTube videos."
+  },
+  {
+    "name": "ChatGPT Prompt Genius",
+    "url": "https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo",
+    "description": "Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally."
+  },
+  {
+    "name": "ChatGPT for Search Engines",
+    "url": "https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban",
+    "description": "Display ChatGPT response alongside Google, Bing, and DuckDuckGo search results."
+  },
+  {
+    "name": "ShareGPT",
+    "url": "https://sharegpt.com/",
+    "description": "Share your ChatGPT conversations and explore conversations shared by others."
+  },
+  {
+    "name": "Merlin",
+    "url": "https://merlin.foyer.work/",
+    "description": "ChatGPT Plus extension on all websites."
+  },
+  {
+    "name": "ChatGPT Writer",
+    "url": "https://chatgptwriter.ai/",
+    "description": "Generate entire emails and messages using ChatGPT AI."
+  },
+  {
+    "name": "ChatGPT for Jupyter",
+    "url": "https://github.com/TiesdeKok/chat-gpt-jupyter-extension",
+    "description": "Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT."
+  },
+  {
+    "name": "editGPT",
+    "url": "https://www.editgpt.app/",
+    "description": "Easily proofread, edit, and track changes to your content in chatGPT."
+  },
+  {
+    "name": "Chatbot UI",
+    "url": "https://www.chatbotui.com/",
+    "description": "An open source ChatGPT UI. Source code."
+  },
+  {
+    "name": "Forefront",
+    "url": "https://www.forefront.ai/",
+    "description": "A Better ChatGPT Experience."
+  },
+  {
+    "name": "Mem",
+    "url": "https://mem.ai/",
+    "description": "Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically."
+  },
+  {
+    "name": "Taskade",
+    "url": "https://www.taskade.com/",
+    "description": "Outline tasks, notes, generated structured lists and mind maps with Taskade AI."
+  },
+  {
+    "name": "Notion AI",
+    "url": "https://www.notion.so/product/ai",
+    "description": "Write better, more efficient notes and docs."
+  },
+  {
+    "name": "Nekton AI",
+    "url": "https://nekton.ai",
+    "description": "Automate your workflows with AI. Describe your workflows step by step in plain language."
+  },
+  {
+    "name": "Otter.ai",
+    "url": "https://otter.ai/",
+    "description": "A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries."
+  },
+  {
+    "name": "Cogram",
+    "url": "https://www.cogram.com/",
+    "description": "Cogram takes automatic notes in virtual meetings and identifies action items."
+  },
+  {
+    "name": "Sybill",
+    "url": "https://www.sybill.ai/",
+    "description": "Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights."
+  },
+  {
+    "name": "Loopin AI",
+    "url": "https://www.loopinhq.com/",
+    "description": "Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar."
+  },
+  {
+    "name": "Elicit",
+    "url": "https://elicit.org/",
+    "description": "Elicit uses language models to help you automate research workflows, like parts of literature review."
+  },
+  {
+    "name": "genei",
+    "url": "https://www.genei.io/",
+    "description": "Summarise academic articles in seconds and save 80% on your research times."
+  },
+  {
+    "name": "Explainpaper",
+    "url": "https://www.explainpaper.com/",
+    "description": "A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation."
+  },
+  {
+    "name": "Galactica",
+    "url": "https://galactica.org/",
+    "description": "A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. Model API."
+  },
+  {
+    "name": "Consensus",
+    "url": "https://consensus.app/search/",
+    "description": "Consensus is a search engine that uses AI to find answers in scientific research."
+  },
+  {
+    "name": "EmailTriager",
+    "url": "https://www.emailtriager.com/",
+    "description": "Use AI to automatically draft email replies in the background."
+  },
+  {
+    "name": "AI Poem Generator",
+    "url": "https://www.aipoemgenerator.org",
+    "description": "AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt."
+  },
+  {
+    "name": "co:here",
+    "url": "https://cohere.ai/",
+    "description": "Cohere provides access to advanced Large Language Models and NLP tools."
+  },
+  {
+    "name": "Haystack",
+    "url": "https://haystack.deepset.ai/",
+    "description": "A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models."
+  },
+  {
+    "name": "LangChain",
+    "url": "https://langchain.com/",
+    "description": "A framework for developing applications powered by language models."
+  },
+  {
+    "name": "gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "description": "A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue."
+  },
+  {
+    "name": "LMQL",
+    "url": "https://lmql.ai/",
+    "description": "LMQL is a query language for large language models."
+  },
+  {
+    "name": "LlamaIndex",
+    "url": "https://www.llamaindex.ai/",
+    "description": "A data framework for building LLM applications over external data."
+  },
+  {
+    "name": "Phoenix",
+    "url": "https://phoenix.arize.com/",
+    "description": "Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models."
+  },
+  {
+    "name": "GitHub Copilot",
+    "url": "https://github.com/features/copilot",
+    "description": "GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor."
+  },
+  {
+    "name": "OpenAI Codex",
+    "url": "https://platform.openai.com/docs/guides/code/",
+    "description": "An AI system by OpenAI that translates natural language to code."
+  },
+  {
+    "name": "Ghostwriter",
+    "url": "https://blog.replit.com/ai",
+    "description": "An AI-powered pair programmer by replit."
+  },
+  {
+    "name": "Amazon CodeWhisperer",
+    "url": "https://aws.amazon.com/codewhisperer/",
+    "description": "Build applications faster with the ML-powered coding companion."
+  },
+  {
+    "name": "tabnine",
+    "url": "https://www.tabnine.com/",
+    "description": "Code faster with whole-line & full-function code completions."
+  },
+  {
+    "name": "Stenography",
+    "url": "https://stenography.dev/",
+    "description": "Automatic code documentation."
+  },
+  {
+    "name": "Mintlify",
+    "url": "https://mintlify.com/",
+    "description": "AI powered documentation writer."
+  },
+  {
+    "name": "Debuild",
+    "url": "https://debuild.app/",
+    "description": "AI-powered low-code tool for web apps."
+  },
+  {
+    "name": "AI2sql",
+    "url": "https://www.ai2sql.io/",
+    "description": "With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL."
+  },
+  {
+    "name": "CodiumAI",
+    "url": "https://www.codium.ai/",
+    "description": "With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push."
+  },
+  {
+    "name": "PR-Agent",
+    "url": "https://github.com/Codium-ai/pr-agent",
+    "description": "AI-powered tool for automated PR analysis, feedback, suggestions and more."
+  },
+  {
+    "name": "MutableAI",
+    "url": "https://mutable.ai/",
+    "description": "AI Accelerated Software Development."
+  },
+  {
+    "name": "TurboPilot",
+    "url": "https://github.com/ravenscroftj/turbopilot",
+    "description": "A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM."
+  },
+  {
+    "name": "GPT-Code UI",
+    "url": "https://github.com/ricklamers/gpt-code-ui",
+    "description": "An open source implementation of OpenAI's ChatGPT Code interpreter."
+  },
+  {
+    "name": "MetaGPT",
+    "url": "https://github.com/geekan/MetaGPT",
+    "description": "The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo"
+  },
+  {
+    "name": "DALL·E 2",
+    "url": "https://openai.com/dall-e-2/",
+    "description": "DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language."
+  },
+  {
+    "name": "Stable Diffusion",
+    "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4",
+    "description": "Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource"
+  },
+  {
+    "name": "Midjourney",
+    "url": "https://www.midjourney.com/",
+    "description": "Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species."
+  },
+  {
+    "name": "Imagen",
+    "url": "https://imagen.research.google/",
+    "description": "Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding."
+  },
+  {
+    "name": "Make-A-Scene",
+    "url": "https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/",
+    "description": "Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches."
+  },
+  {
+    "name": "DragGAN",
+    "url": "https://github.com/XingangPan/DragGAN",
+    "description": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold."
+  },
+  {
+    "name": "Craiyon",
+    "url": "https://www.craiyon.com/",
+    "description": "Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt."
+  },
+  {
+    "name": "DreamStudio",
+    "url": "https://beta.dreamstudio.ai/",
+    "description": "DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model."
+  },
+  {
+    "name": "Artbreeder",
+    "url": "https://www.artbreeder.com/",
+    "description": "Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore."
+  },
+  {
+    "name": "GauGAN2",
+    "url": "http://gaugan.org/gaugan2/",
+    "description": "GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model."
+  },
+  {
+    "name": "Magic Eraser",
+    "url": "https://www.magiceraser.io/",
+    "description": "Remove unwanted things from images in seconds."
+  },
+  {
+    "name": "Imagine by Magic Studio",
+    "url": "https://magicstudio.com/imagine",
+    "description": "A tool by Magic Studio that let's you express yourself by just describing what's on your mind."
+  },
+  {
+    "name": "Alpaca",
+    "url": "https://www.getalpaca.io/",
+    "description": "Stable Diffusion Photoshop plugin."
+  },
+  {
+    "name": "Patience.ai",
+    "url": "https://www.patience.ai/",
+    "description": "Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI."
+  },
+  {
+    "name": "GenShare",
+    "url": "https://www.genshare.io/",
+    "description": "Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity."
+  },
+  {
+    "name": "Playground AI",
+    "url": "https://playgroundai.com/",
+    "description": "Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more."
+  },
+  {
+    "name": "Pixelz AI Art Generator",
+    "url": "https://pixelz.ai/",
+    "description": "Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available."
+  },
+  {
+    "name": "modyfi",
+    "url": "https://www.modyfi.io/",
+    "description": "The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration."
+  },
+  {
+    "name": "Ponzu",
+    "url": "https://www.ponzu.ai/",
+    "description": "Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination."
+  },
+  {
+    "name": "PhotoRoom",
+    "url": "https://www.photoroom.com/",
+    "description": "Create product and portrait pictures using only your phone. Remove background, change background and showcase products."
+  },
+  {
+    "name": "Avatar AI",
+    "url": "https://avatarai.me/",
+    "description": "Create your own AI-generated avatars."
+  },
+  {
+    "name": "ClipDrop",
+    "url": "https://clipdrop.co/",
+    "description": "Create professional visuals without a photo studio, powered by stability.ai."
+  },
+  {
+    "name": "Lensa",
+    "url": "https://prisma-ai.com/lensa",
+    "description": "An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion."
+  },
+  {
+    "name": "RunDiffusion",
+    "url": "https://rundiffusion.com/",
+    "description": "Cloud-based workspace for creating AI-generated art."
+  },
+  {
+    "name": "Ideogram",
+    "url": "https://ideogram.ai/",
+    "description": "A text-to-image platform to make creative expression more accessible."
+  },
+  {
+    "name": "Brandmark",
+    "url": "https://brandmark.io/",
+    "description": "AI-based logo design tool."
+  },
+  {
+    "name": "Gamma",
+    "url": "https://gamma.app/",
+    "description": "Create beautiful presentations and webpages with none of the formatting and design work."
+  },
+  {
+    "name": "Microsoft Designer",
+    "url": "https://designer.microsoft.com/",
+    "description": "Stunning designs in a flash."
+  },
+  {
+    "name": "Lexica",
+    "url": "https://lexica.art/",
+    "description": "Stable Diffusion search engine."
+  },
+  {
+    "name": "Libraire",
+    "url": "https://libraire.ai/",
+    "description": "The largest library of AI-generated images."
+  },
+  {
+    "name": "KREA",
+    "url": "https://www.krea.ai/",
+    "description": "Explore millions of AI generated images and create collections of prompts. Featuring Stable Diffusion generations."
+  },
+  {
+    "name": "OpenArt",
+    "url": "https://openart.ai/",
+    "description": "Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2."
+  },
+  {
+    "name": "Civitai",
+    "url": "https://civitai.com/",
+    "description": "Community driven AI model sharing tool."
+  },
+  {
+    "name": "Stable Diffusion Models",
+    "url": "https://rentry.org/sdmodels",
+    "description": "A comprehensive list of Stable Diffusion checkpoints on rentry.org."
+  },
+  {
+    "name": "Stable Horde",
+    "url": "https://stablehorde.net/",
+    "description": "A crowdsourced distributed cluster of Stable Diffusion workers."
+  },
+  {
+    "name": "DiffusionDB",
+    "url": "https://diffusiondb.com/",
+    "description": "A list of all public apps, developer tools, guides and plugins for Stable Diffusion. Airtable version."
+  },
+  {
+    "name": "PublicPrompts",
+    "url": "https://publicprompts.art/",
+    "description": "A collection of free prompts for Stable Diffusion."
+  },
+  {
+    "name": "Stableboost",
+    "url": "https://stableboost.ai/",
+    "description": "Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones."
+  },
+  {
+    "name": "Hugging Face Diffusion Models Course",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "description": "Python materials for the online course on diffusion models by @huggingface."
+  },
+  {
+    "name": "RunwayML",
+    "url": "https://runwayml.com/",
+    "description": "Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite."
+  },
+  {
+    "name": "Synthesia",
+    "url": "https://www.synthesia.io/",
+    "description": "Create videos from plain text in minutes."
+  },
+  {
+    "name": "Rephrase AI",
+    "url": "https://www.rephrase.ai/",
+    "description": "Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies."
+  },
+  {
+    "name": "Hour One",
+    "url": "https://hourone.ai/",
+    "description": "Turn text into video, featuring virtual presenters, automatically."
+  },
+  {
+    "name": "D-ID",
+    "url": "https://www.d-id.com/",
+    "description": "Create and interact with talking avatars at the touch of a button."
+  },
+  {
+    "name": "Colossyan",
+    "url": "https://www.colossyan.com/",
+    "description": "Learning & Development focused video creator. Use AI avatars to create educational videos in multiple languages."
+  },
+  {
+    "name": "Eleven Labs",
+    "url": "https://beta.elevenlabs.io/",
+    "description": "AI voice generator."
+  },
+  {
+    "name": "Resemble AI",
+    "url": "https://www.resemble.ai/",
+    "description": "AI voice generator and voice cloning for text to speech."
+  },
+  {
+    "name": "WellSaid",
+    "url": "https://wellsaidlabs.com/",
+    "description": "Convert text to voice in real time."
+  },
+  {
+    "name": "Play.ht",
+    "url": "https://play.ht/",
+    "description": "AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio."
+  },
+  {
+    "name": "Coqui",
+    "url": "https://coqui.ai/",
+    "description": "Generative AI for Voice."
+  },
+  {
+    "name": "podcast.ai",
+    "url": "https://podcast.ai/",
+    "description": "A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI."
+  },
+  {
+    "name": "VALL-E X",
+    "url": "https://vallex-demo.github.io/",
+    "description": "A cross-lingual neural codec language model for cross-lingual speech synthesis."
+  },
+  {
+    "name": "TorToiSe",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "description": "A multi-voice text-to-speech system trained with an emphasis on quality. #opensource"
+  },
+  {
+    "name": "Bark",
+    "url": "https://github.com/suno-ai/bark",
+    "description": "A transformer-based text-to-audio model. #opensource"
+  },
+  {
+    "name": "Harmonai",
+    "url": "https://www.harmonai.org/",
+    "description": "We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone."
+  },
+  {
+    "name": "Mubert",
+    "url": "https://mubert.com/",
+    "description": "A royalty-free music ecosystem for content creators, brands and developers."
+  },
+  {
+    "name": "MusicLM",
+    "url": "https://google-research.github.io/seanet/musiclm/examples/",
+    "description": "A model by Google Research for generating high-fidelity music from text descriptions."
+  },
+  {
+    "name": "Diagram",
+    "url": "https://diagram.com/",
+    "description": "Magical new ways to design products."
+  },
+  {
+    "name": "PromptBase",
+    "url": "https://promptbase.com/",
+    "description": "A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion."
+  },
+  {
+    "name": "This Image Does Not Exist",
+    "url": "https://thisimagedoesnotexist.com/",
+    "description": "Test your ability to tell if an image is human or computer generated."
+  },
+  {
+    "name": "Have I Been Trained?",
+    "url": "https://haveibeentrained.com/",
+    "description": "Check if your image has been used to train popular AI art models."
+  },
+  {
+    "name": "AI Dungeon",
+    "url": "https://aidungeon.io/",
+    "description": "A text-based adventure-story game you direct (and star in) while the AI brings it to life."
+  },
+  {
+    "name": "Clickable",
+    "url": "https://www.clickable.so/",
+    "description": "Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels."
+  },
+  {
+    "name": "Scale Spellbook",
+    "url": "https://scale.com/spellbook",
+    "description": "Build, compare, and deploy large language model apps with Scale Spellbook."
+  },
+  {
+    "name": "Scenario",
+    "url": "https://www.scenario.com/",
+    "description": "AI-generated gaming assets."
+  },
+  {
+    "name": "Teleprompter",
+    "url": "https://github.com/danielgross/teleprompter",
+    "description": "An on-device AI for your meetings that listens to you and makes charismatic quote suggestions."
+  },
+  {
+    "name": "FinChat",
+    "url": "https://finchat.io/",
+    "description": "Using AI, FinChat generates answers to questions about public companies and investors."
+  },
+  {
+    "name": "Learn Prompting",
+    "url": "https://learnprompting.org/",
+    "description": "A free, open source course on communicating with artificial intelligence."
+  },
+  {
+    "name": "Prompt Engineering Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "description": "Guide and resources for prompt engineering."
+  },
+  {
+    "name": "ChatGPT prompt engineering for developers",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "description": "A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI)."
+  },
+  {
+    "name": "Tools and Resources for AI Art",
+    "url": "https://pharmapsychotic.com/tools.html",
+    "description": "A large list of Google Colab notebooks for generative AI, by @pharmapsychotic."
+  },
+  {
+    "name": "The Generative AI Application Landscape",
+    "url": "https://twitter.com/sonyatweetybird/status/1584580362339962880",
+    "description": "An infographic that maps the generative AI ecosystem, by Sonya Huang of Sequioa Capital."
+  },
+  {
+    "name": "Startups - @builtwithgenai",
+    "url": "https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT",
+    "description": "@builtwithgenai - An Airtable list by @builtwithgenai."
+  },
+  {
+    "name": "The Generative AI Index",
+    "url": "https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO",
+    "description": "An Airtable list by Scale Venture Partners."
+  },
+  {
+    "name": "Generative AI for Games",
+    "url": "https://twitter.com/gwertz/status/1593268767269670912",
+    "description": "A market map of companies working on Generative AI for games, by a16z."
+  },
+  {
+    "name": "Generative Deep Art",
+    "url": "https://github.com/filipecalegario/awesome-generative-deep-art",
+    "description": "A curated list of generative deep learning tools, works, models, etc. for artistic uses, by @filipecalegario."
+  },
+  {
+    "name": "GPT-3 Demo",
+    "url": "https://gpt3demo.com/",
+    "description": "Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases."
+  },
+  {
+    "name": "GPT-4 Demo",
+    "url": "https://gpt4demo.com/",
+    "description": "GPT-4 apps and use-cases."
+  },
+  {
+    "name": "The Generative AI Landscape",
+    "url": "https://github.com/ai-collection/ai-collection",
+    "description": "A Collection of Awesome Generative AI Applications."
+  },
+  {
+    "name": "Molecular design",
+    "url": "https://github.com/AspirinCode/papers-for-molecular-design-using-DL",
+    "description": "List of molecular design using Generative AI and Deep Learning."
+  },
+  {
+    "name": "Open LLMs",
+    "url": "https://github.com/eugeneyan/open-llms",
+    "description": "A list of open LLMs available for commercial use."
+  },
+  {
+    "name": "Awesome ChatGPT",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "description": "A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by @jordn."
+  },
+  {
+    "name": "Awesome ChatGPT Prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "A collection of prompt examples to be used with the ChatGPT model."
+  },
+  {
+    "name": "FlowGPT",
+    "url": "https://flowgpt.com/",
+    "description": "Amplify your workflow with the best prompts."
+  },
+  {
+    "name": "ChatGPT Prompts for Data Science",
+    "url": "https://github.com/travistangvh/ChatGPT-Data-Science-Prompts",
+    "description": "A repository of useful data science prompts for ChatGPT."
+  },
+  {
+    "name": "Awesome ChatGPT",
+    "url": "https://github.com/sindresorhus/awesome-chatgpt",
+    "description": "Another awesome list for ChatGPT."
+  },
+  {
+    "name": "Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous."
+  },
+  {
+    "name": "babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "description": "An AI-powered task management system."
+  },
+  {
+    "name": "AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "description": "Assemble, configure, and deploy autonomous AI Agents in your browser."
+  },
+  {
+    "name": "GPT Engineer",
+    "url": "https://github.com/AntonOsika/gpt-engineer",
+    "description": "Specify what you want it to build, the AI asks for clarification, and then builds it."
+  },
+  {
+    "name": "GPT Prompt Engineer",
+    "url": "https://github.com/mshumer/gpt-prompt-engineer",
+    "description": "Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones."
+  },
+  {
+    "name": "MetaGPT",
+    "url": "https://github.com/geekan/MetaGPT",
+    "description": "The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo."
+  }
+]
