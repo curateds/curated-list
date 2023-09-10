@@ -35,6 +35,11 @@
     "description": "A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤."
   },
   {
+    "name": "roobert/activate.nvim",
+    "url": "https://github.com/roobert/activate.nvim",
+    "description": "A plugin installation system designed to complement folke/lazy.nvim."
+  },
+  {
     "name": "neovim/nvim-lspconfig",
     "url": "https://github.com/neovim/nvim-lspconfig",
     "description": "Quickstart configurations for the LSP client."
@@ -2192,7 +2197,7 @@
   {
     "name": "aPeoplesCalendar/apc.nvim",
     "url": "https://github.com/aPeoplesCalendar/apc.nvim",
-    "description": "\"On this day\" style calendar, which provides information about worldwide history of working class movements and liberation struggles."
+    "description": "On this day\" style calendar, which provides information about worldwide history of working class movements and liberation struggles."
   },
   {
     "name": "subnut/nvim-ghost.nvim",
