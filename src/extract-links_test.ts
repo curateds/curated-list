@@ -69,3 +69,34 @@ Deno.test("should only extract name from the first link", () => {
   const link = extractLinks(html)[0]
   assertEquals(link.name, "Crypto 101")
 })
+
+Deno.test("should strip quotes from the description", () => {
+  const html = `
+  <li><a href="https://www.lavender.ai">Lavender</a> - “Lavender is an AI email assistant that helps you write better emails faster, double replies, and save time.”</li>`
+  const links = extractLinks(html)
+  assertEquals(links.length, 1)
+  assertEquals(
+    links[0].description,
+    "Lavender is an AI email assistant that helps you write better emails faster, double replies, and save time.",
+  )
+
+  const html2 = `
+  <li><a href="https://en.wikipedia.org/wiki/Blockchain" rel="nofollow">Blockchain</a> - "A blockchain is a growing list of records, called blocks, which are linked using cryptography."</li>`
+  const links2 = extractLinks(html2)
+  assertEquals(links2.length, 1)
+  assertEquals(
+    links2[0].description,
+    "A blockchain is a growing list of records, called blocks, which are linked using cryptography.",
+  )
+})
+
+Deno.test("should not strip middle quotes from the description", () => {
+  const html = `
+  <li><a href="https://www.lavender.ai">Lavender</a> - “Lavender is an AI email assistant that helps you write better emails faster, "double replies", and save time.”</li>`
+  const links = extractLinks(html)
+  assertEquals(links.length, 1)
+  assertEquals(
+    links[0].description,
+    'Lavender is an AI email assistant that helps you write better emails faster, "double replies", and save time.',
+  )
+})

@@ -30,4 +30,7 @@ export function extractDescription(text: string) {
   const splited = text.split(/\s-\s(.+)?/)
   const description = splited[1]
   return description?.trim()
+    .replace(/[“”]/g, "")
+    .replace(/^"/, "")
+    .replace(/"$/, "")
 }
