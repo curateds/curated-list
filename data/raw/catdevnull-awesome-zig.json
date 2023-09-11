@@ -106,7 +106,7 @@
   {
     "name": "andrewrk/HellOS",
     "url": "https://github.com/andrewrk/HellOS",
-    "description": "hello world\" x86 kernel example."
+    "description": "\"hello world\" x86 kernel example."
   },
   {
     "name": "chivay/vmt",
@@ -227,26 +227,6 @@
     "name": "fubark/cyber",
     "url": "https://github.com/fubark/cyber",
     "description": "Fast and concurrent scripting."
-  },
-  {
-    "name": "mitchellh/libxev",
-    "url": "https://github.com/mitchellh/libxev",
-    "description": "Cross-platform event-loop."
-  },
-  {
-    "name": "kprotty/zefi",
-    "url": "https://github.com/kprotty/zefi",
-    "description": "Fiber library."
-  },
-  {
-    "name": "rsepassi/zigcoro",
-    "url": "https://github.com/rsepassi/zigcoro",
-    "description": "coroutine-friendly, based on libxev."
-  },
-  {
-    "name": "iacore/minicoro-zig",
-    "url": "https://git.envs.net/iacore/minicoro-zig",
-    "description": "Bindings for minicoro - Stackful Stack-Switching Coroutine."
   },
   {
     "name": "coilhq/tigerbeetle",
@@ -570,7 +550,7 @@
   {
     "name": "kassane/libvlc-zig",
     "url": "https://github.com/kassane/libvlc-zig",
-    "description": "Bindings for libVLC media framework."
+    "description": "Zig bindings for libVLC media framework."
   },
   {
     "name": "karlseguin/log.zig",
@@ -586,11 +566,6 @@
     "name": "karlseguin/singleflight.zig",
     "url": "https://github.com/karlseguin/singleflight.zig",
     "description": "Duplicate function call suppression."
-  },
-  {
-    "name": "kassane/lean4-zig",
-    "url": "https://github.com/kassane/lean4-zig",
-    "description": "Bindings for Lean 4 (theorem prover)."
   },
   {
     "name": "MasterQ32/zig-network",
@@ -778,16 +753,6 @@
     "description": "Zig plugin for the ASDF package manager."
   },
   {
-    "name": "mattnite/ezpkg",
-    "url": "https://github.com/mattnite/ezpkg",
-    "description": "Zig Package Manager Expansion Pack."
-  },
-  {
-    "name": "nix-community/zon2nix",
-    "url": "https://github.com/nix-community/zon2nix",
-    "description": "Convert the dependencies in build.zig.zon to a Nix expression."
-  },
-  {
     "name": "darithorn/zig-toml",
     "url": "https://github.com/darithorn/zig-toml",
     "description": "A TOML parser."
@@ -898,11 +863,6 @@
     "description": "TOMLv1.0.0 parser and convert TOML to JSON."
   },
   {
-    "name": "InKryption/comath",
-    "url": "https://github.com/InKryption/comath",
-    "description": "Calculate math expressions in comptime."
-  },
-  {
     "name": "belse-de/zig-tut",
     "url": "https://github.com/belse-de/zig-tut",
     "description": "A collection of small projects and tutorials to learn Zig."
@@ -913,11 +873,6 @@
     "description": "Zig learning resources."
   },
   {
-    "name": "zighelp/zighelp",
-    "url": "https://github.com/zighelp/zighelp",
-    "description": "Get up to speed with Zig quickly (ziglearn fork)."
-  },
-  {
     "name": "ratfactor/ziglings",
     "url": "https://github.com/ratfactor/ziglings",
     "description": "Learn Zig by fixing tiny example programs."
@@ -926,11 +881,6 @@
     "name": "andrewrk/SDL",
     "url": "https://github.com/andrewrk/SDL",
     "description": "Simple Directmedia Layer."
-  },
-  {
-    "name": "andrewrk/libz",
-    "url": "https://github.com/andrewrk/libz",
-    "description": "Zlib data compression."
   },
   {
     "name": "andrewrk/ffmpeg",
@@ -948,8 +898,8 @@
     "description": "library for real-time audio input and output."
   },
   {
-    "name": "kassane/openssl-zig",
-    "url": "https://github.com/kassane/openssl-zig",
+    "name": "kassane/openssl",
+    "url": "https://github.com/kassane/openssl",
     "description": "crypto, providers & ssl libraries only."
   },
   {
@@ -966,16 +916,6 @@
     "name": "kassane/winpthreads",
     "url": "https://github.com/kassane/winpthreads-zigbuild",
     "description": "PThread library for MinGW."
-  },
-  {
-    "name": "raysan5/raylib",
-    "url": "https://github.com/raysan5/raylib",
-    "description": "A simple and easy-to-use library to enjoy videogames programming."
-  },
-  {
-    "name": "jmcnamara/libxlsxwriter",
-    "url": "https://github.com/jmcnamara/libxlsxwriter",
-    "description": "Creating Excel XLSX files."
   },
   {
     "name": "andrewrk/libchromaprint",
@@ -998,16 +938,6 @@
     "description": "(boost-context) fiber library (C++14/17/20)."
   },
   {
-    "name": "kassane/fiber",
-    "url": "https://github.com/kassane/fiber",
-    "description": "(boost-fiber) userland threads (C++14/17/20)."
-  },
-  {
-    "name": "kassane/beast",
-    "url": "https://github.com/kassane/beast",
-    "description": "(boost-beast) HTTP and WebSocket (C++14/17/20)."
-  },
-  {
     "name": "kassane/hana",
     "url": "https://github.com/kassane/hana",
     "description": "(boost-hana) Meta-programming library (header-only, C++14/17/20)."
@@ -1016,11 +946,6 @@
     "name": "kassane/intrusive",
     "url": "https://github.com/kassane/intrusive",
     "description": "(boost-intrusive) intrusive containers (header-only, C++03/11/14)."
-  },
-  {
-    "name": "kassane/unordered",
-    "url": "https://github.com/kassane/unordered",
-    "description": "(boost-unordered) hashmap and set concurrency containers (C++03/11/14)."
   },
   {
     "name": "kassane/catch2",
@@ -1038,11 +963,6 @@
     "description": "jsoncpp ported to Zig packaging."
   },
   {
-    "name": "kassane/Standalone-Server",
-    "url": "https://github.com/kassane/Standalone-Server",
-    "description": "Asio standalone C++ HTTP/S Server."
-  },
-  {
     "name": "kassane/range-v3",
     "url": "https://github.com/kassane/range-v3",
     "description": "modern range library (C++14/17/20)."
@@ -1051,16 +971,6 @@
     "name": "kassane/libzmq",
     "url": "https://github.com/kassane/libzmq",
     "description": "ZeroMQ core engine in C++ library."
-  },
-  {
-    "name": "kassane/libsigcplusplus",
-    "url": "https://github.com/kassane/libsigcplusplus",
-    "description": "Typesafe callback system for standard C++."
-  },
-  {
-    "name": "ggerganov/llama.cpp",
-    "url": "https://github.com/ggerganov/llama.cpp",
-    "description": "Port of Facebook's LLaMA model in C/C++."
   },
   {
     "name": "All Your Codebase",

@@ -1532,7 +1532,7 @@
   {
     "name": "Galene",
     "url": "https://galene.org/",
-    "description": "Galène (or Galene) is a videoconference server (an SFU) that is easy to deploy and that requires moderate server resources. (Source Code) MIT Go"
+    "description": "Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources. (Source Code) MIT Go"
   },
   {
     "name": "Janus",
@@ -2473,6 +2473,11 @@
     "name": "Dat Project",
     "url": "https://dat-ecosystem.org/",
     "description": "Powerful decentralized file sharing applications built from a large ecosystem of modules. (Source Code) MIT Nodejs"
+  },
+  {
+    "name": "exatorrent",
+    "url": "https://github.com/varbhat/exatorrent",
+    "description": "BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. GPL-3.0 Go"
   },
   {
     "name": "instant.io",
@@ -5977,7 +5982,7 @@
   {
     "name": "BSD 2-clause \"Simplified\"",
     "url": "https://spdx.org/licenses/BSD-2-Clause.html",
-    "description": "BSD 2-clause \"Simplified"
+    "description": "BSD 2-clause \"Simplified\""
   },
   {
     "name": "BSD 2-Clause FreeBSD License",
@@ -5987,7 +5992,7 @@
   {
     "name": "BSD 3-Clause \"New\" or \"Revised\"",
     "url": "https://spdx.org/licenses/BSD-3-Clause.html",
-    "description": "BSD 3-Clause \"New\" or \"Revised"
+    "description": "BSD 3-Clause \"New\" or \"Revised\""
   },
   {
     "name": "BSD with attribution",
@@ -5997,7 +6002,7 @@
   {
     "name": "BSD 4-clause \"Original\"",
     "url": "https://spdx.org/licenses/BSD-4-Clause.html",
-    "description": "BSD 4-clause \"Original"
+    "description": "BSD 4-clause \"Original\""
   },
   {
     "name": "Creative Commons Attribution-ShareAlike 3.0 License",

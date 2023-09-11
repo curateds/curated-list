@@ -35,11 +35,6 @@
     "description": "A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤."
   },
   {
-    "name": "roobert/activate.nvim",
-    "url": "https://github.com/roobert/activate.nvim",
-    "description": "A plugin installation system designed to complement folke/lazy.nvim."
-  },
-  {
     "name": "neovim/nvim-lspconfig",
     "url": "https://github.com/neovim/nvim-lspconfig",
     "description": "Quickstart configurations for the LSP client."
@@ -1460,11 +1455,6 @@
     "description": "A light colorscheme inspired by flatwhite-syntax and elegant-emacs."
   },
   {
-    "name": "judaew/ronny.nvim",
-    "url": "https://github.com/judaew/ronny.nvim",
-    "description": "A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg."
-  },
-  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -2202,7 +2192,7 @@
   {
     "name": "aPeoplesCalendar/apc.nvim",
     "url": "https://github.com/aPeoplesCalendar/apc.nvim",
-    "description": "On this day\" style calendar, which provides information about worldwide history of working class movements and liberation struggles."
+    "description": "\"On this day\" style calendar, which provides information about worldwide history of working class movements and liberation struggles."
   },
   {
     "name": "subnut/nvim-ghost.nvim",
