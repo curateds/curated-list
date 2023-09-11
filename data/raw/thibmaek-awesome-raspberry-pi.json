@@ -157,11 +157,6 @@
     "description": "Penetration Testing & Ethical Hacking Linux distro for ARM devices."
   },
   {
-    "name": "Kano OS",
-    "url": "https://help.kano.me/hc/en-us/articles/360001063620-How-to-Install-Reinstall-Kano-OS-for-Raspberry-Pi",
-    "description": "Open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3."
-  },
-  {
     "name": "KonstaKANG",
     "url": "https://konstakang.com/devices/rpi4/",
     "description": "Unofficial LineageOS and AOSP builds for Raspberry Pi."
@@ -312,11 +307,6 @@
     "description": "Drop'n'play sampler: drop .WAV samples on the SD card, and play!"
   },
   {
-    "name": "SARPi",
-    "url": "http://sarpi.fatdog.nl/index.php?p=sarpi",
-    "description": "Stands for the Slackware ARM on Raspberry Pi."
-  },
-  {
     "name": "Twister OS",
     "url": "https://twisteros.com/",
     "description": "Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi."
@@ -345,11 +335,6 @@
     "name": "Volumio",
     "url": "https://volumio.org/",
     "description": "Headless audiophile music player, designed to play music with the highest possible fidelity."
-  },
-  {
-    "name": "Windows 10 ARM",
-    "url": "https://worproject.ml/",
-    "description": "Community maintained Windows 10 on Raspberry Pi."
   },
   {
     "name": "Windows 10 IoT Core",
@@ -405,11 +390,6 @@
     "name": "ndm",
     "url": "https://github.com/gitbls/ndm",
     "description": "Command line tool to easily manage DNS and DHCP servers."
-  },
-  {
-    "name": "OpenVPN-Setup",
-    "url": "https://github.com/StarshipEngineer/OpenVPN-Setup",
-    "description": "Shell script to set up Raspberry Pi as an OpenVPN server."
   },
   {
     "name": "Orangetool",
@@ -637,11 +617,6 @@
     "description": "Get your ARM device up and running Kubernetes in less than ten minutes."
   },
   {
-    "name": "Lightberry",
-    "url": "https://lightberry.eu",
-    "description": "Led lighting solution dedicated for raspberry pi and your TV."
-  },
-  {
     "name": "Lomorage",
     "url": "https://github.com/lomorage/homepage",
     "description": "Private photo cloud host on Raspberry Pi, with Android/iOS/Web client."
@@ -813,7 +788,7 @@
   },
   {
     "name": "RaspiBolt",
-    "url": "https://github.com/Stadicus/guides/tree/master/raspibolt",
+    "url": "https://raspibolt.org/",
     "description": "Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi."
   },
   {
@@ -943,18 +918,8 @@
   },
   {
     "name": "Android",
-    "url": "https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter",
-    "description": "Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. Android"
-  },
-  {
-    "name": "Android",
     "url": "https://play.google.com/store/apps/details?id=org.xbmc.kore",
     "description": "Official remote to control Kodi. Android"
-  },
-  {
-    "name": "Android",
-    "url": "https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck",
-    "description": "To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. Android"
   },
   {
     "name": "Android",
@@ -1002,11 +967,6 @@
     "description": "Allows you to easily manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal and so much more. iOS"
   },
   {
-    "name": "10 Ways To Power",
-    "url": "https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm",
-    "description": "Information about different & correct ways to power the pi."
-  },
-  {
     "name": "10 Years of Raspberry Pi",
     "url": "https://kandi.openweaver.com/collections/educational-service-providers/10-years-of-raspberry-pi",
     "description": "collections on 10 Years of Raspberry Pi, showcasing the most popular libraries across hobbyist uses cases, home automation, IoT, OS and utilities."
@@ -1040,11 +1000,6 @@
     "name": "Essentials - AIY Voice Projects",
     "url": "https://magpi.raspberrypi.com/books/essentials-aiy-v1",
     "description": "AIY Voice Projects - Using Google's AIY Project Kit, learn how to use artificial intelligence with your Raspberry Pi."
-  },
-  {
-    "name": "Essentials - Camera Module Guide",
-    "url": "https://magpi.raspberrypi.com/books/essentials_camera_v1",
-    "description": "Camera Module Guide - How to use your Raspberry Pi Foundation's Camera Module with your Raspberry Pi."
   },
   {
     "name": "Essentials - Code Music with Sonic Pi",
@@ -1127,11 +1082,6 @@
     "description": "Learn how to get started with your Raspberry Pi 4 and Raspberry Pi 400."
   },
   {
-    "name": "Raspberry Pi Camera Guide",
-    "url": "https://magpi.raspberrypi.com/books/camera-guide",
-    "description": "Learn how to use your High Quality Camera or Camera Module with your Raspberry Pi."
-  },
-  {
     "name": "Raspberry Pi Projects Book 1",
     "url": "https://magpi.raspberrypi.com/books/projects-1",
     "description": "A collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products."
@@ -1210,11 +1160,6 @@
     "name": "How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology",
     "url": "http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html",
     "description": "Good beginners-guide to working with Beacon technology."
-  },
-  {
-    "name": "How to setup a secure VPN server on Raspberry Pi or DigitalOcean",
-    "url": "http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/",
-    "description": "Simple, secure and detailed guide to setup VPN on your Raspberry Pi."
   },
   {
     "name": "Moonlight",
@@ -1310,10 +1255,6 @@
   {
     "name": "Raspberry Pi on YouTube",
     "url": "https://www.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng"
-  },
-  {
-    "name": "raspberry-pi on Spectrum",
-    "url": "https://spectrum.chat/raspberry-pi"
   },
   {
     "name": "eLinux Hub",

@@ -355,7 +355,7 @@
   {
     "name": "FFmpeg Threads Command: How it Affects Quality and Performance",
     "url": "https://streaminglearningcenter.com/blogs/ffmpeg-command-threads-how-it-affects-quality-and-performance.html",
-    "description": "So, I received an email from an acquaintance that read, “I was curious if there is actually any benefit to a “threads=” type custom command in x264. Specifically many streamers are buying 8 core/16 thread CPUs to encode as a standalone client capturing information from a video capture device.” I had an article on FFmpeg…"
+    "description": "So, I received an email from an acquaintance that read, I was curious if there is actually any benefit to a threads= type custom command in x264. Specifically many streamers are buying 8 core/16 thread CPUs to encode as a standalone client capturing information from a video capture device. I had an article on FFmpeg…"
   },
   {
     "name": "HDMI 2.1: features, specs and news about the latest HDMI standard",
@@ -400,7 +400,7 @@
   {
     "name": "Quantifying packaging overhead",
     "url": "https://mux.com/blog/quantifying-packaging-overhead-2",
-    "description": "Mux makes adding video to your app or website as easy as making a single API call. But behind the scenes is a large multistep process to analyze and transform the video into something that can be easily consumed by a device. This process is commonly called a media “pipeline”"
+    "description": "Mux makes adding video to your app or website as easy as making a single API call. But behind the scenes is a large multistep process to analyze and transform the video into something that can be easily consumed by a device. This process is commonly called a media pipeline"
   },
   {
     "name": "Riot Games Keeps League of Legends Esports Rolling With Fully Cloud-Based Virtualized Workflow",
@@ -1323,7 +1323,7 @@
   {
     "name": "Promising Initial Results with AV1 Testing - Streaming Learning Center",
     "url": "https://streaminglearningcenter.com/blogs/promising-initial-results-with-av1-testing.html",
-    "description": "Streaming Learning Center  - [vc_row margin_top=”30″][vc_column][vc_column_text]I began testing AV1 early this week. Briefly, my tests involve 16 ten-second clips in four genres (movies, sports, animations, gaming) and an “other” category (music video, nature video). I’ve completed the first set of tests with FFmpeg 4.3, benchmarking x264, x265, and the latest version of the Alliance for Open Media AV1 codec,…"
+    "description": "Streaming Learning Center  - [vc_row margin_top=30″][vc_column][vc_column_text]I began testing AV1 early this week. Briefly, my tests involve 16 ten-second clips in four genres (movies, sports, animations, gaming) and an other category (music video, nature video). I’ve completed the first set of tests with FFmpeg 4.3, benchmarking x264, x265, and the latest version of the Alliance for Open Media AV1 codec,…"
   },
   {
     "name": "SVT-AV1: an open-source AV1 encoder and decoder",
@@ -2140,7 +2140,7 @@
   {
     "name": "Correcting for audio/video sync issues with the ffmpeg program’s ITSOFFSET switch",
     "url": "https://wjwoodrow.wordpress.com/2013/02/04/correcting-for-audiovideo-sync-issues-with-the-ffmpeg-programs-itsoffset-switch/",
-    "description": "The ffmpeg program has numerous “switches” that help to adjust and convert audio and video files. Some of them are not explained very well in the documentation, and many websites have c…"
+    "description": "The ffmpeg program has numerous switches that help to adjust and convert audio and video files. Some of them are not explained very well in the documentation, and many websites have c…"
   },
   {
     "name": "ElderByte-/docker-java-media",
@@ -2175,7 +2175,7 @@
   {
     "name": "How to generate a fmp4 hls live stream with FFMPEG",
     "url": "https://nomadyun.wordpress.com/2018/04/12/how-to-generate-a-fmp4-hls-live-stream-with-ffmpeg/",
-    "description": "ffmpeg -re -stream_loop -1 -i voweb.mp4 -hls_fmp4_init_filename init.mp4 -vf “settb=AVTB,setpts=’trunc(PTS/1K)1K+st(1,trunc(RTCTIME/1K))-1Ktrunc(ld(1)/1K)’,\\ drawtext=fontfile=…"
+    "description": "ffmpeg -re -stream_loop -1 -i voweb.mp4 -hls_fmp4_init_filename init.mp4 -vf settb=AVTB,setpts=’trunc(PTS/1K)1K+st(1,trunc(RTCTIME/1K))-1Ktrunc(ld(1)/1K)’,\\ drawtext=fontfile=…"
   },
   {
     "name": "Is it possible to get FFmpeg to use hardware acceleration for HEVC transcoding on macOS?",
@@ -2219,7 +2219,7 @@
   {
     "name": "Understanding Rate Control Modes (x264, x265, vpx)",
     "url": "https://slhck.info/video/2017/03/01/rate-control.html",
-    "description": "What is “rate control”? It’s what a video encoder does when it decides how many bits to spend for a given frame. The goal of (lossy) video encoding is to sav..."
+    "description": "What is rate control? It’s what a video encoder does when it decides how many bits to spend for a given frame. The goal of (lossy) video encoding is to sav..."
   },
   {
     "name": "VCDP/FFmpeg-patch",

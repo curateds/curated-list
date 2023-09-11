@@ -1116,7 +1116,7 @@
   {
     "name": "dissect",
     "url": "https://shinmera.github.io/dissect",
-    "description": "when a lot of projects use the “trivial-backtrace” system that just gives them a string with a backtrace, Dissect allows you to capture, step, and completely inspect the stack trace on a variety of Lisp implementations. Also very useful for logging and other situations where execution is automatically continued, but the information of the current stack is still useful to store somewhere. zlib."
+    "description": "when a lot of projects use the trivial-backtrace system that just gives them a string with a backtrace, Dissect allows you to capture, step, and completely inspect the stack trace on a variety of Lisp implementations. Also very useful for logging and other situations where execution is automatically continued, but the information of the current stack is still useful to store somewhere. zlib."
   },
   {
     "name": "ndebug",
@@ -2497,7 +2497,7 @@
   {
     "name": "lisp-stat",
     "url": "https://github.com/lisp-stat",
-    "description": "an environment for statistical computing, conceptually similar to R, that is also suitable for front-line production deployments. \"It grew out of a desire to have an environment for rapidly prototyping analytical and A.I. solutions, and move directly to production environments with minimal friction.\""
+    "description": "an environment for statistical computing, conceptually similar to R, that is also suitable for front-line production deployments. \"It grew out of a desire to have an environment for rapidly prototyping analytical and A.I. solutions, and move directly to production environments with minimal friction."
   },
   {
     "name": "https://lisp-stat.dev/",
