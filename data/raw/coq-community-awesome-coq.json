@@ -305,6 +305,11 @@
     "description": "Extension framework based on λProlog providing an extensive API to implement commands and tactics."
   },
   {
+    "name": "coq-waterproof",
+    "url": "https://github.com/impermeable/coq-waterproof",
+    "description": "Plugin for writing Coq proof scripts in a style that resembles non-mechanized mathematical proof."
+  },
+  {
     "name": "CoqHammer",
     "url": "https://github.com/lukaszcz/coqhammer",
     "description": "General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs."
@@ -902,7 +907,12 @@
   {
     "name": "Mechanized Semantics",
     "url": "https://github.com/xavierleroy/cdf-mech-sem",
-    "description": "Coq sources for a course on programming language semantics at Collège de France."
+    "description": "Companion Coq sources for a course on programming language semantics at Collège de France."
+  },
+  {
+    "name": "Program Logics",
+    "url": "https://github.com/xavierleroy/cdf-program-logics",
+    "description": "Companion Coq sources for a course on program logics at Collège de France."
   },
   {
     "name": "Proofs and Reliable Programming using Coq",

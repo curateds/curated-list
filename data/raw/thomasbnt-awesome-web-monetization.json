@@ -5,22 +5,22 @@
   },
   {
     "name": "Documentation",
-    "url": "https://webmonetization.org/docs/getting-started"
+    "url": "https://webmonetization.org/docs/"
   },
   {
     "name": "How Web Monetization work for paying payments",
-    "url": "https://webmonetization.org/docs/sending"
+    "url": "https://webmonetization.org/docs/intro/sending-payments/"
   },
   {
     "name": "How Web Monetization work for receiving payments",
-    "url": "https://webmonetization.org/docs/receiving"
+    "url": "https://webmonetization.org/docs/intro/receiving-payments/"
   },
   {
     "name": "Specifications",
-    "url": "https://webmonetization.org/specification.html"
+    "url": "https://webmonetization.org/specification/"
   },
   {
-    "name": "ILP Forum",
+    "name": "ILP Forum (read only)",
     "url": "https://forum.interledger.org/"
   },
   {
@@ -30,11 +30,6 @@
   {
     "name": "Interledger : Open protocol suite for sending payments across different ledgers",
     "url": "https://interledger.org/"
-  },
-  {
-    "name": "svelte-monetization",
-    "url": "https://github.com/wobsoriano/svelte-monetization",
-    "description": "A minimal and lightweight wrapper for the Web Monetization API."
   },
   {
     "name": "monetize.js",
@@ -47,7 +42,7 @@
     "description": "TypeScript definitions for Web Monetization"
   },
   {
-    "name": "ngx-monetization",
+    "name": "ngx-monetization (archived)",
     "url": "https://github.com/CDDelta/ngx-monetization",
     "description": "Web Monetization API for Angular."
   },
@@ -74,7 +69,7 @@
   {
     "name": "xrptipbot-wordpress-widget",
     "url": "https://wordpress.org/plugins/widget-xrptipbot/",
-    "description": "Wordpress Widget based on XRPTIPBOT embed code to donate content creators."
+    "description": "WordPress Widget based on XRPTIPBOT embed code to donate content creators."
   },
   {
     "name": "eleventy-plugin-monetization",
@@ -168,18 +163,13 @@
   },
   {
     "name": "Getting started",
-    "url": "https://webmonetization.org/docs/getting-started",
+    "url": "https://webmonetization.org/docs/guides/monetize-page/",
     "description": "Official documents from webmonetization.org."
   },
   {
     "name": "Exclusive content",
-    "url": "https://webmonetization.org/docs/exclusive-content",
+    "url": "https://webmonetization.org/docs/guides/provide-exclusive-content/",
     "description": "Put exclusive content on your website."
-  },
-  {
-    "name": "Exclusive content in a Godot web game",
-    "url": "https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization",
-    "description": "Put exclusive content in a web game made with the Godot Game Engine."
   },
   {
     "name": "'A Web Monetization Story'",
@@ -207,14 +197,19 @@
     "description": "Sign up for email updates."
   },
   {
+    "name": "Probabilistic Revshare Generator - Web Monetization",
+    "url": "https://webmonetization.org/prob-revshare/",
+    "description": "Web Monetization - Probabilistic revenue sharing (revshare) is one way to share a portion of a web monetized pages earnings between multiple payment pointers."
+  },
+  {
     "name": "Is web monetized",
     "url": "https://github.com/jkga/is-web-monetized",
     "description": "A very simple tool for checking if Web Monetization is enabled."
   },
   {
     "name": "Paytrackr",
-    "url": "https://github.com/sorxrob/paytrackr",
-    "description": "Track and manage your micropayments into one place."
+    "url": "https://github.com/thomasbnt/paytrackr",
+    "description": "(Forked from wobsoriano/paytrackr) - Track and manage your micropayments into one place."
   },
   {
     "name": "Akita",
@@ -223,7 +218,7 @@
   },
   {
     "name": "Open Monetization Wallet",
-    "url": "https://github.com/signalnerve/openmonetizationwallet",
+    "url": "https://github.com/kristianfreeman/openmonetizationwallet",
     "description": "Tools for managing your vanity Web Monetization wallet."
   },
   {
@@ -233,10 +228,6 @@
   {
     "name": "@GrantForTheWeb on Twitter",
     "url": "https://twitter.com/GrantForTheWeb"
-  },
-  {
-    "name": "@CinnamonVideo on Twitter",
-    "url": "https://twitter.com/CinnamonVideo"
   },
   {
     "name": "Web Monetization tag on DEV",

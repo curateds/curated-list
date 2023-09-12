@@ -49,6 +49,11 @@
     "description": "Scaffolding a Nx + React + Vite + Vitest."
   },
   {
+    "name": "bati",
+    "url": "https://github.com/batijs/bati",
+    "description": "Scaffolding a Vike project."
+  },
+  {
     "name": "vite-vanilla-tailwind-v3",
     "url": "https://github.com/huibizhang/template-vite-vanilla-tailwind-v3",
     "description": "Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in."
@@ -1372,6 +1377,11 @@
     "name": "vite-plugin-singlefile",
     "url": "https://github.com/richardtallent/vite-plugin-singlefile",
     "description": "Inline all JavaScript and CSS resources directly into the final dist/index.html file."
+  },
+  {
+    "name": "vite-plugin-node-polyfills",
+    "url": "https://github.com/davidmyersdev/vite-plugin-node-polyfills",
+    "description": "Polyfill Node's Core Modules for browser environments."
   },
   {
     "name": "vite-plugin-html",

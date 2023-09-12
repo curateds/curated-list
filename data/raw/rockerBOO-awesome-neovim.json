@@ -10,9 +10,9 @@
     "description": "Starter boilerplate with lazy plugin manager."
   },
   {
-    "name": "wbthomason/packer.nvim",
-    "url": "https://github.com/wbthomason/packer.nvim",
-    "description": "A use-package inspired plugin manager. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config."
+    "name": "lewis6991/pckr.nvim",
+    "url": "https://github.com/lewis6991/pckr.nvim",
+    "description": "Spiritual successor of wbthomason/packer.nvim."
   },
   {
     "name": "savq/paq-nvim",
@@ -33,6 +33,11 @@
     "name": "folke/lazy.nvim",
     "url": "https://github.com/folke/lazy.nvim",
     "description": "A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤."
+  },
+  {
+    "name": "roobert/activate.nvim",
+    "url": "https://github.com/roobert/activate.nvim",
+    "description": "A plugin installation system designed to complement folke/lazy.nvim."
   },
   {
     "name": "neovim/nvim-lspconfig",
@@ -1453,6 +1458,11 @@
     "name": "Verf/deepwhite.nvim",
     "url": "https://github.com/Verf/deepwhite.nvim",
     "description": "A light colorscheme inspired by flatwhite-syntax and elegant-emacs."
+  },
+  {
+    "name": "judaew/ronny.nvim",
+    "url": "https://github.com/judaew/ronny.nvim",
+    "description": "A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg."
   },
   {
     "name": "tjdevries/gruvbuddy.nvim",

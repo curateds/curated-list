@@ -537,7 +537,7 @@
   {
     "name": "Shaarli",
     "url": "https://github.com/shaarli/Shaarli",
-    "description": "Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. (Demo) Zlib PHP"
+    "description": "Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. (Demo) Zlib PHP/deb"
   },
   {
     "name": "Shiori",
@@ -717,7 +717,7 @@
   {
     "name": "Mumble",
     "url": "https://wiki.mumble.info/wiki/Main_Page",
-    "description": "Low-latency, high quality voice/text chat software. (Source Code, Clients) BSD-3-Clause C++"
+    "description": "Low-latency, high quality voice/text chat software. (Source Code, Clients) BSD-3-Clause C++/deb"
   },
   {
     "name": "Notifo",
@@ -952,7 +952,7 @@
   {
     "name": "Dovecot",
     "url": "https://www.dovecot.org/",
-    "description": "IMAP and POP3 server written primarily with security in mind. (Source Code) MIT/LGPL-2.1 C"
+    "description": "IMAP and POP3 server written primarily with security in mind. (Source Code) MIT/LGPL-2.1 C/deb"
   },
   {
     "name": "MailForm",
@@ -977,7 +977,7 @@
   {
     "name": "Courier MTA",
     "url": "https://www.courier-mta.org/",
-    "description": "Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. (Source Code) GPL-3.0 C"
+    "description": "Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. (Source Code) GPL-3.0 C/deb"
   },
   {
     "name": "DragonFly",
@@ -992,7 +992,7 @@
   {
     "name": "Exim",
     "url": "https://www.exim.org/",
-    "description": "Message transfer agent (MTA) developed at the University of Cambridge. (Source Code) GPL-3.0 C"
+    "description": "Message transfer agent (MTA) developed at the University of Cambridge. (Source Code) GPL-3.0 C/deb"
   },
   {
     "name": "Haraka",
@@ -1017,17 +1017,17 @@
   {
     "name": "OpenSMTPD",
     "url": "https://opensmtpd.org/",
-    "description": "Secure SMTP server implementation from the OpenBSD project. (Source Code) ISC C"
+    "description": "Secure SMTP server implementation from the OpenBSD project. (Source Code) ISC C/deb"
   },
   {
     "name": "Postfix",
     "url": "http://www.postfix.org/",
-    "description": "Fast, easy to administer, and secure Sendmail replacement. IPL-1.0 C"
+    "description": "Fast, easy to administer, and secure Sendmail replacement. IPL-1.0 C/deb"
   },
   {
     "name": "Sendmail",
     "url": "https://www.proofpoint.com/us/products/email-protection/open-source-email-solution",
-    "description": "Message transfer agent (MTA). Sendmail C"
+    "description": "Message transfer agent (MTA). Sendmail C/deb"
   },
   {
     "name": "Slimta",
@@ -1122,7 +1122,7 @@
   {
     "name": "Roundcube",
     "url": "https://roundcube.net",
-    "description": "Browser-based IMAP client with an application-like user interface. (Source Code) GPL-3.0 PHP"
+    "description": "Browser-based IMAP client with an application-like user interface. (Source Code) GPL-3.0 PHP/deb"
   },
   {
     "name": "SnappyMail",
@@ -1162,7 +1162,7 @@
   {
     "name": "ngircd",
     "url": "https://ngircd.barton.de/",
-    "description": "Free, portable and lightweight Internet Relay Chat server for small or private networks. (Source Code) GPL-2.0 C"
+    "description": "Free, portable and lightweight Internet Relay Chat server for small or private networks. (Source Code) GPL-2.0 C/deb"
   },
   {
     "name": "Quassel IRC",
@@ -1187,17 +1187,17 @@
   {
     "name": "Weechat",
     "url": "https://weechat.org/",
-    "description": "Fast, light and extensible chat client. (Source Code) GPL-3.0 C/Docker"
+    "description": "Fast, light and extensible chat client. (Source Code) GPL-3.0 C/Docker/deb"
   },
   {
     "name": "ZNC",
     "url": "https://wiki.znc.in/ZNC",
-    "description": "Advanced IRC bouncer. (Source Code) Apache-2.0 C++"
+    "description": "Advanced IRC bouncer. (Source Code) Apache-2.0 C++/deb"
   },
   {
     "name": "Asterisk",
     "url": "https://www.asterisk.org/",
-    "description": "Easy to use but advanced IP PBX system, VoIP gateway and conference server. (Source Code) GPL-2.0 C"
+    "description": "Easy to use but advanced IP PBX system, VoIP gateway and conference server. (Source Code) GPL-2.0 C/deb"
   },
   {
     "name": "ASTPP",
@@ -1232,7 +1232,7 @@
   {
     "name": "Kamailio",
     "url": "https://www.kamailio.org/w/",
-    "description": "Modular SIP server (registrar/proxy/router/etc). (Source Code) GPL-2.0 C"
+    "description": "Modular SIP server (registrar/proxy/router/etc). (Source Code) GPL-2.0 C/deb"
   },
   {
     "name": "Kazoo",
@@ -1542,12 +1542,12 @@
   {
     "name": "Jitsi Meet",
     "url": "https://jitsi.org/Projects/JitsiMeet",
-    "description": "Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. (Source Code) Apache-2.0 Nodejs/Docker"
+    "description": "Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. (Source Code) Apache-2.0 Nodejs/Docker/deb"
   },
   {
     "name": "Jitsi Video Bridge",
     "url": "https://jitsi.org/Projects/JitsiVideobridge",
-    "description": "WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. (Source Code) Apache-2.0 Java"
+    "description": "WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. (Source Code) Apache-2.0 Java/deb"
   },
   {
     "name": "LiveKit",
@@ -2397,12 +2397,12 @@
   {
     "name": "Nextcloud",
     "url": "https://nextcloud.com/",
-    "description": "Access and share your files, calendars, contacts, mail and more from any device, on your terms. (Demo, Source Code) AGPL-3.0 PHP"
+    "description": "Access and share your files, calendars, contacts, mail and more from any device, on your terms. (Demo, Source Code) AGPL-3.0 PHP/deb"
   },
   {
     "name": "OpenSSH SFTP server",
     "url": "https://www.openssh.com/",
-    "description": "Secure File Transfer Program. (Source Code) BSD-2-Clause C"
+    "description": "Secure File Transfer Program. (Source Code) BSD-2-Clause C/deb"
   },
   {
     "name": "ownCloud",
@@ -2475,11 +2475,6 @@
     "description": "Powerful decentralized file sharing applications built from a large ecosystem of modules. (Source Code) MIT Nodejs"
   },
   {
-    "name": "exatorrent",
-    "url": "https://github.com/varbhat/exatorrent",
-    "description": "BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. GPL-3.0 Go"
-  },
-  {
     "name": "instant.io",
     "url": "https://github.com/webtorrent/instant.io",
     "description": "Streaming file transfer over WebTorrent. (Demo) MIT Nodejs"
@@ -2497,7 +2492,7 @@
   {
     "name": "Transmission",
     "url": "https://transmissionbt.com/",
-    "description": "Fast, easy, free Bittorrent client. (Source Code) GPL-3.0 C++"
+    "description": "Fast, easy, free Bittorrent client. (Source Code) GPL-3.0 C++/deb"
   },
   {
     "name": "ass",
@@ -3367,7 +3362,7 @@
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.org",
-    "description": "Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. (Demo, Source Code) GPL-2.0 C#"
+    "description": "Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. (Demo, Source Code) GPL-2.0 C#/deb"
   },
   {
     "name": "Karaoke Eternal",
@@ -4727,7 +4722,7 @@
   {
     "name": "iodine",
     "url": "https://code.kryo.se/iodine/",
-    "description": "IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. (Source Code) ISC C"
+    "description": "IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. (Source Code) ISC C/deb"
   },
   {
     "name": "Koblas",
@@ -4752,7 +4747,7 @@
   {
     "name": "Privoxy",
     "url": "https://www.privoxy.org",
-    "description": "Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. GPL-2.0 C"
+    "description": "Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. GPL-2.0 C/deb"
   },
   {
     "name": "sish",
@@ -4767,7 +4762,7 @@
   {
     "name": "Squid",
     "url": "http://www.squid-cache.org/",
-    "description": "Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. (Source Code) GPL-2.0 C"
+    "description": "Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. (Source Code) GPL-2.0 C/deb"
   },
   {
     "name": "SWAG (Secure Web Application Gateway)",
@@ -4777,7 +4772,7 @@
   {
     "name": "Tinyproxy",
     "url": "https://tinyproxy.github.io/",
-    "description": "Light-weight HTTP/HTTPS proxy daemon. (Source Code) GPL-2.0 C"
+    "description": "Light-weight HTTP/HTTPS proxy daemon. (Source Code) GPL-2.0 C/deb"
   },
   {
     "name": "Bar Assistant",
@@ -4973,6 +4968,11 @@
     "name": "sist2",
     "url": "https://github.com/simon987/sist2",
     "description": "Lightning-fast file system indexer and search tool. GPL-3.0 C"
+  },
+  {
+    "name": "Sosse",
+    "url": "https://sosse.readthedocs.io/en/stable/",
+    "description": "Selenium based search engine and crawler with offline archiving. (Source Code) AGPL-3.0 Python/Docker"
   },
   {
     "name": "Typesense",
@@ -5942,7 +5942,7 @@
   {
     "name": "Zim",
     "url": "https://zim-wiki.org/",
-    "description": "Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. (Source Code) GPL-2.0 Python"
+    "description": "Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. (Source Code) GPL-2.0 Python/deb"
   },
   {
     "name": "BSD Zero-Clause Licence",

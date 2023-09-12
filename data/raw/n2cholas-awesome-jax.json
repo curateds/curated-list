@@ -50,6 +50,11 @@
     "description": "Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX."
   },
   {
+    "name": "Scenic",
+    "url": "https://github.com/google-research/scenic",
+    "description": "A Jax Library for Computer Vision Research and Beyond."
+  },
+  {
     "name": "NumPyro",
     "url": "https://github.com/pyro-ppl/numpyro",
     "description": "Probabilistic programming based on the Pyro library."
@@ -353,6 +358,46 @@
     "name": "Kernex",
     "url": "https://github.com/ASEM000/kernex",
     "description": "Differentiable stencil decorators in JAX."
+  },
+  {
+    "name": "MaxText",
+    "url": "https://github.com/google/maxtext",
+    "description": "A simple, performant and scalable Jax LLM written in pure Python/Jax and targeting Google Cloud TPUs."
+  },
+  {
+    "name": "Pax",
+    "url": "https://github.com/google/paxml",
+    "description": "A Jax-based machine learning framework for training large scale models."
+  },
+  {
+    "name": "Praxis",
+    "url": "https://github.com/google/praxis",
+    "description": "The layer library for Pax with a goal to be usable by other JAX-based ML projects."
+  },
+  {
+    "name": "purejaxrl",
+    "url": "https://github.com/luchris429/purejaxrl",
+    "description": "Vectorisable, end-to-end RL algorithms in JAX."
+  },
+  {
+    "name": "Lorax",
+    "url": "https://github.com/davisyoshida/lorax",
+    "description": "Automatically apply LoRA to JAX models (Flax, Haiku, etc.)"
+  },
+  {
+    "name": "SCICO",
+    "url": "https://github.com/lanl/scico",
+    "description": "Scientific computational imaging in JAX."
+  },
+  {
+    "name": "BrainPy",
+    "url": "https://github.com/brainpy/BrainPy",
+    "description": "Brain Dynamics Programming in Python."
+  },
+  {
+    "name": "OTT-JAX",
+    "url": "https://github.com/ott-jax/ott",
+    "description": "Optimal transport tools in JAX."
   },
   {
     "name": "Fourier Feature Networks",
@@ -818,6 +863,11 @@
     "name": "Deep Learning tutorials with JAX+Flax by Phillip Lippe",
     "url": "https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX.html",
     "description": "A series of notebooks explaining various deep learning concepts, from basics (e.g. intro to JAX/Flax, activiation functions) to recent advances (e.g., Vision Transformers, SimCLR), with translations to PyTorch."
+  },
+  {
+    "name": "Achieving 4000x Speedups with PureJaxRL",
+    "url": "https://chrislu.page/blog/meta-disco/",
+    "description": "A blog post on how JAX can massively speedup RL training through vectorisation."
   },
   {
     "name": "Jax in Action",

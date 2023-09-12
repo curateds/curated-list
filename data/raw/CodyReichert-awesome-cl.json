@@ -699,6 +699,51 @@
     "description": "A CL framework for the creation of electronic art, graphics, and lots more. MIT."
   },
   {
+    "name": "cl-svg",
+    "url": "https://github.com/wmannis/cl-svg",
+    "description": "A basic library for producing SVG files. Expat."
+  },
+  {
+    "name": "dufy",
+    "url": "https://github.com/privet-kitty/dufy",
+    "description": "exact color manipulation and conversion in various color models. MIT."
+  },
+  {
+    "name": "opticl",
+    "url": "https://github.com/slyrus/opticl",
+    "description": "a library for representing and processing images. BSD_2Clause."
+  },
+  {
+    "name": "Varjo",
+    "url": "https://github.com/cbaggers/varjo",
+    "description": "Lisp to GLSL translator. BSD_2Clause."
+  },
+  {
+    "name": "Vecto",
+    "url": "http://www.xach.com/lisp/vecto/",
+    "description": "Simple vector drawing library. FreeBSD."
+  },
+  {
+    "name": "zpng",
+    "url": "http://www.xach.com/lisp/zpng/",
+    "description": "A library for creating PNG files. FreeBSD."
+  },
+  {
+    "name": "pngload-fast",
+    "url": "https://git.mfiano.net/mfiano/pngload",
+    "description": "A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. MIT."
+  },
+  {
+    "name": "cl-raylib",
+    "url": "https://github.com/bohonghuang/claw-raylib",
+    "description": "fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0."
+  },
+  {
+    "name": "glfw",
+    "url": "https://github.com/shirakumo/glfw",
+    "description": "An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library."
+  },
+  {
     "name": "common-cv",
     "url": "https://github.com/byulparan/common-cv",
     "description": "the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified."
@@ -739,11 +784,6 @@
     "description": "Bindings for SDL2 using C2FFI. Expat."
   },
   {
-    "name": "cl-svg",
-    "url": "https://github.com/wmannis/cl-svg",
-    "description": "A basic library for producing SVG files. Expat."
-  },
-  {
     "name": "CLinch",
     "url": "https://github.com/BradWBeer/CLinch",
     "description": "Common Lisp 2D/3D graphics engine for OpenGL. FreeBSD."
@@ -752,11 +792,6 @@
     "name": "donuts",
     "url": "https://github.com/tkych/donuts",
     "description": "Graphviz interface for Common Lisp. Expat."
-  },
-  {
-    "name": "dufy",
-    "url": "https://github.com/privet-kitty/dufy",
-    "description": "exact color manipulation and conversion in various color models. MIT."
   },
   {
     "name": "lispbuilder-sdl",
@@ -772,31 +807,6 @@
     "name": "okra",
     "url": "https://www.common-lisp.net/project/okra/manual.html",
     "description": "CFFI bindings to Ogre. Not available on Quicklisp. 3-clause BSD."
-  },
-  {
-    "name": "opticl",
-    "url": "https://github.com/slyrus/opticl",
-    "description": "a library for representing and processing images. BSD_2Clause."
-  },
-  {
-    "name": "Varjo",
-    "url": "https://github.com/cbaggers/varjo",
-    "description": "Lisp to GLSL translator. BSD_2Clause."
-  },
-  {
-    "name": "Vecto",
-    "url": "http://www.xach.com/lisp/vecto/",
-    "description": "Simple vector drawing library. FreeBSD."
-  },
-  {
-    "name": "zpng",
-    "url": "http://www.xach.com/lisp/zpng/",
-    "description": "A library for creating PNG files. FreeBSD."
-  },
-  {
-    "name": "pngload-fast",
-    "url": "https://git.mfiano.net/mfiano/pngload",
-    "description": "A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. MIT."
   },
   {
     "name": "cl-cuda",

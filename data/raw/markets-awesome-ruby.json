@@ -213,6 +213,11 @@
     "description": "Sass makes CSS fun again."
   },
   {
+    "name": "Shakapacker",
+    "url": "https://github.com/shakacode/shakapacker",
+    "description": "Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)"
+  },
+  {
     "name": "Sprockets",
     "url": "https://github.com/rails/sprockets",
     "description": "Rack-based asset packaging system."
@@ -221,11 +226,6 @@
     "name": "Torba",
     "url": "https://github.com/torba-rb/torba",
     "description": "Bower-less bundler for Sprockets."
-  },
-  {
-    "name": "Webpacker",
-    "url": "https://github.com/rails/webpacker",
-    "description": "Use Webpack to manage app-like JavaScript modules in Rails."
   },
   {
     "name": "Vite Ruby",

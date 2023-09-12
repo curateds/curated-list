@@ -1455,9 +1455,19 @@
     "description": "Powerful, performs operating-system-level virtualization."
   },
   {
+    "name": "MacVirtue",
+    "url": "https://naden.co",
+    "description": "Run free and unlimited Virtual Machines on your Mac."
+  },
+  {
     "name": "Multipass",
     "url": "https://multipass.run/",
     "description": "Ubuntu VMs on demand for any workstation."
+  },
+  {
+    "name": "OrbStack",
+    "url": "https://orbstack.dev/",
+    "description": "OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS."
   },
   {
     "name": "Parallels",
@@ -1493,11 +1503,6 @@
     "name": "VMware Fusion",
     "url": "http://www.vmware.com/",
     "description": "Powerful, commercial VM developed by VMware."
-  },
-  {
-    "name": "OrbStack",
-    "url": "https://orbstack.dev/",
-    "description": "OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS."
   },
   {
     "name": "Apache Directory Studio",
@@ -3122,14 +3127,29 @@
     "description": "Personal IPSEC VPN in the cloud."
   },
   {
-    "name": "tigerVPN",
-    "url": "https://www.tigervpn.com/vpn-for-mac",
-    "description": "VPN Client for Mac."
+    "name": "ClashX",
+    "url": "https://github.com/yichengchen/clashX",
+    "description": "A rule-based proxy for Mac based on Clash."
   },
   {
     "name": "Lantern",
     "url": "https://getlantern.org",
     "description": "Free application that delivers fast, reliable and secure access to the open internet."
+  },
+  {
+    "name": "Mullvad VPN",
+    "url": "https://mullvad.net",
+    "description": "Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more."
+  },
+  {
+    "name": "Outline",
+    "url": "https://getoutline.org/",
+    "description": "Outline makes it easy to create a VPN server, giving anyone access to the free and open internet."
+  },
+  {
+    "name": "RerouteMe",
+    "url": "https://naden.co",
+    "description": "An easy one-click macOS Proxy Configuration app."
   },
   {
     "name": "ShadowsocksX-NG",
@@ -3157,6 +3177,11 @@
     "description": "Web developer tool and proxy utility for iOS 9."
   },
   {
+    "name": "TigerVPN",
+    "url": "https://www.tigervpn.com/vpn-for-mac",
+    "description": "VPN Client for Mac."
+  },
+  {
     "name": "tinc",
     "url": "https://www.tinc-vpn.org",
     "description": "Secure mesh VPN software."
@@ -3180,21 +3205,6 @@
     "name": "Windscribe",
     "url": "https://windscribe.com",
     "description": "Gives 10GB free bandwidth monthly on the spot and gives limited server location options (for users on free plan). Connection also takes very less time."
-  },
-  {
-    "name": "ClashX",
-    "url": "https://github.com/yichengchen/clashX",
-    "description": "A rule-based proxy for Mac based on Clash."
-  },
-  {
-    "name": "Mullvad VPN",
-    "url": "https://mullvad.net",
-    "description": "Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more."
-  },
-  {
-    "name": "Outline",
-    "url": "https://getoutline.org/",
-    "description": "Outline makes it easy to create a VPN server, giving anyone access to the free and open internet."
   },
   {
     "name": "Clipboard",
@@ -3355,6 +3365,11 @@
     "name": "Pandan",
     "url": "https://sindresorhus.com/pandan",
     "description": "Time awareness in your menu bar."
+  },
+  {
+    "name": "PowerMeister",
+    "url": "https://naden.co",
+    "description": "Conserve energy and improve Battery-Life on your MacBook."
   },
   {
     "name": "Reminders MenuBar",
@@ -4045,6 +4060,11 @@
     "name": "KeyCastr",
     "url": "https://github.com/keycastr/keycastr",
     "description": "Open-source keystroke visualizer."
+  },
+  {
+    "name": "Luminescent",
+    "url": "https://naden.co",
+    "description": "Bring back Keyboard Backlight Shortcuts for the MacBook."
   },
   {
     "name": "Lunar",
