@@ -784,6 +784,11 @@
     "description": "A Sparse Entity Component System Framework for Crystal"
   },
   {
+    "name": "Raylib-cr",
+    "url": "https://github.com/sol-vin/raylib-cr",
+    "description": "Direct bindings to Raylib, which supports Linux, Windows, and Mac"
+  },
+  {
     "name": "SDL-Crystal-Bindings",
     "url": "https://github.com/Hadeweka/SDL-Crystal-Bindings",
     "description": "Direct (unsafe) bindings to SDL2, intended for writing own game libraries"

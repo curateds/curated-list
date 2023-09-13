@@ -204,6 +204,11 @@
     "description": "Simple clone of popular Wordle game in Blazor. Demo."
   },
   {
+    "name": "Blazor Puzzle #3 - File not found",
+    "url": "https://github.com/BlazorPuzzle/Puzzle-3",
+    "description": "File not found"
+  },
+  {
     "name": "Blazor + Electron",
     "url": "https://aka.ms/blazorelectron",
     "description": "Host Razor Components inside an Electron shell. This allows for modern, high-performance cross-platform desktop apps built with .NET and web technologies."
@@ -1204,6 +1209,26 @@
     "description": "Try .NET provides developers and content authors with tools to create interactive experiences."
   },
   {
+    "name": "ASP.NET Community Standup - Full Stack Blazor Tips and Updates",
+    "url": "https://www.youtube.com/watch?v=47CZqb53nCM",
+    "description": "Full Stack Blazor Tips and Updates -  September 12, 2023 - Discover how full stack Blazor apps work and how they differ from traditional Blazor Server and WebAssembly apps. We'll also explore some of the new full stack UI features that Blazor offers in .NET 8 RC1. Community links."
+  },
+  {
+    "name": "The Blazor Puzzle : Puzzle 3",
+    "url": "https://www.youtube.com/watch?v=QMw9GgiU_Ng",
+    "description": "September 8, 2023 - Carl Franklin and Jeff Fritz offer Blazor-based problems to be solved and give away prizes to lucky winners. Source code."
+  },
+  {
+    "name": "How to Authenticate a Blazor Server App with Azure AD",
+    "url": "https://www.youtube.com/watch?v=pjnDFnOiMwk",
+    "description": "September 7, 2023 - This short video is about how to create a new Blazor Server application and authenticate it using Azure AD."
+  },
+  {
+    "name": "Burke Learns Blazor - API Updates",
+    "url": "https://www.youtube.com/watch?v=70gh038Z9kA",
+    "description": "API Updates -  August 25, 2023 - We're going to update the API to use the Cosmos client and maybe do some updates on the Edit form. And Burke shows off the signature move that won him the \"Pop 'n' Lock\" championship."
+  },
+  {
     "name": "Burke Learns Blazor",
     "url": "https://www.youtube.com/watch?v=qONPW7N_r8k",
     "description": "July 7, 2023 - Finishing the API and starting the UI. Community links."
@@ -1667,6 +1692,16 @@
     "name": "Archives",
     "url": "https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives",
     "description": "2021, 2020, 2019, 2018, 2017."
+  },
+  {
+    "name": "Announcing .NET 8 RC1",
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-rc1/",
+    "description": "September 12, 2023 - This release includes a new AOT mode for both Android and WASM, System.Text.Json improvements, and Azure Managed Identity support for containers. Now is great time to pick up and test .NET 8 if you haven’t yet."
+  },
+  {
+    "name": ".NET Blazor Overview and Upcoming .NET 8 Changes",
+    "url": "https://www.sitepoint.com/net-blazor-overview/",
+    "description": "September 5, 2023 - This article introduces .NET Blazor, a powerful framework that unifies client-side and server-side development paradigms and offers enhanced performance and improved tooling."
   },
   {
     "name": "Silverlight Just Won't Die: 'XAML for Blazor' Arrives",

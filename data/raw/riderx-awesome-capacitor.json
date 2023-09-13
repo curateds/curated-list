@@ -373,19 +373,39 @@
     "description": "Record screen and save to pelicule."
   },
   {
-    "name": "Purchases",
-    "url": "https://github.com/Cap-go/capacitor-purchases",
-    "description": "Capacitor in-app purchases and subscriptions made easy with RevenueCat."
-  },
-  {
     "name": "In app Browser",
     "url": "https://github.com/Cap-go/capacitor-inappbrowser",
-    "description": "Browser In app browser with urlChangeEvent."
+    "description": "Browser In app browser with urlChangeEvent and ability to clear cookie."
   },
   {
     "name": "Camera preview",
     "url": "https://github.com/Cap-go/camera-preview",
     "description": "Capacitor plugin that allows camera interaction from HTML code (fork)."
+  },
+  {
+    "name": "Shake",
+    "url": "https://github.com/Cap-go/capacitor-shake",
+    "description": "Detect shake gesture in device."
+  },
+  {
+    "name": "Navigation bar",
+    "url": "https://github.com/Cap-go/capacitor-navigation-bar",
+    "description": "Set navigation bar color for android lolipop and higher."
+  },
+  {
+    "name": "Video Player IVS",
+    "url": "https://github.com/Cap-go/ivs-player",
+    "description": "Native Ivs player for Capacitor app Android and IOS."
+  },
+  {
+    "name": "Home indicator",
+    "url": "https://github.com/Cap-go/home-indicator",
+    "description": "Hide and show home button indicator in Capacitor app."
+  },
+  {
+    "name": "Naitve Purchases",
+    "url": "https://github.com/Cap-go/native-purchases",
+    "description": "Manage IAP on capacitor with latest libs Android and IOS."
   },
   {
     "name": "Capawesome plugins",
@@ -558,6 +578,11 @@
     "name": "Label Recognizer",
     "url": "https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer",
     "description": "Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer."
+  },
+  {
+    "name": "Purchases",
+    "url": "https://github.com/RevenueCat/purchases-capacitor",
+    "description": "Capacitor in-app purchases and subscriptions made easy with RevenueCat."
   },
   {
     "name": "Email composer",

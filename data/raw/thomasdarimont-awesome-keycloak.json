@@ -353,6 +353,10 @@
     "url": "https://kaeruct.github.io/posts/how-to-use-lets-encrypt-certificates-with-keycloak.html"
   },
   {
+    "name": "Keycloak Workshop for Step Up with MFA Biometrics Authentication (Passkeys) and Passwordless experience with Passkey autofill",
+    "url": "https://embesozzi.medium.com/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b"
+  },
+  {
     "name": "JDD2015 - Keycloak Open Source Identity and Access Management Solution",
     "url": "https://www.youtube.com/watch?v=TuEkj25lbd0",
     "description": "Keycloak Open Source Identity and Access Management Solution"
@@ -629,6 +633,10 @@
   {
     "name": "rciam/keycloak-group-management",
     "url": "https://github.com/rciam/keycloak-group-management"
+  },
+  {
+    "name": "embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys",
+    "url": "https://github.com/embesozzi/keycloak-webauthn-conditional-mediation"
   },
   {
     "name": "Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter",
@@ -955,6 +963,10 @@
   {
     "name": "FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI",
     "url": "https://github.com/mposolda/fapi-demo/tree/main"
+  },
+  {
+    "name": "Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi)",
+    "url": "https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics"
   },
   {
     "name": "Gatling based Benchmark by @rvansa",

@@ -226,7 +226,7 @@
   },
   {
     "name": "GitLab CI",
-    "url": "https://about.gitlab.com/gitlab-ci/",
+    "url": "https://about.gitlab.com/solutions/continuous-integration/",
     "description": "Gitlab's built-in, full-featured CI/CD solution. (Source Code) MIT Ruby"
   },
   {
@@ -386,7 +386,7 @@
   },
   {
     "name": "Ceph",
-    "url": "https://ceph.com/",
+    "url": "https://ceph.com/en/",
     "description": "Distributed object, block, and file storage platform. (Source Code) LGPL-3.0 C++"
   },
   {
@@ -506,8 +506,8 @@
   },
   {
     "name": "Atomia DNS",
-    "url": "https://atomiadns.com/",
-    "description": "DNS management system. (Source Code) ISC Perl"
+    "url": "https://github.com/atomia/atomiadns/",
+    "description": "DNS management system. ISC Perl"
   },
   {
     "name": "Designate",
@@ -868,6 +868,11 @@
     "name": "eZ Server Monitor",
     "url": "https://www.ezservermonitor.com",
     "description": "A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. (Source Code) GPL-3.0 PHP/Shell"
+  },
+  {
+    "name": "glances",
+    "url": "https://nicolargo.github.io/glances/",
+    "description": "Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. (Source Code)) GPL-3.0 Python"
   },
   {
     "name": "Healthchecks",
