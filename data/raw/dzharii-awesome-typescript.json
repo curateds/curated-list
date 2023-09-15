@@ -515,7 +515,7 @@
   {
     "name": "typia",
     "url": "https://github.com/samchon/typia",
-    "description": "20,000x times faster runtime validator using pure TypeScript type. Only one line required like typia.assert<T>(input). Also, supports 200x faster JSON serialization and JSON schema generator with only one line. 🚀 (see also https://typia.io/docs)"
+    "description": "20,000x times faster runtime validator using pure TypeScript type. Only one line required like typia.assert<T>(input). Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also https://typia.io/docs)"
   },
   {
     "name": "fta",
@@ -858,6 +858,10 @@
     "name": "Prisma",
     "url": "https://github.com/prisma/prisma",
     "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite"
+  },
+  {
+    "name": "prisma-markdown",
+    "url": "https://github.com/samchon/prisma-markdown"
   },
   {
     "name": "Neuledge",

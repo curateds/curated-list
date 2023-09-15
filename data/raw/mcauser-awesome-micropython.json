@@ -3260,6 +3260,11 @@
     "description": "PostgreSQL database driver for MicroPython."
   },
   {
+    "name": "micropg_lite",
+    "url": "https://github.com/TimonW-Dev/micropg_lite",
+    "description": "PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality."
+  },
+  {
     "name": "nmongo",
     "url": "https://github.com/nakagami/nmongo",
     "description": "MongoDB client for CPython and MicroPython, with MongoDB shell-like APIs."

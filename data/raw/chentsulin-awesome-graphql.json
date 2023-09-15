@@ -386,6 +386,11 @@
     "description": "Graphql Tools to Strucutre , Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server"
   },
   {
+    "name": "graphql-to-type",
+    "url": "https://github.com/lkster/graphql-to-type",
+    "description": "GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query"
+  },
+  {
     "name": "graphql-tools",
     "url": "https://github.com/apollographql/graphql-tools",
     "description": "Tool library for building and maintaining GraphQL-JS servers."

@@ -1384,6 +1384,11 @@
     "description": "Polyfill Node's Core Modules for browser environments."
   },
   {
+    "name": "vite-plugin-cdn2",
+    "url": "https://github.com/nonzzz/vite-plugin-cdn",
+    "description": "Replace module with CDN."
+  },
+  {
     "name": "vite-plugin-html",
     "url": "https://github.com/anncwb/vite-plugin-html",
     "description": "Plugin to minimize and use ejs template syntax in index.html."
