@@ -435,11 +435,6 @@
     "description": "Private blogging system with markdown editing and built in RSS reader. (Demo, Source Code) MIT Ruby"
   },
   {
-    "name": "htmly",
-    "url": "https://www.htmly.com/",
-    "description": "Databaseless Blogging Platform (Flat-File Blog). (Demo, Source Code) GPL-2.0 PHP"
-  },
-  {
     "name": "Known",
     "url": "https://withknown.com/",
     "description": "A collaborative social publishing platform. (Source Code) Apache-2.0 PHP"
@@ -738,11 +733,6 @@
     "name": "OTS",
     "url": "https://ots.fyi/",
     "description": "One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. (Source Code) Apache-2.0 Go"
-  },
-  {
-    "name": "Papercups",
-    "url": "https://papercups.io/",
-    "description": "An open source live customer chat web app written in Elixir. (Demo, Source Code) MIT Elixir"
   },
   {
     "name": "PushBits",
@@ -1508,11 +1498,6 @@
     "name": "Thredded",
     "url": "https://github.com/thredded/thredded",
     "description": "Forums, feature-rich and simple. MIT Ruby"
-  },
-  {
-    "name": "Vanilla Forums",
-    "url": "https://vanillaforums.org/",
-    "description": "Simple and flexible forum software. (Source Code) GPL-2.0 PHP"
   },
   {
     "name": "yarn.social",
@@ -3185,11 +3170,6 @@
     "description": "Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc. (Source Code) BSD-2-Clause Nodejs"
   },
   {
-    "name": "TileServer PHP",
-    "url": "https://www.maptiler.com/server/",
-    "description": "Serve map tiles from any PHP hosting. (Source Code) BSD-2-Clause PHP"
-  },
-  {
     "name": "Traccar",
     "url": "https://www.traccar.org/",
     "description": "Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. (Demo, Source Code) Apache-2.0 Java"
@@ -3495,11 +3475,6 @@
     "description": "Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. (Source Code) AGPL-3.0 Nodejs"
   },
   {
-    "name": "Radium",
-    "url": "https://github.com/Zibbp/Radium",
-    "description": "Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases. MIT Nodejs/Docker"
-  },
-  {
     "name": "Rapidbay",
     "url": "https://github.com/hauxir/rapidbay/",
     "description": "Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. MIT Python/Docker"
@@ -3640,6 +3615,11 @@
     "description": "Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). (Source Code) BSD-3-Clause Docker"
   },
   {
+    "name": "Flipt",
+    "url": "https://flipt.io",
+    "description": "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). (Demo, Source Code) GPL-3.0 Docker/K8S/Go"
+  },
+  {
     "name": "GO Feature Flag",
     "url": "https://gofeatureflag.org",
     "description": "Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). (Source Code) MIT Go"
@@ -3683,11 +3663,6 @@
     "name": "Kasm Workspaces",
     "url": "https://kasmweb.com/",
     "description": "Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. (Demo, Source Code) GPL-3.0 Docker"
-  },
-  {
-    "name": "King Phisher",
-    "url": "https://github.com/rsmusllp/king-phisher",
-    "description": "King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. BSD-3-Clause Python"
   },
   {
     "name": "Koillection",
@@ -3858,11 +3833,6 @@
     "name": "TeslaMate",
     "url": "https://github.com/adriankumpf/teslamate",
     "description": "A powerful data logger for Tesla vehicles. MIT Elixir"
-  },
-  {
-    "name": "tmate",
-    "url": "https://tmate.io/",
-    "description": "Instant terminal sharing. (Source Code) ISC C"
   },
   {
     "name": "Upsnap",
@@ -5373,11 +5343,6 @@
     "name": "GitLab",
     "url": "https://about.gitlab.com",
     "description": "Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. (Demo, Source Code) MIT Ruby"
-  },
-  {
-    "name": "Gitlist",
-    "url": "https://gitlist.org/",
-    "description": "Web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. (Source Code) BSD-3-Clause PHP"
   },
   {
     "name": "Gitolite",

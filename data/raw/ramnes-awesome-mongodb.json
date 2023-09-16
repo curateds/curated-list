@@ -416,6 +416,11 @@
     "description": "MongoDB cmdlets for PowerShell"
   },
   {
+    "name": "AtlasQ",
+    "url": "https://github.com/certego/AtlasQ",
+    "description": "MongoDB Atlas Search wrapper with MongoEngine syntax"
+  },
+  {
     "name": "Beanie",
     "url": "https://github.com/roman-right/beanie",
     "description": "Asynchronous ODM based on Motor and Pydantic, which supports migrations out of the box"
@@ -424,6 +429,11 @@
     "name": "Djongo",
     "url": "https://github.com/nesdis/djongo",
     "description": "MongoDB connector for Django compatible with Django ORM"
+  },
+  {
+    "name": "Flask-MongoEngine",
+    "url": "https://github.com/MongoEngine/flask-mongoengine",
+    "description": "Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar"
   },
   {
     "name": "Flask-Stupe",

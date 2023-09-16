@@ -521,6 +521,11 @@
     "description": "An instant security layer for production GraphQL Endpoints."
   },
   {
+    "name": "goctopus",
+    "url": "https://github.com/Escape-Technologies/goctopus",
+    "description": "an incredibly fast GraphQL discovery & fingerprinting toolbox."
+  },
+  {
     "name": "GraphQL Constraint Directive",
     "url": "https://github.com/confuser/graphql-constraint-directive",
     "description": "Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI"
@@ -2158,6 +2163,10 @@
     "url": "https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd"
   },
   {
+    "name": "How to Test your GraphQL Endpoints",
+    "url": "https://escape.tech/blog/8-most-common-graphql-vulnerabilities/"
+  },
+  {
     "name": "How to GraphQL",
     "url": "https://www.howtographql.com",
     "description": "Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more."
@@ -2176,5 +2185,10 @@
     "name": "GraphQL Roadmap",
     "url": "https://roadmap.sh/graphql/",
     "description": "Step by step guide to learn GraphQL."
+  },
+  {
+    "name": "GraphQL Security Academy",
+    "url": "https://escape.tech/academy/",
+    "description": "a free and interactive platform to learn GraphQL security: how to find, exploit and fix GraphQL vulnerabilities."
   }
 ]
