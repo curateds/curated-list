@@ -665,6 +665,11 @@
     "description": "Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface."
   },
   {
+    "name": "objc",
+    "url": "https://github.com/magic003/objc",
+    "description": "V bindings to Objective-C runtime."
+  },
+  {
     "name": "range",
     "url": "https://github.com/Delta456/range",
     "description": "Functionality of Python's range() in V."
