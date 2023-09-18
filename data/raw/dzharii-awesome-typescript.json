@@ -994,6 +994,11 @@
     "description": "Typescript library to easily implement Event Sourcing in your application"
   },
   {
+    "name": "sweet-monads",
+    "url": "https://github.com/JSMonk/sweet-monads",
+    "description": "Typescript library for popular monads (such as Maybe or Either) and performant iterators."
+  },
+  {
     "name": "Angular Applications with TypeScript",
     "url": "https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330"
   },
@@ -1022,6 +1027,11 @@
     "name": "Functional Programming with TypeScript",
     "url": "https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo",
     "description": "Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist."
+  },
+  {
+    "name": "Building CRM from scratch with Typescript and Bun",
+    "url": "https://www.youtube.com/watch?v=l4QjeBEkNLc",
+    "description": "Building a real-world CRM system from scratch, without big frameworks. Bun, Typescript and Tailwind."
   },
   {
     "name": "TypeScript Fundamentals",

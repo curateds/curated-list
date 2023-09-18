@@ -16,6 +16,10 @@
     "url": "https://github.com/niedev/awesome-translations/tree/it_IT"
   },
   {
+    "name": "French",
+    "url": "https://github.com/alexture/awesome-translations/tree/fr_FR"
+  },
+  {
     "name": "Crowdin",
     "url": "https://crowdin.com/",
     "description": "Closed source cloud-based localization technology and services company."
@@ -23,7 +27,7 @@
   {
     "name": "LocaleApp",
     "url": "https://www.localeapp.com/",
-    "description": "Effective app localization and translation."
+    "description": "App for localization and translation."
   },
   {
     "name": "Transifex",
@@ -63,7 +67,7 @@
   {
     "name": "Traduora",
     "url": "https://github.com/traduora/traduora",
-    "description": "A platform for manage translation workflow in teams."
+    "description": "A platform to manage translation workflow in teams."
   },
   {
     "name": "GitLocalize",
@@ -103,7 +107,7 @@
   {
     "name": "OmegaT",
     "url": "https://omegat.org/",
-    "description": "Free translation memory application that works on Windows, macOS and Linux."
+    "description": "Free translation memory / CAT software that works on Windows, macOS and Linux."
   },
   {
     "name": "Argos Translate",
@@ -111,14 +115,39 @@
     "description": "Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library."
   },
   {
+    "name": "Project Fluent",
+    "url": "https://projectfluent.org",
+    "description": "Asymetric translations (eg. gender variations) for localization."
+  },
+  {
     "name": "Bergamot",
     "url": "https://github.com/browsermt",
     "description": "Client-side translation in the browser."
   },
   {
-    "name": "Crowdin MT",
-    "url": "https://store.crowdin.com/crowdin-mt",
-    "description": "A machine learning translator based on translations from Crowdin Global translation memory."
+    "name": "Watson Language Translator",
+    "url": "https://www.ibm.com/cloud/watson-language-translator",
+    "description": "A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents."
+  },
+  {
+    "name": "DeepL Translator",
+    "url": "https://www.deepl.com/",
+    "description": "A neural machine translation service launched in August 2017 and owned by Cologne based DeepL SE."
+  },
+  {
+    "name": "Amazon Translate",
+    "url": "https://aws.amazon.com/translate/",
+    "description": "A neural machine translation service."
+  },
+  {
+    "name": "ModernMT",
+    "url": "https://www.modernmt.com/",
+    "description": "A self-learning machine translation service that improves from user corrections as user keep using it."
+  },
+  {
+    "name": "Microsoft Translator",
+    "url": "https://translator.microsoft.com/",
+    "description": "A multilingual machine translation cloud service provided by Microsoft."
   },
   {
     "name": "deep-translator",
@@ -201,6 +230,16 @@
     "description": "A fast, painless, open-source internationalization plugin for Jekyll blogs."
   },
   {
+    "name": "ICU - International Components for Unicode",
+    "url": "https://icu.unicode.org/",
+    "description": "International Components for Unicode - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications."
+  },
+  {
+    "name": "Django docs - i18n",
+    "url": "https://docs.djangoproject.com/en/4.1/topics/i18n/",
+    "description": "i18n - Part of the Django docs, focused on internationalization and localization."
+  },
+  {
     "name": "SwiftGoogleTranslate",
     "url": "https://github.com/maximbilan/SwiftGoogleTranslate",
     "description": "A framework to use cloud translation API by Google in Swift."
@@ -209,6 +248,11 @@
     "name": "attranslate",
     "url": "https://github.com/fkirc/attranslate",
     "description": "A tool for semi-automated translations of cross-platform apps or websites."
+  },
+  {
+    "name": "AutoML Translation Documentation",
+    "url": "https://cloud.google.com/translate/automl/docs",
+    "description": "AutoML Translation by Google."
   },
   {
     "name": "npm i18n",
@@ -371,14 +415,14 @@
     "description": "Introduces the theory and practice of translation from a variety of linguistic and cultural angles. The authors are Basil Hatim and Jeremy Munday."
   },
   {
+    "name": "Glocalization Strategy Playbook",
+    "url": "https://github.com/GILT-Forum/Globalization-Strategy-Playbook",
+    "description": "A Guide for Localization and Globalization Professionals by the GILT forum."
+  },
+  {
     "name": "Google Crowdsource",
     "url": "https://crowdsource.google.com/",
     "description": "Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section)."
-  },
-  {
-    "name": "Localizejs",
-    "url": "https://localizejs.com/",
-    "description": "Translations for websites and applications to new languages and streamline translation workflow."
   },
   {
     "name": "LocalizationLab",
@@ -389,55 +433,5 @@
     "name": "Pontoon",
     "url": "https://pontoon.mozilla.org/",
     "description": "Various Mozilla localization projects."
-  },
-  {
-    "name": "Watson Language Translator",
-    "url": "https://www.ibm.com/cloud/watson-language-translator",
-    "description": "A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents."
-  },
-  {
-    "name": "Project Fluent",
-    "url": "https://projectfluent.org",
-    "description": "A localization paradigm designed to unleash the entire expressive power of natural language translations."
-  },
-  {
-    "name": "ICU - International Components for Unicode",
-    "url": "https://icu.unicode.org/",
-    "description": "International Components for Unicode - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications."
-  },
-  {
-    "name": "Django docs - i18n",
-    "url": "https://docs.djangoproject.com/en/4.1/topics/i18n/",
-    "description": "i18n - Part of the Django docs, focused on internationalization and localization."
-  },
-  {
-    "name": "Glocalization Strategy Playbook",
-    "url": "https://github.com/GILT-Forum/Globalization-Strategy-Playbook",
-    "description": "A Guide for Localization and Globalization Professionals by the GILT forum."
-  },
-  {
-    "name": "DeepL Translator",
-    "url": "https://www.deepl.com/",
-    "description": "A neural machine translation service launched in August 2017 and owned by Cologne based DeepL SE."
-  },
-  {
-    "name": "Amazon Translate",
-    "url": "https://aws.amazon.com/translate/",
-    "description": "A neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation."
-  },
-  {
-    "name": "ModernMT",
-    "url": "https://www.modernmt.com/",
-    "description": "A self-learning machine translation service that improves from user corrections as user keep using it."
-  },
-  {
-    "name": "AutoML Translation Documentation",
-    "url": "https://cloud.google.com/translate/automl/docs",
-    "description": "A documentation of AutoML Translation from Google."
-  },
-  {
-    "name": "Microsoft Translator",
-    "url": "https://translator.microsoft.com/",
-    "description": "A multilingual machine translation cloud service provided by Microsoft."
   }
 ]

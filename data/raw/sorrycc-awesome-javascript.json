@@ -810,11 +810,6 @@
     "description": "Article about concepts of JavaScript Functional."
   },
   {
-    "name": "How JavaScript works",
-    "url": "https://blog.sessionstack.com/tagged/tutorial",
-    "description": "A series of articles about the building blocks of JavaScript."
-  },
-  {
     "name": "Multi-threading using web-workers",
     "url": "https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/",
     "description": "Web Workers: Adding Multi-threading to JavaScript"
@@ -908,11 +903,6 @@
     "name": "vega",
     "url": "https://github.com/trifacta/vega",
     "description": "A visualization grammar."
-  },
-  {
-    "name": "processing.js",
-    "url": "http://processingjs.org/",
-    "description": "Processing.js makes your data visualizations work using web standards and without any plug-ins."
   },
   {
     "name": "envisionjs",
@@ -1331,6 +1321,11 @@
     "name": "wild-wild-path",
     "url": "https://github.com/ehmicky/wild-wild-path",
     "description": "Object property paths with wildcards and regexps."
+  },
+  {
+    "name": "sweet-monads",
+    "url": "https://github.com/JSMonk/sweet-monads",
+    "description": "A utility library containing popular monads and lazy iterators."
   },
   {
     "name": "RxJS",

@@ -727,6 +727,10 @@
     "url": "https://www.mockapi.io/"
   },
   {
+    "name": "Mockfly",
+    "url": "https://www.mockfly.dev/"
+  },
+  {
     "name": "Mocki",
     "url": "https://mocki.io",
     "description": "A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to create and use without signup."
@@ -761,6 +765,10 @@
   {
     "name": "Nordigen",
     "url": "https://nordigen.com"
+  },
+  {
+    "name": "Nyckel",
+    "url": "https://www.nyckel.com"
   },
   {
     "name": "Observable",
@@ -1710,7 +1718,7 @@
     "url": "https://www.bytebase.com/"
   },
   {
-    "name": "circleci.com",
+    "name": "CircleCI",
     "url": "https://circleci.com/"
   },
   {
@@ -1918,6 +1926,11 @@
     "name": "webhook-test.com",
     "url": "https://webhook-test.com",
     "description": "Debug and inspect webhooks, http requests during integration with a unique URL. Completely free, can create unlimited number of URLs and receive requests."
+  },
+  {
+    "name": "welltested.ai",
+    "url": "https://welltested.ai",
+    "description": "Generate unit and integration tests within minutes using AI for mobile languages like Flutter. Free forever for developers."
   },
   {
     "name": "alienvault.com",
@@ -2155,6 +2168,11 @@
     "url": "https://jumpcloud.com/"
   },
   {
+    "name": "Kinde",
+    "url": "https://kinde.com/",
+    "description": "Simple, powerful authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU."
+  },
+  {
     "name": "logintc.com",
     "url": "https://www.logintc.com/"
   },
@@ -2175,6 +2193,11 @@
     "name": "Ory",
     "url": "https://ory.sh/",
     "description": "AuthN/AuthZ/OAuth2.0/Zero Trust managed security platform. Forever free developer accounts with all security features, unlimited team members, 200 daily active users, and 25k/mo permission checks."
+  },
+  {
+    "name": "Stytch",
+    "url": "https://www.stytch.com/",
+    "description": "Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B)."
   },
   {
     "name": "SuperTokens",
@@ -2810,6 +2833,11 @@
     "url": "https://www.emailjs.com/"
   },
   {
+    "name": "EtherealMail",
+    "url": "https://ethereal.email",
+    "description": "Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered."
+  },
+  {
     "name": "Tempmailers",
     "url": "https://tempmailers.com/",
     "description": "Generate unlimited temporary email addresses for free"
@@ -3109,6 +3137,31 @@
     "description": "Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, 1 custom domain."
   },
   {
+    "name": "ConfigCat",
+    "url": "https://configcat.com",
+    "description": "ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month."
+  },
+  {
+    "name": "Flagsmith",
+    "url": "https://flagsmith.com",
+    "description": "Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise."
+  },
+  {
+    "name": "GrowthBook",
+    "url": "https://growthbook.io",
+    "description": "Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments."
+  },
+  {
+    "name": "Molasses",
+    "url": "https://www.molasses.app",
+    "description": "Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each."
+  },
+  {
+    "name": "Toggled.dev",
+    "url": "https://www.toggled.dev",
+    "description": "Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan."
+  },
+  {
     "name": "dafont",
     "url": "https://www.dafont.com/",
     "description": "The fonts presented on this website are their authors' property, and are either freeware, shareware, demo versions or public domain."
@@ -3260,6 +3313,11 @@
   {
     "name": "Qualtrics Survey",
     "url": "https://qualtrics.com/free-account"
+  },
+  {
+    "name": "Screeb",
+    "url": "https://screeb.app/",
+    "description": "In-app surveys and product analytics for decoding user behavior. Forever free plan allows 500 monthly active users, unlimited responses and events, many integrations, export, and periodic reports."
   },
   {
     "name": "smartforms.dev",
@@ -5414,11 +5472,6 @@
     "url": "https://amplitude.com/"
   },
   {
-    "name": "Flagsmith",
-    "url": "https://flagsmith.com",
-    "description": "Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise"
-  },
-  {
     "name": "GoatCounter",
     "url": "https://www.goatcounter.com/"
   },
@@ -5458,11 +5511,6 @@
   {
     "name": "Moesif",
     "url": "https://www.moesif.com"
-  },
-  {
-    "name": "Molasses",
-    "url": "https://www.molasses.app",
-    "description": "Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each."
   },
   {
     "name": "optimizely.com",
@@ -5528,11 +5576,6 @@
     "name": "Beampipe.io",
     "url": "https://beampipe.io",
     "description": "Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views."
-  },
-  {
-    "name": "GrowthBook",
-    "url": "https://growthbook.io",
-    "description": "Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments."
   },
   {
     "name": "Aptabase",
@@ -5877,11 +5920,6 @@
     "name": "CodeToImage",
     "url": "https://codetoimage.com/",
     "description": "Create screenshots of code or text to share on social media."
-  },
-  {
-    "name": "ConfigCat",
-    "url": "https://configcat.com",
-    "description": "ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month."
   },
   {
     "name": "Cronhooks",
