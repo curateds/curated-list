@@ -1416,6 +1416,11 @@
     "description": "Packs 32 & 64bit applications with DLLs, data files, 3rd party run-time into one single executable that runs instantly, with no installs or hassles."
   },
   {
+    "name": "Squishy",
+    "url": "https://logicoma.io/squishy/",
+    "description": "Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables."
+  },
+  {
     "name": "theArk",
     "url": "https://github.com/aaaddress1/theArk",
     "description": "Windows x86 PE Packer In C++."

@@ -320,11 +320,6 @@
     "description": "A platform that helps you build, manage and monitor deep learning models."
   },
   {
-    "name": "NeuPy",
-    "url": "https://github.com/itdxer/neupy",
-    "description": "NeuPy is a Python library for Artificial Neural Networks and Deep Learning (previously: )."
-  },
-  {
     "name": "tfdeploy",
     "url": "https://github.com/riga/tfdeploy",
     "description": "Deploy TensorFlow graphs for fast evaluation and export to TensorFlow-less environments running numpy."
@@ -378,11 +373,6 @@
     "name": "Elephas",
     "url": "https://github.com/maxpumperla/elephas",
     "description": "Distributed Deep learning with Keras & Spark."
-  },
-  {
-    "name": "Hera",
-    "url": "https://github.com/keplr-io/hera",
-    "description": "Train/evaluate a Keras model, and get metrics streamed to a dashboard in your browser."
   },
   {
     "name": "Spektral",
@@ -490,6 +480,26 @@
     "description": "Powerful Python data analysis toolkit."
   },
   {
+    "name": "polars",
+    "url": "https://github.com/pola-rs/polars",
+    "description": "A fast multi-threaded, hybrid-out-of-core DataFrame library."
+  },
+  {
+    "name": "koalas",
+    "url": "https://github.com/databricks/koalas",
+    "description": "pandas API on Apache Spark."
+  },
+  {
+    "name": "Arctic",
+    "url": "https://github.com/manahl/arctic",
+    "description": "High-performance datastore for time series and tick data."
+  },
+  {
+    "name": "datatable",
+    "url": "https://github.com/h2oai/datatable",
+    "description": "Data.table for Python."
+  },
+  {
     "name": "pandas_profiling",
     "url": "https://github.com/pandas-profiling/pandas-profiling",
     "description": "Create HTML profiling reports from pandas DataFrame objects"
@@ -525,21 +535,6 @@
     "description": "A pure Python implementation of Apache Spark's RDD and DStream interfaces."
   },
   {
-    "name": "Arctic",
-    "url": "https://github.com/manahl/arctic",
-    "description": "High-performance datastore for time series and tick data."
-  },
-  {
-    "name": "datatable",
-    "url": "https://github.com/h2oai/datatable",
-    "description": "Data.table for Python."
-  },
-  {
-    "name": "koalas",
-    "url": "https://github.com/databricks/koalas",
-    "description": "pandas API on Apache Spark."
-  },
-  {
     "name": "modin",
     "url": "https://github.com/modin-project/modin",
     "description": "Speed up your pandas workflows by changing a single line of code."
@@ -548,11 +543,6 @@
     "name": "swifter",
     "url": "https://github.com/jmcarpenter2/swifter",
     "description": "A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner."
-  },
-  {
-    "name": "pandas_flavor",
-    "url": "https://github.com/Zsailer/pandas_flavor",
-    "description": "A package that allows writing your own flavor of Pandas easily."
   },
   {
     "name": "pandas-log",
@@ -568,16 +558,6 @@
     "name": "xarray",
     "url": "https://github.com/pydata/xarray",
     "description": "Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines."
-  },
-  {
-    "name": "sk-transformer",
-    "url": "https://github.com/chrislemke/sk-transformers",
-    "description": "A collection of various pandas & scikit-learn compatible transformers for all kinds of preprocessing and feature engineering steps"
-  },
-  {
-    "name": "polars",
-    "url": "https://github.com/pola-rs/polars",
-    "description": "A fast multi-threaded, hybrid-out-of-core DataFrame library."
   },
   {
     "name": "pdpipe",
@@ -698,6 +678,11 @@
     "name": "NitroFE",
     "url": "https://github.com/NITRO-AI/NitroFE",
     "description": "Moving window features."
+  },
+  {
+    "name": "sk-transformer",
+    "url": "https://github.com/chrislemke/sk-transformers",
+    "description": "A collection of various pandas & scikit-learn compatible transformers for all kinds of preprocessing and feature engineering steps"
   },
   {
     "name": "scikit-feature",
@@ -977,28 +962,13 @@
     "description": "Logging MXNet data for visualization in TensorBoard."
   },
   {
-    "name": "OpenAI Gym",
-    "url": "https://github.com/openai/gym",
-    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+    "name": "Gymnasium",
+    "url": "https://github.com/Farama-Foundation/Gymnasium",
+    "description": "An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)."
   },
   {
-    "name": "Coach",
-    "url": "https://github.com/NervanaSystems/coach",
-    "description": "Easy experimentation with state-of-the-art Reinforcement Learning algorithms."
-  },
-  {
-    "name": "garage",
-    "url": "https://github.com/rlworkgroup/garage",
-    "description": "A toolkit for reproducible reinforcement learning research."
-  },
-  {
-    "name": "OpenAI Baselines",
-    "url": "https://github.com/openai/baselines",
-    "description": "High-quality implementations of reinforcement learning algorithms."
-  },
-  {
-    "name": "Stable Baselines",
-    "url": "https://github.com/hill-a/stable-baselines",
+    "name": "Stable Baselines3",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
     "description": "A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines."
   },
   {
@@ -1007,9 +977,24 @@
     "description": "Scalable Reinforcement Learning."
   },
   {
-    "name": "Horizon",
-    "url": "https://github.com/facebookresearch/Horizon",
-    "description": "A platform for Applied Reinforcement Learning."
+    "name": "Acme",
+    "url": "https://github.com/google-deepmind/acme",
+    "description": "A library of reinforcement learning components and agents."
+  },
+  {
+    "name": "Catalyst-RL",
+    "url": "https://github.com/catalyst-team/catalyst-rl",
+    "description": "PyTorch framework for RL research."
+  },
+  {
+    "name": "d3rlpy",
+    "url": "https://github.com/takuseno/d3rlpy",
+    "description": "An offline deep reinforcement learning library."
+  },
+  {
+    "name": "Tianshou",
+    "url": "https://github.com/thu-ml/tianshou/#comprehensive-functionality",
+    "description": "An elegant PyTorch deep reinforcement learning library."
   },
   {
     "name": "TF-Agents",
@@ -1037,14 +1022,14 @@
     "description": "Deep Reinforcement Learning for Keras."
   },
   {
-    "name": "ChainerRL",
-    "url": "https://github.com/chainer/chainerrl",
-    "description": "A deep reinforcement learning library built on top of Chainer."
+    "name": "garage",
+    "url": "https://github.com/rlworkgroup/garage",
+    "description": "A toolkit for reproducible reinforcement learning research."
   },
   {
-    "name": "pyro",
-    "url": "https://github.com/uber/pyro",
-    "description": "A flexible, scalable deep probabilistic programming library built on PyTorch."
+    "name": "Horizon",
+    "url": "https://github.com/facebookresearch/Horizon",
+    "description": "A platform for Applied Reinforcement Learning."
   },
   {
     "name": "pomegranate",
@@ -1052,9 +1037,19 @@
     "description": "Probabilistic and graphical models for Python."
   },
   {
-    "name": "ZhuSuan",
-    "url": "http://zhusuan.readthedocs.io/en/latest/",
-    "description": "Bayesian Deep Learning."
+    "name": "pgmpy",
+    "url": "https://github.com/pgmpy/pgmpy",
+    "description": "A python library for working with Probabilistic Graphical Models."
+  },
+  {
+    "name": "pyAgrum",
+    "url": "https://agrum.gitlab.io/",
+    "description": "A GRaphical Universal Modeler."
+  },
+  {
+    "name": "pyro",
+    "url": "https://github.com/uber/pyro",
+    "description": "A flexible, scalable deep probabilistic programming library built on PyTorch."
   },
   {
     "name": "PyMC",
@@ -1062,14 +1057,19 @@
     "description": "Bayesian Stochastic Modelling in Python."
   },
   {
-    "name": "InferPy",
-    "url": "https://github.com/PGM-Lab/InferPy",
-    "description": "Deep Probabilistic Modelling Made Easy."
+    "name": "ZhuSuan",
+    "url": "http://zhusuan.readthedocs.io/en/latest/",
+    "description": "Bayesian Deep Learning."
   },
   {
     "name": "GPflow",
     "url": "http://gpflow.readthedocs.io/en/latest/?badge=latest",
     "description": "Gaussian processes in TensorFlow."
+  },
+  {
+    "name": "InferPy",
+    "url": "https://github.com/PGM-Lab/InferPy",
+    "description": "Deep Probabilistic Modelling Made Easy."
   },
   {
     "name": "PyStan",
@@ -1082,19 +1082,9 @@
     "description": "Python package for Bayesian Machine Learning with scikit-learn API."
   },
   {
-    "name": "pgmpy",
-    "url": "https://github.com/pgmpy/pgmpy",
-    "description": "A python library for working with Probabilistic Graphical Models."
-  },
-  {
     "name": "skpro",
     "url": "https://github.com/alan-turing-institute/skpro",
     "description": "Supervised domain-agnostic prediction framework for probabilistic modelling by The Alan Turing Institute."
-  },
-  {
-    "name": "PtStat",
-    "url": "https://github.com/stepelu/ptstat",
-    "description": "Probabilistic Programming and Statistical Inference in PyTorch."
   },
   {
     "name": "PyVarInf",
@@ -1120,11 +1110,6 @@
     "name": "GPyTorch",
     "url": "https://github.com/cornellius-gp/gpytorch",
     "description": "A highly efficient and modular implementation of Gaussian Processes in PyTorch."
-  },
-  {
-    "name": "MXFusion",
-    "url": "https://github.com/amzn/MXFusion",
-    "description": "Modular Probabilistic Programming on MXNet."
   },
   {
     "name": "sklearn-crfsuite",

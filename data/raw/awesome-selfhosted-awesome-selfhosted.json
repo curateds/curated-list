@@ -440,6 +440,11 @@
     "description": "A collaborative social publishing platform. (Source Code) Apache-2.0 PHP"
   },
   {
+    "name": "Mataroa",
+    "url": "https://mataroa.blog/",
+    "description": "Mataroa is a naked blogging platform for minimalists. (Source Code) MIT Python"
+  },
+  {
     "name": "PluXml",
     "url": "https://pluxml.org",
     "description": "XML-based blog/CMS platform. (Source Code) GPL-3.0 PHP"
@@ -473,6 +478,11 @@
     "name": "QloApps",
     "url": "https://qloapps.com/",
     "description": "An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. (Demo, Source Code) OSL-3.0 PHP/Nodejs"
+  },
+  {
+    "name": "Rallly",
+    "url": "https://rallly.co",
+    "description": "Create polls to vote on dates and times (alternative to Doodle). (Demo, Source Code) AGPL-3.0 Nodejs/Docker"
   },
   {
     "name": "Seatsurfing",
@@ -738,11 +748,6 @@
     "name": "PushBits",
     "url": "https://github.com/pushbits/server",
     "description": "Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. ISC Go"
-  },
-  {
-    "name": "Rallly",
-    "url": "https://rallly.co",
-    "description": "Create polls to vote on dates and times (alternative to Doodle). (Source Code) AGPL-3.0 Nodejs"
   },
   {
     "name": "RetroShare",
@@ -1570,11 +1575,6 @@
     "description": "XMPP instant messaging server. (Source Code) GPL-2.0 Erlang/Docker"
   },
   {
-    "name": "jackal",
-    "url": "https://github.com/ortuman/jackal",
-    "description": "XMPP server with focus on stability, simple configuration and low resource consumption. Apache-2.0 Go/Docker"
-  },
-  {
     "name": "Metronome IM",
     "url": "https://metronome.im/",
     "description": "Lightweight xmpp server with advanced microblogging features (fork of Prosody). (Source Code) MIT Lua"
@@ -2310,11 +2310,6 @@
     "description": "Newspipe is a web news reader. (Demo) AGPL-3.0 Python"
   },
   {
-    "name": "PolitePol",
-    "url": "https://github.com/taroved/pol",
-    "description": "Online tool for creation of RSS feeds for any web page. (Demo) MIT Python"
-  },
-  {
     "name": "reader",
     "url": "https://github.com/lemon24/reader",
     "description": "A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. BSD-3-Clause Python"
@@ -2847,7 +2842,7 @@
   {
     "name": "Gramps Web",
     "url": "https://gramps-project.github.io/web/",
-    "description": "Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. (Demo, Source Code). AGPL-3.0 Docker"
+    "description": "Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. (Demo, Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "webtrees",
@@ -3030,11 +3025,6 @@
     "description": "Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. (Demo) MIT Docker/Rust"
   },
   {
-    "name": "Mindmaps",
-    "url": "https://github.com/drichard/mindmaps",
-    "description": "Open source, offline capable, mind mapping application. (Demo) AGPL-3.0 HTML5"
-  },
-  {
     "name": "My Mind",
     "url": "https://github.com/ondras/my-mind",
     "description": "Web application for creating and managing mind maps. (Demo) MIT Javascript"
@@ -3073,6 +3063,11 @@
     "name": "ILIAS",
     "url": "https://www.ilias.de",
     "description": "ILIAS is the Learning Management System that can cope with anything you throw at it. (Demo, Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "INGInious",
+    "url": "https://inginious.org/?lang=en",
+    "description": "Intelligent grader that allows secured and automated testing of code made by students. (Source Code, Clients) AGPL-3.0 Python/Docker"
   },
   {
     "name": "Mahara",
@@ -4190,11 +4185,6 @@
     "description": "Password manager with webapp, browser extension, and mobile app. (Source Code) AGPL-3.0 C#"
   },
   {
-    "name": "keeweb",
-    "url": "https://keeweb.info/",
-    "description": "This webapp is a browser and desktop password manager compatible with KeePass databases. (Source Code) MIT HTML5"
-  },
-  {
     "name": "Padloc",
     "url": "https://padloc.app/",
     "description": "A modern, open source password manager for individuals and teams. (Source Code) GPL-3.0 Nodejs"
@@ -4490,11 +4480,6 @@
     "description": "Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. GPL-3.0 C#/.NET"
   },
   {
-    "name": "Fussel",
-    "url": "https://github.com/cbenning/fussel",
-    "description": "Self-hosted, no-backend static photo gallery. Face tag recognition, albums and more. (Demo) MIT Python/Docker"
-  },
-  {
     "name": "HomeGallery",
     "url": "https://home-gallery.org",
     "description": "Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. (Demo, Source Code) MIT Nodejs"
@@ -4533,11 +4518,6 @@
     "name": "Nextcloud Memories",
     "url": "https://memories.gallery/",
     "description": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app. (Demo, Source Code) AGPL-3.0 PHP"
-  },
-  {
-    "name": "Photo Stream",
-    "url": "https://github.com/waschinski/photo-stream",
-    "description": "Minimalist self-hosted photo stream. (Demo) MIT Ruby"
   },
   {
     "name": "PhotoPrism",
@@ -4890,11 +4870,6 @@
     "description": "Fess is a very powerful and easily deployable Enterprise Search Server. (Demo, Source Code) Apache-2.0 Java/Docker"
   },
   {
-    "name": "Gigablast",
-    "url": "https://github.com/gigablast/open-source-search-engine",
-    "description": "Open-source search engine. Apache-2.0 C++"
-  },
-  {
     "name": "Hound",
     "url": "https://github.com/hound-search/hound",
     "description": "Lightning fast code searching made easy. MIT Go/Docker"
@@ -4948,6 +4923,11 @@
     "name": "Typesense",
     "url": "https://typesense.org",
     "description": "Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. (Source Code) GPL-3.0 C++"
+  },
+  {
+    "name": "Websurfx",
+    "url": "https://github.com/neon-mmd/websurfx",
+    "description": "Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). AGPL-3.0 Rust/Docker"
   },
   {
     "name": "Whoogle",
@@ -5348,11 +5328,6 @@
     "name": "Gitolite",
     "url": "https://gitolite.com/gitolite/index.html",
     "description": "Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. (Source Code) GPL-2.0 Perl"
-  },
-  {
-    "name": "GitPrep",
-    "url": "https://github.com/yuki-kimoto/gitprep",
-    "description": "Portable Github clone. (Demo) Artistic-2.0 Perl"
   },
   {
     "name": "Gogs",
