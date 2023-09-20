@@ -2065,6 +2065,11 @@
     "description": "Displays a notification window with context when cycling buffers."
   },
   {
+    "name": "sontungexpt/url-open",
+    "url": "https://github.com/sontungexpt/url-open",
+    "description": "Open URLs under the cursor and create highlight effects for them."
+  },
+  {
     "name": "crusj/bookmarks.nvim",
     "url": "https://github.com/crusj/bookmarks.nvim",
     "description": "Remember file locations and sort by time and frequency."
@@ -2258,6 +2263,11 @@
     "name": "willothy/flatten.nvim",
     "url": "https://github.com/willothy/flatten.nvim",
     "description": "Open files from terminal buffers in your current Neovim instance instead of launching a nested instance."
+  },
+  {
+    "name": "willothy/wezterm.nvim",
+    "url": "https://github.com/willothy/wezterm.nvim",
+    "description": "Functions for interacting with Wezterm."
   },
   {
     "name": "akinsho/nvim-toggleterm.lua",
@@ -3230,6 +3240,11 @@
     "description": "Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command."
   },
   {
+    "name": "chrisgrieser/nvim-puppeteer",
+    "url": "https://github.com/chrisgrieser/nvim-puppeteer",
+    "description": "Automatically convert strings to f-strings or template strings and back."
+  },
+  {
     "name": "numToStr/Comment.nvim",
     "url": "https://github.com/numToStr/Comment.nvim",
     "description": "Smart and Powerful comment plugin. Supports commentstring, motions, dot-repeat and more."
@@ -3773,6 +3788,11 @@
     "name": "NormalNvim/NormalNvim",
     "url": "https://github.com/NormalNvim/NormalNvim",
     "description": "Focused on stability for your daily work. From the creator of Compiler.nvim."
+  },
+  {
+    "name": "chrisgrieser/nvim-kickstart-python",
+    "url": "https://github.com/chrisgrieser/nvim-kickstart-python",
+    "description": "A launch point for your Neovim configuration for Python."
   },
   {
     "name": "MordechaiHadad/bob",

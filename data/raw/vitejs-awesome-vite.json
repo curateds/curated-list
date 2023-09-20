@@ -54,6 +54,11 @@
     "description": "Scaffolding a Vike project."
   },
   {
+    "name": "create-awesome-node-app",
+    "url": "https://github.com/Create-Node-App/create-node-app",
+    "description": "Scaffolding your project choosing between different templates."
+  },
+  {
     "name": "vite-vanilla-tailwind-v3",
     "url": "https://github.com/huibizhang/template-vite-vanilla-tailwind-v3",
     "description": "Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in."
@@ -712,6 +717,11 @@
     "name": "vite-react-ssr-boost-template",
     "url": "https://github.com/Lomray-Software/vite-template",
     "description": "Template for creating React 18 SSR/SPA apps with TypeScript, Mobx, React Router, Head Manager, Suspense, Streaming. Also included CI/CD, ESLint, Prettier, Stylelint, Husky, Semantic Release."
+  },
+  {
+    "name": "vite-react-ts-shadcn-starter",
+    "url": "https://github.com/Quilljou/vite-react-ts-tailwind-starter",
+    "description": "Template for creating React 18 SPA apps with TypeScript, React Router, Tailwind CSS, Shadcn UI, React Query, ESLint, Prettier, Stylelint, Husky, React-i18next, Transmart."
   },
   {
     "name": "SvelteKit",
@@ -1872,6 +1882,11 @@
     "name": "vitest-preview",
     "url": "https://github.com/nvh95/vitest-preview",
     "description": "Visual debugging experience for Vitest."
+  },
+  {
+    "name": "vite-plugin-doctest",
+    "url": "https://github.com/ssssota/doc-vitest",
+    "description": "Documentation testing for Vitest."
   },
   {
     "name": "@vitejs/plugin-vue",

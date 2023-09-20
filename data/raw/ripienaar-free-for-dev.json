@@ -231,6 +231,56 @@
     "description": "https://www.ibm.com/cloud/free/"
   },
   {
+    "name": "Cloudflare",
+    "url": "https://www.cloudflare.com/",
+    "description": "Free DNS for unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and pagerules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding"
+  },
+  {
+    "name": "Application Services",
+    "url": "https://www.cloudflare.com/plans/",
+    "description": "Free DNS for unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and pagerules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding"
+  },
+  {
+    "name": "Zero Trust & SASE",
+    "url": "https://www.cloudflare.com/plans/zero-trust-services/",
+    "description": "Up to 50 Users, 24 hours of activity logging, 3 network locations"
+  },
+  {
+    "name": "Cloudflare Tunnel",
+    "url": "https://www.cloudflare.com/products/tunnel/",
+    "description": "You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use Quick Tunnels, No account required. More feature (TCP tunnel, Load balancing , VPN) in Zero Trust Free Plan."
+  },
+  {
+    "name": "Workers",
+    "url": "https://developers.cloudflare.com/workers/",
+    "description": "Deploy serverless code for free on Cloudflare's global network.100k requests per day."
+  },
+  {
+    "name": "Workers KV",
+    "url": "https://developers.cloudflare.com/kv",
+    "description": "100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data"
+  },
+  {
+    "name": "R2",
+    "url": "https://developers.cloudflare.com/r2/",
+    "description": "10 GB per month, 1 million Class A operations per month, 10 million Class B operations per month"
+  },
+  {
+    "name": "D1",
+    "url": "https://developers.cloudflare.com/d1/",
+    "description": "5 million rows read per day, 100k rows written per day, 1 GB storage"
+  },
+  {
+    "name": "Pages",
+    "url": "https://developers.cloudflare.com/pages/",
+    "description": "Develop and deploy your web apps on Cloudflare's fast, secure global network. 500 builds per month, 100 custom domains, Integrated SSL, unlimited free seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration."
+  },
+  {
+    "name": "Queues",
+    "url": "https://developers.cloudflare.com/queues/",
+    "description": "1 million operations per month"
+  },
+  {
     "name": "Brainboard",
     "url": "https://www.brainboard.co",
     "description": "Collaborative solution to visually build and manage cloud infrastructures from end-to-end."
@@ -435,6 +485,11 @@
     "description": "Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month."
   },
   {
+    "name": "Canopy",
+    "url": "https://www.canopyapi.co/",
+    "description": "GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month."
+  },
+  {
     "name": "Clarifai",
     "url": "https://www.clarifai.com"
   },
@@ -449,6 +504,11 @@
   {
     "name": "Collect2",
     "url": "https://collect2.com"
+  },
+  {
+    "name": "Commerce Layer",
+    "url": "https://commercelayer.io",
+    "description": "Composable commerce API that can build, place, and manage orders from any frontend. Developer plan allows 100 orders per month and up to 1,000 SKUs for free."
   },
   {
     "name": "Conversion Tools",
@@ -1503,6 +1563,11 @@
     "description": "Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry."
   },
   {
+    "name": "Storyblok",
+    "url": "https://www.storyblok.com",
+    "description": "A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included."
+  },
+  {
     "name": "Appinvento",
     "url": "https://appinvento.io/"
   },
@@ -1513,6 +1578,11 @@
   {
     "name": "Codeium",
     "url": "https://www.codeium.com/"
+  },
+  {
+    "name": "Metalama",
+    "url": "https://www.postsharp.net/metalama",
+    "description": "Only for C#. Metalama generates the boilerplate the code on the fly, during compilation, so that your source code remains clean. It is completely free for open-source projects, and their commercial-friendly free tier includes 3 aspects."
   },
   {
     "name": "tabnine.com",
@@ -3433,24 +3503,6 @@
     "url": "https://cdnjs.com/"
   },
   {
-    "name": "Cloudflare",
-    "url": "https://www.cloudflare.com/",
-    "description": "1 rule per domain"
-  },
-  {
-    "name": "Cloudflare Pages",
-    "url": "https://pages.cloudflare.com/"
-  },
-  {
-    "name": "Cloudflare Workers",
-    "url": "https://workers.cloudflare.com/"
-  },
-  {
-    "name": "Cloudflare Tunnel",
-    "url": "https://www.cloudflare.com/products/tunnel/",
-    "description": "You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use Quick Tunnels, No account required. More feature (TCP tunnel, Load balancing , VPN) in Zero Trust Free Plan."
-  },
-  {
     "name": "developers.google.com",
     "url": "https://developers.google.com/speed/libraries/"
   },
@@ -4760,6 +4812,11 @@
     "name": "AllTheFreeStock",
     "url": "https://allthefreestock.com",
     "description": "a curated list of free stock images, audio and videos."
+  },
+  {
+    "name": "Float UI",
+    "url": "https://floatui.com/",
+    "description": "free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers."
   },
   {
     "name": "Ant Design Landing Page",
@@ -6204,6 +6261,11 @@
     "name": "Poliigon",
     "url": "https://www.poliigon.com/",
     "description": "Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender."
+  },
+  {
+    "name": "Buff.tools",
+    "url": "https://buff.tools/",
+    "description": "An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools."
   },
   {
     "name": "ElevateAI",

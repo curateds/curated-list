@@ -5573,6 +5573,11 @@
     "description": "GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language."
   },
   {
+    "name": "gontainer",
+    "url": "https://github.com/NVIDIA/gontainer",
+    "description": "A dependency injection service container for Go projects."
+  },
+  {
     "name": "google/wire",
     "url": "https://github.com/google/wire",
     "description": "Automated Initialization in Go."

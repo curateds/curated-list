@@ -1520,6 +1520,11 @@
     "description": "Converts 2D images into 3D extruded meshes."
   },
   {
+    "name": "Generator",
+    "url": "https://github.com/ilmola/generator",
+    "description": "Procedural geometry generation library for C++11."
+  },
+  {
     "name": "Geometric Tools",
     "url": "https://www.geometrictools.com/index.html",
     "description": "Mathematics, geometry, graphics, image analysis and physics in C++14."
@@ -3290,6 +3295,11 @@
     "description": "WebAssembly build of Google's 3D graphics library, Filament. [Demos]"
   },
   {
+    "name": "Four",
+    "url": "https://github.com/CodyJasonBennett/four",
+    "description": "Minimal three.js alternative."
+  },
+  {
     "name": "Hilo3d",
     "url": "https://github.com/hiloteam/Hilo3d",
     "description": "WebGL 3D rendering engine by Alibaba."
@@ -4335,16 +4345,6 @@
     "description": "Play with fluids in your browser (even on mobile). [Source]"
   },
   {
-    "name": "Practical Geometry Algorithms",
-    "url": "http://geomalgorithms.com/index.html",
-    "description": "Geometries, convex hulls, polyline simplification and more."
-  },
-  {
-    "name": "Practical Geometry Algorithms",
-    "url": "http://geomalgorithms.com/index.html",
-    "description": "Geometries, convex hulls, polyline simplification and more."
-  },
-  {
     "name": "Constructive Solid Geometry",
     "url": "https://en.wikipedia.org/wiki/Constructive_solid_geometry",
     "description": "Technique using boolean operations to combine primitive objects."
@@ -4370,9 +4370,14 @@
     "description": "Conversion of the csg.js library for use with Three.js."
   },
   {
-    "name": "Mesh Transforms",
-    "url": "https://ciechanow.ski/mesh-transforms/",
-    "description": "Apple's private API for manipulation of UIView meshes. [Source]"
+    "name": "Geometry, Surfaces, Curves, Polyhedra",
+    "url": "https://paulbourke.net/geometry/",
+    "description": "Geometry topics including meshes, shapes, textures and more."
+  },
+  {
+    "name": "Geometry, Surfaces, Curves, Polyhedra",
+    "url": "https://paulbourke.net/geometry/",
+    "description": "Geometry topics including meshes, shapes, textures and more."
   },
   {
     "name": "Mesh Transforms",

@@ -48,6 +48,11 @@
     "description": "Talk by @ritchie46 that dives into Polars and sees what makes it so efficient.  It will touch on technologies like Arrow, Rust, parallelism, data structures, query optimization and more."
   },
   {
+    "name": "Talk about Polars at EuroPython Conference 2023",
+    "url": "https://www.youtube.com/watch?v=UwRlFtSd_-8",
+    "description": "Talk by @ritchie46 that introduces Polars and some of its design decisions."
+  },
+  {
     "name": "polars for Python",
     "url": "https://github.com/pola-rs/polars/tree/master/py-polars",
     "description": "Python polars package to use polars DataFrame from Python."

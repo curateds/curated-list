@@ -90,16 +90,6 @@
     "description": "Generalized Additive Models in Python."
   },
   {
-    "name": "Karate Club",
-    "url": "https://github.com/benedekrozemberczki/karateclub",
-    "description": "An unsupervised machine learning library for graph-structured data."
-  },
-  {
-    "name": "Little Ball of Fur",
-    "url": "https://github.com/benedekrozemberczki/littleballoffur",
-    "description": "A library for sampling graph structured data."
-  },
-  {
     "name": "causalml",
     "url": "https://github.com/uber/causalml",
     "description": "Uplift modeling and causal inference with machine learning algorithms."
@@ -270,19 +260,9 @@
     "description": "A scikit-learn compatible neural network library that wraps PyTorch."
   },
   {
-    "name": "pytorch_geometric",
-    "url": "https://github.com/rusty1s/pytorch_geometric",
-    "description": "Geometric Deep Learning Extension Library for PyTorch."
-  },
-  {
     "name": "Catalyst",
     "url": "https://github.com/catalyst-team/catalyst",
     "description": "High-level utils for PyTorch DL & RL research."
-  },
-  {
-    "name": "pytorch_geometric_temporal",
-    "url": "https://github.com/benedekrozemberczki/pytorch_geometric_temporal",
-    "description": "Temporal Extension Library for PyTorch Geometric."
   },
   {
     "name": "ChemicalX",
@@ -335,11 +315,6 @@
     "description": "Deep learning with dynamic computation graphs in TensorFlow."
   },
   {
-    "name": "tensorlm",
-    "url": "https://github.com/batzner/tensorlm",
-    "description": "Wrapper library for text generation/language models at char and word level with RNN."
-  },
-  {
     "name": "TensorLight",
     "url": "https://github.com/bsautermeister/tensorlight",
     "description": "A high-level framework for TensorFlow."
@@ -373,11 +348,6 @@
     "name": "Elephas",
     "url": "https://github.com/maxpumperla/elephas",
     "description": "Distributed Deep learning with Keras & Spark."
-  },
-  {
-    "name": "Spektral",
-    "url": "https://github.com/danielegrattarola/spektral",
-    "description": "Deep learning on graphs."
   },
   {
     "name": "qkeras",
@@ -455,24 +425,189 @@
     "description": "The HIP port of Caffe."
   },
   {
-    "name": "BeautifulSoup",
-    "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"
+    "name": "Gymnasium",
+    "url": "https://github.com/Farama-Foundation/Gymnasium",
+    "description": "An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)."
   },
   {
-    "name": "Scrapy",
-    "url": "https://scrapy.org/"
+    "name": "Stable Baselines3",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
+    "description": "A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines."
   },
   {
-    "name": "Selenium",
-    "url": "https://selenium-python.readthedocs.io/installation.html#introduction"
+    "name": "RLlib",
+    "url": "https://ray.readthedocs.io/en/latest/rllib.html",
+    "description": "Scalable Reinforcement Learning."
   },
   {
-    "name": "Pattern",
-    "url": "https://github.com/clips/pattern"
+    "name": "Acme",
+    "url": "https://github.com/google-deepmind/acme",
+    "description": "A library of reinforcement learning components and agents."
   },
   {
-    "name": "twitterscraper",
-    "url": "https://github.com/taspinar/twitterscraper"
+    "name": "Catalyst-RL",
+    "url": "https://github.com/catalyst-team/catalyst-rl",
+    "description": "PyTorch framework for RL research."
+  },
+  {
+    "name": "d3rlpy",
+    "url": "https://github.com/takuseno/d3rlpy",
+    "description": "An offline deep reinforcement learning library."
+  },
+  {
+    "name": "Tianshou",
+    "url": "https://github.com/thu-ml/tianshou/#comprehensive-functionality",
+    "description": "An elegant PyTorch deep reinforcement learning library."
+  },
+  {
+    "name": "TF-Agents",
+    "url": "https://github.com/tensorflow/agents",
+    "description": "A library for Reinforcement Learning in TensorFlow."
+  },
+  {
+    "name": "TensorForce",
+    "url": "https://github.com/reinforceio/tensorforce",
+    "description": "A TensorFlow library for applied reinforcement learning."
+  },
+  {
+    "name": "TRFL",
+    "url": "https://github.com/deepmind/trfl",
+    "description": "TensorFlow Reinforcement Learning."
+  },
+  {
+    "name": "Dopamine",
+    "url": "https://github.com/google/dopamine",
+    "description": "A research framework for fast prototyping of reinforcement learning algorithms."
+  },
+  {
+    "name": "keras-rl",
+    "url": "https://github.com/keras-rl/keras-rl",
+    "description": "Deep Reinforcement Learning for Keras."
+  },
+  {
+    "name": "garage",
+    "url": "https://github.com/rlworkgroup/garage",
+    "description": "A toolkit for reproducible reinforcement learning research."
+  },
+  {
+    "name": "Horizon",
+    "url": "https://github.com/facebookresearch/Horizon",
+    "description": "A platform for Applied Reinforcement Learning."
+  },
+  {
+    "name": "pytorch_geometric",
+    "url": "https://github.com/rusty1s/pytorch_geometric",
+    "description": "Geometric Deep Learning Extension Library for PyTorch."
+  },
+  {
+    "name": "pytorch_geometric_temporal",
+    "url": "https://github.com/benedekrozemberczki/pytorch_geometric_temporal",
+    "description": "Temporal Extension Library for PyTorch Geometric."
+  },
+  {
+    "name": "dgl",
+    "url": "https://github.com/dmlc/dgl",
+    "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks."
+  },
+  {
+    "name": "Spektral",
+    "url": "https://github.com/danielegrattarola/spektral",
+    "description": "Deep learning on graphs."
+  },
+  {
+    "name": "Karate Club",
+    "url": "https://github.com/benedekrozemberczki/karateclub",
+    "description": "An unsupervised machine learning library for graph-structured data."
+  },
+  {
+    "name": "Little Ball of Fur",
+    "url": "https://github.com/benedekrozemberczki/littleballoffur",
+    "description": "A library for sampling graph structured data."
+  },
+  {
+    "name": "pomegranate",
+    "url": "https://github.com/jmschrei/pomegranate",
+    "description": "Probabilistic and graphical models for Python."
+  },
+  {
+    "name": "pgmpy",
+    "url": "https://github.com/pgmpy/pgmpy",
+    "description": "A python library for working with Probabilistic Graphical Models."
+  },
+  {
+    "name": "pyAgrum",
+    "url": "https://agrum.gitlab.io/",
+    "description": "A GRaphical Universal Modeler."
+  },
+  {
+    "name": "pyro",
+    "url": "https://github.com/uber/pyro",
+    "description": "A flexible, scalable deep probabilistic programming library built on PyTorch."
+  },
+  {
+    "name": "PyMC",
+    "url": "https://github.com/pymc-devs/pymc",
+    "description": "Bayesian Stochastic Modelling in Python."
+  },
+  {
+    "name": "ZhuSuan",
+    "url": "http://zhusuan.readthedocs.io/en/latest/",
+    "description": "Bayesian Deep Learning."
+  },
+  {
+    "name": "GPflow",
+    "url": "http://gpflow.readthedocs.io/en/latest/?badge=latest",
+    "description": "Gaussian processes in TensorFlow."
+  },
+  {
+    "name": "InferPy",
+    "url": "https://github.com/PGM-Lab/InferPy",
+    "description": "Deep Probabilistic Modelling Made Easy."
+  },
+  {
+    "name": "PyStan",
+    "url": "https://github.com/stan-dev/pystan",
+    "description": "Bayesian inference using the No-U-Turn sampler (Python interface)."
+  },
+  {
+    "name": "sklearn-bayes",
+    "url": "https://github.com/AmazaspShumik/sklearn-bayes",
+    "description": "Python package for Bayesian Machine Learning with scikit-learn API."
+  },
+  {
+    "name": "skpro",
+    "url": "https://github.com/alan-turing-institute/skpro",
+    "description": "Supervised domain-agnostic prediction framework for probabilistic modelling by The Alan Turing Institute."
+  },
+  {
+    "name": "PyVarInf",
+    "url": "https://github.com/ctallec/pyvarinf",
+    "description": "Bayesian Deep Learning methods with Variational Inference for PyTorch."
+  },
+  {
+    "name": "emcee",
+    "url": "https://github.com/dfm/emcee",
+    "description": "The Python ensemble sampling toolkit for affine-invariant MCMC."
+  },
+  {
+    "name": "hsmmlearn",
+    "url": "https://github.com/jvkersch/hsmmlearn",
+    "description": "A library for hidden semi-Markov models with explicit durations."
+  },
+  {
+    "name": "pyhsmm",
+    "url": "https://github.com/mattjj/pyhsmm",
+    "description": "Bayesian inference in HSMMs and HMMs."
+  },
+  {
+    "name": "GPyTorch",
+    "url": "https://github.com/cornellius-gp/gpytorch",
+    "description": "A highly efficient and modular implementation of Gaussian Processes in PyTorch."
+  },
+  {
+    "name": "sklearn-crfsuite",
+    "url": "https://github.com/TeamHG-Memex/sklearn-crfsuite",
+    "description": "A scikit-learn-inspired API for CRFsuite."
   },
   {
     "name": "pandas",
@@ -960,161 +1095,6 @@
     "name": "mxboard",
     "url": "https://github.com/awslabs/mxboard",
     "description": "Logging MXNet data for visualization in TensorBoard."
-  },
-  {
-    "name": "Gymnasium",
-    "url": "https://github.com/Farama-Foundation/Gymnasium",
-    "description": "An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)."
-  },
-  {
-    "name": "Stable Baselines3",
-    "url": "https://github.com/DLR-RM/stable-baselines3",
-    "description": "A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines."
-  },
-  {
-    "name": "RLlib",
-    "url": "https://ray.readthedocs.io/en/latest/rllib.html",
-    "description": "Scalable Reinforcement Learning."
-  },
-  {
-    "name": "Acme",
-    "url": "https://github.com/google-deepmind/acme",
-    "description": "A library of reinforcement learning components and agents."
-  },
-  {
-    "name": "Catalyst-RL",
-    "url": "https://github.com/catalyst-team/catalyst-rl",
-    "description": "PyTorch framework for RL research."
-  },
-  {
-    "name": "d3rlpy",
-    "url": "https://github.com/takuseno/d3rlpy",
-    "description": "An offline deep reinforcement learning library."
-  },
-  {
-    "name": "Tianshou",
-    "url": "https://github.com/thu-ml/tianshou/#comprehensive-functionality",
-    "description": "An elegant PyTorch deep reinforcement learning library."
-  },
-  {
-    "name": "TF-Agents",
-    "url": "https://github.com/tensorflow/agents",
-    "description": "A library for Reinforcement Learning in TensorFlow."
-  },
-  {
-    "name": "TensorForce",
-    "url": "https://github.com/reinforceio/tensorforce",
-    "description": "A TensorFlow library for applied reinforcement learning."
-  },
-  {
-    "name": "TRFL",
-    "url": "https://github.com/deepmind/trfl",
-    "description": "TensorFlow Reinforcement Learning."
-  },
-  {
-    "name": "Dopamine",
-    "url": "https://github.com/google/dopamine",
-    "description": "A research framework for fast prototyping of reinforcement learning algorithms."
-  },
-  {
-    "name": "keras-rl",
-    "url": "https://github.com/keras-rl/keras-rl",
-    "description": "Deep Reinforcement Learning for Keras."
-  },
-  {
-    "name": "garage",
-    "url": "https://github.com/rlworkgroup/garage",
-    "description": "A toolkit for reproducible reinforcement learning research."
-  },
-  {
-    "name": "Horizon",
-    "url": "https://github.com/facebookresearch/Horizon",
-    "description": "A platform for Applied Reinforcement Learning."
-  },
-  {
-    "name": "pomegranate",
-    "url": "https://github.com/jmschrei/pomegranate",
-    "description": "Probabilistic and graphical models for Python."
-  },
-  {
-    "name": "pgmpy",
-    "url": "https://github.com/pgmpy/pgmpy",
-    "description": "A python library for working with Probabilistic Graphical Models."
-  },
-  {
-    "name": "pyAgrum",
-    "url": "https://agrum.gitlab.io/",
-    "description": "A GRaphical Universal Modeler."
-  },
-  {
-    "name": "pyro",
-    "url": "https://github.com/uber/pyro",
-    "description": "A flexible, scalable deep probabilistic programming library built on PyTorch."
-  },
-  {
-    "name": "PyMC",
-    "url": "https://github.com/pymc-devs/pymc",
-    "description": "Bayesian Stochastic Modelling in Python."
-  },
-  {
-    "name": "ZhuSuan",
-    "url": "http://zhusuan.readthedocs.io/en/latest/",
-    "description": "Bayesian Deep Learning."
-  },
-  {
-    "name": "GPflow",
-    "url": "http://gpflow.readthedocs.io/en/latest/?badge=latest",
-    "description": "Gaussian processes in TensorFlow."
-  },
-  {
-    "name": "InferPy",
-    "url": "https://github.com/PGM-Lab/InferPy",
-    "description": "Deep Probabilistic Modelling Made Easy."
-  },
-  {
-    "name": "PyStan",
-    "url": "https://github.com/stan-dev/pystan",
-    "description": "Bayesian inference using the No-U-Turn sampler (Python interface)."
-  },
-  {
-    "name": "sklearn-bayes",
-    "url": "https://github.com/AmazaspShumik/sklearn-bayes",
-    "description": "Python package for Bayesian Machine Learning with scikit-learn API."
-  },
-  {
-    "name": "skpro",
-    "url": "https://github.com/alan-turing-institute/skpro",
-    "description": "Supervised domain-agnostic prediction framework for probabilistic modelling by The Alan Turing Institute."
-  },
-  {
-    "name": "PyVarInf",
-    "url": "https://github.com/ctallec/pyvarinf",
-    "description": "Bayesian Deep Learning methods with Variational Inference for PyTorch."
-  },
-  {
-    "name": "emcee",
-    "url": "https://github.com/dfm/emcee",
-    "description": "The Python ensemble sampling toolkit for affine-invariant MCMC."
-  },
-  {
-    "name": "hsmmlearn",
-    "url": "https://github.com/jvkersch/hsmmlearn",
-    "description": "A library for hidden semi-Markov models with explicit durations."
-  },
-  {
-    "name": "pyhsmm",
-    "url": "https://github.com/mattjj/pyhsmm",
-    "description": "Bayesian inference in HSMMs and HMMs."
-  },
-  {
-    "name": "GPyTorch",
-    "url": "https://github.com/cornellius-gp/gpytorch",
-    "description": "A highly efficient and modular implementation of Gaussian Processes in PyTorch."
-  },
-  {
-    "name": "sklearn-crfsuite",
-    "url": "https://github.com/TeamHG-Memex/sklearn-crfsuite",
-    "description": "A scikit-learn-inspired API for CRFsuite."
   },
   {
     "name": "gplearn",
@@ -1630,6 +1610,26 @@
     "name": "NumExpr",
     "url": "https://github.com/pydata/numexpr",
     "description": "A fast numerical expression evaluator for NumPy that comes with an integrated computing virtual machine to speed calculations up by avoiding memory allocation for intermediate results."
+  },
+  {
+    "name": "BeautifulSoup",
+    "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"
+  },
+  {
+    "name": "Scrapy",
+    "url": "https://scrapy.org/"
+  },
+  {
+    "name": "Selenium",
+    "url": "https://selenium-python.readthedocs.io/installation.html#introduction"
+  },
+  {
+    "name": "Pattern",
+    "url": "https://github.com/clips/pattern"
+  },
+  {
+    "name": "twitterscraper",
+    "url": "https://github.com/taspinar/twitterscraper"
   },
   {
     "name": "GeoPandas",
