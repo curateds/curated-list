@@ -223,6 +223,26 @@
     "description": "A Directus extension that generates blurhashes for uploaded images."
   },
   {
+    "name": "Media AI Bundle",
+    "url": "https://github.com/Arood/directus-extension-media-ai-bundle",
+    "description": "Two operations to perform image description and OCR."
+  },
+  {
+    "name": "Directus Copilot",
+    "url": "https://github.com/programmarchy/directus-extension-copilot/",
+    "description": "A bundle including a panel to ask data-aware questions in a chat interface."
+  },
+  {
+    "name": "OpenAI Automatic Translation",
+    "url": "https://github.com/timio23/directus-operation-auto-translate/",
+    "description": "An operaiton to automatically translate new items via OpenAI."
+  },
+  {
+    "name": "Machine Learning Operations",
+    "url": "https://github.com/karamokoisrael/directus-hackathon-submission/",
+    "description": "A set of extensions to train, test and use machine learning models."
+  },
+  {
     "name": "Directus Guides (Official)",
     "url": "https://directus.io/guides/"
   },

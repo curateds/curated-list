@@ -160,6 +160,11 @@
     "description": "A Python tool for quick calculations of a stock's fair value using Discounted Cash Flow analysis."
   },
   {
+    "name": "Kelly-Criterion",
+    "url": "https://github.com/deltaray-io/kelly-criterion",
+    "description": "Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula."
+  },
+  {
     "name": "pandas_talib",
     "url": "https://github.com/femtotrader/pandas_talib",
     "description": "A Python Pandas implementation of technical analysis indicators."
@@ -178,6 +183,11 @@
     "name": "lppls",
     "url": "https://github.com/Boulder-Investment-Technologies/lppls",
     "description": "A Python module for fitting the Log-Periodic Power Law Singularity (LPPLS) model."
+  },
+  {
+    "name": "QSTrader",
+    "url": "https://github.com/mhallsmoore/qstrader",
+    "description": "QSTrader backtesting simulation engine."
   },
   {
     "name": "Blankly",
@@ -532,7 +542,7 @@
   {
     "name": "VisualPortfolio",
     "url": "https://github.com/wegamekinglc/VisualPortfolio",
-    "description": "This tool is used to visualize the perfomance of a portfolio."
+    "description": "This tool is used to visualize the performance of a portfolio."
   },
   {
     "name": "universal-portfolios",
@@ -1583,6 +1593,11 @@
     "name": "QuantLib-Python Documentation",
     "url": "https://quantlib-python-docs.readthedocs.io/",
     "description": "Documentation for the Python bindings for the QuantLib library"
+  },
+  {
+    "name": "QuantLib with Automatic Differention enabled",
+    "url": "https://github.com/auto-differentiation/quantlib-xad",
+    "description": "Integration of Automatic Differentiation with the QuantLib library"
   },
   {
     "name": "TA-Lib",

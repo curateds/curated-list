@@ -1475,6 +1475,11 @@
     "description": "A warm green theme."
   },
   {
+    "name": "cryptomilk/nightcity.nvim",
+    "url": "https://github.com/cryptomilk/nightcity.nvim",
+    "description": "A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -1685,9 +1690,9 @@
     "description": "A \"buffer and tab\" tabline."
   },
   {
-    "name": "noib3/cokeline.nvim",
-    "url": "https://github.com/noib3/cokeline.nvim",
-    "description": "A Neovim bufferline for people with addictive personalities."
+    "name": "willothy/nvim-cokeline",
+    "url": "https://github.com/willothy/nvim-cokeline",
+    "description": "A bufferline for people with addictive personalities."
   },
   {
     "name": "tomiis4/BufferTabs.nvim",
@@ -2330,6 +2335,11 @@
     "description": "Allowing you to edit your command in the terminal just like any other buffer."
   },
   {
+    "name": "mikesmithgh/kitty-scrollback.nvim",
+    "url": "https://github.com/mikesmithgh/kitty-scrollback.nvim",
+    "description": "Open your Kitty scrollback buffer. Ameowzing."
+  },
+  {
     "name": "mfussenegger/nvim-dap",
     "url": "https://github.com/mfussenegger/nvim-dap",
     "description": "Debug Adapter Protocol client implementation."
@@ -2713,6 +2723,11 @@
     "name": "9seconds/repolink.nvim",
     "url": "https://github.com/9seconds/repolink.nvim",
     "description": "Generate shareable HTTP permalinks for various Git web frontends."
+  },
+  {
+    "name": "chrisgrieser/nvim-tinygit",
+    "url": "https://github.com/chrisgrieser/nvim-tinygit",
+    "description": "Lightweight and nimble git client."
   },
   {
     "name": "pwntester/octo.nvim",

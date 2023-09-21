@@ -724,6 +724,11 @@
     "description": "Template for creating React 18 SPA apps with TypeScript, React Router, Tailwind CSS, Shadcn UI, React Query, ESLint, Prettier, Stylelint, Husky, React-i18next, Transmart."
   },
   {
+    "name": "template-tauri-vite-react-ts-tailwind",
+    "url": "https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind",
+    "description": "Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -1192,6 +1197,11 @@
     "name": "vite-plugin-meta-env",
     "url": "https://github.com/wei-design/vite-plugin-meta-env",
     "description": "Define dynamic env variables in import.meta.env."
+  },
+  {
+    "name": "vite-plugin-dynamic-proxy",
+    "url": "https://github.com/zjpzjp/vite-plugin-debug-proxy",
+    "description": "Automatically configure reverse proxies based on URL parameters."
   },
   {
     "name": "unplugin-icons",
