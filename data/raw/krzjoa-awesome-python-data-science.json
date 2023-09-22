@@ -370,9 +370,19 @@
     "description": "HIP Port of MXNet."
   },
   {
-    "name": "jax",
+    "name": "JAX",
     "url": "https://github.com/google/jax",
     "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more."
+  },
+  {
+    "name": "FLAX",
+    "url": "https://github.com/google/flax",
+    "description": "A neural network library for JAX that is designed for flexibility."
+  },
+  {
+    "name": "Optax",
+    "url": "https://github.com/google-deepmind/optax",
+    "description": "A gradient processing and optimization library for JAX."
   },
   {
     "name": "transformers",
@@ -690,6 +700,26 @@
     "description": "A platform for Applied Reinforcement Learning."
   },
   {
+    "name": "rlpyt",
+    "url": "https://github.com/astooke/rlpyt",
+    "description": "Reinforcement Learning in PyTorch."
+  },
+  {
+    "name": "cleanrl",
+    "url": "https://github.com/vwxyzjn/cleanrl",
+    "description": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)."
+  },
+  {
+    "name": "Machin",
+    "url": "https://github.com/iffiX/machin",
+    "description": "A reinforcement library designed for pytorch."
+  },
+  {
+    "name": "SKRL",
+    "url": "https://github.com/Toni-SM/skrl",
+    "description": "Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym."
+  },
+  {
     "name": "pytorch_geometric",
     "url": "https://github.com/rusty1s/pytorch_geometric",
     "description": "Geometric Deep Learning Extension Library for PyTorch."
@@ -698,6 +728,11 @@
     "name": "pytorch_geometric_temporal",
     "url": "https://github.com/benedekrozemberczki/pytorch_geometric_temporal",
     "description": "Temporal Extension Library for PyTorch Geometric."
+  },
+  {
+    "name": "PyTorch Geometric Signed Directed",
+    "url": "https://github.com/SherylHYX/pytorch_geometric_signed_directed",
+    "description": "A signed/directed graph neural network extension library for PyTorch Geometric."
   },
   {
     "name": "dgl",
@@ -710,6 +745,35 @@
     "description": "Deep learning on graphs."
   },
   {
+    "name": "StellarGraph",
+    "url": "https://github.com/stellargraph/stellargraph",
+    "description": "Machine Learning on Graphs."
+  },
+  {
+    "name": "Graph Nets",
+    "url": "https://github.com/google-deepmind/graph_nets",
+    "description": "Build Graph Nets in Tensorflow."
+  },
+  {
+    "name": "TensorFlow GNN",
+    "url": "https://github.com/tensorflow/gnn",
+    "description": "A library to build Graph Neural Networks on the TensorFlow platform."
+  },
+  {
+    "name": "Auto Graph Learning",
+    "url": "https://github.com/THUMNLab/AutoGL"
+  },
+  {
+    "name": "PyTorch-BigGraph",
+    "url": "https://github.com/facebookresearch/PyTorch-BigGraph",
+    "description": "Generate embeddings from large-scale graph-structured data."
+  },
+  {
+    "name": "Auto Graph Learning",
+    "url": "https://github.com/THUMNLab/AutoGL",
+    "description": "An autoML framework & toolkit for machine learning on graphs."
+  },
+  {
     "name": "Karate Club",
     "url": "https://github.com/benedekrozemberczki/karateclub",
     "description": "An unsupervised machine learning library for graph-structured data."
@@ -718,6 +782,16 @@
     "name": "Little Ball of Fur",
     "url": "https://github.com/benedekrozemberczki/littleballoffur",
     "description": "A library for sampling graph structured data."
+  },
+  {
+    "name": "GreatX",
+    "url": "https://github.com/EdisonLeeeee/GreatX",
+    "description": "A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG)."
+  },
+  {
+    "name": "Jraph",
+    "url": "https://github.com/google-deepmind/jraph",
+    "description": "A Graph Neural Network Library in Jax."
   },
   {
     "name": "pomegranate",

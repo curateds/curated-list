@@ -45,7 +45,7 @@
   {
     "name": "SteamUser",
     "url": "https://github.com/DoctorMcKay/node-steam-user",
-    "description": "A Node.js library for interacting with the Steam network via the the Steam client protocol."
+    "description": "A Node.js library for interacting with the Steam network via the Steam client protocol."
   },
   {
     "name": "Steam TOTP",
@@ -65,7 +65,7 @@
   {
     "name": "awpy",
     "url": "https://github.com/pnxenopoulos/awpy",
-    "description": "A Python library for parsing, analyzing and visualizing CS:GO data."
+    "description": "A Python library for parsing, analyzing, and visualizing CS:GO data."
   },
   {
     "name": "Boxcars",
@@ -110,7 +110,7 @@
   {
     "name": "Fortnite VSCode Theme",
     "url": "https://github.com/sdras/fortnite-vscode-theme",
-    "description": "A Visual Studio Code theme inspired by Fornite."
+    "description": "A Visual Studio Code theme inspired by Fortnite."
   },
   {
     "name": "BNETDocs",
@@ -155,6 +155,11 @@
   {
     "name": "LeagueStats",
     "url": "https://github.com/vkaelin/LeagueStats",
-    "description": "A website for League of Legends summoners stats."
+    "description": "A website for League of Legends summoners' stats."
+  },
+  {
+    "name": "League of Legends Analytics",
+    "url": "https://github.com/FloPrm/lol_analytics",
+    "description": "A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts."
   }
 ]

@@ -101,6 +101,11 @@
     "description": "A personal guide to Vue development."
   },
   {
+    "name": "Vue-FAQ",
+    "url": "https://vue-faq.org/",
+    "description": "FAQ about frontend in general and Vue.js in particular."
+  },
+  {
     "name": "Vue.js Jobs - VueJobs",
     "url": "https://vuejobs.com/",
     "description": "VueJobs - A Vue.js job portal to hire or get hired for all your Vue.js jobs."
@@ -8269,9 +8274,9 @@
     "description": "Vue 3 slider component with multihandles, tooltips merging and formatting."
   },
   {
-    "name": "vuedraggable",
-    "url": "https://github.com/SortableJS/Vue.Draggable",
-    "description": "Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js."
+    "name": "vuedraggable-plus",
+    "url": "https://github.com/Alfred-Skyblue/vue-draggable-plus",
+    "description": "Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js."
   },
   {
     "name": "vue-dragula",
@@ -11882,6 +11887,16 @@
     "name": "intlify/vue-i18n-next",
     "url": "https://github.com/intlify/vue-i18n-next",
     "description": "Vue I18n for Vue 3."
+  },
+  {
+    "name": "i18n-pro/vue",
+    "url": "https://github.com/i18n-pro/vue",
+    "description": "Lightweight, simple, flexible, automatic translation internationalization tool for Vue."
+  },
+  {
+    "name": "i18n-pro/vue2",
+    "url": "https://github.com/i18n-pro/vue2",
+    "description": "Lightweight, simple, flexible, automatic translation internationalization tool for Vue 2."
   },
   {
     "name": "vue-events",
