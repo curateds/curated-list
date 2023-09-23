@@ -325,11 +325,6 @@
     "description": "Open Source, Smart and Scalable Security Operations Orchestration Platform. AGPL-3.0 Python"
   },
   {
-    "name": "Podgrab",
-    "url": "https://github.com/akhilrex/podgrab",
-    "description": "Lightweight podcast manager and automatic podcast episode downloader. It will monitor podcasts for your and download them automatically whenever a new episode goes live. GPL-3.0 Docker/Go"
-  },
-  {
     "name": "pyLoad",
     "url": "https://pyload.net/",
     "description": "Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. (Source Code) GPL-3.0 Python"
@@ -580,6 +575,16 @@
     "description": "End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. (Source Code) AGPL-3.0 Python/Django"
   },
   {
+    "name": "EteSync Web",
+    "url": "https://www.etesync.com/faq/#web-client",
+    "description": "EteSync's official Web-based client (i.e., their Web app). (Demo, Source Code) AGPL-3.0 Javascript"
+  },
+  {
+    "name": "Manage My Damn Life",
+    "url": "https://intri.in/manage-my-damn-life/",
+    "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. (Source Code) GPL-3.0 Nodejs/Docker"
+  },
+  {
     "name": "Radicale",
     "url": "https://radicale.org/",
     "description": "Simple calendar and contact server with extremely low administrative overhead. (Source Code) GPL-3.0 Python"
@@ -593,21 +598,6 @@
     "name": "Xandikos",
     "url": "https://github.com/jelmer/xandikos",
     "description": "Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. GPL-3.0 Python"
-  },
-  {
-    "name": "AgenDAV",
-    "url": "https://agendav.github.io/agendav/",
-    "description": "Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. (Source Code) GPL-3.0 PHP"
-  },
-  {
-    "name": "EteSync Web",
-    "url": "https://www.etesync.com/faq/#web-client",
-    "description": "EteSync's official Web-based client (i.e., their Web app). (Demo, Source Code) AGPL-3.0 Javascript"
-  },
-  {
-    "name": "Manage My Damn Life",
-    "url": "https://intri.in/manage-my-damn-life/",
-    "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. (Source Code) GPL-3.0 Nodejs/Docker"
   },
   {
     "name": "Apprise",
@@ -862,7 +852,7 @@
   {
     "name": "DebOps",
     "url": "https://docs.debops.org/",
-    "description": "Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. (Source Code) GPL-3.0 YAML/Ansible/Python"
+    "description": "Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. (Source Code) GPL-3.0 Ansible/Python"
   },
   {
     "name": "docker-mailserver",
@@ -1247,12 +1237,12 @@
   {
     "name": "SIP3",
     "url": "https://sip3.io/",
-    "description": "VoIP troubleshooting and monitoring platform. (Demo, Source Code) Apache-2.0 Kotlin"
+    "description": "VoIP troubleshooting and monitoring platform. (Demo, Source Code) Apache-2.0 Java"
   },
   {
     "name": "SIPCAPTURE Homer",
     "url": "https://www.sipcapture.org/",
-    "description": "Troubleshooting and monitoring VoIP calls. (Source Code) AGPL-3.0 Angular/C"
+    "description": "Troubleshooting and monitoring VoIP calls. (Source Code) AGPL-3.0 Nodejs/Go/Docker"
   },
   {
     "name": "Wazo",
@@ -1422,7 +1412,7 @@
   {
     "name": "Nitter",
     "url": "https://nitter.net",
-    "description": "A alternative front end to twitter. (Source Code) AGPL-3.0 Nimble/Docker"
+    "description": "A alternative front end to twitter. (Source Code) AGPL-3.0 Nim/Docker"
   },
   {
     "name": "NodeBB",
@@ -2062,7 +2052,7 @@
   {
     "name": "Kavita",
     "url": "https://www.kavitareader.com/",
-    "description": "Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. (Demo, Source Code) GPL-3.0 .NET Core/Docker"
+    "description": "Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. (Demo, Source Code) GPL-3.0 .NET/Docker"
   },
   {
     "name": "Komga",
@@ -2122,7 +2112,7 @@
   {
     "name": "Evergreen",
     "url": "https://evergreen-ils.org",
-    "description": "Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. (Source Code) GPL-2.0 PL/pgSQL"
+    "description": "Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. (Source Code) GPL-2.0 PLpgSQL"
   },
   {
     "name": "Koha",
@@ -2138,11 +2128,6 @@
     "name": "Aimeos",
     "url": "https://aimeos.org/",
     "description": "Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. (Demo, Source Code) LGPL-3.0/MIT PHP"
-  },
-  {
-    "name": "Attendize",
-    "url": "https://www.attendize.com/",
-    "description": "Ticket selling and event management platform. (Source Code) AAL Docker/PHP"
   },
   {
     "name": "Bagisto",
@@ -2318,11 +2303,6 @@
     "name": "RSS-Bridge",
     "url": "https://github.com/RSS-Bridge/rss-bridge",
     "description": "Generate RSS/ATOM feeds for websites which don't have one. Unlicense PHP"
-  },
-  {
-    "name": "RSS Fulltext Proxy",
-    "url": "https://github.com/Kombustor/rss-fulltext-proxy",
-    "description": "Mirrors RSS feeds to return the full content of the items, extracted from the website. MIT Nodejs"
   },
   {
     "name": "RSS Monster",
@@ -2553,11 +2533,6 @@
     "name": "Plik",
     "url": "https://github.com/root-gg/plik",
     "description": "Plik is a scalable and friendly temporary file upload system. (Demo) MIT Go"
-  },
-  {
-    "name": "Pomf",
-    "url": "https://github.com/Pomf/Pomf",
-    "description": "Pomf is a simple file uploading and sharing platform. MIT PHP"
   },
   {
     "name": "ProjectSend",
@@ -4540,11 +4515,6 @@
     "description": "Photo gallery software for the web, built by an active community of users and developers. (Source Code) GPL-2.0 PHP"
   },
   {
-    "name": "Quru Image Server",
-    "url": "https://quruimageserver.com/",
-    "description": "High performance dynamically resizing image server offering directory based access control cropping, rotation, color management and other tools. (Demo, Source Code) AGPL-3.0 Python"
-  },
-  {
     "name": "sigal",
     "url": "https://github.com/saimn/sigal",
     "description": "Yet another simple static gallery generator. MIT Python"
@@ -4605,11 +4575,6 @@
     "description": "Online scheduling application. (Demo, Source Code) AGPL-3.0 Ruby"
   },
   {
-    "name": "Feedka",
-    "url": "https://github.com/drabkirn/feedka",
-    "description": "Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. AGPL-3.0 Ruby"
-  },
-  {
     "name": "Fider",
     "url": "https://fider.io",
     "description": "Open platform to collect and prioritize feedback (alternative to UserVoice). (Demo, Source Code) MIT Go"
@@ -4648,11 +4613,6 @@
     "name": "Mobilizon",
     "url": "https://mobilizon.org",
     "description": "A federated tool that helps you find, create and organise events and groups. (Demo, Source Code) GPL-3.0 Elixir"
-  },
-  {
-    "name": "OhMyForms",
-    "url": "https://ohmyform.com/",
-    "description": "Create stunning mobile-ready forms, surveys and questionnaires (alternative to TypeForm). (Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "Open Event Server",
@@ -4748,11 +4708,6 @@
     "name": "Mealie",
     "url": "https://nightly.mealie.io/",
     "description": "Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. (Source Code) MIT Python"
-  },
-  {
-    "name": "Recepturer",
-    "url": "https://recepturer.com/",
-    "description": "Let Recepturer help you organize all your recipes in one place. You can add, edit and delete recipes, and create meal plans. Simply type your recipe and all ingredients will be listed as you go. Data is stored on Dropbox. (Source Code) MIT Javascript"
   },
   {
     "name": "RecipeSage",
@@ -4947,7 +4902,7 @@
   {
     "name": "Ansible-NAS",
     "url": "https://github.com/DaveStephens/ansible-nas",
-    "description": "Build a full-featured home server with this playbook and an Ubuntu box. MIT YAML/Docker"
+    "description": "Build a full-featured home server with this playbook and an Ubuntu box. MIT Ansible/Docker"
   },
   {
     "name": "Bitsii Bridge",
@@ -5042,7 +4997,7 @@
   {
     "name": "xsrv",
     "url": "https://xsrv.readthedocs.io/",
-    "description": "Install and manage self-hosted services/applications, on your own server(s). (Source Code) GPL-3.0 Shell/Ansible"
+    "description": "Install and manage self-hosted services/applications, on your own server(s). (Source Code) GPL-3.0 Ansible/Shell"
   },
   {
     "name": "YunoHost",
@@ -5075,9 +5030,14 @@
     "description": "Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. (Source Code) Apache-2.0 Haskell"
   },
   {
-    "name": "Hoppscotch",
+    "name": "Hoppscotch Community Edition",
     "url": "https://hoppscotch.io",
-    "description": "A free, fast and beautiful API request builder. (Source Code) MIT Nodejs/Vue/Nuxt"
+    "description": "A free, fast and beautiful API request builder. (Source Code) MIT Nodejs/Docker"
+  },
+  {
+    "name": "Hoppscotch Community Edition",
+    "url": "https://hoppscotch.io",
+    "description": "A free, fast and beautiful API request builder. (Source Code) MIT Nodejs/Docker"
   },
   {
     "name": "Kong",
@@ -5653,11 +5613,6 @@
     "name": "Pachno",
     "url": "https://pach.no/",
     "description": "Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. (Source Code) MPL-2.0 PHP"
-  },
-  {
-    "name": "Peppermint",
-    "url": "https://peppermint.sh/",
-    "description": "A simple ticket management tool with support for logs and multi-deployment. (Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "Request Tracker",

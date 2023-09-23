@@ -305,6 +305,11 @@
     "description": "A plugin that adds missing LSP diagnostics highlight groups for color schemes that don't yet support the builtin LSP client."
   },
   {
+    "name": "chrisgrieser/nvim-rulebook",
+    "url": "https://github.com/chrisgrieser/nvim-rulebook",
+    "description": "Add inline-comments to ignore rules, or lookup rule documentation online."
+  },
+  {
     "name": "ms-jpq/coq_nvim",
     "url": "https://github.com/ms-jpq/coq_nvim",
     "description": "Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization."

@@ -175,6 +175,11 @@
     "description": "Compositional, streaming I/O library for Scala."
   },
   {
+    "name": "FastStream",
+    "url": "https://github.com/airtai/faststream",
+    "description": "powerful and easy-to-use Python library simplifying the process of writing producers and consumers for message queues, handling all the parsing, networking and documentation generation automatically. Supports multiple protocols such as Apache Kafka, RabbitMQ and alike."
+  },
+  {
     "name": "monix",
     "url": "https://github.com/monix/monix",
     "description": "high-performance Scala / Scala.js library for composing asynchronous and event-based programs."
