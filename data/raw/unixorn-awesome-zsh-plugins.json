@@ -106,6 +106,10 @@
     "url": "https://github.com/bashelled/yazt"
   },
   {
+    "name": "yzsh",
+    "url": "https://github.com/yunielrc/yzsh"
+  },
+  {
     "name": "zap",
     "url": "https://github.com/zap-zsh/zap"
   },
@@ -1641,6 +1645,16 @@
     "name": "ez-cmd",
     "url": "https://github.com/akgarhwal/ez-cmd",
     "description": "Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases."
+  },
+  {
+    "name": "eza (clavelm)",
+    "url": "https://github.com/clavelm/eza-omz-plugin",
+    "description": "Replaces ls with eza-community/eza."
+  },
+  {
+    "name": "eza (z-shell)",
+    "url": "https://github.com/z-shell/zsh-eza",
+    "description": "Replaces ls with eza-community/eza."
   },
   {
     "name": "f-shortcuts",
@@ -7981,6 +7995,11 @@
     "name": "lorond",
     "url": "https://github.com/lorond/zsh-lorond/",
     "description": "Compact version of af-magic. Includes git status, works with standard fonts."
+  },
+  {
+    "name": "lperezp",
+    "url": "https://github.com/lperezp/lperezp-zsh-theme",
+    "description": "Includes decorators for user@hostname, git status, current directory and the exit status of the last command run."
   },
   {
     "name": "lpha3cho",

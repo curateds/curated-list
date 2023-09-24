@@ -4659,8 +4659,14 @@
     "url": "https://github.com/mattnenterprise/rust-pop3"
   },
   {
-    "name": "cloudflare/quiche",
-    "url": "https://github.com/cloudflare/quiche"
+    "name": "aws/s2n-quic",
+    "url": "https://github.com/aws/s2n-quic",
+    "description": "An implementation of the IETF QUIC protocol"
+  },
+  {
+    "name": "aws/s2n-quic",
+    "url": "https://github.com/aws/s2n-quic",
+    "description": "An implementation of the IETF QUIC protocol"
   },
   {
     "name": "cloudflare/quiche",
