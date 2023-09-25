@@ -1740,6 +1740,11 @@
     "description": "Part of nvim-cursorline. Highlight the word under the cursor."
   },
   {
+    "name": "sontungexpt/stcursorword",
+    "url": "https://github.com/sontungexpt/stcursorword",
+    "description": "Highlight the word under the cursor (Improved and compact version of nvim-cursorline)."
+  },
+  {
     "name": "RRethy/vim-illuminate",
     "url": "https://github.com/RRethy/vim-illuminate",
     "description": "Highlight the word under the cursor. Neovim's builtin LSP is available, it can be used to highlight more intelligently."

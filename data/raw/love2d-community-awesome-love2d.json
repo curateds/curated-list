@@ -80,6 +80,11 @@
     "description": "A functional behavior tree implementation."
   },
   {
+    "name": "Luafinding",
+    "url": "https://github.com/GlorifiedPig/Luafinding",
+    "description": "Class-based A* implementation written purely in Lua."
+  },
+  {
     "name": "andross",
     "url": "https://github.com/pfirsich/andross",
     "description": "A Lua library for 2D skeletal/bone animations with a Löve backend."
@@ -158,6 +163,11 @@
     "name": "hump.camera",
     "url": "https://hump.readthedocs.io/en/latest/camera.html",
     "description": "Camera library with window locking and smooth camera movement interpolation."
+  },
+  {
+    "name": "parallax",
+    "url": "https://github.com/idbrii/love-parallax",
+    "description": "Parallax scrolling with any camera system; seamlessly tile background images."
   },
   {
     "name": "FPSGraph",
@@ -468,6 +478,11 @@
     "name": "baton",
     "url": "https://github.com/tesselode/baton",
     "description": "Input library for LÖVE that bridges the gap between keyboard and gamepad controls."
+  },
+  {
+    "name": "GamepadGuesser",
+    "url": "https://github.com/idbrii/love-gamepadguesser",
+    "description": "Get the right button icons for gamepads; load updated gamepad db."
   },
   {
     "name": "input",
@@ -810,6 +825,11 @@
     "description": "Repository of common post-processing effects like blur, vignette, color-grading, etc."
   },
   {
+    "name": "ShaderScan",
+    "url": "https://github.com/idbrii/love-shaderscan",
+    "description": "Adds hot reload, includes, and better error messages for faster shader iteration."
+  },
+  {
     "name": "busted",
     "url": "https://github.com/Olivine-Labs/busted",
     "description": "Simple unit-testing framework with customizable assertions."
@@ -903,6 +923,11 @@
     "name": "Helium",
     "url": "https://github.com/qeffects/helium",
     "description": "A modern, customizable, high performance retained UI framework."
+  },
+  {
+    "name": "Layouter",
+    "url": "https://github.com/nekromoff/layouter",
+    "description": "A simple UI grid layout library for LÖVE 2D game engine."
   },
   {
     "name": "ListBox",

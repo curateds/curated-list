@@ -87,7 +87,7 @@
   {
     "name": "Cecilia",
     "url": "https://github.com/belangeo/cecilia5",
-    "description": "a CSound-based graphical environment for music and signal processing."
+    "description": "a Pyo-based graphical environment for music and signal processing."
   },
   {
     "name": "cyanrip",
@@ -355,11 +355,6 @@
     "description": "Typographic Beat-Oriented Notation for music."
   },
   {
-    "name": "Tunefl",
-    "url": "https://github.com/tiredpixel/tunefl",
-    "description": "LilyPond mini-score engraving and sharing service for musicians."
-  },
-  {
     "name": "Unison",
     "url": "https://unisonofficial.com/html/user-documentation.html?title=unison-editor",
     "description": "Proprietary software for creating music score with words."
@@ -563,6 +558,11 @@
     "name": "SMuFL (Standard Music Font Layout)",
     "url": "http://www.smufl.org/",
     "description": "a specification for mapping music symbols to Unicode for use in music fonts."
+  },
+  {
+    "name": "Awesome Audio DSP",
+    "url": "https://github.com/BillyDM/awesome-audio-dsp",
+    "description": "A curated list of audio DSP and plugin development resources."
   },
   {
     "name": "Awesome Audio Visualization",

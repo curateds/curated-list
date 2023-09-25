@@ -187,7 +187,7 @@
   {
     "name": "Activepieces",
     "url": "https://www.activepieces.com",
-    "description": "No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. (Source Code) MIT Typescript"
+    "description": "No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. (Source Code) MIT Docker"
   },
   {
     "name": "ActiveWorkflow",
@@ -252,7 +252,7 @@
   {
     "name": "homebank-converter",
     "url": "https://github.com/Binnette/homebank-converter",
-    "description": "Web app to convert an export bank file to compatible Homebank csv. (Demo) AGPL-3.0 HTML5"
+    "description": "Web app to convert an export bank file to compatible Homebank csv. (Demo) AGPL-3.0 Javascript"
   },
   {
     "name": "HRConvert2",
@@ -867,7 +867,7 @@
   {
     "name": "emailwiz",
     "url": "https://github.com/LukeSmithxyz/emailwiz",
-    "description": "Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. GPL-3.0 Bash"
+    "description": "Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. GPL-3.0 Shell"
   },
   {
     "name": "homebox",
@@ -993,11 +993,6 @@
     "name": "Maildrop",
     "url": "https://gitlab.com/markbeeson/maildrop",
     "description": "Disposable email SMTP server, also useful for development. MIT Scala"
-  },
-  {
-    "name": "MailHog",
-    "url": "https://github.com/mailhog/MailHog",
-    "description": "Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. MIT Go/Docker"
   },
   {
     "name": "OpenSMTPD",
@@ -1218,11 +1213,6 @@
     "name": "Kamailio",
     "url": "https://www.kamailio.org/w/",
     "description": "Modular SIP server (registrar/proxy/router/etc). (Source Code) GPL-2.0 C/deb"
-  },
-  {
-    "name": "Kazoo",
-    "url": "https://2600hz.org/",
-    "description": "KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. (Source Code) MPL-1.1 Erlang"
   },
   {
     "name": "openSIPS",
@@ -1972,7 +1962,7 @@
   {
     "name": "Maza ad blocking",
     "url": "https://maza-ad-blocking.andros.dev/",
-    "description": "Local ad blocker. Like Pi-hole but local and using your operating system. (Source Code) Apache-2.0 Bash"
+    "description": "Local ad blocker. Like Pi-hole but local and using your operating system. (Source Code) Apache-2.0 Shell"
   },
   {
     "name": "Pi-hole",
@@ -2122,7 +2112,7 @@
   {
     "name": "RERO ILS",
     "url": "https://rero21.ch/",
-    "description": "Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. (Demo, Source Code) AGPL-3.0 Python/Other"
+    "description": "Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. (Demo, Source Code) AGPL-3.0 Python/Docker"
   },
   {
     "name": "Aimeos",
@@ -2592,7 +2582,7 @@
   {
     "name": "Apaxy",
     "url": "https://oupala.github.io/apaxy/",
-    "description": "Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. (Source Code) GPL-3.0 HTML"
+    "description": "Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. (Source Code) GPL-3.0 Javascript"
   },
   {
     "name": "copyparty",
@@ -2657,7 +2647,7 @@
   {
     "name": "A Dark Room",
     "url": "https://github.com/doublespeakgames/adarkroom",
-    "description": "Minimalist text adventure game for your browser. (Demo) MPL-2.0 HTML5"
+    "description": "Minimalist text adventure game for your browser. (Demo) MPL-2.0 Javascript"
   },
   {
     "name": "EmuLinkerSF",
@@ -2757,7 +2747,7 @@
   {
     "name": "EasyWI",
     "url": "https://easy-wi.com",
-    "description": "Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. (Source Code) GPL-3.0 PHP/Bash"
+    "description": "Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. (Source Code) GPL-3.0 PHP/Shell"
   },
   {
     "name": "Kubek",
@@ -2812,7 +2802,7 @@
   {
     "name": "GeneWeb",
     "url": "https://geneweb.tuxfamily.org/wiki/GeneWeb",
-    "description": "GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. (Demo, Source Code) GPL-2.0 OCaml"
+    "description": "Genealogy software. It comes with a Web interface and can be used off-line or as a Web service. (Demo, Source Code) GPL-2.0 OCaml"
   },
   {
     "name": "Gramps Web",
@@ -2832,7 +2822,7 @@
   {
     "name": "Citadel",
     "url": "https://www.citadel.org/",
-    "description": "Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. (Source Code) GPL-3.0 C/Docker/Bash"
+    "description": "Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. (Source Code) GPL-3.0 C/Docker/Shell"
   },
   {
     "name": "Corteza",
@@ -2917,7 +2907,7 @@
   {
     "name": "Domoticz",
     "url": "https://www.domoticz.com/",
-    "description": "Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. (Source Code, Clients) GPL-3.0 C/C++/Docker/Bash"
+    "description": "Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. (Source Code, Clients) GPL-3.0 C/C++/Docker/Shell"
   },
   {
     "name": "EMQX",
@@ -3077,7 +3067,7 @@
   {
     "name": "Bicimon",
     "url": "https://github.com/knrdl/bicimon",
-    "description": "Bike Speedometer as Progressive Web App. (Demo) MIT HTML5"
+    "description": "Bike Speedometer as Progressive Web App. (Demo) MIT Javascript"
   },
   {
     "name": "Geo2tz",
@@ -3092,7 +3082,7 @@
   {
     "name": "H3 Viewer",
     "url": "https://github.com/clupasq/h3-viewer",
-    "description": "View/search Uber H3 (Hexagonal Hierarchical Spatial Index) cells on a map. (Demo) Apache-2.0 HTML5"
+    "description": "View/search Uber H3 (Hexagonal Hierarchical Spatial Index) cells on a map. (Demo) Apache-2.0 Javascript"
   },
   {
     "name": "MapBBCodeShare",
@@ -3298,11 +3288,6 @@
     "name": "Gerbera",
     "url": "https://gerbera.io/",
     "description": "Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. (Source Code) GPL-2.0 Docker/deb/C++"
-  },
-  {
-    "name": "homehost",
-    "url": "https://github.com/ridhwaans/homehost",
-    "description": "Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc). MIT Nodejs"
   },
   {
     "name": "Icecast 2",
@@ -3807,7 +3792,7 @@
   {
     "name": "Upsnap",
     "url": "https://github.com/seriousm4x/UpSnap",
-    "description": "A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. MIT Svelte/Go/Docker"
+    "description": "A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. MIT Go/Docker"
   },
   {
     "name": "VanDAM",
@@ -3962,7 +3947,7 @@
   {
     "name": "OnTrack",
     "url": "https://github.com/inoda/ontrack",
-    "description": "A simple app to track spend and set goals. MIT Ruby/React"
+    "description": "A simple app to track spend and set goals. MIT Ruby/Nodejs"
   },
   {
     "name": "OpenBudgeteer",
@@ -4037,7 +4022,7 @@
   {
     "name": "Markdown Edit",
     "url": "https://github.com/georgeOsdDev/markdown-edit/",
-    "description": "Online markdown editor/viewer. MIT HTML5"
+    "description": "Online markdown editor/viewer. MIT Javascript"
   },
   {
     "name": "Meemo",
@@ -4225,11 +4210,6 @@
     "description": "A pastebin with public/private snippets and netcat server. MIT Docker"
   },
   {
-    "name": "filite",
-    "url": "https://github.com/raftario/filite",
-    "description": "A simple, light and standalone pastebin, URL shortener and file-sharing service. MIT Rust"
-  },
-  {
     "name": "FlashPaper",
     "url": "https://github.com/AndrewPaglusch/FlashPaper",
     "description": "A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. (Demo) MIT Docker/PHP"
@@ -4250,19 +4230,9 @@
     "description": "Web service that allows you to share notes anonymously. (Demo) AGPL-3.0 Docker/Go"
   },
   {
-    "name": "LogPaste",
-    "url": "https://github.com/mtlynch/logpaste",
-    "description": "Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend. (Demo) MIT Go/Docker"
-  },
-  {
     "name": "MicroBin",
     "url": "https://github.com/szabodanika/microbin",
     "description": "Simple, performant, configurable, entirely self-contained pastebin and URL shortener. BSD-3-Clause Rust/Docker"
-  },
-  {
-    "name": "mojopaste",
-    "url": "https://metacpan.org/dist/App-mojopaste",
-    "description": "Perl based pastebin. (Demo, Source Code) Artistic-2.0 Perl/Docker"
   },
   {
     "name": "MokinToken",
@@ -4288,11 +4258,6 @@
     "name": "Pastefy",
     "url": "https://pastefy.app/",
     "description": "Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. (Source Code, Clients) MIT Docker/K8S/Java"
-  },
-  {
-    "name": "Pastila",
-    "url": "https://pastila.nl/",
-    "description": "Minimalistic paste service. Single page, zero click experience. (Source Code) Apache-2.0 SQL"
   },
   {
     "name": "pasty",
@@ -4372,7 +4337,7 @@
   {
     "name": "Hiccup",
     "url": "https://designedbyashw.in/test/hiccup/",
-    "description": "A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. (Source Code) MIT HTML5/Docker"
+    "description": "A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. (Source Code) MIT Javascript/Docker"
   },
   {
     "name": "Homarr",
@@ -4412,7 +4377,7 @@
   {
     "name": "LittleLink",
     "url": "https://github.com/sethcottle/littlelink/",
-    "description": "A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). (Demo, Source Code) MIT HTML5"
+    "description": "A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). (Demo, Source Code) MIT Javascript"
   },
   {
     "name": "Organizr",
@@ -4570,11 +4535,6 @@
     "description": "A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown. (Demo, Source Code) MIT Docker/Python"
   },
   {
-    "name": "dudle",
-    "url": "http://primelife.ercim.eu/results/opensource/63-dudle",
-    "description": "Online scheduling application. (Demo, Source Code) AGPL-3.0 Ruby/Docker"
-  },
-  {
     "name": "Fider",
     "url": "https://fider.io",
     "description": "Open platform to collect and prioritize feedback (alternative to UserVoice). (Demo, Source Code) MIT Docker"
@@ -4690,11 +4650,6 @@
     "description": "Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. (Demo) MIT PHP/Docker"
   },
   {
-    "name": "Chowdown.io",
-    "url": "https://chowdown.io/",
-    "description": "Simple recipes in Markdown format. (Source Code) Unlicense Ruby"
-  },
-  {
     "name": "kcal",
     "url": "https://github.com/kcal-app/kcal",
     "description": "Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals. MPL-2.0 PHP/Docker"
@@ -4757,7 +4712,7 @@
   {
     "name": "ShellHub",
     "url": "https://www.shellhub.io",
-    "description": "ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. (Source Code) Apache-2.0 Go/Other"
+    "description": "ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. (Source Code) Apache-2.0 Docker"
   },
   {
     "name": "Sshwifty",
@@ -4830,11 +4785,6 @@
     "description": "Cloud-native neural search framework for any kind of data. Apache-2.0 Python/Docker"
   },
   {
-    "name": "librengine",
-    "url": "https://github.com/liameno/librengine",
-    "description": "Private web search engine. GPL-3.0 C++"
-  },
-  {
     "name": "LibreX",
     "url": "https://github.com/hnhx/librex",
     "description": "Framework and javascript free privacy respecting meta search engine. AGPL-3.0 PHP/Docker"
@@ -4900,11 +4850,6 @@
     "description": "Build a full-featured home server with this playbook and an Ubuntu box. MIT Ansible/Docker"
   },
   {
-    "name": "Bitsii Bridge",
-    "url": "https://gitlab.com/bitsii/Bitsii/-/wikis/home",
-    "description": "Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let's Encrypt. (Source Code) MPL-2.0 Java/Other"
-  },
-  {
     "name": "CasaOS",
     "url": "https://www.casaos.io/",
     "description": "A simple, easy-to-use, elegant open-source Home Cloud system. (Source Code) Apache-2.0 Go/Docker"
@@ -4931,8 +4876,8 @@
   },
   {
     "name": "FreedomBox",
-    "url": "https://freedomboxfoundation.org/",
-    "description": "Community project to develop, design and promote personal servers running free software for private, personal, communications. (Source Code) AGPL-3.0 Python/Other"
+    "url": "https://freedombox.org/",
+    "description": "Community project to develop, design and promote personal servers running free software for private, personal, communications. (Source Code) AGPL-3.0 Python/deb"
   },
   {
     "name": "HomelabOS",
@@ -4952,12 +4897,12 @@
   {
     "name": "Mistborn",
     "url": "https://gitlab.com/cyber5k/mistborn",
-    "description": "Mistborn is your own virtual private cloud platform and WebUI that manages self hosted services. MIT Bash/Docker"
+    "description": "Mistborn is your own virtual private cloud platform and WebUI that manages self hosted services. MIT Shell/Docker"
   },
   {
     "name": "NextCloudPi",
     "url": "https://github.com/nextcloud/nextcloudpi",
-    "description": "Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. GPL-2.0 Bash/PHP"
+    "description": "Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. GPL-2.0 Shell/PHP"
   },
   {
     "name": "OpenMediaVault",
@@ -4967,12 +4912,12 @@
   {
     "name": "Sandstorm",
     "url": "https://sandstorm.io/",
-    "description": "Personal server for running self-hosted apps easily and securely. (Demo, Source Code) Apache-2.0 C++/Other"
+    "description": "Personal server for running self-hosted apps easily and securely. (Demo, Source Code) Apache-2.0 C++/Shell"
   },
   {
     "name": "Syncloud",
     "url": "https://syncloud.org/",
-    "description": "Your own online file storage, social network or email server. (Source Code) GPL-3.0 Python/Other"
+    "description": "Your own online file storage, social network or email server. (Source Code) GPL-3.0 Go/Shell"
   },
   {
     "name": "Tipi",
@@ -4982,12 +4927,12 @@
   {
     "name": "UBOS",
     "url": "https://ubos.net/",
-    "description": "Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. GPL-3.0 Perl/Other"
+    "description": "Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. GPL-3.0 Perl"
   },
   {
     "name": "WikiSuite",
     "url": "https://wikisuite.org",
-    "description": "The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. (Source Code) GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0 ClearOS"
+    "description": "The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. (Source Code) GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0 Shell/Perl/deb"
   },
   {
     "name": "xsrv",
@@ -4997,7 +4942,7 @@
   {
     "name": "YunoHost",
     "url": "https://yunohost.org/",
-    "description": "Server operating system aiming to make self-hosting accessible to everyone. (Demo, Source Code) AGPL-3.0 Python/Other"
+    "description": "Server operating system aiming to make self-hosting accessible to everyone. (Demo, Source Code) AGPL-3.0 Python/Shell"
   },
   {
     "name": "DreamFactory",
@@ -5183,11 +5128,6 @@
     "name": "Accent",
     "url": "https://www.accent.reviews/",
     "description": "Open-source, self-hosted, developer-oriented translation tool. (Source Code) BSD-3-Clause Elixir/Docker"
-  },
-  {
-    "name": "Pootle",
-    "url": "https://pootle.translatehouse.org",
-    "description": "Online translation and localization tool. (Source Code) GPL-3.0 Python"
   },
   {
     "name": "Tolgee",
@@ -5435,11 +5375,6 @@
     "description": "Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. (Source Code) MIT/Apache-2.0 Rust"
   },
   {
-    "name": "DeepfakeHTTP",
-    "url": "https://github.com/xnbox/DeepfakeHTTP",
-    "description": "A web server that uses HTTP dumps as a source for responses. MIT Java"
-  },
-  {
     "name": "Selenoid",
     "url": "https://aerokube.com/selenoid/latest/",
     "description": "Lightweight Selenium hub implementation launching browsers within Docker containers. (Source Code) Apache-2.0 Go"
@@ -5447,7 +5382,7 @@
   {
     "name": "Sorry Cypress",
     "url": "https://sorry-cypress.dev",
-    "description": "Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests. (Source Code) MIT Typescript"
+    "description": "Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests. (Source Code) MIT Docker/K8S"
   },
   {
     "name": "Touca",

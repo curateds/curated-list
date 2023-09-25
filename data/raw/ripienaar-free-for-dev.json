@@ -3610,6 +3610,11 @@
     "description": "Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits."
   },
   {
+    "name": "deco.cx",
+    "url": "https://www.deco.cx/en/dev",
+    "description": "Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation and realtime analytics. Perfect for content-heavy and Enterprise ecommerce websites. Free up to 5k pageviews/month or open-source/personal projects."
+  },
+  {
     "name": "Deno Deploy",
     "url": "https://deno.com/deploy",
     "description": "Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge, worldwide. Free tier includes 100,000 requests per day and 100 GiB data transfer per month."
@@ -3681,6 +3686,11 @@
   {
     "name": "Northflank",
     "url": "https://northflank.com"
+  },
+  {
+    "name": "Platformatic Cloud",
+    "url": "https://platformatic.dev/",
+    "description": "Platformatic offers many open-source packages to wrap your Fastify application and deploy it in the Platformatic Cloud. Built in CD with a GitHub Action. Free plan for hobbyists with a simple GitHub login."
   },
   {
     "name": "YepCode",

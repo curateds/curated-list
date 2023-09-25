@@ -1485,6 +1485,11 @@
     "description": "Powerful, easy-to-use VM. No free upgrade for each new Mac OS."
   },
   {
+    "name": "Lima",
+    "url": "https://github.com/lima-vm/lima",
+    "description": "Lima launches Linux virtual machines with automatic file sharing and port forwarding."
+  },
+  {
     "name": "QEMU",
     "url": "https://www.qemu.org/",
     "description": "A free and open-source emulator and virtualizer that can perform hardware virtualization."

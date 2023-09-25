@@ -110,6 +110,11 @@
     "description": "AWS library for Uncertainty Quantification in Deep Learning."
   },
   {
+    "name": "BlackJAX",
+    "url": "https://github.com/blackjax-devs/blackjax",
+    "description": "Library of samplers for JAX."
+  },
+  {
     "name": "FedJAX",
     "url": "https://github.com/google/fedjax",
     "description": "Federated learning in JAX, built on Optax and Haiku."
