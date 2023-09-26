@@ -114,17 +114,12 @@
   {
     "name": "material-ui",
     "url": "https://github.com/mui/material-ui",
-    "description": "Material UI, which implements Google's Material Design"
+    "description": "Ready-to-use foundational React components"
   },
   {
     "name": "ant-design",
     "url": "https://github.com/ant-design/ant-design",
     "description": "An enterprise-class UI design language and React UI library"
-  },
-  {
-    "name": "chakra-ui",
-    "url": "https://github.com/chakra-ui/chakra-ui/",
-    "description": "Simple, Modular & Accessible UI Components for your React Applications"
   },
   {
     "name": "shadcn-ui",
@@ -137,10 +132,6 @@
     "description": "Bootstrap components built with React"
   },
   {
-    "name": "mantine",
-    "url": "https://github.com/mantinedev/mantine"
-  },
-  {
     "name": "fluentui",
     "url": "https://github.com/microsoft/fluentui",
     "description": "Microsoft's Fluent UI"
@@ -151,29 +142,9 @@
     "description": "Full featured HTML framework for building iOS & Android apps"
   },
   {
-    "name": "semantic-ui-react",
-    "url": "https://github.com/Semantic-Org/Semantic-UI-React",
-    "description": "The official Semantic-UI-React integration"
-  },
-  {
-    "name": "nextui",
-    "url": "https://github.com/nextui-org/nextui",
-    "description": "Beautiful, fast and modern React UI library"
-  },
-  {
-    "name": "radix-primitives",
-    "url": "https://github.com/radix-ui/primitives",
-    "description": "An open-source UI component library for building high-quality web apps"
-  },
-  {
     "name": "ariakit",
     "url": "https://github.com/ariakit/ariakit",
     "description": "Toolkit for building accessible web apps with React"
-  },
-  {
-    "name": "react-spectrum",
-    "url": "https://github.com/adobe/react-spectrum",
-    "description": "Adobe's collection of libraries and tools"
   },
   {
     "name": "redux",

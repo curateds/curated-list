@@ -1380,6 +1380,11 @@
     "description": "An embedded \"typed\" key/value store with a built-in query interface. [GPLv3]"
   },
   {
+    "name": "TigerBeetleDB C++ client (Community)",
+    "url": "https://github.com/kassane/tigerbeetle-cpp",
+    "description": "TigerBeetle is a financial accounting database designed for mission critical safety and performance to power the future of financial services. [BSL-1.0]"
+  },
+  {
     "name": "matplotplusplus",
     "url": "https://github.com/alandefreitas/matplotplusplus",
     "description": "C++ Graphics Library for Data Visualization. [MIT] website"
@@ -2297,6 +2302,11 @@
     "name": "cJSON",
     "url": "https://github.com/DaveGamble/cJSON",
     "description": "Ultralightweight JSON parser in ANSI C. [MIT]"
+  },
+  {
+    "name": "DAW JSON Link",
+    "url": "https://github.com/beached/daw_json_link",
+    "description": "Fast, convenient JSON serialization and parsing in C++. [BSL-1.0]"
   },
   {
     "name": "frozen",

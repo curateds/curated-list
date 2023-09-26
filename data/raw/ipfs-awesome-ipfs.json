@@ -35,9 +35,9 @@
     "description": "Play music from your IPFS node, or any other cloud/distributed storage service you use."
   },
   {
-    "name": "galacteek",
-    "url": "https://github.com/pinnaculum/galacteek",
-    "description": "A multi-platform Qt5-based browser for the distributed web."
+    "name": "Durin",
+    "url": "https://durin.site/",
+    "description": "Mobile app for accessing and uploading content on the IPFS network."
   },
   {
     "name": "Hardbin",
@@ -118,6 +118,21 @@
     "name": "Valist",
     "url": "https://github.com/valist-io/valist",
     "description": "A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps."
+  },
+  {
+    "name": "Agregore",
+    "url": "https://github.com/AgregoreWeb/agregore-browser",
+    "description": "A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's fetch() API"
+  },
+  {
+    "name": "Brave",
+    "url": "https://brave.com/ipfs-support/",
+    "description": "A privacy-focused browser with many future forward features."
+  },
+  {
+    "name": "galacteek",
+    "url": "https://github.com/pinnaculum/galacteek",
+    "description": "A multi-platform Qt5-based browser for the distributed web."
   },
   {
     "name": "create-ipfs-app",
