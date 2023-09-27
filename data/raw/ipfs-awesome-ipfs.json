@@ -5,16 +5,6 @@
     "description": "A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's fetch() API"
   },
   {
-    "name": "AirSecure",
-    "url": "https://github.com/airsecure/airsecure",
-    "description": "Decentralized two factor authentication app built on Textile & IPFS."
-  },
-  {
-    "name": "Arbore",
-    "url": "https://github.com/MichaelMure/Arbore",
-    "description": "A friend-to-friend file-sharing app build on top of IPFS."
-  },
-  {
     "name": "archiveweb.page",
     "url": "https://github.com/webrecorder/archiveweb.page",
     "description": "A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS."
@@ -55,11 +45,6 @@
     "description": "Wiki built on top of IPFS"
   },
   {
-    "name": "ipcoronafs",
-    "url": "https://github.com/RTradeLtd/ipcoronafs",
-    "description": "A realtime service to scrape COVID-19 and SARS-CoV-2, storing on IPFS, DNSLink, and streaming over LibP2P pubsub"
-  },
-  {
     "name": "IPFessay",
     "url": "https://gitlab.com/stavros/IPFessay",
     "description": "A simple way to publish uncensorable essays on IPFS."
@@ -78,11 +63,6 @@
     "name": "IPFS-FPS",
     "url": "https://github.com/underscoredLabs/webgl-ipfs-fps",
     "description": "A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata."
-  },
-  {
-    "name": "ipfs-search",
-    "url": "https://github.com/ipfs-search/ipfs-search",
-    "description": "IPFS search engine Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available."
   },
   {
     "name": "IPGit",
@@ -115,11 +95,6 @@
     "description": "Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage."
   },
   {
-    "name": "Valist",
-    "url": "https://github.com/valist-io/valist",
-    "description": "A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps."
-  },
-  {
     "name": "Agregore",
     "url": "https://github.com/AgregoreWeb/agregore-browser",
     "description": "A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's fetch() API"
@@ -133,6 +108,11 @@
     "name": "galacteek",
     "url": "https://github.com/pinnaculum/galacteek",
     "description": "A multi-platform Qt5-based browser for the distributed web."
+  },
+  {
+    "name": "bifrost-gateway",
+    "url": "https://github.com/ipfs/bifrost-gateway",
+    "description": "[EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store."
   },
   {
     "name": "create-ipfs-app",
@@ -285,6 +265,11 @@
     "description": "OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers."
   },
   {
+    "name": "Pin Tweet to IPFS",
+    "url": "https://github.com/meandavejustice/pin-tweet-to-ipfs",
+    "description": "Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network."
+  },
+  {
     "name": "Public Gateway Checker",
     "url": "https://github.com/ipfs/public-gateway-checker",
     "description": "Checks which public gateways are online or not."
@@ -303,11 +288,6 @@
     "name": "solid-ipfs",
     "url": "https://github.com/Eximua/solid-ipfs",
     "description": "Using Solid to store IPFS Hash privately or publicly."
-  },
-  {
-    "name": "Sweet IPFS",
-    "url": "https://github.com/RHazDev/Sweet-IPFS",
-    "description": "Full node for Android."
   },
   {
     "name": "Tellit",
@@ -348,6 +328,11 @@
     "name": "Peergos",
     "url": "https://peergos.org",
     "description": "Your private, but social, space online. Store and edit documents and media. Share files or folders with friends."
+  },
+  {
+    "name": "Valist",
+    "url": "https://www.valist.io/",
+    "description": "A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps."
   },
   {
     "name": "Filebase",

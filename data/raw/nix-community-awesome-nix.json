@@ -535,11 +535,6 @@
     "description": "CLI and library combo designed for managing PureScript projects using Nix. It provides a Nix API that can be used within your projects, as well as a command-line interface for managing your development process."
   },
   {
-    "name": "pip2nix",
-    "url": "https://github.com/nix-community/pip2nix",
-    "description": "A repository-agnostic Python package generator tool."
-  },
-  {
     "name": "poetry2nix",
     "url": "https://github.com/nix-community/poetry2nix",
     "description": "Build Python packages directly from Poetry's poetry.lock. No conversion step needed."

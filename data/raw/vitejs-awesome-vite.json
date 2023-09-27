@@ -1204,6 +1204,11 @@
     "description": "Automatically configure reverse proxies based on URL parameters."
   },
   {
+    "name": "unplugin-auto-export",
+    "url": "https://github.com/coderhyh/unplugin-auto-export",
+    "description": "Automates the maintenance of export statements in the index.ts file."
+  },
+  {
     "name": "unplugin-icons",
     "url": "https://github.com/antfu/unplugin-icons",
     "description": "Access thousands of icons as components."
@@ -1867,6 +1872,11 @@
     "name": "vite-plugin-module-list",
     "url": "https://github.com/davidbonnet/vite-plugin-module-list",
     "description": "Automatically import the modules found in a specified folder."
+  },
+  {
+    "name": "unplugin-info",
+    "url": "https://github.com/yjl9903/unplugin-info",
+    "description": "Export build information as a virutal module."
   },
   {
     "name": "mocha-vite-puppeteer",

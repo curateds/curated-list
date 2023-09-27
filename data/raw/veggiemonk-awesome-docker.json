@@ -1464,7 +1464,7 @@
   },
   {
     "name": "packer",
-    "url": "https://developer.hashicorp.com/packer/plugins/builders/docker",
+    "url": "https://developer.hashicorp.com/packer/integrations/hashicorp/docker/latest/components/builder/docker",
     "description": "Hashicorp tool to build machine images including docker image integrated with configuration management tools like chef, puppet, ansible"
   },
   {
@@ -1703,11 +1703,6 @@
     "name": "Kraken",
     "url": "https://github.com/uber/kraken",
     "description": "Uber's Highly scalable P2P docker registry, capable of distributing TBs of data in seconds."
-  },
-  {
-    "name": "Portus",
-    "url": "https://github.com/SUSE/Portus",
-    "description": "Authorization service and frontend for Docker registry (v2) by @SUSE"
   },
   {
     "name": "Quay.io 💲",

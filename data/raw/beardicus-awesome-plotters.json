@@ -85,6 +85,11 @@
     "description": "Schematic for a plotter cable that will work for most HP and Roland plotters. Search eBay or Amazon for DB9 to DB25 Serial Null Modem Cable or similar to find them for sale."
   },
   {
+    "name": "PlotAdapter",
+    "url": "https://github.com/rhalkyard/plotadapter",
+    "description": "\"Serial-GPIB converter for HP Plotters\", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters."
+  },
+  {
     "name": "Sharpie Fine Point Plotter Adapter",
     "url": "https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter",
     "description": "3d-printed adapter to fit a standard Sharpie in an HP-GL plotter."

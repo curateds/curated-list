@@ -205,6 +205,11 @@
     "description": "Bindings for syslog"
   },
   {
+    "name": "v4l2.cr",
+    "url": "https://github.com/spider-gazelle/v4l2.cr",
+    "description": "Bindings for Video4Linux2"
+  },
+  {
     "name": "wasmer-crystal",
     "url": "https://github.com/naqvis/wasmer-crystal",
     "description": "Bindings for the wasmer WebAssembly runtime"
@@ -1796,8 +1801,8 @@
     "url": "https://forum.crystal-lang.org/"
   },
   {
-    "name": "Crystal weekly newsletters",
-    "url": "http://crystalweekly.com/"
+    "name": "Crystal newsletters",
+    "url": "https://crystal-lang.org/#newsletter"
   },
   {
     "name": "Gitter",
