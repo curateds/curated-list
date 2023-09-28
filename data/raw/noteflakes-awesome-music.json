@@ -15,6 +15,11 @@
     "description": "another cross-platform digital audio workstation, more oriented towards making beats."
   },
   {
+    "name": "snd",
+    "url": "https://sourceforge.net/projects/snd/",
+    "description": "Snd is a sound editor modelled loosely after Emacs."
+  },
+  {
     "name": "Stargate DAW",
     "url": "https://github.com/stargatedaw/stargate/",
     "description": "A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production."
@@ -445,6 +450,11 @@
     "description": "a language for generalized music notation and theory, based on Haskell."
   },
   {
+    "name": "mutwo",
+    "url": "https://mutwo-org.github.io/",
+    "description": "a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures."
+  },
+  {
     "name": "Nyquist",
     "url": "https://www.cs.cmu.edu/~music/nyquist/",
     "description": "a sound synthesis and composition language."
@@ -475,6 +485,11 @@
     "description": "a visual programming language for audio and other multimedia."
   },
   {
+    "name": "pyo",
+    "url": "https://belangeo.github.io/pyo/",
+    "description": "a Python module to help digital signal processing script creation."
+  },
+  {
     "name": "py-modular",
     "url": "http://py-modular.readthedocs.io/",
     "description": "a modular and experimental programming environment with basic DSP routines in python."
@@ -483,6 +498,11 @@
     "name": "Sardine",
     "url": "https://github.com/Bubobubobubobubo/sardine",
     "description": "a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider)."
+  },
+  {
+    "name": "slippery chicken",
+    "url": "https://github.com/mdedwards/slippery-chicken",
+    "description": "a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs."
   },
   {
     "name": "Sonic Pi",

@@ -1629,6 +1629,11 @@
     "description": "Inject HTML, JavaScript and CSS code snippets into the index.html."
   },
   {
+    "name": "vite-plugin-typescript-transform",
+    "url": "https://github.com/herberttn/vite-plugin-typescript-transform",
+    "description": "Applies the TypeScript compiler during Vite's transform build phase."
+  },
+  {
     "name": "vite-tsconfig-paths",
     "url": "https://github.com/aleclarson/vite-tsconfig-paths",
     "description": "Support for TypeScript's path mapping."

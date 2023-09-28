@@ -75,6 +75,11 @@
     "description": "A censorship resistant deadman's switch"
   },
   {
+    "name": "orbitchat.dev",
+    "url": "https://github.com/cppshane/orbit-chat",
+    "description": "Ultra simple chatrooms on the web."
+  },
+  {
     "name": "Peer Web Site",
     "url": "https://github.com/Weedshaker/PeerWebSite",
     "description": "Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc."
@@ -118,6 +123,11 @@
     "name": "create-ipfs-app",
     "url": "https://github.com/alexbakers/create-ipfs-app",
     "description": "Set up a decentralized web3 app by running one command."
+  },
+  {
+    "name": "dScan",
+    "url": "https://github.com/p2plabsxyz/dscan",
+    "description": "A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs."
   },
   {
     "name": "gatsby-plugin-ipfs",
@@ -315,6 +325,11 @@
     "description": "Ceramic combines IPFS content addressing with advanced cryptography and blockchain timestamps to guarantee security and verifiability of data."
   },
   {
+    "name": "dAppling",
+    "url": "https://www.dappling.network/",
+    "description": "Hosting platform with automated deployments from GitHub to IPFS"
+  },
+  {
     "name": "Fleek",
     "url": "http://fleek.co/",
     "description": "Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer."
@@ -335,6 +350,11 @@
     "description": "A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps."
   },
   {
+    "name": "4EVERLAND",
+    "url": "https://www.4everland.org/",
+    "description": "4EVERLAND is a pinning service that provides IPFS infrastructure and tooling making it easier and faster to host frontends, store data/NFT/file and fetch data with IPFS."
+  },
+  {
     "name": "Filebase",
     "url": "https://filebase.com/",
     "description": "Pinning data to IPFS can be hard. Filebase removes that complexity."
@@ -352,7 +372,17 @@
   {
     "name": "Infura",
     "url": "https://infura.io",
-    "description": "Scalable and distributed storage infrastructure for your application"
+    "description": "Scalable and distributed storage infrastructure for your application."
+  },
+  {
+    "name": "Kriptonio",
+    "url": "https://kriptonio.com/",
+    "description": "Pinning service & Web3 Platform for building Web3 apps."
+  },
+  {
+    "name": "Spheron",
+    "url": "https://spheron.network",
+    "description": "Spheron offers IPFS pinning service and dedicated gateways."
   },
   {
     "name": "Web3.storage",

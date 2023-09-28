@@ -616,6 +616,11 @@
     "description": "Templates for writing BPF applications in Aya that can be used with cargo generate."
   },
   {
+    "name": "Ebpfguard",
+    "url": "https://github.com/deepfence/ebpfguard",
+    "description": "Rust library for writing Linux security policies using eBPF."
+  },
+  {
     "name": "zbpf",
     "url": "https://github.com/tw4452852/zbpf",
     "description": "A pure Zig framework for writing cross platform eBPF programs, powered by libbpf and Zig toolchain."

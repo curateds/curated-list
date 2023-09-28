@@ -429,6 +429,11 @@
     "description": "A blog post that shows how to use Polars with Snowflake by @IndexSeek."
   },
   {
+    "name": "Partitioning Polars DataFrame on S3 with Apache Arrow",
+    "url": "https://medium.com/@matteo.arellano/partitioning-polars-dataframe-on-s3-with-apache-arrow-1fa6518d23f1",
+    "description": "A blog post that explains how to partition large Polars DataFrames in AWS S3 by Matteo Arellano."
+  },
+  {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
     "url": "https://www.youtube.com/watch?v=kVy3-gMdViM",
     "description": "Introduction to Polars by databricks."

@@ -610,6 +610,16 @@
     "description": "Open Source Computer Vision Library."
   },
   {
+    "name": "Decord",
+    "url": "https://github.com/dmlc/decord",
+    "description": "An efficient video loader for deep learning with smart shuffling that's super easy to digest."
+  },
+  {
+    "name": "MMEngine",
+    "url": "https://github.com/open-mmlab/mmengine",
+    "description": "OpenMMLab Foundational Library for Training Deep Learning Models."
+  },
+  {
     "name": "scikit-image",
     "url": "https://github.com/scikit-image/scikit-image",
     "description": "Image Processing SciKit (Toolbox for SciPy)."
@@ -812,6 +822,41 @@
     "name": "Jraph",
     "url": "https://github.com/google-deepmind/jraph",
     "description": "A Graph Neural Network Library in Jax."
+  },
+  {
+    "name": "LightFM",
+    "url": "https://github.com/lyst/lightfm",
+    "description": "A Python implementation of LightFM, a hybrid recommendation algorithm."
+  },
+  {
+    "name": "Spotlight",
+    "url": "https://maciejkula.github.io/spotlight/",
+    "description": "Deep recommender models using PyTorch."
+  },
+  {
+    "name": "Surprise",
+    "url": "https://github.com/NicolasHug/Surprise",
+    "description": "A Python scikit for building and analyzing recommender systems."
+  },
+  {
+    "name": "RecBole",
+    "url": "https://github.com/RUCAIBox/RecBole",
+    "description": "A unified, comprehensive and efficient recommendation library."
+  },
+  {
+    "name": "allRank",
+    "url": "https://github.com/allegro/allRank",
+    "description": "allRank is a framework for training learning-to-rank neural models based on PyTorch."
+  },
+  {
+    "name": "TensorFlow Recommenders",
+    "url": "https://github.com/tensorflow/recommenders",
+    "description": "A library for building recommender system models using TensorFlow."
+  },
+  {
+    "name": "TensorFlow Ranking",
+    "url": "https://github.com/tensorflow/ranking",
+    "description": "Learning to Rank in TensorFlow."
   },
   {
     "name": "pomegranate",
@@ -1351,9 +1396,19 @@
     "description": "Make it easy to deploy the machine learning model"
   },
   {
+    "name": "streamsync",
+    "url": "https://github.com/streamsync-cloud/streamsync",
+    "description": "No-code in the front, Python in the back. An open-source framework for creating data apps."
+  },
+  {
     "name": "gradio",
     "url": "https://github.com/gradio-app/gradio",
     "description": "Create UIs for your machine learning model in Python in 3 minutes."
+  },
+  {
+    "name": "Vizro",
+    "url": "https://github.com/mckinsey/vizro",
+    "description": "A toolkit for creating modular data visualization applications."
   },
   {
     "name": "datapane",
@@ -1784,5 +1839,10 @@
     "name": "MMdnn",
     "url": "https://github.com/Microsoft/MMdnn",
     "description": "A set of tools to help users inter-operate among different deep learning frameworks."
+  },
+  {
+    "name": "treelite",
+    "url": "https://github.com/dmlc/treelite",
+    "description": "Universal model exchange and serialization format for decision tree forests."
   }
 ]
