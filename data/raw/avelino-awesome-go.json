@@ -5533,6 +5533,11 @@
     "description": "Additive dependency injection container for Golang."
   },
   {
+    "name": "boot-go",
+    "url": "http://github.com/boot-go/boot",
+    "description": "Component-based development with dependency injection using reflections for Go developers."
+  },
+  {
     "name": "di",
     "url": "https://github.com/goava/di",
     "description": "A dependency injection container for go programming language."

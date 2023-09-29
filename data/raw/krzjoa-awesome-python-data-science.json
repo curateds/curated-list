@@ -1466,11 +1466,6 @@
     "description": "A fast multi-threaded, hybrid-out-of-core DataFrame library."
   },
   {
-    "name": "koalas",
-    "url": "https://github.com/databricks/koalas",
-    "description": "pandas API on Apache Spark."
-  },
-  {
     "name": "Arctic",
     "url": "https://github.com/manahl/arctic",
     "description": "High-performance datastore for time series and tick data."

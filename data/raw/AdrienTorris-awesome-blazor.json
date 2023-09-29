@@ -1233,6 +1233,26 @@
     "description": "API Updates -  August 25, 2023 - We're going to update the API to use the Cosmos client and maybe do some updates on the Edit form. And Burke shows off the signature move that won him the \"Pop 'n' Lock\" championship."
   },
   {
+    "name": "Beautiful Blazor UI Everywhere with Telerik",
+    "url": "https://www.youtube.com/watch?v=PQe-q8faMOI",
+    "description": "August 22, 2023 - Becky is joined by Sam Basu from Progress showing off the latest controls for Blazor and Blazor Hybrid apps with Telerik UI."
+  },
+  {
+    "name": "New Blazor Rendering Mode Features in .NET 8.0",
+    "url": "https://www.youtube.com/watch?v=VDyN8SnevzI",
+    "description": "August 14, 2023 - In this video we'll explore how to integrate the new Blazor Server Side rendering capabilities in .NET 8.0 with the traditional Blazor WebAssembly and Blazor Server (SignalR) hosting models for a rich client-side experience. We'll explore the differences between these different options, how to seamlessly implement each option where it makes sense, and discuss different architecture approaches with Blazor in ASP.NET Core 8.0."
+  },
+  {
+    "name": "What's New in Blazor for .NET 8",
+    "url": "https://www.youtube.com/watch?v=QD2-DwuOfKM",
+    "description": "August 4, 2023 - Come find out about the future of Blazor in .NET 8! We'll explore all the upcoming features and improvements, including our effort to create a unified full stack web UI programming model that combines the strengths of client and server. We hope to see you there."
+  },
+  {
+    "name": "What is the Future of Blazor? Should I Learn Blazor?",
+    "url": "https://www.youtube.com/watch?v=OUUlO8fQOfE",
+    "description": "July 27, 2023 - Should I learn a JavaScript framework or concentrate on mastering Blazor? What is the future of Blazor? Is Microsoft invested in making Blazor great? We will answer these questions in today's Dev Questions episode."
+  },
+  {
     "name": "Burke Learns Blazor",
     "url": "https://www.youtube.com/watch?v=qONPW7N_r8k",
     "description": "July 7, 2023 - Finishing the API and starting the UI. Community links."
@@ -1241,6 +1261,11 @@
     "name": "Adding Progress Indicators & Progress Telerik Maps in 'Next Tech Event' | Part 21",
     "url": "https://www.youtube.com/watch?v=cYDs7WyOxcE",
     "description": "July 4, 2023 - In this episode, we discuss and implement progress indicators to enhance user experience. Plus, we integrate a Map component from Progress Telerik, adding a visually striking and functional element to the platform. Source code."
+  },
+  {
+    "name": "Burke Learns Blazor - Let's build the API!",
+    "url": "https://www.youtube.com/watch?v=9OSpY3Yi5ic",
+    "description": "Let's build the API! -  June 30 - Last week we got the API started - let's finish it up and start on the UI. Url list."
   },
   {
     "name": "The Blazor Power Hour: Sections, SectionOutlet, and SectionContent in .NET 8 Preview",
@@ -1255,7 +1280,7 @@
   {
     "name": "Burke learns Blazor by porting a Vue.js app to Blazor",
     "url": "https://www.youtube.com/watch?v=fetGhhVYsLY",
-    "description": "June 16, 2021 - This summer, Burke and Jon are porting theurlist.com to Blazor - a real world JavaScript application written in Vue.js. Join them each week as they use Visual Studio, Visual Studio Code and GitHub Copilot to rebuild this app and try to tackle every frontend issue you might encounter along the way. Community links."
+    "description": "June 15, 2021 - This summer, Burke and Jon are porting theurlist.com to Blazor - a real world JavaScript application written in Vue.js. Join them each week as they use Visual Studio, Visual Studio Code and GitHub Copilot to rebuild this app and try to tackle every frontend issue you might encounter along the way. Community links."
   },
   {
     "name": "ASP.NET Community Standup - Featured community project: Blazor Studio",
@@ -1271,6 +1296,11 @@
     "name": "Running ASP.NET Core Apps without a server? WHAT???",
     "url": "https://www.youtube.com/watch?v=IXCZAFwT5GY",
     "description": "May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could."
+  },
+  {
+    "name": "Running Blazor in Production, Lessons Learned",
+    "url": "https://www.youtube.com/watch?v=6ctA95pZJoc",
+    "description": "May 24, 2023 - Since we started using Blazor in 2019, it's been an excellent tool for our team of C# developers. Even when Blazor was brand new, we used it in our latest project, which really helped us. Seeing other people in our field, I can say that Blazor was a key to our project's success. Our journey with Blazor has mostly been easy, but we have still learned a lot along the way. In this video, I will share some tips and lessons we have picked up. I will also discuss how to make smart choices and avoid problems when you're changing your existing project to use Blazor."
   },
   {
     "name": "Full stack web in .NET 8 with Blazor",
@@ -1296,6 +1326,11 @@
     "name": "On .NET Live - Micro Frontends with Blazor",
     "url": "https://www.youtube.com/watch?v=t8w_OTkafNE",
     "description": "Micro Frontends with Blazor -  May 22, 2023 - Have you ever considered writing microservices in Blazor? In this week's episode, community MVP Florian Rappl joins us to talk about micro frontends. He'll show us how to break a Blazor UI into modules for maintainability and development by decoupled teams.   Sample repo. Demo."
+  },
+  {
+    "name": "Running Blazor in production, lessons learned - Jimmy Engström - NDC London 2023",
+    "url": "https://www.youtube.com/watch?v=bZdYpYQb958",
+    "description": "Jimmy Engström - NDC London 2023 -  May 19, 2023 - We have been running Blazor in production for over two years now. Everyone in our team is a C# developer, so when we went into our latest project Blazor was a natural choice, even though Blazor was only a week old. Looking at my peers working in the same space, I am convinced that it saved our project by switching to Blazor. Even though it has been mostly smooth sailing we have learned a lot during the years. In this session, Jimmy Engström will give you some of the tips, tricks, and learnings we have collected over the years, when to choose what, and how to avoid pitfalls converting your exiting project to Blazor."
   },
   {
     "name": "ASP.NET Community Standup - Blazor .NET 8 Updates",

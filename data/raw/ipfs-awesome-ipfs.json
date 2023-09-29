@@ -5,6 +5,11 @@
     "description": "A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's fetch() API"
   },
   {
+    "name": "Anytype",
+    "url": "https://github.com/anyproto",
+    "description": "Anytype is a no-code, modular web builder designed to give ownership back to creators. It's built on our private, local-first, p2p-synced and open Anysync protocol."
+  },
+  {
     "name": "archiveweb.page",
     "url": "https://github.com/webrecorder/archiveweb.page",
     "description": "A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS."
@@ -328,6 +333,11 @@
     "name": "dAppling",
     "url": "https://www.dappling.network/",
     "description": "Hosting platform with automated deployments from GitHub to IPFS"
+  },
+  {
+    "name": "Fileverse",
+    "url": "https://fileverse.io/",
+    "description": "Encrypted file sharing based on IPFS. Share any files with or without a wallet"
   },
   {
     "name": "Fleek",
