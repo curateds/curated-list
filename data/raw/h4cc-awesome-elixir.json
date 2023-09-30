@@ -60,6 +60,11 @@
     "description": "Sojourn-time based active queue management library."
   },
   {
+    "name": "spawn",
+    "url": "https://github.com/eigr/spawn",
+    "description": "Elixir poliglot actors service mesh."
+  },
+  {
     "name": "workex",
     "url": "https://github.com/sasa1977/workex",
     "description": "Backpressure and flow control in EVM processes."

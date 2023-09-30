@@ -75,7 +75,7 @@
   },
   {
     "name": "Octane's Meter Types",
-    "url": "https://docs.getoctane.io/docs/meter-types#gauges",
+    "url": "https://docs.getoctane.io/data-types-reporting-types-and-aggregations#Wggma",
     "description": "Nice illustrations of the quantization applied to time and value quantums on variable usages."
   },
   {
@@ -246,12 +246,17 @@
   {
     "name": "Time Series Prediction - A short introduction for pragmatists",
     "url": "https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices",
-    "description": "A short introduction for pragmatists - Facebook's Prophet (which uses Stan underneath), seems to be worth checking to implement a cost forecast tool while taking care of seasonality."
+    "description": "A short introduction for pragmatists - Great introduction on how time series can be used to evaluate business problems."
   },
   {
     "name": "Forecasting with sktime",
     "url": "https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb",
-    "description": "A tutorial on how to use past data to make temporal forward predictions. And read the difference between sktime and the Prophet project mentionned above."
+    "description": "A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the differences between sktime and the Prophet project mentionned in the article above."
+  },
+  {
+    "name": "Darts",
+    "url": "https://github.com/unit8co/darts",
+    "description": "Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including Prophet. Great for experiments, but bear in mind that all the models in Darts expects that your data comes at a very regular interval, and make a lot of assumptions about their shape."
   },
   {
     "name": "Komiser",

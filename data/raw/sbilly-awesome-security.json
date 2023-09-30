@@ -969,6 +969,11 @@
     "description": "a fast Rust based CLI that uses SQL to query over files, code, or malware with content classification and processing for security experts"
   },
   {
+    "name": "CakeFuzzer",
+    "url": "https://github.com/Zigrin-Security/CakeFuzzer",
+    "description": "The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points."
+  },
+  {
     "name": "Sqreen",
     "url": "https://www.sqreen.io/",
     "description": "Sqreen is a Runtime Application Self-Protection (RASP) solution for software teams. An in-app agent instruments and monitors the app. Suspicious user activities are reported and attacks are blocked at runtime without code modification or traffic redirection."

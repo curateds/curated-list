@@ -462,6 +462,19 @@
     "url": "https://crates.io/crates/efm32zg-pac"
   },
   {
+    "name": "j71xx-pac",
+    "url": "https://github.com/rmsyn/jh71xx-pac",
+    "description": "svd2rust generated interface to StarFive JH71xx MCUs -"
+  },
+  {
+    "name": "jh7110-vf2-12a-pac",
+    "url": "https://crates.io/crates/jh7110-vf2-12a-pac"
+  },
+  {
+    "name": "jh7110-vf2-13b-pac",
+    "url": "https://crates.io/crates/jh7110-vf2-13b-pac"
+  },
+  {
     "name": "stm32f0",
     "url": "https://crates.io/crates/stm32f0"
   },

@@ -738,6 +738,11 @@
     "description": "GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control."
   },
   {
+    "name": "aws-lint-iam-policies",
+    "url": "https://github.com/welldone-cloud/aws-lint-iam-policies",
+    "description": "Runs IAM policy linting checks against either a single AWS account or all accounts of an AWS Organization. Reports on policies that violate security best practices or contain errors. Supports both identity-based and resource-based policies."
+  },
+  {
     "name": "Google's Macaroons in Five Minutes or Less",
     "url": "https://blog.bren2010.io/blog/googles-macaroons",
     "description": "If I'm given a Macaroon that authorizes me to perform some action(s) under certain restrictions, I can non-interactively build a second Macaroon with stricter restrictions that I can then give to you."
