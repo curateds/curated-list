@@ -1440,6 +1440,11 @@
     "description": "unit testing framework for C with support for mock objects. [Apache2]"
   },
   {
+    "name": "CppBenchmark",
+    "url": "https://github.com/chronoxor/CppBenchmark",
+    "description": "Performance benchmark framework for C++ with nanoseconds measure precision. [MIT]"
+  },
+  {
     "name": "CppUnit",
     "url": "http://www.freedesktop.org/wiki/Software/cppunit/",
     "description": "C++ port of JUnit. [LGPL2]"
