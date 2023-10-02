@@ -3845,6 +3845,11 @@
     "description": "Directly open files in the shell using ZSH's suffix aliases."
   },
   {
+    "name": "sussysh",
+    "url": "https://github.com/sussynuggetz/sussysh-zsh",
+    "description": "Based on xiong-chiamiov."
+  },
+  {
     "name": "svn-n-zsh",
     "url": "https://github.com/khrt/svn-n-zsh-plugin",
     "description": "Rewrite of the stock oh-my-zsh svn plugin."
@@ -8177,14 +8182,9 @@
     "description": "Minimalist. Includes vcs status decorations."
   },
   {
-    "name": "minima (Brolly0204)",
+    "name": "minima",
     "url": "https://github.com/Brolly0204/zsh-minima",
     "description": "Includes git, node, golang, yarn, php, docker and python status decorations."
-  },
-  {
-    "name": "minima (ednikolenko)",
-    "url": "https://github.com/ednikolenko/minima",
-    "description": "A minimal ZSH theme with git, docker, go, node, npm, python and other indicators. Uses unicode characters for some markers."
   },
   {
     "name": "minimal (glsorre)",
@@ -10069,6 +10069,11 @@
     "name": "wynwyn",
     "url": "https://github.com/thaffenden/wynwyn.zsh-theme",
     "description": "A theme that aims to show you the information you need when you need it. wynwyn takes inspiration from the default theme avit and the excellent Spaceship prompt."
+  },
+  {
+    "name": "x",
+    "url": "https://github.com/tharindu899/x-theme",
+    "description": "Includes customizable banners"
   },
   {
     "name": "xandermute",

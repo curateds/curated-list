@@ -4343,11 +4343,6 @@
     "description": "Path tracing engine written in Go."
   },
   {
-    "name": "resize",
-    "url": "https://github.com/nfnt/resize",
-    "description": "Image resizing for Go with common interpolation methods."
-  },
-  {
     "name": "rez",
     "url": "https://github.com/bamiaux/rez",
     "description": "Image resizing in pure Go and SIMD."
@@ -5411,11 +5406,6 @@
     "name": "messagebus",
     "url": "https://github.com/vardius/message-bus",
     "description": "messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD."
-  },
-  {
-    "name": "mob",
-    "url": "https://github.com/erni27/mob",
-    "description": "mob is a generic-based, simple mediator / event aggregator library. It supports in-process requests / events processing."
   },
   {
     "name": "NATS Go Client",

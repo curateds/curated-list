@@ -1250,6 +1250,11 @@
     "description": "C++ client for ClickHouse DBMS. [Apache2]"
   },
   {
+    "name": "DuckDB",
+    "url": "https://duckdb.org/",
+    "description": "in-process SQL OLAP Database Management System. [MIT]"
+  },
+  {
     "name": "hiberlite",
     "url": "https://github.com/paulftw/hiberlite",
     "description": "C++ Object-relational mapping for sqlite3. [BSD]"
