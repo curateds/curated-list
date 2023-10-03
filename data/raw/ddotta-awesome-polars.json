@@ -434,6 +434,11 @@
     "description": "A blog post that explains how to partition large Polars DataFrames in AWS S3 by Matteo Arellano."
   },
   {
+    "name": "Goodbye Spark. Hello Polars + Delta Lake",
+    "url": "https://dataengineeringcentral.substack.com/p/goodbye-spark-hello-polars-delta",
+    "description": "An article that presents how to use Polars in addition to Delta Lake by @danielbeach."
+  },
+  {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
     "url": "https://www.youtube.com/watch?v=kVy3-gMdViM",
     "description": "Introduction to Polars by databricks."

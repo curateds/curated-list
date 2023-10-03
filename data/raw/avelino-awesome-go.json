@@ -1394,6 +1394,11 @@
     "description": "HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction."
   },
   {
+    "name": "plinko",
+    "url": "https://github.com/shipt/plinko",
+    "description": "A finite state machine and workflow orchestrator that compiles for fast execution, easy debugging, auto-generated documentation. Includes advanced features such as side-effect hooks."
+  },
+  {
     "name": "quadtree",
     "url": "https://github.com/s0rg/quadtree",
     "description": "Generic, zero-alloc, 100%-test covered quadtree."
@@ -2459,6 +2464,11 @@
     "description": "Typesafe, customizable, clean & easy to use Redis client."
   },
   {
+    "name": "clickhouse-go",
+    "url": "https://github.com/ClickHouse/clickhouse-go/",
+    "description": "ClickHouse SQL client for Go with a database/sql compability."
+  },
+  {
     "name": "elastic",
     "url": "https://github.com/olivere/elastic",
     "description": "Elasticsearch client for Go."
@@ -3254,6 +3264,11 @@
     "description": "A tiny cross-platform Go library to hide/unhide files and directories."
   },
   {
+    "name": "iso9660",
+    "url": "https://github.com/kdomanski/iso9660",
+    "description": "A package for reading and creating ISO9660 disk images"
+  },
+  {
     "name": "notify",
     "url": "https://github.com/rjeczalik/notify",
     "description": "File system event notification library with simple API, similar to os/signal."
@@ -3367,6 +3382,11 @@
     "name": "go-money",
     "url": "https://github.com/rhymond/go-money",
     "description": "Implementation of Fowler's Money pattern."
+  },
+  {
+    "name": "go-nowpayments",
+    "url": "https://github.com/matm/go-nowpayments",
+    "description": "Library for the crypto NOWPayments API."
   },
   {
     "name": "money",
@@ -5306,6 +5326,11 @@
     "name": "Glue",
     "url": "https://github.com/desertbit/glue",
     "description": "Robust Go and Javascript Socket Library (Alternative to Socket.io)."
+  },
+  {
+    "name": "go-eventbus",
+    "url": "https://github.com/stanipetrosyan/go-eventbus",
+    "description": "Simple Event Bus package for Go."
   },
   {
     "name": "go-mq",
@@ -11320,6 +11345,11 @@
     "name": "fac",
     "url": "https://github.com/mkchoi212/fac",
     "description": "Command-line user interface to fix git merge conflicts."
+  },
+  {
+    "name": "Flannel",
+    "url": "https://github.com/flannel-io/flannel",
+    "description": "Flannel is a network fabric for containers, designed for Kubernetes."
   },
   {
     "name": "Fleet device management",

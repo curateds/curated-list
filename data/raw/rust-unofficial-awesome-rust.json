@@ -1302,6 +1302,11 @@
     "description": "A simple video downloader"
   },
   {
+    "name": "gyroflow/gyroflow",
+    "url": "https://github.com/gyroflow/gyroflow",
+    "description": "Video stabilization application using gyroscope data"
+  },
+  {
     "name": "harlanc/xiu",
     "url": "https://github.com/harlanc/xiu"
   },
@@ -2295,6 +2300,11 @@
     "url": "https://github.com/autumnai/leaf"
   },
   {
+    "name": "burn-rs/burn",
+    "url": "https://github.com/burn-rs/burn",
+    "description": "A Flexible and Comprehensive Deep Learning Framework in Rust."
+  },
+  {
     "name": "coreylowman/dfdx",
     "url": "https://github.com/coreylowman/dfdx"
   },
@@ -3185,7 +3195,7 @@
   },
   {
     "name": "ArangoDB",
-    "url": "https://www.arangodb.com",
+    "url": "https://arangodb.com",
     "description": "A Lightweight ArangoDB Object document, relational and graph mapper"
   },
   {
