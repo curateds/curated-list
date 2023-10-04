@@ -215,6 +215,11 @@
     "description": "C++ library for parsing Standard MIDI Files."
   },
   {
+    "name": "mido",
+    "url": "https://github.com/mido/mido",
+    "description": "Python library for working with MIDI messages and ports."
+  },
+  {
     "name": "Polyrhythmix",
     "url": "http://github.com/dredozubov/polyrhythmix",
     "description": "MIDI drums"

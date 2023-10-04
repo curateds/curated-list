@@ -109,6 +109,11 @@
     "description": "Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset."
   },
   {
+    "name": "vite-starter-markup-template",
+    "url": "https://github.com/Grinch3214/vite-starter-markup-template",
+    "description": "Starter template for Markup."
+  },
+  {
     "name": "Vitesse",
     "url": "https://github.com/antfu/vitesse",
     "description": "Opinionated starter template."
@@ -727,6 +732,16 @@
     "name": "template-tauri-vite-react-ts-tailwind",
     "url": "https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind",
     "description": "Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in."
+  },
+  {
+    "name": "vite-react-chakra-starter",
+    "url": "https://github.com/sozonome/vite-react-chakra-starter",
+    "description": "Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky."
+  },
+  {
+    "name": "vite-react-tailwind-starter",
+    "url": "https://github.com/sozonome/vite-react-tailwind-starter",
+    "description": "Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky."
   },
   {
     "name": "SvelteKit",

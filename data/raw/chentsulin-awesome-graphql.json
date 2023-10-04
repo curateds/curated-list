@@ -401,6 +401,11 @@
     "description": "A JavaScript template literal tag that parses GraphQL queries."
   },
   {
+    "name": "load-gql",
+    "url": "https://github.com/KunalSin9h/load-gql",
+    "description": "A tiny, zero dependency GraphQL schema loader from files and folders."
+  },
+  {
     "name": "graphql-compose",
     "url": "https://github.com/graphql-compose/graphql-compose",
     "description": "Tool which allows you to construct flexible graphql schema from different data sources via plugins."
@@ -1370,8 +1375,8 @@
     "description": "A parser, formatter and AST for the GraphQL query and schema definition language for Rust."
   },
   {
-    "name": "Warp GraphQL Juniper Demo",
-    "url": "https://github.com/graphql-rust/juniper/tree/master/examples/warp_async"
+    "name": "Warp GraphQL Juniper",
+    "url": "https://graphql-rust.github.io/"
   },
   {
     "name": "graphqld",

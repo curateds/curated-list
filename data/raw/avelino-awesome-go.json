@@ -3974,7 +3974,7 @@
   },
   {
     "name": "oversight",
-    "url": "https://cirello.io/oversight",
+    "url": "https://pkg.go.dev/cirello.io/oversight",
     "description": "Oversight is a complete implementation of the Erlang supervision trees."
   },
   {
@@ -8639,7 +8639,7 @@
   },
   {
     "name": "aws-sdk-go",
-    "url": "https://github.com/aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go-v2",
     "description": "The official AWS SDK for the Go programming language."
   },
   {
@@ -9966,6 +9966,11 @@
     "name": "UNIS",
     "url": "https://github.com/esemplastic/unis",
     "description": "Common Architecture™ for String Utilities in Go."
+  },
+  {
+    "name": "upterm",
+    "url": "https://github.com/owenthereal/upterm",
+    "description": "A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more."
   },
   {
     "name": "usql",
@@ -12103,7 +12108,7 @@
   },
   {
     "name": "GopherCon India",
-    "url": "https://www.gophercon.in/",
+    "url": "https://gopherconindia.org/",
     "description": "Pune, India."
   },
   {

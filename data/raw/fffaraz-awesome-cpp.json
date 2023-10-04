@@ -682,7 +682,7 @@
   {
     "name": "bit7z",
     "url": "https://github.com/rikyoz/bit7z",
-    "description": "A C++ static library offering a clean and simple interface to the 7-zip DLLs. [GPLv2]"
+    "description": "A C++ static library offering a clean and simple interface to the 7-zip shared libraries. [MPL2]"
   },
   {
     "name": "Brotli",
@@ -4151,6 +4151,11 @@
     "name": "stb",
     "url": "https://github.com/nothings/stb",
     "description": "A range of single-file libraries for C/C++. [PublicDomain]"
+  },
+  {
+    "name": "StringZilla",
+    "url": "https://github.com/ashvardanian/StringZilla",
+    "description": "the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say \"Tokyo Tower\". [Apache-2.0]"
   },
   {
     "name": "StrTk",

@@ -160,6 +160,11 @@
     "description": "Quick and easy game making with visual scripting. [GitHub]"
   },
   {
+    "name": "Titan Engine",
+    "url": "https://esenthel.com/",
+    "description": "Cross-platform engine, started in 2000. Formerly Esenthel Engine."
+  },
+  {
     "name": "3dSen",
     "url": "https://geod.itch.io/3dnes",
     "description": "Emulator that lets you play NES games in 3D. [Website]"
@@ -1353,11 +1358,6 @@
     "name": "Spartan Engine",
     "url": "https://github.com/PanosK92/SpartanEngine",
     "description": "Emphasis on quality and performance."
-  },
-  {
-    "name": "Titan Engine",
-    "url": "https://github.com/Esenthel/EsenthelEngine",
-    "description": "Cross-platform engine, started in 2000. Formerly Esenthel Engine."
   },
   {
     "name": "Toolkit",
@@ -4090,14 +4090,34 @@
     "description": "Easy to use game library, heavily inspired by RayLib."
   },
   {
-    "name": "Kiss3D",
-    "url": "https://github.com/sebcrozet/kiss3d",
+    "name": "Ash",
+    "url": "https://github.com/ash-rs/ash",
     "description": "3D"
+  },
+  {
+    "name": "Ash",
+    "url": "https://github.com/ash-rs/ash",
+    "description": "Vulkan bindgins for Rust."
+  },
+  {
+    "name": "Glium",
+    "url": "https://github.com/glium/glium",
+    "description": "Safe wrapper arount the OpenGL API."
   },
   {
     "name": "Kiss3D",
     "url": "https://github.com/sebcrozet/kiss3d",
     "description": "Keep it simple, stupid 3D graphics engine."
+  },
+  {
+    "name": "Miniquad",
+    "url": "https://github.com/not-fl3/miniquad",
+    "description": "Cross platform rendering."
+  },
+  {
+    "name": "Vulkano",
+    "url": "https://github.com/vulkano-rs/vulkano",
+    "description": "Safe and rich wrapper around the Vulkan API."
   },
   {
     "name": "Azul",
