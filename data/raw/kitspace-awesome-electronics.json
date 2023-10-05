@@ -179,9 +179,14 @@
     "description": "Excellent Gerber viewer for Linux and BSD."
   },
   {
-    "name": "KiCad GerbView",
+    "name": "KiCAD Gerbview",
     "url": "https://kicad.org/",
-    "description": "The KiCad gerber viewer."
+    "description": "The KiCAD gerber viewer."
+  },
+  {
+    "name": "GC-Prevue",
+    "url": "http://www.graphicode.com/GC-Prevue_Gerber_Viewer",
+    "description": "Commercial with free version. Can handle some gerbers better than Gerbv and KiCAD."
   },
   {
     "name": "KiCad",

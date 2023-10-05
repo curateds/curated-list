@@ -4073,6 +4073,11 @@
     "description": "A small C library for x86 CPU detection and feature extraction. [BSD]"
   },
   {
+    "name": "libenvpp",
+    "url": "https://github.com/ph3at/libenvpp",
+    "description": "A modern C++ library for type-safe environment variable parsing. [Apache-2.0]"
+  },
+  {
     "name": "libevil",
     "url": "https://github.com/avati/libevil",
     "description": "The Evil License Manager. [GPLv3]"
