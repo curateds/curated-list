@@ -655,6 +655,11 @@
     "description": "An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities."
   },
   {
+    "name": "MAgent2",
+    "url": "https://github.com/Farama-Foundation/MAgent2",
+    "description": "An engine for high performance multi-agent environments with very large numbers of agents, along with a set of reference environments."
+  },
+  {
     "name": "Stable Baselines3",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "description": "A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines."

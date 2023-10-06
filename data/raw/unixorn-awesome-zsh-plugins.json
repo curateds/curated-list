@@ -1857,6 +1857,11 @@
     "description": "Brings together the z plugin and fzf- to allow you to easily browse recently used directories at any point on the command line."
   },
   {
+    "name": "fzfsh",
+    "url": "https://github.com/ethan605/fzfsh",
+    "description": "Add fzf plugins for chezmoi, docker, git, kubectl and pass."
+  },
+  {
     "name": "fzy",
     "url": "https://github.com/aperezdc/zsh-fzy",
     "description": "Plugin that uses fzy for certain fuzzy matching operations."
@@ -2355,6 +2360,11 @@
     "name": "igit",
     "url": "https://github.com/ytakahashi/igit",
     "description": "Interactive git commands using fzf."
+  },
+  {
+    "name": "incsearch",
+    "url": "https://github.com/aoyama-val/zsh-incsearch",
+    "description": "Friendlier vim mode for ZSH."
   },
   {
     "name": "ing",
@@ -3395,6 +3405,11 @@
     "name": "psgrep",
     "url": "https://github.com/voidzero/omz-plugin-psgrep/",
     "description": "Makes ps grep hide its own process from the results of a ps aux | grep."
+  },
+  {
+    "name": "purge-history-secrets",
+    "url": "https://github.com/jotasixto/purge-history-secrets",
+    "description": "Uses gitleaks to periodically scan your ZSH history for secrets and purge them if found. Requires jq."
   },
   {
     "name": "pyenv (mattberther)",

@@ -430,6 +430,11 @@
     "description": "Navigating Unison projects."
   },
   {
+    "name": "niuiic/typst-preview.nvim",
+    "url": "https://github.com/niuiic/typst-preview.nvim",
+    "description": "Preview typst documents, respond to file changes."
+  },
+  {
     "name": "ray-x/go.nvim",
     "url": "https://github.com/ray-x/go.nvim",
     "description": "Golang plugin based on lsp and Treesitter."
@@ -910,11 +915,6 @@
     "description": "Telescope picker to jump to any repository (git or other) on the file system."
   },
   {
-    "name": "MunifTanjim/exrc.nvim",
-    "url": "https://github.com/MunifTanjim/exrc.nvim",
-    "description": "Secure Project Local Config."
-  },
-  {
     "name": "otavioschwanck/telescope-alternate.nvim",
     "url": "https://github.com/otavioschwanck/telescope-alternate.nvim",
     "description": "Alternate between common files using telescope."
@@ -938,11 +938,6 @@
     "name": "desdic/telescope-rooter.nvim",
     "url": "https://github.com/desdic/telescope-rooter.nvim",
     "description": "Makes sure to always start telescope (and only telescope) from the project/root directory."
-  },
-  {
-    "name": "jinzhongjia/PS_manager.nvim",
-    "url": "https://github.com/jinzhongjia/PS_manager.nvim",
-    "description": "Multi-project management, switch pwd automatically."
   },
   {
     "name": "NvChad/nvim-colorizer.lua",
@@ -2028,11 +2023,6 @@
     "name": "code-biscuits/nvim-biscuits",
     "url": "https://github.com/code-biscuits/nvim-biscuits",
     "description": "A Neovim port of Assorted Biscuits. Ends up with more supported languages too."
-  },
-  {
-    "name": "Pocco81/AbbrevMan.nvim",
-    "url": "https://github.com/Pocco81/AbbrevMan.nvim",
-    "description": "Manage Vim abbreviations."
   },
   {
     "name": "kazhala/close-buffers.nvim",
@@ -3793,11 +3783,6 @@
     "name": "shaunsingh/nyoom.nvim",
     "url": "https://github.com/shaunsingh/nyoom.nvim",
     "description": "Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience."
-  },
-  {
-    "name": "OxygeNvim/OxygeNvim",
-    "url": "https://github.com/OxygeNvim/OxygeNvim",
-    "description": "A configuration for all kinds of development with rock solid defaults."
   },
   {
     "name": "jrychn/moduleVim",
