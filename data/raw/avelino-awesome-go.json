@@ -4048,6 +4048,11 @@
     "description": "Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress."
   },
   {
+    "name": "energy",
+    "url": "https://github.com/energye/energy",
+    "description": "Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)"
+  },
+  {
     "name": "fyne",
     "url": "https://github.com/fyne-io/fyne",
     "description": "Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android."

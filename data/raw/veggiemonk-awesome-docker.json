@@ -1860,11 +1860,6 @@
     "description": "The aim of the docker plugin is to be able to use a docker host to dynamically provision a slave, run a single build, then tear-down that slave."
   },
   {
-    "name": "Dockupdater",
-    "url": "https://github.com/dockupdater/dockupdater",
-    "description": "Automatically keep your docker services and your docker containers up-to-date"
-  },
-  {
     "name": "Drone",
     "url": "https://github.com/drone/drone",
     "description": "Continuous integration server built on Docker and configured using YAML files."
