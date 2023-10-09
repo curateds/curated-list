@@ -160,11 +160,6 @@
     "description": "Dual-panel file manager."
   },
   {
-    "name": "OpenBoard",
-    "url": "https://github.com/dslul/openboard",
-    "description": "100% FOSS keyboard, based on AOSP."
-  },
-  {
     "name": "FlorisBoard",
     "url": "https://github.com/florisboard/florisboard",
     "description": "FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state."
@@ -405,6 +400,21 @@
     "name": "Restic",
     "url": "https://restic.net/",
     "description": "Restic is also command line program to manage files on various cloud storage providers. Restic uses encryption by default. Few noteworthy features of restic include browsing through storage as git like snapshots at no extra storage cost, deduplication and significant savings through compression."
+  },
+  {
+    "name": "vdo.ninja",
+    "url": "https://vdo.ninja/",
+    "description": "Powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC."
+  },
+  {
+    "name": "socialstream.ninja",
+    "url": "https://github.com/steveseguin/social_stream#readme",
+    "description": "Consolidate your live social messaging streams and much more."
+  },
+  {
+    "name": "OBS Studio",
+    "url": "https://obsproject.com/",
+    "description": "Free and open source software for video recording and live streaming."
   },
   {
     "name": "Appwrite",
@@ -1429,7 +1439,7 @@
   },
   {
     "name": "Mint (Cinnamon)",
-    "url": "https://linuxmint.com/edition.php?id=299"
+    "url": "https://linuxmint.com/edition.php?id=305"
   },
   {
     "name": "AtlasOS",

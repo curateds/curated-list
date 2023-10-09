@@ -105,11 +105,6 @@
     "description": "Show type annotations as virtual text."
   },
   {
-    "name": "jose-elias-alvarez/typescript.nvim",
-    "url": "https://github.com/jose-elias-alvarez/typescript.nvim",
-    "description": "Utilities to improve the TypeScript development experience for Neovim's built-in LSP client."
-  },
-  {
     "name": "ray-x/navigator.lua",
     "url": "https://github.com/ray-x/navigator.lua",
     "description": "Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰."
@@ -263,6 +258,11 @@
     "name": "hinell/lsp-timeout.nvim",
     "url": "https://github.com/hinell/lsp-timeout.nvim",
     "description": "Automatically start/stop idle/unused LSP servers; keeps RAM usage low."
+  },
+  {
+    "name": "nvimtools/none-ls.nvim",
+    "url": "https://github.com/nvimtools/none-ls.nvim",
+    "description": "Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua."
   },
   {
     "name": "anott03/nvim-lspinstall",
@@ -2283,6 +2283,11 @@
     "name": "VidocqH/data-viewer.nvim",
     "url": "https://github.com/VidocqH/data-viewer.nvim",
     "description": "Provide a simple table view to inspect data files such as csv, tsv."
+  },
+  {
+    "name": "JMarkin/gentags.lua",
+    "url": "https://github.com/JMarkin/gentags.lua",
+    "description": "Auto generate tag files by ctags."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",

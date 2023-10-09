@@ -674,6 +674,11 @@
     "url": "https://github.com/ozkriff/zoc"
   },
   {
+    "name": "dps/rust-raytracer",
+    "url": "https://github.com/dps/rust-raytracer",
+    "description": "An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley in Rust."
+  },
+  {
     "name": "ivanceras/svgbob",
     "url": "https://github.com/ivanceras/svgbob"
   },
@@ -2466,6 +2471,10 @@
     "url": "https://github.com/dermesser/yup-oauth2"
   },
   {
+    "name": "idletea/tokio-socketcan",
+    "url": "https://github.com/idletea/tokio-socketcan"
+  },
+  {
     "name": "marcelbuesing/can-dbc",
     "url": "https://github.com/marcelbuesing/can-dbc"
   },
@@ -2476,10 +2485,6 @@
   {
     "name": "mbr/socketcan",
     "url": "https://github.com/socketcan-rs/socketcan-rs"
-  },
-  {
-    "name": "oefd/tokio-socketcan",
-    "url": "https://github.com/oefd/tokio-socketcan"
   },
   {
     "name": "Sensirion/lin-bus",

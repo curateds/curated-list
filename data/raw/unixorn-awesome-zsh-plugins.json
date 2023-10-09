@@ -640,6 +640,11 @@
     "description": "Adds start, stop, up and down commands when it detects a docker-compose.yml or Vagrantfile in the current directory (e.g. your application). Just run up and get coding!"
   },
   {
+    "name": "apt",
+    "url": "https://github.com/GeoLMg/apt-zsh-plugin",
+    "description": "For distros with apt package manager. Offers to install missing programs for you."
+  },
+  {
     "name": "arc",
     "url": "https://github.com/anton-rudeshko/zsh-arc",
     "description": "Adds aliases for Yandex version control system."
@@ -997,6 +1002,11 @@
     "name": "brew (wolffaxn)",
     "url": "https://github.com/wolffaxn/brew-zsh-plugin",
     "description": "Standalone plugin for the Homebrew Package Manager."
+  },
+  {
+    "name": "brew-switcher",
+    "url": "https://github.com/fielding/zsh-brew-switcher",
+    "description": "Automatically switch between Homebrew installations based on the current active arch, arm64 or x86_64, on Apple Silicon Macs."
   },
   {
     "name": "browse-commit",
@@ -5526,7 +5536,7 @@
   {
     "name": "sfdx-autocomplete",
     "url": "https://github.com/jayree/sfdx-autocomplete-plugin",
-    "description": "Autocomplete plugin for sfdx."
+    "description": "Autocomplete plugin for Salesforce sfdx."
   },
   {
     "name": "speedtest",
