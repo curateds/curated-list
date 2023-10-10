@@ -1113,11 +1113,6 @@
     "description": "Unofficial OpenCV binding for D"
   },
   {
-    "name": "Drill",
-    "url": "https://github.com/yatima1460/drill",
-    "description": "Search files without indexing, but clever crawling"
-  },
-  {
     "name": "Cryptic-Resolver",
     "url": "https://github.com/cryptic-resolver/cr_D",
     "description": "Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)"
@@ -1136,6 +1131,11 @@
     "name": "onedrive",
     "url": "https://github.com/abraunegg/onedrive",
     "description": "#1 Free OneDrive Client for Linux"
+  },
+  {
+    "name": "tshare",
+    "url": "https://github.com/trikko/tshare",
+    "description": "fast file sharing from cli, using transfer.sh"
   },
   {
     "name": "vectorflow",

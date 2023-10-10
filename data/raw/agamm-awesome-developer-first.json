@@ -285,6 +285,11 @@
     "description": "Full stack app hosting (including dynamo db and s3)."
   },
   {
+    "name": "DeployBot",
+    "url": "https://deploybot.com/",
+    "description": "REST API to trigger deployments from GitHub, GitLab, and Bitbucket."
+  },
+  {
     "name": "Digital Ocean App Platform",
     "url": "https://www.digitalocean.com/products/app-platform/",
     "description": "Deploy and don't care about infrastructure, works with all major frameworks."

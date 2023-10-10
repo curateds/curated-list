@@ -755,6 +755,11 @@
     "description": "Search and replace panel."
   },
   {
+    "name": "nvimdev/hlsearch.nvim",
+    "url": "https://github.com/nvimdev/hlsearch.nvim",
+    "description": "Auto remove search highlight and rehighlight when using n or N."
+  },
+  {
     "name": "nvim-telescope/telescope.nvim",
     "url": "https://github.com/nvim-telescope/telescope.nvim",
     "description": "Telescope.nvim is a highly extendable fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization."

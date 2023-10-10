@@ -595,6 +595,11 @@
     "description": "Datasets, Transforms, and Models specific to Computer Vision."
   },
   {
+    "name": "PyTorch3D",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "description": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data."
+  },
+  {
     "name": "gluon-cv",
     "url": "https://github.com/dmlc/gluon-cv",
     "description": "Provides implementations of the state-of-the-art  deep learning models in computer vision."

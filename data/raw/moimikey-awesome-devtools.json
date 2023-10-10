@@ -20,6 +20,11 @@
     "description": "A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on."
   },
   {
+    "name": "Make Bookmarklets",
+    "url": "https://make-bookmarklets.com",
+    "description": "Online tool to turn JavaScript into a bookmarklet."
+  },
+  {
     "name": "Ramda",
     "url": "https://github.com/ramda/ramda/blob/master/BOOKMARKLET.md",
     "description": "Add Ramda to any page!"
@@ -35,29 +40,79 @@
     "description": "A browser-based tool to test any website's responsiveness."
   },
   {
-    "name": "Debuggex",
-    "url": "https://www.debuggex.com/",
-    "description": "PCRE/Python/JavaScript regex matching."
+    "name": "Babel Time Travel",
+    "url": "https://babel-time-travel.boopathi.in/",
+    "description": "Travel in time as babel transpiles."
   },
   {
-    "name": "ExtendsClass",
-    "url": "https://extendsclass.com/regex-tester.html",
-    "description": "PHP/Python/Ruby/JavaScript regex matching."
+    "name": "Beeceptor",
+    "url": "http://beeceptor.com/",
+    "description": "Rule based API mocking service. When rules are matched, a request is mocked, else target endpoint is hit as usual. Create custom endpoints to test and debug rest APIs."
   },
   {
-    "name": "reFiddle",
-    "url": "http://refiddle.com/",
-    "description": "Ruby/.NET/JavaScript regex matching."
+    "name": "DebugJS",
+    "url": "http://debugjs.com/",
+    "description": "Debug your JavaScript in the browser (lol?)"
   },
   {
-    "name": "RegExplained",
-    "url": "http://leaverou.github.io/regexplained/",
-    "description": "JavaScript regex matching."
+    "name": "endpoints.dev",
+    "url": "https://www.endpoints.dev",
+    "description": "View realtime HTTP requests using a endpoints.dev generated URL."
   },
   {
-    "name": "Regexr",
-    "url": "http://www.regexr.com/",
-    "description": "JavaScript regex matching."
+    "name": "Hook.io",
+    "url": "https://hook.io/",
+    "description": "Instantly deploy microservices in over 11+ languages (OSS!)"
+  },
+  {
+    "name": "Hoppscotch",
+    "url": "https://hoppscotch.io",
+    "description": "A lightweight, web-based API development suite."
+  },
+  {
+    "name": "httpbin",
+    "url": "http://httpbin.org/",
+    "description": "HTTP Request & Response service."
+  },
+  {
+    "name": "JavaScript Visualizer 9000",
+    "url": "https://www.jsv9000.app",
+    "description": "Loupe-inspired JavaScript execution visualizer"
+  },
+  {
+    "name": "jsonbin",
+    "url": "https://jsonbin.io/",
+    "description": "Custom, mock JSON API"
+  },
+  {
+    "name": "JSONPlaceholder",
+    "url": "https://jsonplaceholder.typicode.com",
+    "description": "Free fake API for testing and prototyping."
+  },
+  {
+    "name": "Loupe",
+    "url": "http://latentflip.com/loupe/",
+    "description": "Similar in goal to SlowmoJS, a JavaScript call stack visualizer."
+  },
+  {
+    "name": "Mockbin",
+    "url": "http://mockbin.com/",
+    "description": "Generate custom endpoints to test, mock, and track HTTP requests."
+  },
+  {
+    "name": "RecipeUI",
+    "url": "https://recipeui.com/editor",
+    "description": "Open source Postman alternative with type safety built in."
+  },
+  {
+    "name": "Reqbin",
+    "url": "https://reqbin.com/",
+    "description": "REST & SOAP API Online Testing Tool"
+  },
+  {
+    "name": "SlowmoJS",
+    "url": "http://toolness.github.io/slowmo-js/",
+    "description": "Execute JavaScript in slow motion."
   },
   {
     "name": "AST Explorer",
@@ -65,9 +120,9 @@
     "description": "Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript."
   },
   {
-    "name": "Babel",
-    "url": "https://babeljs.io/en/repl",
-    "description": "Transpile and optionally evaluate ES2015 to ES5"
+    "name": "Compiler Explorer",
+    "url": "https://godbolt.org",
+    "description": "Run compilers interactively from your web browser and interact with the assembly"
   },
   {
     "name": "fixmyjs",
@@ -85,54 +140,49 @@
     "description": "Sorts JSON alphabetically"
   },
   {
-    "name": "Beeceptor",
-    "url": "http://beeceptor.com/",
-    "description": "Rule based API mocking service. When rules are matched, a request is mocked, else target endpoint is hit as usual. Create custom endpoints to test and debug rest APIs."
+    "name": "Markdown to HTML",
+    "url": "https://markdowntohtml.com",
+    "description": "Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML."
   },
   {
-    "name": "DebugJS",
-    "url": "http://debugjs.com/",
-    "description": "Debug your JavaScript in the browser (lol?)"
+    "name": "SWC",
+    "url": "https://swc.rs/playground",
+    "description": "compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers."
   },
   {
-    "name": "Hook.io",
-    "url": "https://hook.io/",
-    "description": "Instantly deploy microservices in over 11+ languages (OSS!)"
+    "name": "asciiflow",
+    "url": "https://asciiflow.com",
+    "description": "ASCIIFlow is a client-side only web based application for drawing ASCII diagrams."
   },
   {
-    "name": "httpbin",
-    "url": "http://httpbin.org/",
-    "description": "HTTP Request & Response service."
+    "name": "dbdiagram",
+    "url": "https://dbdiagram.io/d",
+    "description": "Draw Entity-Relationship Diagrams, Painlessly."
   },
   {
-    "name": "jsonbin",
-    "url": "https://jsonbin.io/",
-    "description": "Custom, mock JSON API"
+    "name": "dot-to-ascii",
+    "url": "https://dot-to-ascii.ggerganov.com",
+    "description": "Graphviz to ASCII converter using Graph::Easy."
   },
   {
-    "name": "Loupe",
-    "url": "http://latentflip.com/loupe/",
-    "description": "Similar in goal to SlowmoJS, a JavaScript call stack visualizer."
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "description": "Virtual whiteboard."
   },
   {
-    "name": "Mockbin",
-    "url": "http://mockbin.com/",
-    "description": "Generate custom endpoints to test, mock, and track HTTP requests."
+    "name": "JSON-to-Chart",
+    "url": "https://jsontochart.com",
+    "description": "Create beautiful charts from JSON data in your browser."
   },
   {
-    "name": "SlowmoJS",
-    "url": "http://toolness.github.io/slowmo-js/",
-    "description": "Execute JavaScript in slow motion."
+    "name": "nomnoml",
+    "url": "https://nomnoml.com",
+    "description": "A tool for drawing UML diagrams based on a simple syntax."
   },
   {
-    "name": "Babel Time Travel",
-    "url": "https://babel-time-travel.boopathi.in/",
-    "description": "Travel in time as babel transpiles."
-  },
-  {
-    "name": "Reqbin",
-    "url": "https://reqbin.com/",
-    "description": "REST & SOAP API Online Testing Tool"
+    "name": "Sequence Diagram",
+    "url": "https://sequencediagram.org",
+    "description": "An online tool / software for creating UML sequence diagrams."
   },
   {
     "name": "JSONDiffPatch",
@@ -140,9 +190,74 @@
     "description": "Run a visual or non-visual diff on two JSON blobs."
   },
   {
+    "name": "file.io",
+    "url": "https://www.file.io/",
+    "description": "Ephemeral file sharing. Convenient, anonymous and secure."
+  },
+  {
+    "name": "instant.io",
+    "url": "https://instant.io/",
+    "description": "Instant file transfer/sharing over WebTorrent"
+  },
+  {
+    "name": "JSONGenerator",
+    "url": "https://www.jsongenerator.io",
+    "description": "Create random JSON data"
+  },
+  {
+    "name": "Pure CSS Apple",
+    "url": "http://purecssapple.com/",
+    "description": "Pure CSS Apple devices with scrollable media"
+  },
+  {
+    "name": "Readme",
+    "url": "https://nxt-readme.vercel.app",
+    "description": "All in one tool to quickly generate a readme for your project or github profile."
+  },
+  {
+    "name": "Favic-o-matic",
+    "url": "http://www.favicomatic.com/",
+    "description": "Literally generates every favicon neccessary + markup."
+  },
+  {
+    "name": "JPEG.rocks",
+    "url": "https://jpeg.rocks",
+    "description": "Privacy-aware JPEG optimizer"
+  },
+  {
+    "name": "PicPerf",
+    "url": "https://www.picperf.dev/analyze",
+    "description": "Boost web performance with image optimization. Analyze and improve <img> tags, <style> tags, and inline CSS."
+  },
+  {
+    "name": "PNG-to-SVG",
+    "url": "https://png-to-svg.com",
+    "description": "Free conversion from JPG or PNG images To vectorized SVG."
+  },
+  {
+    "name": "Squoosh",
+    "url": "https://squoosh.app/",
+    "description": "Compress and optimize images in browser"
+  },
+  {
+    "name": "SVG-to-backgroundImage",
+    "url": "https://csspro.com/svg-to-background-image-css",
+    "description": "Convert your SVG files into CSS url (data URIs) by encoding it."
+  },
+  {
+    "name": "SVGOMG",
+    "url": "https://jakearchibald.github.io/svgomg/",
+    "description": "Try SVGO (SVG Optimizer) in the browser!"
+  },
+  {
+    "name": "Perflink",
+    "url": "https://perf.link",
+    "description": "JS benchmarks"
+  },
+  {
     "name": "codepen",
     "url": "http://codepen.io/",
-    "description": "JS/Coffee/Babel/Live/HTML/Slim/Pug/Markdown/HAML/CSS/Sass/LESS/Stylus"
+    "description": "Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration."
   },
   {
     "name": "CodeSandbox",
@@ -170,14 +285,84 @@
     "description": "JS/ES3/Coffee/HTML/CSS/Sass"
   },
   {
+    "name": "JSONCrack",
+    "url": "https://jsoncrack.com/editor",
+    "description": "Visualize CSV/JSON/TOML/XML/YAML instantly into graphs."
+  },
+  {
+    "name": "Markmap",
+    "url": "https://markmap.js.org/repl",
+    "description": "Visualize markdown as a feature-rich mindmaps."
+  },
+  {
     "name": "playcode.io",
     "url": "https://playcode.io/",
     "description": "JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug"
   },
   {
-    "name": "Repl.it",
-    "url": "http://repl.it/",
-    "description": "Python/Ruby/Scheme/Lua/Java/QBasic/Forth/APL/PHP/Go/Emoticon/BrainFuck/LOLCODE/Unlambda/Bloop/JavaScript/ES6/Move/Kaffeine/CoffeeScript/Roy"
+    "name": "Debuggex",
+    "url": "https://www.debuggex.com/",
+    "description": "PCRE/Python/JavaScript regex matching."
+  },
+  {
+    "name": "ExtendsClass",
+    "url": "https://extendsclass.com/regex-tester.html",
+    "description": "PHP/Python/Ruby/JavaScript regex matching."
+  },
+  {
+    "name": "reFiddle",
+    "url": "http://refiddle.com/",
+    "description": "Ruby/.NET/JavaScript regex matching."
+  },
+  {
+    "name": "RegExplained",
+    "url": "http://leaverou.github.io/regexplained/",
+    "description": "JavaScript regex matching."
+  },
+  {
+    "name": "Regexr",
+    "url": "http://www.regexr.com/",
+    "description": "JavaScript regex matching."
+  },
+  {
+    "name": "Regulex",
+    "url": "https://jex.im/regulex",
+    "description": "JavaScript Regular Expression Visualizer."
+  },
+  {
+    "name": "crontab guru",
+    "url": "https://crontab.guru/",
+    "description": "The quick and simple editor for cron schedule expressions by Cronitor"
+  },
+  {
+    "name": "CSS Scan - Box Shadows",
+    "url": "https://getcssscan.com/css-box-shadow-examples",
+    "description": "Box Shadows - CSS, Ready to use, click to copy"
+  },
+  {
+    "name": "CSS Scan - Buttons",
+    "url": "https://getcssscan.com/css-buttons-examples",
+    "description": "Buttons - CSS, Ready to use, click to copy"
+  },
+  {
+    "name": "CSS Scan - Checkboxes",
+    "url": "https://getcssscan.com/css-checkboxes-examples",
+    "description": "Checkboxes - CSS, Ready to use, click to copy"
+  },
+  {
+    "name": "CSS Scan - Shapes",
+    "url": "https://getcssscan.com/css-shapes",
+    "description": "Shapes - CSS, Ready to use, click to copy"
+  },
+  {
+    "name": "Devtools Tips",
+    "url": "https://devtoolstips.org",
+    "description": "Copy-and-paste'able collection of useful cross-browser DevTools snippets."
+  },
+  {
+    "name": "Babel REPL",
+    "url": "https://babeljs.io/en/repl",
+    "description": "The compiler for next generation JavaScript"
   },
   {
     "name": "Sassmeister",
@@ -185,14 +370,9 @@
     "description": "Sass/Scss <-> CSS"
   },
   {
-    "name": "Txti",
-    "url": "http://txti.es/",
-    "description": "Fast text/markdown web pages for everybody"
-  },
-  {
-    "name": "VCLFiddle",
-    "url": "http://www.vclfiddle.net/",
-    "description": "Sandboxed Varnish Cache"
+    "name": "Terser",
+    "url": "https://try.terser.org/",
+    "description": "JavaScript parser, mangler and compressor toolkit for ES6+"
   },
   {
     "name": "WebAssembly Explorer",
@@ -200,53 +380,22 @@
     "description": "translate C/C++ to WebAssembly, and then see the machine code generated by the browser."
   },
   {
-    "name": "Terser",
-    "url": "https://try.terser.org/",
-    "description": "JavaScript parser, mangler and compressor toolkit for ES6+"
-  },
-  {
-    "name": "Favic-o-matic",
-    "url": "http://www.favicomatic.com/",
-    "description": "Literally generates every favicon neccessary + markup."
-  },
-  {
-    "name": "SVGOMG",
-    "url": "https://jakearchibald.github.io/svgomg/",
-    "description": "Try SVGO (SVG Optimizer) in the browser!"
-  },
-  {
-    "name": "Squoosh",
-    "url": "https://squoosh.app/",
-    "description": "Compress and optimize images in browser"
-  },
-  {
-    "name": "Pure CSS Apple",
-    "url": "http://purecssapple.com/",
-    "description": "Pure CSS Apple devices with scrollable media"
-  },
-  {
-    "name": "file.io",
-    "url": "https://www.file.io/",
-    "description": "Ephemeral file sharing. Convenient, anonymous and secure."
-  },
-  {
-    "name": "instant.io",
-    "url": "https://instant.io/",
-    "description": "Instant file transfer/sharing over WebTorrent"
+    "name": "snapify",
+    "url": "https://snappify.com/editor",
+    "description": "Snappify enables you to create stunning presentations, with first-class support for code snippets."
   },
   {
     "name": "What's My Browser?",
     "url": "http://www.whatsmybrowser.org/"
   },
   {
-    "name": "FillText",
-    "url": "http://filltext.com/",
-    "description": "Generate JSON datasets for testing or demonstration purposes"
+    "name": "OWASP Cheat Sheet Series",
+    "url": "https://cheatsheetseries.owasp.org",
+    "description": "A concise collection of high value information on specific application security topics."
   },
   {
-    "name": "Zippopotamus",
-    "url": "http://zippopotam.us/",
-    "description": "Zipcode to Geo"
+    "name": "HTML5",
+    "url": "http://html5please.com/"
   },
   {
     "name": "Campaign Monitor",
@@ -261,12 +410,35 @@
     "url": "http://pleeease.io/play/"
   },
   {
+    "name": "DevDocs",
+    "url": "http://devdocs.io/",
+    "description": "Basically Dash but a web application and FREE."
+  },
+  {
+    "name": "ECMAScript Proposal Stages",
+    "url": "https://www.proposals.es/stages"
+  },
+  {
+    "name": "ExplainShell",
+    "url": "https://explainshell.com/explain?cmd=ls+-lisah",
+    "description": "A better way to read MAN pages."
+  },
+  {
+    "name": "Ceaser",
+    "url": "http://matthewlein.com/ceaser/"
+  },
+  {
     "name": "Copy/Paste Character",
     "url": "http://copypastecharacter.com/"
   },
   {
     "name": "Entity Lookup",
     "url": "http://entity-lookup.leftlogic.com/"
+  },
+  {
+    "name": "Icônes",
+    "url": "https://icones.js.org/collection/all",
+    "description": "Over 150,000 open source vector icons."
   },
   {
     "name": "Icon Finder",
@@ -281,20 +453,14 @@
     "url": "https://tablericons.com/"
   },
   {
-    "name": "ES6",
-    "url": "http://kangax.github.io/compat-table/es6/"
+    "name": "FillText",
+    "url": "http://filltext.com/",
+    "description": "Generate JSON datasets for testing or demonstration purposes"
   },
   {
-    "name": "HTML5",
-    "url": "http://html5please.com/"
-  },
-  {
-    "name": "Responsive Patterns",
-    "url": "http://bradfrost.github.io/this-is-responsive/patterns.html"
-  },
-  {
-    "name": "Ceaser",
-    "url": "http://matthewlein.com/ceaser/"
+    "name": "Zippopotamus",
+    "url": "http://zippopotam.us/",
+    "description": "Zipcode to Geo"
   },
   {
     "name": "CORS Anywhere",
@@ -302,14 +468,23 @@
     "description": "Proxies any HTTP request through a CORS enabled environment."
   },
   {
-    "name": "DevDocs",
-    "url": "http://devdocs.io/",
-    "description": "Basically Dash but a web application and FREE."
+    "name": "Responsive Patterns",
+    "url": "http://bradfrost.github.io/this-is-responsive/patterns.html"
   },
   {
-    "name": "ExplainShell",
-    "url": "https://explainshell.com/explain?cmd=ls+-lisah",
-    "description": "A better way to read MAN pages."
+    "name": "numverify",
+    "url": "https://numverify.com/",
+    "description": "Validate phone numbers from over 200 countries."
+  },
+  {
+    "name": "CSP Evaluator",
+    "url": "https://csp-evaluator.withgoogle.com",
+    "description": "Evaluate CSP rules"
+  },
+  {
+    "name": "Ada URL Parser",
+    "url": "https://playground.ada-url.com/?url=torrent://blog/post/1?source%7Crest=rss",
+    "description": "WHATWG-compliant and fast URL parser written in modern C++, online."
   },
   {
     "name": "GetHTTPSForFree!",
@@ -322,14 +497,24 @@
     "description": "A self-signed certificate generator."
   },
   {
-    "name": "numverify",
-    "url": "https://numverify.com/",
-    "description": "Validate phone numbers from over 200 countries."
+    "name": "HSTS Preload",
+    "url": "https://hstspreload.org",
+    "description": "Check HSTS preload status and elibility."
   },
   {
-    "name": "CSP Evaluator",
-    "url": "https://csp-evaluator.withgoogle.com",
-    "description": "Evaluate CSP rules"
+    "name": "Mozilla Observatory",
+    "url": "https://observatory.mozilla.org",
+    "description": "A set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it."
+  },
+  {
+    "name": "Security Headers by Probely",
+    "url": "https://securityheaders.com/?q=https%3A%2F%2Fsecurityheaders.com",
+    "description": "An easy to use tool designed to help you better deploy and understand modern security features that are available for your website."
+  },
+  {
+    "name": "Web Check",
+    "url": "https://web-check.xyz",
+    "description": "All-in-one OSINT tool for analysing any website."
   },
   {
     "name": "DevStickers",

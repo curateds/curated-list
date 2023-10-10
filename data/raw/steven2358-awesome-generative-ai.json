@@ -380,46 +380,6 @@
     "description": "AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt."
   },
   {
-    "name": "co:here",
-    "url": "https://cohere.ai/",
-    "description": "Cohere provides access to advanced Large Language Models and NLP tools."
-  },
-  {
-    "name": "Haystack",
-    "url": "https://haystack.deepset.ai/",
-    "description": "A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models."
-  },
-  {
-    "name": "LangChain",
-    "url": "https://langchain.com/",
-    "description": "A framework for developing applications powered by language models."
-  },
-  {
-    "name": "gpt4all",
-    "url": "https://github.com/nomic-ai/gpt4all",
-    "description": "A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue."
-  },
-  {
-    "name": "LMQL",
-    "url": "https://lmql.ai/",
-    "description": "LMQL is a query language for large language models."
-  },
-  {
-    "name": "LlamaIndex",
-    "url": "https://www.llamaindex.ai/",
-    "description": "A data framework for building LLM applications over external data."
-  },
-  {
-    "name": "Phoenix",
-    "url": "https://phoenix.arize.com/",
-    "description": "Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models."
-  },
-  {
-    "name": "Cursor",
-    "url": "https://www.cursor.so/",
-    "description": "Cursor is the IDE of the future, built for pair-programming with Powerful AI."
-  },
-  {
     "name": "GitHub Copilot",
     "url": "https://github.com/features/copilot",
     "description": "GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor."
@@ -493,6 +453,86 @@
     "name": "MetaGPT",
     "url": "https://github.com/geekan/MetaGPT",
     "description": "The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo"
+  },
+  {
+    "name": "co:here",
+    "url": "https://cohere.ai/",
+    "description": "Cohere provides access to advanced Large Language Models and NLP tools."
+  },
+  {
+    "name": "Haystack",
+    "url": "https://haystack.deepset.ai/",
+    "description": "A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models."
+  },
+  {
+    "name": "LangChain",
+    "url": "https://langchain.com/",
+    "description": "A framework for developing applications powered by language models."
+  },
+  {
+    "name": "gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "description": "A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue."
+  },
+  {
+    "name": "LMQL",
+    "url": "https://lmql.ai/",
+    "description": "LMQL is a query language for large language models."
+  },
+  {
+    "name": "LlamaIndex",
+    "url": "https://www.llamaindex.ai/",
+    "description": "A data framework for building LLM applications over external data."
+  },
+  {
+    "name": "Phoenix",
+    "url": "https://phoenix.arize.com/",
+    "description": "Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models."
+  },
+  {
+    "name": "Cursor",
+    "url": "https://www.cursor.so/",
+    "description": "Cursor is the IDE of the future, built for pair-programming with Powerful AI."
+  },
+  {
+    "name": "Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous."
+  },
+  {
+    "name": "babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "description": "An AI-powered task management system."
+  },
+  {
+    "name": "AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "description": "Assemble, configure, and deploy autonomous AI Agents in your browser."
+  },
+  {
+    "name": "GPT Engineer",
+    "url": "https://github.com/AntonOsika/gpt-engineer",
+    "description": "Specify what you want it to build, the AI asks for clarification, and then builds it."
+  },
+  {
+    "name": "GPT Prompt Engineer",
+    "url": "https://github.com/mshumer/gpt-prompt-engineer",
+    "description": "Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones."
+  },
+  {
+    "name": "MetaGPT",
+    "url": "https://github.com/geekan/MetaGPT",
+    "description": "The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo."
+  },
+  {
+    "name": "AutoGen",
+    "url": "https://github.com/microsoft/autogen",
+    "description": "AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks."
+  },
+  {
+    "name": "GPT Pilot",
+    "url": "https://github.com/Pythagora-io/gpt-pilot",
+    "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation."
   },
   {
     "name": "DALL·E 2",
@@ -943,35 +983,5 @@
     "name": "Awesome ChatGPT",
     "url": "https://github.com/sindresorhus/awesome-chatgpt",
     "description": "Another awesome list for ChatGPT."
-  },
-  {
-    "name": "Auto-GPT",
-    "url": "https://github.com/Torantulino/Auto-GPT",
-    "description": "An experimental open-source attempt to make GPT-4 fully autonomous."
-  },
-  {
-    "name": "babyagi",
-    "url": "https://github.com/yoheinakajima/babyagi",
-    "description": "An AI-powered task management system."
-  },
-  {
-    "name": "AgentGPT",
-    "url": "https://github.com/reworkd/AgentGPT",
-    "description": "Assemble, configure, and deploy autonomous AI Agents in your browser."
-  },
-  {
-    "name": "GPT Engineer",
-    "url": "https://github.com/AntonOsika/gpt-engineer",
-    "description": "Specify what you want it to build, the AI asks for clarification, and then builds it."
-  },
-  {
-    "name": "GPT Prompt Engineer",
-    "url": "https://github.com/mshumer/gpt-prompt-engineer",
-    "description": "Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones."
-  },
-  {
-    "name": "MetaGPT",
-    "url": "https://github.com/geekan/MetaGPT",
-    "description": "The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo."
   }
 ]
