@@ -2425,6 +2425,11 @@
     "description": "Powerful decentralized file sharing applications built from a large ecosystem of modules. (Source Code) MIT Nodejs"
   },
   {
+    "name": "Deluge",
+    "url": "https://deluge-torrent.org/",
+    "description": "Lightweight, cross-platform BitTorrent client. (Source Code) GPL-3.0 Python/deb"
+  },
+  {
     "name": "instant.io",
     "url": "https://github.com/webtorrent/instant.io",
     "description": "Streaming file transfer over WebTorrent. (Demo) MIT Nodejs"
@@ -4678,6 +4683,11 @@
     "name": "reciphpes!",
     "url": "https://github.com/nanawel/reciphpes",
     "description": "A lightweight, Symfony-based recipes indexing software supporting search and tags, using a SQLite database. MIT Docker/Nodejs"
+  },
+  {
+    "name": "Specifically Clementines",
+    "url": "https://davideshay.github.io/groceries/",
+    "description": "Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. (Demo, Source Code) MIT Docker"
   },
   {
     "name": "Tandoor Recipes",

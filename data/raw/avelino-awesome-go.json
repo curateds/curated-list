@@ -3130,11 +3130,6 @@
   },
   {
     "name": "errors",
-    "url": "https://github.com/pkg/errors",
-    "description": "Package that provides simple error handling primitives."
-  },
-  {
-    "name": "errors",
     "url": "https://github.com/neuronlabs/errors",
     "description": "Simple golang error handling with classification primitives."
   },
@@ -3692,6 +3687,11 @@
     "name": "jennifer",
     "url": "https://github.com/dave/jennifer",
     "description": "Generate arbitrary Go code without templates."
+  },
+  {
+    "name": "oapi-codegen",
+    "url": "https://github.com/deepmap/oapi-codegen",
+    "description": "This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions."
   },
   {
     "name": "typeregistry",
@@ -6633,6 +6633,11 @@
     "description": "TCP Server Framework with simultaneous full duplex communication, graceful shutdown, and custom protocol."
   },
   {
+    "name": "fast-shot",
+    "url": "https://github.com/opus-domini/fast-shot",
+    "description": "Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client."
+  },
+  {
     "name": "gentleman",
     "url": "https://github.com/h2non/gentleman",
     "description": "Full-featured plugin-driven HTTP client library."
@@ -8826,6 +8831,11 @@
     "name": "go-postman-collection",
     "url": "https://github.com/rbretecher/go-postman-collection",
     "description": "Go module to work with Postman Collections (compatible with Insomnia)."
+  },
+  {
+    "name": "go-redoc",
+    "url": "https://github.com/mvrilo/go-redoc",
+    "description": "Embedded OpenAPI/Swagger documentation ui for Go using ReDoc."
   },
   {
     "name": "go-restcountries",
@@ -11477,6 +11487,16 @@
     "description": "Jenkins CLI allows you manage your Jenkins as an easy way."
   },
   {
+    "name": "k3d",
+    "url": "https://github.com/k3d-io/k3d",
+    "description": "Little helper to run CNCF's k3s in Docker."
+  },
+  {
+    "name": "k3s",
+    "url": "https://github.com/k3s-io/k3s",
+    "description": "Lightweight Kubernetes."
+  },
+  {
     "name": "k6",
     "url": "https://github.com/grafana/k6",
     "description": "A modern load testing tool, using Go and JavaScript."
@@ -11755,6 +11775,11 @@
     "name": "Duplicacy",
     "url": "https://github.com/gilbertchen/duplicacy",
     "description": "A cross-platform network and cloud backup tool based on the idea of lock-free deduplication."
+  },
+  {
+    "name": "fjira",
+    "url": "https://github.com/mk-5/fjira",
+    "description": "A fuzzy-search based terminal UI application for Attlasian Jira"
   },
   {
     "name": "Gebug",
@@ -12273,6 +12298,11 @@
     "name": "Go Succinctly",
     "url": "https://github.com/thedevsir/gosuccinctly",
     "description": "in Persian."
+  },
+  {
+    "name": "Go with the domain",
+    "url": "https://threedots.tech/go-with-the-domain/",
+    "description": "A book showing how to apply DDD, Clean Architecture, and CQRS by practical refactoring."
   },
   {
     "name": "GoBooks",

@@ -67,6 +67,11 @@
     "description": "For discussions of using Embedded Rust on ATSAMD devices"
   },
   {
+    "name": "#ethercrab:matrix.org",
+    "url": "https://matrix.to/#/#ethercrab:matrix.org",
+    "description": "For discussion of general EtherCAT and the Rust implementation, EtherCrab"
+  },
+  {
     "name": "The Embedded Rust Book",
     "url": "https://rust-embedded.github.io/book/",
     "description": "An introductory book about using the Rust Programming Language on \"Bare Metal\" embedded systems, such as Microcontrollers."
@@ -2278,6 +2283,10 @@
   {
     "name": "endian_codec",
     "url": "https://crates.io/crates/endian_codec"
+  },
+  {
+    "name": "ethercrab",
+    "url": "https://github.com/ethercrab-rs/ethercrab"
   },
   {
     "name": "fixed-fft",

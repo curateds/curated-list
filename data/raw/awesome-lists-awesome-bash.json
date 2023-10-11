@@ -329,6 +329,11 @@
     "description": "implementation of async functions in bash"
   },
   {
+    "name": "bashunit",
+    "url": "https://github.com/TypedDevs/bashunit",
+    "description": "A simple but powerful testing library for bash scripts"
+  },
+  {
     "name": "bats",
     "url": "https://github.com/sstephenson/bats",
     "description": "Bash Automated Testing System"
