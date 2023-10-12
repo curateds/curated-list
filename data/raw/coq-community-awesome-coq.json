@@ -110,6 +110,11 @@
     "description": "Experimental language server and extension for the Visual Studio Code and VSCodium editors."
   },
   {
+    "name": "Waterproof editor",
+    "url": "https://github.com/impermeable/waterproof",
+    "description": "Educational environment for writing mathematical proofs in interactive notebooks."
+  },
+  {
     "name": "ALEA",
     "url": "https://github.com/coq-community/alea",
     "description": "Library for reasoning on randomized algorithms."
@@ -305,9 +310,9 @@
     "description": "Extension framework based on λProlog providing an extensive API to implement commands and tactics."
   },
   {
-    "name": "coq-waterproof",
+    "name": "Waterproof proof language",
     "url": "https://github.com/impermeable/coq-waterproof",
-    "description": "Plugin for writing Coq proof scripts in a style that resembles non-mechanized mathematical proof."
+    "description": "Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof."
   },
   {
     "name": "CoqHammer",

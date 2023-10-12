@@ -1459,11 +1459,6 @@
     "description": "Template to enable crystal as first class citizens in OpenFaaS"
   },
   {
-    "name": "FaaStRuby",
-    "url": "https://faastruby.io",
-    "description": "Serverless Software Development Platform for Ruby and Crystal"
-  },
-  {
     "name": "secrets-env",
     "url": "https://github.com/spider-gazelle/secrets-env",
     "description": "Extends ENV module to read values injected by docker / kubernetes secrets and other orchestration tools"
@@ -1909,16 +1904,6 @@
     "name": "Crystal [ANN]",
     "url": "https://crystal-ann.com",
     "description": "Announce new project, blog post, version update or any other Crystal work"
-  },
-  {
-    "name": "crystalshards.herokuapp.com",
-    "url": "https://crystalshards.herokuapp.com/",
-    "description": "Web services that list all available Crystal shards"
-  },
-  {
-    "name": "Crystular",
-    "url": "http://www.crystular.org",
-    "description": "Regular expression tester"
   },
   {
     "name": "DeBot",

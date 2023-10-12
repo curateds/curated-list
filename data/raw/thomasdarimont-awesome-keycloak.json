@@ -500,6 +500,10 @@
     "url": "https://github.com/TNG/keycloak-mock"
   },
   {
+    "name": ".NET / C# Keycloak.RestApiClient",
+    "url": "https://github.com/fschick/Keycloak.RestApiClient"
+  },
+  {
     "name": "Keycloak Extensions List",
     "url": "https://www.keycloak.org/extensions.html"
   },
@@ -972,6 +976,11 @@
   {
     "name": "Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi)",
     "url": "https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics"
+  },
+  {
+    "name": "How to: Keycloak - ASP.NET Core - Angular",
+    "url": "https://github.com/fschick/Keycloak.ASPNet.Angular",
+    "description": "ASP.NET Core - Angular"
   },
   {
     "name": "Gatling based Benchmark by @rvansa",

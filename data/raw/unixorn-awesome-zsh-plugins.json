@@ -575,6 +575,11 @@
     "description": "Allows you to easily create and manage aliases from the command line."
   },
   {
+    "name": "alias-snippet-toolkit",
+    "url": "https://github.com/tapyu/zsh-alias-snippet-toolkit",
+    "description": "Creates snippets, expand alias/snippets, and remind you about them."
+  },
+  {
     "name": "alias-tips",
     "url": "https://github.com/djui/alias-tips",
     "description": "An oh-my-zsh plugin to help remembering those aliases you defined once."
@@ -4514,6 +4519,11 @@
     "description": "A ZSH abbreviation expansion plugin."
   },
   {
+    "name": "zautoload",
+    "url": "https://github.com/Doc0x1/zautoload",
+    "description": "Autoloader for ZSH config files."
+  },
+  {
     "name": "zaw",
     "url": "https://github.com/zsh-users/zaw",
     "description": "ZSH anything.el-like widget."
@@ -5377,6 +5387,11 @@
     "name": "newman",
     "url": "https://github.com/selop/newman-autocomplete",
     "description": "Provides autocompletion for the Newman CLI."
+  },
+  {
+    "name": "ngrok",
+    "url": "https://github.com/bostonaholic/ngrok.plugin.zsh",
+    "description": "Auto-loads ngrok and its completions into the shell."
   },
   {
     "name": "nix",
@@ -6830,7 +6845,7 @@
   {
     "name": "easytocloud",
     "url": "https://github.com/easytocloud/oh-my-easytocloud",
-    "description": "Based on agnoster, with an added AWS environment decorator."
+    "description": "Based on agnoster. Includes decorators for AWS environment, git status, username and the current directory."
   },
   {
     "name": "eckig",
@@ -7899,7 +7914,7 @@
   {
     "name": "lean",
     "url": "https://github.com/miekg/lean",
-    "description": "Inspired by pure. Includes git status and background job decorations."
+    "description": "Inspired by pure. Has decorators for git status information, exit status of last command run, and the elapsed time of last command."
   },
   {
     "name": "lemon",
@@ -9545,6 +9560,11 @@
     "name": "skgeek",
     "url": "https://github.com/skippyr/skgeek",
     "description": "Includes decorators for hostname, directory and git branch."
+  },
+  {
+    "name": "skiff",
+    "url": "https://github.com/xiaoshihou514/skiff",
+    "description": "Lightweight ZSH theme with git status and current directory decorators."
   },
   {
     "name": "skill (asafaeirad)",

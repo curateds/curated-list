@@ -820,11 +820,6 @@
     "description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. [BSD,Boost]"
   },
   {
-    "name": "Cpp-Taskflow",
-    "url": "https://github.com/cpp-taskflow/cpp-taskflow",
-    "description": "Fast C++ Parallel Programming with Task Dependencies. [MIT]"
-  },
-  {
     "name": "CUB",
     "url": "https://github.com/NVlabs/cub",
     "description": "CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [New BSD]"
@@ -958,6 +953,11 @@
     "name": "stdgpu",
     "url": "https://github.com/stotko/stdgpu",
     "description": "Efficient STL-like Data Structures on the GPU. [Apache2]"
+  },
+  {
+    "name": "Taskflow",
+    "url": "https://github.com/taskflow/taskflow",
+    "description": "A General-purpose Parallel and Heterogeneous Task Programming System. (renamed from Cpp-Taskflow) [MIT]"
   },
   {
     "name": "Thrust",

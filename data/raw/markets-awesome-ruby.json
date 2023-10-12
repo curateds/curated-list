@@ -2267,6 +2267,11 @@
     "description": "An HTML, XML, SAX, and Reader parser with XPath and CSS selector support."
   },
   {
+    "name": "Nokolexbor",
+    "url": "https://github.com/serpapi/nokolexbor",
+    "description": "High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath."
+  },
+  {
     "name": "Oga",
     "url": "https://gitlab.com/yorickpeterse/oga",
     "description": "An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms."
@@ -3051,6 +3056,11 @@
     "description": "Extends ActiveRecord to add simple support for organizing items into parent–children relationships."
   },
   {
+    "name": "ActsAsRecursiveTree",
+    "url": "https://github.com/1and1/acts_as_recursive_tree",
+    "description": "ActsAsTree but recursive."
+  },
+  {
     "name": "Ancestry",
     "url": "https://github.com/stefankroes/ancestry",
     "description": "Organise ActiveRecord model into a tree structure using a variation on the materialised path pattern."
@@ -3518,6 +3528,11 @@
     "name": "rufus-scheduler",
     "url": "https://github.com/jmettraux/rufus-scheduler",
     "description": "Job scheduler for Ruby (at, cron, in and every jobs)."
+  },
+  {
+    "name": "ruby-clock",
+    "url": "https://github.com/jjb/ruby-clock",
+    "description": "A job scheduler which runs jobs each in their own thread in a persistent process."
   },
   {
     "name": "Sidekiq-Cron",

@@ -1,10 +1,5 @@
 [
   {
-    "name": "Ackee",
-    "url": "https://ackee.electerious.com",
-    "description": "Self-hosted analytics tool for those who care about privacy. (Demo, Source Code) MIT Nodejs/Docker/K8S"
-  },
-  {
     "name": "Aptabase",
     "url": "https://aptabase.com/",
     "description": "Open source, privacy first and simple analytics for mobile and desktop apps. (Source Code) AGPL-3.0 Docker"
@@ -168,6 +163,11 @@
     "name": "Omeka S",
     "url": "https://omeka.org/s/",
     "description": "Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. (Source Code) GPL-3.0 Nodejs"
+  },
+  {
+    "name": "Wallabag",
+    "url": "https://www.wallabag.org",
+    "description": "Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. (Source Code) MIT PHP"
   },
   {
     "name": "Wayback",
@@ -785,11 +785,6 @@
     "description": "Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. (Source Code) GPL-3.0 C++"
   },
   {
-    "name": "StoneAge Messenger",
-    "url": "https://cweb.gitlab.io/StoneAge.html",
-    "description": "A self-hosted Android messenger, S3-compatible storage is the only backend needed. (Source Code, Clients) GPL-3.0 Java"
-  },
-  {
     "name": "Synapse",
     "url": "https://matrix-org.github.io/synapse/latest/",
     "description": "Server for Matrix, an open standard for decentralized persistent communication. (Source Code) Apache-2.0 Python"
@@ -988,11 +983,6 @@
     "name": "MailCatcher",
     "url": "https://mailcatcher.me/",
     "description": "Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. (Source Code) MIT Ruby"
-  },
-  {
-    "name": "Maildrop",
-    "url": "https://gitlab.com/markbeeson/maildrop",
-    "description": "Disposable email SMTP server, also useful for development. MIT Scala"
   },
   {
     "name": "OpenSMTPD",
@@ -1290,11 +1280,6 @@
     "description": "Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. (Demo, Source Code) AGPL-3.0 Docker/Nodejs"
   },
   {
-    "name": "Commento",
-    "url": "https://gitlab.com/commento/commento",
-    "description": "Commento is a discussion platform that you can embed on your blog, news articles, and any place where you want your readers to add comments. MIT Go/Docker"
-  },
-  {
     "name": "Coral",
     "url": "https://coralproject.net/",
     "description": "A better commenting experience from Vox Media. (Source Code) Apache-2.0 Docker/Nodejs"
@@ -1520,11 +1505,6 @@
     "description": "WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. (Source Code) Apache-2.0 Java/deb"
   },
   {
-    "name": "LiveKit",
-    "url": "https://livekit.io/",
-    "description": "Modern, scalable WebRTC conferencing platform with client SDKs. (Demo, Source Code) Apache-2.0 Go"
-  },
-  {
     "name": "MiroTalk C2C",
     "url": "https://c2c.mirotalk.com",
     "description": "Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. (Source Code) MIT Nodejs/Docker"
@@ -1607,7 +1587,7 @@
   {
     "name": "ACP Admin",
     "url": "https://acp-admin.ch/",
-    "description": "CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails. (Source Code) MIT Ruby"
+    "description": "CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French). (Source Code) MIT Ruby"
   },
   {
     "name": "FoodCoopShop",
@@ -2290,6 +2270,11 @@
     "description": "A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. BSD-3-Clause Python"
   },
   {
+    "name": "Readflow",
+    "url": "https://readflow.app",
+    "description": "Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... (Source Code) MIT Go/Docker"
+  },
+  {
     "name": "RSS-Bridge",
     "url": "https://github.com/RSS-Bridge/rss-bridge",
     "description": "Generate RSS/ATOM feeds for websites which don't have one. Unlicense PHP/Docker"
@@ -2820,11 +2805,6 @@
     "description": "Webtrees is the web's leading on-line collaborative genealogy application. (Demo, Source Code) GPL-3.0 PHP"
   },
   {
-    "name": "BlueMind",
-    "url": "https://www.bluemind.net/en/",
-    "description": "Groupware with email, calendar, address books, exchange active sync, exchange MAPI protocol support. (Source Code) AGPL-3.0 Java"
-  },
-  {
     "name": "Citadel",
     "url": "https://www.citadel.org/",
     "description": "Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. (Source Code) GPL-3.0 C/Docker/Shell"
@@ -3070,6 +3050,36 @@
     "description": "RosarioSIS, free Student Information System for school management. (Demo, Source Code) GPL-2.0 PHP"
   },
   {
+    "name": "CNCjs",
+    "url": "https://cnc.js.org/",
+    "description": "A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. (Source Code) MIT Nodejs"
+  },
+  {
+    "name": "CNCjs",
+    "url": "https://cnc.js.org/",
+    "description": "A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. (Source Code) MIT Nodejs"
+  },
+  {
+    "name": "Fluidd",
+    "url": "https://docs.fluidd.xyz/",
+    "description": "Lightweight & responsive user interface for Klipper, the 3D printer firmware. (Source Code) GPL-3.0 Docker/Nodejs"
+  },
+  {
+    "name": "Mainsail",
+    "url": "https://docs.mainsail.xyz/",
+    "description": "A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. (Source Code) GPL-3.0 Docker/Python"
+  },
+  {
+    "name": "Octoprint",
+    "url": "https://octoprint.org/",
+    "description": "A snappy web interface for controlling consumer 3D printers. (Source Code) AGPL-3.0 Docker/Python"
+  },
+  {
+    "name": "VanDAM",
+    "url": "https://github.com/Floppy/van_dam",
+    "description": "Digital asset manager for 3d print files; STL, OBJ, 3MF and more. MIT Docker"
+  },
+  {
     "name": "Bicimon",
     "url": "https://github.com/knrdl/bicimon",
     "description": "Bike Speedometer as Progressive Web App. (Demo) MIT Javascript"
@@ -3105,11 +3115,6 @@
     "description": "High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. (Demo, Source Code) BSD-2-Clause C++"
   },
   {
-    "name": "OpenGTS",
-    "url": "http://www.opengts.org/",
-    "description": "Entry-level fleet tracking system. Supports variety of tracking devices and protocols. Comes with rich web-interface and reporting features. (Demo, Source Code) Apache-2.0 Java"
-  },
-  {
     "name": "OpenRouteService",
     "url": "https://openrouteservice.org/",
     "description": "Selfhosted route service with directions, isochrones, time-distance matrix, route optimization, etc. (Demo, Source Code) GPL-3.0 Docker/Java"
@@ -3143,11 +3148,6 @@
     "name": "μlogger",
     "url": "https://github.com/bfabiszewski/ulogger-server",
     "description": "Collect geolocation from users in real-time and display their GPS tracks on a website. (Demo) GPL-3.0 PHP"
-  },
-  {
-    "name": "Airsonic Advanced",
-    "url": "https://github.com/airsonic-advanced/airsonic-advanced",
-    "description": "Open-source web-based media streamer and jukebox based on Airsonic, with several key performance and feature enhancements. GPL-3.0 Java/Docker"
   },
   {
     "name": "Ampache",
@@ -3405,16 +3405,6 @@
     "description": "Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. AGPL-3.0 Nodejs"
   },
   {
-    "name": "Oddworks",
-    "url": "https://gitlab.com/oddnetworks/oddworks/core",
-    "description": "Oddworks is an open source video distribution platform built to destroy the barriers to streaming television with SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV. MIT Nodejs"
-  },
-  {
-    "name": "Olaris",
-    "url": "https://gitlab.com/olaris/olaris-server",
-    "description": "Olaris is an open-source, community driven, media manager and transcoding server. GPL-3.0 Go/Docker"
-  },
-  {
     "name": "Open Streaming Platform",
     "url": "https://openstreamingplatform.com",
     "description": "Live and on-demand video streaming (alternative to Twitch and Youtube Live). (Source Code) MIT Python"
@@ -3443,11 +3433,6 @@
     "name": "Restreamer",
     "url": "https://datarhei.github.io/restreamer/",
     "description": "Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider. (Source Code) Apache-2.0 Nodejs/Docker"
-  },
-  {
-    "name": "ShinobiCE",
-    "url": "https://gitlab.com/Shinobi-Systems/ShinobiCE",
-    "description": "Open Source CCTV software written in Node with both IP and local camera support. AGPL-3.0/GPL-3.0 Nodejs"
   },
   {
     "name": "SRS",
@@ -3543,11 +3528,6 @@
     "name": "CyberChef",
     "url": "https://github.com/gchq/CyberChef",
     "description": "Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. (Demo) Apache-2.0 Javascript"
-  },
-  {
-    "name": "DailyTxT",
-    "url": "https://github.com/PhiTux/DailyTxT",
-    "description": "Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. MIT Docker"
   },
   {
     "name": "DomainMOD",
@@ -3750,11 +3730,6 @@
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. (Demo, Source Code) MIT Docker/Nodejs"
   },
   {
-    "name": "Readflow",
-    "url": "https://readflow.app",
-    "description": "Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... (Source Code) MIT Go/Docker"
-  },
-  {
     "name": "ReleaseBell",
     "url": "https://releasebell.com/",
     "description": "Send release notifications for starred Github repos. (Source Code) MIT Nodejs"
@@ -3800,19 +3775,9 @@
     "description": "A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. MIT Go/Docker"
   },
   {
-    "name": "VanDAM",
-    "url": "https://github.com/Floppy/van_dam",
-    "description": "Digital asset manager for 3d print files; STL, OBJ, 3MF and more. MIT Ruby/Docker"
-  },
-  {
     "name": "ViMbAdmin",
     "url": "https://www.vimbadmin.net/",
     "description": "Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases. (Source Code) GPL-3.0 PHP"
-  },
-  {
-    "name": "Wallabag",
-    "url": "https://www.wallabag.org",
-    "description": "Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. (Source Code) MIT PHP"
   },
   {
     "name": "Watcharr",
@@ -3978,6 +3943,11 @@
     "name": "Benotes",
     "url": "https://benotes.org/",
     "description": "An open source self hosted notes and bookmarks taking web app. (Source Code) MIT PHP/Docker"
+  },
+  {
+    "name": "DailyTxT",
+    "url": "https://github.com/PhiTux/DailyTxT",
+    "description": "Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. MIT Docker"
   },
   {
     "name": "dillinger",
@@ -5292,7 +5262,7 @@
   {
     "name": "Pagure",
     "url": "https://pagure.io/pagure",
-    "description": "A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. (Demo) GPL-2.0 Python"
+    "description": "A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. (Demo) GPL-2.0 Docker/Python"
   },
   {
     "name": "Phorge",

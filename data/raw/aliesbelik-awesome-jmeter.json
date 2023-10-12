@@ -547,6 +547,26 @@
     "description": "Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators)."
   },
   {
+    "name": "JUnit KPI Reporter from JMeter CSV Report",
+    "url": "https://github.com/vdaburon/JUnitReportKpiJMeterReportCsv",
+    "description": "Tool to generate JUnit Report based on custom KPIs applied to the JMeter Report CSV file."
+  },
+  {
+    "name": "JUnit KPI Reporter from JMeter CSV Report",
+    "url": "https://github.com/vdaburon/JUnitReportKpiJMeterReportCsv",
+    "description": "Tool to generate JUnit Report based on custom KPIs applied to the JMeter Report CSV file."
+  },
+  {
+    "name": "JUnit KPI Reporter from JMeter Dashboard Statistics JSON File",
+    "url": "https://github.com/vdaburon/JUnitReportKpiJMeterDashboardStats",
+    "description": "Tool to generate JUnit Report based on custom KPIs applied to the JMeter Dashboard Statistics JSON file."
+  },
+  {
+    "name": "JUnit Report Compare 2 JMeter Report CSV Files",
+    "url": "https://github.com/vdaburon/JUnitReportKpiCompareJMeterReportCsv",
+    "description": "Tool to compare 2 load tests using JMeter Report CSV files and create a JUnit Report based on custom KPIs."
+  },
+  {
     "name": "Using JMeter with InfluxDB & Grafana",
     "url": "https://www.vinsguru.com/category/influxdb/",
     "description": "Collection of guides to collect and visualize real-time test results and server monitoring stats using InfluxDB & Grafana."

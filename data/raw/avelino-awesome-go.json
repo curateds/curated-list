@@ -5058,6 +5058,11 @@
     "description": "A powerful zero-dependency JSON logger."
   },
   {
+    "name": "zl",
+    "url": "https://github.com/nkmr-jp/zl",
+    "description": "High Developer Experience, zap based logger. It offers rich functionality but is easy to configure."
+  },
+  {
     "name": "bayesian",
     "url": "https://github.com/jbrukh/bayesian",
     "description": "Naive Bayesian Classification for Golang."
@@ -6596,6 +6601,11 @@
     "name": "tcp_server",
     "url": "https://github.com/firstrow/tcp_server",
     "description": "Go library for building tcp servers faster."
+  },
+  {
+    "name": "tcpack",
+    "url": "https://github.com/lim-yoona/tcpack",
+    "description": "tcpack is an application protocol based on TCP to Pack and Unpack bytes stream in go program."
   },
   {
     "name": "tspool",

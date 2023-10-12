@@ -329,13 +329,8 @@
     "description": "implementation of async functions in bash"
   },
   {
-    "name": "bashunit",
-    "url": "https://github.com/TypedDevs/bashunit",
-    "description": "A simple but powerful testing library for bash scripts"
-  },
-  {
     "name": "bats",
-    "url": "https://github.com/sstephenson/bats",
+    "url": "https://github.com/bats-core/bats-core",
     "description": "Bash Automated Testing System"
   },
   {
@@ -374,8 +369,8 @@
     "description": "an easy to use DSL library for building BASH-based tooling & installers (900+ functions)."
   },
   {
-    "name": "BashScriptTestingLibrary",
-    "url": "https://github.com/rafritts/BashScriptTestingLibrary",
+    "name": "bunit",
+    "url": "https://github.com/rafritts/bunit",
     "description": "A unit testing framework for Bash scripts"
   },
   {
@@ -422,6 +417,11 @@
     "name": "DevOps-Bash-tools",
     "url": "https://github.com/HariSekhon/DevOps-Bash-tools",
     "description": "750+ DevOps Shell Scripts and Advanced Bash environment"
+  },
+  {
+    "name": "modernish",
+    "url": "https://github.com/modernish/modernish",
+    "description": "library with various features for shell scripting"
   },
   {
     "name": "pokeget",
