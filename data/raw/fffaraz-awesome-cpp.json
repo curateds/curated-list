@@ -810,6 +810,11 @@
     "description": "A C++ template library optimized for GPUs. [Apache2]"
   },
   {
+    "name": "Channel",
+    "url": "https://github.com/andreiavrammsd/cpp-channel",
+    "description": "Thread-safe container for sharing data between threads. [MIT]"
+  },
+  {
     "name": "ck",
     "url": "https://github.com/concurrencykit/ck",
     "description": "Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [BSD]"

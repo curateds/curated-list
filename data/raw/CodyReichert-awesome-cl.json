@@ -1425,7 +1425,15 @@
   {
     "name": "Practical Common Lisp",
     "url": "http://www.gigamonkeys.com/book/",
-    "description": "A good introductory text to Common Lisp, with practical examples. Better read with a Firefox add-on."
+    "description": "A good introductory text to Common Lisp, with practical examples."
+  },
+  {
+    "name": "a Firefox add-on: Practical-cl beautified",
+    "url": "https://github.com/vale981/practical-cl-beautified"
+  },
+  {
+    "name": "Chinese simplified",
+    "url": "https://binghe.github.io/pcl-cn/"
   },
   {
     "name": "Common LISP: A Gentle Introduction to Symbolic Computation",
@@ -2551,8 +2559,8 @@
   },
   {
     "name": "lparallel",
-    "url": "https://github.com/lmj/lparallel",
-    "description": "A library for parallel programming. 3-clause BSD."
+    "url": "https://github.com/sharplispers/lparallel",
+    "description": "A library for parallel programming. 3-clause BSD. Originally on lmj/lparallel."
   },
   {
     "name": "lfarm",
