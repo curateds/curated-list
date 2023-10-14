@@ -265,6 +265,11 @@
     "description": "Templates for generating configuration files for Coq projects."
   },
   {
+    "name": "Debian Coq packages",
+    "url": "https://people.debian.org/~jpuydt/coq_platform.html",
+    "description": "Coq-related packages available in the testing distribution of Debian."
+  },
+  {
     "name": "Docker-Coq",
     "url": "https://github.com/coq-community/docker-coq",
     "description": "Docker images for many versions of Coq."

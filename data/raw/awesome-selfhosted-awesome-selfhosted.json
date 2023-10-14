@@ -3365,11 +3365,6 @@
     "description": "Self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. (Demo, Source Code) MIT Nodejs"
   },
   {
-    "name": "Bluecherry",
-    "url": "https://www.bluecherrydvr.com/",
-    "description": "Closed-circuit television (CCTV) software application which supports IP and Analog cameras. (Source Code) GPL-2.0 PHP"
-  },
-  {
     "name": "cmyflix",
     "url": "https://github.com/farfalleflickan/cmyflix",
     "description": "Self-hosted, super lightweight Netflix alternative. AGPL-3.0 C"
@@ -3380,19 +3375,9 @@
     "description": "CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. (Demo) MIT Nodejs"
   },
   {
-    "name": "Frigate",
-    "url": "https://frigate.video/",
-    "description": "Monitor your security cameras with locally processed AI. (Source Code) MIT Docker/Python/Nodejs"
-  },
-  {
     "name": "Invidious",
     "url": "https://github.com/iv-org/invidious",
     "description": "Alternative YouTube front-end. (Demo) AGPL-3.0 Docker/Crystal"
-  },
-  {
-    "name": "Kerberos.io",
-    "url": "https://kerberos.io",
-    "description": "Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). (Demo, Source Code) MIT Docker/K8S"
   },
   {
     "name": "MediaCMS",
@@ -3458,11 +3443,6 @@
     "name": "VideoLAN Client (VLC)",
     "url": "https://www.videolan.org/",
     "description": "Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. (Source Code) GPL-2.0 C/deb"
-  },
-  {
-    "name": "Zoneminder",
-    "url": "https://www.zoneminder.com/",
-    "description": "Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. (Source Code) GPL-2.0 PHP/deb"
   },
   {
     "name": "2FAuth",
@@ -4397,7 +4377,7 @@
   {
     "name": "Damselfly",
     "url": "https://damselfly.info",
-    "description": "Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. GPL-3.0 Docker/C#/.NET"
+    "description": "Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. (Source Code) GPL-3.0 Docker/C#/.NET"
   },
   {
     "name": "HomeGallery",
@@ -5633,6 +5613,26 @@
     "name": "YOURLS",
     "url": "https://yourls.org/",
     "description": "YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. (Source Code) MIT PHP"
+  },
+  {
+    "name": "Bluecherry",
+    "url": "https://www.bluecherrydvr.com/",
+    "description": "Closed-circuit television (CCTV) software application which supports IP and Analog cameras. (Source Code) GPL-2.0 PHP"
+  },
+  {
+    "name": "Frigate",
+    "url": "https://frigate.video/",
+    "description": "Monitor your security cameras with locally processed AI. (Source Code) MIT Docker/Python/Nodejs"
+  },
+  {
+    "name": "Kerberos.io",
+    "url": "https://kerberos.io",
+    "description": "Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). (Demo, Source Code) MIT Docker/K8S"
+  },
+  {
+    "name": "Zoneminder",
+    "url": "https://www.zoneminder.com/",
+    "description": "Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. (Source Code) GPL-2.0 PHP/deb"
   },
   {
     "name": "AmuseWiki",

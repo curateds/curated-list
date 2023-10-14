@@ -213,11 +213,6 @@
     "description": "Localized validation and ready-to-use translation PO files."
   },
   {
-    "name": "ShadowTranslate plugin",
-    "url": "https://github.com/AD7six/cakephp-shadow-translate",
-    "description": "A plugin with shadow table based replacement for core's Translate behavior."
-  },
-  {
     "name": "Translate plugin",
     "url": "https://github.com/dereuromark/cakephp-translate",
     "description": "Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API."
@@ -325,7 +320,7 @@
   {
     "name": "OPCache Preloader",
     "url": "https://github.com/cnizzardini/cakephp-preloader",
-    "description": "An OPCache Preloader for CakePHP 4.x applications."
+    "description": "An OPCache Preloader for CakePHP applications."
   },
   {
     "name": "Setup:Maintenance",
@@ -528,11 +523,6 @@
     "description": "An empty CakePHP project for use with composer."
   },
   {
-    "name": "MixerApi/Bake",
-    "url": "https://github.com/mixerapi/bake",
-    "description": "Bake theme for generating RESTful controllers."
-  },
-  {
     "name": "Ratings plugin",
     "url": "https://github.com/dereuromark/cakephp-ratings",
     "description": "Allows users to rate records and displays ratings."
@@ -605,7 +595,7 @@
   {
     "name": "CakePHP Docker",
     "url": "https://github.com/cnizzardini/cakephp-docker",
-    "description": "A cakephp/app template for docker and kubernetes setup."
+    "description": "A cakephp/app template for docker."
   },
   {
     "name": "CakePHP Vagrant Setup",

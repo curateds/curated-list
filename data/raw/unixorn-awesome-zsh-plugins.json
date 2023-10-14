@@ -238,6 +238,10 @@
     "url": "https://github.com/zakariaGatter/zshing"
   },
   {
+    "name": "zsh-dot-plugin",
+    "url": "https://github.com/DuckzCantFly/zsh-dot-plugin"
+  },
+  {
     "name": "zshPlug",
     "url": "https://github.com/Atlas34/zshPlug"
   },
@@ -2723,7 +2727,7 @@
   {
     "name": "lux",
     "url": "https://github.com/pndurette/zsh-lux",
-    "description": "ZSH plugin to toggle the light & dark modes of macOS, iTerm 2, Visual Studio Code and other items and applications via the lux command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a macos_is_dark helper function to determine if the macOS dark mode is active for use in theming.  ✖   747:52   List item description must start with valid casing            remark-lint:awesome-list-item"
+    "description": "ZSH plugin to toggle the light & dark modes of macOS, iTerm 2, Visual Studio Code and other items and applications via the lux command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a macos_is_dark helper function to determine if the macOS dark mode is active for use in theming."
   },
   {
     "name": "mac-packaging",
@@ -3186,14 +3190,14 @@
     "description": "Automatically switch between php versions using php-version if an rc-file is present in a directory."
   },
   {
+    "name": "php-version-switcher",
+    "url": "https://github.com/Akollade/php-version-switcher.plugin.zsh",
+    "description": "Changes php versions if a .php-version file is found."
+  },
+  {
     "name": "phpcs",
     "url": "https://github.com/voronkovich/phpcs.plugin.zsh",
     "description": "Plugin for PHP code sniffer."
-  },
-  {
-    "name": "phpenv",
-    "url": "https://github.com/sptndc/phpenv.plugin.zsh",
-    "description": "Auto-load phpenv and its completions."
   },
   {
     "name": "phpunit",
@@ -5914,11 +5918,6 @@
     "name": "amplify",
     "url": "https://github.com/clintfoster/ohmyzsh-theme-amplify",
     "description": "Minimalist, includes AWS Amplify envioronment and git status decorations.- andy - Modified bira theme with better git support."
-  },
-  {
-    "name": "angry fly",
-    "url": "https://github.com/russjohnson/angry-fly-zsh",
-    "description": "Shows git information in the right hand prompt."
   },
   {
     "name": "antoinechab",
