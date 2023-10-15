@@ -99,6 +99,11 @@
     "description": "A soundfont loader/player to play MIDI sounds using WebAudio API."
   },
   {
+    "name": "html-midi-player",
+    "url": "https://github.com/cifkao/html-midi-player",
+    "description": "HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed."
+  },
+  {
     "name": "Audion",
     "url": "https://github.com/google/audion",
     "description": "Chrome extension that adds a Web Audio panel to Developer Tools."

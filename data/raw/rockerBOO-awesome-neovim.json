@@ -1,15 +1,5 @@
 [
   {
-    "name": "tokiory/neovim-boilerplate",
-    "url": "https://github.com/tokiory/neovim-boilerplate",
-    "description": "Starter boilerplate for making new configurations."
-  },
-  {
-    "name": "frans-johansson/lazy-nvim-starter",
-    "url": "https://github.com/frans-johansson/lazy-nvim-starter",
-    "description": "Starter boilerplate with lazy plugin manager."
-  },
-  {
     "name": "lewis6991/pckr.nvim",
     "url": "https://github.com/lewis6991/pckr.nvim",
     "description": "Spiritual successor of wbthomason/packer.nvim."
@@ -3903,6 +3893,16 @@
     "name": "chrisgrieser/alfred-neovim-utilities",
     "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
     "description": "Search Neovim plugins and online :help via Alfred (macOS)."
+  },
+  {
+    "name": "tokiory/neovim-boilerplate",
+    "url": "https://github.com/tokiory/neovim-boilerplate",
+    "description": "Starter boilerplate for making new configurations."
+  },
+  {
+    "name": "frans-johansson/lazy-nvim-starter",
+    "url": "https://github.com/frans-johansson/lazy-nvim-starter",
+    "description": "Starter boilerplate with lazy plugin manager."
   },
   {
     "name": "Vimawesome",

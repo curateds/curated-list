@@ -94,10 +94,6 @@
     "url": "https://github.com/5paceToast/toasty-zsh"
   },
   {
-    "name": "tzpm",
-    "url": "https://github.com/notusknot/tzpm"
-  },
-  {
     "name": "uz",
     "url": "https://github.com/maxrodrigo/uz"
   },
@@ -5207,7 +5203,12 @@
   {
     "name": "git-profiles",
     "url": "https://github.com/baliestri/git-profiles.plugin.zsh",
-    "description": "managing multiple git users in a single .gitconfig file."
+    "description": "Manages multiple git users in a single .gitconfig file."
+  },
+  {
+    "name": "git-recent-branches",
+    "url": "https://github.com/Zacharyjlo/git-recent-branches",
+    "description": "Makes it easy to check view and checkout recently checked-out branches."
   },
   {
     "name": "github-cli",

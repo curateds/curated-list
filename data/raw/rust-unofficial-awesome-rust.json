@@ -57,6 +57,10 @@
     "url": "https://github.com/imjacobclark/Herd"
   },
   {
+    "name": "hickory-dns",
+    "url": "https://crates.io/crates/trust-dns"
+  },
+  {
     "name": "innernet",
     "url": "https://github.com/tonarino/innernet",
     "description": "An overlay or private mesh network that uses Wireguard under the hood"
@@ -131,10 +135,6 @@
   {
     "name": "tiny",
     "url": "https://github.com/osa1/tiny"
-  },
-  {
-    "name": "trust-dns",
-    "url": "https://crates.io/crates/trust-dns"
   },
   {
     "name": "wasmer",
@@ -1021,6 +1021,11 @@
   {
     "name": "m4b/bingrep",
     "url": "https://github.com/m4b/bingrep"
+  },
+  {
+    "name": "mdgaziur/findex",
+    "url": "https://github.com/mdgaziur/findex",
+    "description": "Findex is a highly customizable application finder written in Rust and uses GTK3"
   },
   {
     "name": "mitnk/cicada",

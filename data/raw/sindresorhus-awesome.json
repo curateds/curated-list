@@ -395,7 +395,13 @@
   },
   {
     "name": "Rust",
-    "url": "https://github.com/rust-unofficial/awesome-rust#readme"
+    "url": "https://github.com/rust-unofficial/awesome-rust#readme",
+    "description": "Parser generator."
+  },
+  {
+    "name": "Pest",
+    "url": "https://github.com/pest-parser/awesome-pest#readme",
+    "description": "Parser generator."
   },
   {
     "name": "Haskell",
@@ -610,6 +616,11 @@
     "name": "Move",
     "url": "https://github.com/MystenLabs/awesome-move#readme",
     "description": "Domain-specific programming language for writing safe smart contracts."
+  },
+  {
+    "name": "Esolangs",
+    "url": "https://github.com/angrykoala/awesome-esolangs#readme",
+    "description": "Programming languages designed for experimentation or as jokes rather than actual use."
   },
   {
     "name": "ES6 Tools",
@@ -2022,6 +2033,11 @@
     "description": "Intrusion detection/prevention system and network security monitoring engine."
   },
   {
+    "name": "Prompt Injection",
+    "url": "https://github.com/FonduAI/awesome-prompt-injection#readme",
+    "description": "A type of vulnerability that specifically targets machine learning models."
+  },
+  {
     "name": "Umbraco",
     "url": "https://github.com/umbraco-community/awesome-umbraco#readme"
   },
@@ -2763,11 +2779,6 @@
     "description": "Ad-free alternatives."
   },
   {
-    "name": "Esolangs",
-    "url": "https://github.com/angrykoala/awesome-esolangs#readme",
-    "description": "Programming languages designed for experimentation or as jokes rather than actual use."
-  },
-  {
     "name": "Prometheus",
     "url": "https://github.com/roaldnefs/awesome-prometheus#readme",
     "description": "Open-source monitoring system."
@@ -3012,6 +3023,11 @@
     "description": "Scientific and technical open-source publishing system built on Pandoc."
   },
   {
+    "name": "Biological Image Analysis",
+    "url": "https://github.com/hallvaaw/awesome-biological-image-analysis#readme",
+    "description": "Interpreting biological phenomena using images."
+  },
+  {
     "name": "ChatGPT",
     "url": "https://github.com/sindresorhus/awesome-chatgpt#readme",
     "description": "Artificial intelligence chatbot developed by OpenAI."
@@ -3025,6 +3041,11 @@
     "name": "Steam Deck",
     "url": "https://github.com/airscripts/awesome-steam-deck#readme",
     "description": "A handheld gaming computer developed by Valve."
+  },
+  {
+    "name": "HPC",
+    "url": "https://github.com/dstdev/awesome-hpc#readme",
+    "description": "High Performance Computing."
   },
   {
     "name": "All Awesome Lists",
