@@ -178,6 +178,11 @@
     "description": "Email transport plugin for sending email via Mailgun."
   },
   {
+    "name": "Queue plugin",
+    "url": "https://github.com/dereuromark/cakephp-queue",
+    "description": "A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure."
+  },
+  {
     "name": "FileStorage plugin",
     "url": "https://github.com/dereuromark/cakephp-file-storage",
     "description": "Flexible file storage and upload plugin."

@@ -790,6 +790,11 @@
     "description": "E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance."
   },
   {
+    "name": "echasnovski/mini.nvim#mini.pick",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md",
+    "description": "Module of mini.nvim with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more."
+  },
+  {
     "name": "kyazdani42/nvim-tree.lua",
     "url": "https://github.com/kyazdani42/nvim-tree.lua",
     "description": "A simple and fast file explorer tree."
@@ -1613,6 +1618,11 @@
     "name": "tjdevries/express_line.nvim",
     "url": "https://github.com/tjdevries/express_line.nvim",
     "description": "Supports co-routines, functions and jobs."
+  },
+  {
+    "name": "sontungexpt/sttusline",
+    "url": "https://github.com/sontungexpt/sttusline",
+    "description": "Very lightweight, super fast and lazyloading statusline."
   },
   {
     "name": "nvim-lualine/lualine.nvim",
@@ -3718,6 +3728,11 @@
     "name": "antonk52/bad-practices.nvim",
     "url": "https://github.com/antonk52/bad-practices.nvim",
     "description": "Helping you give up bad practices in Vim."
+  },
+  {
+    "name": "sontungexpt/stinvim",
+    "url": "https://github.com/sontungexpt/stinvim",
+    "description": "Ready Neovim's configuration for fullstack developers."
   },
   {
     "name": "Abstract-IDE/Abstract",

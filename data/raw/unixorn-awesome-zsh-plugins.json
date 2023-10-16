@@ -388,11 +388,6 @@
     "description": "slideshare presentation."
   },
   {
-    "name": "xVanjaZ",
-    "url": "https://github.com/xVanjaZ/xVanjaZ-ZSH-Theme",
-    "description": "wrote a quick setup document for oh-my-zsh beginners showing how to use the spaceship prompt, syntax highlighting at the prompt, autosuggestion and a custom iTerm 2 theme."
-  },
-  {
     "name": "zephyr",
     "url": "https://github.com/mattmc3/zephyr",
     "description": "Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more."
@@ -2281,6 +2276,11 @@
     "description": "Heuristic ZSH suggestion system based on past command usage."
   },
   {
+    "name": "hebzsh",
+    "url": "https://github.com/admons/hebzsh",
+    "description": "If a command is not found as typed in Hebrew, translates the command as if it was typed on a keyboard with a US English layout and tries again."
+  },
+  {
     "name": "hints",
     "url": "https://github.com/joepvd/zsh-hints",
     "description": "Display glob and parameter flags and other non completable info right under your editing buffer."
@@ -2383,7 +2383,7 @@
   {
     "name": "incsearch",
     "url": "https://github.com/aoyama-val/zsh-incsearch",
-    "description": "Friendlier vim mode for ZSH."
+    "description": "Friendlier vim mode for ZSH. Moves cursor with incremental search within current line."
   },
   {
     "name": "ing",

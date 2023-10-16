@@ -299,6 +299,11 @@
     "description": "A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools."
   },
   {
+    "name": "parens-8",
+    "url": "https://github.com/Siapran/parens-8",
+    "description": "Bypass the Lua token limit with a tiny lisp interpreter/compiler."
+  },
+  {
     "name": "midilib",
     "url": "https://www.lexaloffle.com/bbs/?cat=7#tag=midilib",
     "description": "Custom SFX instruments"
