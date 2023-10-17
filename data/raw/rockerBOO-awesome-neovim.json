@@ -1495,6 +1495,11 @@
     "description": "A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins."
   },
   {
+    "name": "oxfist/night-owl.nvim",
+    "url": "https://github.com/oxfist/night-owl.nvim",
+    "description": "A Night Owl colorscheme port from VSCode with support for Tree-sitter and semantic tokens."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."

@@ -472,6 +472,11 @@
     "description": "Warchaeology is a collection of tools for inspecting, manipulating, deduplicating and validating WARC-files. Stable"
   },
   {
+    "name": "warcdb",
+    "url": "https://github.com/florents-Tselai/warcdb",
+    "description": "A command line utility (Python) for importing WARC files into a SQLite database. (Stable)"
+  },
+  {
     "name": "warcdedupe",
     "url": "https://gitlab.com/taricorp/warcdedupe",
     "description": "WARC deduplication tool (and WARC library) written in Rust. (In Development)"

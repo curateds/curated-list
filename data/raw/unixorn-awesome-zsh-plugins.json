@@ -2331,7 +2331,12 @@
     "description": "Needs to be loaded after zsh-syntax-highlighting, or they'll both break. You'll also need to bind keys to its functions, details are in the README.md."
   },
   {
-    "name": "history-sync",
+    "name": "history-sync (vitobotta)",
+    "url": "https://github.com/vitobotta/zsh-history-sync/",
+    "description": "Syncs your ZSH history across computers using a git private repository."
+  },
+  {
+    "name": "history-sync (wulfgarpro)",
     "url": "https://github.com/wulfgarpro/history-sync",
     "description": "An oh-my-zsh plugin for GPG encrypted, Internet synchronized ZSH history using git."
   },
@@ -2431,14 +2436,14 @@
     "description": "Manage your iTerm 2's color scheme from the command line."
   },
   {
-    "name": "iterm2-tabs",
-    "url": "https://github.com/gimbo/iterm2-tabs.zsh",
-    "description": "Set colors and titles of iTerm 2 tabs."
-  },
-  {
     "name": "iterm2-shell-integration",
     "url": "https://github.com/gnachman/iterm2-shell-integration",
     "description": "Shell integration and utilities for iTerm2."
+  },
+  {
+    "name": "iterm2-tabs",
+    "url": "https://github.com/gimbo/iterm2-tabs.zsh",
+    "description": "Set colors and titles of iTerm 2 tabs."
   },
   {
     "name": "iterm2",
@@ -3101,14 +3106,14 @@
     "description": "Plugin for arch linux package managers."
   },
   {
-    "name": "package-any-node",
-    "url": "https://github.com/zdharma-continuum/zsh-package-any-node",
-    "description": "Easy installing of any Node modules inside the plugin directory, exposing their binaries via shims (i.e.: forwarder scripts) created automatically by Bin-Gem-Node annex."
-  },
-  {
     "name": "pack",
     "url": "https://github.com/fourdim/zsh-pack/",
     "description": "Pack your source code with ZSH."
+  },
+  {
+    "name": "package-any-node",
+    "url": "https://github.com/zdharma-continuum/zsh-package-any-node",
+    "description": "Easy installing of any Node modules inside the plugin directory, exposing their binaries via shims (i.e.: forwarder scripts) created automatically by Bin-Gem-Node annex."
   },
   {
     "name": "packer",
@@ -4461,14 +4466,14 @@
     "description": "Adds functions that wrap git worktree."
   },
   {
-    "name": "wsl",
-    "url": "https://github.com/florentinl/omz-wsl",
-    "description": "Adds helper functions to make it easier to work in ZSH when running inside WSL."
-  },
-  {
     "name": "wsl2-ssh-pageant",
     "url": "https://github.com/antoinemartin/wsl2-ssh-pageant-oh-my-zsh-plugin",
     "description": "Use your Yubikey stored GPG keys from WSL. This packages the instructions from wsl2-ssh-pageant repo as a ZSH plugin."
+  },
+  {
+    "name": "wsl",
+    "url": "https://github.com/florentinl/omz-wsl",
+    "description": "Adds helper functions to make it easier to work in ZSH when running inside WSL."
   },
   {
     "name": "xxh-plugin-zsh-zshrc",
@@ -8415,14 +8420,14 @@
     "description": "Minimal theme with git decorations. Based on robbyrussell."
   },
   {
-    "name": "neo",
-    "url": "https://github.com/Saeed-MFarahani/Neo-ZSH-Theme/",
-    "description": "Includes decorators for git status, current directory, user@hostname, time, and whether running as root."
-  },
-  {
     "name": "neo++",
     "url": "https://gitlab.com/migoa/neo",
     "description": "Simpler, more intuitive, and less clustered than the one above."
+  },
+  {
+    "name": "neo",
+    "url": "https://github.com/Saeed-MFarahani/Neo-ZSH-Theme/",
+    "description": "Includes decorators for git status, current directory, user@hostname, time, and whether running as root."
   },
   {
     "name": "neon-potato",

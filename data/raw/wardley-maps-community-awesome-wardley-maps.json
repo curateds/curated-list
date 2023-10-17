@@ -621,11 +621,6 @@
     "description": "A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available here."
   },
   {
-    "name": "Wemvula",
-    "url": "https://wemvu.la/docs/pg.why.us.php",
-    "description": "A visual transformation platform that provides the situational awareness to make sense of your interconnected web of needs, ideas, service components, supply contracts and change activities."
-  },
-  {
     "name": "Chat with your Map",
     "url": "https://chatwithwardleymap.streamlit.app/",
     "description": "Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up."
@@ -644,6 +639,11 @@
     "name": "Learn Wardley Mapping Bot",
     "url": "https://wardleymapbot.streamlit.app/",
     "description": "Learn Wardley Mapping by chatting to a specially configured bot."
+  },
+  {
+    "name": "Chat with Wardley YouTube content",
+    "url": "https://wardleygpt.streamlit.app/",
+    "description": "Have a chat with all of Simon's YouTube content."
   },
   {
     "name": "An Exploration into Wardley Mapping Language Code",
