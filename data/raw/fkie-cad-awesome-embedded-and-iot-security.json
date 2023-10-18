@@ -55,6 +55,11 @@
     "description": "Searches a binary for \"interesting\" stuff, as well as extracts arbitrary files."
   },
   {
+    "name": "cwe_checker",
+    "url": "https://github.com/fkie-cad/cwe_checker",
+    "description": "Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support."
+  },
+  {
     "name": "emba",
     "url": "https://github.com/e-m-b-a/emba",
     "description": "Analyze Linux-based firmware of embedded devices."
