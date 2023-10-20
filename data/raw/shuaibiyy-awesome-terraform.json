@@ -138,6 +138,11 @@
     "description": "Blog post describing security best practices when working with Terraform"
   },
   {
+    "name": "Building a SaaS API? Don't Forget Your Terraform Provider",
+    "url": "https://www.speakeasyapi.dev/post/build-terraform-providers",
+    "description": "Why you should write a terraform provider"
+  },
+  {
     "name": "Creating custom terraform providers",
     "url": "https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2",
     "description": "Guide for creating custom providers."
@@ -151,6 +156,11 @@
     "name": "Writing Custom Providers",
     "url": "https://www.terraform.io/docs/extend/writing-custom-providers.html",
     "description": "Official documentation for creating custom providers."
+  },
+  {
+    "name": "Terraform Provider Code generation",
+    "url": "https://www.speakeasyapi.dev/docs/create-terraform",
+    "description": "Guide to generating a terraform provider from an OpenAPI specification (Vendor Supported)"
   },
   {
     "name": "How To Write OPA for Terraform",
@@ -201,6 +211,11 @@
     "name": "Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management",
     "url": "https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?sk=495131c5831bc9276369150da5f3bc2c",
     "description": "How to use Infracost as the guardrail to manage cloud cost during Terraform development."
+  },
+  {
+    "name": "How To Wrap Your Terraform Provider for Pulumi",
+    "url": "https://www.speakeasyapi.dev/post/pulumi-terraform-provider",
+    "description": "Making your terraform provider pulumi-ready"
   },
   {
     "name": "Terraform Design Patterns: the Terrafile",
@@ -1547,6 +1562,11 @@
     "name": "yor",
     "url": "https://github.com/bridgecrewio/yor",
     "description": "Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless)."
+  },
+  {
+    "name": "Speakeasy",
+    "url": "https://www.speakeasyapi.dev/",
+    "description": "Generate a terraform provider from an OpenAPI specification."
   },
   {
     "name": "setup-terraform",

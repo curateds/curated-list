@@ -302,14 +302,24 @@
     "description": "No-captcha, privacy-friendly anti-spam, anti-bot API. Requires no personal data for detection. Supports popular platforms like WordPress. Privacy commitment in their mission statement."
   },
   {
-    "name": "Isso",
-    "url": "https://github.com/posativ/isso",
-    "description": "A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus."
-  },
-  {
     "name": "Commento",
     "url": "https://commento.io/",
     "description": "Commento is a fast, privacy-focused commenting platform. Can be selfhosted or use their SaaS."
+  },
+  {
+    "name": "Cusdis",
+    "url": "https://github.com/djyde/cusdis",
+    "description": "Lightweight, privacy-friendly alternative to Disqus."
+  },
+  {
+    "name": "Disgus",
+    "url": "https://github.com/carlitoplatanito/disgus",
+    "description": "Embeddable comments for your website, backed by Nostr. Like Disqus but Nostr."
+  },
+  {
+    "name": "Isso",
+    "url": "https://github.com/posativ/isso",
+    "description": "A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus."
   },
   {
     "name": "Remark42",

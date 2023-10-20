@@ -65,6 +65,11 @@
     "description": "Like a blanket being folded up, this function iterates a collection and in each step combines the current item with everything that has already been folded."
   },
   {
+    "name": "munch",
+    "url": "https://hackage.haskell.org/package/base-4.19.0.0/docs/Text-ParserCombinators-ReadP.html#v:munch",
+    "description": "Parser function that greedily consumes an input stream until it's satisfied."
+  },
+  {
     "name": "trampoline",
     "url": "https://clojuredocs.org/clojure.core/trampoline",
     "description": "Continuously runs functions which itself return functions. Like a child on a trampoline that returns and bounces back up."

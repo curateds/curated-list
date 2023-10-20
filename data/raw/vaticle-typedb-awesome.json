@@ -1,13 +1,23 @@
 [
   {
+    "name": "TypeDB Studio - IDE for TypeDB",
+    "url": "https://github.com/vaticle/typedb-studio",
+    "description": "IDE for TypeDB - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering."
+  },
+  {
+    "name": "Blitz-ORM",
+    "url": "https://github.com/Blitzapps/blitz-orm",
+    "description": "Blitz-ORM is an Object Relational Mapper written in TypeScript and compatible with TypeDB."
+  },
+  {
     "name": "TypeDB-ML",
     "url": "https://github.com/vaticle/typedb-ml",
     "description": "TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB."
   },
   {
-    "name": "TypeDB Studio - IDE for TypeDB",
-    "url": "https://github.com/vaticle/typedb-studio",
-    "description": "IDE for TypeDB - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering."
+    "name": "TypeDB Loader",
+    "url": "https://github.com/typedb-osi/typedb-loader",
+    "description": "An open-source data migrator for loading data into TypeDB at scale."
   },
   {
     "name": "TypeDB OSI - Cyber Threat Intelligence",
@@ -18,11 +28,6 @@
     "name": "TypeDB OSI - Biomedical Knowledge Graph",
     "url": "https://github.com/typedb-osi/typedb-bio",
     "description": "Biomedical Knowledge Graph - TypeDB Bio is an open source biomedical knowledge graph providing biomedical researchers an intuitive way to query interconnected and heterogeneous biomedical"
-  },
-  {
-    "name": "TypeDB Loader",
-    "url": "https://github.com/typedb-osi/typedb-loader",
-    "description": "An open-source data migrator for loading data into TypeDB at scale."
   },
   {
     "name": "Source++",
@@ -118,19 +123,19 @@
     "url": "https://github.com/Humans-of-Julia/TypeDBClient.jl"
   },
   {
-    "name": "Emacs",
+    "name": "Emacs - TypeQL Plugin",
     "url": "https://github.com/typedb-osi/typeql-plugin-emacs",
-    "description": "Major mode that provides syntax highlighting and basic completion for TypeQL."
+    "description": "TypeQL Plugin"
   },
   {
-    "name": "VSCode",
+    "name": "Visual Studio Code - TypeQL Plugin",
     "url": "https://github.com/typedb-osi/typeql-plugin-vscode",
-    "description": "Visual Studio Code support for TypeQL."
+    "description": "TypeQL Plugin"
   },
   {
-    "name": "JetBrains / IntelliJ",
+    "name": "JetBrains / IntelliJ - TypeQL Plugin",
     "url": "https://github.com/typedb-osi/typeql-plugin-jetbrains",
-    "description": "JetBrains support for TypeQL."
+    "description": "TypeQL Plugin"
   },
   {
     "name": "Discussion Forum",

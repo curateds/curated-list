@@ -668,6 +668,11 @@
     "description": "Web app hosting and reverse proxy secure by default. By @bunkerity"
   },
   {
+    "name": "caddy-docker-proxy",
+    "url": "https://github.com/lucaslorentz/caddy-docker-proxy",
+    "description": "Caddy-based reverse proxy, configured with service or container labels. By @lucaslorentz"
+  },
+  {
     "name": "Docker Dnsmasq Updater",
     "url": "https://github.com/moonbuggy/docker-dnsmasq-updater",
     "description": "Update a remote dnsmasq server with Docker container hostnames."
@@ -2000,11 +2005,6 @@
     "description": "Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file. By @Ph3nol"
   },
   {
-    "name": "docker-setup",
-    "url": "https://github.com/nicholasdille/docker-setup",
-    "description": "Install, configure and update container tools. By @nicholasdille"
-  },
-  {
     "name": "Docker-sync",
     "url": "https://github.com/EugenMayer/docker-sync",
     "description": "Drastically improves performance (50-70x) when using Docker for development on Mac OS X/Windows and Linux while sharing code to the container. By @EugenMayer"
@@ -2068,6 +2068,11 @@
     "name": "Rust Universal Compiler",
     "url": "https://github.com/Peco602/rust-universal-compiler",
     "description": "Container solution to compile Rust projects for Linux, macOS and Windows. By @Peco602"
+  },
+  {
+    "name": "uniget",
+    "url": "https://github.com/uniget-org/cli",
+    "description": "uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By @nicholasdille"
   },
   {
     "name": "Vagga",
@@ -2687,10 +2692,6 @@
   {
     "name": "State of containers: a debate with CoreOS, VMware and Google",
     "url": "https://www.youtube.com/watch?v=IiITP3yIRd8"
-  },
-  {
-    "name": "List of online courses (free and paid) about Docker",
-    "url": "https://skillcombo.com/topic/docker/"
   },
   {
     "name": "Docker BR on Telegram",

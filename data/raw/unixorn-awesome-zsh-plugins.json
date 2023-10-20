@@ -571,11 +571,6 @@
     "description": "Allows you to easily create and manage aliases from the command line."
   },
   {
-    "name": "alias-snippet-toolkit",
-    "url": "https://github.com/tapyu/zsh-alias-snippet-toolkit",
-    "description": "Creates snippets, expand alias/snippets, and remind you about them."
-  },
-  {
     "name": "alias-tips",
     "url": "https://github.com/djui/alias-tips",
     "description": "An oh-my-zsh plugin to help remembering those aliases you defined once."
@@ -2333,7 +2328,7 @@
   {
     "name": "history-sync (vitobotta)",
     "url": "https://github.com/vitobotta/zsh-history-sync/",
-    "description": "Syncs your ZSH history across computers using a git private repository."
+    "description": "Syncs your ZSH history across computers using a git private repository. Uses openssl to encrypt the history."
   },
   {
     "name": "history-sync (wulfgarpro)",

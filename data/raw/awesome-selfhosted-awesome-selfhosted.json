@@ -195,11 +195,6 @@
     "description": "An intelligent process and workflow automation platform based on software agents. MIT Ruby"
   },
   {
-    "name": "AmIUnique",
-    "url": "https://amiunique.org/",
-    "description": "Learn how identifiable you are on the Internet (browser fingerprinting tool). (Source Code) MIT Java"
-  },
-  {
     "name": "Apache Airflow",
     "url": "https://airflow.apache.org/",
     "description": "Airflow is a platform to programmatically author, schedule, and monitor workflows. (Source Code) Apache-2.0 Python/Docker"
@@ -553,11 +548,6 @@
     "name": "Baïkal",
     "url": "https://sabre.io/baikal/",
     "description": "Lightweight CalDAV and CardDAV server based on sabre/dav. (Source Code) GPL-3.0 PHP"
-  },
-  {
-    "name": "calypso",
-    "url": "https://keithp.com/calypso/",
-    "description": "Python-based CalDAV and CardDAV server (fork of Radicale). (Source Code) GPL-3.0 Python/deb"
   },
   {
     "name": "DAViCal",
@@ -1658,11 +1648,6 @@
     "name": "Apostrophe",
     "url": "https://apostrophecms.com/",
     "description": "CMS with a focus on extensible in-context editing tools. (Demo, Source Code) MIT Nodejs"
-  },
-  {
-    "name": "b2evolution CMS",
-    "url": "https://b2evolution.net/",
-    "description": "The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community. (Source Code) GPL-2.0 PHP"
   },
   {
     "name": "Backdrop CMS",
@@ -3090,11 +3075,6 @@
     "description": "Fast routing library and server using OpenStreetMap. (Source Code) Apache-2.0 Java"
   },
   {
-    "name": "H3 Viewer",
-    "url": "https://github.com/clupasq/h3-viewer",
-    "description": "View/search Uber H3 (Hexagonal Hierarchical Spatial Index) cells on a map. (Demo) Apache-2.0 Javascript"
-  },
-  {
     "name": "MapBBCodeShare",
     "url": "https://github.com/MapBBCode/share.mapbbcode.org",
     "description": "Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. (Demo) WTFPL PHP"
@@ -3618,11 +3598,6 @@
     "name": "mosparo",
     "url": "https://mosparo.io/",
     "description": "The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. (Source Code) MIT PHP"
-  },
-  {
-    "name": "Musical Artifacts",
-    "url": "https://musical-artifacts.com/",
-    "description": "Helping to catalog, preserve and free the artifacts you need to produce music. (Source Code) MIT Ruby"
   },
   {
     "name": "MyPaas",
@@ -5578,6 +5553,11 @@
     "name": "Pastr",
     "url": "https://github.com/hossainalhaidari/pastr",
     "description": "Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. (Demo) MIT Go/Docker"
+  },
+  {
+    "name": "rs-short",
+    "url": "https://git.42l.fr/42l/rs-short",
+    "description": "A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. (Demo) MPL-2.0 Rust"
   },
   {
     "name": "Shlink",

@@ -695,6 +695,11 @@
     "description": "Scalable Reinforcement Learning."
   },
   {
+    "name": "Tianshou",
+    "url": "https://github.com/thu-ml/tianshou/#comprehensive-functionality",
+    "description": "An elegant PyTorch deep reinforcement learning library."
+  },
+  {
     "name": "Acme",
     "url": "https://github.com/google-deepmind/acme",
     "description": "A library of reinforcement learning components and agents."
@@ -710,9 +715,9 @@
     "description": "An offline deep reinforcement learning library."
   },
   {
-    "name": "Tianshou",
-    "url": "https://github.com/thu-ml/tianshou/#comprehensive-functionality",
-    "description": "An elegant PyTorch deep reinforcement learning library."
+    "name": "DI-engine",
+    "url": "https://github.com/opendilab/DI-engine",
+    "description": "OpenDILab Decision AI Engine."
   },
   {
     "name": "TF-Agents",
@@ -768,6 +773,11 @@
     "name": "SKRL",
     "url": "https://github.com/Toni-SM/skrl",
     "description": "Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym."
+  },
+  {
+    "name": "Imitation",
+    "url": "https://github.com/HumanCompatibleAI/imitation",
+    "description": "Clean PyTorch implementations of imitation and reward learning algorithms."
   },
   {
     "name": "pytorch_geometric",

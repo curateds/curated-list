@@ -127,7 +127,7 @@
   {
     "name": "loginsrv",
     "url": "https://github.com/tarent/loginsrv",
-    "description": "JWT login microservice with plugable backends such as OAuth2 (Github), htpasswd, osiam."
+    "description": "JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam."
   },
   {
     "name": "oauth2",
@@ -2466,7 +2466,7 @@
   {
     "name": "clickhouse-go",
     "url": "https://github.com/ClickHouse/clickhouse-go/",
-    "description": "ClickHouse SQL client for Go with a database/sql compability."
+    "description": "ClickHouse SQL client for Go with a database/sql compatibility."
   },
   {
     "name": "elastic",
@@ -4580,7 +4580,7 @@
   {
     "name": "epoch",
     "url": "https://github.com/vtopc/epoch",
-    "description": "Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from build-in time.Time type in JSON."
+    "description": "Contains primitives for marshaling/unmarshalling Unix timestamp/epoch to/from build-in time.Time type in JSON."
   },
   {
     "name": "fastjson",
@@ -4700,7 +4700,7 @@
   {
     "name": "jsonvalue",
     "url": "https://github.com/Andrew-M-C/go.jsonvalue",
-    "description": "A fast and convinient library for unstructured JSON data, replacing encoding/json."
+    "description": "A fast and convenient library for unstructured JSON data, replacing encoding/json."
   },
   {
     "name": "jzon",
@@ -4720,7 +4720,7 @@
   {
     "name": "marshmallow",
     "url": "https://github.com/PerimeterX/marshmallow",
-    "description": "Performant JSON unmarshaling for flexible use cases."
+    "description": "Performant JSON unmarshalling for flexible use cases."
   },
   {
     "name": "mp",
@@ -6335,12 +6335,12 @@
   {
     "name": "ethernet",
     "url": "https://github.com/mdlayher/ethernet",
-    "description": "Package ethernet implements marshaling and unmarshaling of IEEE 802.3 Ethernet II frames and IEEE 802.1Q VLAN tags."
+    "description": "Package ethernet implements marshaling and unmarshalling of IEEE 802.3 Ethernet II frames and IEEE 802.1Q VLAN tags."
   },
   {
     "name": "event",
     "url": "https://github.com/cheng-zhongliang/event",
-    "description": "Simple I/O event notification library wirtten in Golang."
+    "description": "Simple I/O event notification library written in Golang."
   },
   {
     "name": "fasthttp",
@@ -7990,7 +7990,7 @@
   {
     "name": "goblin",
     "url": "https://github.com/franela/goblin",
-    "description": "Mocha like testing framework fo Go."
+    "description": "Mocha like testing framework of Go."
   },
   {
     "name": "goc",
@@ -8385,7 +8385,7 @@
   {
     "name": "goq",
     "url": "https://github.com/andrewstuart/goq",
-    "description": "Declarative unmarshaling of HTML using struct tags with jQuery syntax (uses GoQuery)."
+    "description": "Declarative unmarshalling of HTML using struct tags with jQuery syntax (uses GoQuery)."
   },
   {
     "name": "html-to-markdown",
@@ -9510,7 +9510,7 @@
   {
     "name": "gofn",
     "url": "https://github.com/tiendc/gofn",
-    "description": "High performance utitlity functions written using Generics for Go 1.18+."
+    "description": "High performance utility functions written using Generics for Go 1.18+."
   },
   {
     "name": "gohper",
@@ -11037,7 +11037,7 @@
     "description": "A linter that detect the possibility to use variables/constants from the Go standard library."
   },
   {
-    "name": "vaccum",
+    "name": "vacuum",
     "url": "https://github.com/daveshanley/vacuum",
     "description": "An ultra-super-fast, lightweight OpenAPI linter and quality checking tool."
   },
