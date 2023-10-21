@@ -405,6 +405,10 @@
     "url": "https://roadmap.sh/angular"
   },
   {
+    "name": "Angular Cheetsheet",
+    "url": "https://www.interviewbit.com/angular-cheat-sheet/"
+  },
+  {
     "name": "Official HttpClient",
     "url": "https://angular.io/guide/http"
   },
@@ -427,6 +431,10 @@
   {
     "name": "Testing Angular – A Guide to Robust Angular Applications",
     "url": "https://testing-angular.com"
+  },
+  {
+    "name": "Auto-create and -update tests tool",
+    "url": "https://www.npmjs.com/package/scuri"
   },
   {
     "name": "Official Documentation",
@@ -1117,6 +1125,11 @@
     "description": "Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications."
   },
   {
+    "name": "Scuri Code",
+    "url": "https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code",
+    "description": "A VS Code extention that will generate and maintain seeds for your unit tests."
+  },
+  {
     "name": "Official Angular 2.0",
     "url": "http://todomvc.com/examples/angular2/"
   },
@@ -1274,6 +1287,11 @@
     "description": "Quill editor component for Angular2"
   },
   {
+    "name": "ckeditor",
+    "url": "https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html",
+    "description": "Ckeditor plugin for Angular2+"
+  },
+  {
     "name": "@ctrl/ngx-droppable",
     "url": "https://github.com/typectrl/ngx-droppable",
     "description": "Give file dropping ability to any element or component"
@@ -1365,6 +1383,11 @@
     "description": "Angular recursive form at any level based on your json input."
   },
   {
+    "name": "ngx-translation-validation",
+    "url": "https://github.com/RiskChallenger/translation-validation",
+    "description": "Automatic validation messages for Angular forms in any language"
+  },
+  {
     "name": "angular2-fontawesome",
     "url": "https://github.com/travelist/angular2-fontawesome"
   },
@@ -1400,6 +1423,10 @@
     "name": "ngx-focus-control",
     "url": "https://github.com/Raiper34/ngx-focus-control",
     "description": "Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility"
+  },
+  {
+    "name": "@robingenz/ngx-infinite-scroll",
+    "url": "https://github.com/robingenz/ngx-infinite-scroll"
   },
   {
     "name": "angular-fullpage",
@@ -1492,6 +1519,11 @@
     "description": "Nanoscopic progress bar, featuring realistic trickle animations."
   },
   {
+    "name": "@dotglitch/ngx-lazy-loader",
+    "url": "https://github.com/knackstedt/ngx-lazy-loader",
+    "description": "Highly customizable lazy loader for Angular components."
+  },
+  {
     "name": "angular-cesium",
     "url": "https://github.com/TGFTech/angular-cesium"
   },
@@ -1574,6 +1606,11 @@
     "description": "Cache for HTTP requests in Angular application."
   },
   {
+    "name": "akita",
+    "url": "https://github.com/datorama/akita/",
+    "description": "A Reactive State Management Tailored-Made for JS Applications"
+  },
+  {
     "name": "ng-simple-state",
     "url": "https://github.com/nigrosimone/ng-simple-state",
     "description": "Simple state management in Angular with only Services and RxJS."
@@ -1618,6 +1655,11 @@
     "url": "https://github.com/dylanb/Axponents/tree/master/angular2"
   },
   {
+    "name": "Dev Extreme",
+    "url": "https://js.devexpress.com/Overview/Angular/",
+    "description": "Feature-Complete 65+ Angular Component Suite"
+  },
+  {
     "name": "Element Angular",
     "url": "https://github.com/ElemeFE/element-angular",
     "description": "Element Design components built on top of Angular 2"
@@ -1626,6 +1668,11 @@
     "name": "Essential JS 2 for Angular by Syncfusion",
     "url": "https://www.syncfusion.com/angular-ui-components",
     "description": "Over 60 high-performance, lightweight, modular, and responsive UI components for Angular."
+  },
+  {
+    "name": "ExtAngular",
+    "url": "https://www.sencha.com/products/extangular/",
+    "description": "Sencha ExtAngular Pre-built UI Components"
   },
   {
     "name": "Nebular",
@@ -1684,6 +1731,11 @@
     "name": "Wijmo 5",
     "url": "http://wijmo.com/products/wijmo-5/",
     "description": "Set of UI components for Angular2"
+  },
+  {
+    "name": "Taiga UI",
+    "url": "https://taiga-ui.dev/",
+    "description": "powerful set of open source components for Angular!"
   },
   {
     "name": "NgLazyLoadComponent",
@@ -1921,6 +1973,11 @@
     "name": "ng-for-track-by-property",
     "url": "https://github.com/nigrosimone/ng-for-track-by-property",
     "description": "Angular global trackBy property directive with strict type checking."
+  },
+  {
+    "name": "ngx-observers",
+    "url": "https://github.com/Raiper34/ngx-observers",
+    "description": "Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element."
   },
   {
     "name": "scully",

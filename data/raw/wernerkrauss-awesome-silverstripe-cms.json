@@ -141,17 +141,22 @@
   {
     "name": "Fulltext Search",
     "url": "https://github.com/silverstripe/silverstripe-fulltextsearch",
-    "description": "Full fledged search interface for Solr4."
+    "description": "Full fledged search interface for Solr4 (EOL)."
   },
   {
     "name": "Fulltext Search Local Solr",
     "url": "https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr",
-    "description": "Easy to install Solr4 instance for local development."
+    "description": "Easy to install Solr4 (EOL) instance for local development."
   },
   {
     "name": "Solr search",
     "url": "https://github.com/firesphere/silverstripe-solr-search",
-    "description": "Interface for Solr search, supporting up to the latest Solr version. With submodules for e.g. transitioning from the \"Fulltext Search\" module, as well as subsite, fluent and others."
+    "description": "Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the \"Fulltext Search\" module, as well as subsite, fluent and others."
+  },
+  {
+    "name": "Elastic search",
+    "url": "https://github.com/firesphere/silverstripe-elastic",
+    "description": "Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module."
   },
   {
     "name": "Debugbar",
@@ -226,7 +231,7 @@
   {
     "name": "ddev setup",
     "url": "https://firesphere.dev/articles/ddevelopment-environment/",
-    "description": "Howto setup ddev for use with Silverstripe CMS"
+    "description": "Howto setup ddev for use with Silverstripe CMS."
   },
   {
     "name": "brettt89/silverstripe-web",

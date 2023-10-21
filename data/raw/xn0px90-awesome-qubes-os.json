@@ -162,7 +162,7 @@
   {
     "name": "Qubes OS 4.2 Weekly Builds",
     "url": "https://qubes.notset.fr/iso/",
-    "description": "Qubes OS 4.1.2 Weekly Build download."
+    "description": "Qubes OS 4.2 Weekly Build download."
   },
   {
     "name": "Upgrading",
@@ -574,6 +574,11 @@
     "name": "Gaming-HVM",
     "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md",
     "description": "HVM for gaming!"
+  },
+  {
+    "name": "dnscrypt-proxy",
+    "url": "https://forum.qubes-os.org/t/guide-how-to-setup-a-sys-dns-qube/13749",
+    "description": "Run dnscrypt-proxy inside of sys-net to encrypt and secure dns-requests."
   },
   {
     "name": "Mullvad VPN (FE36 + WG)",

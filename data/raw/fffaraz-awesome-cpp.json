@@ -1040,6 +1040,11 @@
     "description": "Header-only TOML parser and serializer for C++17 and later. [MIT] website"
   },
   {
+    "name": "toml11",
+    "url": "https://github.com/ToruNiina/toml11",
+    "description": "a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. [MIT]"
+  },
+  {
     "name": "C++ B-tree",
     "url": "https://github.com/algorithm-ninja/cpp-btree",
     "description": "A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]"
