@@ -1110,6 +1110,11 @@
     "description": "A fast, memory efficient hash map for C++. [BSD 3-clause]"
   },
   {
+    "name": "unordered_dense",
+    "url": "https://github.com/martinus/unordered_dense",
+    "description": "A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]"
+  },
+  {
     "name": "Bcrypt",
     "url": "http://bcrypt.sourceforge.net/",
     "description": "A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]"

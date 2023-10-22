@@ -260,6 +260,11 @@
     "description": "Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua."
   },
   {
+    "name": "vxpm/ferris.nvim",
+    "url": "https://github.com/vxpm/ferris.nvim",
+    "description": "Interact with Rust-Analyzer's LSP extensions."
+  },
+  {
     "name": "anott03/nvim-lspinstall",
     "url": "https://github.com/anott03/nvim-lspinstall",
     "description": "Easy to install language servers."
@@ -2405,6 +2410,11 @@
     "description": "Open your Kitty scrollback buffer. Ameowzing."
   },
   {
+    "name": "niuiic/terminal.nvim",
+    "url": "https://github.com/niuiic/terminal.nvim",
+    "description": "Manage terminal as buffer, multiple terminals support."
+  },
+  {
     "name": "mfussenegger/nvim-dap",
     "url": "https://github.com/mfussenegger/nvim-dap",
     "description": "Debug Adapter Protocol client implementation."
@@ -2883,11 +2893,6 @@
     "name": "roobert/tabtree.nvim",
     "url": "https://github.com/roobert/tabtree.nvim",
     "description": "Jump between significant code elements, such as brackets, quotes, etc."
-  },
-  {
-    "name": "linty-org/readline.nvim",
-    "url": "https://github.com/linty-org/readline.nvim",
-    "description": "Readline keyboard shortcuts."
   },
   {
     "name": "woosaaahh/sj.nvim",

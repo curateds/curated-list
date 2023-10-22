@@ -444,6 +444,11 @@
     "description": "Large collection of type utilities for TypeScript"
   },
   {
+    "name": "string-ts",
+    "url": "https://github.com/gustavoguichard/string-ts",
+    "description": "Strongly-typed string functions for all"
+  },
+  {
     "name": "json-decoder",
     "url": "https://github.com/venil7/json-decoder",
     "description": "Typesafe JSON decoder and runtime checker"
@@ -476,6 +481,11 @@
     "name": "zod",
     "url": "https://github.com/vriad/zod",
     "description": "TypeScript-first schema validation with static type inference"
+  },
+  {
+    "name": "valibot",
+    "url": "https://github.com/fabian-hiller/valibot",
+    "description": "Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies."
   },
   {
     "name": "runtypes",

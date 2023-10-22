@@ -3691,6 +3691,11 @@
     "description": "Multi-term searched selection list with approximate matching and uniq mode."
   },
   {
+    "name": "select-with-lf",
+    "url": "https://github.com/chmouel/zsh-select-with-lf",
+    "description": "Lets user select files or a directory using lf."
+  },
+  {
     "name": "send",
     "url": "https://github.com/robertzk/send.zsh",
     "description": "Single command to git add, git commit, and git push for much faster git workflow."

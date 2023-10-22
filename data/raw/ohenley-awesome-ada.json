@@ -192,7 +192,12 @@
   {
     "name": "byron",
     "url": "https://github.com/OneWingedShark/Byron",
-    "description": "The Byron project is a community-driven Ada compiler, toolchain, and IDE-system."
+    "description": "Byron is a community project to build an Ada compiler, toolchain, and IDE-system."
+  },
+  {
+    "name": "augusta",
+    "url": "https://github.com/pchapin/augusta",
+    "description": "Ada compiler written in Scala that targets LLVM."
   },
   {
     "name": "gnat-pro",
