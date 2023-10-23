@@ -2991,6 +2991,11 @@
     "description": "Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite"
   },
   {
+    "name": "EntityFrameworkCore.SqlServer.SimpleBulks",
+    "url": "https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks",
+    "description": "Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported."
+  },
+  {
     "name": "EFCore.BulkExtensions",
     "url": "https://github.com/borisdj/EFCore.BulkExtensions",
     "description": "Entity Framework Core Bulk Extensions for super fast (BulkCopy) CRUD ops + SaveChanges on multiple DBs: SQL, PG, My, Lite."
@@ -3178,6 +3183,11 @@
     "name": "Kevsoft.PDFtk",
     "url": "https://github.com/kevbite/Kevsoft.PDFtk",
     "description": "A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages."
+  },
+  {
+    "name": "IronPDF",
+    "url": "https://ironpdf.com/",
+    "description": "High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. [$] [Free trial available]"
   },
   {
     "name": "MiniProfiler",

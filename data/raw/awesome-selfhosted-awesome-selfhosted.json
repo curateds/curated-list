@@ -4185,11 +4185,6 @@
     "description": "Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. (Source Code, Clients) MIT Docker/K8S/Java"
   },
   {
-    "name": "pasty",
-    "url": "https://github.com/lus/pasty",
-    "description": "Pasty is a fast and lightweight code pasting server. (Demo) MIT Go/Docker"
-  },
-  {
     "name": "PrivateBin",
     "url": "https://privatebin.info/",
     "description": "PrivateBin is a minimalist, open source online pastebin/discussion board where the server has zero knowledge of hosted data. (Demo, Source Code) Zlib PHP"
@@ -5020,11 +5015,6 @@
     "description": "Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. MIT C#"
   },
   {
-    "name": "ICEcoder",
-    "url": "https://icecoder.net/",
-    "description": "ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. (Demo, Source Code) MIT PHP"
-  },
-  {
     "name": "Judge0 CE",
     "url": "https://judge0.com",
     "description": "Open source API to compile and run source code. (Source Code) GPL-3.0 Docker"
@@ -5085,9 +5075,9 @@
     "description": "Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian). (Source Code) GPL-3.0 Nodejs/Docker/K8S"
   },
   {
-    "name": "Hadmean",
-    "url": "https://hadmean.com",
-    "description": "Generate fully functional admin apps in seconds from your database information, with a single command. (Source Code) AGPL-3.0 Nodejs/Docker"
+    "name": "Dashpress",
+    "url": "https://github.com/dashpresshq/dashpress",
+    "description": "Generate fully functional admin apps in seconds from your database information, with a single command. (Demo) AGPL-3.0 Nodejs/Docker"
   },
   {
     "name": "Motor Admin",

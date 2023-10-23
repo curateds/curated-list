@@ -410,6 +410,16 @@
     "description": "Quality Diversity optimization in Jax."
   },
   {
+    "name": "JAX Toolbox",
+    "url": "https://github.com/NVIDIA/JAX-Toolbox",
+    "description": "Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine."
+  },
+  {
+    "name": "Pgx",
+    "url": "http://github.com/sotetsuk/pgx",
+    "description": "Vectorized board game environments for RL with an AlphaZero example."
+  },
+  {
     "name": "Fourier Feature Networks",
     "url": "https://github.com/tancik/fourier-feature-networks",
     "description": "Official implementation of Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains."
@@ -768,6 +778,11 @@
     "name": "Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange",
     "url": "https://roberttlange.github.io/posts/2020/03/blog-post-10/",
     "description": "Neural network building blocks from scratch with the basic JAX operators."
+  },
+  {
+    "name": "Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh",
+    "url": "https://www.kaggle.com/code/truthr/jax-0",
+    "description": "A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems."
   },
   {
     "name": "Tutorial: image classification with JAX and Flax Linen by 8bitmp3",

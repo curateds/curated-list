@@ -1110,6 +1110,11 @@
     "description": "A fast, memory efficient hash map for C++. [BSD 3-clause]"
   },
   {
+    "name": "svector",
+    "url": "https://github.com/martinus/svector",
+    "description": "Compact SVO optimized vector for C++17 or higher. [MIT]"
+  },
+  {
     "name": "unordered_dense",
     "url": "https://github.com/martinus/unordered_dense",
     "description": "A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]"
