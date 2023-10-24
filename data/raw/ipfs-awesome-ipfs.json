@@ -145,6 +145,11 @@
     "description": "A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs."
   },
   {
+    "name": "dump-ipfs",
+    "url": "https://github.com/quasarch/dump-ipfs",
+    "description": "A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin."
+  },
+  {
     "name": "gatsby-plugin-ipfs",
     "url": "https://github.com/moxystudio/gatsby-plugin-ipfs",
     "description": "Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative."

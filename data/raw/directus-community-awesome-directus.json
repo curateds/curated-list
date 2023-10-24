@@ -243,6 +243,26 @@
     "description": "A set of extensions to train, test and use machine learning models."
   },
   {
+    "name": "Tab Group",
+    "url": "https://github.com/formfcw/directus-extension-tab-group",
+    "description": "A group interface with a tab menu for toggling the visibility of fields within the group."
+  },
+  {
+    "name": "Drawer Notice",
+    "url": "https://github.com/formfcw/directus-extension-drawer-notice",
+    "description": "A notice field that is only visible in the drawer."
+  },
+  {
+    "name": "Classified Group",
+    "url": "https://github.com/formfcw/directus-extension-classified-group",
+    "description": "A group to which a class can be assigned for custom styling."
+  },
+  {
+    "name": "Tokenized Preview",
+    "url": "https://github.com/formfcw/directus-extension-tokenized-preview",
+    "description": "An endpoint that adds an active auth token to your preview URL."
+  },
+  {
     "name": "Directus Guides (Official)",
     "url": "https://directus.io/guides/"
   },

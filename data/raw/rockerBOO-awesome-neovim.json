@@ -2845,8 +2845,8 @@
     "description": "View and dispatch GitHub Actions workflow runs."
   },
   {
-    "name": "phaazon/hop.nvim",
-    "url": "https://github.com/phaazon/hop.nvim",
+    "name": "smoka7/hop.nvim",
+    "url": "https://github.com/smoka7/hop.nvim",
     "description": "Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible."
   },
   {
@@ -3543,6 +3543,11 @@
     "name": "shellRaining/hlchunk.nvim",
     "url": "https://github.com/shellRaining/hlchunk.nvim",
     "description": "A Lua implementation of nvim-hlchunk, contains more features, such as highlight {} chunk, indent line, space blank etc."
+  },
+  {
+    "name": "VidocqH/auto-indent.nvim",
+    "url": "https://github.com/VidocqH/auto-indent.nvim",
+    "description": "Auto indent cursor when cursor at the first column and press <TAB> key like VSCode."
   },
   {
     "name": "notomo/cmdbuf.nvim",
