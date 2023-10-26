@@ -845,6 +845,11 @@
     "description": "A database testing framework that supports easy test-driven development of your database code."
   },
   {
+    "name": "pgTAP",
+    "url": "https://github.com/theory/pgtap",
+    "description": "Unit Testing for PostgreSQL."
+  },
+  {
     "name": "RegreSQL",
     "url": "https://github.com/dimitri/regresql",
     "description": "Regression Testing your SQL queries."

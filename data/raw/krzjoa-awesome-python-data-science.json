@@ -130,36 +130,6 @@
     "description": "A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras."
   },
   {
-    "name": "auto-sklearn",
-    "url": "https://github.com/automl/auto-sklearn",
-    "description": "An AutoML toolkit and a drop-in replacement for a scikit-learn estimator."
-  },
-  {
-    "name": "Auto-PyTorch",
-    "url": "https://github.com/automl/Auto-PyTorch",
-    "description": "Automatic architecture search and hyperparameter optimization for PyTorch."
-  },
-  {
-    "name": "AutoKeras",
-    "url": "https://github.com/keras-team/autokeras",
-    "description": "AutoML library for deep learning."
-  },
-  {
-    "name": "AutoGluon",
-    "url": "https://github.com/awslabs/autogluon",
-    "description": "AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data."
-  },
-  {
-    "name": "TPOT",
-    "url": "https://github.com/rhiever/tpot",
-    "description": "AutoML tool that optimizes machine learning pipelines using genetic programming."
-  },
-  {
-    "name": "MLBox",
-    "url": "https://github.com/AxeldeRomblay/MLBox",
-    "description": "A powerful Automated Machine Learning python library."
-  },
-  {
     "name": "ML-Ensemble",
     "url": "http://ml-ensemble.com/",
     "description": "High performance ensemble learning."
@@ -418,6 +388,36 @@
     "name": "nnabla",
     "url": "https://github.com/sony/nnabla",
     "description": "Neural Network Libraries by Sony."
+  },
+  {
+    "name": "auto-sklearn",
+    "url": "https://github.com/automl/auto-sklearn",
+    "description": "An AutoML toolkit and a drop-in replacement for a scikit-learn estimator."
+  },
+  {
+    "name": "Auto-PyTorch",
+    "url": "https://github.com/automl/Auto-PyTorch",
+    "description": "Automatic architecture search and hyperparameter optimization for PyTorch."
+  },
+  {
+    "name": "AutoKeras",
+    "url": "https://github.com/keras-team/autokeras",
+    "description": "AutoML library for deep learning."
+  },
+  {
+    "name": "AutoGluon",
+    "url": "https://github.com/awslabs/autogluon",
+    "description": "AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data."
+  },
+  {
+    "name": "TPOT",
+    "url": "https://github.com/rhiever/tpot",
+    "description": "AutoML tool that optimizes machine learning pipelines using genetic programming."
+  },
+  {
+    "name": "MLBox",
+    "url": "https://github.com/AxeldeRomblay/MLBox",
+    "description": "A powerful Automated Machine Learning python library."
   },
   {
     "name": "sktime",

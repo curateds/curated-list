@@ -215,6 +215,11 @@
     "description": "A Go implementation of the Polkadot Host."
   },
   {
+    "name": "kubo",
+    "url": "https://github.com/ipfs/kubo",
+    "description": "A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol."
+  },
+  {
     "name": "solana-go",
     "url": "https://github.com/gagliardetto/solana-go",
     "description": "Go library to interface with Solana JSON RPC and WebSocket interfaces."

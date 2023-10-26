@@ -2544,6 +2544,11 @@
     "description": "C++ implementation of the Google logging module."
   },
   {
+    "name": "haclog",
+    "url": "https://github.com/MuggleWei/haclog",
+    "description": "An extremely fast plain C logging library. [MIT]"
+  },
+  {
     "name": "Log4cpp",
     "url": "http://log4cpp.sourceforge.net/",
     "description": "A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]"
@@ -4038,6 +4043,11 @@
     "description": "A library which allows you to compose and modify objects at run time. [MIT]"
   },
   {
+    "name": "faker-cxx",
+    "url": "https://github.com/cieslarmichal/faker-cxx",
+    "description": "C++20 Faker library for generating fake (but realistic) data for testing and development. [MIT]"
+  },
+  {
     "name": "fccf",
     "url": "https://github.com/p-ranav/fccf",
     "description": "A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. [MIT]"
@@ -4071,6 +4081,11 @@
     "name": "icecream-cpp",
     "url": "https://github.com/renatoGarcia/icecream-cpp",
     "description": "A small printing library for debugging purposes. [MIT]"
+  },
+  {
+    "name": "inja",
+    "url": "https://github.com/pantor/inja",
+    "description": "A Template Engine for Modern C++. [MIT]"
   },
   {
     "name": "gcc-poison",

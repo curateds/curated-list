@@ -154,11 +154,6 @@
     "description": "Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the \"Fulltext Search\" module, as well as subsite, fluent and others."
   },
   {
-    "name": "Elastic search",
-    "url": "https://github.com/firesphere/silverstripe-elastic",
-    "description": "Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module."
-  },
-  {
     "name": "Debugbar",
     "url": "https://github.com/lekoala/silverstripe-debugbar/",
     "description": "Shows debugging statistics in your browser."
