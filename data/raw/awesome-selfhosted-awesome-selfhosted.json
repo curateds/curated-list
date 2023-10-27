@@ -502,7 +502,7 @@
   {
     "name": "Hackershare",
     "url": "https://github.com/hackershare/hackershare",
-    "description": "Social bookmarks website for hackers. (Demo) MIT Ruby"
+    "description": "Social bookmarks website for hackers. MIT Ruby"
   },
   {
     "name": "LinkAce",
@@ -2540,11 +2540,6 @@
     "description": "Uploady is a simple file uploader script with multi file upload support. MIT PHP"
   },
   {
-    "name": "Void",
-    "url": "https://github.com/AlphaNecron/Void",
-    "description": "Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. (Source Code) MIT Nodejs"
-  },
-  {
     "name": "XBackBone",
     "url": "https://xbackbone.app/",
     "description": "A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). (Source Code) AGPL-3.0 PHP/Docker"
@@ -4015,11 +4010,6 @@
     "description": "Totally private personal database and note taking app. (Source Code) GPL-3.0 CommonLisp"
   },
   {
-    "name": "Wreeto",
-    "url": "https://wreeto.com",
-    "description": "Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. (Source Code) AGPL-3.0 Ruby"
-  },
-  {
     "name": "Writing",
     "url": "https://josephernest.github.io/writing/",
     "description": "Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. (Source Code) MIT Javascript"
@@ -4412,7 +4402,7 @@
   {
     "name": "This week in past",
     "url": "https://github.com/RouHim/this-week-in-past",
-    "description": "Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. (Demo) MIT Docker/Rust"
+    "description": "Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. MIT Docker/Rust"
   },
   {
     "name": "Thumbor",
@@ -4428,11 +4418,6 @@
     "name": "Bitpoll",
     "url": "https://github.com/fsinfuhh/Bitpoll",
     "description": "A web application for scheduling meetings and general polling. (Demo) GPL-3.0 Docker/Python"
-  },
-  {
-    "name": "Calagator",
-    "url": "https://calagator.org/",
-    "description": "Event aggregator. (Source Code) MIT Ruby"
   },
   {
     "name": "Christmas Community",
@@ -4650,21 +4635,6 @@
     "description": "Smart SSH and HTTPS bastion that works with any SSH client. Apache-2.0 Rust/Docker"
   },
   {
-    "name": "farmOS",
-    "url": "https://farmos.org/",
-    "description": "Web-based farm record keeping application. (Demo, Source Code) GPL-2.0 PHP/Docker"
-  },
-  {
-    "name": "grocy",
-    "url": "https://grocy.info/",
-    "description": "ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. (Demo, Source Code) MIT PHP/Docker"
-  },
-  {
-    "name": "Tania",
-    "url": "https://usetania.org/",
-    "description": "Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. (Source Code) Apache-2.0 Go"
-  },
-  {
     "name": "Dolibarr",
     "url": "https://www.dolibarr.org/",
     "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). (Demo, Source Code) GPL-3.0 PHP/deb"
@@ -4673,6 +4643,16 @@
     "name": "ERPNext",
     "url": "https://erpnext.com",
     "description": "Free open source ERP system. (Source Code) GPL-3.0 Python/Docker"
+  },
+  {
+    "name": "farmOS",
+    "url": "https://farmos.org/",
+    "description": "Web-based farm record keeping application. (Demo, Source Code) GPL-2.0 PHP/Docker"
+  },
+  {
+    "name": "grocy",
+    "url": "https://grocy.info/",
+    "description": "ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. (Demo, Source Code) MIT PHP/Docker"
   },
   {
     "name": "LedgerSMB",
@@ -4687,7 +4667,12 @@
   {
     "name": "OFBiz",
     "url": "https://ofbiz.apache.org/",
-    "description": "FOSS enterprise resource planning system with a suite of business applications flexible enough to be used across any industry. (Source Code) Apache-2.0 Java"
+    "description": "Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. (Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "Tania",
+    "url": "https://usetania.org/",
+    "description": "Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. (Source Code) Apache-2.0 Go"
   },
   {
     "name": "Tryton",

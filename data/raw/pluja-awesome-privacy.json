@@ -230,6 +230,11 @@
     "description": "Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU."
   },
   {
+    "name": "ollama",
+    "url": "https://github.com/jmorganca/ollama",
+    "description": "Get up and running with Llama 2 and other large language models locally."
+  },
+  {
     "name": "LocalAI",
     "url": "https://github.com/go-skynet/LocalAI",
     "description": "Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware."
@@ -238,6 +243,21 @@
     "name": "Turbopilot",
     "url": "https://github.com/ravenscroftj/turbopilot",
     "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU."
+  },
+  {
+    "name": "Localpilot",
+    "url": "https://github.com/danielgross/localpilot",
+    "description": "Use GitHub Copilot locally on your Macbook with one-click."
+  },
+  {
+    "name": "Fauxpilot",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "description": "an open-source,local alternative to GitHub Copilot server"
+  },
+  {
+    "name": "vscode-fauxpilot",
+    "url": "https://github.com/Venthe/vscode-fauxpilot",
+    "description": "vscode extension for fauxpilot. reminder: use vscodium instead!"
   },
   {
     "name": "Stable Diffusion",
