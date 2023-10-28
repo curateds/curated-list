@@ -1455,11 +1455,6 @@
     "description": "Alternative Reddit front-end focused on privacy. (Source Code) AGPL-3.0 Nodejs/Docker"
   },
   {
-    "name": "Thredded",
-    "url": "https://github.com/thredded/thredded",
-    "description": "Forums, feature-rich and simple. MIT Ruby"
-  },
-  {
     "name": "yarn.social",
     "url": "https://yarn.social",
     "description": "Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. (Source Code) MIT Go"
@@ -2455,11 +2450,6 @@
     "description": "GoSƐ is a modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches. (Demo) Apache-2.0 Go/Docker"
   },
   {
-    "name": "Jirafeau",
-    "url": "https://gitlab.com/mojo42/Jirafeau",
-    "description": "Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. (Demo) AGPL-3.0 PHP"
-  },
-  {
     "name": "lufi",
     "url": "https://framagit.org/fiat-tux/hat-softwares/lufi",
     "description": "Let's Upload that FIle, client-side encrypted. (Demo, Source Code) AGPL-3.0 Perl"
@@ -3155,11 +3145,6 @@
     "description": "Minimalistic S3-backed audio library. Apache-2.0 Go"
   },
   {
-    "name": "euterpe",
-    "url": "https://listen-to-euterpe.eu",
-    "description": "Self-hosted music streaming server with RESTful API and Web interface. (Demo, Source Code) GPL-3.0 Go/Docker"
-  },
-  {
     "name": "Funkwhale",
     "url": "https://dev.funkwhale.audio/funkwhale",
     "description": "Modern, web-based, convivial, multi-user and free music server. BSD-3-Clause Python/Django"
@@ -3223,11 +3208,6 @@
     "name": "Polaris",
     "url": "https://github.com/agersant/polaris",
     "description": "Music browsing and streaming application optimized for large music collections, ease of use and high performance. MIT Rust/Docker"
-  },
-  {
-    "name": "Raveberry",
-    "url": "https://github.com/raveberry/raveberry",
-    "description": "A multi-user music server with a focus on participation. (Demo) LGPL-3.0 Python/Docker"
   },
   {
     "name": "Snapcast",
@@ -3873,11 +3853,6 @@
     "name": "REI3",
     "url": "https://rei3.de/home_en/",
     "description": "Open source, expandable Business Management Software. Manage tasks, time, assets and much more. (Demo, Source Code) MIT Go"
-  },
-  {
-    "name": "SilverStrike",
-    "url": "https://silverstrike.org/",
-    "description": "Personal finance management made easy. (Demo, Source Code) MIT Python/Django"
   },
   {
     "name": "SolidInvoice",
@@ -5145,11 +5120,6 @@
     "description": "Simple, easy-to-set-up Git web viewer that Just Works. ISC Python/Docker"
   },
   {
-    "name": "Lavagna",
-    "url": "https://lavagna.io",
-    "description": "Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. (Source Code) GPL-3.0 Java"
-  },
-  {
     "name": "Lazylead",
     "url": "https://lazylead.org",
     "description": "Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. (Source Code) MIT Ruby/Docker"
@@ -5445,11 +5415,6 @@
     "description": "Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. (Demo, Source Code) GPL-3.0 Perl/Docker"
   },
   {
-    "name": "Pachno",
-    "url": "https://pach.no/",
-    "description": "Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. (Source Code) MPL-2.0 PHP"
-  },
-  {
     "name": "Request Tracker",
     "url": "https://www.bestpractical.com/rt/",
     "description": "An enterprise-grade issue tracking system. (Source Code) GPL-2.0 Perl"
@@ -5615,11 +5580,6 @@
     "description": "Simple, Git-powered wiki with a sweet API and local frontend. MIT Ruby"
   },
   {
-    "name": "Instiki",
-    "url": "https://golem.ph.utexas.edu/wiki/instiki/show/HomePage",
-    "description": "Instiki is a wiki clone so pretty and easy to set up, you'll wonder if it’s really a wiki. Runs on Rails and focuses on portability and stability. (Source Code) Ruby Ruby"
-  },
-  {
     "name": "Mediawiki",
     "url": "https://www.mediawiki.org/wiki/MediaWiki",
     "description": "MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. (Demo, Source Code) GPL-2.0 PHP"
@@ -5663,11 +5623,6 @@
     "name": "Tiki",
     "url": "https://tiki.org/HomePage",
     "description": "Wiki CMS Groupware with the most built-in features. (Demo, Source Code) LGPL-2.1 PHP"
-  },
-  {
-    "name": "TWiki",
-    "url": "https://twiki.org/",
-    "description": "TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal. (Demo, Source Code) GPL-2.0 Perl"
   },
   {
     "name": "WackoWiki",

@@ -385,11 +385,6 @@
     "description": "Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2."
   },
   {
-    "name": "cfg4j",
-    "url": "https://github.com/cfg4j/cfg4j",
-    "description": "Modern configuration library for distributed apps written in Java."
-  },
-  {
     "name": "config",
     "url": "https://github.com/lightbend/config",
     "description": "Configuration library supporting Java properties, JSON or its human optimized superset HOCON."
@@ -413,6 +408,11 @@
     "name": "Externalized Properties",
     "url": "https://github.com/joel-jeremy/externalized-properties",
     "description": "Lightweight yet powerful configuration library which supports resolution of properties from external sources and an extensible post-processing/conversion mechanism."
+  },
+  {
+    "name": "Gestalt",
+    "url": "https://github.com/gestalt-config/gestalt",
+    "description": "Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner."
   },
   {
     "name": "ini4j",
@@ -2045,6 +2045,16 @@
     "description": "Combines the power of AOP with monitoring and/or logging tools."
   },
   {
+    "name": "Datadog ",
+    "url": "https://github.com/DataDog/dd-trace-java",
+    "description": "Modern monitoring & analytics."
+  },
+  {
+    "name": "Dropwizard Metrics",
+    "url": "https://github.com/dropwizard/metrics",
+    "description": "Expose metrics via JMX or HTTP and send them to a database."
+  },
+  {
     "name": "Failsafe Actuator",
     "url": "https://github.com/zalando/failsafe-actuator",
     "description": "Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment."
@@ -2060,6 +2070,11 @@
     "description": "Real-time monitoring system with custom-monitor and agentless."
   },
   {
+    "name": "hippo4j",
+    "url": "https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md",
+    "description": "Dynamic and observable thread pool framework."
+  },
+  {
     "name": "inspectIT",
     "url": "https://www.inspectit.rocks",
     "description": "Captures detailed run-time information via hooks that can be changed on the fly. It supports tracing over multiple systems via the OpenTracing API and can correlate the data with end user monitoring."
@@ -2070,14 +2085,14 @@
     "description": "Real-time Java application performance monitoring. A commercial service with free development accounts."
   },
   {
-    "name": "JavaMelody",
-    "url": "https://github.com/javamelody/javamelody",
-    "description": "Performance monitoring and profiling."
-  },
-  {
     "name": "Jaeger client",
     "url": "https://github.com/jaegertracing/jaeger-client-java",
     "description": "Jaeger client."
+  },
+  {
+    "name": "JavaMelody",
+    "url": "https://github.com/javamelody/javamelody",
+    "description": "Performance monitoring and profiling."
   },
   {
     "name": "jmxtrans",
@@ -2090,14 +2105,14 @@
     "description": "JMX over REST."
   },
   {
-    "name": "Metrics",
-    "url": "https://github.com/dropwizard/metrics",
-    "description": "Expose metrics via JMX or HTTP and send them to a database."
+    "name": "Micrometer",
+    "url": "https://github.com/micrometer-metrics/micrometer",
+    "description": "Vendor-neutral metrics/observability facade for the most popular metrics/observability libraries."
   },
   {
-    "name": "Datadog ",
-    "url": "https://github.com/DataDog/dd-trace-java",
-    "description": "Modern monitoring & analytics."
+    "name": "Micrometer Tracing",
+    "url": "https://github.com/micrometer-metrics/tracing",
+    "description": "Vendor-neutral distributed tracing facade for the most popular tracer libraries."
   },
   {
     "name": "nudge4j",
@@ -2138,11 +2153,6 @@
     "name": "zipkin",
     "url": "https://zipkin.io",
     "description": "Distributed tracing system which gathers timing data needed to troubleshoot latency problems in microservice architectures."
-  },
-  {
-    "name": "hippo4j",
-    "url": "https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md",
-    "description": "Dynamic and observable thread pool framework."
   },
   {
     "name": "Aparapi",
@@ -3035,6 +3045,11 @@
     "description": "JDK-compatible, high-performance object graph serialization."
   },
   {
+    "name": "Fury",
+    "url": "https://github.com/alipay/fury",
+    "description": "Blazing fast object graph serialization framework powered by JIT and zero-copy."
+  },
+  {
     "name": "Kryo",
     "url": "https://github.com/EsotericSoftware/kryo",
     "description": "Fast and efficient object graph serialization framework."
@@ -3203,6 +3218,11 @@
     "name": "Beanmother",
     "url": "https://github.com/keepcosmos/beanmother",
     "description": "Sets up beans from YAML fixtures."
+  },
+  {
+    "name": "Datafaker",
+    "url": "https://github.com/datafaker-net/datafaker",
+    "description": "Modern fake data generator forked from Java Faker."
   },
   {
     "name": "Fixture Factory",
@@ -3408,6 +3428,11 @@
     "name": "Dex",
     "url": "https://github.com/PatMartin/Dex",
     "description": "Java/JavaFX tool capable of powerful ETL and data visualization."
+  },
+  {
+    "name": "dregex",
+    "url": "https://github.com/marianobarrios/dregex",
+    "description": "Regular expression engine that uses deterministic finite automata. It supports some Perl-style features and yet retains linear matching time, and also offers set operations."
   },
   {
     "name": "Embulk",

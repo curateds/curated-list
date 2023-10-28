@@ -140,6 +140,11 @@
     "description": "Simple application to read scrolling text from your screen."
   },
   {
+    "name": "Errands",
+    "url": "https://github.com/mrvladus/Errands",
+    "description": "Todo application for those who prefer simplicity."
+  },
+  {
     "name": "Blanket",
     "url": "https://apps.gnome.org/app/com.rafaelmardojai.Blanket/",
     "description": "Listen to different sounds."
@@ -252,12 +257,17 @@
   {
     "name": "Color Picker",
     "url": "https://gitlab.gnome.org/World/gcolor3/",
-    "description": "Color pickle, working on both X11 and Wayland."
+    "description": "Color picker, working on both X11 and Wayland."
   },
   {
     "name": "GThumb",
     "url": "https://wiki.gnome.org/Apps/Gthumb",
     "description": "Powerful and advanced application to manage your photos and images."
+  },
+  {
+    "name": "ASCII Draw",
+    "url": "https://github.com/Nokse22/ascii-draw",
+    "description": "Draw graphs and more using only characters."
   },
   {
     "name": "Plots",
@@ -405,6 +415,11 @@
     "description": "Small and highly customizable twin-panel file manager."
   },
   {
+    "name": "Impression",
+    "url": "https://gitlab.com/adhami3310/Impression",
+    "description": "Bootable driver flasher application"
+  },
+  {
     "name": "Obfuscate",
     "url": "https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/",
     "description": "Censor private information."
@@ -493,6 +508,16 @@
     "name": "Escambo",
     "url": "https://github.com/CleoMenezesJr/escambo",
     "description": "HTTP-based APIs test application."
+  },
+  {
+    "name": "Forge Sparks",
+    "url": "https://github.com/rafaelmardojai/forge-sparks",
+    "description": "Git forge (GitHub, Gitea, Forgejo) desktop notification application."
+  },
+  {
+    "name": "Turtle",
+    "url": "https://gitlab.gnome.org/philippun1/turtle",
+    "description": "Tool to manage Git repositories within Nautilus by providing emblems and context menus."
   },
   {
     "name": "App Icon Preview",

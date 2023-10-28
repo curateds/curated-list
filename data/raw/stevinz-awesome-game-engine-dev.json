@@ -280,11 +280,6 @@
     "description": "Articles exploring different graphics techniques."
   },
   {
-    "name": "Lighthouse3d.com",
-    "url": "http://www.lighthouse3d.com/tutorials/",
-    "description": "Collection of tutorials on OpenGL, GLSL and other graphics topics."
-  },
-  {
     "name": "Scratchapixel",
     "url": "https://www.scratchapixel.com",
     "description": "In depth coverage of computer graphics topics."
@@ -850,6 +845,11 @@
     "description": "Single-header file, lots of graphics & utility functions."
   },
   {
+    "name": "DOME",
+    "url": "https://github.com/domeengine/dome",
+    "description": "Melds SDL2 and the Wren scripting language. [Website]"
+  },
+  {
     "name": "Entrypoint",
     "url": "https://github.com/jimon/entrypoint",
     "description": "Lightweight entry point for games."
@@ -1355,11 +1355,6 @@
     "description": "Advanced C++ 3D game engine powering an in-production game."
   },
   {
-    "name": "SGEEngine",
-    "url": "https://github.com/ongamex/SGEEngine",
-    "description": "Game engine with an editor usable as a sandbox."
-  },
-  {
     "name": "Skylicht",
     "url": "https://github.com/skylicht-lab/skylicht-engine",
     "description": "Upgraded features including audio, physics and particles. Built on Irrlicht."
@@ -1448,6 +1443,11 @@
     "name": "Nazara Engine",
     "url": "https://github.com/NazaraEngine/NazaraEngine",
     "description": "Custom shaders, ECS, 2D/3D, networking and more."
+  },
+  {
+    "name": "nCine",
+    "url": "https://github.com/nCine/nCine",
+    "description": "Cross-platform 2D game framework."
   },
   {
     "name": "ORX",
@@ -2223,6 +2223,16 @@
     "name": "Protogame",
     "url": "https://github.com/RedpointGames/Protogame",
     "description": "Cross-platform 2D/3D game engine built on MonoGame."
+  },
+  {
+    "name": "DotRecast",
+    "url": "https://github.com/ikpil/DotRecast",
+    "description": "A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#."
+  },
+  {
+    "name": "DotRecast",
+    "url": "https://github.com/ikpil/DotRecast",
+    "description": "A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#."
   },
   {
     "name": "OpenTK",
@@ -4910,16 +4920,6 @@
     "description": "Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin."
   },
   {
-    "name": "2D Water Shader",
-    "url": "https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/",
-    "description": "GLSL fragment shader to simulate 2D water surface in libGDX."
-  },
-  {
-    "name": "2D Water Shader",
-    "url": "https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/",
-    "description": "GLSL fragment shader to simulate 2D water surface in libGDX."
-  },
-  {
     "name": "Flat and Wireframe Shading",
     "url": "https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/",
     "description": "Flat shading / wireframes using Barycentric Coordinates."
@@ -5498,11 +5498,6 @@
     "name": "Pmndrs Materials",
     "url": "https://market.pmnd.rs/materials",
     "description": "Collection of public domain materials."
-  },
-  {
-    "name": "3D Models CC0",
-    "url": "https://www.3dmodelscc0.com",
-    "description": "Public domain 3D models."
   },
   {
     "name": "Pmndrs Market",

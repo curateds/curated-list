@@ -209,51 +209,6 @@
     "description": "Good news: you're not stuck with a legacy password saving scheme. Here is a trick to transparently upgrade to stronger hashing algorithm."
   },
   {
-    "name": "An argument for passwordless",
-    "url": "https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/",
-    "description": "Passwords are not the be-all and end-all of user authentication. This article tries to tell you why."
-  },
-  {
-    "name": "Magic Links – Are they Actually Outdated?",
-    "url": "https://zitadel.com/blog/magic-links",
-    "description": "What are magic links, their origin, pros and cons."
-  },
-  {
-    "name": "WebAuthn guide",
-    "url": "https://webauthn.guide",
-    "description": "A very accessible guide to WebAuthn, a standard allowing “servers to register and authenticate users using public key cryptography instead of a password”, supported by all major browsers."
-  },
-  {
-    "name": "Webauthn and security keys",
-    "url": "https://www.imperialviolet.org/2018/03/27/webauthn.html",
-    "description": "Describe how authentication works with security keys, details the protocols, and how they articulates with WebAuthn. Key takeaway: “There is no way to create a U2F key with webauthn however. (…) So complete the transition to webauthn of your login process first, then transition registration.”"
-  },
-  {
-    "name": "Getting started with security keys",
-    "url": "https://paulstamatiou.com/getting-started-with-security-keys/",
-    "description": "A practical guide to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys."
-  },
-  {
-    "name": "Solo",
-    "url": "https://github.com/solokeys/solo",
-    "description": "Open security key supporting FIDO2 & U2F over USB + NFC."
-  },
-  {
-    "name": "OpenSK",
-    "url": "https://github.com/google/OpenSK",
-    "description": "Open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards."
-  },
-  {
-    "name": "YubiKey Guide",
-    "url": "https://github.com/drduh/YubiKey-Guide",
-    "description": "Guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices."
-  },
-  {
-    "name": "YubiKey at Datadog",
-    "url": "https://github.com/DataDog/yubikey",
-    "description": "Guide to setup Yubikey, U2F, GPG, git, SSH, Keybase, VMware Fusion and Docker Content Trust."
-  },
-  {
     "name": "Breaking Password Dependencies: Challenges in the Final Mile at Microsoft",
     "url": "https://www.youtube.com/watch?v=B_mhJO2qHlQ",
     "description": "The primary source of account hacks is password spraying (on legacy auth like SMTP, IMAP, POP, etc.), second is replay attack. Takeaway: password are insecure, use and enforce MFA."
@@ -306,7 +261,7 @@
   {
     "name": "SMS Multifactor Authentication in Antarctica",
     "url": "https://brr.fyi/posts/sms-mfa",
-    "description": "Doesn't work because there are no cell phone towers at stations in Antarctica."
+    "description": "Doesn't work because there are no cellphone towers at stations in Antarctica."
   },
   {
     "name": "Authelia",
@@ -352,6 +307,56 @@
     "name": "AWS is on its way to deprecate SMS-based 2FA",
     "url": "https://aws.amazon.com/iam/details/mfa/",
     "description": "“We encourage you to use MFA through a U2F security key, hardware device, or virtual (software-based) MFA device. You can continue using this feature until January 31, 2019.”"
+  },
+  {
+    "name": "An argument for passwordless",
+    "url": "https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/",
+    "description": "Passwords are not the be-all and end-all of user authentication. This article tries to tell you why."
+  },
+  {
+    "name": "Magic Links – Are they Actually Outdated?",
+    "url": "https://zitadel.com/blog/magic-links",
+    "description": "What are magic links, their origin, pros and cons."
+  },
+  {
+    "name": "WebAuthn guide",
+    "url": "https://webauthn.guide",
+    "description": "Introduce WebAuthn as a standard supported by all major browsers, and allowing “servers to register and authenticate users using public key cryptography instead of a password”."
+  },
+  {
+    "name": "Clearing up some misconceptions about Passkeys",
+    "url": "https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/",
+    "description": "Or why passkeys are not worse than passwords."
+  },
+  {
+    "name": "Webauthn and security keys",
+    "url": "https://www.imperialviolet.org/2018/03/27/webauthn.html",
+    "description": "Describe how authentication works with security keys, details the protocols, and how they articulates with WebAuthn. Key takeaway: “There is no way to create a U2F key with webauthn however. (…) So complete the transition to webauthn of your login process first, then transition registration.”"
+  },
+  {
+    "name": "Getting started with security keys",
+    "url": "https://paulstamatiou.com/getting-started-with-security-keys/",
+    "description": "A practical guide to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys."
+  },
+  {
+    "name": "Solo",
+    "url": "https://github.com/solokeys/solo",
+    "description": "Open security key supporting FIDO2 & U2F over USB + NFC."
+  },
+  {
+    "name": "OpenSK",
+    "url": "https://github.com/google/OpenSK",
+    "description": "Open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards."
+  },
+  {
+    "name": "YubiKey Guide",
+    "url": "https://github.com/drduh/YubiKey-Guide",
+    "description": "Guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices."
+  },
+  {
+    "name": "YubiKey at Datadog",
+    "url": "https://github.com/DataDog/yubikey",
+    "description": "Guide to setup Yubikey, U2F, GPG, git, SSH, Keybase, VMware Fusion and Docker Content Trust."
   },
   {
     "name": "PKI for busy people",
@@ -431,12 +436,191 @@
   {
     "name": "loginsrv",
     "url": "https://github.com/tarent/loginsrv",
-    "description": "Standalone minimalistic login server providing a JWT login for multiple login backends (htpasswd, OSIAM, user/password, HTTP basic authentication, OAuth2: GitHub, Google, Bitbucket, Facebook, Gitlab)."
+    "description": "Standalone minimalistic login server providing a JWT login for multiple login backends (htpasswd, OSIAM, user/password, HTTP basic authentication, OAuth2: GitHub, Google, Bitbucket, Facebook, GitLab)."
   },
   {
     "name": "jwtXploiter",
     "url": "https://github.com/DontPanicO/jwtXploiter",
     "description": "A tool to test security of json web token."
+  },
+  {
+    "name": "Why Authorization is Hard",
+    "url": "https://www.osohq.com/post/why-authorization-is-hard",
+    "description": "Because it needs multiple tradeoffs on Enforcement which is required in so many places, on Decision architecture to split business logic from authorization logic, and on Modeling to balance power and complexity."
+  },
+  {
+    "name": "The never-ending product requirements of user authorization",
+    "url": "https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization",
+    "description": "How a simple authorization model based on roles is not enough and gets complicated fast due to product packaging, data locality, enterprise organizations and compliance."
+  },
+  {
+    "name": "RBAC like it was meant to be",
+    "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
+    "description": "How we got from DAC (unix permissions, secret URL), to MAC (DRM, MFA, 2FA, SELinux), to RBAC. Details how the latter allows for better modeling of policies, ACLs, users and groups."
+  },
+  {
+    "name": "The Case for Granular Permissions",
+    "url": "https://cerbos.dev/blog/the-case-for-granular-permissions",
+    "description": "Discuss the limitations of RBAC and how ABAC (Attribute-Based Access Control) addresses them."
+  },
+  {
+    "name": "In Search For a Perfect Access Control System",
+    "url": "https://goteleport.com/blog/access-controls/",
+    "description": "The historical origins of authorization schemes. Hints at the future of sharing, trust and delegation between different teams and organizations."
+  },
+  {
+    "name": "AWS IAM Roles, a tale of unnecessary complexity",
+    "url": "https://infosec.rodeo/posts/thoughts-on-aws-iam/",
+    "description": "The history of fast-growing AWS explains how the current sheme came to be, and how it compares to GCP's resource hierarchy."
+  },
+  {
+    "name": "GCP's IAM syntax is better than AWS's",
+    "url": "https://ucarion.com/iam-operation-syntax",
+    "description": "The minutiae of permission design in GCP improves the developper's experience."
+  },
+  {
+    "name": "Semantic-based Automated Reasoning for AWS Access Policies using SMT",
+    "url": "https://d1.awsstatic.com/Security/pdfs/Semantic_Based_Automated_Reasoning_for_AWS_Access_Policies_Using_SMT.pdf",
+    "description": "Zelkova is how AWS does it. This system perform symbolic analysis of IAM policies, and solve the reachability of resources according user's rights and access constraints. Also see the higher-level introduction given at re:inforce 2019."
+  },
+  {
+    "name": "Zanzibar: Google's Consistent, Global Authorization System",
+    "url": "https://ai.google/research/pubs/pub48190",
+    "description": "Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. Other bits not in the paper. Zanzibar Academy is a site dedicated to explaining how Zanzibar works."
+  },
+  {
+    "name": "SpiceDB",
+    "url": "https://github.com/authzed/spicedb",
+    "description": "An open source database system for managing security-critical application permissions inspired by Zanzibar."
+  },
+  {
+    "name": "authz system that is built around labeled security and RBAC concepts",
+    "url": "https://news.ycombinator.com/item?id=20136831"
+  },
+  {
+    "name": "Keto",
+    "url": "https://github.com/ory/keto",
+    "description": "Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource."
+  },
+  {
+    "name": "Ladon",
+    "url": "https://github.com/ory/ladon",
+    "description": "Access control library, inspired by AWS."
+  },
+  {
+    "name": "Athenz",
+    "url": "https://github.com/yahoo/athenz",
+    "description": "Set of services and libraries supporting service authentication and role-based authorization (RBAC) for provisioning and configuration."
+  },
+  {
+    "name": "Casbin",
+    "url": "https://github.com/casbin/casbin",
+    "description": "Open-source access control library for Golang projects."
+  },
+  {
+    "name": "Open Policy Agent",
+    "url": "https://github.com/open-policy-agent/opa",
+    "description": "An open-source general-purpose decision engine to create and enforce attribute-based access control (ABAC) policies."
+  },
+  {
+    "name": "Topaz",
+    "url": "https://github.com/aserto-dev/topaz",
+    "description": "An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory."
+  },
+  {
+    "name": "Open Policy Administration Layer",
+    "url": "https://github.com/permitio/opal",
+    "description": "Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications."
+  },
+  {
+    "name": "Gubernator",
+    "url": "https://github.com/mailgun/gubernator",
+    "description": "High performance rate-limiting micro-service and library."
+  },
+  {
+    "name": "Biscuit",
+    "url": "https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/",
+    "description": "Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”"
+  },
+  {
+    "name": "Oso",
+    "url": "https://github.com/osohq/oso",
+    "description": "A batteries-included library for building authorization in your application."
+  },
+  {
+    "name": "Cerbos",
+    "url": "https://github.com/cerbos/cerbos",
+    "description": "An authorization endpoint to write context-aware access control policies."
+  },
+  {
+    "name": "Warrant",
+    "url": "https://github.com/warrant-dev/warrant",
+    "description": "A relationship based access control (ReBAC) engine (inspired by Google Zanzibar) also capable of enforcing any authorization paradigm, including RBAC and ABAC."
+  },
+  {
+    "name": "Become an AWS IAM Policy Ninja",
+    "url": "https://www.youtube.com/watch?v=y7-fAT3z8Lo",
+    "description": "“In my nearly 5 years at Amazon, I carve out a little time each day, each week to look through the forums, customer tickets to try to find out where people are having trouble.”"
+  },
+  {
+    "name": "Cloudsplaining",
+    "url": "https://github.com/salesforce/cloudsplaining",
+    "description": "Security assessment tool that identifies violations of least privilege and generates a risk-prioritized report."
+  },
+  {
+    "name": "Policy Sentry",
+    "url": "https://github.com/salesforce/policy_sentry",
+    "description": "Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds."
+  },
+  {
+    "name": "Aardvark and Repokid",
+    "url": "https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e",
+    "description": "Netflix tools to enforce least privilege on AWS. The idea is that the default policy on new things is deny all, and then it monitors cloudtrail for privilege failures and reconfigures IAM to allow the smallest possible privilege to get rid of that deny message."
+  },
+  {
+    "name": "Principal Mapper",
+    "url": "https://github.com/nccgroup/PMapper",
+    "description": "Quickly evaluates permissions."
+  },
+  {
+    "name": "PolicyUniverse",
+    "url": "https://github.com/Netflix-Skunkworks/policyuniverse",
+    "description": "Parse and process AWS policies, statements, ARNs, and wildcards."
+  },
+  {
+    "name": "IAM Floyd",
+    "url": "https://github.com/udondan/iam-floyd",
+    "description": "AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java."
+  },
+  {
+    "name": "ConsoleMe",
+    "url": "https://github.com/Netflix/consoleme",
+    "description": "A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions."
+  },
+  {
+    "name": "IAMbic",
+    "url": "https://github.com/noqdev/iambic",
+    "description": "GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control."
+  },
+  {
+    "name": "aws-lint-iam-policies",
+    "url": "https://github.com/welldone-cloud/aws-lint-iam-policies",
+    "description": "Runs IAM policy linting checks against either a single AWS account or all accounts of an AWS Organization. Reports on policies that violate security best practices or contain errors. Supports both identity-based and resource-based policies."
+  },
+  {
+    "name": "Google's Macaroons in Five Minutes or Less",
+    "url": "https://blog.bren2010.io/blog/googles-macaroons",
+    "description": "If I'm given a Macaroon that authorizes me to perform some action(s) under certain restrictions, I can non-interactively build a second Macaroon with stricter restrictions that I can then give to you."
+  },
+  {
+    "name": "Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud",
+    "url": "https://ai.google/research/pubs/pub41892",
+    "description": "Google's original paper."
+  },
+  {
+    "name": "Google paper's author compares Macaroons and JWTs",
+    "url": "https://news.ycombinator.com/item?id=14294463",
+    "description": "As a consumer/verifier of macaroons, they allow you (through third-party caveats) to defer some authorization decisions to someone else. JWTs don't."
   },
   {
     "name": "The problem with OAuth for Authentication",
@@ -589,175 +773,6 @@
     "description": "A documented rant on the exessive pricing practiced by SaaS providers to activate SSO on their product. The author's point is, as a core security feature, SSO should be reasonnably priced and not part of an exclusive tier."
   },
   {
-    "name": "Why Authorization is Hard",
-    "url": "https://www.osohq.com/post/why-authorization-is-hard",
-    "description": "Because it needs multiple tradeoffs on Enforcement which is required in so many places, on Decision architecture to split business logic from authorization logic, and on Modeling to balance power and complexity."
-  },
-  {
-    "name": "The never-ending product requirements of user authorization",
-    "url": "https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization",
-    "description": "How a simple authorization model based on roles is not enough and gets complicated fast due to product packaging, data locality, enterprise organizations and compliance."
-  },
-  {
-    "name": "RBAC like it was meant to be",
-    "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
-    "description": "How we got from DAC (unix permissions, secret URL), to MAC (DRM, MFA, 2FA, SELinux), to RBAC. Details how the latter allows for better modeling of policies, ACLs, users and groups."
-  },
-  {
-    "name": "The Case for Granular Permissions",
-    "url": "https://cerbos.dev/blog/the-case-for-granular-permissions",
-    "description": "Discuss the limitations of RBAC and how ABAC (Attribute-Based Access Control) addresses them."
-  },
-  {
-    "name": "In Search For a Perfect Access Control System",
-    "url": "https://goteleport.com/blog/access-controls/",
-    "description": "The historical origins of authorization schemes. Hints at the future of sharing, trust and delegation between different teams and organizations."
-  },
-  {
-    "name": "AWS IAM Roles, a tale of unnecessary complexity",
-    "url": "https://infosec.rodeo/posts/thoughts-on-aws-iam/",
-    "description": "The history of fast-growing AWS explains how the current sheme came to be, and how it compares to GCP's resource hierarchy."
-  },
-  {
-    "name": "Semantic-based Automated Reasoning for AWS Access Policies using SMT",
-    "url": "https://d1.awsstatic.com/Security/pdfs/Semantic_Based_Automated_Reasoning_for_AWS_Access_Policies_Using_SMT.pdf",
-    "description": "Zelkova is how AWS does it. This system perform symbolic analysis of IAM policies, and solve the reachability of resources according user's rights and access constraints. Also see the higher-level introduction given at re:inforce 2019."
-  },
-  {
-    "name": "Zanzibar: Google's Consistent, Global Authorization System",
-    "url": "https://ai.google/research/pubs/pub48190",
-    "description": "Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. Other bits not in the paper. Zanzibar Academy is a site dedicated to explaining how Zanzibar works."
-  },
-  {
-    "name": "SpiceDB",
-    "url": "https://github.com/authzed/spicedb",
-    "description": "An open source database system for managing security-critical application permissions inspired by Zanzibar."
-  },
-  {
-    "name": "authz system that is built around labeled security and RBAC concepts",
-    "url": "https://news.ycombinator.com/item?id=20136831"
-  },
-  {
-    "name": "Keto",
-    "url": "https://github.com/ory/keto",
-    "description": "Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource."
-  },
-  {
-    "name": "Ladon",
-    "url": "https://github.com/ory/ladon",
-    "description": "Access control library, inspired by AWS."
-  },
-  {
-    "name": "Athenz",
-    "url": "https://github.com/yahoo/athenz",
-    "description": "Set of services and libraries supporting service authentication and role-based authorization (RBAC) for provisioning and configuration."
-  },
-  {
-    "name": "Casbin",
-    "url": "https://github.com/casbin/casbin",
-    "description": "Open-source access control library for Golang projects."
-  },
-  {
-    "name": "Open Policy Agent",
-    "url": "https://github.com/open-policy-agent/opa",
-    "description": "An open-source general-purpose decision engine to create and enforce attribute-based access control (ABAC) policies."
-  },
-  {
-    "name": "Topaz",
-    "url": "https://github.com/aserto-dev/topaz",
-    "description": "An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory."
-  },
-  {
-    "name": "Open Policy Administration Layer",
-    "url": "https://github.com/permitio/opal",
-    "description": "Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications."
-  },
-  {
-    "name": "Gubernator",
-    "url": "https://github.com/mailgun/gubernator",
-    "description": "High performance rate-limiting micro-service and library."
-  },
-  {
-    "name": "Biscuit",
-    "url": "https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/",
-    "description": "Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”"
-  },
-  {
-    "name": "Oso",
-    "url": "https://github.com/osohq/oso",
-    "description": "A batteries-included library for building authorization in your application."
-  },
-  {
-    "name": "Cerbos",
-    "url": "https://github.com/cerbos/cerbos",
-    "description": "An authorization endpoint to write context-aware access control policies."
-  },
-  {
-    "name": "Become an AWS IAM Policy Ninja",
-    "url": "https://www.youtube.com/watch?v=y7-fAT3z8Lo",
-    "description": "“In my nearly 5 years at Amazon, I carve out a little time each day, each week to look through the forums, customer tickets to try to find out where people are having trouble.”"
-  },
-  {
-    "name": "Cloudsplaining",
-    "url": "https://github.com/salesforce/cloudsplaining",
-    "description": "Security assessment tool that identifies violations of least privilege and generates a risk-prioritized report."
-  },
-  {
-    "name": "Policy Sentry",
-    "url": "https://github.com/salesforce/policy_sentry",
-    "description": "Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds."
-  },
-  {
-    "name": "Aardvark and Repokid",
-    "url": "https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e",
-    "description": "Netflix tools to enforce least privilege on AWS. The idea is that the default policy on new things is deny all, and then it monitors cloudtrail for privilege failures and reconfigures IAM to allow the smallest possible privilege to get rid of that deny message."
-  },
-  {
-    "name": "Principal Mapper",
-    "url": "https://github.com/nccgroup/PMapper",
-    "description": "Quickly evaluates permissions."
-  },
-  {
-    "name": "PolicyUniverse",
-    "url": "https://github.com/Netflix-Skunkworks/policyuniverse",
-    "description": "Parse and process AWS policies, statements, ARNs, and wildcards."
-  },
-  {
-    "name": "IAM Floyd",
-    "url": "https://github.com/udondan/iam-floyd",
-    "description": "AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java."
-  },
-  {
-    "name": "ConsoleMe",
-    "url": "https://github.com/Netflix/consoleme",
-    "description": "A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions."
-  },
-  {
-    "name": "IAMbic",
-    "url": "https://github.com/noqdev/iambic",
-    "description": "GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control."
-  },
-  {
-    "name": "aws-lint-iam-policies",
-    "url": "https://github.com/welldone-cloud/aws-lint-iam-policies",
-    "description": "Runs IAM policy linting checks against either a single AWS account or all accounts of an AWS Organization. Reports on policies that violate security best practices or contain errors. Supports both identity-based and resource-based policies."
-  },
-  {
-    "name": "Google's Macaroons in Five Minutes or Less",
-    "url": "https://blog.bren2010.io/blog/googles-macaroons",
-    "description": "If I'm given a Macaroon that authorizes me to perform some action(s) under certain restrictions, I can non-interactively build a second Macaroon with stricter restrictions that I can then give to you."
-  },
-  {
-    "name": "Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud",
-    "url": "https://ai.google/research/pubs/pub41892",
-    "description": "Google's original paper."
-  },
-  {
-    "name": "Google paper's author compares Macaroons and JWTs",
-    "url": "https://news.ycombinator.com/item?id=14294463",
-    "description": "As a consumer/verifier of macaroons, they allow you (through third-party caveats) to defer some authorization decisions to someone else. JWTs don't."
-  },
-  {
     "name": "Secret at Scale at Netflix",
     "url": "https://www.youtube.com/watch?v=K0EOPddWpsE",
     "description": "Solution based on blind signatures. See the slides."
@@ -768,9 +783,14 @@
     "description": "Not GCP's KMS, but the one at the core of their infrastructure. See the slides."
   },
   {
-    "name": "vault",
+    "name": "HashiCorp Vault",
     "url": "https://www.vaultproject.io",
     "description": "Secure, store and tightly control access to tokens, passwords, certificates, encryption keys."
+  },
+  {
+    "name": "Infisical",
+    "url": "https://github.com/Infisical/infisical",
+    "description": "An alternative to HashiCorp Vault."
   },
   {
     "name": "sops",

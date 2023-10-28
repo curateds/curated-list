@@ -873,7 +873,7 @@
   },
   {
     "name": "luacheck",
-    "url": "https://github.com/mpeterv/luacheck"
+    "url": "https://github.com/lunarmodules/luacheck"
   },
   {
     "name": "lualint",
@@ -1961,6 +1961,10 @@
   {
     "name": "Fortify",
     "url": "https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview"
+  },
+  {
+    "name": "fta",
+    "url": "https://ftaproject.dev/"
   },
   {
     "name": "Goodcheck",
