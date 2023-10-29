@@ -2142,8 +2142,8 @@
   },
   {
     "name": "Cloud Init file for SBCL",
-    "url": "https://gist.github.com/marcuskammer/366964f7d569317429773b82a4dafbf9",
-    "description": "example init file for providers supporting the cloudinit format (DigitalOcean etc)."
+    "url": "https://git.sr.ht/%7Emarcuskammer/cloudinit/tree/main/item/sbcl-nginx.yml",
+    "description": "an init file for providers supporting the cloudinit format (DigitalOcean etc)."
   },
   {
     "name": "prometheus.cl",

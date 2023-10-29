@@ -383,6 +383,10 @@
     "url": "https://d2l.ai/chapter_linear-classification/softmax-regression.html"
   },
   {
+    "name": "Locally Estimated Scatterplot Smoothing",
+    "url": "https://en.wikipedia.org/wiki/Local_regression"
+  },
+  {
     "name": "k-nearest neighbor",
     "url": "https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm"
   },
@@ -415,6 +419,10 @@
     "url": "https://en.wikipedia.org/wiki/Boosting_(machine_learning)"
   },
   {
+    "name": "Stacking",
+    "url": "https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python"
+  },
+  {
     "name": "Bagging",
     "url": "https://en.wikipedia.org/wiki/Bootstrap_aggregating"
   },
@@ -443,6 +451,14 @@
     "url": "https://scikit-learn.org/stable/modules/clustering.html#dbscan"
   },
   {
+    "name": "Fuzzy clustering",
+    "url": "https://en.wikipedia.org/wiki/Fuzzy_clustering"
+  },
+  {
+    "name": "Mixture models",
+    "url": "https://en.wikipedia.org/wiki/Mixture_model"
+  },
+  {
     "name": "Principal Component Analysis (PCA)",
     "url": "https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca"
   },
@@ -465,6 +481,50 @@
   {
     "name": "Neural Networks",
     "url": "https://en.wikipedia.org/wiki/Neural_network"
+  },
+  {
+    "name": "Self-organizing map",
+    "url": "https://en.wikipedia.org/wiki/Self-organizing_map"
+  },
+  {
+    "name": "Adaptive resonance theory",
+    "url": "https://en.wikipedia.org/wiki/Adaptive_resonance_theory"
+  },
+  {
+    "name": "Hidden Markov Models (HMM)",
+    "url": "https://en.wikipedia.org/wiki/Hidden_Markov_model"
+  },
+  {
+    "name": "Clustering",
+    "url": "https://en.wikipedia.org/wiki/Weak_supervision#Cluster_assumption"
+  },
+  {
+    "name": "Generative models",
+    "url": "https://en.wikipedia.org/wiki/Weak_supervision#Generative_models"
+  },
+  {
+    "name": "Low-density separation",
+    "url": "https://en.wikipedia.org/wiki/Weak_supervision#Low-density_separation"
+  },
+  {
+    "name": "Laplacian regularization",
+    "url": "https://en.wikipedia.org/wiki/Weak_supervision#Laplacian_regularization"
+  },
+  {
+    "name": "Heuristic approaches",
+    "url": "https://en.wikipedia.org/wiki/Weak_supervision#Heuristic_approaches"
+  },
+  {
+    "name": "Q Learning",
+    "url": "https://en.wikipedia.org/wiki/Q-learning"
+  },
+  {
+    "name": "SARSA (State-Action-Reward-State-Action) algorithm",
+    "url": "https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action"
+  },
+  {
+    "name": "Temporal difference learning",
+    "url": "https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal%20difference%20(TD)%20learning%20refers,estimate%20of%20the%20value%20function."
   },
   {
     "name": "Multilayer Perceptron",
@@ -2015,6 +2075,10 @@
   {
     "name": "Deep Learning Architectures",
     "url": "https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf"
+  },
+  {
+    "name": "Time Series Modelling and Analysis",
+    "url": "https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK"
   },
   {
     "name": "Data",

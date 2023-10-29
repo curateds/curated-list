@@ -125,29 +125,9 @@
     "description": "Highly concurrent key/value datastore used for caching."
   },
   {
-    "name": "ASCII Table",
-    "url": "https://github.com/vdmeer/asciitable",
-    "description": "Library to draw tables in ASCII."
-  },
-  {
     "name": "Airline",
-    "url": "https://github.com/airlift/airline",
+    "url": "https://rvesse.github.io/airline/",
     "description": "Annotation-based framework for parsing Git-like command-line arguments."
-  },
-  {
-    "name": "args4j",
-    "url": "http://args4j.kohsuke.org",
-    "description": "Small library to parse command-line arguments."
-  },
-  {
-    "name": "Jansi",
-    "url": "https://github.com/fusesource/jansi",
-    "description": "ANSI escape codes to format console output."
-  },
-  {
-    "name": "Java ASCII Render",
-    "url": "https://github.com/indvd00m/java-ascii-render",
-    "description": "Graphical primitives for the console."
   },
   {
     "name": "JCommander",
@@ -160,24 +140,24 @@
     "description": "Reflectionless command line parser."
   },
   {
-    "name": "Jexer",
-    "url": "https://gitlab.com/klamonte/jexer",
-    "description": "Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like Turbo Vision."
-  },
-  {
     "name": "JLine",
     "url": "https://github.com/jline/jline3",
     "description": "Includes features from modern shells like completion or history."
   },
   {
-    "name": "JOpt Simple",
-    "url": "https://jopt-simple.github.io/jopt-simple/",
-    "description": "Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes."
-  },
-  {
     "name": "picocli",
     "url": "https://picocli.info",
     "description": "ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args."
+  },
+  {
+    "name": "Jansi",
+    "url": "https://github.com/fusesource/jansi",
+    "description": "ANSI escape codes to format console output."
+  },
+  {
+    "name": "Jexer",
+    "url": "https://gitlab.com/klamonte/jexer",
+    "description": "Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like Turbo Vision."
   },
   {
     "name": "Text-IO",
@@ -957,7 +937,7 @@
   {
     "name": "Getdown",
     "url": "https://github.com/threerings/getdown",
-    "description": "A system for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start."
+    "description": "System for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start."
   },
   {
     "name": "IzPack",
@@ -967,7 +947,7 @@
   {
     "name": "JavaPackager",
     "url": "https://github.com/fvarrui/JavaPackager",
-    "description": "Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, Mac OS X or GNU/Linux executables, and generate installers for them."
+    "description": "Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, macOS or GNU/Linux executables, and generate installers for them."
   },
   {
     "name": "jDeploy",
@@ -1257,7 +1237,7 @@
   {
     "name": "Apache HttpComponents",
     "url": "https://hc.apache.org/",
-    "description": "A toolset of low-level Java components focused on HTTP and associated protocols."
+    "description": "Toolset of low-level Java components focused on HTTP and associated protocols."
   },
   {
     "name": "Async Http Client",
@@ -1267,7 +1247,7 @@
   {
     "name": "Avaje Http Client",
     "url": "https://avaje.io/http-client",
-    "description": "A wrapper on JDK 11's HttpClient that adds Feign-like interface among other enhancements."
+    "description": "Wrapper on JDK 11's HttpClient that adds Feign-like interface among other enhancements."
   },
   {
     "name": "Feign",
@@ -3156,7 +3136,7 @@
   },
   {
     "name": "GreenMail",
-    "url": "http://www.icegreen.com/greenmail/",
+    "url": "https://greenmail-mail-test.github.io/greenmail/",
     "description": "In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)"
   },
   {
@@ -3456,7 +3436,7 @@
   },
   {
     "name": "JADE",
-    "url": "http://jade.tilab.com",
+    "url": "https://jade.tilab.com",
     "description": "Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)"
   },
   {
@@ -3483,6 +3463,11 @@
     "name": "Protégé",
     "url": "https://protege.stanford.edu",
     "description": "Provides an ontology editor and a framework to build knowledge-based systems."
+  },
+  {
+    "name": "Semver4j",
+    "url": "https://github.com/semver4j/semver4j",
+    "description": "Lightweight library that helps you handling semantic versioning with different modes."
   },
   {
     "name": "Underscore-java",
@@ -3678,11 +3663,6 @@
     "description": "Question/answer platform."
   },
   {
-    "name": "VirtualJUG",
-    "url": "https://virtualjug.com",
-    "description": "Virtual Java User Group."
-  },
-  {
     "name": "java.libhunt.com",
     "url": "https://java.libhunt.com"
   },
@@ -3730,10 +3710,6 @@
   {
     "name": "Java Off Heap",
     "url": "http://www.javaoffheap.com"
-  },
-  {
-    "name": "The Java Council",
-    "url": "https://virtualjug.com/#podcast"
   },
   {
     "name": "The Java Posse",

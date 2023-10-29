@@ -615,6 +615,11 @@
     "description": "Image thumbnails for Django."
   },
   {
+    "name": "whitenoise",
+    "url": "https://github.com/evansd/whitenoise",
+    "description": "Simplified static file serving for Python websites."
+  },
+  {
     "name": "beatserver",
     "url": "https://github.com/rajasimon/beatserver",
     "description": "A periodic task scheduler for Django."
@@ -833,11 +838,6 @@
     "name": "sentry-python",
     "url": "https://github.com/getsentry/sentry-python",
     "description": "Error reporting SDK."
-  },
-  {
-    "name": "whitenoise",
-    "url": "https://github.com/evansd/whitenoise",
-    "description": "Simplified static file serving for Python websites."
   },
   {
     "name": "Project Website",
