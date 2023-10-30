@@ -1604,6 +1604,11 @@
     "description": "BigCache with clustering support and individual item expiration."
   },
   {
+    "name": "coherence-go-client",
+    "url": "https://github.com/oracle/coherence-go-client",
+    "description": "Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport."
+  },
+  {
     "name": "couchcache",
     "url": "https://github.com/codingsince1985/couchcache",
     "description": "RESTful caching micro-service backed by Couchbase server."

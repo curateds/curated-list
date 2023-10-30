@@ -530,6 +530,11 @@
     "description": "The tiling image board system for people who want to save, tag, and share images, videos, and webpages. (Demo, Source Code) BSD-2-Clause Docker/Python"
   },
   {
+    "name": "Servas",
+    "url": "https://github.com/beromir/Servas",
+    "description": "A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. (Clients) GPL-3.0 Docker/Nodejs/PHP"
+  },
+  {
     "name": "Shaarli",
     "url": "https://github.com/shaarli/Shaarli",
     "description": "Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. (Demo) Zlib PHP/deb"

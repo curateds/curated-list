@@ -681,12 +681,12 @@
     "description": "Provides a function usable in prompts that displays version information for your current tool versions."
   },
   {
-    "name": "asdf",
+    "name": "asdf (kiurchv)",
     "url": "https://github.com/kiurchv/asdf.plugin.zsh",
     "description": "Integration and completions for asdf, the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more."
   },
   {
-    "name": "asdf",
+    "name": "asdf (zimfw)",
     "url": "https://github.com/zimfw/asdf",
     "description": "Initializes asdf, installing it using git if not installed yet. Also, bypasses the shims if you're using the direnv plugin, as suggested by the plugin pro-tips."
   },
@@ -1263,7 +1263,7 @@
   {
     "name": "containers",
     "url": "https://github.com/redxtech/zsh-containers",
-    "description": "provides aliases and better interoperability between [podman(https://podman.io)] and docker commands based on which you have installed."
+    "description": "Provides aliases and better interoperability between [podman(https://podman.io)] and docker commands based on which you have installed."
   },
   {
     "name": "copy-pasta",
@@ -1793,7 +1793,7 @@
   {
     "name": "fzf-dir-navigator",
     "url": "https://github.com/KulkarniKaustubh/fzf-dir-navigator",
-    "description": "This is a cool and user-friendly directory navigation plugin for zsh using fzf."
+    "description": "This is a cool and user-friendly directory navigation plugin for zsh using fzf that allows the user to switch to any directory from anywhere and to anywhere. It also maintains a history of recently visited directories. Additionally, you can use hotkeys to move back and forth between directories in the shell session."
   },
   {
     "name": "fzf-fasd",
@@ -4709,6 +4709,11 @@
     "name": "zlitefetch",
     "url": "https://github.com/ippee/zlitefetch",
     "description": "Lightweight system information plugin."
+  },
+  {
+    "name": "zload",
+    "url": "https://github.com/mollifier/zload",
+    "description": "Hot Reload for ZSH functions. Enables rapid development."
   },
   {
     "name": "zlong_alert",
@@ -9350,8 +9355,13 @@
     "description": "Powerline-reminiscent theme. Includes git, last command exit status and directory decorations."
   },
   {
-    "name": "sdkman",
+    "name": "sdkman (matthieusb)",
     "url": "https://github.com/matthieusb/zsh-sdkman",
+    "description": "Add tab completions for sdkman."
+  },
+  {
+    "name": "sdkman (yongxingzhao)",
+    "url": "https://github.com/yongxingzhao/zsh-sdkman",
     "description": "Add tab completions for sdkman."
   },
   {

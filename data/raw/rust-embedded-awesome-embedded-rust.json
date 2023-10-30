@@ -1721,6 +1721,11 @@
     "description": "I2C - Fully supported SHT temperature / humidity sensors - github -"
   },
   {
+    "name": "AD9850",
+    "url": "https://crates.io/crates/ad9850",
+    "description": "Embedded driver for the AD9850 DDS synthesizer chip -"
+  },
+  {
     "name": "AFE4400",
     "url": "https://github.com/ReeceStevens/afe4400",
     "description": "SPI - Pulse oximeter"
