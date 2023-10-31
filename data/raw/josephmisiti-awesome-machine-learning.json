@@ -312,6 +312,10 @@
     "url": "https://phoenix.arize.com"
   },
   {
+    "name": "XAD",
+    "url": "https://github.com/auto-differentiation/XAD"
+  },
+  {
     "name": "BLLIP Parser",
     "url": "https://github.com/BLLIP/bllip-parser",
     "description": "BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)."
@@ -2530,6 +2534,11 @@
     "description": "A PyTorch implementation of CVPR2019 paper \"Deep High-Resolution Representation Learning for Human Pose Estimation\""
   },
   {
+    "name": "TF-GAN",
+    "url": "https://github.com/tensorflow/gan",
+    "description": "TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs)."
+  },
+  {
     "name": "dream-creator",
     "url": "https://github.com/ProGamerGov/dream-creator",
     "description": "A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream."
@@ -2573,6 +2582,16 @@
     "name": "timm",
     "url": "https://github.com/rwightman/pytorch-image-models",
     "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more."
+  },
+  {
+    "name": "segmentation_models.pytorch",
+    "url": "https://github.com/qubvel/segmentation_models.pytorch",
+    "description": "A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images."
+  },
+  {
+    "name": "segmentation_models",
+    "url": "https://github.com/qubvel/segmentation_models",
+    "description": "A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images."
   },
   {
     "name": "pkuseg-python",
@@ -4295,9 +4314,9 @@
     "description": "DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning."
   },
   {
-    "name": "Gym",
-    "url": "https://github.com/openai/gym",
-    "description": "OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms."
+    "name": "Gymnasium",
+    "url": "https://github.com/Farama-Foundation/Gymnasium",
+    "description": "A library for developing and comparing reinforcement learning algorithms (successor of gym."
   },
   {
     "name": "Serpent.AI",

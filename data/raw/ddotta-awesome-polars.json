@@ -77,6 +77,11 @@
     "description": "Machine learning Python package built on Polars for time-series predictions by @neocortexdb. According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !"
   },
   {
+    "name": "polars-business",
+    "url": "https://github.com/MarcoGorelli/polars-business",
+    "description": "Polars extension that offers utilities for business day operations with Polars and Python by @MarcoGorelli."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."

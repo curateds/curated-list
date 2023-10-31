@@ -2481,6 +2481,11 @@
     "description": "Access to the system clipboard on Linux, MacOS and Windows."
   },
   {
+    "name": "KatakataIrb",
+    "url": "https://github.com/tompng/katakata_irb",
+    "description": "IRB with Kata(型 Type) completion."
+  },
+  {
     "name": "irbtools",
     "url": "https://github.com/janlelis/irbtools",
     "description": "Improvements for Ruby's IRB."
@@ -2719,6 +2724,11 @@
     "name": "Ruby Natural Language Processing Resources",
     "url": "https://github.com/diasks2/ruby-nlp",
     "description": "Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software."
+  },
+  {
+    "name": "ruby-spellchecker",
+    "url": "https://github.com/omohokcoj/ruby-spellchecker",
+    "description": "English spelling and grammar checker that can be used for autocorrection."
   },
   {
     "name": "Sentimental",

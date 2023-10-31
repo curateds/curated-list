@@ -205,16 +205,6 @@
     "description": "A fast SVM Library on GPUs and CPUs."
   },
   {
-    "name": "Python Extreme Learning Machine (ELM)",
-    "url": "https://github.com/acba/elm",
-    "description": "A machine learning technique used for classification/regression tasks."
-  },
-  {
-    "name": "hpelm",
-    "url": "https://github.com/akusok/hpelm",
-    "description": "High-performance implementation of Extreme Learning Machines (fast randomized neural networks)."
-  },
-  {
     "name": "PyTorch",
     "url": "https://github.com/pytorch/pytorch",
     "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration."
@@ -420,81 +410,6 @@
     "description": "A powerful Automated Machine Learning python library."
   },
   {
-    "name": "sktime",
-    "url": "https://github.com/alan-turing-institute/sktime",
-    "description": "A unified framework for machine learning with time series."
-  },
-  {
-    "name": "darts",
-    "url": "https://github.com/unit8co/darts",
-    "description": "A python library for easy manipulation and forecasting of time series."
-  },
-  {
-    "name": "statsforecast",
-    "url": "https://github.com/Nixtla/statsforecast",
-    "description": "Lightning fast forecasting with statistical and econometric models."
-  },
-  {
-    "name": "mlforecast",
-    "url": "https://github.com/Nixtla/mlforecast",
-    "description": "Scalable machine learning-based time series forecasting."
-  },
-  {
-    "name": "neuralforecast",
-    "url": "https://github.com/Nixtla/neuralforecast",
-    "description": "Scalable machine learning-based time series forecasting."
-  },
-  {
-    "name": "tslearn",
-    "url": "https://github.com/rtavenar/tslearn",
-    "description": "Machine learning toolkit dedicated to time-series data."
-  },
-  {
-    "name": "tick",
-    "url": "https://github.com/X-DataInitiative/tick",
-    "description": "Module for statistical learning, with a particular emphasis on time-dependent modeling."
-  },
-  {
-    "name": "greykite",
-    "url": "https://github.com/linkedin/greykite",
-    "description": "A flexible, intuitive, and fast forecasting library next."
-  },
-  {
-    "name": "Prophet",
-    "url": "https://github.com/facebook/prophet",
-    "description": "Automatic Forecasting Procedure."
-  },
-  {
-    "name": "PyFlux",
-    "url": "https://github.com/RJT1990/pyflux",
-    "description": "Open source time series library for Python."
-  },
-  {
-    "name": "bayesloop",
-    "url": "https://github.com/christophmark/bayesloop",
-    "description": "Probabilistic programming framework that facilitates objective model selection for time-varying parameter models."
-  },
-  {
-    "name": "luminol",
-    "url": "https://github.com/linkedin/luminol",
-    "description": "Anomaly Detection and Correlation library."
-  },
-  {
-    "name": "dateutil",
-    "url": "https://dateutil.readthedocs.io/en/stable/",
-    "description": "Powerful extensions to the standard datetime module"
-  },
-  {
-    "name": "maya",
-    "url": "https://github.com/timofurrer/maya",
-    "description": "makes it very easy to parse a string and for changing timezones"
-  },
-  {
-    "name": "Chaos Genius",
-    "url": "https://github.com/chaos-genius/chaos_genius",
-    "description": "ML powered analytics engine for outlier/anomaly detection and root cause analysis"
-  },
-  {
     "name": "torchtext",
     "url": "https://github.com/pytorch/text",
     "description": "Data loaders and abstractions for text and NLP."
@@ -658,6 +573,81 @@
     "name": "LAVIS",
     "url": "https://github.com/salesforce/LAVIS",
     "description": "A One-stop Library for Language-Vision Intelligence."
+  },
+  {
+    "name": "sktime",
+    "url": "https://github.com/alan-turing-institute/sktime",
+    "description": "A unified framework for machine learning with time series."
+  },
+  {
+    "name": "darts",
+    "url": "https://github.com/unit8co/darts",
+    "description": "A python library for easy manipulation and forecasting of time series."
+  },
+  {
+    "name": "statsforecast",
+    "url": "https://github.com/Nixtla/statsforecast",
+    "description": "Lightning fast forecasting with statistical and econometric models."
+  },
+  {
+    "name": "mlforecast",
+    "url": "https://github.com/Nixtla/mlforecast",
+    "description": "Scalable machine learning-based time series forecasting."
+  },
+  {
+    "name": "neuralforecast",
+    "url": "https://github.com/Nixtla/neuralforecast",
+    "description": "Scalable machine learning-based time series forecasting."
+  },
+  {
+    "name": "tslearn",
+    "url": "https://github.com/rtavenar/tslearn",
+    "description": "Machine learning toolkit dedicated to time-series data."
+  },
+  {
+    "name": "tick",
+    "url": "https://github.com/X-DataInitiative/tick",
+    "description": "Module for statistical learning, with a particular emphasis on time-dependent modeling."
+  },
+  {
+    "name": "greykite",
+    "url": "https://github.com/linkedin/greykite",
+    "description": "A flexible, intuitive, and fast forecasting library next."
+  },
+  {
+    "name": "Prophet",
+    "url": "https://github.com/facebook/prophet",
+    "description": "Automatic Forecasting Procedure."
+  },
+  {
+    "name": "PyFlux",
+    "url": "https://github.com/RJT1990/pyflux",
+    "description": "Open source time series library for Python."
+  },
+  {
+    "name": "bayesloop",
+    "url": "https://github.com/christophmark/bayesloop",
+    "description": "Probabilistic programming framework that facilitates objective model selection for time-varying parameter models."
+  },
+  {
+    "name": "luminol",
+    "url": "https://github.com/linkedin/luminol",
+    "description": "Anomaly Detection and Correlation library."
+  },
+  {
+    "name": "dateutil",
+    "url": "https://dateutil.readthedocs.io/en/stable/",
+    "description": "Powerful extensions to the standard datetime module"
+  },
+  {
+    "name": "maya",
+    "url": "https://github.com/timofurrer/maya",
+    "description": "makes it very easy to parse a string and for changing timezones"
+  },
+  {
+    "name": "Chaos Genius",
+    "url": "https://github.com/chaos-genius/chaos_genius",
+    "description": "ML powered analytics engine for outlier/anomaly detection and root cause analysis"
   },
   {
     "name": "Gymnasium",
