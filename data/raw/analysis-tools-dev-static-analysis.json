@@ -672,6 +672,10 @@
     "url": "https://www.eclipse.org/cognicrypt"
   },
   {
+    "name": "Dataflow Framework",
+    "url": "https://github.com/typetools/checker-framework"
+  },
+  {
     "name": "DesigniteJava",
     "url": "http://www.designite-tools.com/designitejava"
   },
@@ -1534,6 +1538,10 @@
   {
     "name": "herbie",
     "url": "https://github.com/mcarton/rust-herbie-lint"
+  },
+  {
+    "name": "kani",
+    "url": "https://github.com/model-checking/kani"
   },
   {
     "name": "linter-rust",
@@ -2970,6 +2978,10 @@
     "url": "https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html"
   },
   {
+    "name": "kani",
+    "url": "https://github.com/model-checking/kani"
+  },
+  {
     "name": "kics",
     "url": "https://kics.io/"
   },
@@ -3156,7 +3168,7 @@
   },
   {
     "name": "vale",
-    "url": "https://docs.errata.ai/vale/about"
+    "url": "https://vale.sh"
   },
   {
     "name": "write-good",

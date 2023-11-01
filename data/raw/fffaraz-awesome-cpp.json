@@ -755,6 +755,11 @@
     "description": "Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]"
   },
   {
+    "name": "minizip-ng",
+    "url": "https://github.com/zlib-ng/minizip-ng",
+    "description": "Fork of the popular zip manipulation library found in the zlib distribution. [zlib]"
+  },
+  {
     "name": "smaz",
     "url": "https://github.com/antirez/smaz",
     "description": "Small strings compression library. [BSD]"

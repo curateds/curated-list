@@ -372,7 +372,7 @@
   {
     "name": "Botan",
     "url": "https://botan.randombit.net/",
-    "description": "Cryptography library written in C++11."
+    "description": "Cryptography library written in C++20."
   },
   {
     "name": "cryptopp",
@@ -995,6 +995,11 @@
     "name": "BLAKE3",
     "url": "https://github.com/BLAKE3-team/BLAKE3",
     "description": "is official Rust and C implementations of the BLAKE3 cryptographic hash function."
+  },
+  {
+    "name": "botan-rs",
+    "url": "https://github.com/randombit/botan-rs",
+    "description": "Botan bindings for Rust."
   },
   {
     "name": "cryptoballot",

@@ -340,6 +340,11 @@
     "description": "Adds variants for input and form states for FormKit."
   },
   {
+    "name": "Htmx",
+    "url": "https://github.com/aniftyco/tailwind-htmx",
+    "description": "Adds variants for styling on htmx events."
+  },
+  {
     "name": "Debug Screens",
     "url": "https://github.com/jorenvanhee/tailwindcss-debug-screens",
     "description": "Adds a component that shows the currently active screen (responsive breakpoint)."
