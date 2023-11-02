@@ -118,6 +118,11 @@
     "description": "Serie of videos on YouTube who explain how to build your own IDE from scratch with Blazor and .NET. Starting point repo  . Blazor Studio repo  ."
   },
   {
+    "name": "Cledev.OpenAI",
+    "url": "https://github.com/lucabriguglia/Cledev.OpenAI",
+    "description": ".NET 7 SDK for OpenAI with a Blazor Server playground."
+  },
+  {
     "name": "BlazorBoilerplate",
     "url": "https://github.com/enkodellc/blazorboilerplate",
     "description": "Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. Demo."
@@ -357,8 +362,14 @@
     "description": "Blazor chat demo using SignalR JS client with interop."
   },
   {
+    "name": "Blazor.SVGEditor",
+    "url": "https://github.com/KristofferStrube/Blazor.SVGEditor",
+    "description": "A basic HTML SVG Editor written in Blazor WASM."
+  },
+  {
     "name": "Netflix microfrontend like",
-    "url": "https://github.com/piral-samples/netflix-demo"
+    "url": "https://github.com/piral-samples/netflix-demo",
+    "description": "A netflix-like portal application with pilets. This sample demonstrates the use of piral to build a dynamic app consisting of various micro frontends. Demo."
   },
   {
     "name": "Command and Control, by David Fowler",
@@ -1220,6 +1231,11 @@
     "name": "ASP.NET Community Standup - New Blazor updates in .NET 8 RC2",
     "url": "https://www.youtube.com/watch?v=C2y9tXcbweg",
     "description": "New Blazor updates in .NET 8 RC2 -  October 10, 2023 - About what Blazor has to offer in .NET 8 RC2. Community links."
+  },
+  {
+    "name": "Blazor on .NET 8 - Ten Reasons why Blazor on .NET 8 is a Game Changer",
+    "url": "https://www.youtube.com/watch?v=VWwZrDA8om0",
+    "description": "Ten Reasons why Blazor on .NET 8 is a Game Changer -  October 10, 2023 - 10 reasons why the new enhancements and new features about Blazor released with .NET 8 are an absolute game changer."
   },
   {
     "name": "ASP.NET Community Standup - Full Stack Blazor Tips and Updates",

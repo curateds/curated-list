@@ -557,7 +557,7 @@
   },
   {
     "name": "Apollo Client documentation",
-    "url": "https://www.apollographql.com/react/",
+    "url": "https://www.apollographql.com/docs/react",
     "description": "Documentation and example for building GraphQL apps using apollo client."
   },
   {
@@ -1578,6 +1578,11 @@
     "name": "GraphQL Cop",
     "url": "https://github.com/dolevf/graphql-cop",
     "description": "Security Audit Utility for GraphQL"
+  },
+  {
+    "name": "GraphQLer",
+    "url": "https://github.com/omar2535/GraphQLer",
+    "description": "Dependency-aware dynamic GraphQL testing tool"
   },
   {
     "name": "Apollo Client Developer Tools",
