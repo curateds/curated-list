@@ -959,6 +959,11 @@
     "description": "A Python library with a function to merge two different GTFS feeds."
   },
   {
+    "name": "gtfsmerge",
+    "url": "https://github.com/now8-org/gtfsmerge",
+    "description": "A Python Script to merge GTFS ZIP archives into one."
+  },
+  {
     "name": "GTFS Kit",
     "url": "https://github.com/mrcagney/gtfs_kit",
     "description": "A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes GTFSTK."
