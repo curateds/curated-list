@@ -1045,6 +1045,11 @@
     "description": "Module of mini.nvim to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay."
   },
   {
+    "name": "miversen33/sunglasses.nvim",
+    "url": "https://github.com/miversen33/sunglasses.nvim",
+    "description": "Dynamic Colorscheme/highlight adjuster on window switching."
+  },
+  {
     "name": "shaeinst/roshnivim-cs",
     "url": "https://github.com/shaeinst/roshnivim-cs",
     "description": "Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support."
@@ -2638,6 +2643,11 @@
     "name": "dasupradyumna/launch.nvim",
     "url": "https://github.com/dasupradyumna/launch.nvim",
     "description": "A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging."
+  },
+  {
+    "name": "benlubas/molten-nvim",
+    "url": "https://github.com/benlubas/molten-nvim",
+    "description": "Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code."
   },
   {
     "name": "folke/neodev.nvim",
