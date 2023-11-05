@@ -780,6 +780,11 @@
     "description": "Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI."
   },
   {
+    "name": "duane9/nvim-rg",
+    "url": "https://github.com/duane9/nvim-rg",
+    "description": "Run RipGrep asynchronously and see results in a quickfix window."
+  },
+  {
     "name": "nvim-telescope/telescope.nvim",
     "url": "https://github.com/nvim-telescope/telescope.nvim",
     "description": "Telescope.nvim is a highly extendable fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization."
@@ -823,6 +828,11 @@
     "name": "echasnovski/mini.nvim#mini.pick",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md",
     "description": "Module of mini.nvim with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more."
+  },
+  {
+    "name": "echasnovski/mini.nvim#mini.extra",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md",
+    "description": "Module of mini.nvim with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more."
   },
   {
     "name": "kyazdani42/nvim-tree.lua",

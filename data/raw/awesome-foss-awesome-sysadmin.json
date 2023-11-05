@@ -295,6 +295,11 @@
     "description": "Lightweight server management software with Nginx and PHP-FPM support. (Source Code) GPL-2.0 PHP"
   },
   {
+    "name": "HestiaCP",
+    "url": "https://hestiacp.com/",
+    "description": "Web server control panel (fork of VestaCP). (Demo, Source Code) GPL-3.0 PHP/Shell/Other"
+  },
+  {
     "name": "ISPConfig",
     "url": "https://www.ispconfig.org",
     "description": "Manage Linux servers directly through your browser. (Source Code) BSD-3-Clause PHP"
@@ -303,11 +308,6 @@
     "name": "Sentora",
     "url": "https://sentora.org/",
     "description": "Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). (Source Code) GPL-3.0 PHP"
-  },
-  {
-    "name": "VestaCP",
-    "url": "https://vestacp.com/",
-    "description": "Open-Source hosting control panel. (Source Code) GPL-3.0 PHP/Shell/Other"
   },
   {
     "name": "Virtualmin",

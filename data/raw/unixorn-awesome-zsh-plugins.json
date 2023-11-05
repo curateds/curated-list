@@ -3966,6 +3966,11 @@
     "description": "Auto-completes task numbers for taskbook."
   },
   {
+    "name": "telepresence",
+    "url": "https://github.com/alexgervais/telepresence-ps1",
+    "description": "Add the current Telepresence connection status and context to your ZSH prompt."
+  },
+  {
     "name": "terminal-app",
     "url": "https://github.com/the8/terminal-app.zsh",
     "description": "A plugin for integrating with the new macOS El Capitan Terminal.app features."
@@ -6801,6 +6806,11 @@
     "description": "Optimized for dark terminal windows."
   },
   {
+    "name": "domixgit",
+    "url": "https://github.com/tariqdomi/ohmyzsh-domixgit",
+    "description": "Prompt with git status and current directory decorators."
+  },
+  {
     "name": "doodleshell",
     "url": "https://github.com/cdodd/doodleshell-zsh-theme",
     "description": "Minimalist theme, includes git, terraform and aws status decorations."
@@ -8140,6 +8150,11 @@
     "description": "IOsonoTAN's magico theme."
   },
   {
+    "name": "magpie",
+    "url": "https://github.com/wdjcodes/magpie",
+    "description": "Minimalist theme with custom logic to display paths relative to the root of the current git. Includes decorators for time, current directory, username@hostname and git status."
+  },
+  {
     "name": "mainnika",
     "url": "https://github.com/mainnika/zsh-theme-mainnika/",
     "description": "Includes decorators for last command exit status and the 1, 5 and 15 minute load averages."
@@ -8968,6 +8983,11 @@
     "name": "prezto_powerline",
     "url": "https://github.com/davidjrice/prezto_powerline",
     "description": "Powerline for prezto. Shows git information, RVM version."
+  },
+  {
+    "name": "princess",
+    "url": "https://github.com/mellypop/princess",
+    "description": "Modeled after abhiyan.zsh with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and git status."
   },
   {
     "name": "probe",

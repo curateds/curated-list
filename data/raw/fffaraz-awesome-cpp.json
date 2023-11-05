@@ -705,6 +705,11 @@
     "description": "New generation entropy codecs : Finite State Entropy and Huff0."
   },
   {
+    "name": "heatshrink",
+    "url": "https://github.com/atomicobject/heatshrink",
+    "description": "data compression library for embedded/real-time systems  [ISC]"
+  },
+  {
     "name": "PhysicsFS",
     "url": "https://icculus.org/physfs/",
     "description": "A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]"

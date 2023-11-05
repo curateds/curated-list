@@ -165,6 +165,11 @@
     "description": "The process of showing the machine a bunch of examples, until it learns what we want from it."
   },
   {
+    "name": "Choreographic programming",
+    "url": "https://en.wikipedia.org/wiki/Choreographic_programming",
+    "description": "A programming paradigm where programs are compositions of interactions among multiple concurrent participants."
+  },
+  {
     "name": "Clojure",
     "url": "https://clojure.org/",
     "description": "A functional language making extensive use of closures but with a j because it's running on the Java virtual machine."
@@ -173,6 +178,21 @@
     "name": "C++",
     "url": "https://en.wikipedia.org/wiki/C%2B%2B#External_links",
     "description": "Although C was certainly a bad name, C++ was quite clever. The iconic increment operator ++ indicates that C++ is the successor."
+  },
+  {
+    "name": "Garbage Collector",
+    "url": "https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)",
+    "description": "Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore."
+  },
+  {
+    "name": "Lazy evaluation",
+    "url": "https://en.wikipedia.org/wiki/Lazy_evaluation",
+    "description": "An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again."
+  },
+  {
+    "name": "Syntactic sugar",
+    "url": "https://en.wikipedia.org/wiki/Syntactic_sugar",
+    "description": "Syntax that makes the language \"sweeter\" for human use. Usually a shorthand for common operations that can also be expressed in a more verbose form."
   },
   {
     "name": "Bento layout",
@@ -275,11 +295,6 @@
     "description": "When your device is so corrupted it virtually turns into a brick."
   },
   {
-    "name": "Choreographic programming",
-    "url": "https://en.wikipedia.org/wiki/Choreographic_programming",
-    "description": "A programming paradigm where programs are compositions of interactions among multiple concurrent participants."
-  },
-  {
     "name": "camelCase, snake_case, kebab-case",
     "url": "https://en.wikipedia.org/wiki/Letter_case#Use_within_programming_languages",
     "description": "Different case styles where the name illustrates its appearance."
@@ -300,11 +315,6 @@
     "description": "In software architecture (like in actual architecture) frameworks provide basic structure to  build upon that guide and constrain the further development."
   },
   {
-    "name": "Garbage Collector",
-    "url": "https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)",
-    "description": "Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore."
-  },
-  {
     "name": "Glue Code",
     "url": "https://en.wikipedia.org/wiki/Glue_code",
     "description": "Jenga and LEGO bricks don't share the same interface but you can always glue them together."
@@ -313,11 +323,6 @@
     "name": "Heisenbug",
     "url": "https://en.wikipedia.org/wiki/Heisenbug",
     "description": "A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg who discovered that the act of observing quantum systems inevitably alters their state."
-  },
-  {
-    "name": "Lazy evaluation",
-    "url": "https://en.wikipedia.org/wiki/Lazy_evaluation",
-    "description": "An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again."
   },
   {
     "name": "Magic",

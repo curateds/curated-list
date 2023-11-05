@@ -745,6 +745,11 @@
     "description": "Improved user registration including social auth."
   },
   {
+    "name": "django-allauth-ui",
+    "url": "https://github.com/danihodovic/django-allauth-ui/",
+    "description": "Better looking templates for django-allauth."
+  },
+  {
     "name": "django-improved-user",
     "url": "https://github.com/jambonsw/django-improved-user",
     "description": "A custom Django user that authenticates via email. Follows identity and authentication best practices."
@@ -838,6 +843,16 @@
     "name": "sentry-python",
     "url": "https://github.com/getsentry/sentry-python",
     "description": "Error reporting SDK."
+  },
+  {
+    "name": "python-socketio",
+    "url": "https://github.com/miguelgrinberg/python-socketio",
+    "description": "Python implementation of the Socket.IO_ realtime client and server. (create Socket.io Django server instance)"
+  },
+  {
+    "name": "whitenoise",
+    "url": "https://github.com/evansd/whitenoise",
+    "description": "Simplified static file serving for Python websites."
   },
   {
     "name": "Project Website",
@@ -1209,6 +1224,11 @@
     "name": "launchr",
     "url": "https://github.com/jayfk/launchr",
     "description": "Launchr is a specialized Django starter template for SaaS web apps."
+  },
+  {
+    "name": "sidewinder",
+    "url": "https://github.com/stribny/sidewinder/",
+    "description": "A Django starter kit that focuses on good defaults, developer experience, and deployment."
   },
   {
     "name": "Blog app with users and forms",

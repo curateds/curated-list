@@ -3449,6 +3449,11 @@
     "description": "Binds form and JSON data from net/http Request to struct."
   },
   {
+    "name": "checker",
+    "url": "https://github.com/cinar/checker",
+    "description": "Checker helps validating user input through rules defined in struct tags or directly through functions."
+  },
+  {
     "name": "conform",
     "url": "https://github.com/leebenson/conform",
     "description": "Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags."
@@ -7644,7 +7649,7 @@
   },
   {
     "name": "etcd",
-    "url": "https://github.com/coreos/etcd",
+    "url": "https://github.com/etcd-io/etcd",
     "description": "Highly-available key value store for shared configuration and service discovery."
   },
   {
