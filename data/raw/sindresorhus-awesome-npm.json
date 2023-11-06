@@ -276,13 +276,13 @@
     "description": "Scaffold out an npm package."
   },
   {
-    "name": "pkg-up",
-    "url": "https://github.com/sindresorhus/pkg-up",
+    "name": "package-up",
+    "url": "https://github.com/sindresorhus/package-up",
     "description": "Find the closest package.json file."
   },
   {
-    "name": "read-pkg-up",
-    "url": "https://github.com/sindresorhus/read-pkg-up",
+    "name": "read-package-up",
+    "url": "https://github.com/sindresorhus/read-package-up",
     "description": "Read the closest package.json file."
   },
   {
@@ -291,8 +291,8 @@
     "description": "Normalize package metadata."
   },
   {
-    "name": "pkg-conf",
-    "url": "https://github.com/sindresorhus/pkg-conf",
+    "name": "package-config",
+    "url": "https://github.com/sindresorhus/package-config",
     "description": "Get namespaced config from the closest package.json."
   },
   {

@@ -333,7 +333,7 @@
   },
   {
     "name": "neo4cl",
-    "url": "https://github.com/equill/neo4cl",
+    "url": "https://codeberg.org/Equill/neo4cl",
     "description": "a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. Apache2."
   },
   {
@@ -1298,8 +1298,8 @@
   },
   {
     "name": "cl-transducers",
-    "url": "https://github.com/fosskers/cl-transducers",
-    "description": "Ergonomic, efficient data processing. AGPL-3.0."
+    "url": "https://git.sr.ht/~fosskers/cl-transducers",
+    "description": "Ergonomic, efficient data processing. LGPL3."
   },
   {
     "name": "snakes",

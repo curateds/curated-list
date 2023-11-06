@@ -840,6 +840,11 @@
     "description": "Implementation of the well-known 23 patterns of GoF"
   },
   {
+    "name": "SuperJSON",
+    "url": "https://github.com/blitz-js/superjson",
+    "description": "Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more"
+  },
+  {
     "name": "Procedurem",
     "url": "https://github.com/ImVexed/Procedurem",
     "description": "A Small (2kb) And Performant Bi-Directional RPC Library Using WebSockets."

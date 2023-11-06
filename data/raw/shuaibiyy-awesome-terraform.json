@@ -1470,6 +1470,11 @@
     "description": "Go library and CLI to migrate Terraform Configuration and State"
   },
   {
+    "name": "tfprovidercheck",
+    "url": "https://github.com/suzuki-shunsuke/tfprovidercheck",
+    "description": "CLI to prevent malicious Terraform Providers from being executed"
+  },
+  {
     "name": "tfproviderlint",
     "url": "https://github.com/bflad/tfproviderlint",
     "description": "Terraform Provider Lint Tool."
