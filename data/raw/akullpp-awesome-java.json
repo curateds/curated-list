@@ -1150,6 +1150,11 @@
     "description": "Library for developing geospatial applications."
   },
   {
+    "name": "ArcGIS Maps SDK for Java ",
+    "url": "https://github.com/Esri/arcgis-maps-sdk-java-samples/",
+    "description": "JavaFX library for adding mapping and GIS functionality to desktop apps."
+  },
+  {
     "name": "Geo",
     "url": "https://github.com/davidmoten/geo",
     "description": "GeoHash utilities in Java."
@@ -1663,6 +1668,11 @@
     "name": "m2cgen",
     "url": "https://github.com/BayesWitnesses/m2cgen",
     "description": "CLI tool to transpile models into native code."
+  },
+  {
+    "name": "Neureka",
+    "url": "https://github.com/Gleethos/neureka",
+    "description": "A lightweight, platform independent, OpenCL accelerated nd-array/tensor library."
   },
   {
     "name": "oj! Algorithms",

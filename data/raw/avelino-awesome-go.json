@@ -10997,14 +10997,13 @@
     "description": "iFood API SDK."
   },
   {
+    "name": "golangci-lint",
+    "url": "https://github.com/golangci/golangci-lint"
+  },
+  {
     "name": "golines",
     "url": "https://github.com/segmentio/golines",
     "description": "Formatter that automatically shortens long lines in Go code."
-  },
-  {
-    "name": "GoLint",
-    "url": "https://github.com/golang/lint",
-    "description": "Golint is a linter for Go source code."
   },
   {
     "name": "GoPlantUML",
@@ -11032,9 +11031,17 @@
     "description": "A Parser for PHP written in Go."
   },
   {
+    "name": "revive",
+    "url": "https://github.com/mgechev/revive"
+  },
+  {
     "name": "staticcheck",
     "url": "https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck",
     "description": "staticcheck is go vet on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#."
+  },
+  {
+    "name": "testifylint",
+    "url": "https://github.com/Antonboom/testifylint"
   },
   {
     "name": "tickgit",

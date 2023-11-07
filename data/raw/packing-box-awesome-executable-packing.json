@@ -1038,6 +1038,11 @@
     "description": "Free Malware repository providing researchers access to samples, malicious feeds, and Yara results."
   },
   {
+    "name": "The Malware Museum",
+    "url": "https://archive.org/details/malwaremuseum",
+    "description": "The Malware Museum is a collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers."
+  },
+  {
     "name": "MalwareBazaar",
     "url": "https://bazaar.abuse.ch/browse",
     "description": "Project operated by abuse.ch aimed to collect and share malware samples, helping IT-security researchers and threat analysts protecting their constituency and customers from cyber threats."
@@ -1417,7 +1422,7 @@
   },
   {
     "name": "Squishy",
-    "url": "https://logicoma.io/squishy/",
+    "url": "https://logicoma.io/squishy",
     "description": "Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables."
   },
   {
@@ -1499,6 +1504,11 @@
     "name": "ByteBoozer",
     "url": "https://csdb.dk/release/?id=33093",
     "description": "Commodore 64 executable packer."
+  },
+  {
+    "name": "CryptExec",
+    "url": "http://phrack.org/issues/63/13.html",
+    "description": "Next-generation runtime binary encryption using on-demand function extraction."
   },
   {
     "name": "EXE Guarder",
@@ -1746,6 +1756,10 @@
     "description": "Utility for protecting .EXE files so no lamers can hack out the copyright."
   },
   {
+    "name": "Fire-Pack",
+    "url": "http://files.dhs.nu/files_source/axe.zip?fire-pack"
+  },
+  {
     "name": "FSE",
     "url": "https://defacto2.net/f/a520164?packer=fse",
     "description": "Final Fantasy Security Envelope freeware for protecting COM and EXE progams."
@@ -1799,6 +1813,10 @@
     "name": "PACK",
     "url": "https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/pack201.zip",
     "description": "Executable files compressor."
+  },
+  {
+    "name": "Pack-Ice",
+    "url": "http://files.dhs.nu/files_source/axe.zip?pack-ice"
   },
   {
     "name": "PCShrink",
