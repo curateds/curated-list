@@ -761,6 +761,16 @@
     "description": "A REST Api templating engine for Typescript"
   },
   {
+    "name": "Fastify",
+    "url": "https://github.com/fastify/fastify",
+    "description": "Fast and low overhead web framework, for Node.js"
+  },
+  {
+    "name": "Hono",
+    "url": "https://hono.dev/",
+    "description": "Hono is a small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime"
+  },
+  {
     "name": "Nest",
     "url": "https://github.com/nestjs/nest",
     "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)"

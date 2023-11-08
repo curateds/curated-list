@@ -1945,6 +1945,11 @@
     "description": "Host your docs. Simple. Versioned. Fancy. MIT Python/Docker"
   },
   {
+    "name": "DocKing",
+    "url": "https://docking.shipsaas.tech",
+    "description": "Document management service/microservice that handles templates and renders them in PDF format, all in one place. (Demo, Source Code) MIT PHP/Nodejs/Docker"
+  },
+  {
     "name": "Docspell",
     "url": "https://docspell.org",
     "description": "Auto-tagging document organizer and archive. (Source Code) GPL-3.0 Scala/Java/Docker"
@@ -2795,6 +2800,11 @@
     "description": "Personal cloud where you can manage and sync your contact, files and calendars, and manage your budget with an app store full of community contributions. (Source Code) GPL-3.0 Nodejs"
   },
   {
+    "name": "Digistorm",
+    "url": "https://digistorm.app/",
+    "description": "Create collaborative surveys, quizzes, brainstorms, and word clouds (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
+  },
+  {
     "name": "egroupware",
     "url": "https://www.egroupware.org/",
     "description": "Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS. (Source Code) GPL-2.0 PHP"
@@ -3493,6 +3503,11 @@
     "name": "Flipt",
     "url": "https://flipt.io",
     "description": "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). (Demo, Source Code) GPL-3.0 Docker/K8S/Go"
+  },
+  {
+    "name": "Flyimg",
+    "url": "https://flyimg.io",
+    "description": "Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. (Demo, Source Code) MIT Docker"
   },
   {
     "name": "GO Feature Flag",

@@ -1346,6 +1346,11 @@
     "description": "Defers execution of a zsh command until zsh has nothing else to do and is waiting for user input. Its intended purpose is staged zsh startup. It works similarly to Turbo mode in zinit."
   },
   {
+    "name": "delete-prompt",
+    "url": "https://github.com/aoyama-val/zsh-delete-prompt",
+    "description": "ZSH widget to delete the prompt texts within the current line. It is useful when executing pasted commands from the web or a README. A leading non-alphanumeric character + space is detected as a prompt."
+  },
+  {
     "name": "deno (cowboyd)",
     "url": "https://github.com/cowboyd/zsh-deno",
     "description": "Useful deno aliases and settings."
@@ -5296,6 +5301,11 @@
     "description": "Adds autocompletion for helm."
   },
   {
+    "name": "inshellisense",
+    "url": "https://github.com/microsoft/inshellisense",
+    "description": "Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports bash, fish, zsh and pwsh on the Windows, Linux, & MacOS operating systems."
+  },
+  {
     "name": "ipfs",
     "url": "https://github.com/hellounicorn/zsh-ipfs",
     "description": "Completions for the Interplanetary File System."
@@ -5719,11 +5729,6 @@
     "name": "zargparse",
     "url": "https://github.com/ctil/zargparse",
     "description": "Pass it a script that uses argparse and it will write a ZSH completion to your current directory."
-  },
-  {
-    "name": "000",
-    "url": "https://github.com/Abid-Ahmad/oh-my-zsh-000-theme",
-    "description": "Multiline prompt with username, hostname, full path, return status and git decorations."
   },
   {
     "name": "021011",
@@ -7430,6 +7435,11 @@
     "description": "Minimalist promot that tries to show only the status decorations that are actively useful at a given time."
   },
   {
+    "name": "hermit",
+    "url": "https://github.com/liyangxia/omz-theme-hermit",
+    "description": "Clean and efficient theme with decorators for git status, current directory, and exit status of last command run."
+  },
+  {
     "name": "hex",
     "url": "https://github.com/hectorBrown/hex-zsh",
     "description": "Heavily based on bira, and gruvbox, which in turn is based on agnoster. Includes decorators for current directory, git status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font."
@@ -8098,6 +8108,11 @@
     "name": "luceast",
     "url": "https://github.com/LucEast/luceast-zsh-theme",
     "description": "Optimized for git. Includes decorations for username, host, time & working directory."
+  },
+  {
+    "name": "ludvig",
+    "url": "https://github.com/daviludvig/ludvig-theme-zsh",
+    "description": "Includes decorators for git status, current directory, current time and the last command's exit status."
   },
   {
     "name": "ludwigws",
@@ -9498,11 +9513,6 @@
     "name": "shrug",
     "url": "https://github.com/to-var/shrug-zsh-theme",
     "description": "Inspired by beer-theme, includes git status and current directory decorations."
-  },
-  {
-    "name": "shtr0m",
-    "url": "https://github.com/kyle-pollock/shtr0m",
-    "description": "Includes git status decorations."
   },
   {
     "name": "shuttle",

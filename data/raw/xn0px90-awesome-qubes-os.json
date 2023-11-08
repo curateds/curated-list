@@ -721,6 +721,11 @@
     "description": "Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis."
   },
   {
+    "name": "Hyperdbg",
+    "url": "https://github.com/HyperDbg/HyperDbg",
+    "description": "HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing."
+  },
+  {
     "name": "LeechCore",
     "url": "https://github.com/ufrisk/LeechCore",
     "description": "The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods."
@@ -804,6 +809,10 @@
     "name": "3mdeb",
     "url": "https://3mdeb.com/",
     "description": "We’re hands-on firmware experts with years of experience writing elegant, scalable and custom code for clients."
+  },
+  {
+    "name": "Hipervisor From Scratch",
+    "url": "https://github.com/SinaKarvandi/Hypervisor-From-Scratch"
   },
   {
     "name": "GPU Virtual Machine (GVM)",
