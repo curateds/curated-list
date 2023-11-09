@@ -100,14 +100,14 @@
     "description": "Coq support for the Jupyter Notebook web environment."
   },
   {
-    "name": "VsCoq1",
-    "url": "https://github.com/coq-community/vscoq/tree/vscoq1",
-    "description": "Extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol."
+    "name": "VsCoq",
+    "url": "https://github.com/coq-community/vscoq",
+    "description": "Language server and extension for the Visual Studio Code and VSCodium editors."
   },
   {
-    "name": "VsCoq2",
-    "url": "https://github.com/coq-community/vscoq",
-    "description": "Experimental language server and extension for the Visual Studio Code and VSCodium editors."
+    "name": "VsCoq Legacy",
+    "url": "https://github.com/coq-community/vscoq/tree/vscoq1",
+    "description": "Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol."
   },
   {
     "name": "Waterproof editor",
@@ -720,6 +720,11 @@
     "description": "Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework."
   },
   {
+    "name": "WasmCert-Coq",
+    "url": "https://github.com/WasmCert/WasmCert-Coq/",
+    "description": "Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification."
+  },
+  {
     "name": "Official Coq website",
     "url": "https://coq.inria.fr"
   },
@@ -808,10 +813,6 @@
     "url": "https://gmalecha.github.io"
   },
   {
-    "name": "Guillaume Claret's Coq blog",
-    "url": "http://coq-blog.clarus.me"
-  },
-  {
     "name": "Joachim Breitner's blog posts on Coq",
     "url": "http://www.joachim-breitner.de/blog/tag/Coq"
   },
@@ -821,7 +822,7 @@
   },
   {
     "name": "MIT PLV blog posts on Coq",
-    "url": "https://plv.csail.mit.edu/blog/category/coq.html"
+    "url": "http://plv.csail.mit.edu/blog/category/coq.html"
   },
   {
     "name": "PLClub Blog",

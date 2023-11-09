@@ -356,7 +356,8 @@
   },
   {
     "name": "USB Qubes",
-    "url": "https://www.qubes-os.org/doc/usb-qubes/"
+    "url": "https://www.qubes-os.org/doc/usb-qubes/",
+    "description": "A USB qube acts as a secure handler for potentially malicious USB devices, preventing them from coming into contact with dom0 (which could otherwise be fatal to the security of the whole system). I"
   },
   {
     "name": "Xfce templates",
@@ -399,7 +400,8 @@
   },
   {
     "name": "Dom0 secure updates",
-    "url": "https://www.qubes-os.org/doc/dom0-secure-updates/"
+    "url": "https://www.qubes-os.org/doc/dom0-secure-updates/",
+    "description": "Updating dom0"
   },
   {
     "name": "Firewall",

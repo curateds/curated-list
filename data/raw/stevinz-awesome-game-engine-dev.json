@@ -2,7 +2,7 @@
   {
     "name": "CoolEngines",
     "url": "https://github.com/JohnClarking/CoolEngines",
-    "description": "Open source graphic & game engines."
+    "description": "List of open source graphic & game engines."
   },
   {
     "name": "Wikipedia: List of Game Engines",
@@ -1142,12 +1142,12 @@
   {
     "name": "Ozz-Animation",
     "url": "https://github.com/guillaumeblanc/ozz-animation",
-    "description": "Open source skeletal animation library and toolset."
+    "description": "Skeletal animation library and toolset."
   },
   {
     "name": "Ozz-Animation",
     "url": "https://github.com/guillaumeblanc/ozz-animation",
-    "description": "Open source skeletal animation library and toolset."
+    "description": "Skeletal animation library and toolset."
   },
   {
     "name": "Tweeny",
@@ -1155,9 +1155,14 @@
     "description": "Inbetweening library for complex animations for games / apps."
   },
   {
-    "name": "irrKlang",
-    "url": "https://www.ambiera.com/irrklang/",
-    "description": "High level 2D/3D sound engine and audio library."
+    "name": "Amplitude Audio SDK",
+    "url": "https://github.com/SparkyStudios/AmplitudeAudioSDK",
+    "description": "Cross-platform audio engine designed for the needs of games."
+  },
+  {
+    "name": "Amplitude Audio SDK",
+    "url": "https://github.com/SparkyStudios/AmplitudeAudioSDK",
+    "description": "Cross-platform audio engine designed for the needs of games."
   },
   {
     "name": "irrKlang",
@@ -1177,7 +1182,7 @@
   {
     "name": "PortAudio",
     "url": "https://github.com/PortAudio/portaudio",
-    "description": "Cross-platform, open source, audio library."
+    "description": "Cross-platform audio library."
   },
   {
     "name": "emscripten",
@@ -1277,7 +1282,7 @@
   {
     "name": "Enigma",
     "url": "https://github.com/enigma-dev/enigma-dev",
-    "description": "Open source GameMaker compatible 2D engine."
+    "description": "GameMaker compatible 2D engine."
   },
   {
     "name": "Esoterica Engine",
@@ -1292,7 +1297,7 @@
   {
     "name": "ezEngine",
     "url": "https://github.com/ezEngine/ezEngine",
-    "description": "Open source game engine in active development. [Editor Info]"
+    "description": "Game engine in active development. [Editor Info]"
   },
   {
     "name": "FIFE",
@@ -1322,7 +1327,7 @@
   {
     "name": "Lumix Engine",
     "url": "https://github.com/nem0/LumixEngine",
-    "description": "Open source 3D game engine with Dear ImGui based editor."
+    "description": "A 3D game engine with Dear ImGui based editor."
   },
   {
     "name": "MxEngine",
@@ -1642,7 +1647,7 @@
   {
     "name": "Ember",
     "url": "https://github.com/strah19/Ember",
-    "description": "Open source graphics framework using SDL2 and OpenGL."
+    "description": "Graphics framework using SDL2 and OpenGL."
   },
   {
     "name": "Filament",
@@ -1920,14 +1925,19 @@
     "description": "Open Dynamics Engine, 3D rigid body physics."
   },
   {
+    "name": "Qu3e",
+    "url": "https://github.com/RandyGaul/qu3e",
+    "description": "Fast 3D physics engine, created to be used in games."
+  },
+  {
     "name": "ReactPhysics3D",
     "url": "https://github.com/DanielChappuis/reactphysics3d",
     "description": "3D physics engine."
   },
   {
-    "name": "Qu3e",
-    "url": "https://github.com/RandyGaul/qu3e",
-    "description": "Fast 3D physics engine, created to be used in games."
+    "name": "Slingshot",
+    "url": "https://github.com/Slingshot-Physics/slingshot-community",
+    "description": "Constraint-based physics engine for 3D rigid body dynamics."
   },
   {
     "name": "Boost.PFR",
@@ -2387,7 +2397,7 @@
   {
     "name": "Engo",
     "url": "https://github.com/EngoEngine/engo",
-    "description": "Open source 2D game framework."
+    "description": "A 2D game framework."
   },
   {
     "name": "Pixel",
@@ -3147,7 +3157,7 @@
   {
     "name": "Superpowers",
     "url": "https://github.com/superpowers",
-    "description": "Open source 2D/3D game making for indies. [Website]"
+    "description": "Both 2D & 3D game making for indies. [Website]"
   },
   {
     "name": "Taro",
@@ -3312,7 +3322,7 @@
   {
     "name": "CopperLicht",
     "url": "https://ambiera.com/copperlicht/",
-    "description": "Open source 3D library for WebGL. [CopperCube Editor]"
+    "description": "A 3D library for WebGL. [CopperCube Editor]"
   },
   {
     "name": "Filament for Web",

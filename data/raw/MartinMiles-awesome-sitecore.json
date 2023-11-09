@@ -185,6 +185,11 @@
     "description": "Simple console app that consolidates Sitecore configuration including files."
   },
   {
+    "name": "Repository of Sitecore Docker images",
+    "url": "https://github.com/Sitecore/docker-images",
+    "description": "Build your own Docker images for the most recent versions of Sitecore."
+  },
+  {
     "name": "Windows Docker Machine",
     "url": "https://github.com/StefanScherer/windows-docker-machine",
     "description": "Vagrant environment that creates a \"Docker Machine\" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers."
@@ -213,11 +218,6 @@
     "name": "Sitecore MVP",
     "url": "https://github.com/Sitecore/MVP-Site",
     "description": "The source code of a real Sitecore MVP website built with Sitecore 10 and SXAworking in containers."
-  },
-  {
-    "name": "Repository of Sitecore Docker images",
-    "url": "https://github.com/Sitecore/docker-images",
-    "description": "Build your own Docker images for the most recent versions of Sitecore."
   },
   {
     "name": "Packer for Sitecore",
