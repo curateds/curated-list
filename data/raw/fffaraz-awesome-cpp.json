@@ -340,6 +340,11 @@
     "description": "C++ wrapper for libuv. [MIT]"
   },
   {
+    "name": "Amplitude Audio SDK",
+    "url": "https://github.com/SparkyStudios/AmplitudeAudioSDK",
+    "description": "A cross-platform audio engine designed with the needs of games in mind. [Apache-2.0] website"
+  },
+  {
     "name": "Aubio",
     "url": "https://github.com/aubio/aubio",
     "description": "A library for audio and music analysis.[GPL-3.0] website"
@@ -1688,6 +1693,11 @@
     "name": "harfbuzz",
     "url": "https://github.com/harfbuzz/harfbuzz",
     "description": "A text shaping engine. [Old MIT]"
+  },
+  {
+    "name": "libschrift",
+    "url": "https://github.com/tomolt/libschrift",
+    "description": "A lightweight TrueType font rendering library. [ISC]"
   },
   {
     "name": "Acid",

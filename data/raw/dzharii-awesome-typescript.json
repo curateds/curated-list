@@ -905,6 +905,11 @@
     "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite."
   },
   {
+    "name": "DizzleORM",
+    "url": "https://orm.drizzle.team/",
+    "description": "TypeScript ORM that feels like writing SQL"
+  },
+  {
     "name": "Prisma",
     "url": "https://github.com/prisma/prisma",
     "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite"

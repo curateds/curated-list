@@ -57,12 +57,7 @@
   {
     "name": "System Requirements",
     "url": "https://www.qubes-os.org/doc/system-requirements/",
-    "description": "User documentation / Choosing your hardware."
-  },
-  {
-    "name": "Security design goals",
-    "url": "https://www.qubes-os.org/doc/security-design-goals/",
-    "description": "Qubes makes is that now the attacker doesn’t have access to all the software running in the other domains."
+    "description": "User documentation / Choyhe attacker doesn’t have access to all the software running in the other domains."
   },
   {
     "name": "Security-critical code",
@@ -170,6 +165,11 @@
     "description": "These guides are for upgrading from one version of Qubes to another."
   },
   {
+    "name": "How to resize dom0",
+    "url": "https://forum.qubes-os.org/t/resize-dom0/10886",
+    "description": "Just in case anyone needs help with this to resize dom0 from say 20G to 50G."
+  },
+  {
     "name": "How to back up, restore, and migrate",
     "url": "https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/",
     "description": "With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines."
@@ -262,19 +262,14 @@
     "description": "Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0"
   },
   {
-    "name": "Creating a NetBSD VM",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md",
-    "description": "Creating a NetBSD VM."
+    "name": "How to open Urls in other qube",
+    "url": "https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026",
+    "description": "This page is about opening URLs and files from one qube in a different qube."
   },
   {
-    "name": "Customizing Fedora minimal templates",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md",
-    "description": "FEDORA Packages Recommendations."
-  },
-  {
-    "name": "Customizing Windows 7 templates",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md",
-    "description": "Disable/Uninstall unnecessary features/services."
+    "name": "Building a TemplateVM for a new OS",
+    "url": "https://forum.qubes-os.org/docs?topic=18972",
+    "description": "If you don’t like using one of the existing templates because of specific administration, package management or other building needs, you can build a TemplateVM for your distribution of choice."
   },
   {
     "name": "Debian templates",
@@ -287,9 +282,19 @@
     "description": "The Fedora template is the default template in Qubes OS."
   },
   {
+    "name": "Linux HVMs",
+    "url": "https://forum.qubes-os.org/docs?topic=19008",
+    "description": "Fixing Linux distro HVMs"
+  },
+  {
     "name": "Minimal templates",
     "url": "https://www.qubes-os.org/doc/templates/minimal/",
     "description": "The minimal templates are lightweight versions of their standard template counterparts."
+  },
+  {
+    "name": "Multimedia template",
+    "url": "https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055",
+    "description": "Configuring a “Multimedia” TemplateVM"
   },
   {
     "name": "Pentesting: BlackArch",
@@ -307,32 +312,19 @@
     "description": "\"The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing."
   },
   {
-    "name": "Template: CentOS",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md",
-    "description": "You can install the CentOS template, provided by Qubes in ready to use binary package."
-  },
-  {
-    "name": "Template: Gentoo",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md",
-    "description": "You can install the Gentoo template, provided by Qubes in ready to use binary package."
-  },
-  {
-    "name": "Template: Ubuntu",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md",
-    "description": "If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates."
-  },
-  {
-    "name": "Template: Whonix",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md"
-  },
-  {
     "name": "Template: Windows",
     "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md",
     "description": "Simple Windows install"
   },
   {
     "name": "Windows Qubes",
-    "url": "https://www.qubes-os.org/doc/windows/"
+    "url": "https://www.qubes-os.org/doc/windows/",
+    "description": "Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain."
+  },
+  {
+    "name": "Tails OS",
+    "url": "https://forum.qubes-os.org/docs?topic=19012",
+    "description": "Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymity."
   },
   {
     "name": "Templates",
@@ -350,9 +342,9 @@
     "description": "A template manager application."
   },
   {
-    "name": "Tips for Using Linux in an HVM",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md",
-    "description": "Tips for Linux in HVM domain."
+    "name": "Shadow qube",
+    "url": "https://github.com/kennethrrosen/qubes-shadow-dvm",
+    "description": "The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool."
   },
   {
     "name": "USB Qubes",
@@ -429,7 +421,7 @@
   },
   {
     "name": "Signal",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md",
+    "url": "https://forum.qubes-os.org/t/signal-messenger/19073",
     "description": "It uses end-to-end encryption to secure all communications."
   },
   {
@@ -439,7 +431,7 @@
   },
   {
     "name": "Split SSH",
-    "url": "https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md",
+    "url": "https://deniszanin.com/using-split-ssh-gpg-in-qubes-os",
     "description": "Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM."
   },
   {
@@ -503,6 +495,11 @@
     "description": "Easy brightness adjustment"
   },
   {
+    "name": "Bash completion",
+    "url": "https://forum.qubes-os.org/docs?topic=19008",
+    "description": "How to install bash completion for Qubes OS commands."
+  },
+  {
     "name": "Custom icons",
     "url": "https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3",
     "description": "Place the custom folder icons ~/.local/share/icons is a persistent place to place the custom folder icons and so is /usr/share/icons."
@@ -533,9 +530,19 @@
     "description": "Speed up system boot process with a custom launch script"
   },
   {
+    "name": "PLayback performance",
+    "url": "https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946",
+    "description": "This guide will show you how to install the mpv player and use it with maximum performance."
+  },
+  {
     "name": "sys-VPN notification setup",
     "url": "https://github.com/kennethrrosen/qubes_VPN_notifier",
     "description": "Get VPN stats as a desktop notification"
+  },
+  {
+    "name": "Wayland agent",
+    "url": "https://github.com/DemiMarie/qubes-wayland",
+    "description": "This is a GUI agent for Qubes OS that supports the [Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect."
   },
   {
     "name": "GUI-configuration",
@@ -583,14 +590,9 @@
     "description": "Run dnscrypt-proxy inside of sys-net to encrypt and secure dns-requests."
   },
   {
-    "name": "Mullvad VPN (FE36 + WG)",
+    "name": "Mullvad VPN (Fedora38 + WG)",
     "url": "https://mullvad.net/en/help/wireguard-on-qubes-os/",
     "description": "Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e sys-vpn); you may substitute out Mullvad's WG configuration files in place of your own."
-  },
-  {
-    "name": "WireGuard",
-    "url": "https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard",
-    "description": "WireGuard: fast, modern, secure VPN tunnel."
   },
   {
     "name": "How To make a VPN Gateway in Qubes",
@@ -621,6 +623,11 @@
     "name": "Lokinet",
     "url": "https://github.com/oxen-io/lokinet",
     "description": "Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol."
+  },
+  {
+    "name": "Really disposable ram based qubes",
+    "url": "https://forum.qubes-os.org/t/really-disposable-ram-based-qubes/21532",
+    "description": "You can use your QubesOS 𝚜𝚝𝚊𝚝𝚎𝚕𝚎𝚜𝚜 just like TailsOS, with persistent storage for VMs. That is pretty simple! It takes 6Gb of extra 𝚁𝙰𝙼 (for store root filesystem files)."
   },
   {
     "name": "Whonix",

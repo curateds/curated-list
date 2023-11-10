@@ -880,6 +880,11 @@
     "description": "All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook."
   },
   {
+    "name": "Logging Made Easy (LME)",
+    "url": "https://www.cisa.gov/resources-tools/services/logging-made-easy",
+    "description": "Free and open logging and protective monitoring solution serving."
+  },
+  {
     "name": "MozDef",
     "url": "https://github.com/mozilla/MozDef",
     "description": "Automate the security incident handling process and facilitate the real-time activities of incident handlers."
@@ -900,14 +905,14 @@
     "description": "All in one PowerShell-based platform to perform live hard disk forensic analysis."
   },
   {
-    "name": "rastrea2r",
-    "url": "https://github.com/rastrea2r/rastrea2r",
-    "description": "Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles."
-  },
-  {
     "name": "Redline",
     "url": "https://www.fireeye.com/services/freeware/redline.html",
     "description": "Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc."
+  },
+  {
+    "name": "rastrea2r",
+    "url": "https://github.com/rastrea2r/rastrea2r",
+    "description": "Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles."
   },
   {
     "name": "AttackerKB",

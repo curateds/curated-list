@@ -687,6 +687,11 @@
     "description": "Python library for converting GTFS files into a relational database."
   },
   {
+    "name": "gtfs_functions",
+    "url": "https://github.com/Bondify/gtfs_functions",
+    "description": "Python package with useful functions to create geo-spatial visualizations from GTFS feeds."
+  },
+  {
     "name": "gtfs-segments",
     "url": "https://github.com/UTEL-UIUC/gtfs_segments",
     "description": "Python package that represents GTFS data for buses in a concise tabular manner using segments."

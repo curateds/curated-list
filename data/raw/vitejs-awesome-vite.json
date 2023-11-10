@@ -1944,6 +1944,11 @@
     "description": "Export build information as a virutal module."
   },
   {
+    "name": "vite-plugin-auto-origin",
+    "url": "https://github.com/s2b/vite-plugin-auto-origin",
+    "description": "Detect origin configuration automatically based on incoming requests to dev server."
+  },
+  {
     "name": "mocha-vite-puppeteer",
     "url": "https://github.com/larsthorup/mocha-vite-puppeteer",
     "description": "Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher."
@@ -2172,6 +2177,11 @@
     "name": "vite-plugin-svelte",
     "url": "https://github.com/sveltejs/vite-plugin-svelte",
     "description": "Adds Svelte support. Official plugin of Svelte team."
+  },
+  {
+    "name": "vite-plugin-kit-routes",
+    "url": "https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes",
+    "description": "Generates a file with all the routes, params, actions of your SvelteKit App."
   },
   {
     "name": "vite-plugin-solid",

@@ -459,6 +459,16 @@
     "description": "A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by @hopswork."
   },
   {
+    "name": "Spark vs Polars. Real-life Test Case. ",
+    "url": "https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case",
+    "description": "A blog post in which the author tests whether Polars is able to handle \"real amounts of data\" and \"really replace some production Spark workloads.\" by @danielbeach. Code used is available on Github here."
+  },
+  {
+    "name": "Using Polars Plugins for a 14x Speed Boost with Rust",
+    "url": "https://towardsdatascience.com/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94",
+    "description": "A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by @ngriffiths13."
+  },
+  {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
     "url": "https://www.youtube.com/watch?v=kVy3-gMdViM",
     "description": "Introduction to Polars by databricks."

@@ -7853,6 +7853,11 @@
     "description": "A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata."
   },
   {
+    "name": "templ",
+    "url": "https://github.com/a-h/templ",
+    "description": "A HTML templating language that has great developer tooling."
+  },
+  {
     "name": "apitest",
     "url": "https://apitest.dev",
     "description": "Simple and extensible behavioural testing library for REST based services or HTTP handlers that supports mocking external http calls and rendering of sequence diagrams."
@@ -8631,11 +8636,6 @@
     "name": "podcast",
     "url": "https://github.com/eduncan911/podcast",
     "description": "iTunes Compliant and RSS 2.0 Podcast Generator in Golang"
-  },
-  {
-    "name": "syndfeed",
-    "url": "https://github.com/zhengchun/syndfeed",
-    "description": "A syndication feed for Atom 1.0 and RSS 2.0."
   },
   {
     "name": "go-runewidth",
