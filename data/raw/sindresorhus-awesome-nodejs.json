@@ -237,11 +237,6 @@
     "description": "Adds stdin support to any CLI app that accepts file input."
   },
   {
-    "name": "wifi-password",
-    "url": "https://github.com/kevva/wifi-password-cli",
-    "description": "Get the current wifi password."
-  },
-  {
     "name": "wallpaper",
     "url": "https://github.com/sindresorhus/wallpaper",
     "description": "Change the desktop wallpaper."
@@ -722,8 +717,8 @@
     "description": "CLI framework complete with parser, automatic documentation, testing, and plugins."
   },
   {
-    "name": "term-size",
-    "url": "https://github.com/sindresorhus/term-size",
+    "name": "terminal-size",
+    "url": "https://github.com/sindresorhus/terminal-size",
     "description": "Reliably get the terminal window size."
   },
   {
@@ -992,11 +987,6 @@
     "description": "Glob files with support for multiple patterns."
   },
   {
-    "name": "cpy",
-    "url": "https://github.com/sindresorhus/cpy",
-    "description": "Copy files."
-  },
-  {
     "name": "chokidar",
     "url": "https://github.com/paulmillr/chokidar",
     "description": "Filesystem watcher which stabilizes events from fs.watch and fs.watchFile as well as using native fsevents on macOS."
@@ -1030,11 +1020,6 @@
     "name": "filenamify",
     "url": "https://github.com/sindresorhus/filenamify",
     "description": "Convert a string to a valid filename."
-  },
-  {
-    "name": "lnfs",
-    "url": "https://github.com/kevva/lnfs",
-    "description": "Force create symlinks like ln -fs."
   },
   {
     "name": "istextorbinary",
@@ -1257,7 +1242,12 @@
   {
     "name": "image-type",
     "url": "https://github.com/sindresorhus/image-type",
-    "description": "Detect the image type of a Buffer/Uint8Array."
+    "description": "Detect the type of an image."
+  },
+  {
+    "name": "image-dimensions",
+    "url": "https://github.com/sindresorhus/image-dimensions",
+    "description": "Get the dimensions of an image."
   },
   {
     "name": "gm",
@@ -1278,11 +1268,6 @@
     "name": "jimp",
     "url": "https://github.com/oliver-moran/jimp",
     "description": "Image processing in pure JavaScript."
-  },
-  {
-    "name": "probe-image-size",
-    "url": "https://github.com/nodeca/probe-image-size",
-    "description": "Get the size of most image formats without a full download."
   },
   {
     "name": "qrcode",
@@ -1688,11 +1673,6 @@
     "name": "tar-stream",
     "url": "https://github.com/mafintosh/tar-stream",
     "description": "Streaming tar parser and generator. Also see tar-fs."
-  },
-  {
-    "name": "decompress",
-    "url": "https://github.com/kevva/decompress",
-    "description": "Decompression module with support for tar, tar.gz and zip files out of the box."
   },
   {
     "name": "get-port",
@@ -2475,11 +2455,6 @@
     "description": "Rate limiter that makes throttling easy."
   },
   {
-    "name": "ow",
-    "url": "https://github.com/sindresorhus/ow",
-    "description": "Function argument validation for humans."
-  },
-  {
     "name": "webworker-threads",
     "url": "https://github.com/audreyt/node-webworker-threads",
     "description": "Lightweight Web Worker API implementation with native threads."
@@ -2535,11 +2510,6 @@
     "description": "Get, set, or delete nested properties of process.env using a dot path."
   },
   {
-    "name": "emittery",
-    "url": "https://github.com/sindresorhus/emittery",
-    "description": "Simple and modern async event emitter."
-  },
-  {
     "name": "node-video-lib",
     "url": "https://github.com/gkozlenko/node-video-lib",
     "description": "Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming."
@@ -2577,6 +2547,11 @@
     "name": "wild-wild-path",
     "url": "https://github.com/ehmicky/wild-wild-path",
     "description": "Object property paths with wildcards and regexes."
+  },
+  {
+    "name": "uint8array-extras",
+    "url": "https://github.com/sindresorhus/uint8array-extras",
+    "description": "Useful utilities for working with Uint8Array and Buffer."
   },
   {
     "name": "npm",

@@ -2049,6 +2049,11 @@
     "description": "Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt."
   },
   {
+    "name": "vite-plugin-markdown-mermaid",
+    "url": "https://github.com/KermanX/vite-plugin-markdown-mermaid",
+    "description": "Load Markdown files, with Mermaid rendering support."
+  },
+  {
     "name": "vite-ssg",
     "url": "https://github.com/antfu/vite-ssg",
     "description": "Server-side generation."
