@@ -137,6 +137,10 @@
     "url": "https://github.com/osa1/tiny"
   },
   {
+    "name": "UpVPN",
+    "url": "https://github.com/upvpn/upvpn-app"
+  },
+  {
     "name": "wasmer",
     "url": "https://github.com/wasmerio/wasmer"
   },
@@ -782,6 +786,10 @@
     "url": "https://github.com/tock/tock"
   },
   {
+    "name": "helsing-ai/buffrs",
+    "url": "https://github.com/helsing-ai/buffrs"
+  },
+  {
     "name": "hyperswitch",
     "url": "https://github.com/juspay/hyperswitch"
   },
@@ -819,7 +827,7 @@
   },
   {
     "name": "Holo",
-    "url": "https://github.com/rwestphal/holo",
+    "url": "https://github.com/holo-routing/holo",
     "description": "Holo is a suite of routing protocols designed to support high-scale and automation-driven networks"
   },
   {
@@ -4752,6 +4760,11 @@
     "url": "https://github.com/quinn-rs/quinn"
   },
   {
+    "name": "tencent/tquic",
+    "url": "https://github.com/Tencent/tquic",
+    "description": "A high-performance, lightweight, and cross-platform QUIC library"
+  },
+  {
     "name": "b23r0/rust-raknet",
     "url": "https://github.com/b23r0/rust-raknet"
   },
@@ -5018,16 +5031,16 @@
     "url": "https://github.com/BinChengZhao/delay-timer"
   },
   {
-    "name": "botika/yarte",
-    "url": "https://github.com/botika/yarte"
-  },
-  {
-    "name": "botika/yarte",
-    "url": "https://github.com/botika/yarte"
+    "name": "sunng87/handlebars-rust",
+    "url": "https://github.com/sunng87/handlebars-rust"
   },
   {
     "name": "sunng87/handlebars-rust",
     "url": "https://github.com/sunng87/handlebars-rust"
+  },
+  {
+    "name": "zzau13/yarte",
+    "url": "https://github.com/zzau13/yarte"
   },
   {
     "name": "djc/askama",
@@ -5683,5 +5696,9 @@
   {
     "name": "RustViz",
     "url": "https://github.com/rustviz/rustviz"
+  },
+  {
+    "name": "Watch Jon Gjengset Implement BitTorrent in Rust",
+    "url": "https://www.youtube.com/watch?v=jf_ddGnum_4"
   }
 ]

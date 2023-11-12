@@ -665,6 +665,34 @@
     "description": "Task processing library with a focus on simplicity, reliability, and performance."
   },
   {
+    "name": "curlylint",
+    "url": "https://www.curlylint.org/"
+  },
+  {
+    "name": "django-components",
+    "url": "https://github.com/EmilStenstrom/django-components/"
+  },
+  {
+    "name": "django-template-partials",
+    "url": "https://github.com/carltongibson/django-template-partials/"
+  },
+  {
+    "name": "djhtml",
+    "url": "https://github.com/rtts/djhtml"
+  },
+  {
+    "name": "djlint",
+    "url": "https://www.djlint.com/"
+  },
+  {
+    "name": "slippers",
+    "url": "https://mitchel.me/slippers/"
+  },
+  {
+    "name": "JinjaX",
+    "url": "https://jinjax.scaletti.dev/"
+  },
+  {
     "name": "django-debug-toolbar",
     "url": "https://github.com/jazzband/django-debug-toolbar/",
     "description": "Configurable panels to debug requests/responses."
@@ -718,6 +746,10 @@
     "name": "django-pattern-library",
     "url": "https://github.com/torchbox/django-pattern-library",
     "description": "Pattern library generator for Django templates, to help testing of UI components."
+  },
+  {
+    "name": "storybook-django",
+    "url": "https://github.com/torchbox/storybook-django"
   },
   {
     "name": "dj-database-url",
@@ -1325,8 +1357,16 @@
     "url": "https://fractalideas.com/blog/making-react-and-django-play-well-together/"
   },
   {
-    "name": "Official Documentation",
-    "url": "https://wagtail.io/"
+    "name": "Official website",
+    "url": "https://wagtail.org/"
+  },
+  {
+    "name": "Developer documentation",
+    "url": "https://docs.wagtail.org/en/stable/"
+  },
+  {
+    "name": "User documentation",
+    "url": "https://guide.wagtail.org/en-latest/"
   },
   {
     "name": "Wagtail Source Code",
@@ -1338,7 +1378,7 @@
   },
   {
     "name": "This week in Wagtail",
-    "url": "https://wagtail.io/this-week-in-wagtail/",
+    "url": "https://wagtail.org/this-week-in-wagtail/",
     "description": "A (most) weekly email with updates from the Wagtail core team."
   },
   {

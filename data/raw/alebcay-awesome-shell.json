@@ -43,6 +43,11 @@
     "description": "MirBSD Korn Shell"
   },
   {
+    "name": "murex",
+    "url": "https://github.com/lmorg/murex",
+    "description": "A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)"
+  },
+  {
     "name": "ngs",
     "url": "https://github.com/ngs-lang/ngs",
     "description": "Fully featured scripting language created specifically for Ops. REPL is being developed."
@@ -522,7 +527,7 @@
   },
   {
     "name": "xiki",
-    "url": "https://xiki.org",
+    "url": "https://github.com/trogdoro/xiki",
     "description": "Makes the shell console more friendly and powerful"
   },
   {
@@ -1109,9 +1114,9 @@
     "description": "Friendly and fast tool for sending HTTP requests"
   },
   {
-    "name": "youtube-dl",
-    "url": "https://yt-dl.org/",
-    "description": "Small command-line program to download videos from YouTube.com and other video sites"
+    "name": "yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
   },
   {
     "name": "adb-export",
@@ -1182,6 +1187,11 @@
     "name": "korkut",
     "url": "https://github.com/oguzhaninan/korkut",
     "description": "Quick and simple image processing at the command line."
+  },
+  {
+    "name": "library",
+    "url": "https://github.com/chapmanjacobd/library",
+    "description": "Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options."
   },
   {
     "name": "mpv",
@@ -1727,7 +1737,7 @@
   },
   {
     "name": "Bash Hackers Wiki",
-    "url": "https://wiki.bash-hackers.org/"
+    "url": "https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/"
   },
   {
     "name": "Greg Wooledge's (aka \"greycat\") wiki",
