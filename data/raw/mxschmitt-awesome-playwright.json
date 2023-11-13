@@ -195,6 +195,11 @@
     "description": "Custom selector engine for xpath 2 and 3."
   },
   {
+    "name": "ZeroStep",
+    "url": "https://github.com/zerostep-ai/zerostep",
+    "description": "AI actions and assertions for Playwright."
+  },
+  {
     "name": "playwright-tesults-reporter",
     "url": "https://github.com/tesults/playwright-tesults-reporter",
     "description": "A library for uploading test results to Tesults from Playwright."

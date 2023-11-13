@@ -578,6 +578,11 @@
     "description": "Start common GUI applications under WSL as under Linux."
   },
   {
+    "name": "WSL-Hello-sudo",
+    "url": "https://github.com/nullpo-head/WSL-Hello-sudo",
+    "description": "Use Windows Hello as your credential for sudo."
+  },
+  {
     "name": "xclip-xsel-WSL",
     "url": "https://github.com/Konfekt/xclip-xsel-WSL",
     "description": "Make xclip and xsel in WSL read and write on the Windows instead of the Linux clipboard."

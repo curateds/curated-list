@@ -515,6 +515,11 @@
     "description": "A quant framework to create cryptocurrencies strategies - from backtesting to optimisation to livetrading."
   },
   {
+    "name": "hftbacktest",
+    "url": "https://github.com/nkaz001/hftbacktest",
+    "description": "A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books."
+  },
+  {
     "name": "pyfolio",
     "url": "https://github.com/quantopian/pyfolio",
     "description": "Portfolio and risk analytics in Python."

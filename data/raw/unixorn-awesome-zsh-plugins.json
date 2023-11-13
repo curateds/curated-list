@@ -1586,11 +1586,6 @@
     "description": "Enables a number of aliases extending exa, the modern replacement for ls."
   },
   {
-    "name": "exa (hermitmaster)",
-    "url": "https://github.com/hermitmaster/zsh-exa-plugin",
-    "description": "Adds some aliases for exa, the modern replacement for ls."
-  },
-  {
     "name": "exa (mohamedelashri)",
     "url": "https://github.com/MohamedElashri/exa-zsh",
     "description": "Adds aliases for exa, a modern replacement for ls."
@@ -1611,9 +1606,9 @@
     "description": "Integration and completions for exa, a modern replacement for ls."
   },
   {
-    "name": "exa (twopizza9621536)",
-    "url": "https://github.com/TwoPizza9621536/zsh-exa",
-    "description": "Combines DarrinTisdale/zsh-aliases-exa, hermitmaster/zsh-exa-plugin, MohamedElashri/exa-zsh, ptavares/zsh-exa, RitchieS/zsh-exa/, todie/exa.plugin.zsh, zplugin/zsh-exa and zsh-exa-ls-plugin. It also adds the default bash ls aliases and changes some aliases to avoid conflicts with other commands that exa does not replace."
+    "name": "exa (zap-zsh)",
+    "url": "https://github.com/zap-zsh/exa",
+    "description": "Overrides common commands to use exa instead."
   },
   {
     "name": "exa (zplugin)",
@@ -1629,6 +1624,11 @@
     "name": "exa-ls",
     "url": "https://github.com/birdhackor/zsh-exa-ls-plugin",
     "description": "Adds aliases so that you can use exa as a drop-in replacement for ls and tree."
+  },
+  {
+    "name": "exa-ls (zpm-zsh)",
+    "url": "https://github.com/zpm-zsh/ls",
+    "description": "Zsh plugin for ls."
   },
   {
     "name": "exercism",
@@ -1668,6 +1668,11 @@
   {
     "name": "eza (clavelm)",
     "url": "https://github.com/clavelm/eza-omz-plugin",
+    "description": "Replaces ls with eza-community/eza."
+  },
+  {
+    "name": "eza (twopizza9621536)",
+    "url": "https://github.com/twopizza9621536/zsh-eza",
     "description": "Replaces ls with eza-community/eza."
   },
   {
@@ -3491,11 +3496,6 @@
     "description": "Adds functions and aliases to make working with Quiime 2 easier."
   },
   {
-    "name": "quer-ps1",
-    "url": "https://github.com/ya0201/qwer-ps1",
-    "description": "A highly extendable manager for your ZSH prompt"
-  },
-  {
     "name": "quoter",
     "url": "https://github.com/pxgamer/quoter-zsh",
     "description": "Display a random quote when opening a new terminal session."
@@ -3619,6 +3619,11 @@
     "name": "rockz",
     "url": "https://github.com/aperezdc/rockz",
     "description": "Lua + LuaRocks virtual environment manager based upon VirtualZ."
+  },
+  {
+    "name": "run-scripts",
+    "url": "https://github.com/Aireck2/zsh-run-scripts",
+    "description": "Runs scripts from package.json."
   },
   {
     "name": "rust (cowboyd)",
@@ -5749,11 +5754,6 @@
     "name": "a",
     "url": "https://github.com/chammanganti/a-zsh-theme",
     "description": "Simple theme with current directory and git status decorations."
-  },
-  {
-    "name": "aaron",
-    "url": "https://github.com/aaronjamesyoung/aaron-zsh-theme",
-    "description": "Based on the Sorin theme."
   },
   {
     "name": "abbr (theme)",
@@ -8112,7 +8112,7 @@
   {
     "name": "ludvig",
     "url": "https://github.com/daviludvig/ludvig-theme-zsh",
-    "description": "Includes decorators for git status, current directory, current time and the last command's exit status."
+    "description": "Minimalist. Includes decorators for git status, current directory, current time and the last command's exit status."
   },
   {
     "name": "ludwigws",
