@@ -513,7 +513,7 @@
   },
   {
     "name": "Bash completion",
-    "url": "https://forum.qubes-os.org/docs?topic=19008",
+    "url": "https://forum.qubes-os.org/docs?topic=13304",
     "description": "How to install bash completion for Qubes OS commands."
   },
   {
@@ -550,6 +550,11 @@
     "name": "QubesOS Autostart Menu",
     "url": "https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/",
     "description": "Speed up system boot process with a custom launch script"
+  },
+  {
+    "name": "Qubes-Scripts",
+    "url": "https://github.com/Willy-JL/Qubes-Scripts",
+    "description": "Collection of custom scripts for Qubes OS."
   },
   {
     "name": "PLayback performance",

@@ -90,11 +90,6 @@
     "description": "Stubs for boto3."
   },
   {
-    "name": "types-aiobotocore",
-    "url": "https://vemel.github.io/types_aiobotocore_docs/",
-    "description": "Stubs for aiobotocore."
-  },
-  {
     "name": "botostubs",
     "url": "https://github.com/jeshan/botostubs",
     "description": "Gives you code assistance for any boto3 API in any IDE."
@@ -145,6 +140,11 @@
     "description": "Stubs for PySpark."
   },
   {
+    "name": "python-phonenumbers-stubs",
+    "url": "https://github.com/AA-Turner/python-phonenumbers-stubs",
+    "description": "Stubs for phonenumbers."
+  },
+  {
     "name": "pythonista-stubs",
     "url": "https://github.com/hbmartin/pythonista-stubs",
     "description": "Stubs for Pythonista."
@@ -163,6 +163,11 @@
     "name": "torchtyping",
     "url": "https://github.com/patrick-kidger/torchtyping",
     "description": "Enhanced type annotations for pytorch."
+  },
+  {
+    "name": "types-aiobotocore",
+    "url": "https://vemel.github.io/types_aiobotocore_docs/",
+    "description": "Stubs for aiobotocore."
   },
   {
     "name": "typeshed",
@@ -203,6 +208,11 @@
     "name": "typet",
     "url": "https://github.com/contains-io/typet",
     "description": "Length-bounded types, dynamic object validation."
+  },
+  {
+    "name": "useful-types",
+    "url": "https://github.com/hauntsaninja/useful_types",
+    "description": "Collection of useful protocols and type aliases."
   },
   {
     "name": "future-typing",

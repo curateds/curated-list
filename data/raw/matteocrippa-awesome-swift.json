@@ -1435,6 +1435,11 @@
     "description": "Get the true current time impervious to device clock time changes (NTP library)."
   },
   {
+    "name": "TypedDate",
+    "url": "https://github.com/Ryu0118/swift-typed-date",
+    "description": "Enhancing Date handling by enabling type-level customization of date components"
+  },
+  {
     "name": "Cleanse",
     "url": "https://github.com/square/Cleanse",
     "description": "A Lightweight Dependency Injection Framework by Square."

@@ -310,6 +310,10 @@
     "url": "https://www.clojure.org/guides/tools_build"
   },
   {
+    "name": "build.simple",
+    "url": "https://github.com/gnl/build.simple"
+  },
+  {
     "name": "clojurephant",
     "url": "https://github.com/clojurephant/clojurephant"
   },
@@ -1106,6 +1110,14 @@
     "url": "https://github.com/otwieracz/clj-grpc"
   },
   {
+    "name": "flow-storm-debugger",
+    "url": "https://github.com/flow-storm/flow-storm-debugger"
+  },
+  {
+    "name": "playback",
+    "url": "https://github.com/gnl/playback"
+  },
+  {
     "name": "tools.trace",
     "url": "https://github.com/clojure/tools.trace"
   },
@@ -1317,12 +1329,12 @@
     "url": "https://github.com/PEZ/rich4clojure"
   },
   {
-    "name": "Clojure Koans",
-    "url": "http://clojurekoans.com"
+    "name": "Wonderland Clojure Katas",
+    "url": "https://github.com/gigasquid/wonderland-clojure-katas"
   },
   {
-    "name": "Clojure Katas",
-    "url": "http://clojurekatas.org"
+    "name": "Clojure Koans",
+    "url": "http://clojurekoans.com"
   },
   {
     "name": "exercism.io",

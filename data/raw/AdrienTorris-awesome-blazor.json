@@ -123,6 +123,11 @@
     "description": ".NET 7 SDK for OpenAI with a Blazor Server playground."
   },
   {
+    "name": "ExplainFaceRecognition",
+    "url": "https://github.com/georg-jung/explain-face-rec",
+    "description": "Interactive Face Detection & Recognition tutorial with hands-on code samples. State-of-the-art local face AI showcase. Blazor Server & Hybrid."
+  },
+  {
     "name": "BlazorBoilerplate",
     "url": "https://github.com/enkodellc/blazorboilerplate",
     "description": "Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. Demo."
@@ -496,6 +501,11 @@
     "description": "Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search.  Demo."
   },
   {
+    "name": "ComponentBuilder",
+    "url": "https://github.com/AchievedOwner/ComponentBuilder",
+    "description": "-  An automation framework to create Blazor component by RenderTreeBuilder."
+  },
+  {
     "name": "Moldinium",
     "url": "https://github.com/jtheisen/moldinium",
     "description": "MobX-style dependency tracking in Blazor (proof-of-concept level maturity)"
@@ -556,6 +566,16 @@
     "description": "Material Design components for Blazor. Bootstrap 4 components for Blazor (Demo)."
   },
   {
+    "name": "BootstrapBlazor",
+    "url": "https://github.com/ArgoZhang/BootstrapBlazor",
+    "description": "Reusable bootstrap components for Blazor. (Docs as Demo)."
+  },
+  {
+    "name": "BlazorBootstrap",
+    "url": "https://github.com/vikramlearning/blazorbootstrap",
+    "description": "High-performance, lightweight, and responsive blazor bootstrap components in a single package from the developers for the developers. (Docs as Demo)."
+  },
+  {
     "name": "FAST Blazor",
     "url": "https://github.com/microsoft/fast-blazor",
     "description": "A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. (Samples & demo)."
@@ -569,11 +589,6 @@
     "name": "BlazorFluentUI",
     "url": "https://github.com/BlazorFluentUI/BlazorFluentUI",
     "description": "Simple port of FluenUI/Office Fabric React components and style to Blazor. Client-side demo (WebAssembly). Server-side demo (SignalR)."
-  },
-  {
-    "name": "BootstrapBlazor",
-    "url": "https://github.com/ArgoZhang/BootstrapBlazor",
-    "description": "Reusable bootstrap components for Blazor. (Docs as Demo)."
   },
   {
     "name": "ComponentOne Blazor UI Components",
@@ -681,6 +696,11 @@
     "description": "Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  Documentation."
   },
   {
+    "name": "BabylonBlazor",
+    "url": "https://github.com/AlexNek/BabylonBlazor",
+    "description": "This library packages the well-known 3D library Babylon.js into a Razor component that can be used in a C# Blazor project. The library is intended to use for creation of molecules visualization and used limited API of Babylon library. Demo application which is showing different parts of library Pubchem Viewer. Show chemical information from pubchem.ncbi.nlm.nih.gov."
+  },
+  {
     "name": "Head Element Helper",
     "url": "https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement",
     "description": "<Title> and <Meta> components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. (Demo)."
@@ -729,6 +749,11 @@
     "name": "BlazorAnimation",
     "url": "https://github.com/aboudoux/BlazorAnimation",
     "description": "A Blazor component based on animate.css to easly animate your content. Demo."
+  },
+  {
+    "name": "RazorStyle",
+    "url": "https://github.com/wihrl/RazorStyle",
+    "description": "A small utility library to allow in-component styling without duplicate <style> tags. Also supports programmatically triggered animations."
   },
   {
     "name": "DexieNET",
@@ -841,6 +866,11 @@
     "description": "Blazor wrappers for PatternFly. To view the latest develop branch in action, visit the demo app."
   },
   {
+    "name": "Blazor PWA Updater",
+    "url": "https://github.com/jsakamoto/Toolbelt.Blazor.PWA.Updater",
+    "description": "Provide \"Update Now\" UI and feature to your Blazor PWA that appears when the next version of one is available."
+  },
+  {
     "name": "BlazorTransitionableRoute",
     "url": "https://github.com/JByfordRew/BlazorTransitionableRoute",
     "description": "Allows current and previous route to exist enabling transition animations of UI/UX design systems."
@@ -890,6 +920,11 @@
     "description": "Create multiple panels separated by sliding splitters."
   },
   {
+    "name": "Blazor SplitContainer",
+    "url": "https://github.com/jsakamoto/Toolbelt.Blazor.SplitContainer",
+    "description": "A Blazor component to create panes separated by a slidable splitter bar."
+  },
+  {
     "name": "BlazorTimeline",
     "url": "https://github.com/Morasiu/BlazorTimeline",
     "description": "Responsive, vertical timeline component."
@@ -935,6 +970,16 @@
     "description": "A simple to use blazor component for both Blazor Server and WebAssembly which adds a basic tag editor to your app. Demo."
   },
   {
+    "name": "BlazorTooltips",
+    "url": "https://github.com/MarvinKlein1508/BlazorTooltips",
+    "description": "An implementation of Bootstrap tooltips for both Blazor Server and WebAssembly.  Demo."
+  },
+  {
+    "name": "BlazorBarcodeScanner",
+    "url": "https://github.com/sabitertan/BlazorBarcodeScanner",
+    "description": "Barcode Scanner component for Blazor using zxing-js Interop. Demo."
+  },
+  {
     "name": "Fluxor",
     "url": "https://github.com/mrpmorris/fluxor",
     "description": "Zero boilerplate Flux/Redux library for DotNet."
@@ -953,6 +998,11 @@
     "name": "bUnit - a testing library for Blazor components",
     "url": "https://github.com/egil/bunit",
     "description": "a testing library for Blazor components -   A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing."
+  },
+  {
+    "name": "Cropper.Blazor",
+    "url": "https://github.com/CropperBlazor/Cropper.Blazor",
+    "description": "Cropper.Blazor is a component that wraps around Cropper.js for cropping images in Blazor. Support Blazor Server, Blazor WebAssembly, Blazor Server Hybrid with MVC and MAUI Blazor Hybrid. Demo."
   },
   {
     "name": "TextCopy",

@@ -260,6 +260,11 @@
     "description": "Allows you to build agents that monitor and act on your behalf. MIT Ruby"
   },
   {
+    "name": "Kestra",
+    "url": "https://kestra.io",
+    "description": "Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. (Source Code) Apache-2.0 Docker"
+  },
+  {
     "name": "Kibitzr",
     "url": "https://kibitzr.github.io",
     "description": "Lightweight personal web assistant with powerful integrations. (Source Code) MIT Python"
@@ -487,7 +492,7 @@
   {
     "name": "Buku",
     "url": "https://github.com/jarun/Buku",
-    "description": "A powerful bookmark manager and a personal textual mini-web. GPL-3.0 Python"
+    "description": "A powerful bookmark manager and a personal textual mini-web. GPL-3.0 Python/deb"
   },
   {
     "name": "Espial",
@@ -597,7 +602,7 @@
   {
     "name": "Apprise",
     "url": "https://github.com/caronc/apprise",
-    "description": "Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. MIT Python/Docker"
+    "description": "Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. MIT Python/Docker/deb"
   },
   {
     "name": "BluetoothCommunicatorExample",
@@ -782,7 +787,7 @@
   {
     "name": "Synapse",
     "url": "https://matrix-org.github.io/synapse/latest/",
-    "description": "Server for Matrix, an open standard for decentralized persistent communication. (Source Code) Apache-2.0 Python"
+    "description": "Server for Matrix, an open standard for decentralized persistent communication. (Source Code) Apache-2.0 Python/deb"
   },
   {
     "name": "Syndie",
@@ -2007,7 +2012,7 @@
   {
     "name": "Calibre",
     "url": "https://calibre-ebook.com/",
-    "description": "E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. (Demo, Source Code) GPL-3.0 Python"
+    "description": "E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. (Demo, Source Code) GPL-3.0 Python/deb"
   },
   {
     "name": "Kavita",
@@ -2277,7 +2282,7 @@
   {
     "name": "RSS2EMail",
     "url": "https://github.com/rss2email/rss2email",
-    "description": "Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. GPL-2.0 Python"
+    "description": "Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. GPL-2.0 Python/deb"
   },
   {
     "name": "RSSHub",
@@ -2467,7 +2472,7 @@
   {
     "name": "OnionShare",
     "url": "https://github.com/onionshare/onionshare",
-    "description": "Securely and anonymously share a file of any size. GPL-2.0 Python"
+    "description": "Securely and anonymously share a file of any size. GPL-2.0 Python/deb"
   },
   {
     "name": "Pairdrop",
@@ -2990,6 +2995,11 @@
     "description": "Interactive whiteboard/wallpaper for the classroom, in person or remotely (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs/PHP"
   },
   {
+    "name": "Digitools",
+    "url": "https://ladigitale.dev/digitools",
+    "description": "A set of simple tools to accompany the animation of courses in person or remotely. (documentation in French). (Demo, Source Code) AGPL-3.0 PHP"
+  },
+  {
     "name": "edX",
     "url": "https://www.edx.org/",
     "description": "The Open edX platform is open-source code that powers edX.org. (Source Code) AGPL-3.0 Python"
@@ -3242,7 +3252,7 @@
   {
     "name": "Supysonic",
     "url": "https://github.com/spl0k/supysonic",
-    "description": "Python implementation of the Subsonic server API. AGPL-3.0 Python"
+    "description": "Python implementation of the Subsonic server API. AGPL-3.0 Python/deb"
   },
   {
     "name": "SwingMusic",
@@ -4097,7 +4107,7 @@
   {
     "name": "bepasty",
     "url": "https://bepasty-server.readthedocs.io/en/latest/",
-    "description": "A pastebin for all kinds of files. (Source Code) BSD-2-Clause Python"
+    "description": "A pastebin for all kinds of files. (Source Code) BSD-2-Clause Python/deb"
   },
   {
     "name": "bin",
@@ -5162,7 +5172,7 @@
   {
     "name": "Pagure",
     "url": "https://pagure.io/pagure",
-    "description": "A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. (Demo) GPL-2.0 Docker/Python"
+    "description": "A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. (Demo) GPL-2.0 Docker/Python/deb"
   },
   {
     "name": "Phorge",
@@ -5232,7 +5242,7 @@
   {
     "name": "Trac",
     "url": "https://trac.edgewall.org/",
-    "description": "Trac is an enhanced wiki and issue tracking system for software development projects. BSD-3-Clause Python"
+    "description": "Trac is an enhanced wiki and issue tracking system for software development projects. BSD-3-Clause Python/deb"
   },
   {
     "name": "Traq",
@@ -5550,6 +5560,11 @@
     "description": "Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). (Demo, Source Code) MIT Docker/K8S"
   },
   {
+    "name": "SentryShot",
+    "url": "https://codeberg.org/SentryShot/sentryshot",
+    "description": "Video surveillance management system. GPL-2.0 Docker/Rust"
+  },
+  {
     "name": "Zoneminder",
     "url": "https://www.zoneminder.com/",
     "description": "Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. (Source Code) GPL-2.0 PHP/deb"
@@ -5598,6 +5613,11 @@
     "name": "Mycorrhiza Wiki",
     "url": "https://mycorrhiza.wiki/",
     "description": "Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. (Source Code) AGPL-3.0 Go"
+  },
+  {
+    "name": "Otter Wiki",
+    "url": "https://github.com/redimp/otterwiki",
+    "description": "Simple, easy to use wiki software using markdown. MIT Docker"
   },
   {
     "name": "Outline",
