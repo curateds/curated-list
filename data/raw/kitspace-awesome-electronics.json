@@ -99,6 +99,11 @@
     "description": "Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability."
   },
   {
+    "name": "Qucs-S",
+    "url": "https://ra3xdh.github.io/",
+    "description": "Open source fork of Qucs using SPICE for simulation."
+  },
+  {
     "name": "QucsStudio",
     "url": "http://qucsstudio.de/",
     "description": "Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features."

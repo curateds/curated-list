@@ -110,6 +110,11 @@
     "description": "A tree like view for symbols using the Language Server Protocol. Supports all your favourite languages."
   },
   {
+    "name": "hedyhli/outline.nvim",
+    "url": "https://github.com/hedyhli/outline.nvim",
+    "description": "A significantly enhanced and refactored fork of symbols-outline.nvim."
+  },
+  {
     "name": "stevearc/aerial.nvim",
     "url": "https://github.com/stevearc/aerial.nvim",
     "description": "A code outline window for skimming and quick navigation."
@@ -2847,7 +2852,7 @@
   {
     "name": "linrongbin16/gitlinker.nvim",
     "url": "https://github.com/linrongbin16/gitlinker.nvim",
-    "description": "Maintained fork of \"ruifm's gitlinker\", refactored with lua pattern based rule engine, windows support and other enhancements."
+    "description": "Maintained fork of \"ruifm's gitlinker\", refactored with bug fixes, alias-host, /blame url support and other enhancements."
   },
   {
     "name": "tanvirtin/vgit.nvim",
