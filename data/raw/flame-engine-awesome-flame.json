@@ -98,70 +98,14 @@
     "description": "Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By Tyler Shukert."
   },
   {
-    "name": "Alekhin",
-    "url": "https://github.com/japalekhin"
-  },
-  {
-    "name": "Create a Mobile Game with Flutter and Flame - Beginner Tutorial (Introduction)",
-    "url": "https://jap.alekhin.io/create-mobile-game-flutter-flame-beginner-tutorial",
-    "description": "Beginner Tutorial (Introduction)"
-  },
-  {
-    "name": "2D Casual Mobile Game Tutorial - Step by Step with Flame and Flutter (Part 1 of 5)",
-    "url": "https://jap.alekhin.io/2d-casual-mobile-game-tutorial-flame-flutter-part-1",
-    "description": "Step by Step with Flame and Flutter (Part 1 of 5)"
-  },
-  {
-    "name": "Game Graphics and Animation Tutorial - Step by Step with Flame and Flutter (Part 2 of 5)",
-    "url": "https://jap.alekhin.io/game-graphics-and-animation-tutorial-flame-flutter-part-2",
-    "description": "Step by Step with Flame and Flutter (Part 2 of 5)"
-  },
-  {
-    "name": "Views and Dialog Boxes Tutorial - Step by Step with Flame and Flutter (Part 3 of 5)",
-    "url": "https://jap.alekhin.io/views-dialog-boxes-tutorial-flame-flutter-part-3",
-    "description": "Step by Step with Flame and Flutter (Part 3 of 5)"
-  },
-  {
-    "name": "Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)",
-    "url": "https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4",
-    "description": "Step by Step with Flame and Flutter (Part 4 of 5)"
-  },
-  {
-    "name": "Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)",
-    "url": "https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5",
-    "description": "Step by Step with Flame and Flutter (Part 5 of 5)"
-  },
-  {
-    "name": "Fireslime",
-    "url": "https://fireslime.xyz/"
-  },
-  {
-    "name": "Creating a virtual controller with Stack on Flame",
-    "url": "https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html"
-  },
-  {
-    "name": "Basic Camera usage on Flame",
-    "url": "https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html"
-  },
-  {
     "name": "Maze generator",
     "url": "https://github.com/Dannark/FlameExamples",
     "description": "List of algorithm examples to solve problems like Maze generation and more. By Dannark"
   },
   {
-    "name": "flame_gamepad",
-    "url": "https://github.com/flame-engine/flame_gamepad",
-    "description": "Flutter Gamepad Support."
-  },
-  {
-    "name": "flame_geom",
-    "url": "https://github.com/flame-engine/flame_geom",
-    "description": "Complement Flame with APIs for handling shapes and geometric operations."
-  },
-  {
-    "name": "flame_scrolling_sprite",
-    "url": "https://github.com/flame-engine/flame_scrolling_sprite",
-    "description": "Easy to use sprites that repeats itself on an area."
+    "name": "First-Party Plugins",
+    "url": "https://github.com/flame-engine/flame/tree/main/packages",
+    "description": "First-party plugins included in Flame's monorepo."
   },
   {
     "name": "bonfire",
@@ -317,6 +261,11 @@
     "name": "Android",
     "url": "https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game",
     "description": "Android - Swim with your pug up Jade Rapids collecting treats and dodging obstacles. By Philip Lalonde"
+  },
+  {
+    "name": "IOS",
+    "url": "https://apps.apple.com/tr/app/escaper-run/id6450519372?platform=iphone",
+    "description": "IOS - Dodge the bombs. Test your reflexes! By A. Can Algan"
   },
   {
     "name": "Sky Academy",

@@ -225,11 +225,6 @@
     "description": "Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. (Source Code) Apache-2.0 Docker/Java/Nodejs"
   },
   {
-    "name": "feed2toot",
-    "url": "https://feed2toot.readthedocs.io/en/latest/",
-    "description": "Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon. (Source Code) GPL-3.0 Python"
-  },
-  {
     "name": "feedmixer",
     "url": "https://github.com/cristoper/feedmixer",
     "description": "FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON). (Demo) WTFPL Python"
@@ -1010,11 +1005,6 @@
     "description": "Modern SMTP server designed with a focus on security, speed, and extensive configurability. (Source Code) AGPL-3.0 Rust"
   },
   {
-    "name": "vSMTP",
-    "url": "https://viridit.com/products/",
-    "description": "Next-gen MTA. Secured, Faster and Greener. (Source Code) GPL-3.0 Rust"
-  },
-  {
     "name": "Dada Mail",
     "url": "https://dadamailproject.com/",
     "description": "Web-based list management system that can be used for announcement lists and/or discussion lists. (Source Code) GPL-2.0 Perl"
@@ -1362,7 +1352,7 @@
   {
     "name": "Mastodon",
     "url": "https://joinmastodon.org/",
-    "description": "Federated microblogging server. (Source Code) AGPL-3.0 Ruby"
+    "description": "Federated microblogging server. (Source Code, Clients) AGPL-3.0 Ruby"
   },
   {
     "name": "Misago",
@@ -5613,6 +5603,11 @@
     "name": "Mycorrhiza Wiki",
     "url": "https://mycorrhiza.wiki/",
     "description": "Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. (Source Code) AGPL-3.0 Go"
+  },
+  {
+    "name": "Otter Wiki",
+    "url": "https://github.com/redimp/otterwiki",
+    "description": "Simple, easy to use wiki software using markdown. MIT Docker"
   },
   {
     "name": "Otter Wiki",
