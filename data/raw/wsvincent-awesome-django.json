@@ -666,31 +666,38 @@
   },
   {
     "name": "curlylint",
-    "url": "https://www.curlylint.org/"
+    "url": "https://www.curlylint.org/",
+    "description": "Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid."
   },
   {
     "name": "django-components",
-    "url": "https://github.com/EmilStenstrom/django-components/"
+    "url": "https://github.com/EmilStenstrom/django-components/",
+    "description": "A way to create simple reusable template components in Django."
   },
   {
     "name": "django-template-partials",
-    "url": "https://github.com/carltongibson/django-template-partials/"
+    "url": "https://github.com/carltongibson/django-template-partials/",
+    "description": "Reusable named inline partials for the Django Template Language."
   },
   {
     "name": "djhtml",
-    "url": "https://github.com/rtts/djhtml"
+    "url": "https://github.com/rtts/djhtml",
+    "description": "Django/Jinja template indenter."
   },
   {
     "name": "djlint",
-    "url": "https://www.djlint.com/"
+    "url": "https://www.djlint.com/",
+    "description": "Lint & Format HTML Templates."
   },
   {
     "name": "slippers",
-    "url": "https://mitchel.me/slippers/"
+    "url": "https://mitchel.me/slippers/",
+    "description": "Build reusable components in Django without writing a single line of Python."
   },
   {
     "name": "JinjaX",
-    "url": "https://jinjax.scaletti.dev/"
+    "url": "https://jinjax.scaletti.dev/",
+    "description": "Super components powers for your Jinja templates."
   },
   {
     "name": "django-debug-toolbar",
@@ -749,7 +756,8 @@
   },
   {
     "name": "storybook-django",
-    "url": "https://github.com/torchbox/storybook-django"
+    "url": "https://github.com/torchbox/storybook-django",
+    "description": "Develop Django UI components in isolation, with Storybook."
   },
   {
     "name": "dj-database-url",
@@ -882,11 +890,6 @@
     "description": "Python implementation of the Socket.IO_ realtime client and server. (create Socket.io Django server instance)"
   },
   {
-    "name": "whitenoise",
-    "url": "https://github.com/evansd/whitenoise",
-    "description": "Simplified static file serving for Python websites."
-  },
-  {
     "name": "Project Website",
     "url": "https://www.djangoproject.com/",
     "description": "Official Django website."
@@ -1012,6 +1015,11 @@
     "description": "For contributions to Django itself only."
   },
   {
+    "name": "Mastodon",
+    "url": "https://fosstodon.org/@django",
+    "description": "For official announcements on updates, security fixes, etc."
+  },
+  {
     "name": "Twitter",
     "url": "https://twitter.com/djangoproject/",
     "description": "For official announcements on updates, security fixes, etc."
@@ -1060,6 +1068,26 @@
   {
     "name": "Complete listing of all PyCons globally",
     "url": "https://pycon.org"
+  },
+  {
+    "name": "Django News Jobs",
+    "url": "https://jobs.django-news.com/",
+    "description": "A Django job board that also aggregates other job boards."
+  },
+  {
+    "name": "Django Gigs",
+    "url": "https://djangogigs.com",
+    "description": "This platform caters specifically to freelance and full-time Django developers."
+  },
+  {
+    "name": "Django Jobs",
+    "url": "https://djangojobs.net",
+    "description": "Django jobs posting for hiring Django Python developers."
+  },
+  {
+    "name": "Python.org Job Boards",
+    "url": "https://www.python.org/jobs/",
+    "description": "While not exclusively for Django, this job board is hosted by the official Python website and features a range of Python and Django-related job opportunities."
   },
   {
     "name": "Django News",

@@ -1595,6 +1595,11 @@
     "description": "A port of cobalt2 colorscheme using colorbuddy."
   },
   {
+    "name": "calind/selenized.nvim",
+    "url": "https://github.com/calind/selenized.nvim",
+    "description": "Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more."
+  },
+  {
     "name": "tjdevries/colorbuddy.nvim",
     "url": "https://github.com/tjdevries/colorbuddy.nvim",
     "description": "A colorscheme helper. Written in Lua! Quick & Easy Color Schemes 😄."
@@ -3753,6 +3758,11 @@
     "name": "echasnovski/mini.nvim#mini.bufremove",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bufremove.md",
     "description": "Module of mini.nvim for buffer removing (unshow, delete, wipeout) while saving window layout."
+  },
+  {
+    "name": "jyscao/ventana.nvim",
+    "url": "https://github.com/jyscao/ventana.nvim",
+    "description": "Convenient flips & shifts for your windows layout."
   },
   {
     "name": "aserowy/tmux.nvim",

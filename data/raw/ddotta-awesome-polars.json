@@ -104,6 +104,11 @@
     "url": "https://github.com/etiennebacher/tidypolars/"
   },
   {
+    "name": "polarssql",
+    "url": "https://github.com/rpolars/r-polarssql",
+    "description": "polarssql experimental package which is a DBI-compliant interface to Polars."
+  },
+  {
     "name": "nodejs-polars for Node.js",
     "url": "https://github.com/pola-rs/nodejs-polars",
     "description": "Node.js nodejs-polars package to use polars DataFrame from Node.js."
@@ -582,6 +587,11 @@
     "name": "Pandas and Polars with Marco Gorelli",
     "url": "https://thebakery.dev/68/",
     "description": "A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by @MarcoGorelli."
+  },
+  {
+    "name": "Library of the week 13 : Polars with Python",
+    "url": "https://www.youtube.com/watch?v=kv7rqHgX20w",
+    "description": "A video that presents Polars with Python by @enarroied. Article supplied with the video in this page."
   },
   {
     "name": "pola-rs (@pola-rs)",

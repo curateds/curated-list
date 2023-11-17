@@ -60,6 +60,10 @@
     "description": "Library of Raft consensus algorithm implemented in OCaml"
   },
   {
+    "name": "ODiff",
+    "url": "https://github.com/dmtrKovalenko/odiff"
+  },
+  {
     "name": "Batteries Included",
     "url": "https://github.com/ocaml-batteries-team/batteries-included"
   },
@@ -215,6 +219,11 @@
     "description": "Translator from OCaml to Coq to formally verify OCaml code."
   },
   {
+    "name": "MOPSA",
+    "url": "https://gitlab.com/mopsa/mopsa-analyzer",
+    "description": "MOPSA is a generic framework for building sound static analyzers based on the theory of abstract interpretation."
+  },
+  {
     "name": "BAP",
     "url": "https://github.com/BinaryAnalysisPlatform/bap",
     "description": "BAP is a reverse engineering and program analysis platform that targets binary programs."
@@ -309,6 +318,11 @@
     "name": "RaML",
     "url": "http://raml.co/index.html",
     "description": "Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs."
+  },
+  {
+    "name": "Liquid ML",
+    "url": "https://github.com/benfaerber/liquid-ml",
+    "description": "Shopify's Liquid Templating language for OCaml."
   },
   {
     "name": "Opal",
@@ -475,6 +489,10 @@
     "description": "Cooperative-threaded access to relational data"
   },
   {
+    "name": "Caqti setence preparation, ppx_rapper",
+    "url": "https://github.com/roddyyaga/ppx_rapper"
+  },
+  {
     "name": "Implementing the Binary Memcached Protocol with Ocaml and Bitstring",
     "url": "https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/"
   },
@@ -487,8 +505,8 @@
     "url": "https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11"
   },
   {
-    "name": "Caqti setence preparation, ppx_rapper",
-    "url": "https://github.com/roddyyaga/ppx_rapper"
+    "name": "Finally, Type-Safe, Extensible and Efficient Language Integrated Query",
+    "url": "https://www.cs.tsukuba.ac.jp/~kam/papers/pepm2016a.pdf"
   },
   {
     "name": "ISO8601",
@@ -1042,7 +1060,7 @@
   },
   {
     "name": "Fan",
-    "url": "http://zhanghongbo.me/fan/"
+    "url": "http://bobzhang.github.io/fan/"
   },
   {
     "name": "camlp5",
@@ -1249,6 +1267,18 @@
     "url": "https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities"
   },
   {
+    "name": "Parallel programming in multicore OCaml",
+    "url": "https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml"
+  },
+  {
+    "name": "Parallelism programming",
+    "url": "https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html"
+  },
+  {
+    "name": "Awesome multicore OCaml",
+    "url": "https://github.com/ocaml-multicore/awesome-multicore-ocaml"
+  },
+  {
     "name": "Console.log",
     "url": "https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything"
   },
@@ -1375,6 +1405,11 @@
     "description": "OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions."
   },
   {
+    "name": "WHIZARD",
+    "url": "https://whizard.hepforge.org/",
+    "description": "A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples."
+  },
+  {
     "name": "Re",
     "url": "https://github.com/ocaml/ocaml-re"
   },
@@ -1416,6 +1451,10 @@
   {
     "name": "OCaml-RDF",
     "url": "https://framagit.org/zoggy/ocaml-rdf"
+  },
+  {
+    "name": "atdgen",
+    "url": "https://github.com/ahrefs/atd"
   },
   {
     "name": "bencode",
@@ -1550,6 +1589,11 @@
     "name": "incr_dom",
     "url": "https://github.com/janestreet/incr_dom",
     "description": "A library for building dynamic webapps, using Js_of_ocaml"
+  },
+  {
+    "name": "fmlib_browser",
+    "url": "https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html",
+    "description": "a library which helps to write web applications which run in the browser in a pure functional style."
   },
   {
     "name": "ocaml-vdom",

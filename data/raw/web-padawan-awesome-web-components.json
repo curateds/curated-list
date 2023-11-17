@@ -609,6 +609,10 @@
     "description": "Custom element to progressively enhance image placeholders."
   },
   {
+    "name": "<qr-code>",
+    "url": "https://github.com/bitjson/qr-code"
+  },
+  {
     "name": "<range-slider>",
     "url": "https://github.com/andreruffert/range-slider-element",
     "description": "Accessible range slider custom element with keyboard support."
@@ -739,6 +743,11 @@
     "description": "Web components library for Sme.UP."
   },
   {
+    "name": "LDRS",
+    "url": "https://github.com/GriffinJohnston/ldrs",
+    "description": "Lightweight, customizable loading animations/spinners."
+  },
+  {
     "name": "Lion Web Components",
     "url": "https://github.com/ing-bank/lion",
     "description": "Set of highly performant, accessible and flexible Web Components."
@@ -827,6 +836,11 @@
     "name": "Tradeshift Elements",
     "url": "https://github.com/Tradeshift/elements",
     "description": "Reusable Tradeshift UI Components as Web Components."
+  },
+  {
+    "name": "TrendChart Elements",
+    "url": "https://github.com/WebLogin/trendchart-elements",
+    "description": "Components to generate simple, light and responsive charts."
   },
   {
     "name": "Umbraco UI Components",

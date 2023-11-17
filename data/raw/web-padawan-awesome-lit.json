@@ -506,6 +506,11 @@
     "description": "Collection of lightweight web components used by Leavitt Group Enterprises."
   },
   {
+    "name": "TrendChart Elements",
+    "url": "https://github.com/WebLogin/trendchart-elements",
+    "description": "Components to generate simple charts representing trends."
+  },
+  {
     "name": "Umbraco UI Components",
     "url": "https://github.com/umbraco/Umbraco.UI",
     "description": "Collection of user interface web components for Umbraco CMS."
@@ -564,6 +569,11 @@
     "name": "<codesandbox-button>",
     "url": "https://github.com/bennypowers/codesandbox-button",
     "description": "Custom Element that shows a CodeSandbox demo when you click on it."
+  },
+  {
+    "name": "<editor-container>",
+    "url": "https://github.com/toeverything/blocksuite",
+    "description": "Block based editor, designed for general-purpose collaborative applications."
   },
   {
     "name": "<granite-qrcode-generator>",
@@ -694,6 +704,11 @@
     "name": "vim-html-template-literals",
     "url": "https://github.com/jonsmithers/vim-html-template-literals",
     "description": "Syntax highlighting and indentation for HTML inside of tagged template literals."
+  },
+  {
+    "name": "@web-types/lit",
+    "url": "https://www.npmjs.com/package/@web-types/lit",
+    "description": "Attribute completion for HTML inside of tagged template literals."
   },
   {
     "name": "ts-lit-plugin",

@@ -348,7 +348,7 @@
   },
   {
     "name": "restagraph",
-    "url": "https://github.com/equill/restagraph",
+    "url": "https://codeberg.org/Equill/restagraph",
     "description": "an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. GPL3."
   },
   {
@@ -3280,6 +3280,10 @@
     "name": "periods",
     "url": "https://github.com/jwiegley/periods",
     "description": "manipulating date/time objects at a higher level. With series-compatible data structure. BSD_3Clause."
+  },
+  {
+    "name": "some documentation",
+    "url": "https://lisp-maintainers.github.io/periods/"
   },
   {
     "name": "stopclock",
