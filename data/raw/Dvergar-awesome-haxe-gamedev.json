@@ -319,6 +319,11 @@
     "description": "Data structures for games."
   },
   {
+    "name": "hxyarn",
+    "url": "https://github.com/cxsquared/hxyarn",
+    "description": "Parser and runner for Yarn dialogue files."
+  },
+  {
     "name": "flixel-studio",
     "url": "https://github.com/Dovyski/flixel-studio",
     "description": "In-game editor for HaxeFlixel."
@@ -387,6 +392,11 @@
     "name": "astar",
     "url": "https://gitlab.com/haath/astar",
     "description": "Versatile framework-agnostic A-star solver Library."
+  },
+  {
+    "name": "Dungeon builder",
+    "url": "https://github.com/julsam/dungeon-builder",
+    "description": "A set of dungeon generation algorithm (works w/ hx4 w/ minor changes)."
   },
   {
     "name": "HGSL",

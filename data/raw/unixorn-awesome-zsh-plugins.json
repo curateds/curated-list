@@ -671,16 +671,6 @@
     "description": "A plugin for AsciiDoctor."
   },
   {
-    "name": "asdf-direnv",
-    "url": "https://github.com/redxtech/zsh-asdf-direnv",
-    "description": "Integration and completions for asdf and direnv."
-  },
-  {
-    "name": "asdf-prompt",
-    "url": "https://github.com/CurryEleison/zsh-asdf-prompt",
-    "description": "Provides a function usable in prompts that displays version information for your current tool versions."
-  },
-  {
     "name": "asdf (kiurchv)",
     "url": "https://github.com/kiurchv/asdf.plugin.zsh",
     "description": "Integration and completions for asdf, the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more."
@@ -689,6 +679,16 @@
     "name": "asdf (zimfw)",
     "url": "https://github.com/zimfw/asdf",
     "description": "Initializes asdf, installing it using git if not installed yet. Also, bypasses the shims if you're using the direnv plugin, as suggested by the plugin pro-tips."
+  },
+  {
+    "name": "asdf-direnv",
+    "url": "https://github.com/redxtech/zsh-asdf-direnv",
+    "description": "Integration and completions for asdf and direnv."
+  },
+  {
+    "name": "asdf-prompt",
+    "url": "https://github.com/CurryEleison/zsh-asdf-prompt",
+    "description": "Provides a function usable in prompts that displays version information for your current tool versions."
   },
   {
     "name": "ask",
@@ -1621,14 +1621,14 @@
     "description": "replace ls with ogham/exa."
   },
   {
-    "name": "exa-ls",
-    "url": "https://github.com/birdhackor/zsh-exa-ls-plugin",
-    "description": "Adds aliases so that you can use exa as a drop-in replacement for ls and tree."
-  },
-  {
     "name": "exa-ls (zpm-zsh)",
     "url": "https://github.com/zpm-zsh/ls",
     "description": "Zsh plugin for ls."
+  },
+  {
+    "name": "exa-ls",
+    "url": "https://github.com/birdhackor/zsh-exa-ls-plugin",
+    "description": "Adds aliases so that you can use exa as a drop-in replacement for ls and tree."
   },
   {
     "name": "exercism",
@@ -2931,6 +2931,11 @@
     "description": "auto-switches node versions based on .nvmrc. Requires n."
   },
   {
+    "name": "no-ps2",
+    "url": "https://github.com/romkatv/zsh-no-ps2",
+    "description": "When this plugin is used, Enter inserts a newline if the typed command is incomplete. No PS2!"
+  },
+  {
     "name": "node-env-installer",
     "url": "https://github.com/shiro-saber/node-env-installer",
     "description": "Uses nvm to install new versions and modules for the current project."
@@ -3706,14 +3711,14 @@
     "description": "Adds keybindings to do global search and replace on current command line."
   },
   {
-    "name": "select",
-    "url": "https://github.com/z-shell/zsh-select",
-    "description": "Multi-term searched selection list with approximate matching and uniq mode."
-  },
-  {
     "name": "select-with-lf",
     "url": "https://github.com/chmouel/zsh-select-with-lf",
     "description": "Lets user select files or a directory using lf."
+  },
+  {
+    "name": "select",
+    "url": "https://github.com/z-shell/zsh-select",
+    "description": "Multi-term searched selection list with approximate matching and uniq mode."
   },
   {
     "name": "send",
@@ -5399,6 +5404,11 @@
     "name": "mcfly",
     "url": "https://github.com/cantino/mcfly",
     "description": "Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network."
+  },
+  {
+    "name": "mill",
+    "url": "https://github.com/carlosedp/mill-zsh-completions",
+    "description": "Tab completions for Scala's Mill build tool."
   },
   {
     "name": "miniconda",
@@ -9535,6 +9545,11 @@
     "description": "An information-rich small-footprint theme for ZSH based on Agnoster."
   },
   {
+    "name": "simpl",
+    "url": "https://github.com/MrNeoTr1n0/simplzshell",
+    "description": "Minimalist theme focusing on elegance and simplicity. Decorators for root status, current directory and git status."
+  },
+  {
     "name": "simple (daopengz)",
     "url": "https://github.com/DaopengZ/simple-zsh-theme",
     "description": "Works well with both light and dark terminal themes. Includes vcs, username and path decorations."
@@ -10437,12 +10452,17 @@
   {
     "name": "zshcomrade",
     "url": "https://github.com/landongn/zshcomrade",
-    "description": "A ZSH theme, comrade!"
+    "description": "A ZSH theme, comrade! Includes git status decorations."
   },
   {
     "name": "zshify",
     "url": "https://github.com/nrjdalal/zshify",
     "description": "A minimalistic, one command installation to customize your prompt. Requires npx."
+  },
+  {
+    "name": "zshiggy",
+    "url": "https://github.com/malouro/zshiggy",
+    "description": "Includes decorators for git status, node.js version."
   },
   {
     "name": "zshpower",

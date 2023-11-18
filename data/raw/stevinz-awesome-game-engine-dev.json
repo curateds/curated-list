@@ -2075,6 +2075,11 @@
     "description": "Electronic Arts STL replacement, emphasis on performance."
   },
   {
+    "name": "faker-cxx",
+    "url": "https://github.com/cieslarmichal/faker-cxx",
+    "description": "C++20 Faker library for generating fake (but realistic) data for testing and development."
+  },
+  {
     "name": "Parallel Hashmap",
     "url": "https://github.com/greg7mdp/parallel-hashmap",
     "description": "Header-only, fast and memory-friendly hashmap and binary tree containers."
@@ -5506,12 +5511,12 @@
   },
   {
     "name": "Pmndrs Materials",
-    "url": "https://market.pmnd.rs/materials",
+    "url": "https://github.com/pmndrs/market-assets/tree/main/files/materials",
     "description": "Collection of public domain materials."
   },
   {
     "name": "Pmndrs Market",
-    "url": "https://market.pmnd.rs",
+    "url": "https://github.com/pmndrs/market",
     "description": "Collection of public domain models."
   },
   {

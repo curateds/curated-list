@@ -1155,6 +1155,11 @@
     "description": "Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more."
   },
   {
+    "name": "MAT Calcite plugin",
+    "url": "https://github.com/vlsi/mat-calcite-plugin",
+    "description": "This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL."
+  },
+  {
     "name": "OctoSQL",
     "url": "https://github.com/cube2222/octosql",
     "description": "Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL."

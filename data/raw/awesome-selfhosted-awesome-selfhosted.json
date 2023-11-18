@@ -490,6 +490,11 @@
     "description": "A powerful bookmark manager and a personal textual mini-web. GPL-3.0 Python/deb"
   },
   {
+    "name": "Digibunch",
+    "url": "https://ladigitale.dev/digibunch/#/",
+    "description": "Create bunches of links to share with your learners or colleagues. (Demo, Source Code) AGPL-3.0 Nodejs/PHP"
+  },
+  {
     "name": "Espial",
     "url": "https://github.com/jonschoning/espial",
     "description": "An open-source, web-based bookmarking server. AGPL-3.0 Haskell"
@@ -543,6 +548,11 @@
     "name": "Shiori",
     "url": "https://github.com/go-shiori/shiori",
     "description": "Simple bookmark manager built with Go. MIT Go/Docker"
+  },
+  {
+    "name": "Slash",
+    "url": "https://github.com/boojack/slash",
+    "description": "An open source, self-hosted bookmarks and link sharing platform. GPL-3.0 Docker"
   },
   {
     "name": "SyncMarks",
@@ -1950,6 +1960,11 @@
     "description": "Auto-tagging document organizer and archive. (Source Code) GPL-3.0 Scala/Java/Docker"
   },
   {
+    "name": "Docuseal",
+    "url": "https://www.docuseal.co",
+    "description": "Create, fill, and sign digital documents (alternative to DocuSign). (Demo, Source Code) AGPL-3.0 Docker"
+  },
+  {
     "name": "EveryDocs",
     "url": "https://github.com/jonashellmann/everydocs-core",
     "description": "A simple Document Management System for private use with basic functionality to organize your documents digitally. GPL-3.0 Docker/Ruby"
@@ -2015,14 +2030,14 @@
     "description": "Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. (Source Code) MIT Java/Docker"
   },
   {
+    "name": "Librum",
+    "url": "https://librumreader.com",
+    "description": "A modern e-book reader and library manager that supports most major book formats, runs on all devices and offers great tools to boost productivity. (Source Code) GPL-3.0 C++"
+  },
+  {
     "name": "Mango",
     "url": "https://github.com/getmango/Mango",
     "description": "Manga server and web reader with a built-in MangaDex downloader. MIT Crystal/Docker"
-  },
-  {
-    "name": "pyShelf",
-    "url": "https://github.com/th3r00t/pyShelf",
-    "description": "Lightweight Ebook Server. GPL-3.0 Python"
   },
   {
     "name": "Stump",
@@ -2670,6 +2685,11 @@
     "description": "RomM (Rom Manager) is a web based retro roms manager integrated with IGDB. GPL-3.0 Docker"
   },
   {
+    "name": "Suroi",
+    "url": "https://suroi.io/",
+    "description": "An open-source 2D battle royale game inspired by surviv.io. (Demo, Source Code) GPL-3.0 Nodejs"
+  },
+  {
     "name": "Teeworlds",
     "url": "https://www.teeworlds.com",
     "description": "Open source 2D retro multiplayer shooter. (Source Code) Zlib C++/deb"
@@ -2850,11 +2870,6 @@
     "description": "Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. (Demo, Source Code) GPL-2.0 PHP/Docker"
   },
   {
-    "name": "IceHrm",
-    "url": "https://icehrm.com/",
-    "description": "IceHrm employee management system allows companies to centralize confidential employee information. (Demo, Source Code) Apache-2.0 Docker/PHP"
-  },
-  {
     "name": "OrangeHRM",
     "url": "https://www.orangehrm.com/",
     "description": "OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. (Demo, Source Code) GPL-2.0 PHP"
@@ -2935,6 +2950,11 @@
     "description": "WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. (Source Code) MPL-2.0 Nodejs"
   },
   {
+    "name": "Homebox Inventory",
+    "url": "https://hay-kot.github.io/homebox/",
+    "description": "An inventory and organization system built for the home user with a focus on simplicity and ease of use. (Demo, Source Code) AGPL-3.0 Docker"
+  },
+  {
     "name": "Inventaire",
     "url": "https://inventaire.io/welcome",
     "description": "Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. (Source Code) AGPL-3.0 Nodejs"
@@ -3008,11 +3028,6 @@
     "name": "INGInious",
     "url": "https://inginious.org/?lang=en",
     "description": "Intelligent grader that allows secured and automated testing of code made by students. (Source Code, Clients) AGPL-3.0 Python/Docker"
-  },
-  {
-    "name": "Mahara",
-    "url": "https://mahara.org/",
-    "description": "Open Source fully featured web application to build students electronic portfolio. (Source Code) GPL-3.0 PHP"
   },
   {
     "name": "Moodle",
@@ -3272,7 +3287,7 @@
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.org",
-    "description": "Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. (Demo, Source Code) GPL-2.0 C#/deb/Docker"
+    "description": "Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. (Demo, Source Code, Clients) GPL-2.0 C#/deb/Docker"
   },
   {
     "name": "Karaoke Eternal",
@@ -3480,6 +3495,11 @@
     "description": "Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. (Demo) Apache-2.0 Javascript"
   },
   {
+    "name": "Digiview",
+    "url": "https://ladigitale.dev/digiview/",
+    "description": "View YouTube videos in a distraction-free interface (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs/PHP"
+  },
+  {
     "name": "DomainMOD",
     "url": "https://domainmod.org",
     "description": "Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. (Demo, Source Code) GPL-3.0 PHP"
@@ -3488,6 +3508,11 @@
     "name": "DOMJudge",
     "url": "https://www.domjudge.org/",
     "description": "A system for running a programming contest, like the ICPC regional and world championship programming contests. (Demo, Source Code) GPL-2.0/BSD-3-Clause/MIT PHP"
+  },
+  {
+    "name": "ESMira",
+    "url": "https://esmira.kl.ac.at",
+    "description": "Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. (Demo, Source Code) AGPL-3.0 PHP"
   },
   {
     "name": "F-Droid",
@@ -3568,6 +3593,11 @@
     "name": "Lama-Cleaner",
     "url": "https://github.com/Sanster/lama-cleaner",
     "description": "A free and open-source inpainting tool powered by SOTA AI model. Apache-2.0 Python/Docker"
+  },
+  {
+    "name": "LanguageTool",
+    "url": "https://languagetool.org/",
+    "description": "Proofread more than 20 languages. It finds many errors that a simple spell checker cannot detect. (Source Code, Clients) LGPL-2.1 Java/Docker"
   },
   {
     "name": "Libre Translate",
