@@ -455,6 +455,11 @@
     "description": "Preview typst documents, respond to file changes."
   },
   {
+    "name": "simaxme/java.nvim",
+    "url": "https://github.com/simaxme/java.nvim",
+    "description": "Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree)."
+  },
+  {
     "name": "ray-x/go.nvim",
     "url": "https://github.com/ray-x/go.nvim",
     "description": "Golang plugin based on lsp and Treesitter."

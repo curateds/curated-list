@@ -15,11 +15,6 @@
     "description": "Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers."
   },
   {
-    "name": "Blue Team Training Toolkit (BT3)",
-    "url": "https://www.bt3.no/",
-    "description": "Software for defensive security training, which will bring your network analysis training sessions, incident response drills and red team engagements to a new level."
-  },
-  {
     "name": "Caldera",
     "url": "https://github.com/mitre/caldera",
     "description": "Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT&CK™) project."
@@ -244,11 +239,6 @@
     "description": "Community of 8,000+ working professionals from Law Enforcement, Private Sector, and Forensic Vendors. Additionally, plenty of students and hobbyists! Guide here."
   },
   {
-    "name": "SANS DFIR mailing list",
-    "url": "https://lists.sans.org/mailman/listinfo/dfir",
-    "description": "Mailing list by SANS for DFIR."
-  },
-  {
     "name": "Slack DFIR channel",
     "url": "https://dfircommunity.slack.com",
     "description": "Slack DFIR Communitiy channel - Signup here."
@@ -422,11 +412,6 @@
     "name": "CCF-VM",
     "url": "https://github.com/rough007/CCF-VM",
     "description": "CyLR CDQR Forensics Virtual Machine (CCF-VM): An all-in-one solution to parsing collected data, making it easily searchable with built-in common searches, enable searching of single and multiple hosts simultaneously."
-  },
-  {
-    "name": "Digital Evidence & Forensics Toolkit (DEFT)",
-    "url": "http://www.deftlinux.net/",
-    "description": "Linux distribution made for computer forensic evidence collection. It comes bundled with the Digital Advanced Response Toolkit (DART) for Windows. A light version of DEFT, called DEFT Zero, is also available, which is focused primarily on forensically sound evidence collection."
   },
   {
     "name": "NST - Network Security Toolkit",
@@ -869,11 +854,6 @@
     "description": "Tool that lets you dump the memory contents of a process to a file without stopping the process."
   },
   {
-    "name": "AMAaaS",
-    "url": "https://amaaas.com/index.php/AMAaaS/dashboard",
-    "description": "Android Malware Analysis as a Service, executed in a native Android environment."
-  },
-  {
     "name": "Any Run",
     "url": "https://app.any.run/",
     "description": "Interactive online malware analysis service for dynamic and static research of most types of threats using any environment."
@@ -905,8 +885,8 @@
   },
   {
     "name": "Cutter",
-    "url": "https://github.com/radareorg/cutter",
-    "description": "Reverse engineering platform powered by Radare2."
+    "url": "https://github.com/rizinorg/cutter",
+    "description": "Free and Open Source Reverse Engineering Platform powered by rizin."
   },
   {
     "name": "Ghidra",

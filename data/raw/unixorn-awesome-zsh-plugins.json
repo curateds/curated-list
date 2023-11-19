@@ -4791,6 +4791,11 @@
     "description": "Serve a given directory with Python 3's http server from the standard library."
   },
   {
+    "name": "zsh-expand",
+    "url": "https://github.com/MenkeTechnologies/zsh-expand",
+    "description": "Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, =command expansion, history expansion and $parameters are also expanded by default but can be turned off."
+  },
+  {
     "name": "zsh-in-docker",
     "url": "https://github.com/deluan/zsh-in-docker",
     "description": "Automates ZSH + oh-my-zsh installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux."
