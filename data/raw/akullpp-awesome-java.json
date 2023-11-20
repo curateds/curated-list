@@ -1200,6 +1200,11 @@
     "description": "Visual layout tool for JavaFX applications."
   },
   {
+    "name": "SnapKit",
+    "url": "https://github.com/reportmill/SnapKit",
+    "description": "Modern Java UI library for both desktop and web."
+  },
+  {
     "name": "SWT",
     "url": "https://www.eclipse.org/swt/",
     "description": "Graphical widget toolkit."
@@ -1323,6 +1328,11 @@
     "name": "NetBeans",
     "url": "https://netbeans.apache.org",
     "description": "Provides integration for several Java SE and EE features, from database access to HTML5."
+  },
+  {
+    "name": "SnapCode",
+    "url": "https://reportmill.com/SnapCode/",
+    "description": "Modern IDE for Java running in the browser, focused on education."
   },
   {
     "name": "Visual Studio Code",
@@ -1568,6 +1578,11 @@
     "name": "Zulu",
     "url": "https://www.azul.com/products/zulu-community/",
     "description": "OpenJDK builds for Windows, Linux, and macOS. (GPL-2.0-only WITH Classpath-exception-2.0)"
+  },
+  {
+    "name": "Microsoft JDK",
+    "url": "https://github.com/microsoft/openjdk",
+    "description": "Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!"
   },
   {
     "name": "Apache Log4j 2",
@@ -2875,6 +2890,11 @@
     "description": "Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM."
   },
   {
+    "name": "Orekit",
+    "url": "https://www.orekit.org/",
+    "description": "A low level space flight dynamics library providing basic elements (orbits, dates, attitude, frames...) and various algorithms (conversions, propagations, pointing...) to handle them."
+  },
+  {
     "name": "Orson-Charts",
     "url": "https://github.com/jfree/orson-charts",
     "description": "Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)"
@@ -3388,6 +3408,11 @@
     "name": "WireMock",
     "url": "http://wiremock.org",
     "description": "Stubs and mocks web services."
+  },
+  {
+    "name": "EasyMock",
+    "url": "https://github.com/easymock/easymock",
+    "description": "EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing."
   },
   {
     "name": "Arthas",

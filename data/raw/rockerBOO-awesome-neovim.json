@@ -400,6 +400,11 @@
     "description": "Integrate LLMs for generating code, interacting with chat bots, and more."
   },
   {
+    "name": "jpmcb/nvim-llama",
+    "url": "https://github.com/jpmcb/nvim-llama",
+    "description": "LLM (Llama 2 and llama.cpp) wrappers."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."
@@ -655,6 +660,11 @@
     "description": "Navigate via Tree-sitter nodes using Telescope."
   },
   {
+    "name": "IndianBoy42/tree-sitter-just",
+    "url": "https://github.com/IndianBoy42/tree-sitter-just",
+    "description": "Treesitter grammar for Justfiles."
+  },
+  {
     "name": "norcalli/snippets.nvim",
     "url": "https://github.com/norcalli/snippets.nvim",
     "description": "Snippets in Lua."
@@ -688,6 +698,11 @@
     "name": "mrcjkb/haskell-snippets.nvim",
     "url": "https://github.com/mrcjkb/haskell-snippets.nvim",
     "description": "Haskell snippets for LuaSnip, powered by Tree-sitter and LSP."
+  },
+  {
+    "name": "rafamadriz/friendly-snippets",
+    "url": "https://github.com/rafamadriz/friendly-snippets",
+    "description": "Set of preconfigured snippets for different languages."
   },
   {
     "name": "gennaro-tedesco/nvim-peekup",
@@ -3448,6 +3463,11 @@
     "name": "chrisgrieser/nvim-puppeteer",
     "url": "https://github.com/chrisgrieser/nvim-puppeteer",
     "description": "Automatically convert strings to f-strings or template strings and back."
+  },
+  {
+    "name": "nat-418/boole.nvim",
+    "url": "https://github.com/nat-418/boole.nvim",
+    "description": "Toggle booleans and common string values."
   },
   {
     "name": "numToStr/Comment.nvim",
