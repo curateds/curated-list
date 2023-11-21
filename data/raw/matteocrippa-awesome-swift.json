@@ -290,6 +290,11 @@
     "description": "A command line tool for exporting resources and generating code from your Figma files."
   },
   {
+    "name": "MemberwiseInit",
+    "url": "https://github.com/gohanlon/swift-memberwise-init-macro",
+    "description": "@MemberwiseInit is a Swift Macro that can more often provide your intended init, while following the same safe-by-default semantics of Swift’s memberwise initializers."
+  },
+  {
     "name": "Model2App",
     "url": "https://github.com/Q-Mobile/Model2App",
     "description": "Turn your data model into a working CRUD app."
@@ -3758,6 +3763,11 @@
     "name": "EZAlertController",
     "url": "https://github.com/thellimist/EZAlertController",
     "description": "Easy UIAlertController."
+  },
+  {
+    "name": "FullscreenPopup",
+    "url": "https://github.com/Ryu0118/swift-fullscreen-popup",
+    "description": "Present any popup above NavigationBar in SwiftUI"
   },
   {
     "name": "GSMessage",

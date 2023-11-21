@@ -274,6 +274,11 @@
     "description": "This is a community guide, not an official guide."
   },
   {
+    "name": "audio-qubes",
+    "url": "https://forum.qubes-os.org/t/audio-qube/20685",
+    "description": "An audio qube acts as a secure handler for potentially malicious audio devices, preventing them from coming into contact with dom0"
+  },
+  {
     "name": "Building a TemplateVM for a new OS",
     "url": "https://forum.qubes-os.org/docs?topic=18972",
     "description": "If you don’t like using one of the existing templates because of specific administration, package management or other building needs, you can build a TemplateVM for your distribution of choice."

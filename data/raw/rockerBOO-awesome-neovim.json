@@ -405,6 +405,11 @@
     "description": "LLM (Llama 2 and llama.cpp) wrappers."
   },
   {
+    "name": "David-Kunz/gen.nvim",
+    "url": "https://github.com/David-Kunz/gen.nvim",
+    "description": "Generate text using LLMs (via Ollama) with customizable prompts."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."
@@ -528,6 +533,11 @@
     "name": "ellisonleao/glow.nvim",
     "url": "https://github.com/ellisonleao/glow.nvim",
     "description": "Markdown preview using glow."
+  },
+  {
+    "name": "ellisonleao/dotenv.nvim",
+    "url": "https://github.com/ellisonleao/dotenv.nvim",
+    "description": "Minimalist .env support."
   },
   {
     "name": "iamcco/markdown-preview.nvim",
@@ -863,6 +873,11 @@
     "name": "echasnovski/mini.nvim#mini.extra",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md",
     "description": "Module of mini.nvim with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more."
+  },
+  {
+    "name": "fdschmidt93/telescope-egrepify.nvim",
+    "url": "https://github.com/fdschmidt93/telescope-egrepify.nvim",
+    "description": "Telescope plugin for better rg flags in live_grep."
   },
   {
     "name": "kyazdani42/nvim-tree.lua",
@@ -2960,6 +2975,16 @@
     "description": "A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors."
   },
   {
+    "name": "ggandor/flit.nvim",
+    "url": "https://github.com/ggandor/flit.nvim",
+    "description": "Enhanced f/t motions for Leap."
+  },
+  {
+    "name": "ggandor/leap-spooky.nvim",
+    "url": "https://github.com/ggandor/leap-spooky.nvim",
+    "description": "Spooky (Leap) actions at a distance."
+  },
+  {
     "name": "folke/flash.nvim",
     "url": "https://github.com/folke/flash.nvim",
     "description": "Navigate your code with search labels, enhanced character motions and Treesitter integration."
@@ -3468,6 +3493,11 @@
     "name": "nat-418/boole.nvim",
     "url": "https://github.com/nat-418/boole.nvim",
     "description": "Toggle booleans and common string values."
+  },
+  {
+    "name": "cshuaimin/ssr.nvim",
+    "url": "https://github.com/cshuaimin/ssr.nvim",
+    "description": "Treesitter-based structural search and replace."
   },
   {
     "name": "numToStr/Comment.nvim",

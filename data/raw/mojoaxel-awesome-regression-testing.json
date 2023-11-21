@@ -408,6 +408,11 @@
     "description": "Visual Regression Tests – WordPress plugin auto-updating screenshots on content updates, preventing false positives."
   },
   {
+    "name": "Testomat.io Reporter",
+    "url": "https://github.com/testomatio/reporter",
+    "description": "Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place."
+  },
+  {
     "name": "Kevin Lamping: The 5 best visual regression testing tools",
     "url": "http://www.creativebloq.com/features/the-5-best-visual-regression-testing-tools",
     "description": "Compares: Wraith, PhantomCSS, Gemini, WebdriverCSS and Spectre."
