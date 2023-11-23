@@ -315,11 +315,6 @@
     "description": "OliveTin is a web interface for running Linux shell commands. AGPL-3.0 Go"
   },
   {
-    "name": "Patrowl",
-    "url": "https://github.com/Patrowl/PatrowlManager",
-    "description": "Open Source, Smart and Scalable Security Operations Orchestration Platform. AGPL-3.0 Python"
-  },
-  {
     "name": "pyLoad",
     "url": "https://pyload.net/",
     "description": "Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. (Source Code) GPL-3.0 Python"
@@ -990,9 +985,19 @@
     "description": "Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. (Source Code) MIT Ruby"
   },
   {
+    "name": "OpenTrashmail",
+    "url": "https://github.com/HaschekSolutions/opentrashmail",
+    "description": "Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. Apache-2.0 Python/PHP/Docker"
+  },
+  {
     "name": "OpenSMTPD",
     "url": "https://opensmtpd.org/",
     "description": "Secure SMTP server implementation from the OpenBSD project. (Source Code) ISC C/deb"
+  },
+  {
+    "name": "OpenTrashmail",
+    "url": "https://github.com/HaschekSolutions/opentrashmail",
+    "description": "Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. Apache-2.0 Python/PHP/Docker"
   },
   {
     "name": "Postfix",
@@ -1520,11 +1525,6 @@
     "description": "Scalable, High Performance, Open source web conferencing system. (Demo, Source Code) MIT Docker/Go"
   },
   {
-    "name": "Wirow",
-    "url": "https://github.com/wirow-io/wirow-server",
-    "description": "A full featured self-hosted video web-conferencing platform. AGPL-3.0 Docker/C"
-  },
-  {
     "name": "ejabberd",
     "url": "https://www.ejabberd.im/",
     "description": "XMPP instant messaging server. (Source Code) GPL-2.0 Erlang/Docker"
@@ -1715,11 +1715,6 @@
     "description": "Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. MIT Nodejs"
   },
   {
-    "name": "Flextype",
-    "url": "https://flextype.org/",
-    "description": "Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. (Source Code) MIT PHP"
-  },
-  {
     "name": "Joomla!",
     "url": "https://www.joomla.org/",
     "description": "Advanced Content Management System (CMS). (Source Code) GPL-2.0 PHP"
@@ -1753,11 +1748,6 @@
     "name": "Payload CMS",
     "url": "https://payloadcms.com/",
     "description": "Developer-first headless CMS and application framework. (Demo, Source Code) MIT Nodejs"
-  },
-  {
-    "name": "Pico",
-    "url": "https://picocms.org/",
-    "description": "Stupidly simple, blazing fast, flat file CMS. (Source Code) MIT PHP"
   },
   {
     "name": "Pimcore",
@@ -2033,11 +2023,6 @@
     "name": "Librum",
     "url": "https://librumreader.com",
     "description": "A modern e-book reader and library manager that supports most major book formats, runs on all devices and offers great tools to boost productivity. (Source Code) GPL-3.0 C++"
-  },
-  {
-    "name": "Mango",
-    "url": "https://github.com/getmango/Mango",
-    "description": "Manga server and web reader with a built-in MangaDex downloader. MIT Crystal/Docker"
   },
   {
     "name": "Stump",
@@ -2818,6 +2803,11 @@
     "name": "Digistorm",
     "url": "https://digistorm.app/",
     "description": "Create collaborative surveys, quizzes, brainstorms, and word clouds (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
+  },
+  {
+    "name": "Digiwall",
+    "url": "https://digiwall.app/",
+    "description": "Create multimedia collaborative walls for in-person or remote work (documentation in French). (Source Code) AGPL-3.0 Nodejs"
   },
   {
     "name": "egroupware",
@@ -3650,11 +3640,6 @@
     "description": "Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. AGPL-3.0 Nodejs/Docker"
   },
   {
-    "name": "Notica",
-    "url": "https://notica.us",
-    "description": "Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. (Source Code) MIT Nodejs"
-  },
-  {
     "name": "Octave Online",
     "url": "https://octave-online.net/",
     "description": "Infrastracture behind a web UI for GNU Octave (alternative to MATLAB). (Source Code) AGPL-3.0 Docker/Nodejs"
@@ -4245,11 +4230,6 @@
     "description": "A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. (Demo) MIT Nodejs/Docker"
   },
   {
-    "name": "Dashboard",
-    "url": "https://github.com/phntxx/dashboard",
-    "description": "Minimalist homepage for organizing your web applications and bookmarks using JSON-files. MIT Nodejs/Docker"
-  },
-  {
     "name": "Dashy",
     "url": "https://github.com/lissy93/dashy",
     "description": "Feature-rich homepage for your homelab, with easy YAML configuration. (Demo) MIT Nodejs/Docker"
@@ -4568,11 +4548,6 @@
     "name": "Bar Assistant",
     "url": "https://github.com/karlomikus/bar-assistant",
     "description": "Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. (Demo) MIT PHP/Docker"
-  },
-  {
-    "name": "kcal",
-    "url": "https://github.com/kcal-app/kcal",
-    "description": "Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals. MPL-2.0 PHP/Docker"
   },
   {
     "name": "KitchenOwl",
@@ -5648,11 +5623,6 @@
     "name": "Pepperminty Wiki",
     "url": "https://github.com/sbrl/Pepperminty-Wiki",
     "description": "Complete markdown-powered wiki contained in a single PHP file. (Demo) MPL-2.0 PHP"
-  },
-  {
-    "name": "PineDocs",
-    "url": "https://github.com/xy2z/PineDocs",
-    "description": "Simple, fast, customizable and lightweight site for browsing files. GPL-3.0 PHP/Docker"
   },
   {
     "name": "PmWiki",

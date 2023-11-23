@@ -1386,6 +1386,11 @@
     "description": "Allow you to map a short logical/mnemonic name to directories to quickly access them, or perform actions in them."
   },
   {
+    "name": "diralert",
+    "url": "https://github.com/roskatom/dir-alert",
+    "description": "Provides dynamic, contextual alerts in your terminal when navigating directories, enhancing the command-line experience by displaying custom alerts based on the current directory's context, such as reminders, warnings, and informational messages."
+  },
+  {
     "name": "dircolors-solarized (joel-porquet)",
     "url": "https://github.com/joel-porquet/zsh-dircolors-solarized",
     "description": "Solarized dircolors plugin, with options for dark or light terminal backgrounds."
@@ -3424,6 +3429,11 @@
     "name": "projen",
     "url": "https://github.com/p6m7g8/p6-zsh-projen-plugin",
     "description": "Adds aliases for projen."
+  },
+  {
+    "name": "prompt-dir-perms",
+    "url": "https://github.com/xPMo/zsh-prompt-dir-perms",
+    "description": "Creates a segment displaying the permissions of the current directory you can use in your ZSH prompt."
   },
   {
     "name": "prompt-generator",
@@ -9358,6 +9368,11 @@
     "name": "rzh",
     "url": "https://github.com/patwhatev/rzh",
     "description": "Theme with git states indicated by emojis."
+  },
+  {
+    "name": "s1ck3r",
+    "url": "https://github.com/pseifer/s1ck3r",
+    "description": "Sleek, transient and space-efficient. Includes decorators for vi-mode, elevated permissions, last command exit status, if background jobs are running, working directory and git status,"
   },
   {
     "name": "s1ck94",

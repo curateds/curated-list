@@ -3648,6 +3648,11 @@
     "description": "A restricted environment for Common Lisp code evaluation AGPL-3.0."
   },
   {
+    "name": "machine-state",
+    "url": "https://github.com/Shinmera/machine-state/",
+    "description": "Retrieve machine state information about CPU time, memory usage, thread processing time, etc."
+  },
+  {
     "name": "CXML",
     "url": "https://common-lisp.net/project/cxml/",
     "description": "XML parser and serializer, with a range of extension libraries. LLGPL."

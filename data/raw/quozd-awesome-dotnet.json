@@ -2432,11 +2432,6 @@
     "description": "Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component."
   },
   {
-    "name": "CommonMark.NET",
-    "url": "https://github.com/Knagis/CommonMark.NET",
-    "description": "Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability."
-  },
-  {
     "name": "markdig",
     "url": "https://github.com/lunet-io/markdig",
     "description": "A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET."

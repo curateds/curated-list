@@ -349,6 +349,10 @@
     "url": "https://github.com/awslabs/aws-data-wrangler"
   },
   {
+    "name": "Airbyte",
+    "url": "https://airbyte.io/"
+  },
+  {
     "name": "HDFS",
     "url": "https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html"
   },
@@ -494,6 +498,11 @@
     "url": "https://github.com/emqx/kuiper"
   },
   {
+    "name": "Zilla",
+    "url": "https://github.com/aklivity/zilla",
+    "description": "An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol."
+  },
+  {
     "name": "Hadoop MapReduce",
     "url": "https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html"
   },
@@ -518,8 +527,16 @@
     "url": "https://livy.incubator.apache.org"
   },
   {
+    "name": "Delight",
+    "url": "https://github.com/datamechanics/delight"
+  },
+  {
     "name": "AWS EMR",
     "url": "https://aws.amazon.com/emr/"
+  },
+  {
+    "name": "Data Mechanics",
+    "url": "https://www.datamechanics.co"
   },
   {
     "name": "Tez",
@@ -666,6 +683,10 @@
     "url": "https://github.com/dagster-io/dagster"
   },
   {
+    "name": "Kedro",
+    "url": "https://kedro.readthedocs.io/en/latest/"
+  },
+  {
     "name": "Dataform",
     "url": "https://dataform.co/"
   },
@@ -772,6 +793,10 @@
   {
     "name": "HAProxy Exporter",
     "url": "https://github.com/prometheus/haproxy_exporter"
+  },
+  {
+    "name": "Grai",
+    "url": "https://github.com/grai-io/grai-core/"
   },
   {
     "name": "/r/dataengineering",

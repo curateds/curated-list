@@ -1,10 +1,5 @@
 [
   {
-    "name": "GitHub Topic: xk6",
-    "url": "https://github.com/topics/xk6",
-    "description": "Explore k6 extensions tagged with the xk6 label."
-  },
-  {
     "name": "k6 Learn",
     "url": "https://github.com/grafana/k6-learn",
     "description": "Explanation of the principles of load testing and practical examples for how to do it with k6."
@@ -17,7 +12,7 @@
   {
     "name": "Distributed load testing with k6",
     "url": "https://feryn.eu/speaking/distributed-load-testing-k6-confoo23/",
-    "description": "Thijs Feryn presents in ConFoo Montreal 2023"
+    "description": "Thijs Feryn presents in ConFoo Montreal 2023."
   },
   {
     "name": "Load Testing with k6",
@@ -126,7 +121,22 @@
   {
     "name": "Load testing with k6 and k8s",
     "url": "https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s",
-    "description": "The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s"
+    "description": "The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s."
+  },
+  {
+    "name": "CloudPosse's Load Testing Stack",
+    "url": "https://github.com/cloudposse/load-testing",
+    "description": "Load testing stack using k6, Grafana and InfluxDB."
+  },
+  {
+    "name": "Real-time stress:\nAnyCable, k6, WebSockets, and Yabeda",
+    "url": "https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda",
+    "description": "Evil Martians adding \"real-time stress\" with k6 and WebSockets."
+  },
+  {
+    "name": "Scaling Confidently with the Load and Fault Team",
+    "url": "https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9",
+    "description": "Robinhood on load testing a Kubernetes system with k6."
   },
   {
     "name": "k6 YouTube Channel",
@@ -189,6 +199,11 @@
     "description": "Yusuf writing k6 tests using GitHub co-pilot."
   },
   {
+    "name": "k6 examples",
+    "url": "https://k6.io/docs/examples/",
+    "description": "A list of common examples on the k6 documentation."
+  },
+  {
     "name": "k6-circleci-example",
     "url": "https://github.com/li-clutter-org/k6-circleci-example",
     "description": "Running k6 load tests as part of a CircleCI build."
@@ -237,11 +252,6 @@
     "name": "example-data-generation",
     "url": "https://github.com/grafana/k6-example-data-generation",
     "description": "Generate realistic data for k6 using faker."
-  },
-  {
-    "name": "bounded-disturbances",
-    "url": "https://github.com/bjartwolf/bounded-disturbances",
-    "description": "A .NET Chaos Engineering workshop. Using Simmy and k6."
   },
   {
     "name": "continuous-k6k8s",
@@ -354,18 +364,27 @@
     "url": "https://k6.io/blog/integrating-k6-with-buddy-devops/"
   },
   {
-    "name": "CloudPosse's Load Testing Stack",
-    "url": "https://github.com/cloudposse/load-testing",
-    "description": "Load testing stack using k6, Grafana and InfluxDB."
+    "name": "k6 Extensions",
+    "url": "https://k6.io/docs/extensions/"
   },
   {
-    "name": "Real-time stress:\nAnyCable, k6, WebSockets, and Yabeda",
-    "url": "https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda",
-    "description": "Evil Martians adding \"real-time stress\" with k6 and WebSockets."
+    "name": "GitHub Topic: xk6",
+    "url": "https://github.com/topics/xk6",
+    "description": "Explore k6 extensions tagged with the xk6 label."
   },
   {
-    "name": "Scaling Confidently with the Load and Fault Team",
-    "url": "https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9",
-    "description": "Robinhood on load testing a Kubernetes system with k6."
+    "name": "How They Load Test",
+    "url": "https://github.com/aliesbelik/how-they-load",
+    "description": "A collection of resources on how companies around the world perform load testing."
+  },
+  {
+    "name": "Load Testing Toolkit",
+    "url": "https://github.com/aliesbelik/load-testing-toolkit",
+    "description": "A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services."
+  },
+  {
+    "name": "awesome-http-benchmark",
+    "url": "https://github.com/denji/awesome-http-benchmark",
+    "description": "A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful)."
   }
 ]

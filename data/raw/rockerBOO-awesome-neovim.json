@@ -715,6 +715,11 @@
     "description": "Set of preconfigured snippets for different languages."
   },
   {
+    "name": "cvigilv/esqueleto.nvim",
+    "url": "https://github.com/cvigilv/esqueleto.nvim",
+    "description": "Simple templates to use when creating new files."
+  },
+  {
     "name": "gennaro-tedesco/nvim-peekup",
     "url": "https://github.com/gennaro-tedesco/nvim-peekup",
     "description": "Dynamically interact with Vim registers."
@@ -1695,6 +1700,11 @@
     "description": "A new way to change the colorscheme on the fly like in vscode."
   },
   {
+    "name": "linrongbin16/colorbox.nvim",
+    "url": "https://github.com/linrongbin16/colorbox.nvim",
+    "description": "Load all the ultra colorschemes into your Neovim player! It collect all the most popurlar colorschemes, install and allow you to play them with multiple playback settings."
+  },
+  {
     "name": "Bekaboo/deadcolumn.nvim",
     "url": "https://github.com/Bekaboo/deadcolumn.nvim",
     "description": "Shows your colorcolumn dynamically."
@@ -2565,6 +2575,11 @@
     "description": "Utilities to provide a better experience for using nvim-dap."
   },
   {
+    "name": "theHamsta/nvim-dap-virtual-text",
+    "url": "https://github.com/theHamsta/nvim-dap-virtual-text",
+    "description": "Virtual text support for nvim-dap."
+  },
+  {
     "name": "kevinhwang91/nvim-bqf",
     "url": "https://github.com/kevinhwang91/nvim-bqf",
     "description": "The goal of nvim-bqf is to make Neovim's quickfix window better."
@@ -2713,6 +2728,11 @@
     "name": "benlubas/molten-nvim",
     "url": "https://github.com/benlubas/molten-nvim",
     "description": "Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code."
+  },
+  {
+    "name": "bfredl/nvim-ipy",
+    "url": "https://github.com/bfredl/nvim-ipy",
+    "description": "Make interfacing with IPython/Jupyter easier."
   },
   {
     "name": "folke/neodev.nvim",
@@ -3498,6 +3518,11 @@
     "name": "cshuaimin/ssr.nvim",
     "url": "https://github.com/cshuaimin/ssr.nvim",
     "description": "Treesitter-based structural search and replace."
+  },
+  {
+    "name": "Jxstxs/conceal.nvim",
+    "url": "https://github.com/Jxstxs/conceal.nvim",
+    "description": "Use Tree-sitter to conceal common boilerplate code."
   },
   {
     "name": "numToStr/Comment.nvim",

@@ -1704,6 +1704,11 @@
     "description": "Add console.log() file location and line number infomation in browser's console."
   },
   {
+    "name": "vite-plugin-public-typescript",
+    "url": "https://github.com/hemengke1997/vite-plugin-public-typescript",
+    "description": "Inject Typescript into index.html."
+  },
+  {
     "name": "vite-tsconfig-paths",
     "url": "https://github.com/aleclarson/vite-tsconfig-paths",
     "description": "Support for TypeScript's path mapping."
@@ -1972,6 +1977,11 @@
     "name": "vite-font-extractor-plugin",
     "url": "https://github.com/a3mitskevich/vite-font-extractor-plugin",
     "description": "Utility that minification bundle fonts by glyphs."
+  },
+  {
+    "name": "vite-plugin-i18n-detector",
+    "url": "https://github.com/hemengke1997/vite-plugin-i18n-detector",
+    "description": "Lazyload i18n locale resources."
   },
   {
     "name": "mocha-vite-puppeteer",

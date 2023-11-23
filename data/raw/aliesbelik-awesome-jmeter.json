@@ -230,7 +230,7 @@
   },
   {
     "name": "Lightning",
-    "url": "https://automatictester.github.io/lightning/",
+    "url": "https://deliverymind.github.io/lightning/",
     "description": "Framework to integrate JMeter non-functional tests with CI/CD server."
   },
   {
@@ -350,6 +350,11 @@
     "name": "AutoMeter",
     "url": "https://github.com/intuit/autometer",
     "description": "An automation tool for scaling load tests using distributed slaves, based on JMeter master-slave architecture."
+  },
+  {
+    "name": "JMeter Docker Extension",
+    "url": "https://hub.docker.com/extensions/qainsights/jmeter-docker-extension",
+    "description": "Docker extension to run JMeter tests from Docker Desktop."
   },
   {
     "name": "jmeter-kubernetes",
@@ -909,6 +914,11 @@
     "name": "jmx.js",
     "url": "https://www.vinodkd.org/jmx.js/",
     "description": "Web-based editor for JMeter JMX files 💀."
+  },
+  {
+    "name": "Hamster",
+    "url": "https://github.com/QAInsights/hamster",
+    "description": "Swiftly launch your JMeter test plans from Mac menubar."
   },
   {
     "name": "Servers Performance Monitoring Plugin",
