@@ -1386,11 +1386,6 @@
     "description": "Allow you to map a short logical/mnemonic name to directories to quickly access them, or perform actions in them."
   },
   {
-    "name": "diralert",
-    "url": "https://github.com/roskatom/dir-alert",
-    "description": "Provides dynamic, contextual alerts in your terminal when navigating directories, enhancing the command-line experience by displaying custom alerts based on the current directory's context, such as reminders, warnings, and informational messages."
-  },
-  {
     "name": "dircolors-solarized (joel-porquet)",
     "url": "https://github.com/joel-porquet/zsh-dircolors-solarized",
     "description": "Solarized dircolors plugin, with options for dark or light terminal backgrounds."
@@ -3986,6 +3981,11 @@
     "description": "Adds tailf function with prefixed newlines instead of trailing newlines."
   },
   {
+    "name": "take",
+    "url": "https://github.com/amyreese/zsh-take",
+    "description": "Replicates take from oh-my-zsh."
+  },
+  {
     "name": "taskbook",
     "url": "https://github.com/mastern2k3/taskbook-zsh-plugin",
     "description": "Auto-completes task numbers for taskbook."
@@ -5801,6 +5801,11 @@
     "description": "A multi-purpose theme with very detailed git and mercurial support. Also includes decorators for AWS profile name, virtual environment name if any, number of background tasks, current directory and previous command's exit code if non-zero."
   },
   {
+    "name": "achab",
+    "url": "https://github.com/niotna/antoinechab-theme",
+    "description": "Includes decorators for the current folder path, the current user and the current git branch. Decorator colors are easily customizable."
+  },
+  {
     "name": "adamdodev",
     "url": "https://github.com/adamdodev/adamdodev-zsh-theme",
     "description": "Includes decorators for git status, the name of your AWS profile, the name of your Azure Service Principal, kubernetes context, terraform workspace, last command exit status and current working directory."
@@ -7556,7 +7561,7 @@
   },
   {
     "name": "htb",
-    "url": "https://github.com/Idan1993/zsh-htb-theme",
+    "url": "https://github.com/ibyf0r3ns1cs/zsh-htb-theme",
     "description": "Inspired by the pwnbox on a HackTheBox machine. Includes decorators for user@host, IP address and the current directory."
   },
   {
@@ -9355,6 +9360,11 @@
     "description": "Inspired by pure and sorin. Includes git status decorations."
   },
   {
+    "name": "ruweird",
+    "url": "https://github.com/ruweird/ruweird.zsh-theme",
+    "description": "Minimalist. Has decorators for git status and current directory. Shows an umbrella with raindrops and exit code of the last command if non-zero."
+  },
+  {
     "name": "rwahasugui",
     "url": "https://github.com/rafawhs/rwahasugui.zsh-theme/",
     "description": "Includes decorators for git information, current time, current working directory and active python  virtualenv."
@@ -10118,6 +10128,11 @@
     "name": "vehemence",
     "url": "https://github.com/H1N1-dev/vehemence-zsh",
     "description": "Includes decorators for pwd, user@host, tty, time, last command exit code and git status."
+  },
+  {
+    "name": "velvet",
+    "url": "https://github.com/dor133/velvet-zsh-theme",
+    "description": "Includes decorators for git status, username, current directory, exit status of last command, and the time."
   },
   {
     "name": "vercel",
