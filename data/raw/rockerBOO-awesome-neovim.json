@@ -360,6 +360,11 @@
     "description": "Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface."
   },
   {
+    "name": "nvimdev/epo.nvim",
+    "url": "https://github.com/nvimdev/epo.nvim",
+    "description": "Blazingly fast, minimal LSP auto-completion and snippet engine."
+  },
+  {
     "name": "simrat39/rust-tools.nvim",
     "url": "https://github.com/simrat39/rust-tools.nvim",
     "description": "Tools for better development in Rust using Neovim's builtin LSP."
@@ -3663,6 +3668,11 @@
     "name": "stevearc/conform.nvim",
     "url": "https://github.com/stevearc/conform.nvim",
     "description": "A lightweight formatting engine that plays nice with LSP."
+  },
+  {
+    "name": "nvimdev/guard.nvim",
+    "url": "https://github.com/nvimdev/guard.nvim",
+    "description": "Minimalist async formatting and linting plugin."
   },
   {
     "name": "nvimdev/indentmini.nvim",
