@@ -1045,11 +1045,6 @@
     "description": "A high-performance color highlighter which has no external dependencies!."
   },
   {
-    "name": "sunjon/Shade.nvim",
-    "url": "https://github.com/sunjon/Shade.nvim",
-    "description": "Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance."
-  },
-  {
     "name": "winston0410/range-highlight.nvim",
     "url": "https://github.com/winston0410/range-highlight.nvim",
     "description": "An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline."
@@ -1707,7 +1702,7 @@
   {
     "name": "linrongbin16/colorbox.nvim",
     "url": "https://github.com/linrongbin16/colorbox.nvim",
-    "description": "Load all the ultra colorschemes into your Neovim player! It collect all the most popurlar colorschemes, install and allow you to play them with multiple playback settings."
+    "description": "Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings."
   },
   {
     "name": "Bekaboo/deadcolumn.nvim",
@@ -2443,6 +2438,11 @@
     "name": "JMarkin/gentags.lua",
     "url": "https://github.com/JMarkin/gentags.lua",
     "description": "Auto generate tag files by ctags."
+  },
+  {
+    "name": "yutkat/confirm-quit.nvim",
+    "url": "https://github.com/yutkat/confirm-quit.nvim",
+    "description": "Confirm before quitting Neovim."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",

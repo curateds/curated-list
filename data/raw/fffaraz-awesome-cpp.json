@@ -117,7 +117,7 @@
   {
     "name": "JUCE",
     "url": "https://github.com/julianstorer/JUCE",
-    "description": "An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Commercial] website"
+    "description": "An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] website"
   },
   {
     "name": "Kigs framework",
@@ -162,7 +162,7 @@
   {
     "name": "Qt",
     "url": "https://github.com/qt",
-    "description": "A cross-platform application and UI framework. [GPL/LGPL/Commercial] website"
+    "description": "A cross-platform application and UI framework. [GPL/LGPL/Proprietary] website"
   },
   {
     "name": "Reason",
@@ -372,7 +372,7 @@
   {
     "name": "KFR",
     "url": "https://www.kfrlib.com/",
-    "description": "Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]"
+    "description": "Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Proprietary]"
   },
   {
     "name": "LAME",
@@ -397,7 +397,7 @@
   {
     "name": "OpenAL",
     "url": "http://www.openal.org/",
-    "description": "Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]"
+    "description": "Open Audio Library - A crossplatform audio API. [BSD/LGPL/Proprietary]"
   },
   {
     "name": "miniaudio",
@@ -1632,12 +1632,12 @@
   {
     "name": "hdoc",
     "url": "https://github.com/hdoc/hdoc",
-    "description": "The modern documentation tool for C++. [AGPL/Commercial] website"
+    "description": "The modern documentation tool for C++. [AGPL/Proprietary] website"
   },
   {
     "name": "Natural Docs",
     "url": "https://github.com/NaturalDocs/NaturalDocs",
-    "description": "Natural Docs is an open source documentation generator for multiple programming languages. [AGPL/Commercial] website"
+    "description": "Natural Docs is an open source documentation generator for multiple programming languages. [AGPL/Proprietary] website"
   },
   {
     "name": "Sphinx",
@@ -1847,7 +1847,7 @@
   {
     "name": "Boden",
     "url": "https://github.com/AshampooSystems/boden",
-    "description": "Native, mobile, cross-platform GUI Framework. [GPL/LGPL/Commercial] website"
+    "description": "Native, mobile, cross-platform GUI Framework. [GPL/LGPL/Proprietary] website"
   },
   {
     "name": "CEGUI",
@@ -1862,7 +1862,7 @@
   {
     "name": "FLTK",
     "url": "http://www.fltk.org/index.php",
-    "description": "Fast, light, cross-platform C++ GUI toolkit. [GPL2]"
+    "description": "Fast, light, cross-platform C++ GUI toolkit. [LGPL2]"
   },
   {
     "name": "FOX Toolkit",
@@ -1952,7 +1952,7 @@
   {
     "name": "Slint",
     "url": "https://github.com/slint-ui/slint",
-    "description": "Lightweight GUI toolkit for desktop and embedded. [GPL/Free/Commercial] website"
+    "description": "Lightweight GUI toolkit for desktop and embedded. [GPL/Free/Proprietary] website"
   },
   {
     "name": "wxWidgets",
@@ -2931,7 +2931,7 @@
   {
     "name": "Hoard",
     "url": "https://github.com/emeryberger/Hoard",
-    "description": "Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. [GPL, commercial] website"
+    "description": "Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. [Apache-2.0] website"
   },
   {
     "name": "jemalloc",
@@ -3311,7 +3311,7 @@
   {
     "name": "MuPDF",
     "url": "https://mupdf.com/",
-    "description": "A lightweight PDF, XPS, and E-book viewer. [AGPL/Commercial]"
+    "description": "A lightweight PDF, XPS, and E-book viewer. [AGPL/Proprietary]"
   },
   {
     "name": "PDF-Writer",
@@ -3521,7 +3521,7 @@
   {
     "name": "SLRE",
     "url": "https://github.com/cesanta/slre",
-    "description": "Super Light Regexp engine for C/C++. [GPLv2/Commercial]"
+    "description": "Super Light Regexp engine for C/C++. [GPLv2/Proprietary]"
   },
   {
     "name": "sregex",
@@ -3965,7 +3965,7 @@
   {
     "name": "Wt",
     "url": "http://www.webtoolkit.eu/wt",
-    "description": "A C++ library for developing web applications. [GPL/Commercial]"
+    "description": "A C++ library for developing web applications. [GPL/Proprietary]"
   },
   {
     "name": "Boost.PropertyTree",
@@ -4210,7 +4210,7 @@
   {
     "name": "Remote Call Framework",
     "url": "http://www.deltavsoft.com/",
-    "description": "Inter-process communication framework for C++. [GPL2/Commercial]"
+    "description": "Inter-process communication framework for C++. [GPL2/Proprietary]"
   },
   {
     "name": "scnlib",

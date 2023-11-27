@@ -500,6 +500,11 @@
     "description": "Free cloud based entity relationship diagram (ERD) tool made for developers."
   },
   {
+    "name": "QuickDBD",
+    "url": "https://www.quickdatabasediagrams.com/",
+    "description": "Simple online tool to quickly draw database diagrams."
+  },
+  {
     "name": "dbdocs",
     "url": "https://dbdocs.io/",
     "description": "Create web-based database documentation using DSL code."
@@ -1393,6 +1398,11 @@
     "name": "data-diff",
     "url": "https://github.com/datafold/data-diff",
     "description": "Command-line tool and Python library to efficiently diff rows across two different databases."
+  },
+  {
+    "name": "KS DB Merge Tools",
+    "url": "https://ksdbmerge.tools",
+    "description": "GUI to compare and sync DB schema and data. For Oracle Database, MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, MS Access and Cross-DBMS."
   },
   {
     "name": "The \"Database as Code\" Manifesto",
