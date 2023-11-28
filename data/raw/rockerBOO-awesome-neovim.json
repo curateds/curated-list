@@ -2445,6 +2445,11 @@
     "description": "Confirm before quitting Neovim."
   },
   {
+    "name": "bgaillard/readonly.nvim",
+    "url": "https://github.com/bgaillard/readonly.nvim",
+    "description": "Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc."
+  },
+  {
     "name": "LoricAndre/OneTerm.nvim",
     "url": "https://github.com/LoricAndre/OneTerm.nvim",
     "description": "Plugin framework for running commands in the terminal."

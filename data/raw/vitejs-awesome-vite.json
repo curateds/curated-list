@@ -504,11 +504,6 @@
     "description": "React, Storybook, MDX, Fela, SSR prerendering, and islands architecture."
   },
   {
-    "name": "vite-plugin-react-refresh",
-    "url": "https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh",
-    "description": "Provide enhancements for @vitejs/plugin-react-refresh."
-  },
-  {
     "name": "vite-reactts18-chakra-jest-husky",
     "url": "https://github.com/The24thDS/vite-reactts18-chakra-jest-husky",
     "description": "React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky."
@@ -772,6 +767,11 @@
     "name": "vite-react-flow-template",
     "url": "https://github.com/xyflow/vite-react-flow-template",
     "description": "React Flow starter template."
+  },
+  {
+    "name": "react-vite-template",
+    "url": "https://github.com/Mirazex/react-vite-template",
+    "description": "Frontend template for building web apps (React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged and others features)."
   },
   {
     "name": "SvelteKit",

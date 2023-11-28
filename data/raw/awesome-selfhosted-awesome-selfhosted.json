@@ -292,7 +292,7 @@
   {
     "name": "Medusa",
     "url": "https://pymedusa.com/",
-    "description": "Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. (Source Code) GPL-3.0 Python"
+    "description": "Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. (Source Code, Clients) GPL-3.0 Python"
   },
   {
     "name": "MetaTube",
@@ -1083,11 +1083,6 @@
     "name": "Cypht",
     "url": "https://cypht.org",
     "description": "Feed reader for your email accounts. (Source Code) LGPL-2.1 PHP"
-  },
-  {
-    "name": "IMP",
-    "url": "https://www.horde.org/apps/imp/",
-    "description": "HORDE application that provides webmail access to IMAP and POP3 accounts. (Demo, Source Code) GPL-2.0 PHP"
   },
   {
     "name": "MailCare",
@@ -2385,6 +2380,16 @@
     "description": "Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. (Source Code) Apache-2.0 Docker/Nodejs"
   },
   {
+    "name": "ZOT OCI Registry",
+    "url": "https://zotregistry.io/",
+    "description": "A production-ready vendor-neutral OCI-native container image registry. (Demo, Source Code) Apache-2.0 Go/Docker"
+  },
+  {
+    "name": "ZOT OCI Registry",
+    "url": "https://zotregistry.io/",
+    "description": "A production-ready vendor-neutral OCI-native container image registry. (Demo, Source Code) Apache-2.0 Go/Docker"
+  },
+  {
     "name": "bittorrent-tracker",
     "url": "https://webtorrent.io/",
     "description": "Simple, robust, BitTorrent tracker (client and server) implementation. (Source Code) MIT Nodejs"
@@ -2583,6 +2588,11 @@
     "name": "IFM",
     "url": "https://github.com/misterunknown/ifm",
     "description": "Single script file manager. MIT PHP"
+  },
+  {
+    "name": "mikochi",
+    "url": "https://github.com/zer0tonin/Mikochi",
+    "description": "Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. MIT Go/Docker/K8S"
   },
   {
     "name": "miniserve",
@@ -2955,14 +2965,14 @@
     "description": "InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. (Demo, Source Code) MIT Python"
   },
   {
-    "name": "PartKeepr",
-    "url": "https://www.partkeepr.org",
-    "description": "PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. (Demo, Source Code) GPL-3.0 PHP"
-  },
-  {
     "name": "Atomic Server",
     "url": "https://github.com/atomicdata-dev/atomic-server",
     "description": "Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. (Demo) MIT Docker/Rust"
+  },
+  {
+    "name": "Digimindmap",
+    "url": "https://ladigitale.dev/digimindmap/#/",
+    "description": "Create simple mindmaps (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs/PHP"
   },
   {
     "name": "My Mind",
@@ -4658,11 +4668,6 @@
     "name": "OFBiz",
     "url": "https://ofbiz.apache.org/",
     "description": "Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. (Source Code) Apache-2.0 Java"
-  },
-  {
-    "name": "Tania",
-    "url": "https://usetania.org/",
-    "description": "Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. (Source Code) Apache-2.0 Go"
   },
   {
     "name": "Tryton",

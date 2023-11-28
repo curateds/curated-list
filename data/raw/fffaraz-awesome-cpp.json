@@ -2269,6 +2269,11 @@
     "description": "An encoding conversion library between different character encodings. [GPL]"
   },
   {
+    "name": "simdutf",
+    "url": "https://github.com/simdutf/simdutf",
+    "description": "Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. [Apache-2/MIT]"
+  },
+  {
     "name": "uni-algo",
     "url": "https://github.com/uni-algo/uni-algo",
     "description": "Unicode Algorithms Implementation for C/C++. [Unlicense or MIT]"
