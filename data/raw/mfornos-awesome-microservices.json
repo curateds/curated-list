@@ -390,6 +390,11 @@
     "description": "A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring."
   },
   {
+    "name": "GoFr",
+    "url": "https://github.com/gofr-dev/gofr",
+    "description": "An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices."
+  },
+  {
     "name": "Goji",
     "url": "https://goji.io/",
     "description": "Minimalistic and flexible request multiplexer for Go."
@@ -665,11 +670,6 @@
     "description": "Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks."
   },
   {
-    "name": "Baucis",
-    "url": "https://github.com/wprl/baucis",
-    "description": "To build and maintain scalable HATEOAS/Level 3 REST APIs."
-  },
-  {
     "name": "BeeMS",
     "url": "https://github.com/umuplus/beems",
     "description": "A Bee Queue based minimalist toolkit for building fast, decentralized, scalable and fault tolerant microservices."
@@ -683,6 +683,11 @@
     "name": "Cote",
     "url": "https://github.com/dashersw/cote",
     "description": "A Node.js library for building zero-configuration microservices."
+  },
+  {
+    "name": "Cyclic.sh",
+    "url": "https://app.cyclic.sh/",
+    "description": "Simple serverless platform and dev tools for node.js services with Express.js support."
   },
   {
     "name": "Express",
@@ -738,6 +743,11 @@
     "name": "Micro-Whalla",
     "url": "https://github.com/czerwonkabartosz/Micro-Whalla",
     "description": "A simple, fast framework for writing microservices in Node.js communicate using RPC / IPC."
+  },
+  {
+    "name": "NestJS",
+    "url": "https://docs.nestjs.com/",
+    "description": "A Node.js framework for building efficient and scalable server-side applications with a built-in microservices support."
   },
   {
     "name": "Restify",
@@ -1210,6 +1220,11 @@
     "description": "Workflow-based, reliable function composition for serverless functions."
   },
   {
+    "name": "Kestra",
+    "url": "https://github.com/kestra-io/kestra",
+    "description": "Open source microservices event-driven, language-agnostic orchestration and scheduling platform."
+  },
+  {
     "name": "Temporal",
     "url": "https://github.com/temporalio/temporal",
     "description": "Open source microservices orchestration platform for running mission critical code at any scale."
@@ -1273,6 +1288,11 @@
     "name": "Serf",
     "url": "https://www.serfdom.io/",
     "description": "Decentralized solution for cluster membership, failure detection and orchestration."
+  },
+  {
+    "name": "Zenoh",
+    "url": "https://zenoh.io/",
+    "description": "Pub/sub/query protocol unifying data in motion, data at rest and computations. Efficiently blends traditional pub/sub with geo distributed storage, queries and computations."
   },
   {
     "name": "Celery",
@@ -2036,7 +2056,7 @@
   },
   {
     "name": "DIDComm",
-    "url": "https://identity.foundation/didcomm-messaging/spec/",
+    "url": "https://github.com/decentralized-identity/didcomm-messaging",
     "description": "Private communication methodology built atop the decentralized design of DIDs."
   },
   {
@@ -2103,6 +2123,11 @@
     "name": "JSON-RPC 2.0",
     "url": "http://www.jsonrpc.org/specification",
     "description": "A stateless, light-weight remote procedure call (RPC) protocol."
+  },
+  {
+    "name": "Open RPC",
+    "url": "https://open-rpc.org/",
+    "description": "The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs."
   },
   {
     "name": "AMQP",
@@ -2226,7 +2251,7 @@
   },
   {
     "name": "RFC7049",
-    "url": "http://tools.ietf.org/search/rfc7049",
+    "url": "https://tools.ietf.org/html/rfc7049",
     "description": "Concise Binary Object Representation (CBOR)."
   },
   {
@@ -2310,9 +2335,9 @@
     "description": "Headless open source commerce platform."
   },
   {
-    "name": "Predix",
-    "url": "https://predix.io/",
-    "description": "Industrial microservices platform."
+    "name": "Autonomy, Hyperconnectivity, and Residual Causality",
+    "url": "https://doi.org/10.3390/philosophies6040081",
+    "description": "Philosophical introduction to the design of adaptive hyperliminal systems through complexity science theories."
   },
   {
     "name": "Awesome Scalability",
@@ -2353,11 +2378,6 @@
     "name": "Formal Foundations of Serverless Computing",
     "url": "https://arxiv.org/pdf/1902.05870.pdf",
     "description": "The serverless computing abstraction exposes several low-level operational details that make it hard for programmers to write and reason about their code. This paper sheds light on this problem by presenting λ, an operational semantics of the essence of serverless computing."
-  },
-  {
-    "name": "Introducing Domain-Oriented Microservice Architecture",
-    "url": "https://www.uber.com/blog/microservice-architecture/",
-    "description": "Introduction to Uber Engineering generalized approach to microservice architectures, named “Domain-Oriented Microservice Architecture” (DOMA)."
   },
   {
     "name": "Java Microservices: A Practical Guide",

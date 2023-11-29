@@ -1,0 +1,4732 @@
+{
+  "veggiemonk/awesome-docker": {
+    "nameWithOwner": "veggiemonk/awesome-docker",
+    "owner": {
+      "login": "veggiemonk",
+      "__typename": "User",
+      "name": "Julien Bisconti",
+      "email": "",
+      "bio": "Software engineer / GDE for @GoogleCloudPlatform",
+      "databaseId": 5487021,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5487021?u=b585317a55eee3d3c59eaad4ebf8e79c5998005f&v=4"
+    },
+    "description": ":whale: A curated list of Docker resources and projects",
+    "createdAt": "2014-09-21T17:01:48Z",
+    "pushedAt": "2023-11-29T07:27:44Z",
+    "stargazerCount": 26909,
+    "items": [
+      {
+        "name": "oxker",
+        "url": "https://github.com/mrjackwills/oxker",
+        "description": "A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard, by @mrjackwills"
+      }
+    ]
+  },
+  "phanan/htaccess": {
+    "nameWithOwner": "phanan/htaccess",
+    "owner": {
+      "login": "phanan",
+      "__typename": "User",
+      "name": "Phan An",
+      "email": "me@phanan.net",
+      "bio": "Author, developer, sleepwalker.",
+      "databaseId": 8056274,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8056274?u=1d7d52031e45ea11ef9d29f9cbbf38cc2280c1b0&v=4"
+    },
+    "description": "✂A collection of useful .htaccess snippets.",
+    "createdAt": "2015-01-27T06:25:41Z",
+    "pushedAt": "2023-03-22T03:43:06Z",
+    "stargazerCount": 12526,
+    "items": []
+  },
+  "fcambus/nginx-resources": {
+    "nameWithOwner": "fcambus/nginx-resources",
+    "owner": {
+      "login": "fcambus",
+      "__typename": "User",
+      "name": "Frederic Cambus",
+      "email": "fred@statdns.com",
+      "bio": "System and Network engineer\r\n\r\nInterests: ANSI Art, DNS, NetBSD, OpenBSD, Security, and Text Mode",
+      "databaseId": 825456,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/825456?v=4"
+    },
+    "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
+    "createdAt": "2014-11-29T15:15:57Z",
+    "pushedAt": "2023-09-14T07:45:36Z",
+    "stargazerCount": 3419,
+    "items": []
+  },
+  "vert-x3/vertx-awesome": {
+    "nameWithOwner": "vert-x3/vertx-awesome",
+    "owner": {
+      "login": "vert-x3",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
+    "createdAt": "2015-06-07T12:32:38Z",
+    "pushedAt": "2023-11-28T11:54:53Z",
+    "stargazerCount": 2105,
+    "items": []
+  },
+  "shuaibiyy/awesome-terraform": {
+    "nameWithOwner": "shuaibiyy/awesome-terraform",
+    "owner": {
+      "login": "shuaibiyy",
+      "__typename": "User",
+      "name": "Shuaib Yunus",
+      "email": "shuaibiyy@gmail.com",
+      "bio": "",
+      "databaseId": 1766965,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1766965?u=5ee1e339194c6c9881c5b3b8c66d05fb7a78a692&v=4"
+    },
+    "description": "Curated list of resources on HashiCorp's Terraform",
+    "createdAt": "2016-05-10T16:56:17Z",
+    "pushedAt": "2023-11-05T13:50:40Z",
+    "stargazerCount": 4896,
+    "items": []
+  },
+  "mjhea0/awesome-fastapi": {
+    "nameWithOwner": "mjhea0/awesome-fastapi",
+    "owner": {
+      "login": "mjhea0",
+      "__typename": "User",
+      "name": "Michael Herman",
+      "email": "michael@mherman.org",
+      "bio": "Mark all as read.",
+      "databaseId": 2018167,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2018167?v=4"
+    },
+    "description": "A curated list of awesome things related to FastAPI",
+    "createdAt": "2020-05-03T13:35:20Z",
+    "pushedAt": "2023-10-31T04:54:45Z",
+    "stargazerCount": 6679,
+    "items": []
+  },
+  "newTendermint/awesome-bigdata": {
+    "nameWithOwner": "newTendermint/awesome-bigdata",
+    "owner": {
+      "login": "newTendermint",
+      "__typename": "User",
+      "name": "0xnr",
+      "email": "onur.akpolat@gmail.com",
+      "bio": "",
+      "databaseId": 1712926,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1712926?u=5fbc24897a603b5f1f2944e0d7df9724effa0003&v=4"
+    },
+    "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+    "createdAt": "2014-07-04T15:01:03Z",
+    "pushedAt": "2023-10-04T04:09:36Z",
+    "stargazerCount": 12463,
+    "items": []
+  },
+  "igorbarinov/awesome-data-engineering": {
+    "nameWithOwner": "igorbarinov/awesome-data-engineering",
+    "owner": {
+      "login": "igorbarinov",
+      "__typename": "User",
+      "name": "Igor Barinov",
+      "email": "",
+      "bio": "Working at BlockScout on how to make blockchain data available and decentralized @blockscout \r\n//\r\nInsight Data Engineering alumni\r\n",
+      "databaseId": 424628,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/424628?u=74a368c23d03c375b8295c25182c815dc7c33d24&v=4"
+    },
+    "description": "A curated list of data engineering tools for software developers",
+    "createdAt": "2015-06-18T19:39:42Z",
+    "pushedAt": "2023-11-22T17:51:37Z",
+    "stargazerCount": 5445,
+    "items": []
+  },
+  "manuzhang/awesome-streaming": {
+    "nameWithOwner": "manuzhang/awesome-streaming",
+    "owner": {
+      "login": "manuzhang",
+      "__typename": "User",
+      "name": "Manu Zhang",
+      "email": "OwenZhang1990@gmail.com",
+      "bio": "Fault Tolerant; Eventually Consistent; Not Available",
+      "databaseId": 1191767,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1191767?u=e3961dc9bd7226744e0150706a79948e747eea59&v=4"
+    },
+    "description": "a curated list of awesome streaming frameworks, applications, etc",
+    "createdAt": "2014-12-18T01:47:00Z",
+    "pushedAt": "2023-11-28T18:03:55Z",
+    "stargazerCount": 2424,
+    "items": []
+  },
+  "bystritskiy/awesome-ios-books": {
+    "nameWithOwner": "bystritskiy/awesome-ios-books",
+    "owner": {
+      "login": "bystritskiy",
+      "__typename": "User",
+      "name": "Bogdan Bystritskiy",
+      "email": "bystritskiyb@gmail.com",
+      "bio": "iOS Software Engineer\r\n",
+      "databaseId": 16685049,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16685049?u=cb07c71cb1c6a5720b6d051652a68ed3945078dd&v=4"
+    },
+    "description": "📚 Directory of iOS books",
+    "createdAt": "2019-04-23T13:00:23Z",
+    "pushedAt": "2023-10-19T20:55:11Z",
+    "stargazerCount": 325,
+    "items": []
+  },
+  "EbookFoundation/free-programming-books": {
+    "nameWithOwner": "EbookFoundation/free-programming-books",
+    "owner": {
+      "login": "EbookFoundation",
+      "__typename": "Organization"
+    },
+    "description": ":books: Freely available programming books",
+    "createdAt": "2013-10-11T06:50:37Z",
+    "pushedAt": "2023-11-22T14:30:55Z",
+    "stargazerCount": 303907,
+    "items": []
+  },
+  "dariubs/GoBooks": {
+    "nameWithOwner": "dariubs/GoBooks",
+    "owner": {
+      "login": "dariubs",
+      "__typename": "User",
+      "name": "Dariush Abbasi",
+      "email": "",
+      "bio": "I just felt like running.",
+      "databaseId": 3078072,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3078072?u=2691358f2a7b30623a3a77484cc8a3b3fb664947&v=4"
+    },
+    "description": "List of Golang books",
+    "createdAt": "2015-05-05T10:45:36Z",
+    "pushedAt": "2023-11-22T14:28:27Z",
+    "stargazerCount": 15184,
+    "items": []
+  },
+  "mmccaff/PlacesToPostYourStartup": {
+    "nameWithOwner": "mmccaff/PlacesToPostYourStartup",
+    "owner": {
+      "login": "mmccaff",
+      "__typename": "User",
+      "name": "Matt McCaffrey",
+      "email": "hello@mattmccaffrey.com",
+      "bio": "",
+      "databaseId": 1039597,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1039597?v=4"
+    },
+    "description": "Compiled list of links from \"Ask HN: Where can I post my startup to get beta users?\"",
+    "createdAt": "2014-02-16T21:37:43Z",
+    "pushedAt": "2023-08-13T06:27:52Z",
+    "stargazerCount": 5499,
+    "items": []
+  },
+  "LappleApple/awesome-leading-and-managing": {
+    "nameWithOwner": "LappleApple/awesome-leading-and-managing",
+    "owner": {
+      "login": "LappleApple",
+      "__typename": "User",
+      "name": "Lauri Apple",
+      "email": "",
+      "bio": "Product Manager excited about sustainability tech and cloud-native OSS. ",
+      "databaseId": 2453640,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2453640?u=5f73de0e475c3f3dcaf24c6fa8b10fac9af2e9a5&v=4"
+    },
+    "description": "Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.",
+    "createdAt": "2017-06-09T19:44:44Z",
+    "pushedAt": "2023-03-31T15:09:43Z",
+    "stargazerCount": 7289,
+    "items": []
+  },
+  "wardley-maps-community/awesome-wardley-maps": {
+    "nameWithOwner": "wardley-maps-community/awesome-wardley-maps",
+    "owner": {
+      "login": "wardley-maps-community",
+      "__typename": "Organization"
+    },
+    "description": "Wardley maps community hub. Useful Wardley mapping resources",
+    "createdAt": "2019-08-01T10:47:10Z",
+    "pushedAt": "2023-10-30T09:54:44Z",
+    "stargazerCount": 593,
+    "items": []
+  },
+  "kdeldycke/awesome-engineering-team-management": {
+    "nameWithOwner": "kdeldycke/awesome-engineering-team-management",
+    "owner": {
+      "login": "kdeldycke",
+      "__typename": "User",
+      "name": "Kevin Deldycke",
+      "email": "kevin@deldycke.com",
+      "bio": "Entrepreneur, VP, Engineering Manager, Founding Engineer - Billing, Payments & IAM.\r\n",
+      "databaseId": 159718,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/159718?u=380aeb7f080829a640b73b3b78e3c18e3945dce4&v=4"
+    },
+    "description": "👔 How to transition from software development to engineering management",
+    "createdAt": "2020-10-29T14:39:08Z",
+    "pushedAt": "2023-11-16T23:25:06Z",
+    "stargazerCount": 1739,
+    "items": []
+  },
+  "agamm/awesome-developer-first": {
+    "nameWithOwner": "agamm/awesome-developer-first",
+    "owner": {
+      "login": "agamm",
+      "__typename": "User",
+      "name": "Agam More",
+      "email": "",
+      "bio": "I help developer-first companies grow. Also, the creator of unzip.dev.",
+      "databaseId": 1269911,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1269911?v=4"
+    },
+    "description": "A curated list of awesome developer-first tools products.",
+    "createdAt": "2020-09-26T16:14:28Z",
+    "pushedAt": "2023-11-15T14:01:39Z",
+    "stargazerCount": 663,
+    "items": []
+  },
+  "prakhar1989/awesome-courses": {
+    "nameWithOwner": "prakhar1989/awesome-courses",
+    "owner": {
+      "login": "prakhar1989",
+      "__typename": "User",
+      "name": "Prakhar Srivastav",
+      "email": "prakhar@prakhar.me",
+      "bio": "",
+      "databaseId": 649249,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/649249?u=f13b457a939d7795e1922fab5b35045602e06d06&v=4"
+    },
+    "description": ":books: List of awesome university courses for learning Computer Science!",
+    "createdAt": "2014-11-15T18:36:49Z",
+    "pushedAt": "2023-05-04T12:49:34Z",
+    "stargazerCount": 50398,
+    "items": []
+  },
+  "DovAmir/awesome-design-patterns": {
+    "nameWithOwner": "DovAmir/awesome-design-patterns",
+    "owner": {
+      "login": "DovAmir",
+      "__typename": "User",
+      "name": "Dov Amir",
+      "email": "turaaa@gmail.com",
+      "bio": "Cloud architect , developer, open source advocat\r\n",
+      "databaseId": 2938156,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2938156?u=a0714640a16cfd8be72853a9fbe93583d7056755&v=4"
+    },
+    "description": "A curated list of software and architecture related design patterns.",
+    "createdAt": "2018-06-04T17:47:48Z",
+    "pushedAt": "2023-02-27T09:25:11Z",
+    "stargazerCount": 33276,
+    "items": []
+  },
+  "academic/awesome-datascience": {
+    "nameWithOwner": "academic/awesome-datascience",
+    "owner": {
+      "login": "academic",
+      "__typename": "Organization"
+    },
+    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+    "createdAt": "2014-07-05T07:07:43Z",
+    "pushedAt": "2023-11-21T14:51:54Z",
+    "stargazerCount": 22176,
+    "items": []
+  },
+  "siboehm/awesome-learn-datascience": {
+    "nameWithOwner": "siboehm/awesome-learn-datascience",
+    "owner": {
+      "login": "siboehm",
+      "__typename": "User",
+      "name": "Simon Boehm",
+      "email": "mail@siboehm.com",
+      "bio": "distributed training and GPUs for brain-like AI @Astera-org. ",
+      "databaseId": 14908678,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14908678?u=83c9ccc8714b7f1f13712d66826ac9190fe89996&v=4"
+    },
+    "description": ":chart_with_upwards_trend: Curated list of resources to help you get started with Data Science",
+    "createdAt": "2017-07-02T19:52:42Z",
+    "pushedAt": "2022-11-29T12:31:06Z",
+    "stargazerCount": 614,
+    "items": []
+  },
+  "josephmisiti/awesome-machine-learning": {
+    "nameWithOwner": "josephmisiti/awesome-machine-learning",
+    "owner": {
+      "login": "josephmisiti",
+      "__typename": "User",
+      "name": "Joseph Misiti",
+      "email": "",
+      "bio": "Mathematician & Co-founder of Math & Pencil",
+      "databaseId": 246302,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/246302?u=9242c80bcb25acbc66683faf0d5d9fb92674689b&v=4"
+    },
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "createdAt": "2014-07-15T19:11:19Z",
+    "pushedAt": "2023-11-28T15:11:40Z",
+    "stargazerCount": 61554,
+    "items": []
+  },
+  "ujjwalkarn/Machine-Learning-Tutorials": {
+    "nameWithOwner": "ujjwalkarn/Machine-Learning-Tutorials",
+    "owner": {
+      "login": "ujjwalkarn",
+      "__typename": "User",
+      "name": "Ujjwal Karn",
+      "email": "",
+      "bio": "",
+      "databaseId": 5948390,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5948390?v=4"
+    },
+    "description": "machine learning and deep learning tutorials, articles and other resources ",
+    "createdAt": "2015-09-12T14:51:38Z",
+    "pushedAt": "2023-08-14T21:22:24Z",
+    "stargazerCount": 14121,
+    "items": []
+  },
+  "likedan/Awesome-CoreML-Models": {
+    "nameWithOwner": "likedan/Awesome-CoreML-Models",
+    "owner": {
+      "login": "likedan",
+      "__typename": "User",
+      "name": "Kedan Li",
+      "email": "",
+      "bio": "Co-founder @ Revery.AI \r\nVirtual Dressing Room for Fashion E-Commerce, powered by state-of-the-art AI",
+      "databaseId": 8799955,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8799955?u=ff84d08b20e3607bfe3a141c095518c0fdfca582&v=4"
+    },
+    "description": "Largest list of models for Core ML (for iOS 11+)",
+    "createdAt": "2017-08-22T10:43:47Z",
+    "pushedAt": "2023-06-23T06:16:05Z",
+    "stargazerCount": 6024,
+    "items": []
+  },
+  "n2cholas/awesome-jax": {
+    "nameWithOwner": "n2cholas/awesome-jax",
+    "owner": {
+      "login": "n2cholas",
+      "__typename": "User",
+      "name": "Nicholas Vadivelu",
+      "email": "nicholas.vadivelu@gmail.com",
+      "bio": "CS & Stats @uWaterloo",
+      "databaseId": 12474257,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12474257?u=ee8971c1add8f3c0316db89bf72ece0fd3fd03d6&v=4"
+    },
+    "description": "JAX - A curated list of resources https://github.com/google/jax",
+    "createdAt": "2020-12-20T20:14:52Z",
+    "pushedAt": "2023-11-28T16:44:54Z",
+    "stargazerCount": 1124,
+    "items": []
+  },
+  "arbox/nlp-with-ruby": {
+    "nameWithOwner": "arbox/nlp-with-ruby",
+    "owner": {
+      "login": "arbox",
+      "__typename": "User",
+      "name": "Andrei Beliankou",
+      "email": "arbox@yandex.com",
+      "bio": "Data Engineering in Ruby/Python/R/SQL/Scala.",
+      "databaseId": 357237,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?u=f78f8ff5c01b5d3908cecbbbcd12482b93bb9f17&v=4"
+    },
+    "description": "Curated List: Practical Natural Language Processing done in Ruby",
+    "createdAt": "2016-03-15T20:56:12Z",
+    "pushedAt": "2023-06-27T09:38:04Z",
+    "stargazerCount": 1021,
+    "items": []
+  },
+  "sobolevn/awesome-cryptography": {
+    "nameWithOwner": "sobolevn/awesome-cryptography",
+    "owner": {
+      "login": "sobolevn",
+      "__typename": "User",
+      "name": "Nikita Sobolev",
+      "email": "",
+      "bio": "",
+      "databaseId": 4660275,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4660275?u=42e203a9264267ffda774112d4edabc153981c9f&v=4"
+    },
+    "description": "A curated list of cryptography resources and links.",
+    "createdAt": "2016-05-24T12:56:48Z",
+    "pushedAt": "2023-10-31T11:25:03Z",
+    "stargazerCount": 5099,
+    "items": []
+  },
+  "jbhuang0604/awesome-computer-vision": {
+    "nameWithOwner": "jbhuang0604/awesome-computer-vision",
+    "owner": {
+      "login": "jbhuang0604",
+      "__typename": "User",
+      "name": "Jia-Bin Huang",
+      "email": "",
+      "bio": "Associate Professor at University of Maryland College Park",
+      "databaseId": 987204,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/987204?u=3011d0088b8c2f0fb79829e9c169a12eb34ce52e&v=4"
+    },
+    "description": "A curated list of awesome computer vision resources",
+    "createdAt": "2015-01-16T16:48:47Z",
+    "pushedAt": "2023-10-12T21:50:36Z",
+    "stargazerCount": 19162,
+    "items": []
+  },
+  "ChristosChristofidis/awesome-deep-learning": {
+    "nameWithOwner": "ChristosChristofidis/awesome-deep-learning",
+    "owner": {
+      "login": "ChristosChristofidis",
+      "__typename": "User",
+      "name": "Chris",
+      "email": "",
+      "bio": "",
+      "databaseId": 7767579,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7767579?u=c8b776e029541f9d7779e52a47b2c084d286739b&v=4"
+    },
+    "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+    "createdAt": "2015-01-02T19:28:35Z",
+    "pushedAt": "2023-11-26T21:21:55Z",
+    "stargazerCount": 21939,
+    "items": []
+  },
+  "jtoy/awesome-tensorflow": {
+    "nameWithOwner": "jtoy/awesome-tensorflow",
+    "owner": {
+      "login": "jtoy",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": "researching general intelligence. currently focused on grid cells and compositionality.",
+      "databaseId": 14783,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14783?u=a0c0dc243d84a14b060002c9701561c084d34dbe&v=4"
+    },
+    "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
+    "createdAt": "2016-02-27T17:00:27Z",
+    "pushedAt": "2023-01-04T21:36:06Z",
+    "stargazerCount": 17051,
+    "items": []
+  },
+  "terryum/awesome-deep-learning-papers": {
+    "nameWithOwner": "terryum/awesome-deep-learning-papers",
+    "owner": {
+      "login": "terryum",
+      "__typename": "User",
+      "name": "Terry Taewoong Um",
+      "email": "terry.t.um@gmail.com",
+      "bio": "I'm Terry, a PhD student at University of Waterloo. I'm making fun with machine learning techniques (e.g. DNN, GP) and human/robot motion data :)",
+      "databaseId": 12528769,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12528769?u=1e25f14f77d1f9729f8692def468b951b92c0c72&v=4"
+    },
+    "description": "The most cited deep learning papers",
+    "createdAt": "2016-06-03T06:48:30Z",
+    "pushedAt": "2020-08-27T13:43:48Z",
+    "stargazerCount": 24830,
+    "items": []
+  },
+  "kjw0612/awesome-deep-vision": {
+    "nameWithOwner": "kjw0612/awesome-deep-vision",
+    "owner": {
+      "login": "kjw0612",
+      "__typename": "User",
+      "name": "Jiwon Kim",
+      "email": "",
+      "bio": "AI Researcher",
+      "databaseId": 2831504,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2831504?u=2457039c30e17a124c7706a4562bd89d0671fd30&v=4"
+    },
+    "description": "A curated list of deep learning resources for computer vision ",
+    "createdAt": "2015-05-18T11:02:08Z",
+    "pushedAt": "2023-08-15T10:52:15Z",
+    "stargazerCount": 10404,
+    "items": []
+  },
+  "ossu/computer-science": {
+    "nameWithOwner": "ossu/computer-science",
+    "owner": {
+      "login": "ossu",
+      "__typename": "Organization"
+    },
+    "description": ":mortar_board: Path to a free self-taught education in Computer Science!",
+    "createdAt": "2014-05-04T00:18:39Z",
+    "pushedAt": "2023-11-09T07:36:44Z",
+    "stargazerCount": 153369,
+    "items": []
+  },
+  "analysis-tools-dev/static-analysis": {
+    "nameWithOwner": "analysis-tools-dev/static-analysis",
+    "owner": {
+      "login": "analysis-tools-dev",
+      "__typename": "Organization"
+    },
+    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+    "createdAt": "2015-12-18T16:58:30Z",
+    "pushedAt": "2023-11-28T21:38:10Z",
+    "stargazerCount": 12324,
+    "items": []
+  },
+  "harpribot/awesome-information-retrieval": {
+    "nameWithOwner": "harpribot/awesome-information-retrieval",
+    "owner": {
+      "login": "harpribot",
+      "__typename": "User",
+      "name": "Harshal Priyadarshi",
+      "email": "harshal.priyadarshi@utexas.edu",
+      "bio": "Microsoft USA | MS CS UT Austin | B.Tech. EE IIT Roorkee",
+      "databaseId": 7632939,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7632939?u=f67395c50b8ba8c80fbfac7b68917e0687f0f77d&v=4"
+    },
+    "description": "A curated list of awesome information retrieval resources",
+    "createdAt": "2016-11-01T05:37:02Z",
+    "pushedAt": "2023-04-20T07:55:24Z",
+    "stargazerCount": 945,
+    "items": []
+  },
+  "desireevl/awesome-quantum-computing": {
+    "nameWithOwner": "desireevl/awesome-quantum-computing",
+    "owner": {
+      "login": "desireevl",
+      "__typename": "User",
+      "name": "Desiree",
+      "email": "",
+      "bio": "",
+      "databaseId": 17139032,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17139032?v=4"
+    },
+    "description": "A curated list of awesome quantum computing learning and developing resources.",
+    "createdAt": "2018-01-23T10:07:44Z",
+    "pushedAt": "2023-08-25T08:45:02Z",
+    "stargazerCount": 2225,
+    "items": []
+  },
+  "steven2358/awesome-generative-ai": {
+    "nameWithOwner": "steven2358/awesome-generative-ai",
+    "owner": {
+      "login": "steven2358",
+      "__typename": "User",
+      "name": "Steven Van Vaerenbergh",
+      "email": "",
+      "bio": "",
+      "databaseId": 164072,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/164072?u=0bd355062715afa056a786a1d5ad279dbd9da45f&v=4"
+    },
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+    "createdAt": "2022-10-20T11:18:17Z",
+    "pushedAt": "2023-11-28T20:21:23Z",
+    "stargazerCount": 3552,
+    "items": [
+      {
+        "name": "Pika",
+        "url": "https://pika.art/",
+        "description": "An idea-to-video platform that brings your creativity to motion."
+      }
+    ]
+  },
+  "ramnes/awesome-mongodb": {
+    "nameWithOwner": "ramnes/awesome-mongodb",
+    "owner": {
+      "login": "ramnes",
+      "__typename": "User",
+      "name": "Guillaume Gelin",
+      "email": "github@ramnes.eu",
+      "bio": "Believer, entrepreneur, hacker, minimalist. Husband, 2x dad.",
+      "databaseId": 835072,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/835072?u=3fca03c3ba0051e2eb652b1def2188a94d1e1dc2&v=4"
+    },
+    "description": ":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications",
+    "createdAt": "2016-02-21T21:58:16Z",
+    "pushedAt": "2023-10-13T12:46:02Z",
+    "stargazerCount": 2287,
+    "items": []
+  },
+  "d3viant0ne/awesome-rethinkdb": {
+    "nameWithOwner": "joshwiens/awesome-rethinkdb",
+    "owner": {
+      "login": "joshwiens",
+      "__typename": "User",
+      "name": "Joshua Wiens",
+      "email": "",
+      "bio": "JS Engineer, @Webpack Core Team, @AWS, @GCP, @nodejs, #webassembly. Lover of *Nix. U.S. Army Ret.",
+      "databaseId": 8420490,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8420490?u=725a16ea0b99a21db0c32f32c279449ca53df295&v=4"
+    },
+    "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
+    "createdAt": "2016-04-29T00:30:37Z",
+    "pushedAt": "2016-05-09T21:05:19Z",
+    "stargazerCount": 114,
+    "items": []
+  },
+  "dhamaniasad/awesome-postgres": {
+    "nameWithOwner": "dhamaniasad/awesome-postgres",
+    "owner": {
+      "login": "dhamaniasad",
+      "__typename": "User",
+      "name": "Asad Dhamani",
+      "email": "dhamaniasad@gmail.com",
+      "bio": "💻 Full Stack Developer · 👔Entrepreneur · 🌏 Travel · 📸 Photography · 🌌 Astronomy · 🎒 Digital Nomad",
+      "databaseId": 4560482,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4560482?u=c3b7c425bc3cdd9e684e3b29773ba43a307cac4d&v=4"
+    },
+    "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+    "createdAt": "2015-08-02T07:27:17Z",
+    "pushedAt": "2023-11-01T18:03:19Z",
+    "stargazerCount": 9184,
+    "items": []
+  },
+  "mgramin/awesome-db-tools": {
+    "nameWithOwner": "mgramin/awesome-db-tools",
+    "owner": {
+      "login": "mgramin",
+      "__typename": "User",
+      "name": "Maksim Gramin",
+      "email": "mgramin@gmail.com",
+      "bio": "Independent database consultant, researcher and big fun of SQL",
+      "databaseId": 487470,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/487470?u=7cd1d819c0fb1887d130e297926eac9b3980bec0&v=4"
+    },
+    "description": "Everything that makes working with databases easier",
+    "createdAt": "2018-05-18T16:01:34Z",
+    "pushedAt": "2023-11-27T09:08:05Z",
+    "stargazerCount": 3387,
+    "items": []
+  },
+  "igorbarinov/awesome-bitcoin": {
+    "nameWithOwner": "igorbarinov/awesome-bitcoin",
+    "owner": {
+      "login": "igorbarinov",
+      "__typename": "User",
+      "name": "Igor Barinov",
+      "email": "",
+      "bio": "Working at BlockScout on how to make blockchain data available and decentralized @blockscout \r\n//\r\nInsight Data Engineering alumni\r\n",
+      "databaseId": 424628,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/424628?u=74a368c23d03c375b8295c25182c815dc7c33d24&v=4"
+    },
+    "description": "A curated list of bitcoin services and tools for software developers",
+    "createdAt": "2015-05-26T07:00:29Z",
+    "pushedAt": "2023-10-29T02:23:51Z",
+    "stargazerCount": 1047,
+    "items": []
+  },
+  "aorumbayev/awesome-algorand": {
+    "nameWithOwner": "aorumbayev/awesome-algorand",
+    "owner": {
+      "login": "aorumbayev",
+      "__typename": "User",
+      "name": "Al",
+      "email": "aorumbayev@protonmail.com",
+      "bio": "💻  Software Engineer ",
+      "databaseId": 7698600,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7698600?u=c5eb43178d2769644bc3191766a185cc9a1556b2&v=4"
+    },
+    "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
+    "createdAt": "2022-01-03T15:44:46Z",
+    "pushedAt": "2023-11-29T00:22:47Z",
+    "stargazerCount": 163,
+    "items": []
+  },
+  "croqaz/awesome-decentralized": {
+    "nameWithOwner": "croqaz/awesome-decentralized",
+    "owner": {
+      "login": "croqaz",
+      "__typename": "User",
+      "name": "Cristi Constantin",
+      "email": "",
+      "bio": "&#x0000A;",
+      "databaseId": 1748317,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1748317?u=724d2d503195d9b5fc32dce18e63d9f69bf727b1&v=4"
+    },
+    "description": "🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍",
+    "createdAt": "2017-01-24T10:41:13Z",
+    "pushedAt": "2023-07-11T13:42:21Z",
+    "stargazerCount": 724,
+    "items": []
+  },
+  "redecentralize/alternative-internet": {
+    "nameWithOwner": "redecentralize/alternative-internet",
+    "owner": {
+      "login": "redecentralize",
+      "__typename": "Organization"
+    },
+    "description": "A collection of interesting new networks and tech aiming at decentralisation (in some form).",
+    "createdAt": "2013-07-06T15:38:51Z",
+    "pushedAt": "2023-10-31T17:07:24Z",
+    "stargazerCount": 5015,
+    "items": []
+  },
+  "sindresorhus/quick-look-plugins": {
+    "nameWithOwner": "sindresorhus/quick-look-plugins",
+    "owner": {
+      "login": "sindresorhus",
+      "__typename": "User",
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "bio": "Full-Time Open-Sourcerer. Focuses on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages. Likes unicorns.",
+      "databaseId": 170270,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4"
+    },
+    "description": "List of useful Quick Look plugins for developers",
+    "createdAt": "2013-12-07T15:43:33Z",
+    "pushedAt": "2022-01-25T13:01:19Z",
+    "stargazerCount": 17595,
+    "items": []
+  },
+  "ligurio/awesome-ci": {
+    "nameWithOwner": "ligurio/awesome-ci",
+    "owner": {
+      "login": "ligurio",
+      "__typename": "User",
+      "name": "Sergey Bronnikov",
+      "email": "",
+      "bio": "I make software suck less.",
+      "databaseId": 1151557,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1151557?u=39aab7729b71d36934c7ba48907561aa05ceecc4&v=4"
+    },
+    "description": "List of Continuous Integration services",
+    "createdAt": "2014-10-28T07:07:56Z",
+    "pushedAt": "2023-11-28T13:56:51Z",
+    "stargazerCount": 3377,
+    "items": []
+  },
+  "jondot/awesome-devenv": {
+    "nameWithOwner": "jondot/awesome-devenv",
+    "owner": {
+      "login": "jondot",
+      "__typename": "User",
+      "name": "Dotan J. Nahum",
+      "email": "dn@rng0.io",
+      "bio": "",
+      "databaseId": 83390,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83390?v=4"
+    },
+    "description": "A curated list of awesome tools, resources and workflow tips making an awesome development environment.",
+    "createdAt": "2014-07-10T08:46:00Z",
+    "pushedAt": "2023-11-05T09:45:21Z",
+    "stargazerCount": 2651,
+    "items": []
+  },
+  "alebcay/awesome-shell": {
+    "nameWithOwner": "alebcay/awesome-shell",
+    "owner": {
+      "login": "alebcay",
+      "__typename": "User",
+      "name": "Caleb Xu",
+      "email": "",
+      "bio": "",
+      "databaseId": 3536482,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3536482?v=4"
+    },
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+    "createdAt": "2014-07-07T01:57:42Z",
+    "pushedAt": "2023-11-14T19:24:07Z",
+    "stargazerCount": 29277,
+    "items": []
+  },
+  "jorgebucaran/awsm.fish": {
+    "nameWithOwner": "jorgebucaran/awsm.fish",
+    "owner": {
+      "login": "jorgebucaran",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": "",
+      "databaseId": 56996,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
+    },
+    "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
+    "createdAt": "2015-10-13T08:37:26Z",
+    "pushedAt": "2023-11-05T10:04:56Z",
+    "stargazerCount": 3680,
+    "items": []
+  },
+  "agarrharr/awesome-cli-apps": {
+    "nameWithOwner": "agarrharr/awesome-cli-apps",
+    "owner": {
+      "login": "agarrharr",
+      "__typename": "User",
+      "name": "Adam Garrett-Harris",
+      "email": "",
+      "bio": "iOS developer and host of the BookBytes podcast.",
+      "databaseId": 3266363,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3266363?u=05fda3183eab4c4fb0210a8cd801f5960275a093&v=4"
+    },
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
+    "createdAt": "2015-07-09T16:44:07Z",
+    "pushedAt": "2023-11-27T18:43:36Z",
+    "stargazerCount": 12736,
+    "items": []
+  },
+  "awesome-lists/awesome-bash": {
+    "nameWithOwner": "awesome-lists/awesome-bash",
+    "owner": {
+      "login": "awesome-lists",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of delightful Bash scripts and resources.",
+    "createdAt": "2016-02-08T09:30:10Z",
+    "pushedAt": "2023-11-22T22:28:06Z",
+    "stargazerCount": 6692,
+    "items": []
+  },
+  "unixorn/awesome-zsh-plugins": {
+    "nameWithOwner": "unixorn/awesome-zsh-plugins",
+    "owner": {
+      "login": "unixorn",
+      "__typename": "User",
+      "name": "Joe Block",
+      "email": "jpb@unixorn.net",
+      "bio": "He/Him.\r\n\r\nI'm a Site Reliability Engineer in Denver.\r\n\r\nDon't contact me about cryptocurrency - I'm not interested in assisting griftcoin in any way.",
+      "databaseId": 23920,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23920?u=ac863893911a0391bbfa8c26e69bbdaffc58a3c3&v=4"
+    },
+    "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
+    "createdAt": "2014-10-07T06:11:17Z",
+    "pushedAt": "2023-11-24T19:13:17Z",
+    "stargazerCount": 13730,
+    "items": []
+  },
+  "stefanbuck/awesome-browser-extensions-for-github": {
+    "nameWithOwner": "stefanbuck/awesome-browser-extensions-for-github",
+    "owner": {
+      "login": "stefanbuck",
+      "__typename": "User",
+      "name": "Stefan Buck",
+      "email": "",
+      "bio": "Staff Software Engineer @snyk. Creator of @OctoLinker",
+      "databaseId": 1393946,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1393946?u=da89191fbb7db63a2d113c097c04bb7d4658e0d9&v=4"
+    },
+    "description": "A collection of awesome browser extensions for GitHub.",
+    "createdAt": "2015-01-26T22:47:48Z",
+    "pushedAt": "2023-11-28T20:10:37Z",
+    "stargazerCount": 2822,
+    "items": []
+  },
+  "tiimgreen/github-cheat-sheet": {
+    "nameWithOwner": "tiimgreen/github-cheat-sheet",
+    "owner": {
+      "login": "tiimgreen",
+      "__typename": "User",
+      "name": "Tim Green",
+      "email": "",
+      "bio": "",
+      "databaseId": 4130574,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4130574?u=ffb70b4f45a2cef30d8928110ee2fe33842e56ff&v=4"
+    },
+    "description": "A list of cool features of Git and GitHub.",
+    "createdAt": "2014-04-12T16:38:42Z",
+    "pushedAt": "2023-10-15T14:26:27Z",
+    "stargazerCount": 43399,
+    "items": []
+  },
+  "arslanbilal/git-cheat-sheet": {
+    "nameWithOwner": "arslanbilal/git-cheat-sheet",
+    "owner": {
+      "login": "arslanbilal",
+      "__typename": "User",
+      "name": "Bilal Arslan",
+      "email": "",
+      "bio": "Sr. iOS Developer, Engineer",
+      "databaseId": 5616595,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5616595?u=6c2816a85c82b613915a88214bdd959c0bb3c4a1&v=4"
+    },
+    "description": ":octocat: git and git flow cheat sheet",
+    "createdAt": "2014-07-22T14:00:21Z",
+    "pushedAt": "2022-09-06T12:22:54Z",
+    "stargazerCount": 6564,
+    "items": []
+  },
+  "git-tips/tips": {
+    "nameWithOwner": "git-tips/tips",
+    "owner": {
+      "login": "git-tips",
+      "__typename": "Organization"
+    },
+    "description": "Most commonly used git tips and tricks.",
+    "createdAt": "2015-07-15T07:24:48Z",
+    "pushedAt": "2023-11-16T12:42:43Z",
+    "stargazerCount": 20993,
+    "items": []
+  },
+  "CompSciLauren/awesome-git-hooks": {
+    "nameWithOwner": "CompSciLauren/awesome-git-hooks",
+    "owner": {
+      "login": "CompSciLauren",
+      "__typename": "User",
+      "name": "Lauren Vu",
+      "email": "compscilauren@gmail.com",
+      "bio": "Software Engineer at TreviPay. Stardew Valley modder and foster of cats.",
+      "databaseId": 25672237,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25672237?u=9298b1ac441813afe85a74cafccd9f8c2a065bfe&v=4"
+    },
+    "description": ":anchor: A curated list of awesome git hooks",
+    "createdAt": "2019-06-08T18:49:38Z",
+    "pushedAt": "2022-12-04T04:52:07Z",
+    "stargazerCount": 908,
+    "items": []
+  },
+  "janikvonrotz/awesome-powershell": {
+    "nameWithOwner": "janikvonrotz/awesome-powershell",
+    "owner": {
+      "login": "janikvonrotz",
+      "__typename": "User",
+      "name": "Janik von Rotz",
+      "email": "",
+      "bio": "Curious, Dedicated, Open-Minded",
+      "databaseId": 1370421,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1370421?u=d02fe3852775c2ce8b4ae83ef430defad20ead45&v=4"
+    },
+    "description": "A curated list of delightful PowerShell modules and resources",
+    "createdAt": "2015-05-28T12:10:06Z",
+    "pushedAt": "2023-07-06T01:15:16Z",
+    "stargazerCount": 4288,
+    "items": []
+  },
+  "k4m4/terminals-are-sexy": {
+    "nameWithOwner": "k4m4/terminals-are-sexy",
+    "owner": {
+      "login": "k4m4",
+      "__typename": "User",
+      "name": "Nikolaos Kamarinakis",
+      "email": "",
+      "bio": "Into smart contracts, these days.",
+      "databaseId": 8945656,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8945656?u=3b0b10307bcab0889c6467d84b4a9dfd884b039a&v=4"
+    },
+    "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.",
+    "createdAt": "2017-02-01T14:23:25Z",
+    "pushedAt": "2023-10-22T03:01:50Z",
+    "stargazerCount": 11675,
+    "items": []
+  },
+  "sdras/awesome-actions": {
+    "nameWithOwner": "sdras/awesome-actions",
+    "owner": {
+      "login": "sdras",
+      "__typename": "User",
+      "name": "Sarah Drasner",
+      "email": "sarah.drasner@gmail.com",
+      "bio": "comprehension over configuration",
+      "databaseId": 2281088,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2281088?u=84b646c98eb14480c53987c23901b0001652d9d7&v=4"
+    },
+    "description": "A curated list of awesome actions to use on GitHub",
+    "createdAt": "2018-10-17T17:53:45Z",
+    "pushedAt": "2023-11-01T12:33:31Z",
+    "stargazerCount": 23036,
+    "items": []
+  },
+  "rothgar/awesome-tmux": {
+    "nameWithOwner": "rothgar/awesome-tmux",
+    "owner": {
+      "login": "rothgar",
+      "__typename": "User",
+      "name": "Justin Garrison",
+      "email": "justin@linux.com",
+      "bio": "learning and sharing\r\n",
+      "databaseId": 371796,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/371796?u=30e95faf008fa57b04427949ce761c696bc64bcd&v=4"
+    },
+    "description": "A list of awesome resources for tmux",
+    "createdAt": "2016-04-04T05:33:34Z",
+    "pushedAt": "2023-11-24T10:24:01Z",
+    "stargazerCount": 6419,
+    "items": []
+  },
+  "awesome-foss/awesome-sysadmin": {
+    "nameWithOwner": "awesome-foss/awesome-sysadmin",
+    "owner": {
+      "login": "awesome-foss",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of amazingly awesome open-source sysadmin resources.",
+    "createdAt": "2014-12-23T08:41:22Z",
+    "pushedAt": "2023-11-27T15:27:39Z",
+    "stargazerCount": 20598,
+    "items": []
+  },
+  "mhinz/vim-galore": {
+    "nameWithOwner": "mhinz/vim-galore",
+    "owner": {
+      "login": "mhinz",
+      "__typename": "User",
+      "name": "Marco Hinz",
+      "email": "mh.codebro+github@gmail.com",
+      "bio": "MXID: @mhinz:matrix.org",
+      "databaseId": 972014,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/972014?u=73c8ceaf757e54bf0480954036080d54239726c6&v=4"
+    },
+    "description": ":mortar_board: All things Vim!",
+    "createdAt": "2016-01-04T17:02:16Z",
+    "pushedAt": "2023-08-06T20:46:34Z",
+    "stargazerCount": 16005,
+    "items": []
+  },
+  "rockerBOO/awesome-neovim": {
+    "nameWithOwner": "rockerBOO/awesome-neovim",
+    "owner": {
+      "login": "rockerBOO",
+      "__typename": "User",
+      "name": "Dave Lage",
+      "email": "",
+      "bio": "",
+      "databaseId": 15027,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4"
+    },
+    "description": "Collections of awesome neovim plugins.",
+    "createdAt": "2020-09-18T18:40:59Z",
+    "pushedAt": "2023-11-29T08:35:54Z",
+    "stargazerCount": 12352,
+    "items": []
+  },
+  "viatsko/awesome-vscode": {
+    "nameWithOwner": "viatsko/awesome-vscode",
+    "owner": {
+      "login": "viatsko",
+      "__typename": "User",
+      "name": "Valerii Iatsko",
+      "email": "",
+      "bio": "Software Engineer @ Google",
+      "databaseId": 376065,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/376065?u=0fda03e098e8fd6f327614043cee2e43553ecde3&v=4"
+    },
+    "description": "🎨 A curated list of delightful VS Code packages and resources.",
+    "createdAt": "2016-02-07T23:02:45Z",
+    "pushedAt": "2023-11-13T18:36:22Z",
+    "stargazerCount": 23486,
+    "items": []
+  },
+  "zudochkin/awesome-newsletters": {
+    "nameWithOwner": "zudochkin/awesome-newsletters",
+    "owner": {
+      "login": "zudochkin",
+      "__typename": "User",
+      "name": "Dmitry Zudochkin",
+      "email": "dnd.pliz@gmail.com",
+      "bio": "Do what you can, with what you have, where you are",
+      "databaseId": 283295,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/283295?u=a9238f3286719f9d6864ddcf8d74bd1d69d5f6f6&v=4"
+    },
+    "description": "A list of amazing Newsletters",
+    "createdAt": "2015-08-06T13:45:52Z",
+    "pushedAt": "2023-10-17T19:24:30Z",
+    "stargazerCount": 3525,
+    "items": []
+  },
+  "markodenic/web-development-resources": {
+    "nameWithOwner": "markodenic/web-development-resources",
+    "owner": {
+      "login": "markodenic",
+      "__typename": "User",
+      "name": "Marko Denic",
+      "email": "",
+      "bio": "Full Stack developer.",
+      "databaseId": 25146984,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25146984?u=e54374b9dea923b09dd9ee1c0e30c29fc685cdf3&v=4"
+    },
+    "description": "Awesome Web Development Resources.",
+    "createdAt": "2020-10-17T18:13:10Z",
+    "pushedAt": "2023-11-29T08:57:34Z",
+    "stargazerCount": 6371,
+    "items": []
+  },
+  "dzharii/awesome-typescript": {
+    "nameWithOwner": "dzharii/awesome-typescript",
+    "owner": {
+      "login": "dzharii",
+      "__typename": "User",
+      "name": "Dmytro Zharii",
+      "email": "",
+      "bio": "",
+      "databaseId": 36020,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36020?u=9b2490bb26067499775c25068cd80542f0f2c87e&v=4"
+    },
+    "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
+    "createdAt": "2015-06-06T22:00:48Z",
+    "pushedAt": "2023-11-27T18:02:04Z",
+    "stargazerCount": 4229,
+    "items": []
+  },
+  "vitejs/awesome-vite": {
+    "nameWithOwner": "vitejs/awesome-vite",
+    "owner": {
+      "login": "vitejs",
+      "__typename": "Organization"
+    },
+    "description": "⚡️ A curated list of awesome things related to Vite.js",
+    "createdAt": "2020-08-21T06:05:43Z",
+    "pushedAt": "2023-11-28T13:25:58Z",
+    "stargazerCount": 11892,
+    "items": [
+      {
+        "name": "vite-react-universal-template",
+        "url": "https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template",
+        "description": "React18 + TypeScript + react-router-dom + Zustand + ESlint + Prettier + Stylelint + Husky + Docker, and APIs auto importing."
+      }
+    ]
+  },
+  "davidsonfellipe/awesome-wpo": {
+    "nameWithOwner": "davidsonfellipe/awesome-wpo",
+    "owner": {
+      "login": "davidsonfellipe",
+      "__typename": "User",
+      "name": "Davidson Fellipe",
+      "email": "email@fellipe.com",
+      "bio": "Software Engineer\r\n",
+      "databaseId": 381179,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/381179?u=21f528167cae25bbc1d8be300272ebb335211a05&v=4"
+    },
+    "description": ":pencil: A curated list of Web Performance Optimization. Everyone can contribute here!",
+    "createdAt": "2014-10-14T15:18:35Z",
+    "pushedAt": "2023-07-26T17:26:17Z",
+    "stargazerCount": 8099,
+    "items": []
+  },
+  "awesome-css-group/awesome-css": {
+    "nameWithOwner": "awesome-css-group/awesome-css",
+    "owner": {
+      "login": "awesome-css-group",
+      "__typename": "Organization"
+    },
+    "description": ":art: A curated contents of amazing CSS :)",
+    "createdAt": "2015-01-31T10:04:29Z",
+    "pushedAt": "2023-07-18T11:30:28Z",
+    "stargazerCount": 4681,
+    "items": []
+  },
+  "addyosmani/critical-path-css-tools": {
+    "nameWithOwner": "addyosmani/critical-path-css-tools",
+    "owner": {
+      "login": "addyosmani",
+      "__typename": "User",
+      "name": "Addy Osmani",
+      "email": "addyosmani@gmail.com",
+      "bio": "Engineering Manager at Google working on Chrome & Web Platform",
+      "databaseId": 110953,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?u=db989d4877755920396785012fe789d771e81135&v=4"
+    },
+    "description": "Tools to prioritize above-the-fold (critical-path) CSS",
+    "createdAt": "2014-07-19T14:19:02Z",
+    "pushedAt": "2022-07-18T03:24:14Z",
+    "stargazerCount": 1148,
+    "items": []
+  },
+  "davidtheclark/scalable-css-reading-list": {
+    "nameWithOwner": "davidtheclark/scalable-css-reading-list",
+    "owner": {
+      "login": "davidtheclark",
+      "__typename": "User",
+      "name": "David Clark",
+      "email": "david.dave.clark@gmail.com",
+      "bio": "",
+      "databaseId": 628431,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/628431?v=4"
+    },
+    "description": "Collected dispatches from The Quest for Scalable CSS",
+    "createdAt": "2014-09-03T00:13:24Z",
+    "pushedAt": "2020-10-14T15:51:23Z",
+    "stargazerCount": 1525,
+    "items": []
+  },
+  "AllThingsSmitty/css-protips": {
+    "nameWithOwner": "AllThingsSmitty/css-protips",
+    "owner": {
+      "login": "AllThingsSmitty",
+      "__typename": "User",
+      "name": "Matt Smith",
+      "email": "",
+      "bio": "Helping build a better web.",
+      "databaseId": 1682367,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1682367?u=2dfbf41ae60d8f35b45de7f4bdc2217862f95554&v=4"
+    },
+    "description": "⚡️ A collection of tips to help take your CSS skills pro 🦾",
+    "createdAt": "2015-08-29T12:29:03Z",
+    "pushedAt": "2023-07-27T10:19:55Z",
+    "stargazerCount": 26526,
+    "items": []
+  },
+  "troxler/awesome-css-frameworks": {
+    "nameWithOwner": "troxler/awesome-css-frameworks",
+    "owner": {
+      "login": "troxler",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": "",
+      "databaseId": 2767948,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2767948?v=4"
+    },
+    "description": "List of awesome CSS frameworks in 2023",
+    "createdAt": "2017-09-01T09:07:05Z",
+    "pushedAt": "2023-10-22T17:03:29Z",
+    "stargazerCount": 6743,
+    "items": []
+  },
+  "enaqx/awesome-react": {
+    "nameWithOwner": "enaqx/awesome-react",
+    "owner": {
+      "login": "enaqx",
+      "__typename": "User",
+      "name": "Nick Raienko",
+      "email": "nick-public@slicketty.com",
+      "bio": "Full Stack Software Engineer",
+      "databaseId": 182219,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/182219?u=dd4dcbd3e20f4418b4390cc76415ff4d5ef6f5ab&v=4"
+    },
+    "description": "A collection of awesome things regarding React ecosystem",
+    "createdAt": "2014-08-06T05:31:44Z",
+    "pushedAt": "2023-11-04T04:24:09Z",
+    "stargazerCount": 59446,
+    "items": []
+  },
+  "brillout/awesome-react-components": {
+    "nameWithOwner": "brillout/awesome-react-components",
+    "owner": {
+      "login": "brillout",
+      "__typename": "User",
+      "name": "Rom",
+      "email": "github@brillout.com",
+      "bio": "Creator of Vike and Telefunc.",
+      "databaseId": 1005638,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1005638?u=bfbe0a4981cae46d5a0cf3a0e24a4ac04abe7421&v=4"
+    },
+    "description": "Curated List of React Components & Libraries.",
+    "createdAt": "2016-06-24T15:19:33Z",
+    "pushedAt": "2023-11-15T18:27:24Z",
+    "stargazerCount": 38494,
+    "items": []
+  },
+  "mateusortiz/webcomponents-the-right-way": {
+    "nameWithOwner": "web-padawan/awesome-web-components",
+    "owner": {
+      "login": "web-padawan",
+      "__typename": "User",
+      "name": "Serhii Kulykov",
+      "email": "",
+      "bio": "JavaScript developer. Building Web Components at @vaadin, previously watermills in desert at @OWOX ",
+      "databaseId": 10589913,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10589913?u=181e1eea73882909e3755730b7ffa3e8ee60e58a&v=4"
+    },
+    "description": "A curated list of awesome Web Components resources.",
+    "createdAt": "2014-10-17T17:35:14Z",
+    "pushedAt": "2023-11-18T14:52:21Z",
+    "stargazerCount": 2441,
+    "items": []
+  },
+  "PatrickJS/awesome-angular": {
+    "nameWithOwner": "PatrickJS/awesome-angular",
+    "owner": {
+      "login": "PatrickJS",
+      "__typename": "User",
+      "name": "PatrickJS",
+      "email": "github@patrickjs.com",
+      "bio": "building Web Scale and Open Source\r\n\r\nCurrently: Qwik, Deno, Tailwind, Mitosis\r\n\r\nPreviously: Angular, Angular Universal, Webpack, Falcor",
+      "databaseId": 1016365,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1016365?u=47d964a94849ae3bd59cc1a66e5f4aad0c43d2a2&v=4"
+    },
+    "description": ":page_facing_up: A curated list of awesome Angular resources",
+    "createdAt": "2015-09-01T05:12:10Z",
+    "pushedAt": "2023-10-31T16:36:28Z",
+    "stargazerCount": 9100,
+    "items": []
+  },
+  "dnbard/awesome-knockout": {
+    "nameWithOwner": "dnbard/awesome-knockout",
+    "owner": {
+      "login": "dnbard",
+      "__typename": "User",
+      "name": "Oleksandr Bardanov",
+      "email": "dnbard@gmail.com",
+      "bio": "Experienced Frontend Developer with strong React and TypeScript skills. Passionate about solving complex challenges.",
+      "databaseId": 4028472,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4028472?u=083b2339562d8ed4e328694d3393702802d99aaa&v=4"
+    },
+    "description": "A curated list of awesome plugins for Knockout",
+    "createdAt": "2014-09-30T09:01:58Z",
+    "pushedAt": "2018-01-09T07:16:50Z",
+    "stargazerCount": 95,
+    "items": []
+  },
+  "jonathandion/awesome-emails": {
+    "nameWithOwner": "jonathandion/awesome-emails",
+    "owner": {
+      "login": "jonathandion",
+      "__typename": "User",
+      "name": "Jon",
+      "email": "",
+      "bio": "",
+      "databaseId": 4976218,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4976218?u=1d5ff735979961eb50a844b113352897f9c9c4aa&v=4"
+    },
+    "description": "✉️ An awesome list of resources to build better emails.",
+    "createdAt": "2015-08-18T14:12:08Z",
+    "pushedAt": "2023-10-31T13:01:23Z",
+    "stargazerCount": 2150,
+    "items": []
+  },
+  "petk/awesome-jquery": {
+    "nameWithOwner": "petk/awesome-jquery",
+    "owner": {
+      "login": "petk",
+      "__typename": "User",
+      "name": "Peter Kokot",
+      "email": "peterkokot@gmail.com",
+      "bio": "Software engineer, PHP, Linux, open source",
+      "databaseId": 1614009,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1614009?v=4"
+    },
+    "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
+    "createdAt": "2014-10-30T08:06:08Z",
+    "pushedAt": "2022-10-19T17:01:02Z",
+    "stargazerCount": 894,
+    "items": []
+  },
+  "AllThingsSmitty/jquery-tips-everyone-should-know": {
+    "nameWithOwner": "AllThingsSmitty/jquery-tips-everyone-should-know",
+    "owner": {
+      "login": "AllThingsSmitty",
+      "__typename": "User",
+      "name": "Matt Smith",
+      "email": "",
+      "bio": "Helping build a better web.",
+      "databaseId": 1682367,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1682367?u=2dfbf41ae60d8f35b45de7f4bdc2217862f95554&v=4"
+    },
+    "description": "A collection of tips to help up your jQuery game 🎮",
+    "createdAt": "2015-05-18T14:57:04Z",
+    "pushedAt": "2021-01-14T17:35:28Z",
+    "stargazerCount": 4244,
+    "items": []
+  },
+  "alexpate/awesome-design-systems": {
+    "nameWithOwner": "alexpate/awesome-design-systems",
+    "owner": {
+      "login": "alexpate",
+      "__typename": "User",
+      "name": "Alex Pate",
+      "email": "github@alexpate.uk",
+      "bio": "Design / Engineering",
+      "databaseId": 3749759,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3749759?u=db17578a8ac6c207a32e7d0d06461931e5e38573&v=4"
+    },
+    "description": "💅🏻 ⚒ A collection of awesome design systems",
+    "createdAt": "2017-06-06T19:56:49Z",
+    "pushedAt": "2023-11-24T04:10:55Z",
+    "stargazerCount": 16214,
+    "items": []
+  },
+  "vuejs/awesome-vue": {
+    "nameWithOwner": "vuejs/awesome-vue",
+    "owner": {
+      "login": "vuejs",
+      "__typename": "Organization"
+    },
+    "description": "🎉 A curated list of awesome things related to Vue.js",
+    "createdAt": "2015-10-20T00:16:14Z",
+    "pushedAt": "2023-11-27T16:01:50Z",
+    "stargazerCount": 69968,
+    "items": []
+  },
+  "zingchart/awesome-charting": {
+    "nameWithOwner": "zingchart/awesome-charting",
+    "owner": {
+      "login": "zingchart",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",
+    "createdAt": "2016-02-18T23:06:44Z",
+    "pushedAt": "2023-09-03T00:33:15Z",
+    "stargazerCount": 1862,
+    "items": []
+  },
+  "ChromeDevTools/awesome-chrome-devtools": {
+    "nameWithOwner": "ChromeDevTools/awesome-chrome-devtools",
+    "owner": {
+      "login": "ChromeDevTools",
+      "__typename": "Organization"
+    },
+    "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
+    "createdAt": "2016-03-08T08:12:50Z",
+    "pushedAt": "2023-05-19T06:16:27Z",
+    "stargazerCount": 5674,
+    "items": []
+  },
+  "websemantics/awesome-ant-design": {
+    "nameWithOwner": "websemantics/awesome-ant-design",
+    "owner": {
+      "login": "websemantics",
+      "__typename": "User",
+      "name": "Adnan M.Sagar, PhD",
+      "email": "adnan@websemantics.ca",
+      "bio": "Passionate about improving apps development practices",
+      "databaseId": 2190455,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2190455?v=4"
+    },
+    "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
+    "createdAt": "2016-07-27T18:08:18Z",
+    "pushedAt": "2023-11-27T03:04:52Z",
+    "stargazerCount": 3059,
+    "items": []
+  },
+  "unicodeveloper/awesome-nextjs": {
+    "nameWithOwner": "unicodeveloper/awesome-nextjs",
+    "owner": {
+      "login": "unicodeveloper",
+      "__typename": "User",
+      "name": "Prosper Otemuyiwa",
+      "email": "prosperotemuyiwa@gmail.com",
+      "bio": "Open Source Engineer :fire: :rocket:",
+      "databaseId": 2946769,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2946769?u=92f03012e7777ace3997039d1a424208f0037d94&v=4"
+    },
+    "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ",
+    "createdAt": "2016-12-01T12:44:50Z",
+    "pushedAt": "2023-11-27T13:29:30Z",
+    "stargazerCount": 9413,
+    "items": []
+  },
+  "AdrienTorris/awesome-blazor": {
+    "nameWithOwner": "AdrienTorris/awesome-blazor",
+    "owner": {
+      "login": "AdrienTorris",
+      "__typename": "User",
+      "name": "Adrien Torris",
+      "email": "adrientorris@gmail.com",
+      "bio": "Technical Team Lead - Senior Software Engineer (.NET)",
+      "databaseId": 1014357,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1014357?u=14c98f93eda7208d6ae186a550d63dd63378cbc3&v=4"
+    },
+    "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
+    "createdAt": "2018-03-29T06:29:46Z",
+    "pushedAt": "2023-11-16T08:03:39Z",
+    "stargazerCount": 8175,
+    "items": []
+  },
+  "csabapalfi/awesome-pagespeed-metrics": {
+    "nameWithOwner": "csabapalfi/awesome-pagespeed-metrics",
+    "owner": {
+      "login": "csabapalfi",
+      "__typename": "User",
+      "name": "Csaba Palfi",
+      "email": "",
+      "bio": "",
+      "databaseId": 181959,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/181959?u=97092e56bbebee59e55b172634c969ec6e9f27cb&v=4"
+    },
+    "description": "⚡Metrics to help understand page speed and user experience",
+    "createdAt": "2018-06-20T21:15:52Z",
+    "pushedAt": "2023-11-20T10:04:26Z",
+    "stargazerCount": 658,
+    "items": []
+  },
+  "aniftyco/awesome-tailwindcss": {
+    "nameWithOwner": "aniftyco/awesome-tailwindcss",
+    "owner": {
+      "login": "aniftyco",
+      "__typename": "Organization"
+    },
+    "description": "😎 Awesome things related to Tailwind CSS",
+    "createdAt": "2017-11-08T15:35:50Z",
+    "pushedAt": "2023-11-17T19:38:51Z",
+    "stargazerCount": 11992,
+    "items": []
+  },
+  "sergey-pimenov/awesome-web-animation": {
+    "nameWithOwner": "sergey-pimenov/awesome-web-animation",
+    "owner": {
+      "login": "sergey-pimenov",
+      "__typename": "User",
+      "name": "Sergey Pimenov",
+      "email": "pimenov.web@gmail.com",
+      "bio": "Front-end dev & web-animations & accessibility. \r\nLooking for a job.",
+      "databaseId": 15109701,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15109701?u=49349a7450da11c28a70695ca7fc31d50ba20a57&v=4"
+    },
+    "description": "A list of awesome web animation libraries, books, apps etc.",
+    "createdAt": "2017-04-27T13:28:09Z",
+    "pushedAt": "2023-07-12T12:52:20Z",
+    "stargazerCount": 1244,
+    "items": []
+  },
+  "jetli/awesome-yew": {
+    "nameWithOwner": "jetli/awesome-yew",
+    "owner": {
+      "login": "jetli",
+      "__typename": "User",
+      "name": "Jet Li",
+      "email": "",
+      "bio": "",
+      "databaseId": 1142758,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1142758?u=d1c7eb6ec4d6c57cf314ef9b6d2ee96d5fa316f5&v=4"
+    },
+    "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
+    "createdAt": "2019-12-17T02:16:14Z",
+    "pushedAt": "2023-08-31T07:57:20Z",
+    "stargazerCount": 1343,
+    "items": []
+  },
+  "TheComputerM/awesome-svelte": {
+    "nameWithOwner": "TheComputerM/awesome-svelte",
+    "owner": {
+      "login": "TheComputerM",
+      "__typename": "User",
+      "name": "TheComputerM",
+      "email": "mudit.somani00@gmail.com",
+      "bio": "404",
+      "databaseId": 24741538,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24741538?u=562d93c8591884c87c12beceffab21aef657826b&v=4"
+    },
+    "description": "⚡ A curated list of awesome Svelte resources",
+    "createdAt": "2020-09-29T17:12:07Z",
+    "pushedAt": "2023-10-25T17:01:52Z",
+    "stargazerCount": 1157,
+    "items": []
+  },
+  "klaufel/awesome-design-systems": {
+    "nameWithOwner": "klaufel/awesome-design-systems",
+    "owner": {
+      "login": "klaufel",
+      "__typename": "User",
+      "name": "Juan Carlos Ruiz",
+      "email": "klaufel@gmail.com",
+      "bio": "Frontend developer at @AdevintaSpain 👨‍💻. CSS ❤ passionate. Coffee addict and standards lover. Co-organizing @MurciaFrontend 🍋",
+      "databaseId": 1427623,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1427623?u=b51b9da464e49960967d65b600c3da8e489cc788&v=4"
+    },
+    "description": "📒 A curated list of bookmarks, resources and articles about design systems focused on developers.",
+    "createdAt": "2020-04-20T20:53:45Z",
+    "pushedAt": "2023-07-06T07:50:23Z",
+    "stargazerCount": 633,
+    "items": []
+  },
+  "ellisonleao/magictools": {
+    "nameWithOwner": "ellisonleao/magictools",
+    "owner": {
+      "login": "ellisonleao",
+      "__typename": "User",
+      "name": "Ellison",
+      "email": "ellisonleao@gmail.com",
+      "bio": "Polyrhythm programming",
+      "databaseId": 178641,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178641?u=3086a6b5af760e8012e31341255698952da5ba2a&v=4"
+    },
+    "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+    "createdAt": "2014-07-17T21:27:07Z",
+    "pushedAt": "2023-11-29T02:23:14Z",
+    "stargazerCount": 12341,
+    "items": [
+      {
+        "name": "mach",
+        "url": "https://machengine.org/",
+        "description": "game engine & graphics toolkit build in zig."
+      }
+    ]
+  },
+  "stevinz/awesome-game-engine-dev": {
+    "nameWithOwner": "stevinz/awesome-game-engine-dev",
+    "owner": {
+      "login": "stevinz",
+      "__typename": "User",
+      "name": "Stephens Nunnally",
+      "email": "",
+      "bio": "",
+      "databaseId": 43077547,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43077547?u=c30179e07110d2a1f1c1303f446b58095f33bc28&v=4"
+    },
+    "description": "Awesome list of resources for Game Engine Development.",
+    "createdAt": "2021-09-30T23:37:04Z",
+    "pushedAt": "2023-11-17T22:06:49Z",
+    "stargazerCount": 514,
+    "items": []
+  },
+  "Billiam/awesome-ironsworn": {
+    "nameWithOwner": "Billiam/awesome-ironsworn",
+    "owner": {
+      "login": "Billiam",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": "",
+      "databaseId": 242008,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/242008?u=7307b0ee9e61e2d7a5f16f403f90431eb9ea55d8&v=4"
+    },
+    "description": "An awesome list of awesome Ironsworn projects",
+    "createdAt": "2021-08-13T19:11:26Z",
+    "pushedAt": "2023-11-14T21:59:44Z",
+    "stargazerCount": 72,
+    "items": []
+  },
+  "hzoo/awesome-gametalks": {
+    "nameWithOwner": "hzoo/awesome-gametalks",
+    "owner": {
+      "login": "hzoo",
+      "__typename": "User",
+      "name": "Henry",
+      "email": "",
+      "bio": "Learning to maintain stuff",
+      "databaseId": 588473,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/588473?u=497cfe4ef8cce2229601b3cf0b6671dfc426b453&v=4"
+    },
+    "description": ":speech_balloon: A curated list of gaming talks (development, design, etc)",
+    "createdAt": "2015-01-09T05:01:55Z",
+    "pushedAt": "2016-10-14T03:09:39Z",
+    "stargazerCount": 1004,
+    "items": []
+  },
+  "godotengine/awesome-godot": {
+    "nameWithOwner": "godotengine/awesome-godot",
+    "owner": {
+      "login": "godotengine",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of free/libre plugins, scripts and add-ons for Godot",
+    "createdAt": "2015-04-12T17:17:17Z",
+    "pushedAt": "2023-10-14T23:10:22Z",
+    "stargazerCount": 5175,
+    "items": []
+  },
+  "RyanNielson/awesome-unity": {
+    "nameWithOwner": "RyanNielson/awesome-unity",
+    "owner": {
+      "login": "RyanNielson",
+      "__typename": "User",
+      "name": "Ryan Nielson",
+      "email": "",
+      "bio": "",
+      "databaseId": 794694,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/794694?v=4"
+    },
+    "description": "A curated list of awesome Unity assets, resources, and more.",
+    "createdAt": "2014-07-25T01:22:07Z",
+    "pushedAt": "2023-11-01T00:21:37Z",
+    "stargazerCount": 6142,
+    "items": []
+  },
+  "love2d-community/awesome-love2d": {
+    "nameWithOwner": "love2d-community/awesome-love2d",
+    "owner": {
+      "login": "love2d-community",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
+    "createdAt": "2015-09-15T15:00:56Z",
+    "pushedAt": "2023-10-27T22:47:53Z",
+    "stargazerCount": 2851,
+    "items": []
+  },
+  "gbdev/awesome-gbdev": {
+    "nameWithOwner": "gbdev/awesome-gbdev",
+    "owner": {
+      "login": "gbdev",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
+    "createdAt": "2016-02-23T09:35:47Z",
+    "pushedAt": "2023-11-25T12:33:39Z",
+    "stargazerCount": 3689,
+    "items": []
+  },
+  "radek-sprta/awesome-game-remakes": {
+    "nameWithOwner": "radek-sprta/awesome-game-remakes",
+    "owner": {
+      "login": "radek-sprta",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": null,
+      "databaseId": 8342657,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8342657?v=4"
+    },
+    "description": "Actively maintained open-source game remakes.",
+    "createdAt": "2020-03-11T07:21:02Z",
+    "pushedAt": "2023-11-28T16:39:23Z",
+    "stargazerCount": 546,
+    "items": [
+      {
+        "name": "TR1X",
+        "url": "https://github.com/LostArtefacts/TR1X",
+        "description": "Open source implementation of the classic Tomb Raider I game."
+      }
+    ]
+  },
+  "mhxion/awesome-discord-communities": {
+    "nameWithOwner": "mhxion/awesome-discord-communities",
+    "owner": {
+      "login": "mhxion",
+      "__typename": "User",
+      "name": "Mahadi Xion",
+      "email": "",
+      "bio": "💚 Unix philosophy. Currently studying data science.\r\n",
+      "databaseId": 21981508,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21981508?u=add5ed6ece45d0dbfe2cb66a6cca9498f95ea7f5&v=4"
+    },
+    "description": "A curated list of awesome Discord communities for programmers",
+    "createdAt": "2019-08-21T23:17:40Z",
+    "pushedAt": "2023-11-26T14:36:31Z",
+    "stargazerCount": 2280,
+    "items": []
+  },
+  "michelpereira/awesome-games-of-coding": {
+    "nameWithOwner": "michelpereira/awesome-games-of-coding",
+    "owner": {
+      "login": "michelpereira",
+      "__typename": "User",
+      "name": "Michel Pereira",
+      "email": "michel@michel.eti.br",
+      "bio": "Data everywhere!!!",
+      "databaseId": 25416,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25416?v=4"
+    },
+    "description": "A curated list of games that can teach you how to learn a programming language.",
+    "createdAt": "2017-02-04T07:03:01Z",
+    "pushedAt": "2023-11-20T02:56:24Z",
+    "stargazerCount": 1726,
+    "items": []
+  },
+  "kiloreux/awesome-robotics": {
+    "nameWithOwner": "kiloreux/awesome-robotics",
+    "owner": {
+      "login": "kiloreux",
+      "__typename": "User",
+      "name": "kiloreux",
+      "email": "",
+      "bio": "",
+      "databaseId": 6282557,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6282557?u=204e0fa661c57c133ce499059824627782919c06&v=4"
+    },
+    "description": "A list of awesome Robotics resources",
+    "createdAt": "2015-11-26T16:53:05Z",
+    "pushedAt": "2023-08-29T16:43:56Z",
+    "stargazerCount": 3613,
+    "items": []
+  },
+  "HQarroum/awesome-iot": {
+    "nameWithOwner": "HQarroum/awesome-iot",
+    "owner": {
+      "login": "HQarroum",
+      "__typename": "User",
+      "name": "Halim Qarroum",
+      "email": "",
+      "bio": "Engineering Manager @aws. Focusing on Serverless technologies, Event-driven architectures and Edge Computing.",
+      "databaseId": 1384633,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1384633?u=ac8ecd18927883363f8607317d03a6d81a73c317&v=4"
+    },
+    "description": "🤖 A curated list of awesome Internet of Things projects and resources.",
+    "createdAt": "2015-09-26T00:37:23Z",
+    "pushedAt": "2023-02-27T00:22:12Z",
+    "stargazerCount": 2987,
+    "items": []
+  },
+  "kitspace/awesome-electronics": {
+    "nameWithOwner": "kitspace/awesome-electronics",
+    "owner": {
+      "login": "kitspace",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of awesome resources for electronic engineers and hobbyists",
+    "createdAt": "2016-07-26T00:30:56Z",
+    "pushedAt": "2023-11-14T12:17:12Z",
+    "stargazerCount": 5158,
+    "items": []
+  },
+  "beardicus/awesome-plotters": {
+    "nameWithOwner": "beardicus/awesome-plotters",
+    "owner": {
+      "login": "beardicus",
+      "__typename": "User",
+      "name": "Brian Boucheron",
+      "email": "brian@boucheron.org",
+      "bio": "I like cheese.",
+      "databaseId": 170997,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170997?v=4"
+    },
+    "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
+    "createdAt": "2018-06-07T10:49:52Z",
+    "pushedAt": "2023-10-20T21:25:02Z",
+    "stargazerCount": 922,
+    "items": []
+  },
+  "kakoni/awesome-healthcare": {
+    "nameWithOwner": "kakoni/awesome-healthcare",
+    "owner": {
+      "login": "kakoni",
+      "__typename": "User",
+      "name": "Karri Niemelä",
+      "email": "",
+      "bio": "",
+      "databaseId": 812150,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/812150?v=4"
+    },
+    "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+    "createdAt": "2016-02-23T08:08:53Z",
+    "pushedAt": "2023-10-26T17:33:46Z",
+    "stargazerCount": 2331,
+    "items": []
+  },
+  "humanetech-community/awesome-humane-tech": {
+    "nameWithOwner": "humanetech-community/awesome-humane-tech",
+    "owner": {
+      "login": "humanetech-community",
+      "__typename": "Organization"
+    },
+    "description": "Promoting Solutions that Improve Wellbeing, Freedom and Society",
+    "createdAt": "2018-02-08T14:45:23Z",
+    "pushedAt": "2022-11-13T09:29:41Z",
+    "stargazerCount": 2969,
+    "items": []
+  },
+  "matteofigus/awesome-speaking": {
+    "nameWithOwner": "matteofigus/awesome-speaking",
+    "owner": {
+      "login": "matteofigus",
+      "__typename": "User",
+      "name": "Matteo Figus",
+      "email": "",
+      "bio": "He/him - Opinions my own.",
+      "databaseId": 1789893,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1789893?u=f05240f82961ecd29b7e187cfdf083860f0b8a3c&v=4"
+    },
+    "description": "Resources about public speaking",
+    "createdAt": "2015-06-14T14:40:03Z",
+    "pushedAt": "2023-11-20T16:21:54Z",
+    "stargazerCount": 1454,
+    "items": []
+  },
+  "dive-into-machine-learning/dive-into-machine-learning": {
+    "nameWithOwner": "dive-into-machine-learning/dive-into-machine-learning",
+    "owner": {
+      "login": "dive-into-machine-learning",
+      "__typename": "Organization"
+    },
+    "description": "Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)",
+    "createdAt": "2015-02-22T23:48:16Z",
+    "pushedAt": "2022-06-17T23:22:08Z",
+    "stargazerCount": 11202,
+    "items": []
+  },
+  "yrgo/awesome-educational-games": {
+    "nameWithOwner": "yrgo/awesome-educational-games",
+    "owner": {
+      "login": "yrgo",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of awesome educational games to learn editors, languages, programming, etc",
+    "createdAt": "2016-08-23T06:51:10Z",
+    "pushedAt": "2023-11-20T03:03:30Z",
+    "stargazerCount": 769,
+    "items": []
+  },
+  "micromata/awesome-javascript-learning": {
+    "nameWithOwner": "micromata/awesome-javascript-learning",
+    "owner": {
+      "login": "micromata",
+      "__typename": "Organization"
+    },
+    "description": "A tiny list limited to the best JavaScript Learning Resources",
+    "createdAt": "2016-11-16T19:33:28Z",
+    "pushedAt": "2023-11-01T20:52:17Z",
+    "stargazerCount": 4975,
+    "items": []
+  },
+  "micromata/awesome-css-learning": {
+    "nameWithOwner": "micromata/awesome-css-learning",
+    "owner": {
+      "login": "micromata",
+      "__typename": "Organization"
+    },
+    "description": "A tiny list limited to the best CSS Learning Resources",
+    "createdAt": "2018-05-06T21:26:52Z",
+    "pushedAt": "2023-11-01T00:19:19Z",
+    "stargazerCount": 3217,
+    "items": []
+  },
+  "liuchong/awesome-roadmaps": {
+    "nameWithOwner": "liuchong/awesome-roadmaps",
+    "owner": {
+      "login": "liuchong",
+      "__typename": "User",
+      "name": "刘冲",
+      "email": "",
+      "bio": "学而时习之，不亦悦乎？",
+      "databaseId": 236058,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/236058?v=4"
+    },
+    "description": "A curated list of roadmaps.",
+    "createdAt": "2019-01-12T14:43:04Z",
+    "pushedAt": "2023-05-25T23:17:51Z",
+    "stargazerCount": 3419,
+    "items": []
+  },
+  "neutraltone/awesome-stock-resources": {
+    "nameWithOwner": "neutraltone/awesome-stock-resources",
+    "owner": {
+      "login": "neutraltone",
+      "__typename": "User",
+      "name": "Tony Phipps",
+      "email": "",
+      "bio": "Front-end designer, web standards enthusiast and part time photographer for self satisfaction.",
+      "databaseId": 1080928,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1080928?u=6be244280ddf9ad5236fbd8f020086368aa80106&v=4"
+    },
+    "description": ":city_sunrise: A collection of links for free stock photography, video and Illustration websites",
+    "createdAt": "2015-10-31T15:45:23Z",
+    "pushedAt": "2023-10-23T03:19:02Z",
+    "stargazerCount": 11935,
+    "items": []
+  },
+  "44bits/awesome-opensource-documents": {
+    "nameWithOwner": "44bits/awesome-opensource-documents",
+    "owner": {
+      "login": "44bits",
+      "__typename": "Organization"
+    },
+    "description": ":blue_book: A curated list of awesome open source or open source licensed documents, guides, books.",
+    "createdAt": "2015-05-14T16:02:24Z",
+    "pushedAt": "2022-10-07T02:41:34Z",
+    "stargazerCount": 1903,
+    "items": []
+  },
+  "willianjusten/awesome-audio-visualization": {
+    "nameWithOwner": "willianjusten/awesome-audio-visualization",
+    "owner": {
+      "login": "willianjusten",
+      "__typename": "User",
+      "name": "Willian Justen ",
+      "email": "willianjustenqui@gmail.com",
+      "bio": "I'm a software engineer that loves to work with challenging and creative projects. \r\n",
+      "databaseId": 3991845,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3991845?u=5fd8e630a564b6fc9c21039e1b81b47d6216fb01&v=4"
+    },
+    "description": "A curated list about Audio Visualization.",
+    "createdAt": "2016-03-24T23:55:26Z",
+    "pushedAt": "2023-04-05T18:32:45Z",
+    "stargazerCount": 4373,
+    "items": []
+  },
+  "Siilwyn/awesome-pixel-art": {
+    "nameWithOwner": "Siilwyn/awesome-pixel-art",
+    "owner": {
+      "login": "Siilwyn",
+      "__typename": "User",
+      "name": "Selwyn",
+      "email": "talk@selwyn.cc",
+      "bio": "sudo everything --web --javascript --rust --linux --games",
+      "databaseId": 5701149,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5701149?u=b94d23b9fb2e07cd89534aacf4a6927146075770&v=4"
+    },
+    "description": "Curated list of everything awesome around pixel art.",
+    "createdAt": "2017-02-25T19:16:14Z",
+    "pushedAt": "2023-10-07T08:33:52Z",
+    "stargazerCount": 906,
+    "items": []
+  },
+  "transitive-bullshit/awesome-ffmpeg": {
+    "nameWithOwner": "transitive-bullshit/awesome-ffmpeg",
+    "owner": {
+      "login": "transitive-bullshit",
+      "__typename": "User",
+      "name": "Travis Fischer",
+      "email": "travis@transitivebullsh.it",
+      "bio": "My heart is open source 💕 \r\n\r\nFormerly @amazon, @microsoft",
+      "databaseId": 552829,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/552829?u=827e02dfc3331a6e87990062b7470803ce8d8886&v=4"
+    },
+    "description": "👻 A curated list of awesome FFmpeg resources.",
+    "createdAt": "2018-04-02T14:06:51Z",
+    "pushedAt": "2023-05-17T13:54:48Z",
+    "stargazerCount": 904,
+    "items": []
+  },
+  "agarrharr/awesome-macos-screensavers": {
+    "nameWithOwner": "agarrharr/awesome-macos-screensavers",
+    "owner": {
+      "login": "agarrharr",
+      "__typename": "User",
+      "name": "Adam Garrett-Harris",
+      "email": "",
+      "bio": "iOS developer and host of the BookBytes podcast.",
+      "databaseId": 3266363,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3266363?u=05fda3183eab4c4fb0210a8cd801f5960275a093&v=4"
+    },
+    "description": "🍎 🖥 🎆 A curated list of screensavers for Mac OS X",
+    "createdAt": "2015-02-09T21:31:37Z",
+    "pushedAt": "2023-06-28T17:31:24Z",
+    "stargazerCount": 3732,
+    "items": []
+  },
+  "Solido/awesome-flutter": {
+    "nameWithOwner": "Solido/awesome-flutter",
+    "owner": {
+      "login": "Solido",
+      "__typename": "User",
+      "name": "Robert Felker",
+      "email": "solido@robbieone.com",
+      "bio": "Solution Architect, JVM, Cloud, Devops & Dart/Flutter, Artist, ML",
+      "databaseId": 1295961,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1295961?u=b85eaeb98c4c24aeec8046b7839a5ddf2d504289&v=4"
+    },
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "createdAt": "2017-05-07T11:45:27Z",
+    "pushedAt": "2023-11-12T17:02:44Z",
+    "stargazerCount": 49337,
+    "items": []
+  },
+  "ramitsurana/awesome-kubernetes": {
+    "nameWithOwner": "ramitsurana/awesome-kubernetes",
+    "owner": {
+      "login": "ramitsurana",
+      "__typename": "User",
+      "name": "Ramit Surana",
+      "email": "ramitsurana@gmail.com",
+      "bio": "Product Development Lead. BITS Pilani. CKA + Hashicorp Terraform Associate + AWS SA + Google TensorFlow Developer Certified. Angel Investor.\r\n",
+      "databaseId": 8342133,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8342133?u=48fb7d34b171fe90b7e080ef4694ceba5041ee91&v=4"
+    },
+    "description": "A curated list for awesome kubernetes sources :ship::tada:",
+    "createdAt": "2015-10-15T12:14:48Z",
+    "pushedAt": "2023-11-01T20:06:38Z",
+    "stargazerCount": 14398,
+    "items": []
+  },
+  "tomhuang12/awesome-k8s-resources": {
+    "nameWithOwner": "tomhuang12/awesome-k8s-resources",
+    "owner": {
+      "login": "tomhuang12",
+      "__typename": "User",
+      "name": "Tom Huang",
+      "email": "",
+      "bio": "",
+      "databaseId": 31516558,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31516558?u=166286189b7ddcaa4d949219981f430c7cbfc4d6&v=4"
+    },
+    "description": "A curated list of awesome Kubernetes tools and resources.",
+    "createdAt": "2020-07-05T23:05:06Z",
+    "pushedAt": "2023-10-23T09:19:02Z",
+    "stargazerCount": 2789,
+    "items": []
+  },
+  "gaerae/awesome-algorithms-education": {
+    "nameWithOwner": "gaerae/awesome-algorithms-education",
+    "owner": {
+      "login": "gaerae",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": "",
+      "databaseId": 1012045,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1012045?u=f5bb50aafe484be4105fed73b6332f547906762e&v=4"
+    },
+    "description": "A curated list to learning and practicing about algorithm.",
+    "createdAt": "2018-02-20T04:16:27Z",
+    "pushedAt": "2022-11-15T12:24:33Z",
+    "stargazerCount": 539,
+    "items": []
+  },
+  "paragonie/awesome-appsec": {
+    "nameWithOwner": "paragonie/awesome-appsec",
+    "owner": {
+      "login": "paragonie",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of resources for learning about application security",
+    "createdAt": "2015-04-30T21:18:31Z",
+    "pushedAt": "2023-09-07T06:49:37Z",
+    "stargazerCount": 5863,
+    "items": []
+  },
+  "writing-resources/awesome-scientific-writing": {
+    "nameWithOwner": "writing-resources/awesome-scientific-writing",
+    "owner": {
+      "login": "writing-resources",
+      "__typename": "Organization"
+    },
+    "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
+    "createdAt": "2018-09-05T06:29:15Z",
+    "pushedAt": "2023-11-20T13:09:44Z",
+    "stargazerCount": 622,
+    "items": []
+  },
+  "secretGeek/AwesomeCSV": {
+    "nameWithOwner": "secretGeek/AwesomeCSV",
+    "owner": {
+      "login": "secretGeek",
+      "__typename": "User",
+      "name": "Leon Bambrick",
+      "email": "",
+      "bio": "Australian. see: secretGeek.net, nimbleText.com, YourFirstProduct.com, TimeSnapper.com",
+      "databaseId": 2861690,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2861690?u=fd4c048c1ea81e2213362779f1e690568f781629&v=4"
+    },
+    "description": "🕶️A curated list of awesome tools for dealing with CSV.",
+    "createdAt": "2018-10-13T04:42:03Z",
+    "pushedAt": "2023-10-09T17:07:12Z",
+    "stargazerCount": 578,
+    "items": []
+  },
+  "Hack-with-Github/Awesome-Hacking": {
+    "nameWithOwner": "Hack-with-Github/Awesome-Hacking",
+    "owner": {
+      "login": "Hack-with-Github",
+      "__typename": "Organization"
+    },
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "createdAt": "2016-03-30T15:47:10Z",
+    "pushedAt": "2023-10-24T15:58:01Z",
+    "stargazerCount": 71708,
+    "items": []
+  },
+  "sindresorhus/awesome": {
+    "nameWithOwner": "sindresorhus/awesome",
+    "owner": {
+      "login": "sindresorhus",
+      "__typename": "User",
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "bio": "Full-Time Open-Sourcerer. Focuses on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages. Likes unicorns.",
+      "databaseId": 170270,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4"
+    },
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "createdAt": "2014-07-11T13:42:37Z",
+    "pushedAt": "2023-11-27T08:20:34Z",
+    "stargazerCount": 279310,
+    "items": []
+  },
+  "marmelab/awesome-rest": {
+    "nameWithOwner": "marmelab/awesome-rest",
+    "owner": {
+      "login": "marmelab",
+      "__typename": "Organization"
+    },
+    "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
+    "createdAt": "2015-05-07T07:04:42Z",
+    "pushedAt": "2023-07-28T21:32:00Z",
+    "stargazerCount": 3479,
+    "items": []
+  },
+  "ripienaar/free-for-dev": {
+    "nameWithOwner": "ripienaar/free-for-dev",
+    "owner": {
+      "login": "ripienaar",
+      "__typename": "User",
+      "name": "R.I.Pienaar",
+      "email": "",
+      "bio": "Systems Architect, Automator, Coder.",
+      "databaseId": 82342,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82342?v=4"
+    },
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "createdAt": "2015-03-18T21:06:26Z",
+    "pushedAt": "2023-11-28T17:10:02Z",
+    "stargazerCount": 76726,
+    "items": []
+  },
+  "matiassingers/awesome-readme": {
+    "nameWithOwner": "matiassingers/awesome-readme",
+    "owner": {
+      "login": "matiassingers",
+      "__typename": "User",
+      "name": "Matias Singers",
+      "email": "mail@matiassingers.com",
+      "bio": "",
+      "databaseId": 938453,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/938453?v=4"
+    },
+    "description": "A curated list of awesome READMEs",
+    "createdAt": "2015-01-19T06:15:03Z",
+    "pushedAt": "2023-11-04T14:35:49Z",
+    "stargazerCount": 15752,
+    "items": []
+  },
+  "NARKOZ/guides": {
+    "nameWithOwner": "NARKOZ/guides",
+    "owner": {
+      "login": "NARKOZ",
+      "__typename": "User",
+      "name": "Nihad Abbasov",
+      "email": "hello@42na.in",
+      "bio": "Go, Ruby, and 🖤",
+      "databaseId": 253398,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/253398?u=6a7aa5de8f27806c50f18e50e6cd203066bfa528&v=4"
+    },
+    "description": "Design and development guides",
+    "createdAt": "2015-01-11T11:43:16Z",
+    "pushedAt": "2023-09-05T19:03:34Z",
+    "stargazerCount": 2137,
+    "items": []
+  },
+  "kilimchoi/engineering-blogs": {
+    "nameWithOwner": "kilimchoi/engineering-blogs",
+    "owner": {
+      "login": "kilimchoi",
+      "__typename": "User",
+      "name": "Kilim Choi",
+      "email": "",
+      "bio": "",
+      "databaseId": 1356007,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1356007?u=c1ae28679aee148c3e9984e00497968cf419e284&v=4"
+    },
+    "description": "A curated list of engineering blogs",
+    "createdAt": "2015-06-13T18:25:17Z",
+    "pushedAt": "2023-11-28T09:50:28Z",
+    "stargazerCount": 26139,
+    "items": []
+  },
+  "awesome-selfhosted/awesome-selfhosted": {
+    "nameWithOwner": "awesome-selfhosted/awesome-selfhosted",
+    "owner": {
+      "login": "awesome-selfhosted",
+      "__typename": "Organization"
+    },
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "createdAt": "2015-06-01T02:33:17Z",
+    "pushedAt": "2023-11-28T00:40:32Z",
+    "stargazerCount": 157079,
+    "items": []
+  },
+  "DataDaoDe/awesome-foss-apps": {
+    "nameWithOwner": "DataDaoDe/awesome-foss-apps",
+    "owner": {
+      "login": "DataDaoDe",
+      "__typename": "User",
+      "name": "John Faucett",
+      "email": "",
+      "bio": "ML/AI Engineering, Open Learning and Education",
+      "databaseId": 916309,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/916309?u=1ad05880feb601648b9979a2f7e474859ef9bc60&v=4"
+    },
+    "description": "A curated list of awesome production grade free and open source software organized by category",
+    "createdAt": "2015-06-26T20:46:45Z",
+    "pushedAt": "2022-08-13T08:38:21Z",
+    "stargazerCount": 270,
+    "items": []
+  },
+  "ibaaj/awesome-OpenSourcePhotography": {
+    "nameWithOwner": "ibaaj/awesome-OpenSourcePhotography",
+    "owner": {
+      "login": "ibaaj",
+      "__typename": "User",
+      "name": "Ismaïl Baaj",
+      "email": "",
+      "bio": "Computer scientist",
+      "databaseId": 98829,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98829?u=aab6078a90802a81b3204d97bad292ac54022ca6&v=4"
+    },
+    "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
+    "createdAt": "2015-07-20T13:52:29Z",
+    "pushedAt": "2022-03-20T14:24:58Z",
+    "stargazerCount": 497,
+    "items": []
+  },
+  "APA-Technology-Division/urban-and-regional-planning-resources": {
+    "nameWithOwner": "APA-Technology-Division/urban-and-regional-planning-resources",
+    "owner": {
+      "login": "APA-Technology-Division",
+      "__typename": "Organization"
+    },
+    "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
+    "createdAt": "2020-08-26T01:12:17Z",
+    "pushedAt": "2023-11-29T00:44:52Z",
+    "stargazerCount": 187,
+    "items": [
+      {
+        "name": "National Zoning & Land Use Database",
+        "url": "https://github.com/mtmleczko/nzlud/tree/main",
+        "description": "This github project catalogs major metros municipal zoning ordinances in plain text. It can be a useful reference for comparing ordinances or perhaps fine tuning language models."
+      }
+    ]
+  },
+  "CUTR-at-USF/awesome-transit": {
+    "nameWithOwner": "CUTR-at-USF/awesome-transit",
+    "owner": {
+      "login": "CUTR-at-USF",
+      "__typename": "Organization"
+    },
+    "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
+    "createdAt": "2015-08-13T00:38:53Z",
+    "pushedAt": "2023-11-09T18:04:19Z",
+    "stargazerCount": 1105,
+    "items": []
+  },
+  "javierluraschi/awesome-dataviz": {
+    "nameWithOwner": "javierluraschi/awesome-dataviz",
+    "owner": {
+      "login": "javierluraschi",
+      "__typename": "User",
+      "name": "Javier Luraschi",
+      "email": "jluraschi@gmail.com",
+      "bio": "Nextgen Apps at Hal9.\r\n\r\nPreviously RStudio, Microsoft Research, and SAP.",
+      "databaseId": 3478847,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3478847?u=0d33491269646ac70db8d895c826667ab9f3dee3&v=4"
+    },
+    "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
+    "createdAt": "2015-07-21T15:45:28Z",
+    "pushedAt": "2023-09-15T17:28:13Z",
+    "stargazerCount": 3451,
+    "items": []
+  },
+  "mfornos/awesome-microservices": {
+    "nameWithOwner": "mfornos/awesome-microservices",
+    "owner": {
+      "login": "mfornos",
+      "__typename": "User",
+      "name": "Marc Fornós",
+      "email": "marc.fornos@gmail.com",
+      "bio": "",
+      "databaseId": 663840,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/663840?u=ff72c3f093c43e714c347c5cff5e0be149cff832&v=4"
+    },
+    "description": "A curated list of Microservice Architecture related principles and technologies.",
+    "createdAt": "2015-05-03T13:56:04Z",
+    "pushedAt": "2023-11-29T10:04:21Z",
+    "stargazerCount": 12637,
+    "items": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "name": "GoFr",
+        "url": "https://github.com/gofr-dev/gofr",
+        "description": "An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices."
+      },
+      {
+        "name": "Cyclic.sh",
+        "url": "https://app.cyclic.sh/",
+        "description": "Simple serverless platform and dev tools for node.js services with Express.js support."
+      },
+      {
+        "name": "NestJS",
+        "url": "https://docs.nestjs.com/",
+        "description": "A Node.js framework for building efficient and scalable server-side applications with a built-in microservices support."
+      },
+      {
+        "name": "Kestra",
+        "url": "https://github.com/kestra-io/kestra",
+        "description": "Open source microservices event-driven, language-agnostic orchestration and scheduling platform."
+      },
+      {
+        "name": "Zenoh",
+        "url": "https://zenoh.io/",
+        "description": "Pub/sub/query protocol unifying data in motion, data at rest and computations. Efficiently blends traditional pub/sub with geo distributed storage, queries and computations."
+      },
+      {
+        "name": "DIDComm",
+        "url": "https://github.com/decentralized-identity/didcomm-messaging",
+        "description": "Private communication methodology built atop the decentralized design of DIDs."
+      },
+      {
+        "name": "Open RPC",
+        "url": "https://open-rpc.org/",
+        "description": "The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs."
+      },
+      {
+        "name": "RFC7049",
+        "url": "https://tools.ietf.org/html/rfc7049",
+        "description": "Concise Binary Object Representation (CBOR)."
+      },
+      {
+        "name": "Autonomy, Hyperconnectivity, and Residual Causality",
+        "url": "https://doi.org/10.3390/philosophies6040081",
+        "description": "Philosophical introduction to the design of adaptive hyperliminal systems through complexity science theories."
+      }
+    ]
+  },
+  "MunGell/awesome-for-beginners": {
+    "nameWithOwner": "MunGell/awesome-for-beginners",
+    "owner": {
+      "login": "MunGell",
+      "__typename": "User",
+      "name": "Shmavon Gazanchyan",
+      "email": "",
+      "bio": "",
+      "databaseId": 812976,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/812976?v=4"
+    },
+    "description": "A list of awesome beginners-friendly projects.",
+    "createdAt": "2015-10-24T19:53:36Z",
+    "pushedAt": "2023-11-25T08:03:19Z",
+    "stargazerCount": 58754,
+    "items": []
+  },
+  "gamontal/awesome-katas": {
+    "nameWithOwner": "gamontal/awesome-katas",
+    "owner": {
+      "login": "gamontal",
+      "__typename": "User",
+      "name": "Gabe Montalvo",
+      "email": "",
+      "bio": "Gaming the game is Gabe's game.",
+      "databaseId": 12213463,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12213463?u=dbe3856080269c27cc941d79fb50f02e042f1859&v=4"
+    },
+    "description": "A curated list of code katas",
+    "createdAt": "2015-11-27T21:44:03Z",
+    "pushedAt": "2023-11-19T22:56:42Z",
+    "stargazerCount": 2436,
+    "items": []
+  },
+  "drewrwilson/toolsforactivism": {
+    "nameWithOwner": "drewrwilson/toolsforactivism",
+    "owner": {
+      "login": "drewrwilson",
+      "__typename": "User",
+      "name": "Drew Wilson",
+      "email": "",
+      "bio": "public interest computer scientist",
+      "databaseId": 4324656,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4324656?u=d2a7cd16379d5cc94d1efc8aa95d2383a5ae3f5b&v=4"
+    },
+    "description": "growing list of digital tools for activism things",
+    "createdAt": "2015-08-12T14:07:35Z",
+    "pushedAt": "2022-10-11T01:19:14Z",
+    "stargazerCount": 934,
+    "items": []
+  },
+  "unicodeveloper/awesome-opensource-apps": {
+    "nameWithOwner": "unicodeveloper/awesome-opensource-apps",
+    "owner": {
+      "login": "unicodeveloper",
+      "__typename": "User",
+      "name": "Prosper Otemuyiwa",
+      "email": "prosperotemuyiwa@gmail.com",
+      "bio": "Open Source Engineer :fire: :rocket:",
+      "databaseId": 2946769,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2946769?u=92f03012e7777ace3997039d1a424208f0037d94&v=4"
+    },
+    "description": ":house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!",
+    "createdAt": "2016-03-21T16:54:19Z",
+    "pushedAt": "2023-08-08T17:13:52Z",
+    "stargazerCount": 2960,
+    "items": []
+  },
+  "vinjn/awesome-vulkan": {
+    "nameWithOwner": "vinjn/awesome-vulkan",
+    "owner": {
+      "login": "vinjn",
+      "__typename": "User",
+      "name": "Jing Zhang",
+      "email": "",
+      "bio": "Engineer @NVIDIA-Omniverse, passionate about Visual Computing",
+      "databaseId": 558657,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/558657?u=3ccb21435b34f45adcd1a2971d62b99bcb3dc6e1&v=4"
+    },
+    "description": "Awesome Vulkan ecosystem",
+    "createdAt": "2016-02-16T14:50:03Z",
+    "pushedAt": "2023-11-11T01:53:59Z",
+    "stargazerCount": 3017,
+    "items": []
+  },
+  "danielecook/Awesome-Bioinformatics": {
+    "nameWithOwner": "danielecook/Awesome-Bioinformatics",
+    "owner": {
+      "login": "danielecook",
+      "__typename": "User",
+      "name": "Daniel E Cook",
+      "email": "Danielecook@gmail.com",
+      "bio": "\r\n    Hello\r\n",
+      "databaseId": 1536935,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1536935?v=4"
+    },
+    "description": "A curated list of awesome Bioinformatics libraries and software.",
+    "createdAt": "2014-08-27T00:59:21Z",
+    "pushedAt": "2023-08-15T09:19:34Z",
+    "stargazerCount": 2672,
+    "items": []
+  },
+  "dastergon/awesome-sre": {
+    "nameWithOwner": "dastergon/awesome-sre",
+    "owner": {
+      "login": "dastergon",
+      "__typename": "User",
+      "name": "Pavlos Ratis",
+      "email": "dastergon@gmail.com",
+      "bio": "Site Reliability Engineer",
+      "databaseId": 1192342,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1192342?u=0b6ecfef0b7275759d7a075d7e4541c6becd4023&v=4"
+    },
+    "description": "A curated list of Site Reliability and Production Engineering resources.",
+    "createdAt": "2016-04-12T23:06:20Z",
+    "pushedAt": "2023-09-28T20:16:20Z",
+    "stargazerCount": 10710,
+    "items": []
+  },
+  "bvolpato/awesome-userscripts": {
+    "nameWithOwner": "awesome-scripts/awesome-userscripts",
+    "owner": {
+      "login": "awesome-scripts",
+      "__typename": "Organization"
+    },
+    "description": "📖  A curated list of Awesome Userscripts.",
+    "createdAt": "2016-05-30T14:59:32Z",
+    "pushedAt": "2023-11-28T17:41:11Z",
+    "stargazerCount": 1329,
+    "items": [
+      {
+        "name": "GitHub Commit Diff",
+        "url": "https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme",
+        "description": "Adds button to show diff (or patch) file for commit."
+      },
+      {
+        "name": "GitHub News Feed Filter",
+        "url": "https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme",
+        "description": "Add filters for Github homepage news feed items."
+      },
+      {
+        "name": "GitHub Pages Linker",
+        "url": "https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme",
+        "description": "Add a link to Github Pages (gh-pages) when available."
+      },
+      {
+        "name": "GitHub Pull Request From Link",
+        "url": "https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme",
+        "description": "Make pull request branches linkable."
+      },
+      {
+        "name": "GitHub Reply Comments",
+        "url": "https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme",
+        "description": "Easy reply to Github comments."
+      },
+      {
+        "name": "GitHub Skip Delete Repo Verification",
+        "url": "https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification",
+        "description": "Skips the verification step when deleting a repository."
+      }
+    ]
+  },
+  "heynickc/awesome-ddd": {
+    "nameWithOwner": "heynickc/awesome-ddd",
+    "owner": {
+      "login": "heynickc",
+      "__typename": "User",
+      "name": "Nick Chamberlain",
+      "email": "nick.chamberlain.jr@gmail.com",
+      "bio": null,
+      "databaseId": 1671359,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1671359?u=68812ceb55e2a2ae8efa1d219008a72bf0cf2609&v=4"
+    },
+    "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+    "createdAt": "2016-08-31T14:14:50Z",
+    "pushedAt": "2023-11-15T23:16:04Z",
+    "stargazerCount": 10407,
+    "items": []
+  },
+  "woop/awesome-quantified-self": {
+    "nameWithOwner": "woop/awesome-quantified-self",
+    "owner": {
+      "login": "woop",
+      "__typename": "User",
+      "name": "Willem Pienaar",
+      "email": "",
+      "bio": "",
+      "databaseId": 6728866,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6728866?u=3bc97485d7602a084db2e348bdbb4b1ea7d73e98&v=4"
+    },
+    "description": ":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",
+    "createdAt": "2015-06-10T15:56:12Z",
+    "pushedAt": "2023-10-18T16:26:55Z",
+    "stargazerCount": 2036,
+    "items": []
+  },
+  "terkelg/awesome-creative-coding": {
+    "nameWithOwner": "terkelg/awesome-creative-coding",
+    "owner": {
+      "login": "terkelg",
+      "__typename": "User",
+      "name": "Terkel",
+      "email": "terkel@terkel.com",
+      "bio": "Internet enthusiast, technologist and maker of digital ephemera.",
+      "databaseId": 2302254,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2302254?u=0d7af66672de220c83d6e4d6d94a88aeaa1bc8f7&v=4"
+    },
+    "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+    "createdAt": "2016-11-01T23:50:27Z",
+    "pushedAt": "2023-11-27T17:40:08Z",
+    "stargazerCount": 11693,
+    "items": []
+  },
+  "filipecalegario/awesome-generative-deep-art": {
+    "nameWithOwner": "filipecalegario/awesome-generative-ai",
+    "owner": {
+      "login": "filipecalegario",
+      "__typename": "User",
+      "name": "Filipe Calegario",
+      "email": "fcac@cin.ufpe.br",
+      "bio": "professor at Centro de Informática, UFPE, Brazil.",
+      "databaseId": 299057,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4"
+    },
+    "description": "A curated list of Generative AI tools, works, models, and references",
+    "createdAt": "2021-07-19T15:11:51Z",
+    "pushedAt": "2023-11-28T22:16:03Z",
+    "stargazerCount": 1527,
+    "items": [
+      {
+        "name": "UX for AI: How to Power Human Experiences with AI - Design Tool Tuesday - YouTube",
+        "url": "https://www.youtube.com/watch?v=50Of7_lubN4",
+        "description": "Design Tool Tuesday - YouTube"
+      },
+      {
+        "name": "Behind-the-Design: Meet Copilot by Microsoft Design",
+        "url": "https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70"
+      },
+      {
+        "name": "Automatic Hallucination detection with SelfCheckGPT NLI",
+        "url": "https://huggingface.co/blog/dhuynh95/automatic-hallucination-detection"
+      },
+      {
+        "name": "StreamingLLM gives language models unlimited context",
+        "url": "https://bdtechtalks.com/2023/11/27/streamingllm/"
+      }
+    ]
+  },
+  "aviaryan/awesome-no-login-web-apps": {
+    "nameWithOwner": "aviaryan/awesome-no-login-web-apps",
+    "owner": {
+      "login": "aviaryan",
+      "__typename": "User",
+      "name": "Avi Aryan",
+      "email": "",
+      "bio": "Senior Software Engineer at @toptal, Past GSoC Mentor",
+      "databaseId": 4047597,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4047597?u=d369a027cc44c560aae8e6702d06f4b9b60e63a6&v=4"
+    },
+    "description": "🚀 Awesome (free) web apps that work without login",
+    "createdAt": "2016-12-06T10:54:01Z",
+    "pushedAt": "2023-08-23T07:34:07Z",
+    "stargazerCount": 2319,
+    "items": []
+  },
+  "johnjago/awesome-free-software": {
+    "nameWithOwner": "johnjago/awesome-free-software",
+    "owner": {
+      "login": "johnjago",
+      "__typename": "User",
+      "name": "John Jago",
+      "email": "jc@johnjago.com",
+      "bio": "",
+      "databaseId": 19847480,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19847480?u=d1ff8412c459ff6680b89650e3a47f8e35364500&v=4"
+    },
+    "description": "Curated list of free as in freedom software",
+    "createdAt": "2016-09-30T03:26:14Z",
+    "pushedAt": "2023-10-03T13:57:58Z",
+    "stargazerCount": 1440,
+    "items": []
+  },
+  "roaldnefs/awesome-prometheus": {
+    "nameWithOwner": "roaldnefs/awesome-prometheus",
+    "owner": {
+      "login": "roaldnefs",
+      "__typename": "User",
+      "name": "Roald Nefs",
+      "email": "info@roaldnefs.com",
+      "bio": "",
+      "databaseId": 6523325,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6523325?u=f078d45d282b955a915bac827daa8a6ddac96dfe&v=4"
+    },
+    "description": "A curated list of awesome Prometheus resources, projects and tools.",
+    "createdAt": "2017-01-09T19:46:53Z",
+    "pushedAt": "2023-09-16T09:08:30Z",
+    "stargazerCount": 1534,
+    "items": []
+  },
+  "markusschanta/awesome-jupyter": {
+    "nameWithOwner": "markusschanta/awesome-jupyter",
+    "owner": {
+      "login": "markusschanta",
+      "__typename": "User",
+      "name": "Markus Schanta",
+      "email": "",
+      "bio": "“Measure what is measurable, and make measurable what is not so” ― Galileo Galilei",
+      "databaseId": 254488,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254488?v=4"
+    },
+    "description": "A curated list of awesome Jupyter projects, libraries and resources",
+    "createdAt": "2017-08-27T22:00:02Z",
+    "pushedAt": "2023-11-28T23:58:00Z",
+    "stargazerCount": 3581,
+    "items": []
+  },
+  "krzemienski/awesome-video": {
+    "nameWithOwner": "krzemienski/awesome-video",
+    "owner": {
+      "login": "krzemienski",
+      "__typename": "User",
+      "name": "Nick Krzemienski",
+      "email": "",
+      "bio": "Video Innovations @fubotv ",
+      "databaseId": 16410101,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16410101?u=21fe55dd48622d0286ee34b1d9186d816bf30a08&v=4"
+    },
+    "description": " A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.",
+    "createdAt": "2019-01-02T19:58:18Z",
+    "pushedAt": "2023-11-02T04:02:00Z",
+    "stargazerCount": 1349,
+    "items": []
+  },
+  "nschloe/awesome-scientific-computing": {
+    "nameWithOwner": "nschloe/awesome-scientific-computing",
+    "owner": {
+      "login": "nschloe",
+      "__typename": "User",
+      "name": "Nico Schlömer",
+      "email": "nico.schloemer@gmail.com",
+      "bio": "Mathematics, numerical analysis, scientific computing, Python.\r\n\r\nAlways interested in new problems.",
+      "databaseId": 181628,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/181628?v=4"
+    },
+    "description": ":sunglasses: Curated list of awesome software for numerical analysis and scientific computing",
+    "createdAt": "2018-05-07T19:49:42Z",
+    "pushedAt": "2023-10-13T09:12:41Z",
+    "stargazerCount": 1148,
+    "items": []
+  },
+  "simskij/awesome-software-architecture": {
+    "nameWithOwner": "simskij/awesome-software-architecture",
+    "owner": {
+      "login": "simskij",
+      "__typename": "User",
+      "name": "Simon Aronsson",
+      "email": "simme@arcticbit.se",
+      "bio": "making 💻 go 💥",
+      "databaseId": 1596025,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1596025?u=74e7ee51b2221f820321b901e0fd5d7a0dcabdd0&v=4"
+    },
+    "description": "A curated list of resources on software architecture",
+    "createdAt": "2018-12-25T21:53:14Z",
+    "pushedAt": "2023-08-31T09:17:29Z",
+    "stargazerCount": 2076,
+    "items": []
+  },
+  "stackshareio/awesome-stacks": {
+    "nameWithOwner": "stackshareio/awesome-stacks",
+    "owner": {
+      "login": "stackshareio",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of tech stacks for building different applications & features",
+    "createdAt": "2019-03-05T22:05:39Z",
+    "pushedAt": "2023-11-09T06:34:33Z",
+    "stargazerCount": 3202,
+    "items": []
+  },
+  "davisonio/awesome-irc": {
+    "nameWithOwner": "davisonio/awesome-irc",
+    "owner": {
+      "login": "davisonio",
+      "__typename": "User",
+      "name": "Craig Davison",
+      "email": "craig@davison.io",
+      "bio": "",
+      "databaseId": 5341072,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5341072?u=6e5d7844bf3ebdf0694b29117fbaf66d718291e5&v=4"
+    },
+    "description": "A curated list of awesome IRC resources.",
+    "createdAt": "2016-01-16T20:43:40Z",
+    "pushedAt": "2023-10-22T14:15:04Z",
+    "stargazerCount": 793,
+    "items": []
+  },
+  "gruhn/awesome-naming": {
+    "nameWithOwner": "gruhn/awesome-naming",
+    "owner": {
+      "login": "gruhn",
+      "__typename": "User",
+      "name": "Niklas Gruhn",
+      "email": "",
+      "bio": "",
+      "databaseId": 26570572,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26570572?u=982516706890ddc92e0929a8825d1cb32c54ce3b&v=4"
+    },
+    "description": "A curated list for when naming things is done right.",
+    "createdAt": "2019-10-10T17:10:14Z",
+    "pushedAt": "2023-11-03T14:35:03Z",
+    "stargazerCount": 1209,
+    "items": []
+  },
+  "mourarthur/awesome-credit-modeling": {
+    "nameWithOwner": "mourarthur/awesome-credit-modeling",
+    "owner": {
+      "login": "mourarthur",
+      "__typename": "User",
+      "name": "Arthur Moura",
+      "email": "",
+      "bio": "",
+      "databaseId": 57960694,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57960694?v=4"
+    },
+    "description": "A collection of awesome papers, articles and various resources on credit and credit risk modeling",
+    "createdAt": "2020-05-06T13:11:29Z",
+    "pushedAt": "2021-05-15T19:53:34Z",
+    "stargazerCount": 101,
+    "items": []
+  },
+  "ansible-community/awesome-ansible": {
+    "nameWithOwner": "ansible-community/awesome-ansible",
+    "owner": {
+      "login": "ansible-community",
+      "__typename": "Organization"
+    },
+    "description": "Awesome Ansible List",
+    "createdAt": "2017-11-20T11:07:14Z",
+    "pushedAt": "2023-11-23T16:21:27Z",
+    "stargazerCount": 1100,
+    "items": []
+  },
+  "msub2/awesome-webxr": {
+    "nameWithOwner": "msub2/awesome-webxr",
+    "owner": {
+      "login": "msub2",
+      "__typename": "User",
+      "name": "Daniel Adams",
+      "email": "",
+      "bio": "/Web(?:\\w*)/ Developer.\r\nI do stuff on the internet.\r\nCurrently working on too many projects, always.\r\nCreator of the WebXR Discord: https://discord.gg/webxr",
+      "databaseId": 70986246,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70986246?u=7faf72c827225ac5699f3f920ec1a0a7026bc557&v=4"
+    },
+    "description": "All things WebXR.",
+    "createdAt": "2021-08-03T19:32:52Z",
+    "pushedAt": "2023-11-20T20:29:31Z",
+    "stargazerCount": 162,
+    "items": []
+  },
+  "inoue0426/awesome-computational-biology": {
+    "nameWithOwner": "inoue0426/awesome-computational-biology",
+    "owner": {
+      "login": "inoue0426",
+      "__typename": "User",
+      "name": "Yoshitaka Inoue",
+      "email": "",
+      "bio": "PhD Student at UMN.",
+      "databaseId": 8393063,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8393063?u=f362509118f0892b6800edf208ed3ce30e1c4abf&v=4"
+    },
+    "description": "Awesome list of computational biology.",
+    "createdAt": "2022-02-15T23:46:16Z",
+    "pushedAt": "2023-11-28T23:11:08Z",
+    "stargazerCount": 43,
+    "items": [
+      {
+        "name": "Drug Repurposing Hub",
+        "url": "https://repo-hub.broadinstitute.org/repurposing#download-data",
+        "description": "Collections of drug repurposing data containing drug, moa, target etc."
+      },
+      {
+        "name": "AlphaFold Protein Structure Database",
+        "url": "https://alphafold.ebi.ac.uk/api-docs",
+        "description": "Database of 3D protein structures."
+      },
+      {
+        "name": "STRING",
+        "url": "https://string-db.org/",
+        "description": "Protein-Protein Interaction Networks for several organisms."
+      },
+      {
+        "name": "BioGRID",
+        "url": "https://thebiogrid.org/",
+        "description": "Database of Protein, Genetic and Chemical Interactions."
+      },
+      {
+        "name": "HIPPIE",
+        "url": "http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/",
+        "description": "Human Protein-Protein Interaction database."
+      }
+    ]
+  },
+  "AboutRSS/ALL-about-RSS": {
+    "nameWithOwner": "AboutRSS/ALL-about-RSS",
+    "owner": {
+      "login": "AboutRSS",
+      "__typename": "User",
+      "name": "About RSS",
+      "email": "",
+      "bio": "ALL about RSS.",
+      "databaseId": 63651465,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63651465?u=7daeb5cdeb52b452cad29d135ce36eb49986310e&v=4"
+    },
+    "description": "A list of RSS related stuff: tools, services, communities and tutorials, etc.",
+    "createdAt": "2020-04-14T13:27:11Z",
+    "pushedAt": "2023-11-23T10:07:03Z",
+    "stargazerCount": 3420,
+    "items": []
+  },
+  "mendel5/alternative-front-ends": {
+    "nameWithOwner": "mendel5/alternative-front-ends",
+    "owner": {
+      "login": "mendel5",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": "Profile pic: Me and the boys after finishing our project",
+      "databaseId": 60322520,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60322520?u=5448c6821b023918712b89432bfb4fff9abb5a86&v=4"
+    },
+    "description": "Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)",
+    "createdAt": "2020-04-10T16:26:44Z",
+    "pushedAt": "2023-10-29T11:22:19Z",
+    "stargazerCount": 5440,
+    "items": []
+  },
+  "ai-collection/ai-collection": {
+    "nameWithOwner": "ai-collection/ai-collection",
+    "owner": {
+      "login": "ai-collection",
+      "__typename": "Organization"
+    },
+    "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+    "createdAt": "2023-01-03T06:02:03Z",
+    "pushedAt": "2023-11-26T13:18:18Z",
+    "stargazerCount": 5845,
+    "items": []
+  },
+  "public-apis/public-apis": {
+    "nameWithOwner": "public-apis/public-apis",
+    "owner": {
+      "login": "public-apis",
+      "__typename": "Organization"
+    },
+    "description": "A collective list of free APIs",
+    "createdAt": "2016-03-20T23:49:42Z",
+    "pushedAt": "2023-11-28T02:03:24Z",
+    "stargazerCount": 269965,
+    "items": []
+  },
+  "KotlinBy/awesome-kotlin": {
+    "nameWithOwner": "KotlinBy/awesome-kotlin",
+    "owner": {
+      "login": "KotlinBy",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java. ",
+    "createdAt": "2015-08-17T23:29:55Z",
+    "pushedAt": "2023-11-28T13:45:53Z",
+    "stargazerCount": 10669,
+    "items": []
+  },
+  "therebelrobot/awesome-workshopper": {
+    "nameWithOwner": "therebelrobot/awesome-workshopper",
+    "owner": {
+      "login": "therebelrobot",
+      "__typename": "User",
+      "name": "Aster Haven",
+      "email": "asterhaven@pm.me",
+      "bio": "Senior Software Engineer, formerly @NYTimes, @medium, @segmentio\r\n\r\n Maker of web things, amateur gardener and musician. ",
+      "databaseId": 679178,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/679178?u=59c4569e8e66ba609c1b590c34d81009e9312c13&v=4"
+    },
+    "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
+    "createdAt": "2015-02-24T15:58:04Z",
+    "pushedAt": "2021-03-03T04:05:01Z",
+    "stargazerCount": 1638,
+    "items": []
+  },
+  "lnishan/awesome-competitive-programming": {
+    "nameWithOwner": "lnishan/awesome-competitive-programming",
+    "owner": {
+      "login": "lnishan",
+      "__typename": "User",
+      "name": "Jasmine Chen",
+      "email": "jasmine.chen.cs@gmail.com",
+      "bio": "Pursuing dreams, one step at a time.",
+      "databaseId": 6169473,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6169473?u=5cd0b981f7b97a78be9e58a29ab6734c476cdafa&v=4"
+    },
+    "description": ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
+    "createdAt": "2015-11-20T16:11:51Z",
+    "pushedAt": "2023-06-18T19:07:03Z",
+    "stargazerCount": 11706,
+    "items": []
+  },
+  "sdnds-tw/awesome-sdn": {
+    "nameWithOwner": "sdnds-tw/awesome-sdn",
+    "owner": {
+      "login": "sdnds-tw",
+      "__typename": "Organization"
+    },
+    "description": "A awesome list about Software Defined Network (SDN)",
+    "createdAt": "2016-01-29T07:14:25Z",
+    "pushedAt": "2022-08-16T13:45:58Z",
+    "stargazerCount": 1269,
+    "items": []
+  },
+  "caesar0301/awesome-pcaptools": {
+    "nameWithOwner": "caesar0301/awesome-pcaptools",
+    "owner": {
+      "login": "caesar0301",
+      "__typename": "User",
+      "name": "陈夏明",
+      "email": "chenxm35@gmail.com",
+      "bio": "Cognitive computing and AGI researcher @Bai-Yu-Lan  | Engineer @aliyun |  Ph.D @SJTU ",
+      "databaseId": 499254,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/499254?u=29eb2ef8c7c73f9b26e16924eb4bb06a43e12b46&v=4"
+    },
+    "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
+    "createdAt": "2012-05-23T03:57:49Z",
+    "pushedAt": "2023-09-11T22:53:19Z",
+    "stargazerCount": 2884,
+    "items": []
+  },
+  "sindresorhus/awesome-nodejs": {
+    "nameWithOwner": "sindresorhus/awesome-nodejs",
+    "owner": {
+      "login": "sindresorhus",
+      "__typename": "User",
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "bio": "Full-Time Open-Sourcerer. Focuses on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages. Likes unicorns.",
+      "databaseId": 170270,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4"
+    },
+    "description": ":zap: Delightful Node.js packages and resources",
+    "createdAt": "2014-07-11T13:35:34Z",
+    "pushedAt": "2023-11-10T22:03:44Z",
+    "stargazerCount": 53706,
+    "items": []
+  },
+  "bcoe/awesome-cross-platform-nodejs": {
+    "nameWithOwner": "bcoe/awesome-cross-platform-nodejs",
+    "owner": {
+      "login": "bcoe",
+      "__typename": "User",
+      "name": "Benjamin E. Coe",
+      "email": "bencoe@google.com",
+      "bio": "Co-founded Attachments.me, early employee at npm Inc. Maintains yargs, Istanbul, contributes to Node.js. Currently cloud at Google.",
+      "databaseId": 194609,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/194609?u=b93ad3fe9c2bc1482c8fb8d26e90b3b4aabb65b0&v=4"
+    },
+    "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
+    "createdAt": "2015-12-20T18:25:05Z",
+    "pushedAt": "2023-02-07T20:03:47Z",
+    "stargazerCount": 1117,
+    "items": []
+  },
+  "dypsilon/frontend-dev-bookmarks": {
+    "nameWithOwner": "dypsilon/frontend-dev-bookmarks",
+    "owner": {
+      "login": "dypsilon",
+      "__typename": "User",
+      "name": "Tim Navrotskyy",
+      "email": "",
+      "bio": "Frontend Developer",
+      "databaseId": 425735,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/425735?v=4"
+    },
+    "description": "Manually curated collection of resources for frontend web developers.",
+    "createdAt": "2013-06-22T13:23:55Z",
+    "pushedAt": "2023-10-31T17:21:51Z",
+    "stargazerCount": 39717,
+    "items": []
+  },
+  "vsouza/awesome-ios": {
+    "nameWithOwner": "vsouza/awesome-ios",
+    "owner": {
+      "login": "vsouza",
+      "__typename": "User",
+      "name": "Vinicius Souza",
+      "email": "hi@vsouza.com",
+      "bio": "Guitarist, ZCPE, Gopher, creator of Awesome iOS and Software Engineer at @globocom ",
+      "databaseId": 484656,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/484656?u=9f71c7757f341dd0ba129f2d159857578b0aac52&v=4"
+    },
+    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",
+    "createdAt": "2014-07-10T16:03:45Z",
+    "pushedAt": "2023-11-12T13:40:05Z",
+    "stargazerCount": 44486,
+    "items": []
+  },
+  "JStumpp/awesome-android": {
+    "nameWithOwner": "JStumpp/awesome-android",
+    "owner": {
+      "login": "JStumpp",
+      "__typename": "User",
+      "name": "Jürgen Stumpp",
+      "email": "",
+      "bio": "",
+      "databaseId": 4624747,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4624747?u=ab3a710bda4c10e4ea5ef104c64519a7d5de1c42&v=4"
+    },
+    "description": "A curated list of awesome Android packages and resources.",
+    "createdAt": "2014-07-13T01:39:20Z",
+    "pushedAt": "2023-09-20T18:58:21Z",
+    "stargazerCount": 10325,
+    "items": []
+  },
+  "sindresorhus/awesome-electron": {
+    "nameWithOwner": "sindresorhus/awesome-electron",
+    "owner": {
+      "login": "sindresorhus",
+      "__typename": "User",
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "bio": "Full-Time Open-Sourcerer. Focuses on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages. Likes unicorns.",
+      "databaseId": 170270,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4"
+    },
+    "description": "Useful resources for creating apps with Electron",
+    "createdAt": "2015-04-23T11:48:53Z",
+    "pushedAt": "2023-10-25T03:18:34Z",
+    "stargazerCount": 24864,
+    "items": []
+  },
+  "jondot/awesome-react-native": {
+    "nameWithOwner": "jondot/awesome-react-native",
+    "owner": {
+      "login": "jondot",
+      "__typename": "User",
+      "name": "Dotan J. Nahum",
+      "email": "dn@rng0.io",
+      "bio": "",
+      "databaseId": 83390,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83390?v=4"
+    },
+    "description": "Awesome React Native components, news, tools, and learning material!",
+    "createdAt": "2015-03-26T19:58:06Z",
+    "pushedAt": "2023-10-20T05:12:24Z",
+    "stargazerCount": 33569,
+    "items": []
+  },
+  "inputsh/awesome-linux": {
+    "nameWithOwner": "inputsh/awesome-linux",
+    "owner": {
+      "login": "inputsh",
+      "__typename": "User",
+      "name": "Aleksandar Todorović",
+      "email": "aleksandar@sigurnost.online",
+      "bio": "\r\n    Utilizes technology for common good. Quantified self.\r\n",
+      "databaseId": 4890548,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?u=0cab1d3e57483600bc41342a3ffd0e172c31def7&v=4"
+    },
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:",
+    "createdAt": "2015-06-21T15:35:53Z",
+    "pushedAt": "2023-02-04T17:02:53Z",
+    "stargazerCount": 4004,
+    "items": []
+  },
+  "zoidbergwill/awesome-ebpf": {
+    "nameWithOwner": "zoidbergwill/awesome-ebpf",
+    "owner": {
+      "login": "zoidbergwill",
+      "__typename": "User",
+      "name": "Zoid",
+      "email": "",
+      "bio": "I herd cats into containers, and used to help on the peripheral of @CTPUG and @DevOpsCapeTown",
+      "databaseId": 2572493,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2572493?v=4"
+    },
+    "description": "A curated list of awesome projects related to eBPF.",
+    "createdAt": "2017-11-05T22:46:05Z",
+    "pushedAt": "2023-11-13T06:53:18Z",
+    "stargazerCount": 3564,
+    "items": []
+  },
+  "jaywcjlove/awesome-mac": {
+    "nameWithOwner": "jaywcjlove/awesome-mac",
+    "owner": {
+      "login": "jaywcjlove",
+      "__typename": "User",
+      "name": "小弟调调",
+      "email": "kennyiseeyou@gmail.com",
+      "bio": "",
+      "databaseId": 1680273,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1680273?u=4471b74deb9973096418a93960c664c5ea3bd159&v=4"
+    },
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "createdAt": "2016-07-17T15:33:47Z",
+    "pushedAt": "2023-11-28T06:20:50Z",
+    "stargazerCount": 65360,
+    "items": []
+  },
+  "serhii-londar/open-source-mac-os-apps": {
+    "nameWithOwner": "serhii-londar/open-source-mac-os-apps",
+    "owner": {
+      "login": "serhii-londar",
+      "__typename": "User",
+      "name": "Serhii Londar",
+      "email": "serhii.londar@gmail.com",
+      "bio": "🇺🇦",
+      "databaseId": 15808174,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15808174?u=910f868b94d0172237672c5e6e098392d32e02d5&v=4"
+    },
+    "description": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
+    "createdAt": "2017-11-03T02:35:33Z",
+    "pushedAt": "2023-11-28T04:16:42Z",
+    "stargazerCount": 37702,
+    "items": []
+  },
+  "mailtoharshit/awesome-salesforce": {
+    "nameWithOwner": "mailtoharshit/awesome-salesforce",
+    "owner": {
+      "login": "mailtoharshit",
+      "__typename": "User",
+      "name": "Harshit Pandey",
+      "email": "mailtoharshit@gmail.com",
+      "bio": "┈╭━━━━━━━━━━━╮┈ ┈┃╭━━━╮┊╭━━━╮┃┈ ╭┫┃┈🦄┈┃┃┈🦄┈┃┣╮ ┃┃╰━━━╯┊╰━━━╯┃┃ ╰┫╭━╮╰━━━╯╭━╮┣╯ ┈┃┃┣┳┳┳┳┳┳┳┫┃┃┈ ┈┃┃╰┻┻┻┻┻┻┻╯┃┃┈ ┈╰━━━━━━━━━━━╯┈",
+      "databaseId": 453090,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/453090?u=194f6a7c6b210917ef6604676fe5c2752d73b0c7&v=4"
+    },
+    "description": "A curated list of delightful Salesforce Platform Resources",
+    "createdAt": "2015-07-29T04:31:26Z",
+    "pushedAt": "2023-07-20T13:55:57Z",
+    "stargazerCount": 680,
+    "items": []
+  },
+  "donnemartin/awesome-aws": {
+    "nameWithOwner": "donnemartin/awesome-aws",
+    "owner": {
+      "login": "donnemartin",
+      "__typename": "User",
+      "name": "Donne Martin",
+      "email": "donne.martin@gmail.com",
+      "bio": "Tech Lead @facebook",
+      "databaseId": 5458997,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5458997?u=f1007b583e55e7ccfb6ccf0e200051156112dd9b&v=4"
+    },
+    "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
+    "createdAt": "2015-10-12T12:02:47Z",
+    "pushedAt": "2023-10-24T00:23:30Z",
+    "stargazerCount": 11828,
+    "items": []
+  },
+  "Awesome-Windows/Awesome": {
+    "nameWithOwner": "Awesome-Windows/Awesome",
+    "owner": {
+      "login": "Awesome-Windows",
+      "__typename": "Organization"
+    },
+    "description": ":computer: 🎉 An awesome & curated list of best applications and tools for Windows.",
+    "createdAt": "2016-05-30T17:27:35Z",
+    "pushedAt": "2023-10-16T08:21:03Z",
+    "stargazerCount": 24431,
+    "items": []
+  },
+  "ipfs/awesome-ipfs": {
+    "nameWithOwner": "ipfs/awesome-ipfs",
+    "owner": {
+      "login": "ipfs",
+      "__typename": "Organization"
+    },
+    "description": "Community list of awesome projects, apps, tools, and services related to IPFS.",
+    "createdAt": "2015-10-14T17:29:46Z",
+    "pushedAt": "2023-11-28T12:32:10Z",
+    "stargazerCount": 4132,
+    "items": [
+      {
+        "name": "QuickNode",
+        "url": "https://www.quicknode.com/ipfs",
+        "description": "IPFS gateways and pinning"
+      }
+    ]
+  },
+  "thibmaek/awesome-raspberry-pi": {
+    "nameWithOwner": "thibmaek/awesome-raspberry-pi",
+    "owner": {
+      "login": "thibmaek",
+      "__typename": "User",
+      "name": "Thibault Maekelbergh",
+      "email": "",
+      "bio": "Engineering Lead @inthepocket \r\n\r\nPreviously @devinekask , @edenspiekermann  , @nephroflow\r\n",
+      "databaseId": 6213695,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6213695?v=4"
+    },
+    "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
+    "createdAt": "2016-09-16T13:05:57Z",
+    "pushedAt": "2023-11-16T12:29:52Z",
+    "stargazerCount": 12065,
+    "items": []
+  },
+  "JesseTG/awesome-qt": {
+    "nameWithOwner": "JesseTG/awesome-qt",
+    "owner": {
+      "login": "JesseTG",
+      "__typename": "User",
+      "name": "Jesse Talavera-Greenberg",
+      "email": "jesse@jesse.tg",
+      "bio": "",
+      "databaseId": 1175189,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1175189?u=a1f3f8629febfc0cd51dbbed078e4b53aa7e871a&v=4"
+    },
+    "description": "A curated list of awesome tools, libraries, and resources for the Qt framework.",
+    "createdAt": "2016-08-13T21:59:17Z",
+    "pushedAt": "2022-05-02T21:07:43Z",
+    "stargazerCount": 1255,
+    "items": []
+  },
+  "quozd/awesome-dotnet": {
+    "nameWithOwner": "quozd/awesome-dotnet",
+    "owner": {
+      "login": "quozd",
+      "__typename": "User",
+      "name": "Vitali Fokin",
+      "email": "vitali.fokin@gmail.com",
+      "bio": "",
+      "databaseId": 2129162,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2129162?u=80c6f42850cbc60bcf2b72f4bd99a0b5ab8e70f7&v=4"
+    },
+    "description": "A collection of awesome .NET libraries, tools, frameworks and software",
+    "createdAt": "2014-07-16T09:32:12Z",
+    "pushedAt": "2023-11-27T02:07:14Z",
+    "stargazerCount": 17606,
+    "items": []
+  },
+  "thangchung/awesome-dotnet-core": {
+    "nameWithOwner": "thangchung/awesome-dotnet-core",
+    "owner": {
+      "login": "thangchung",
+      "__typename": "User",
+      "name": "Thang Chung",
+      "email": "",
+      "bio": "Cloud-native developer and architect. Microsoft Azure MVP",
+      "databaseId": 422341,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/422341?u=b24af4c3b730fe4554fac2408390b646294facdc&v=4"
+    },
+    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",
+    "createdAt": "2016-03-17T03:52:09Z",
+    "pushedAt": "2023-11-10T10:20:37Z",
+    "stargazerCount": 18653,
+    "items": []
+  },
+  "ironcev/awesome-roslyn": {
+    "nameWithOwner": "ironcev/awesome-roslyn",
+    "owner": {
+      "login": "ironcev",
+      "__typename": "User",
+      "name": "Igor Rončević",
+      "email": "ironcev@hotmail.com",
+      "bio": "I ❤ programming. In it, I feel most creative.",
+      "databaseId": 4142833,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4142833?v=4"
+    },
+    "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
+    "createdAt": "2018-04-14T00:15:14Z",
+    "pushedAt": "2023-10-15T17:26:59Z",
+    "stargazerCount": 609,
+    "items": []
+  },
+  "miguelmota/awesome-amazon-alexa": {
+    "nameWithOwner": "miguelmota/awesome-amazon-alexa",
+    "owner": {
+      "login": "miguelmota",
+      "__typename": "User",
+      "name": "miguel",
+      "email": "",
+      "bio": "@hop-protocol #ethereum #defi",
+      "databaseId": 168240,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/168240?u=ce31c78ee7de6cdc354ab2b51d908b5128cb3017&v=4"
+    },
+    "description": "🗣Curated list of awesome resources for the Amazon Alexa platform.",
+    "createdAt": "2015-10-24T10:02:07Z",
+    "pushedAt": "2021-05-05T18:38:39Z",
+    "stargazerCount": 561,
+    "items": []
+  },
+  "frenck/awesome-home-assistant": {
+    "nameWithOwner": "frenck/awesome-home-assistant",
+    "owner": {
+      "login": "frenck",
+      "__typename": "User",
+      "name": "Franck Nijhof",
+      "email": "frenck@frenck.dev",
+      "bio": "A Human. Being. Him/He. Dad. Open Sourcerer. @home-assistant dev. Passionate. Dedicated. Life Motto: Make a positive difference every single day❤️ Be the change",
+      "databaseId": 195327,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/195327?u=ee9a03c6506752549a6550180eea97e67ecc8835&v=4"
+    },
+    "description": "A curated list of amazingly awesome Home Assistant resources.",
+    "createdAt": "2018-07-30T17:48:40Z",
+    "pushedAt": "2023-11-27T06:46:06Z",
+    "stargazerCount": 5224,
+    "items": []
+  },
+  "fkromer/awesome-ros2": {
+    "nameWithOwner": "fkromer/awesome-ros2",
+    "owner": {
+      "login": "fkromer",
+      "__typename": "User",
+      "name": "Florian Kromer",
+      "email": "kromer-florian@protonmail.com",
+      "bio": "System architect, software architect/developer, startup accelerator... swiss army knife.",
+      "databaseId": 10199742,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10199742?u=9fcd9123bdfbc641cf1fa18c7a6201da6d163f41&v=4"
+    },
+    "description": "The Robot Operating System Version 2.0 is awesome!",
+    "createdAt": "2017-10-02T08:50:00Z",
+    "pushedAt": "2023-08-18T07:40:50Z",
+    "stargazerCount": 1448,
+    "items": []
+  },
+  "agucova/awesome-esp": {
+    "nameWithOwner": "agucova/awesome-esp",
+    "owner": {
+      "login": "agucova",
+      "__typename": "User",
+      "name": "Agustín Covarrubias",
+      "email": "gh@agucova.dev",
+      "bio": "I do a bit of everything, but nothing especially well.",
+      "databaseId": 4694408,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4694408?u=be8965d3804213365821f977c93cee34b81fdeee&v=4"
+    },
+    "description": "📶 A curated list of awesome ESP8266/32 projects and code",
+    "createdAt": "2017-12-24T17:52:21Z",
+    "pushedAt": "2023-11-22T12:02:51Z",
+    "stargazerCount": 720,
+    "items": []
+  },
+  "denolib/awesome-deno": {
+    "nameWithOwner": "denolib/awesome-deno",
+    "owner": {
+      "login": "denolib",
+      "__typename": "Organization"
+    },
+    "description": "Curated list of awesome things related to Deno",
+    "createdAt": "2019-01-02T06:30:58Z",
+    "pushedAt": "2023-08-22T12:22:16Z",
+    "stargazerCount": 4081,
+    "items": []
+  },
+  "nix-community/awesome-nix": {
+    "nameWithOwner": "nix-community/awesome-nix",
+    "owner": {
+      "login": "nix-community",
+      "__typename": "Organization"
+    },
+    "description": "😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]",
+    "createdAt": "2019-05-15T14:59:41Z",
+    "pushedAt": "2023-11-29T00:43:52Z",
+    "stargazerCount": 1932,
+    "items": []
+  },
+  "stn1slv/awesome-integration": {
+    "nameWithOwner": "stn1slv/awesome-integration",
+    "owner": {
+      "login": "stn1slv",
+      "__typename": "User",
+      "name": "Stanislav Deviatov",
+      "email": "devyatov@gmail.com",
+      "bio": "Solution Architect at EPAM Systems",
+      "databaseId": 20664330,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20664330?u=d87550a07b5d608b7f53cf934a123026c8903050&v=4"
+    },
+    "description": "A curated list of awesome system integration software and resources.",
+    "createdAt": "2021-07-23T18:08:42Z",
+    "pushedAt": "2023-11-29T00:35:37Z",
+    "stargazerCount": 269,
+    "items": [
+      {
+        "name": "Gravitee.io API Management (⭐88)",
+        "url": "https://github.com/gravitee-io/gravitee-api-management",
+        "description": "A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease."
+      },
+      {
+        "name": "WSO2 API Manager (⭐778)",
+        "url": "https://github.com/wso2/product-apim",
+        "description": "A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease."
+      },
+      {
+        "name": "OpenAPI Diff (⭐693)",
+        "url": "https://github.com/OpenAPITools/openapi-diff",
+        "description": "Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format."
+      },
+      {
+        "name": "Spectral (⭐2.1k)",
+        "url": "https://github.com/stoplightio/spectral",
+        "description": "Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI."
+      },
+      {
+        "name": "Zally (⭐857)",
+        "url": "https://github.com/zalando/zally",
+        "description": "Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback."
+      },
+      {
+        "name": "DapperDox (⭐390)",
+        "url": "https://github.com/DapperDox/dapperdox",
+        "description": "An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing."
+      },
+      {
+        "name": "OpenAPI Explorer (⭐236)",
+        "url": "https://github.com/Rhosys/openapi-explorer",
+        "description": "A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs."
+      },
+      {
+        "name": "JMSToolBox (⭐184)",
+        "url": "https://github.com/jmstoolbox/jmstoolbox",
+        "description": "Universal JMS client designed to interact with a wide range of JMS-based message brokers."
+      },
+      {
+        "name": "Karate (⭐7.5k)",
+        "url": "https://github.com/intuit/karate",
+        "description": "Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework."
+      },
+      {
+        "name": "WSO2 Enterprise Integrator (⭐357)",
+        "url": "https://github.com/wso2/product-ei",
+        "description": "An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers."
+      },
+      {
+        "name": "Eclipse Mosquitto (⭐7.9k)",
+        "url": "https://github.com/eclipse/mosquitto",
+        "description": "A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication."
+      },
+      {
+        "name": "Elsa Core (⭐5.2k)",
+        "url": "https://github.com/elsa-workflows/elsa-core",
+        "description": "A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments."
+      },
+      {
+        "name": "Temporal (⭐8.5k)",
+        "url": "https://github.com/temporalio/temporal",
+        "description": "An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable."
+      },
+      {
+        "name": "AsyncAPI (⭐3.5k)",
+        "url": "https://github.com/asyncapi/spec",
+        "description": "An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem."
+      },
+      {
+        "name": "NDJSON (⭐601)",
+        "url": "https://github.com/ndjson/ndjson-spec",
+        "description": "A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing."
+      },
+      {
+        "name": "Protocol Buffers (⭐62k)",
+        "url": "https://github.com/protocolbuffers/protobuf",
+        "description": "A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka."
+      },
+      {
+        "name": "YAML (⭐276)",
+        "url": "https://github.com/yaml/yaml-spec",
+        "description": "A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages."
+      },
+      {
+        "name": "OpenMessaging (⭐283)",
+        "url": "https://github.com/openmessaging/specification",
+        "description": "A cloud native, vendor-neutral open specification for distributed messaging."
+      }
+    ]
+  },
+  "Esri/awesome-arcgis-developers": {
+    "nameWithOwner": "Esri/awesome-arcgis-developers",
+    "owner": {
+      "login": "Esri",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
+    "createdAt": "2021-06-03T18:43:23Z",
+    "pushedAt": "2023-11-29T08:45:52Z",
+    "stargazerCount": 186,
+    "items": []
+  },
+  "sorrycc/awesome-javascript": {
+    "nameWithOwner": "sorrycc/awesome-javascript",
+    "owner": {
+      "login": "sorrycc",
+      "__typename": "User",
+      "name": "chencheng (云谦)",
+      "email": "sorrycc@gmail.com",
+      "bio": "Front-end developer at alipay, creator of @umijs, @dvajs, father, roadhog, babel-plugin-import...",
+      "databaseId": 35128,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35128?u=0e80d87d2e3f3701a94d74a9cb6ff9f592cc7de5&v=4"
+    },
+    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+    "createdAt": "2014-07-01T15:59:02Z",
+    "pushedAt": "2023-11-07T04:42:34Z",
+    "stargazerCount": 32025,
+    "items": []
+  },
+  "bolshchikov/js-must-watch": {
+    "nameWithOwner": "bolshchikov/js-must-watch",
+    "owner": {
+      "login": "bolshchikov",
+      "__typename": "User",
+      "name": "Sergey Bolshchikov",
+      "email": "sergey@bolshchikov.net",
+      "bio": "I build 51% and break 49% of things",
+      "databaseId": 1206121,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1206121?u=eb6bcc8372f60a0ff201bb62d19155d2b7ac0c7b&v=4"
+    },
+    "description": "Must-watch videos about javascript",
+    "createdAt": "2014-06-21T09:56:48Z",
+    "pushedAt": "2022-01-20T09:29:27Z",
+    "stargazerCount": 13063,
+    "items": []
+  },
+  "dustinspecker/awesome-eslint": {
+    "nameWithOwner": "dustinspecker/awesome-eslint",
+    "owner": {
+      "login": "dustinspecker",
+      "__typename": "User",
+      "name": "Dustin Specker",
+      "email": "dustinspecker@dustinspecker.com",
+      "bio": "Sharing what I learn | Mostly Kubernetes and Docker these days | CKS/CKA/CKAD",
+      "databaseId": 2449282,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2449282?u=804a12736f0fa0eb1731397f5a7e44a3ec082425&v=4"
+    },
+    "description": "A list of awesome ESLint plugins, configs, etc.",
+    "createdAt": "2015-10-30T00:13:14Z",
+    "pushedAt": "2023-11-18T22:47:46Z",
+    "stargazerCount": 3930,
+    "items": []
+  },
+  "stoeffel/awesome-fp-js": {
+    "nameWithOwner": "stoeffel/awesome-fp-js",
+    "owner": {
+      "login": "stoeffel",
+      "__typename": "User",
+      "name": "Christoph Hermann",
+      "email": "schtoeffel@gmail.com",
+      "bio": ":turtle:",
+      "databaseId": 1217681,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1217681?u=c1118a3a805bd456fdf93e8d380e4d946b874422&v=4"
+    },
+    "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
+    "createdAt": "2015-05-15T07:40:29Z",
+    "pushedAt": "2023-10-04T19:18:26Z",
+    "stargazerCount": 5872,
+    "items": []
+  },
+  "RyanZim/awesome-npm-scripts": {
+    "nameWithOwner": "RyanZim/awesome-npm-scripts",
+    "owner": {
+      "login": "RyanZim",
+      "__typename": "User",
+      "name": "Ryan Zimmerman",
+      "email": "",
+      "bio": "Node.js/Electron developer. Maintainer of fs-extra, postcss-import, and postcss-cli.",
+      "databaseId": 17342435,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17342435?u=508864504442bc8512865e9261f594a6da38e038&v=4"
+    },
+    "description": "Everything awesome related to npm scripts and using npm as a build tool.",
+    "createdAt": "2016-09-07T20:01:12Z",
+    "pushedAt": "2022-10-08T22:31:37Z",
+    "stargazerCount": 715,
+    "items": []
+  },
+  "uraimo/Awesome-Swift-Playgrounds": {
+    "nameWithOwner": "uraimo/Awesome-Swift-Playgrounds",
+    "owner": {
+      "login": "uraimo",
+      "__typename": "User",
+      "name": "uraimo",
+      "email": "",
+      "bio": "",
+      "databaseId": 181436,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/181436?v=4"
+    },
+    "description": "A List of Awesome Swift Playgrounds",
+    "createdAt": "2016-01-30T10:14:48Z",
+    "pushedAt": "2023-09-15T07:55:28Z",
+    "stargazerCount": 4039,
+    "items": []
+  },
+  "vinta/awesome-python": {
+    "nameWithOwner": "vinta/awesome-python",
+    "owner": {
+      "login": "vinta",
+      "__typename": "User",
+      "name": "Vinta Chen",
+      "email": "vinta.chen@gmail.com",
+      "bio": "I failed the Turing Test",
+      "databaseId": 652070,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/652070?u=95b472a9a11b64ee0f74512ad918d762d42c213c&v=4"
+    },
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "createdAt": "2014-06-27T21:00:06Z",
+    "pushedAt": "2023-11-18T03:13:13Z",
+    "stargazerCount": 188136,
+    "items": []
+  },
+  "timofurrer/awesome-asyncio": {
+    "nameWithOwner": "timofurrer/awesome-asyncio",
+    "owner": {
+      "login": "timofurrer",
+      "__typename": "User",
+      "name": "Timo Furrer",
+      "email": "tuxtimo@gmail.com",
+      "bio": "Enthusiastic Hacker who loves Free Open Source Software, Linux, Python, DX and :penguin:. Commits are my own.",
+      "databaseId": 1008252,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1008252?u=2bde4396f4cb650b73de9e86c7608f5b7eac24a8&v=4"
+    },
+    "description": "A curated list of awesome Python asyncio frameworks, libraries, software and resources",
+    "createdAt": "2016-11-01T10:04:45Z",
+    "pushedAt": "2023-04-09T17:23:44Z",
+    "stargazerCount": 4256,
+    "items": []
+  },
+  "adafruit/awesome-circuitpython": {
+    "nameWithOwner": "adafruit/awesome-circuitpython",
+    "owner": {
+      "login": "adafruit",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.",
+    "createdAt": "2018-03-31T17:44:54Z",
+    "pushedAt": "2022-11-17T20:27:00Z",
+    "stargazerCount": 577,
+    "items": []
+  },
+  "krzjoa/awesome-python-data-science": {
+    "nameWithOwner": "krzjoa/awesome-python-data-science",
+    "owner": {
+      "login": "krzjoa",
+      "__typename": "User",
+      "name": "Krzysztof Joachimiak",
+      "email": "",
+      "bio": "Data Scientist & Software Developer",
+      "databaseId": 17183113,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17183113?u=ad32507b9e440e4d4cf517fbc9b0e753205989da&v=4"
+    },
+    "description": "Probably the best curated list of data science software in Python.",
+    "createdAt": "2017-12-21T10:17:53Z",
+    "pushedAt": "2023-10-30T13:35:16Z",
+    "stargazerCount": 2143,
+    "items": []
+  },
+  "typeddjango/awesome-python-typing": {
+    "nameWithOwner": "typeddjango/awesome-python-typing",
+    "owner": {
+      "login": "typeddjango",
+      "__typename": "Organization"
+    },
+    "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
+    "createdAt": "2019-09-10T20:57:50Z",
+    "pushedAt": "2023-11-17T12:50:05Z",
+    "stargazerCount": 1486,
+    "items": []
+  },
+  "wsvincent/awesome-django": {
+    "nameWithOwner": "wsvincent/awesome-django",
+    "owner": {
+      "login": "wsvincent",
+      "__typename": "User",
+      "name": "Will Vincent",
+      "email": "",
+      "bio": "Django mainly. Books and tutorials at LearnDjango.com. Podcast at DjangoChat.com. Weekly newsletter at Django-News.com.",
+      "databaseId": 766418,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/766418?u=a2c303e3aec1e577a2c1aaed8f4e12d37aab4608&v=4"
+    },
+    "description": "A curated list of awesome things related to Django",
+    "createdAt": "2018-04-11T13:00:48Z",
+    "pushedAt": "2023-11-17T03:21:48Z",
+    "stargazerCount": 7798,
+    "items": []
+  },
+  "mcauser/awesome-micropython": {
+    "nameWithOwner": "mcauser/awesome-micropython",
+    "owner": {
+      "login": "mcauser",
+      "__typename": "User",
+      "name": "Mike Causer",
+      "email": "mcauser@gmail.com",
+      "bio": "",
+      "databaseId": 1038959,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1038959?u=071768559a5840d38cf316da52c2d8d5cf2ea000&v=4"
+    },
+    "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
+    "createdAt": "2018-02-28T11:19:46Z",
+    "pushedAt": "2023-11-10T15:58:17Z",
+    "stargazerCount": 1084,
+    "items": []
+  },
+  "rust-unofficial/awesome-rust": {
+    "nameWithOwner": "rust-unofficial/awesome-rust",
+    "owner": {
+      "login": "rust-unofficial",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of Rust code and resources.",
+    "createdAt": "2014-07-17T10:45:10Z",
+    "pushedAt": "2023-11-28T20:46:05Z",
+    "stargazerCount": 38970,
+    "items": []
+  },
+  "krispo/awesome-haskell": {
+    "nameWithOwner": "krispo/awesome-haskell",
+    "owner": {
+      "login": "krispo",
+      "__typename": "User",
+      "name": "Konstantin Skipor",
+      "email": "konstantin.skipor@gmail.com",
+      "bio": "AI Automations for business",
+      "databaseId": 2749842,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2749842?u=9052d1fcf7fefe53c436e8677f945bd23b508344&v=4"
+    },
+    "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
+    "createdAt": "2014-07-13T14:08:56Z",
+    "pushedAt": "2023-04-13T20:54:30Z",
+    "stargazerCount": 2963,
+    "items": []
+  },
+  "avelino/awesome-go": {
+    "nameWithOwner": "avelino/awesome-go",
+    "owner": {
+      "login": "avelino",
+      "__typename": "User",
+      "name": "Avelino",
+      "email": "",
+      "bio": "CTO at @buserbrasil, open source engineer",
+      "databaseId": 31996,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4"
+    },
+    "description": "A curated list of awesome Go frameworks, libraries and software",
+    "createdAt": "2014-07-06T13:42:15Z",
+    "pushedAt": "2023-11-29T09:45:09Z",
+    "stargazerCount": 112293,
+    "items": []
+  },
+  "markets/awesome-ruby": {
+    "nameWithOwner": "markets/awesome-ruby",
+    "owner": {
+      "login": "markets",
+      "__typename": "User",
+      "name": "Marc Anguera",
+      "email": "srmarc.ai@gmail.com",
+      "bio": "Lead engineer & CTO at Crisalix. Desaigner co-founder. Web stuff and Ruby 💎. Technology & Start-up enthusiast. OSS lover.",
+      "databaseId": 576701,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/576701?v=4"
+    },
+    "description": ":gem: A collection of awesome Ruby libraries, tools, frameworks and software",
+    "createdAt": "2014-07-03T12:31:18Z",
+    "pushedAt": "2023-10-31T00:25:47Z",
+    "stargazerCount": 13151,
+    "items": []
+  },
+  "razum2um/awesome-clojure": {
+    "nameWithOwner": "razum2um/awesome-clojure",
+    "owner": {
+      "login": "razum2um",
+      "__typename": "User",
+      "name": "Vlad Bokov",
+      "email": "vlad@razum2um.me",
+      "bio": "",
+      "databaseId": 122018,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122018?u=7cf1d03333b95e17e30fe66209b978b945a2c5ba&v=4"
+    },
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
+    "createdAt": "2014-07-09T15:27:44Z",
+    "pushedAt": "2023-11-21T14:51:35Z",
+    "stargazerCount": 2602,
+    "items": []
+  },
+  "h4cc/awesome-elixir": {
+    "nameWithOwner": "h4cc/awesome-elixir",
+    "owner": {
+      "login": "h4cc",
+      "__typename": "User",
+      "name": "Julius Beckmann",
+      "email": "",
+      "bio": "Enroute de Polygot Programmer. PHP/Symfony2, NodeJS, Erlang/Elixir, DevOp, Continuous-Everything!",
+      "databaseId": 2981491,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2981491?u=9c19867798bbc2bd1241f0281232be340eae0b47&v=4"
+    },
+    "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
+    "createdAt": "2014-07-01T21:12:03Z",
+    "pushedAt": "2023-10-09T13:43:09Z",
+    "stargazerCount": 12157,
+    "items": []
+  },
+  "svaksha/Julia.jl": {
+    "nameWithOwner": "svaksha/Julia.jl",
+    "owner": {
+      "login": "svaksha",
+      "__typename": "User",
+      "name": "svaksha ॥ स्वक्ष ॥",
+      "email": "",
+      "bio": "",
+      "databaseId": 77602,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77602?v=4"
+    },
+    "description": "Curated decibans of Julia programming language.",
+    "createdAt": "2013-09-25T04:35:03Z",
+    "pushedAt": "2023-10-04T16:11:07Z",
+    "stargazerCount": 1378,
+    "items": []
+  },
+  "LewisJEllis/awesome-lua": {
+    "nameWithOwner": "LewisJEllis/awesome-lua",
+    "owner": {
+      "login": "LewisJEllis",
+      "__typename": "User",
+      "name": "Lewis J Ellis",
+      "email": "me@lewisjellis.com",
+      "bio": "",
+      "databaseId": 1445984,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1445984?u=93797902ef92392e81396f88fa0226c51a4074c7&v=4"
+    },
+    "description": "A curated list of quality Lua packages and resources.",
+    "createdAt": "2014-08-17T12:02:39Z",
+    "pushedAt": "2023-04-04T23:22:57Z",
+    "stargazerCount": 3585,
+    "items": []
+  },
+  "inputsh/awesome-c": {
+    "nameWithOwner": "inputsh/awesome-c",
+    "owner": {
+      "login": "inputsh",
+      "__typename": "User",
+      "name": "Aleksandar Todorović",
+      "email": "aleksandar@sigurnost.online",
+      "bio": "\r\n    Utilizes technology for common good. Quantified self.\r\n",
+      "databaseId": 4890548,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?u=0cab1d3e57483600bc41342a3ffd0e172c31def7&v=4"
+    },
+    "description": "Continuing the development of awesome-c list on GitHub",
+    "createdAt": "2015-05-31T01:56:17Z",
+    "pushedAt": "2022-09-27T14:10:08Z",
+    "stargazerCount": 3237,
+    "items": []
+  },
+  "fffaraz/awesome-cpp": {
+    "nameWithOwner": "fffaraz/awesome-cpp",
+    "owner": {
+      "login": "fffaraz",
+      "__typename": "User",
+      "name": "Faraz Fallahi",
+      "email": "fffaraz@gmail.com",
+      "bio": "It is not enough for code to work.",
+      "databaseId": 895678,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/895678?u=c4d7f1d0c7893275b2f777f47a2ebad2dc20d1a0&v=4"
+    },
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+    "createdAt": "2014-07-17T08:51:11Z",
+    "pushedAt": "2023-11-29T02:18:24Z",
+    "stargazerCount": 51545,
+    "items": [
+      {
+        "name": "PDFium",
+        "url": "https://pdfium.googlesource.com/pdfium/",
+        "description": "PDF generation and rendering library. [BSD-3-Clause]"
+      }
+    ]
+  },
+  "qinwf/awesome-R": {
+    "nameWithOwner": "qinwf/awesome-R",
+    "owner": {
+      "login": "qinwf",
+      "__typename": "User",
+      "name": "qinwf",
+      "email": "",
+      "bio": "",
+      "databaseId": 7472151,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7472151?u=1986e60a7158fcf3824f99773f69a18a29cfdbea&v=4"
+    },
+    "description": "A curated list of awesome R packages, frameworks and software.",
+    "createdAt": "2014-07-19T06:02:47Z",
+    "pushedAt": "2023-05-24T19:21:23Z",
+    "stargazerCount": 5618,
+    "items": []
+  },
+  "dlang-community/awesome-d": {
+    "nameWithOwner": "dlang-community/awesome-d",
+    "owner": {
+      "login": "dlang-community",
+      "__typename": "Organization"
+    },
+    "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
+    "createdAt": "2014-07-08T06:59:56Z",
+    "pushedAt": "2023-11-19T22:40:22Z",
+    "stargazerCount": 615,
+    "items": []
+  },
+  "akullpp/awesome-java": {
+    "nameWithOwner": "akullpp/awesome-java",
+    "owner": {
+      "login": "akullpp",
+      "__typename": "User",
+      "name": "aku",
+      "email": "",
+      "bio": "Software engineer, linguist and writer.",
+      "databaseId": 4538351,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4538351?u=e505b161676889a6042aac7381b3b9b2cc247820&v=4"
+    },
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+    "createdAt": "2014-07-09T10:12:43Z",
+    "pushedAt": "2023-11-19T17:32:20Z",
+    "stargazerCount": 38387,
+    "items": []
+  },
+  "ocaml-community/awesome-ocaml": {
+    "nameWithOwner": "ocaml-community/awesome-ocaml",
+    "owner": {
+      "login": "ocaml-community",
+      "__typename": "Organization"
+    },
+    "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",
+    "createdAt": "2014-07-24T12:57:22Z",
+    "pushedAt": "2023-11-16T16:02:00Z",
+    "stargazerCount": 2594,
+    "items": []
+  },
+  "rabbiabram/awesome-fortran": {
+    "nameWithOwner": "rabbiabram/awesome-fortran",
+    "owner": {
+      "login": "rabbiabram",
+      "__typename": "User",
+      "name": "Vladislav",
+      "email": "rabbiabram@gmail.com",
+      "bio": null,
+      "databaseId": 1196791,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1196791?v=4"
+    },
+    "description": "Awesome list of Fortran libs",
+    "createdAt": "2014-07-16T05:47:52Z",
+    "pushedAt": "2022-09-18T19:22:39Z",
+    "stargazerCount": 356,
+    "items": []
+  },
+  "ziadoz/awesome-php": {
+    "nameWithOwner": "ziadoz/awesome-php",
+    "owner": {
+      "login": "ziadoz",
+      "__typename": "User",
+      "name": "Jamie York",
+      "email": "",
+      "bio": "I develop web applications using PHP and JavaScript.",
+      "databaseId": 645637,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/645637?u=fc30f50c111518c933b3c0c249c9483d863b68e6&v=4"
+    },
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+    "createdAt": "2013-11-26T03:14:19Z",
+    "pushedAt": "2023-11-29T06:04:03Z",
+    "stargazerCount": 29523,
+    "items": []
+  },
+  "J2TEAM/awesome-AutoIt": {
+    "nameWithOwner": "J2TEAM/awesome-AutoIt",
+    "owner": {
+      "login": "J2TEAM",
+      "__typename": "User",
+      "name": "JUNO_OKYO",
+      "email": "",
+      "bio": "Creator of J2TEAM Security and J2TEAM Cookies (j2team.dev)",
+      "databaseId": 5250117,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5250117?u=5511c048ef70ad2d13e32d861a94466916cc8790&v=4"
+    },
+    "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
+    "createdAt": "2015-08-30T01:11:51Z",
+    "pushedAt": "2022-08-21T12:04:57Z",
+    "stargazerCount": 830,
+    "items": []
+  },
+  "onqtam/awesome-cmake": {
+    "nameWithOwner": "onqtam/awesome-cmake",
+    "owner": {
+      "login": "onqtam",
+      "__typename": "User",
+      "name": "Viktor Kirilov",
+      "email": "vik.kirilov@gmail.com",
+      "bio": "The medium is the message.\r\n\r\nBuilding the Global Brain.\r\n\r\nIntentional evolutionary.",
+      "databaseId": 4648169,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4648169?u=282e8ad4ae48b574f7fc03d618a0d234f8b5b0ac&v=4"
+    },
+    "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
+    "createdAt": "2016-09-08T16:49:53Z",
+    "pushedAt": "2022-05-18T11:06:54Z",
+    "stargazerCount": 4770,
+    "items": []
+  },
+  "coq-community/awesome-coq": {
+    "nameWithOwner": "coq-community/awesome-coq",
+    "owner": {
+      "login": "coq-community",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainers=@anton-trunov,@palmskog]",
+    "createdAt": "2020-01-09T19:21:46Z",
+    "pushedAt": "2023-11-08T18:16:51Z",
+    "stargazerCount": 258,
+    "items": []
+  },
+  "vlang/awesome-v": {
+    "nameWithOwner": "vlang/awesome-v",
+    "owner": {
+      "login": "vlang",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of awesome V frameworks, libraries, software and resources.",
+    "createdAt": "2019-07-03T16:35:37Z",
+    "pushedAt": "2023-11-17T12:39:34Z",
+    "stargazerCount": 1730,
+    "items": []
+  },
+  "rust-embedded/awesome-embedded-rust": {
+    "nameWithOwner": "rust-embedded/awesome-embedded-rust",
+    "owner": {
+      "login": "rust-embedded",
+      "__typename": "Organization"
+    },
+    "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
+    "createdAt": "2018-04-01T21:17:15Z",
+    "pushedAt": "2023-11-17T08:19:54Z",
+    "stargazerCount": 5050,
+    "items": []
+  },
+  "sbilly/awesome-security": {
+    "nameWithOwner": "sbilly/awesome-security",
+    "owner": {
+      "login": "sbilly",
+      "__typename": "User",
+      "name": "sbilly",
+      "email": "",
+      "bio": "",
+      "databaseId": 123563,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123563?v=4"
+    },
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+    "createdAt": "2014-08-22T00:54:48Z",
+    "pushedAt": "2023-11-10T13:44:09Z",
+    "stargazerCount": 10548,
+    "items": []
+  },
+  "Igglybuff/awesome-piracy": {
+    "nameWithOwner": "Igglybuff/awesome-piracy",
+    "owner": {
+      "login": "Igglybuff",
+      "__typename": "User",
+      "name": "Igglybuff",
+      "email": "",
+      "bio": "",
+      "databaseId": 8899226,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8899226?u=aff883aaa194b45852ac86c8dbb164bb32b05915&v=4"
+    },
+    "description": "A curated list of awesome warez and piracy links",
+    "createdAt": "2018-10-09T22:09:56Z",
+    "pushedAt": "2023-06-18T22:05:28Z",
+    "stargazerCount": 23196,
+    "items": []
+  },
+  "pluja/awesome-privacy": {
+    "nameWithOwner": "pluja/awesome-privacy",
+    "owner": {
+      "login": "pluja",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": "censorship reveals fear.",
+      "databaseId": 64632615,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64632615?u=c264797dac52683bf7db389d47766f3ae6bc21ae&v=4"
+    },
+    "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
+    "createdAt": "2020-12-07T09:02:48Z",
+    "pushedAt": "2023-11-07T09:32:24Z",
+    "stargazerCount": 10274,
+    "items": []
+  },
+  "enaqx/awesome-pentest": {
+    "nameWithOwner": "enaqx/awesome-pentest",
+    "owner": {
+      "login": "enaqx",
+      "__typename": "User",
+      "name": "Nick Raienko",
+      "email": "nick-public@slicketty.com",
+      "bio": "Full Stack Software Engineer",
+      "databaseId": 182219,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/182219?u=dd4dcbd3e20f4418b4390cc76415ff4d5ef6f5ab&v=4"
+    },
+    "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+    "createdAt": "2014-08-03T23:13:53Z",
+    "pushedAt": "2023-11-03T23:46:30Z",
+    "stargazerCount": 19610,
+    "items": []
+  },
+  "apsdehal/awesome-ctf": {
+    "nameWithOwner": "apsdehal/awesome-ctf",
+    "owner": {
+      "login": "apsdehal",
+      "__typename": "User",
+      "name": "Amanpreet Singh",
+      "email": "",
+      "bio": "Building @ContextualAI. Working on intersection of NLP, Vision and RL. Past @facebookresearch, @huggingface",
+      "databaseId": 3616806,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3616806?v=4"
+    },
+    "description": "A curated list of CTF frameworks, libraries, resources and softwares",
+    "createdAt": "2015-02-28T05:43:09Z",
+    "pushedAt": "2023-11-20T17:36:01Z",
+    "stargazerCount": 8675,
+    "items": []
+  },
+  "brootware/awesome-cyber-security-university": {
+    "nameWithOwner": "brootware/awesome-cyber-security-university",
+    "owner": {
+      "login": "brootware",
+      "__typename": "User",
+      "name": "Oaker Min",
+      "email": "",
+      "bio": "Cyber Security, Platform & Reliability Engineering",
+      "databaseId": 7734956,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7734956?u=37e8975ac3bac2029862505a8679425262b74eb1&v=4"
+    },
+    "description": "🎓 Because Education should be free. Contributions welcome! 🕵️ ",
+    "createdAt": "2022-03-31T11:14:50Z",
+    "pushedAt": "2023-11-08T12:36:45Z",
+    "stargazerCount": 1059,
+    "items": []
+  },
+  "rshipp/awesome-malware-analysis": {
+    "nameWithOwner": "rshipp/awesome-malware-analysis",
+    "owner": {
+      "login": "rshipp",
+      "__typename": "User",
+      "name": "Ryan Shipp",
+      "email": "",
+      "bio": "#DefundThePolice",
+      "databaseId": 1382374,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1382374?u=4c12066823e7d8bb15ce3c428661fa414e89b128&v=4"
+    },
+    "description": "Defund the Police.",
+    "createdAt": "2015-05-09T03:39:28Z",
+    "pushedAt": "2023-10-19T20:26:50Z",
+    "stargazerCount": 10496,
+    "items": []
+  },
+  "ashishb/android-security-awesome": {
+    "nameWithOwner": "ashishb/android-security-awesome",
+    "owner": {
+      "login": "ashishb",
+      "__typename": "User",
+      "name": "Ashish Bhatia",
+      "email": "ashishb@ashishb.net",
+      "bio": "Software Engineer - SF Bay area\r\n\r\nhttps://ashishb.net/about/",
+      "databaseId": 389236,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/389236?u=5d49f136b73e474971f0bdc877c814f5cfcf02b3&v=4"
+    },
+    "description": "A collection of android security related resources",
+    "createdAt": "2014-07-22T19:30:51Z",
+    "pushedAt": "2023-11-24T15:01:41Z",
+    "stargazerCount": 7336,
+    "items": []
+  },
+  "carpedm20/awesome-hacking": {
+    "nameWithOwner": "carpedm20/awesome-hacking",
+    "owner": {
+      "login": "carpedm20",
+      "__typename": "User",
+      "name": "Taehoon Kim",
+      "email": "",
+      "bio": "ex @openai",
+      "databaseId": 3346407,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3346407?u=07237ea2adc77af5f47b439e403fd2c9e130b326&v=4"
+    },
+    "description": "A curated list of awesome Hacking tutorials, tools and resources",
+    "createdAt": "2014-12-16T11:44:48Z",
+    "pushedAt": "2023-10-06T19:07:24Z",
+    "stargazerCount": 11234,
+    "items": []
+  },
+  "paralax/awesome-honeypots": {
+    "nameWithOwner": "paralax/awesome-honeypots",
+    "owner": {
+      "login": "paralax",
+      "__typename": "User",
+      "name": "jose nazario",
+      "email": "",
+      "bio": "cybersecurity, threat intel, cooking, biochemistry.",
+      "databaseId": 5619153,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5619153?v=4"
+    },
+    "description": "an awesome list of honeypot resources",
+    "createdAt": "2015-06-18T12:57:01Z",
+    "pushedAt": "2023-08-21T14:08:03Z",
+    "stargazerCount": 7528,
+    "items": []
+  },
+  "meirwah/awesome-incident-response": {
+    "nameWithOwner": "meirwah/awesome-incident-response",
+    "owner": {
+      "login": "meirwah",
+      "__typename": "User",
+      "name": "Meir Wahnon",
+      "email": "meirwah@gmail.com",
+      "bio": "",
+      "databaseId": 6059211,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6059211?u=7d1bfa64f53ae0f1952761e9730fb50bf5a5415c&v=4"
+    },
+    "description": "A curated list of tools for incident response",
+    "createdAt": "2015-11-10T22:10:58Z",
+    "pushedAt": "2023-11-18T20:46:43Z",
+    "stargazerCount": 6679,
+    "items": []
+  },
+  "fabacab/awesome-cybersecurity-blueteam": {
+    "nameWithOwner": "fabacab/awesome-cybersecurity-blueteam",
+    "owner": {
+      "login": "fabacab",
+      "__typename": "User",
+      "name": "0xACAB",
+      "email": "",
+      "bio": "⚑ Ⓐnti-capitalist Free Software developer, trans rights are human rights, Black Lives Matter, abolish all prisons, 0xACAB ⚑",
+      "databaseId": 18677,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18677?u=87cee1f9d5ab869357bf6e7524b51671871b8d59&v=4"
+    },
+    "description": ":computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+    "createdAt": "2018-07-23T18:26:16Z",
+    "pushedAt": "2023-11-10T01:08:39Z",
+    "stargazerCount": 3647,
+    "items": []
+  },
+  "cpuu/awesome-fuzzing": {
+    "nameWithOwner": "cpuu/awesome-fuzzing",
+    "owner": {
+      "login": "cpuu",
+      "__typename": "User",
+      "name": null,
+      "email": "",
+      "bio": null,
+      "databaseId": 16933887,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16933887?u=d8f8ad3d029d50f87d3cced3de44c3c4b0f6d0c5&v=4"
+    },
+    "description": "A curated list of awesome Fuzzing(or Fuzz Testing) for software security",
+    "createdAt": "2018-10-26T15:23:22Z",
+    "pushedAt": "2023-11-20T07:04:19Z",
+    "stargazerCount": 720,
+    "items": []
+  },
+  "bakke92/awesome-gdpr": {
+    "nameWithOwner": "bakke92/awesome-gdpr",
+    "owner": {
+      "login": "bakke92",
+      "__typename": "User",
+      "name": "Harald O. Bakke",
+      "email": "",
+      "bio": "",
+      "databaseId": 10785454,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10785454?u=a30f00e54e3f11b851af37d9e98ba0d806bcae99&v=4"
+    },
+    "description": "Protection of natural persons with regard to the processing of personal data and on the free movement of such data.",
+    "createdAt": "2019-05-01T10:10:18Z",
+    "pushedAt": "2023-01-12T19:40:27Z",
+    "stargazerCount": 145,
+    "items": []
+  },
+  "TaptuIT/awesome-devsecops": {
+    "nameWithOwner": "TaptuIT/awesome-devsecops",
+    "owner": {
+      "login": "TaptuIT",
+      "__typename": "Organization"
+    },
+    "description": "Curating the best DevSecOps resources and tooling.",
+    "createdAt": "2020-03-01T06:19:18Z",
+    "pushedAt": "2023-11-08T18:21:17Z",
+    "stargazerCount": 1093,
+    "items": []
+  },
+  "packing-box/awesome-executable-packing": {
+    "nameWithOwner": "packing-box/awesome-executable-packing",
+    "owner": {
+      "login": "packing-box",
+      "__typename": "Organization"
+    },
+    "description": "A curated list of awesome resources related to executable packing",
+    "createdAt": "2021-11-28T13:09:59Z",
+    "pushedAt": "2023-11-07T07:20:47Z",
+    "stargazerCount": 932,
+    "items": []
+  },
+  "TheJambo/awesome-testing": {
+    "nameWithOwner": "TheJambo/awesome-testing",
+    "owner": {
+      "login": "TheJambo",
+      "__typename": "User",
+      "name": "James Osborn",
+      "email": "james@james.am",
+      "bio": "",
+      "databaseId": 649202,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/649202?u=e68d42fbc785cee73143cf35eed257830d5e51f8&v=4"
+    },
+    "description": "A curated list of testing resources",
+    "createdAt": "2016-12-22T10:04:20Z",
+    "pushedAt": "2023-11-09T17:23:00Z",
+    "stargazerCount": 1509,
+    "items": []
+  },
+  "SrinivasanTarget/awesome-appium": {
+    "nameWithOwner": "SrinivasanTarget/awesome-appium",
+    "owner": {
+      "login": "SrinivasanTarget",
+      "__typename": "User",
+      "name": "Srinivasan Sekar",
+      "email": "srinivasan.sekar1990@gmail.com",
+      "bio": "@appium Member, @SeleniumHQ Contributor, @AppiumTestDistribution Member @webdriverio Contributor",
+      "databaseId": 8896549,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8896549?u=055325ee55c99f6ac33867c2948704f4c204275e&v=4"
+    },
+    "description": "A curated list of delightful Appium resources.",
+    "createdAt": "2016-07-27T15:28:58Z",
+    "pushedAt": "2021-09-28T14:59:54Z",
+    "stargazerCount": 411,
+    "items": []
+  },
+  "mxschmitt/awesome-playwright": {
+    "nameWithOwner": "mxschmitt/awesome-playwright",
+    "owner": {
+      "login": "mxschmitt",
+      "__typename": "User",
+      "name": "Max Schmitt",
+      "email": "max@schmitt.mx",
+      "bio": "Open Source enthusiast, security researcher and full stack web developer.",
+      "databaseId": 17984549,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17984549?u=6e56727163d19aec23bd28e4ba25d35449da9e81&v=4"
+    },
+    "description": "A curated list of awesome tools, utils and projects using Playwright",
+    "createdAt": "2020-03-09T21:55:51Z",
+    "pushedAt": "2023-11-20T13:15:10Z",
+    "stargazerCount": 547,
+    "items": []
+  },
+  "aliesbelik/awesome-gatling": {
+    "nameWithOwner": "aliesbelik/awesome-gatling",
+    "owner": {
+      "login": "aliesbelik",
+      "__typename": "User",
+      "name": "Aliaksandr Belik",
+      "email": "",
+      "bio": "Performance Engineer",
+      "databaseId": 1752374,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1752374?u=d9bd15fc69daf969c949f3411caa9a06420c5c2a&v=4"
+    },
+    "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
+    "createdAt": "2019-10-22T14:08:33Z",
+    "pushedAt": "2023-11-02T02:13:36Z",
+    "stargazerCount": 60,
+    "items": []
+  },
+  "papers-we-love/papers-we-love": {
+    "nameWithOwner": "papers-we-love/papers-we-love",
+    "owner": {
+      "login": "papers-we-love",
+      "__typename": "Organization"
+    },
+    "description": "Papers from the computer science community to read and discuss.",
+    "createdAt": "2013-12-15T14:31:41Z",
+    "pushedAt": "2023-10-05T16:21:00Z",
+    "stargazerCount": 78058,
+    "items": []
+  },
+  "JanVanRyswyck/awesome-talks": {
+    "nameWithOwner": "JanVanRyswyck/awesome-talks",
+    "owner": {
+      "login": "JanVanRyswyck",
+      "__typename": "User",
+      "name": "Jan Van Ryswyck",
+      "email": "",
+      "bio": "",
+      "databaseId": 463786,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/463786?v=4"
+    },
+    "description": "Awesome online talks and screencasts",
+    "createdAt": "2014-01-17T20:32:22Z",
+    "pushedAt": "2023-10-31T20:46:26Z",
+    "stargazerCount": 5934,
+    "items": []
+  },
+  "tayllan/awesome-algorithms": {
+    "nameWithOwner": "tayllan/awesome-algorithms",
+    "owner": {
+      "login": "tayllan",
+      "__typename": "User",
+      "name": "Tayllan Búrigo",
+      "email": "contact@tayllan.com",
+      "bio": "",
+      "databaseId": 5643498,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5643498?u=b65b1fcc4f834a4e61d18b4f61b2829274ace4ea&v=4"
+    },
+    "description": "A curated list of awesome places to learn and/or practice algorithms.",
+    "createdAt": "2014-07-16T18:10:01Z",
+    "pushedAt": "2023-09-22T08:33:27Z",
+    "stargazerCount": 15509,
+    "items": []
+  },
+  "owainlewis/awesome-artificial-intelligence": {
+    "nameWithOwner": "owainlewis/awesome-artificial-intelligence",
+    "owner": {
+      "login": "owainlewis",
+      "__typename": "User",
+      "name": "Owain Lewis",
+      "email": "owain.lewis@oracle.com",
+      "bio": "Director Of Engineering At OCI. Functional programming enthusiast (Haskell, Scala, OCaml)",
+      "databaseId": 733944,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/733944?u=63a8bf2214c7a814b275ca109fbc78f943ea958b&v=4"
+    },
+    "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "createdAt": "2015-01-27T09:27:48Z",
+    "pushedAt": "2023-11-15T08:33:10Z",
+    "stargazerCount": 8322,
+    "items": []
+  },
+  "jivoi/awesome-osint": {
+    "nameWithOwner": "jivoi/awesome-osint",
+    "owner": {
+      "login": "jivoi",
+      "__typename": "User",
+      "name": "EK_",
+      "email": "",
+      "bio": ":smiling_imp: Totally not a hacker",
+      "databaseId": 740995,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/740995?u=2db82bd4aeab131a4768dc3a06583ce21868128e&v=4"
+    },
+    "description": ":scream: A curated list of amazingly awesome OSINT",
+    "createdAt": "2016-11-30T13:26:11Z",
+    "pushedAt": "2023-11-27T01:26:34Z",
+    "stargazerCount": 14724,
+    "items": []
+  },
+  "marcobiedermann/search-engine-optimization": {
+    "nameWithOwner": "marcobiedermann/search-engine-optimization",
+    "owner": {
+      "login": "marcobiedermann",
+      "__typename": "User",
+      "name": "Marco Biedermann",
+      "email": "",
+      "bio": "Senior Full-Stack Software Engineer working primarily with TypeScript, Node.js & React",
+      "databaseId": 5244986,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5244986?v=4"
+    },
+    "description": ":mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.",
+    "createdAt": "2014-12-18T18:00:35Z",
+    "pushedAt": "2022-08-10T09:52:09Z",
+    "stargazerCount": 2228,
+    "items": []
+  },
+  "rossant/awesome-math": {
+    "nameWithOwner": "rossant/awesome-math",
+    "owner": {
+      "login": "rossant",
+      "__typename": "User",
+      "name": "Cyrille Rossant",
+      "email": "",
+      "bio": "Neuroscience researcher and software engineer",
+      "databaseId": 1942359,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1942359?u=68956829fcd0b585d782e8cbbf90a85013a043d8&v=4"
+    },
+    "description": "A curated list of awesome mathematics resources",
+    "createdAt": "2015-09-02T09:42:31Z",
+    "pushedAt": "2023-08-14T21:25:00Z",
+    "stargazerCount": 7739,
+    "items": []
+  },
+  "matiassingers/awesome-slack": {
+    "nameWithOwner": "matiassingers/awesome-slack",
+    "owner": {
+      "login": "matiassingers",
+      "__typename": "User",
+      "name": "Matias Singers",
+      "email": "mail@matiassingers.com",
+      "bio": "",
+      "databaseId": 938453,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/938453?v=4"
+    },
+    "description": "A curated list of awesome Slack related things",
+    "createdAt": "2015-03-18T05:03:49Z",
+    "pushedAt": "2023-11-07T08:37:39Z",
+    "stargazerCount": 815,
+    "items": []
+  },
+  "lukasz-madon/awesome-remote-job": {
+    "nameWithOwner": "lukasz-madon/awesome-remote-job",
+    "owner": {
+      "login": "lukasz-madon",
+      "__typename": "User",
+      "name": "Lukasz",
+      "email": "",
+      "bio": "I like python. \r\nContact atob(\"bHVrYXN6Lm1hZG9u\") at gmail dot com",
+      "databaseId": 1547923,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1547923?u=6878f1e526ccb98090bc9a07065918bbfc5cbb3b&v=4"
+    },
+    "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+    "createdAt": "2015-01-02T00:31:34Z",
+    "pushedAt": "2023-11-13T21:17:07Z",
+    "stargazerCount": 27015,
+    "items": []
+  },
+  "jyguyomarch/awesome-productivity": {
+    "nameWithOwner": "jyguyomarch/awesome-productivity",
+    "owner": {
+      "login": "jyguyomarch",
+      "__typename": "User",
+      "name": "Jean-Yves Guyomarc'h",
+      "email": "",
+      "bio": "",
+      "databaseId": 3885578,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3885578?u=82a586765613306a437b1420eb3e058eea636afc&v=4"
+    },
+    "description": "A curated list of delightful productivity resources.",
+    "createdAt": "2015-07-07T17:47:56Z",
+    "pushedAt": "2023-11-02T21:19:35Z",
+    "stargazerCount": 2127,
+    "items": []
+  },
+  "DopplerHQ/awesome-interview-questions": {
+    "nameWithOwner": "DopplerHQ/awesome-interview-questions",
+    "owner": {
+      "login": "DopplerHQ",
+      "__typename": "Organization"
+    },
+    "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+    "createdAt": "2015-11-28T09:48:17Z",
+    "pushedAt": "2023-10-05T03:39:35Z",
+    "stargazerCount": 59354,
+    "items": []
+  },
+  "joho/awesome-code-review": {
+    "nameWithOwner": "joho/awesome-code-review",
+    "owner": {
+      "login": "joho",
+      "__typename": "User",
+      "name": "John Barton",
+      "email": "",
+      "bio": "",
+      "databaseId": 4092,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4092?u=57ba376fe5e8346fdad11d8f4dbae07562a7ff8b&v=4"
+    },
+    "description": "An \"Awesome\" list of code review resources - articles, papers, tools, etc",
+    "createdAt": "2018-01-31T22:57:24Z",
+    "pushedAt": "2023-04-06T10:55:15Z",
+    "stargazerCount": 4088,
+    "items": []
+  },
+  "humanloop/awesome-chatgpt": {
+    "nameWithOwner": "humanloop/awesome-chatgpt",
+    "owner": {
+      "login": "humanloop",
+      "__typename": "Organization"
+    },
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
+    "createdAt": "2022-12-04T12:28:23Z",
+    "pushedAt": "2023-11-25T16:31:09Z",
+    "stargazerCount": 7984,
+    "items": []
+  },
+  "f/awesome-chatgpt-prompts": {
+    "nameWithOwner": "f/awesome-chatgpt-prompts",
+    "owner": {
+      "login": "f",
+      "__typename": "User",
+      "name": "Fatih Kadir Akın",
+      "email": "",
+      "bio": "JavaScript developer. Ruby lover. Author.",
+      "databaseId": 196477,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/196477?u=771bf9010ad2c32fe13ff71ceaad5563fc2824d3&v=4"
+    },
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "createdAt": "2022-12-05T13:54:13Z",
+    "pushedAt": "2023-11-28T10:50:43Z",
+    "stargazerCount": 93986,
+    "items": []
+  },
+  "kyrolabs/awesome-langchain": {
+    "nameWithOwner": "kyrolabs/awesome-langchain",
+    "owner": {
+      "login": "kyrolabs",
+      "__typename": "Organization"
+    },
+    "description": "😎 Awesome list of tools and projects with the awesome LangChain framework",
+    "createdAt": "2023-02-28T20:25:33Z",
+    "pushedAt": "2023-10-30T12:51:32Z",
+    "stargazerCount": 5644,
+    "items": []
+  },
+  "wilsonfreitas/awesome-quant": {
+    "nameWithOwner": "wilsonfreitas/awesome-quant",
+    "owner": {
+      "login": "wilsonfreitas",
+      "__typename": "User",
+      "name": "Wilson Freitas",
+      "email": "",
+      "bio": "Quant and baker #rstats",
+      "databaseId": 1583922,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1583922?u=a7c33ec9134890052cc12646f3a039f4af0973f6&v=4"
+    },
+    "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "createdAt": "2015-09-30T09:53:49Z",
+    "pushedAt": "2023-11-23T14:15:31Z",
+    "stargazerCount": 14269,
+    "items": []
+  }
+}

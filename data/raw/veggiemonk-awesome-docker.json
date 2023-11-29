@@ -1046,6 +1046,11 @@
     "description": "The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By @jesseduffield"
   },
   {
+    "name": "oxker",
+    "url": "https://github.com/mrjackwills/oxker",
+    "description": "A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard, by @mrjackwills"
+  },
+  {
     "name": "sen",
     "url": "https://github.com/TomasTomecek/sen",
     "description": "💀 Terminal user interface for docker engine, by @TomasTomecek"

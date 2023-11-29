@@ -50,6 +50,11 @@
     "description": "Database of chemical reactions."
   },
   {
+    "name": "Drug Repurposing Hub",
+    "url": "https://repo-hub.broadinstitute.org/repurposing#download-data",
+    "description": "Collections of drug repurposing data containing drug, moa, target etc."
+  },
+  {
     "name": "PathwayCommons",
     "url": "https://www.pathwaycommons.org/",
     "description": "Database of Pathways and Interactions."
@@ -88,6 +93,11 @@
     "name": "UniProt",
     "url": "https://www.uniprot.org/",
     "description": "The collection of functional information on proteins."
+  },
+  {
+    "name": "AlphaFold Protein Structure Database",
+    "url": "https://alphafold.ebi.ac.uk/api-docs",
+    "description": "Database of 3D protein structures."
   },
   {
     "name": "Human Genome Resources at NCBI",
@@ -182,6 +192,26 @@
     "name": "BindingDB",
     "url": "https://www.bindingdb.org/rwd/bind/index.jsp",
     "description": "A database of compounds and targes."
+  },
+  {
+    "name": "STRING",
+    "url": "https://string-db.org/",
+    "description": "Protein-Protein Interaction Networks for several organisms."
+  },
+  {
+    "name": "STRING",
+    "url": "https://string-db.org/",
+    "description": "Protein-Protein Interaction Networks for several organisms."
+  },
+  {
+    "name": "BioGRID",
+    "url": "https://thebiogrid.org/",
+    "description": "Database of Protein, Genetic and Chemical Interactions."
+  },
+  {
+    "name": "HIPPIE",
+    "url": "http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/",
+    "description": "Human Protein-Protein Interaction database."
   },
   {
     "name": "Chemistry Development Kit",

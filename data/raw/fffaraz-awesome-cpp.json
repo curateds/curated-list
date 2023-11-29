@@ -3324,6 +3324,11 @@
     "description": "High performance library for creating, modiyfing and parsing PDF files in C++ [Apache-2.0] website"
   },
   {
+    "name": "PDFium",
+    "url": "https://pdfium.googlesource.com/pdfium/",
+    "description": "PDF generation and rendering library. [BSD-3-Clause]"
+  },
+  {
     "name": "PoDoFo",
     "url": "http://podofo.sourceforge.net/",
     "description": "A library to work with the PDF file format. [LGPL]"
