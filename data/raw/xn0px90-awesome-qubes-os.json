@@ -289,6 +289,11 @@
     "description": "The Debian template is an officially supported template in Qubes OS."
   },
   {
+    "name": "Auto Minimal Debian Template Creation",
+    "url": "https://svensemmler.org/notes/deb-min-templates",
+    "description": "This page summarizes how to automate debian-minimal based template creation."
+  },
+  {
     "name": "Fedora templates",
     "url": "https://www.qubes-os.org/doc/templates/fedora/",
     "description": "The Fedora template is the default template in Qubes OS."
@@ -1049,6 +1054,11 @@
     "name": "Qubes core stack",
     "url": "https://www.qubes-os.org/doc/qubes-core-stack/",
     "description": "Introducing the Next Generation Qubes Core Stack."
+  },
+  {
+    "name": "Qubes-os port forwarding",
+    "url": "https://gist.github.com/fepitre/941d7161ae1150d90e15f778027e3248",
+    "description": "Qubes-os port forwarding to allow external connections"
   },
   {
     "name": "Joanna Rutkowska",

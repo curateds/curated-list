@@ -280,13 +280,9 @@
     "description": "Bad privacy policy. Apps have many trackers and require too many permissions."
   },
   {
-    "name": "Wallabag",
-    "url": "https://wallabag.org/",
-    "description": "Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind."
-  },
-  {
-    "name": "Shiori",
-    "url": "https://github.com/go-shiori/shiori"
+    "name": "Grimorie",
+    "url": "https://github.com/goniszewski/grimoire",
+    "description": "Modern, open source, self-hosted bookmark manager."
   },
   {
     "name": "LinkAce",
@@ -295,6 +291,15 @@
   {
     "name": "LinkDing",
     "url": "https://github.com/sissbruecker/linkding"
+  },
+  {
+    "name": "Shiori",
+    "url": "https://github.com/go-shiori/shiori"
+  },
+  {
+    "name": "Wallabag",
+    "url": "https://wallabag.org/",
+    "description": "Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind."
   },
   {
     "name": "Hypothesis",

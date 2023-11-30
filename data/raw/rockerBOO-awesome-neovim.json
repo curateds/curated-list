@@ -620,6 +620,11 @@
     "description": "Visualize your Markdown as mindmaps."
   },
   {
+    "name": "tadmccorkle/markdown.nvim",
+    "url": "https://github.com/tadmccorkle/markdown.nvim",
+    "description": "Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more."
+  },
+  {
     "name": "potamides/pantran.nvim",
     "url": "https://github.com/potamides/pantran.nvim",
     "description": "Translate your text with an interactive translation window."
@@ -2448,6 +2453,11 @@
     "name": "bgaillard/readonly.nvim",
     "url": "https://github.com/bgaillard/readonly.nvim",
     "description": "Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc."
+  },
+  {
+    "name": "GCBallesteros/jupytext.nvim",
+    "url": "https://github.com/GCBallesteros/jupytext.nvim",
+    "description": "Edit jupyter notebooks without leaving Neovim."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",

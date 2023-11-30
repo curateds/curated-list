@@ -317,6 +317,11 @@
     "description": "Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET"
   },
   {
+    "name": "Topaz",
+    "url": "https://www.topaz.sh/docs/software-development-kits/dotnet/install",
+    "description": "A fine-grained authorization system with .NET SDK."
+  },
+  {
     "name": "BootstrapBlazor",
     "url": "https://github.com/dotnetcore/BootstrapBlazor",
     "description": "A set of enterprise-class UI components based on Bootstrap and Blazor."
@@ -345,116 +350,6 @@
     "name": "Nethermind",
     "url": "https://github.com/NethermindEth/nethermind",
     "description": "full Ethereum client in .NET Core"
-  },
-  {
-    "name": "The Little ASP.NET Core Book",
-    "url": "https://recaffeinate.co/book/",
-    "description": "A free, open-source, tutorial-based book aiming to provide a simple introduction to ASP.NET Core."
-  },
-  {
-    "name": ".NET in Action, Second Edition",
-    "url": "https://www.manning.com/books/dotnet-in-action-second-edition",
-    "description": "An introduction to implementing full-featured, cross-platform professional applications on the Microsoft .NET platform. [$]"
-  },
-  {
-    "name": ".NET Maui in Action",
-    "url": "https://www.manning.com/books/dot-net-maui-in-action",
-    "description": "A book about creating mobile and desktop apps using a common set of .NET tools. [$]"
-  },
-  {
-    "name": "ASP.NET Core in Action, Third Edition",
-    "url": "https://www.manning.com/books/asp-net-core-in-action-third-edition",
-    "description": "Build professional-grade full-stack web applications using C# and ASP.NET Core. [$]"
-  },
-  {
-    "name": "ASP.NET Core Razor Pages in Action",
-    "url": "https://www.manning.com/books/asp-net-core-razor-pages-in-action",
-    "description": "A comprehensive guide to how to use Razor Pages to create dynamic websites that are easy to test and scale. [$]"
-  },
-  {
-    "name": "ASP.NET Core Security",
-    "url": "https://www.manning.com/books/asp-net-core-security",
-    "description": "A practical and hands-on guide to securing web applications built with ASP.NET. [$]"
-  },
-  {
-    "name": "ASP.NET Core Web API",
-    "url": "https://www.manning.com/books/asp-net-core-web-api",
-    "description": "A book about designing and implementing APIs using the REST and GraphQL standards. [$]"
-  },
-  {
-    "name": "Blazor in Action",
-    "url": "https://www.manning.com/books/blazor-in-action",
-    "description": "A guide to building  UIs and client-side applications using C# and .NET. [$]"
-  },
-  {
-    "name": "Building Web APIs with ASP.NET Core",
-    "url": "https://www.manning.com/books/building-web-apis-with-asp-net-core",
-    "description": "Practical beginner’s guide to creating your first web APIs using ASP.NET Core. [$]"
-  },
-  {
-    "name": "C# in Depth, Fourth Edition",
-    "url": "https://www.manning.com/books/c-sharp-in-depth-fourth-edition",
-    "description": "deep dive into the details of the C# language. [$]"
-  },
-  {
-    "name": "CLR via C#, Fourth Edition",
-    "url": "https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457",
-    "description": "Dig deep and master the intricacies of the common language runtime, C#, and .NET development. [$]"
-  },
-  {
-    "name": "Code Like a Pro in C#",
-    "url": "https://www.manning.com/books/code-like-a-pro-in-c-sharp",
-    "description": "Build on your existing programming skills and upskill to professional-level C# programming. [$]"
-  },
-  {
-    "name": "Dependency Injection in .NET",
-    "url": "https://www.manning.com/books/dependency-injection-principles-practices-patterns",
-    "description": "teaches you to use Dependency Injection to reduce hard-coded dependencies between application components in .NET. [$]"
-  },
-  {
-    "name": "Entity Framework Core in Action",
-    "url": "https://www.manning.com/books/entity-framework-core-in-action",
-    "description": "teaches how to use Entity Framework Core, including lighter weight data access alternatives such as Dapper. [$]"
-  },
-  {
-    "name": "Functional Programming in C#, Second edition",
-    "url": "https://www.manning.com/books/functional-programming-in-c-sharp-second-edition",
-    "description": "Real world examples and practical techniques for functional programming in C# without the jargon and theory. [$]"
-  },
-  {
-    "name": "Microservices in .NET Core, Second edition",
-    "url": "https://www.manning.com/books/microservices-in-net-core-second-edition",
-    "description": "A comprehensive guide to building microservice systems using the .NET stack. [$]"
-  },
-  {
-    "name": "Pro .NET 5 Custom Libraries",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-6391-4",
-    "description": "Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. [$]"
-  },
-  {
-    "name": "Pro .NET Benchmarking",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-4941-3",
-    "description": "Provides an in-depth look at software benchmarking for accurate performance measurement. Helps you get maximum performance impact by identifying and targeting the right bottlenecks. Includes coverage of the latest compilers and processors. [$]"
-  },
-  {
-    "name": "Pro .NET Framework with the Base Class Library",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-4191-2",
-    "description": "Shows valuable tips and examples that reinforce the correct use of manage types, including how to avoid boxing/unboxing and better use of memory resources. [$]"
-  },
-  {
-    "name": "Pro .NET Memory Management",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-4027-4",
-    "description": "Takes a deep dive into .NET memory management, including comprehensive coverage of how .NET memory works, implementation details, possible pitfalls, and ways to work around them. [$]"
-  },
-  {
-    "name": "Pro ASP.NET Core 6",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-7957-1",
-    "description": "The most comprehensive coverage available on ASP.NET Core 6 in full-color. Detailed explanations and plenty of working code to learn new functionality. Provides a fully functioning ASP.NET Core 6 application that can be used as a template for projects. [$]"
-  },
-  {
-    "name": "Pro Microservices in .NET 6",
-    "url": "https://link.springer.com/book/10.1007/978-1-4842-7833-8",
-    "description": "Shows you how to get up to speed with .NET 6, Docker, and microservices. Teaches you how to leverage microservice design patterns to strengthen an application. Provides environment options for orchestrators and Azure Kubernetes Service. [$]"
   },
   {
     "name": "Psake",
@@ -495,6 +390,11 @@
     "name": "FlubuCore",
     "url": "https://github.com/dotnetcore/FlubuCore",
     "description": "A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code."
+  },
+  {
+    "name": "ModularPipelines",
+    "url": "https://github.com/thomhurst/ModularPipelines",
+    "description": "Write your pipelines in C#"
   },
   {
     "name": "FastReport",
@@ -2781,6 +2681,11 @@
     "description": "High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format."
   },
   {
+    "name": "dotnet-exec",
+    "url": "https://github.com/WeihanLi/dotnet-exec",
+    "description": "A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method."
+  },
+  {
     "name": "Community Toolkit",
     "url": "https://github.com/CommunityToolkit",
     "description": "Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes Windows Community Toolkit, MAUI Community Toolkit, and Dotnet Community Toolkit."
@@ -3377,6 +3282,11 @@
     "name": "RegExtract",
     "url": "https://github.com/sblom/RegExtract",
     "description": "Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results."
+  },
+  {
+    "name": "Gigantor",
+    "url": "https://github.com/imagibee/Gigantor",
+    "description": "Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading."
   },
   {
     "name": "FluentScheduler",

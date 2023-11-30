@@ -1755,6 +1755,11 @@
     "description": "A lightweight game engine written in C++14 with a \"true\" entity-component system. [Apache 2.0]"
   },
   {
+    "name": "JNGL",
+    "url": "https://github.com/jhasse/jngl/",
+    "description": "2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. [zlib] website"
+  },
+  {
     "name": "KlayGE",
     "url": "https://github.com/gongminmin/KlayGE",
     "description": "a cross-platform open source game engine with plugin-based architecture. [GPLv2] website"
@@ -2527,6 +2532,11 @@
     "name": "simdjson",
     "url": "https://github.com/lemire/simdjson",
     "description": "Extremely fast JSON library that can parse gigabytes of JSON per second. [Apache-2.0]"
+  },
+  {
+    "name": "Sonic-Cpp",
+    "url": "https://github.com/bytedance/sonic-cpp",
+    "description": "A fast JSON serializing & deserializing library, accelerated by SIMD. [Apache-2.0]"
   },
   {
     "name": "taoJSON",
@@ -3322,6 +3332,11 @@
     "name": "PDF-Writer",
     "url": "https://github.com/galkahana/PDF-Writer",
     "description": "High performance library for creating, modiyfing and parsing PDF files in C++ [Apache-2.0] website"
+  },
+  {
+    "name": "pdfio",
+    "url": "https://github.com/michaelrsweet/pdfio",
+    "description": "A simple C library for reading and writing PDF files. [Apache-2] website"
   },
   {
     "name": "PDFium",
