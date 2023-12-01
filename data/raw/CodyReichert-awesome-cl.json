@@ -159,6 +159,11 @@
     "description": "The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). GPL3."
   },
   {
+    "name": "vacietis",
+    "url": "https://github.com/vsedach/Vacietis",
+    "description": "C to Common Lisp compiler. LGPL3."
+  },
+  {
     "name": "Ironclad",
     "url": "https://github.com/sharplispers/ironclad",
     "description": "A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. Expat."

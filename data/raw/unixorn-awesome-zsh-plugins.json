@@ -9055,6 +9055,11 @@
     "description": "Has a dynamic exit status indicator, can change to two lines dynamically to display context."
   },
   {
+    "name": "promptly",
+    "url": "https://github.com/manuelcattelan/promptly",
+    "description": "Lightweight, async zsh theme for a prompt(ly) experience."
+  },
+  {
     "name": "promptor",
     "url": "https://github.com/MickaelBlet/Promptor",
     "description": "Powerline-inspired. Includes decorators for git status, username, hostname, working directory and time."

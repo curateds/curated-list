@@ -845,6 +845,11 @@
     "description": "DCF77 transmitter for Raspberry Pi Pico W."
   },
   {
+    "name": "micropython_dcf77",
+    "url": "https://github.com/dsiggi/micropython-dcf77",
+    "description": "DCF77 receiver and decoder."
+  },
+  {
     "name": "micropython-ppm_reader",
     "url": "https://github.com/redoxcode/micropython-ppm_reader",
     "description": "Library to decode PPM signals coming from a RC receiver."

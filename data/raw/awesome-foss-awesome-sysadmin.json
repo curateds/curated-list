@@ -155,26 +155,6 @@
     "description": "A customizable, life embetterment robot. (Source Code) MIT Nodejs"
   },
   {
-    "name": "Collins",
-    "url": "https://tumblr.github.io/collins/",
-    "description": "At Tumblr, it's the infrastructure source of truth and knowledge. (Source Code) Apache-2.0 Docker/Scala"
-  },
-  {
-    "name": "i-doit",
-    "url": "https://www.i-doit.org/",
-    "description": "IT Documentation and CMDB. AGPL-3.0 PHP"
-  },
-  {
-    "name": "iTop",
-    "url": "https://www.combodo.com/itop-193",
-    "description": "Complete ITIL web based service management tool. (Source Code) AGPL-3.0 PHP"
-  },
-  {
-    "name": "netbox",
-    "url": "https://netbox.dev/",
-    "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool. (Demo, Source Code) Apache-2.0 Python"
-  },
-  {
     "name": "Ansible",
     "url": "https://www.ansible.com/",
     "description": "Provisioning, configuration management, and application-deployment tool. (Source Code) GPL-3.0 Python"
@@ -200,14 +180,29 @@
     "description": "Event-driven IT automation, remote task execution, and configuration management software. (Source Code) Apache-2.0 Python"
   },
   {
+    "name": "Collins",
+    "url": "https://tumblr.github.io/collins/",
+    "description": "At Tumblr, it's the infrastructure source of truth and knowledge. (Source Code) Apache-2.0 Docker/Scala"
+  },
+  {
+    "name": "i-doit",
+    "url": "https://www.i-doit.org/",
+    "description": "IT Documentation and CMDB. AGPL-3.0 PHP"
+  },
+  {
+    "name": "iTop",
+    "url": "https://www.combodo.com/itop-193",
+    "description": "Complete ITIL web based service management tool. (Source Code) AGPL-3.0 PHP"
+  },
+  {
+    "name": "netbox",
+    "url": "https://netbox.dev/",
+    "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool. (Demo, Source Code) Apache-2.0 Python"
+  },
+  {
     "name": "Buildbot",
     "url": "https://buildbot.net/",
     "description": "Python-based toolkit for continuous integration. (Source Code) GPL-2.0 Python"
-  },
-  {
-    "name": "CapsuleCD",
-    "url": "https://analogj.github.io/capsulecd-slides/",
-    "description": "CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). (Source Code) MIT Go"
   },
   {
     "name": "CDS",
@@ -238,11 +233,6 @@
     "name": "GoCD",
     "url": "https://www.go.cd/",
     "description": "Continuous delivery server. (Source Code) Apache-2.0 Java/Ruby"
-  },
-  {
-    "name": "GolangCI",
-    "url": "https://golangci.com/",
-    "description": "Open Source automated code review service for Go integrated with GitHub pull requests. (Source Code) AGPL-3.0 Go"
   },
   {
     "name": "Jenkins",
@@ -465,6 +455,46 @@
     "description": "Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. (Source Code) BSD-3-Clause Java"
   },
   {
+    "name": "Atomia DNS",
+    "url": "https://github.com/atomia/atomiadns/",
+    "description": "DNS management system. ISC Perl"
+  },
+  {
+    "name": "Designate",
+    "url": "https://wiki.openstack.org/wiki/Designate",
+    "description": "DNSaaS services for OpenStack. (Source Code) Apache-2.0 Python"
+  },
+  {
+    "name": "DNSControl",
+    "url": "https://stackexchange.github.io/dnscontrol/",
+    "description": "Synchronize your DNS to multiple providers from a simple DSL. (Source Code) MIT Go/Docker"
+  },
+  {
+    "name": "DomainMOD",
+    "url": "https://domainmod.org",
+    "description": "Manage your domains and other internet assets in a central location. (Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "nsupdate.info",
+    "url": "https://www.nsupdate.info/",
+    "description": "Dynamic DNS service. (Demo, Source Code) BSD-3-Clause Python"
+  },
+  {
+    "name": "octoDNS",
+    "url": "https://github.com/github/octodns",
+    "description": "DNS as code - Tools for managing DNS across multiple providers. MIT Python"
+  },
+  {
+    "name": "Poweradmin",
+    "url": "https://www.poweradmin.org/",
+    "description": "Web-based DNS control panel for PowerDNS server. (Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "SPF Toolbox",
+    "url": "https://spftoolbox.com",
+    "description": "Application to look up DNS records such as SPF, MX, Whois, and more. (Source Code) MIT PHP"
+  },
+  {
     "name": "Bind",
     "url": "https://www.isc.org/bind/",
     "description": "Versatile, classic, complete name server software. (Source Code) MPL-2.0 C"
@@ -508,46 +538,6 @@
     "name": "Yadifa",
     "url": "https://www.yadifa.eu/",
     "description": "Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. (Source Code) BSD-3-Clause C"
-  },
-  {
-    "name": "Atomia DNS",
-    "url": "https://github.com/atomia/atomiadns/",
-    "description": "DNS management system. ISC Perl"
-  },
-  {
-    "name": "Designate",
-    "url": "https://wiki.openstack.org/wiki/Designate",
-    "description": "DNSaaS services for OpenStack. (Source Code) Apache-2.0 Python"
-  },
-  {
-    "name": "DNSControl",
-    "url": "https://stackexchange.github.io/dnscontrol/",
-    "description": "Synchronize your DNS to multiple providers from a simple DSL. (Source Code) MIT Go/Docker"
-  },
-  {
-    "name": "DomainMOD",
-    "url": "https://domainmod.org",
-    "description": "Manage your domains and other internet assets in a central location. (Source Code) GPL-3.0 PHP"
-  },
-  {
-    "name": "nsupdate.info",
-    "url": "https://www.nsupdate.info/",
-    "description": "Dynamic DNS service. (Demo, Source Code) BSD-3-Clause Python"
-  },
-  {
-    "name": "octoDNS",
-    "url": "https://github.com/github/octodns",
-    "description": "DNS as code - Tools for managing DNS across multiple providers. MIT Python"
-  },
-  {
-    "name": "Poweradmin",
-    "url": "https://www.poweradmin.org/",
-    "description": "Web-based DNS control panel for PowerDNS server. (Source Code) GPL-3.0 PHP"
-  },
-  {
-    "name": "SPF Toolbox",
-    "url": "https://spftoolbox.com",
-    "description": "Application to look up DNS records such as SPF, MX, Whois, and more. (Source Code) MIT PHP"
   },
   {
     "name": "Atom Community",
@@ -655,6 +645,21 @@
     "description": "Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients). (Source Code) OLDAP-2.8 C"
   },
   {
+    "name": "Authelia",
+    "url": "https://www.authelia.com/",
+    "description": "The Single Sign-On Multi-Factor portal for web apps. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Authentik",
+    "url": "https://goauthentik.io/",
+    "description": "Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). (Source Code) MIT Python"
+  },
+  {
+    "name": "KeyCloak",
+    "url": "https://www.keycloak.org",
+    "description": "Open Source Identity and Access Management. (Source Code) Apache-2.0 Java"
+  },
+  {
     "name": "BounCA",
     "url": "https://bounca.org/",
     "description": "A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. (Source Code) Apache-2.0 Python"
@@ -705,21 +710,6 @@
     "description": "Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. (Source Code) Apache-2.0 Go/Docker/K8S"
   },
   {
-    "name": "Authelia",
-    "url": "https://www.authelia.com/",
-    "description": "The Single Sign-On Multi-Factor portal for web apps. (Source Code) Apache-2.0 Go"
-  },
-  {
-    "name": "Authentik",
-    "url": "https://goauthentik.io/",
-    "description": "Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). (Source Code) MIT Python"
-  },
-  {
-    "name": "KeyCloak",
-    "url": "https://www.keycloak.org",
-    "description": "Open Source Identity and Access Management. (Source Code) Apache-2.0 Java"
-  },
-  {
     "name": "GLPI",
     "url": "https://www.glpi-project.org/",
     "description": "Information Resource-Manager with an additional Administration Interface. (Source Code) GPL-3.0 PHP"
@@ -737,12 +727,12 @@
   {
     "name": "RackTables",
     "url": "https://racktables.org/",
-    "description": "Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. (Source Code, Demo) GPL-2.0 PHP"
+    "description": "Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. (Demo, Source Code) GPL-2.0 PHP"
   },
   {
     "name": "Ralph",
     "url": "https://ralph.allegro.tech/",
-    "description": "Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. (Source Code, Demo) Apache-2.0 Python/Docker"
+    "description": "Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. (Demo, Source Code) Apache-2.0 Python/Docker"
   },
   {
     "name": "Snipe IT",
@@ -800,6 +790,51 @@
     "description": "Free email application that's easy to set up and customize. (Source Code) MPL-2.0 C/C++"
   },
   {
+    "name": "Beats",
+    "url": "https://www.elastic.co/beats/",
+    "description": "Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Collectd",
+    "url": "https://collectd.org/",
+    "description": "System statistics collection daemon. (Source Code) MIT C"
+  },
+  {
+    "name": "Diamond",
+    "url": "https://github.com/python-diamond/Diamond",
+    "description": "Daemon that collects system metrics and publishes them to Graphite (and others). MIT Python"
+  },
+  {
+    "name": "Grafana",
+    "url": "https://grafana.com/",
+    "description": "A Graphite & InfluxDB Dashboard and Graph Editor. (Source Code) AGPL-3.0 Go"
+  },
+  {
+    "name": "Graphite",
+    "url": "https://graphite.readthedocs.org/en/latest/",
+    "description": "Scalable graphing server. (Source Code) Apache-2.0 Python"
+  },
+  {
+    "name": "RRDtool",
+    "url": "https://oss.oetiker.ch/rrdtool/",
+    "description": "Industry standard, high performance data logging and graphing system for time series data. (Source Code) GPL-2.0 C"
+  },
+  {
+    "name": "Statsd",
+    "url": "https://github.com/etsy/statsd/",
+    "description": "Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. MIT Nodejs"
+  },
+  {
+    "name": "tcollector",
+    "url": "http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html",
+    "description": "Gathers data from local collectors and pushes the data to OpenTSDB. (Source Code) LGPL-3.0/GPL-3.0 Python"
+  },
+  {
+    "name": "Telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "description": "Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. MIT Go"
+  },
+  {
     "name": "Chocolatey",
     "url": "https://chocolatey.org/",
     "description": "The package manager for Windows. (Source Code) Apache-2.0 C#/PowerShell"
@@ -852,7 +887,7 @@
   {
     "name": "cadvisor",
     "url": "https://github.com/google/cadvisor",
-    "description": "Analyzes resource usage and performance characteristics of running containers. (Source Code) Apache-2.0 Go"
+    "description": "Analyzes resource usage and performance characteristics of running containers. Apache-2.0 Go"
   },
   {
     "name": "checkmk",
@@ -877,7 +912,7 @@
   {
     "name": "glances",
     "url": "https://nicolargo.github.io/glances/",
-    "description": "Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. (Source Code)) GPL-3.0 Python"
+    "description": "Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. (Source Code) GPL-3.0 Python"
   },
   {
     "name": "Healthchecks",
@@ -967,12 +1002,12 @@
   {
     "name": "rtop",
     "url": "https://github.com/rapidloop/rtop",
-    "description": "Interactive, remote system monitoring tool based on SSH. (Source Code) MIT Go"
+    "description": "Interactive, remote system monitoring tool based on SSH. MIT Go"
   },
   {
     "name": "ruptime",
     "url": "https://github.com/alexmyczko/ruptime",
-    "description": "Classic system status server. (Source Code) AGPL-3.0 Shell"
+    "description": "Classic system status server. AGPL-3.0 Shell"
   },
   {
     "name": "Scrutiny",
@@ -998,51 +1033,6 @@
     "name": "Zabbix",
     "url": "https://www.zabbix.com/",
     "description": "Enterprise-class software for monitoring of networks and applications. (Source Code) GPL-2.0 C"
-  },
-  {
-    "name": "Beats",
-    "url": "https://www.elastic.co/beats/",
-    "description": "Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. (Source Code) Apache-2.0 Go"
-  },
-  {
-    "name": "Collectd",
-    "url": "https://collectd.org/",
-    "description": "System statistics collection daemon. (Source Code) MIT C"
-  },
-  {
-    "name": "Diamond",
-    "url": "https://github.com/python-diamond/Diamond",
-    "description": "Daemon that collects system metrics and publishes them to Graphite (and others). MIT Python"
-  },
-  {
-    "name": "Grafana",
-    "url": "https://grafana.com/",
-    "description": "A Graphite & InfluxDB Dashboard and Graph Editor. (Source Code) AGPL-3.0 Go"
-  },
-  {
-    "name": "Graphite",
-    "url": "https://graphite.readthedocs.org/en/latest/",
-    "description": "Scalable graphing server. (Source Code) Apache-2.0 Python"
-  },
-  {
-    "name": "RRDtool",
-    "url": "https://oss.oetiker.ch/rrdtool/",
-    "description": "Industry standard, high performance data logging and graphing system for time series data. (Source Code) GPL-2.0 C"
-  },
-  {
-    "name": "Statsd",
-    "url": "https://github.com/etsy/statsd/",
-    "description": "Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. MIT Nodejs"
-  },
-  {
-    "name": "tcollector",
-    "url": "http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html",
-    "description": "Gathers data from local collectors and pushes the data to OpenTSDB. (Source Code) LGPL-3.0/GPL-3.0 Python"
-  },
-  {
-    "name": "Telegraf",
-    "url": "https://github.com/influxdata/telegraf",
-    "description": "Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. MIT Go"
   },
   {
     "name": "GNS3",

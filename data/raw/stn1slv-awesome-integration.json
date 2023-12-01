@@ -35,7 +35,7 @@
     "description": "A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward."
   },
   {
-    "name": "Gravitee.io API Management (⭐88)",
+    "name": "Gravitee.io API Management (⭐90)",
     "url": "https://github.com/gravitee-io/gravitee-api-management",
     "description": "A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease."
   },
@@ -80,7 +80,7 @@
     "description": "A comprehensive API management solution from Software AG that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments."
   },
   {
-    "name": "WSO2 API Manager (⭐778)",
+    "name": "WSO2 API Manager (⭐779)",
     "url": "https://github.com/wso2/product-apim",
     "description": "A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease."
   },
@@ -125,17 +125,12 @@
     "description": "Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback."
   },
   {
-    "name": "APITree",
-    "url": "https://www.apitree.com/",
-    "description": "A tool for managing and sharing API specifications, with version control, API testing automation, and integration with popular API tools."
-  },
-  {
     "name": "DapperDox (⭐390)",
     "url": "https://github.com/DapperDox/dapperdox",
     "description": "An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing."
   },
   {
-    "name": "OpenAPI Explorer (⭐236)",
+    "name": "OpenAPI Explorer (⭐238)",
     "url": "https://github.com/Rhosys/openapi-explorer",
     "description": "A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs."
   },
@@ -295,9 +290,14 @@
     "description": "GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs."
   },
   {
-    "name": "Microcks (⭐1k)",
-    "url": "https://github.com/microcks/microcks",
-    "description": "Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc."
+    "name": "Imposter (⭐319)",
+    "url": "https://github.com/outofcoffee/imposter",
+    "description": "Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs."
+  },
+  {
+    "name": "Imposter (⭐319)",
+    "url": "https://github.com/outofcoffee/imposter",
+    "description": "Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs."
   },
   {
     "name": "Microcks (⭐1k)",
@@ -450,7 +450,7 @@
     "description": "A Java-based JSON-to-JSON transformation library that uses a JSON document as the \"specification\" for the transform. JOLT provides a simple way for software engineers to transform JSON data."
   },
   {
-    "name": "JSLT (⭐580)",
+    "name": "JSLT (⭐581)",
     "url": "https://github.com/schibsted/jslt",
     "description": "A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs."
   },
@@ -491,7 +491,7 @@
   },
   {
     "name": "Red Hat Fuse",
-    "url": "https://www.redhat.com/en/technologies/jboss-middleware/fuse",
+    "url": "https://developers.redhat.com/products/fuse/overview",
     "description": "A cloud-native integration platform that supports distributed integration capabilities."
   },
   {
@@ -885,7 +885,7 @@
     "description": "An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability."
   },
   {
-    "name": "Redpanda (⭐8k)",
+    "name": "Redpanda (⭐8.1k)",
     "url": "https://github.com/vectorizedio/redpanda",
     "description": "A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics."
   },
@@ -2590,7 +2590,7 @@
     "description": "A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages."
   },
   {
-    "name": "YAML (⭐276)",
+    "name": "YAML (⭐277)",
     "url": "https://github.com/yaml/yaml-spec",
     "description": "A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages."
   },

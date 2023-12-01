@@ -1,7 +1,7 @@
 [
   {
     "name": "Building Reactive Microservices in Java",
-    "url": "https://developers.redhat.com/promotions/building-reactive-microservices-in-java/"
+    "url": "https://www.oreilly.com/library/view/building-reactive-microservices/9781491986295/"
   },
   {
     "name": "Vert.x in Action",
@@ -789,6 +789,11 @@
     "description": "ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features."
   },
   {
+    "name": "SmallRye Fault Tolerance",
+    "url": "https://github.com/smallrye/smallrye-fault-tolerance",
+    "description": "SmallRye Fault Tolerance is an implementation of Eclipse MicroProfile Fault Tolerance with additional features not defined by the specification. Native support of Vert.x and Mutiny."
+  },
+  {
     "name": "Vert.x Elasticsearch Service",
     "url": "https://github.com/englishtown/vertx-elasticsearch-service",
     "description": "Vert.x 3 Elasticsearch service with event bus proxying."
@@ -797,11 +802,6 @@
     "name": "Vert.x Solr Service",
     "url": "https://github.com/englishtown/vertx-solr-service",
     "description": "Vert.x 3 Solr service with event bus proxying."
-  },
-  {
-    "name": "KorTE Template Engine",
-    "url": "https://github.com/korlibs/korte",
-    "description": "Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods."
   },
   {
     "name": "Service Factory",
@@ -1192,38 +1192,8 @@
     "url": "https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava"
   },
   {
-    "name": "First Steps With Vert.x and Infinispan - Part 2: PUSH API",
-    "url": "https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par",
-    "description": "Part 2: PUSH API"
-  },
-  {
-    "name": "First Steps With Vert.x and Infinispan - Part 1: REST API",
-    "url": "https://dzone.com/articles/first-steps-with-vertx-and-infinispan-rest-api",
-    "description": "Part 1: REST API"
-  },
-  {
-    "name": "Location Transparency With Vert.x",
-    "url": "https://dzone.com/articles/location-transparency-with-vertx"
-  },
-  {
-    "name": "Reactive Microservices and Service Discovery with Vert.x",
-    "url": "https://dzone.com/articles/reactive-microservices-and-service-discovery-with"
-  },
-  {
-    "name": "https://dzone.com/articles/vertx-330-development-automation",
-    "url": "https://dzone.com/articles/vertx-330-development-automation"
-  },
-  {
     "name": "Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More",
     "url": "https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features"
-  },
-  {
-    "name": "Launching Vert.x Dynamically",
-    "url": "https://dzone.com/articles/vertx-launcher"
-  },
-  {
-    "name": "Secure Your Vertx 3 App With Pac4j",
-    "url": "https://dzone.com/articles/secure-your-vertx"
   },
   {
     "name": "Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM",
