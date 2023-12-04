@@ -920,6 +920,11 @@
     "description": "Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. (Source Code) MIT Docker/Python"
   },
   {
+    "name": "Source Code",
+    "url": "https://github.com/stalwartlabs/mail-server",
+    "description": "All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. (Source Code) AGPL-3.0 Rust/Docker"
+  },
+  {
     "name": "wildduck",
     "url": "https://wildduck.email/",
     "description": "Scalable no-SPOF IMAP/POP3 mail server. (Source Code) EUPL-1.2 Nodejs/Docker"
@@ -2625,6 +2630,11 @@
     "description": "Minimalist text adventure game for your browser. (Demo) MPL-2.0 Javascript"
   },
   {
+    "name": "Digibuzzer",
+    "url": "https://digibuzzer.app/",
+    "description": "Create a virtual game room around a connected buzzer (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
+  },
+  {
     "name": "EmuLinkerSF",
     "url": "https://emulinker.org",
     "description": "EmuLinkerSF is an open source Kaillera server. Kaillera is a client/server system that any emulator can implement to enable netplay over the Internet. (Source Code) GPL-2.0 Java"
@@ -2963,6 +2973,11 @@
     "name": "Inventree",
     "url": "https://inventree.readthedocs.io/en/latest/",
     "description": "InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. (Demo, Source Code) MIT Python"
+  },
+  {
+    "name": "Shelf",
+    "url": "https://www.shelf.nu",
+    "description": "Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever. (Source Code) AGPL-3.0 Nodejs"
   },
   {
     "name": "Atomic Server",
@@ -3465,6 +3480,11 @@
     "description": "Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. (Demo) BSD-2-Clause Python"
   },
   {
+    "name": "Bracket",
+    "url": "https://evroon.github.io/bracket",
+    "description": "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. (Source Code) MIT Docker/Nodejs"
+  },
+  {
     "name": "CapRover",
     "url": "https://caprover.com/",
     "description": "Build your own PaaS in a few minutes. (Demo, Source Code) Apache-2.0 Docker/Nodejs"
@@ -3493,6 +3513,11 @@
     "name": "CyberChef",
     "url": "https://github.com/gchq/CyberChef",
     "description": "Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. (Demo) Apache-2.0 Javascript"
+  },
+  {
+    "name": "Digiface",
+    "url": "https://ladigitale.dev/digiface/",
+    "description": "Create avatars using the Avataaars library (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
   },
   {
     "name": "Digiview",
@@ -4357,7 +4382,7 @@
   {
     "name": "LibrePhotos",
     "url": "https://github.com/LibrePhotos/librephotos",
-    "description": "Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. MIT Python/Docker"
+    "description": "Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. (Clients) MIT Python/Docker"
   },
   {
     "name": "Lychee",
@@ -5050,11 +5075,6 @@
     "description": "Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. (Source Code) Apache-2.0 Java/Docker/K8S"
   },
   {
-    "name": "Budibase",
-    "url": "https://www.budibase.com",
-    "description": "Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian). (Source Code) GPL-3.0 Nodejs/Docker/K8S"
-  },
-  {
     "name": "Dashpress",
     "url": "https://github.com/dashpresshq/dashpress",
     "description": "Generate fully functional admin apps in seconds from your database information, with a single command. (Demo) AGPL-3.0 Nodejs/Docker"
@@ -5223,6 +5243,11 @@
     "name": "SCM Manager",
     "url": "https://www.scm-manager.org/",
     "description": "The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. (Source Code) BSD-3-Clause Java/deb/Docker/K8S"
+  },
+  {
+    "name": "Smederee",
+    "url": "https://smeder.ee",
+    "description": "A frugal platform which is dedicated to help people build great software together leveraging the power of the Darcs version control system. (Source Code) AGPL-3.0 Scala"
   },
   {
     "name": "Sourcehut",

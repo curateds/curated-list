@@ -2194,6 +2194,11 @@
     "description": "A fast image processing library with low memory needs. [LGPL] website"
   },
   {
+    "name": "LodePNG",
+    "url": "https://github.com/lvandeve/lodepng",
+    "description": "PNG encoder and decoder in C and C++. [Zlib]"
+  },
+  {
     "name": "Magick++",
     "url": "https://imagemagick.org/script/magick++.php",
     "description": "ImageMagick program interfaces for C++. [Apache2]"
@@ -4111,6 +4116,11 @@
     "name": "DynaMix",
     "url": "https://github.com/iboB/dynamix",
     "description": "A library which allows you to compose and modify objects at run time. [MIT]"
+  },
+  {
+    "name": "emio",
+    "url": "https://github.com/Viatorus/emio",
+    "description": "A safe and fast high-level and low-level character input/output library. [MIT]"
   },
   {
     "name": "faker-cxx",

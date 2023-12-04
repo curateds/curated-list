@@ -1050,6 +1050,11 @@
     "description": "Telescope extension to move between directories blazingly fast."
   },
   {
+    "name": "echasnovski/mini.nvim#mini.visits",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md",
+    "description": "Module of mini.nvim to persistently track and reuse file system visits. Allows listing \"recent\"/\"frequent\"/\"frecent\" visits, adding/removing labels to visits and other data."
+  },
+  {
     "name": "NvChad/nvim-colorizer.lua",
     "url": "https://github.com/NvChad/nvim-colorizer.lua",
     "description": "A high-performance color highlighter which has no external dependencies!."
@@ -3878,6 +3883,11 @@
     "name": "jyscao/ventana.nvim",
     "url": "https://github.com/jyscao/ventana.nvim",
     "description": "Convenient flips & shifts for your windows layout."
+  },
+  {
+    "name": "mrjones2014/smart-splits.nvim",
+    "url": "https://github.com/mrjones2014/smart-splits.nvim",
+    "description": "Smart, seamless, directional navigation and resizing of splits."
   },
   {
     "name": "aserowy/tmux.nvim",

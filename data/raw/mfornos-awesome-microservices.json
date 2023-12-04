@@ -25,11 +25,6 @@
     "description": "SDK for cloud native infrastructure as code. Use your favorite language to preview and manage updates to your apps and infrastructure, and continuously deploy to any cloud (no YAML required)."
   },
   {
-    "name": "Svix",
-    "url": "https://svix.com",
-    "description": "Webhooks service that sends webhooks to your users with full retry schedules, exponential backoff, signature verification, and event types."
-  },
-  {
     "name": "Triton",
     "url": "https://github.com/joyent/triton",
     "description": "Open-source cloud management platform that delivers next generation, container-based, service-oriented infrastructure across one or more data centers."
@@ -1200,6 +1195,11 @@
     "description": "A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems."
   },
   {
+    "name": "Svix",
+    "url": "https://svix.com",
+    "description": "Webhooks service that sends webhooks to your users with full retry schedules, exponential backoff, signature verification, and event types."
+  },
+  {
     "name": "Dex",
     "url": "https://github.com/coreos/dex",
     "description": "Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation."
@@ -1723,31 +1723,6 @@
     "name": "RFC7644",
     "url": "https://tools.ietf.org/html/rfc7644",
     "description": "SCIM: Protocol, an application-level, REST protocol for provisioning and managing identity data on the web."
-  },
-  {
-    "name": "HAL",
-    "url": "https://tools.ietf.org/html/draft-kelly-json-hal-07",
-    "description": "The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. DRAFT"
-  },
-  {
-    "name": "Hydra",
-    "url": "http://www.hydra-cg.com/",
-    "description": "Specifications for interoperable, hypermedia-driven Web APIs."
-  },
-  {
-    "name": "OpenAPI",
-    "url": "https://github.com/OAI/openapi-specification/",
-    "description": "The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic."
-  },
-  {
-    "name": "WADL",
-    "url": "http://www.w3.org/Submission/wadl/",
-    "description": "The Web Application Description Language specification."
-  },
-  {
-    "name": "WSDL",
-    "url": "http://www.w3.org/TR/wsdl20/",
-    "description": "The Web Services Description Language Version 2.0 spec."
   },
   {
     "name": "DNS-SD",

@@ -185,6 +185,11 @@
     "description": "A Python module for fitting the Log-Periodic Power Law Singularity (LPPLS) model."
   },
   {
+    "name": "Investing algorithm framework",
+    "url": "https://github.com/coding-kitties/investing-algorithm-framework",
+    "description": "Framework for developing, backtesting, and deploying automated trading algorithms."
+  },
+  {
     "name": "QSTrader",
     "url": "https://github.com/mhallsmoore/qstrader",
     "description": "QSTrader backtesting simulation engine."
@@ -588,6 +593,11 @@
     "name": "Spectre",
     "url": "https://github.com/Heerozh/spectre",
     "description": "GPU-accelerated Factors analysis library and Backtester"
+  },
+  {
+    "name": "Jupyter Quant",
+    "url": "https://github.com/gnzsnz/jupyter-quant",
+    "description": "A dockerized Jupyter quant research environment with preloaded tools for quant analysis, statsmodels, pymc, arch, py_vollib, zipline-reloaded, PyPortfolioOpt, etc."
   },
   {
     "name": "ARCH",
