@@ -1528,6 +1528,11 @@
     "description": "Logs/event transport, processing, management, search."
   },
   {
+    "name": "Kamal",
+    "url": "https://github.com/basecamp/kamal",
+    "description": "Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker."
+  },
+  {
     "name": "Mina",
     "url": "https://github.com/mina-deploy/mina",
     "description": "Really fast deployer and server automation tool."

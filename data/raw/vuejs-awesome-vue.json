@@ -4852,11 +4852,6 @@
     "description": "Integrate the Laravel datatables with your Vue app without using JQuery."
   },
   {
-    "name": "vuetify-resize-drawer",
-    "url": "https://github.com/webdevnerdstuff/vuetify-resize-drawer",
-    "description": "Vuetify v2. The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user."
-  },
-  {
     "name": "el-col-group",
     "url": "https://github.com/jiangfei5945/el-col-group",
     "description": "Powerful and Flexable column for Element table."
@@ -4865,6 +4860,11 @@
     "name": "tanstack-table",
     "url": "https://github.com/tanstack/table",
     "description": "Headless UI for building powerful tables & datagrids."
+  },
+  {
+    "name": "vuetify-drilldown-table",
+    "url": "https://github.com/webdevnerdstuff/vuetify-drilldown-table",
+    "description": "The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format."
   },
   {
     "name": "vue-notifications",
@@ -5569,6 +5569,11 @@
     "name": "@kolirt/vue-modal",
     "url": "https://github.com/kolirt/vue-modal",
     "description": "⚡️ Simple Vue3 modal package"
+  },
+  {
+    "name": "vuetify-resize-drawer",
+    "url": "https://github.com/webdevnerdstuff/vuetify-resize-drawer",
+    "description": "The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user."
   },
   {
     "name": "vue-parallax",
@@ -7774,8 +7779,8 @@
     "description": "A lightweight calendar heatmap Vue 3 component built on SVG"
   },
   {
-    "name": "vue3-code-block",
-    "url": "https://github.com/webdevnerdstuff/vue3-code-block",
+    "name": "vue-code-block",
+    "url": "https://github.com/webdevnerdstuff/vue-code-block",
     "description": "Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js."
   },
   {
@@ -8548,6 +8553,11 @@
     "url": "https://github.com/gVguy/vue-color-input"
   },
   {
+    "name": "vuetify-color-field",
+    "url": "https://github.com/webdevnerdstuff/vuetify-color-field",
+    "description": "Vuetify Color Field is a Vuetify VTextField Color Picker Component"
+  },
+  {
     "name": "vue-switches",
     "url": "https://github.com/drewjbartlett/vue-switches",
     "description": "An on/off switch component for Vue.js with theme support."
@@ -9229,6 +9239,11 @@
     "name": "v-use-places-autocomplete",
     "url": "https://github.com/wobsoriano/v-use-places-autocomplete",
     "description": "📍 Vue composable for Google Maps Places Autocomplete."
+  },
+  {
+    "name": "vuetify-inline-fields",
+    "url": "https://github.com/webdevnerdstuff/vuetify-inline-fields",
+    "description": "Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications."
   },
   {
     "name": "vue-form-wizard",

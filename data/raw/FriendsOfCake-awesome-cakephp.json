@@ -183,11 +183,6 @@
     "description": "A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure."
   },
   {
-    "name": "QueueScheduler plugin",
-    "url": "https://github.com/dereuromark/cakephp-queue-scheduler",
-    "description": "A dependency-free crontab-like scheduler as DB driven solution and addon to Queue plugin."
-  },
-  {
     "name": "FileStorage plugin",
     "url": "https://github.com/dereuromark/cakephp-file-storage",
     "description": "Flexible file storage and upload plugin."
@@ -429,13 +424,18 @@
   },
   {
     "name": "Queue plugin",
+    "url": "https://github.com/cakephp/queue",
+    "description": "CakePHP core queue system for the php-queue queue library."
+  },
+  {
+    "name": "Queue plugin",
     "url": "https://github.com/dereuromark/cakephp-queue",
     "description": "A minimal and dependency-free queue solution."
   },
   {
-    "name": "Queue plugin",
-    "url": "https://github.com/cakephp/queue",
-    "description": "CakePHP core queue system for the php-queue queue library."
+    "name": "QueueScheduler plugin",
+    "url": "https://github.com/dereuromark/cakephp-queue-scheduler",
+    "description": "A dependency-free crontab-like scheduler as DB driven solution and addon to Queue plugin."
   },
   {
     "name": "CRUD plugin",
