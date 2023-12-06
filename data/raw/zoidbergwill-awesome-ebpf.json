@@ -552,6 +552,11 @@
     "description": "Example programs for using RedBPF to write eBPF programs in Rust."
   },
   {
+    "name": "XDP/TC-eBPF example",
+    "url": "https://github.com/netfoundry/zfw",
+    "description": "Program that uses XDP/TC-eBPF to provide statefull firewalling and socket redirection."
+  },
+  {
     "name": "bcc",
     "url": "https://github.com/iovisor/bcc/",
     "description": "Framework and set of tools - One way to handle BPF programs, in particular for tracing and monitoring. Also includes some utilities that may help inspect maps or programs on the system."

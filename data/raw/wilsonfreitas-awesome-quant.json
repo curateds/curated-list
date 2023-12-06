@@ -525,6 +525,11 @@
     "description": "A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books."
   },
   {
+    "name": "vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "description": "VeighNa is a Python-based open source quantitative trading system development framework."
+  },
+  {
     "name": "pyfolio",
     "url": "https://github.com/quantopian/pyfolio",
     "description": "Portfolio and risk analytics in Python."
@@ -1495,11 +1500,6 @@
     "description": "Javascript SDK for Trading/Data API and Websockets for FTX, FTXUS, OKX, Bybit, & More."
   },
   {
-    "name": "Mida",
-    "url": "https://github.com/Reiryoku-Technologies/Mida",
-    "description": "The open-source and cross-platform trading framework (https://www.mida.org/)."
-  },
-  {
     "name": "QUANTAXIS_Webkit",
     "url": "https://github.com/yutiansut/QUANTAXIS_Webkit",
     "description": "An awesome visualization center based on quantaxis."
@@ -1881,5 +1881,10 @@
     "name": "Quant-Finance-With-Python-Code",
     "url": "https://github.com/lingyixu/Quant-Finance-With-Python-Code",
     "description": "Repo for code examples in Quantitative Finance with Python by Chris Kelliher"
+  },
+  {
+    "name": "QuantFinanceTraining",
+    "url": "https://github.com/JoaoJungblut/QuantFinanceTraining",
+    "description": "This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference."
   }
 ]
