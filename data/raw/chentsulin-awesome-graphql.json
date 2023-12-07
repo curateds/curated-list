@@ -541,6 +541,16 @@
     "description": "A comprehensive list of validator directive wraps Validator.js functionalities"
   },
   {
+    "name": "WunderGraph Cosmo",
+    "url": "https://github.com/wundergraph/cosmo",
+    "description": "The Open-Source GraphQL Federation Solution with Full Lifecycle API Management for (Federated) GraphQL. Schema Registry, composition checks, analytics, metrics, tracing and routing."
+  },
+  {
+    "name": "graphql-go-tools",
+    "url": "https://github.com/wundergraph/graphql-go-tools",
+    "description": "A graphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more."
+  },
+  {
     "name": "React Starter Kit",
     "url": "https://github.com/kriasoft/react-starter-kit",
     "description": "front-end starter kit using React, Relay, GraphQL, and JAM stack architecture."
@@ -1083,6 +1093,11 @@
   {
     "name": "graphjin",
     "url": "https://github.com/dosco/graphjin"
+  },
+  {
+    "name": "graphql-go-tools",
+    "url": "https://github.com/wundergraph/graphql-go-tools",
+    "description": "A graphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more."
   },
   {
     "name": "golang-relay-starter-kit",

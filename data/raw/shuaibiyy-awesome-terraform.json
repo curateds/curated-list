@@ -591,6 +591,11 @@
     "description": "Private Terraform registry implementation as an alternative to the official registry."
   },
   {
+    "name": "boring-registry",
+    "url": "https://github.com/TierMobility/boring-registry",
+    "description": "Private Terraform Module/Provider Registry with API key authentication and blob storage support"
+  },
+  {
     "name": "citizen",
     "url": "https://github.com/outsideris/citizen",
     "description": "Private Terraform Module/Provider Registry"
@@ -719,6 +724,11 @@
     "name": "terraform-provider-dominos",
     "url": "https://github.com/ndmckinley/terraform-provider-dominos",
     "description": "Provider for Dominos Pizza."
+  },
+  {
+    "name": "terraform-provider-elasticstack",
+    "url": "https://github.com/elastic/terraform-provider-elasticstack",
+    "description": "Provider for Elasticsearch and Kibana."
   },
   {
     "name": "terraform-provider-env0",

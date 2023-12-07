@@ -2969,6 +2969,11 @@
     "description": "Golang package that generates clean, responsive HTML e-mails."
   },
   {
+    "name": "Maddy",
+    "url": "https://github.com/foxcpp/maddy",
+    "description": "All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server"
+  },
+  {
     "name": "mailchain",
     "url": "https://github.com/mailchain/mailchain",
     "description": "Send encrypted emails to blockchain addresses written in Go."
@@ -3147,6 +3152,11 @@
     "name": "errors",
     "url": "https://github.com/PumpkinSeed/errors",
     "description": "The most simple error wrapper with awesome performance and minimal memory overhead."
+  },
+  {
+    "name": "errors",
+    "url": "https://gitlab.com/tozd/go/errors",
+    "description": "Providing errors with a stack trace and optional structured details. Compatible with github.com/pkg/errors API but does not use it internally."
   },
   {
     "name": "errors",
@@ -4091,6 +4101,11 @@
     "name": "go-sciter",
     "url": "https://github.com/sciter-sdk/go-sciter",
     "description": "Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform."
+  },
+  {
+    "name": "Goey",
+    "url": "https://bitbucket.org/rj/goey/src/master/",
+    "description": "Cross platform UI toolkit aggregator for Windows / Linux / Mac. GTK, Cocoa, Windows API"
   },
   {
     "name": "goradd/html5tag",
@@ -7571,6 +7586,11 @@
     "name": "goprotobuf",
     "url": "https://github.com/golang/protobuf",
     "description": "Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers."
+  },
+  {
+    "name": "gotiny",
+    "url": "https://github.com/raszia/gotiny",
+    "description": "Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code."
   },
   {
     "name": "jsoniter",
@@ -11369,9 +11389,19 @@
     "description": "High-performance load testing tool, written in Golang."
   },
   {
+    "name": "decompose",
+    "url": "https://github.com/s0rg/decompose",
+    "description": "tool to generate and process Docker containers connections graphs."
+  },
+  {
     "name": "DepCharge",
     "url": "https://github.com/centerorbit/depcharge",
     "description": "Helps orchestrating the execution of commands across the many dependencies in larger projects."
+  },
+  {
+    "name": "Docker",
+    "url": "https://www.docker.com/",
+    "description": "Open platform for distributed applications for developers and sysadmins."
   },
   {
     "name": "docker-go-mingw",
@@ -11787,11 +11817,6 @@
     "name": "croc",
     "url": "https://github.com/schollz/croc",
     "description": "Easily and securely send files or folders from one computer to another."
-  },
-  {
-    "name": "Docker",
-    "url": "https://www.docker.com/",
-    "description": "Open platform for distributed applications for developers and sysadmins."
   },
   {
     "name": "Documize",

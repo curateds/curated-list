@@ -597,6 +597,11 @@
     "description": "Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time."
   },
   {
+    "name": "PETEP",
+    "url": "https://github.com/Warxim/petep",
+    "description": "Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support."
+  },
+  {
     "name": "Autopsy",
     "url": "http://www.sleuthkit.org/autopsy/",
     "description": "A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools"
@@ -914,5 +919,10 @@
     "name": "Rawsec's CyberSecurity Inventory",
     "url": "https://inventory.raw.pm/",
     "description": "An open-source inventory of tools, resources, CTF platforms and Operating Systems about CyberSecurity. (Source)"
+  },
+  {
+    "name": "The Cyberclopaedia",
+    "url": "https://cr0mll.github.io/cyberclopaedia/",
+    "description": "The open-source encyclopedia of cybersecurity. GitHub Repository"
   }
 ]
