@@ -35,6 +35,11 @@
     "description": "An addon for folke/lazy.nvim. Facilitates the testing and troubleshooting of a Neovim configuration."
   },
   {
+    "name": "nvim-neorocks/rocks.nvim",
+    "url": "https://github.com/nvim-neorocks/rocks.nvim",
+    "description": "A modern approach to plugin management using Luarocks, inspired by Cargo."
+  },
+  {
     "name": "neovim/nvim-lspconfig",
     "url": "https://github.com/neovim/nvim-lspconfig",
     "description": "Quickstart configurations for the LSP client."

@@ -1208,7 +1208,7 @@
   {
     "name": "command-not-found (freed-wu)",
     "url": "https://github.com/Freed-Wu/zsh-command-not-found",
-    "description": "Uses the command-not-found package for zsh to provide suggested packages to be installed if a command cannot be found."
+    "description": "Uses the command-not-found package for ZSH to provide suggested packages to be installed if a command cannot be found."
   },
   {
     "name": "command-not-found (tarrasch)",
@@ -1978,7 +1978,7 @@
   {
     "name": "git-check",
     "url": "https://github.com/git-girl/git-check",
-    "description": "Adds a zsh hook to check if the origin of the current branch has changes to local in the background and sends a notification."
+    "description": "Adds a ZSH hook to check if the origin of the current branch has changes to local in the background and sends a notification."
   },
   {
     "name": "git-clean-branch",
@@ -2562,7 +2562,7 @@
   },
   {
     "name": "kubecolor (devopstales)",
-    "url": "https://github.com/devopstales/kubecolor-zsh",
+    "url": "https://github.com/devopstales/zsh-kubecolor",
     "description": "Adds aliases for the kubecolor command."
   },
   {
@@ -4853,7 +4853,7 @@
   {
     "name": "zshrpg",
     "url": "https://github.com/aliervo/zshrpg",
-    "description": "A wrapper that fully integrates rpg-cli with zsh!"
+    "description": "A wrapper that fully integrates rpg-cli with ZSH!"
   },
   {
     "name": "zsnapac",
@@ -5083,7 +5083,7 @@
   {
     "name": "cross-compiler",
     "url": "https://github.com/Freed-Wu/zsh-completions-for-cross-compilers",
-    "description": "In cross compilations, there are many tools like x86_64-w64-mingw32-gcc, x86_64-linux-android32-clang, arm-none-eabi-gcc, etc. This plugin provides zsh completions for them."
+    "description": "In cross compilations, there are many tools like x86_64-w64-mingw32-gcc, x86_64-linux-android32-clang, arm-none-eabi-gcc, etc. This plugin provides ZSH completions for them."
   },
   {
     "name": "ctop",
@@ -5443,7 +5443,7 @@
   {
     "name": "more-completions",
     "url": "https://github.com/MenkeTechnologies/zsh-more-completions",
-    "description": "10500 zsh compsys completions!"
+    "description": "10500 ZSH compsys completions!"
   },
   {
     "name": "msfvenom",
@@ -7477,7 +7477,7 @@
   {
     "name": "hexagon",
     "url": "https://github.com/diogoazevedos/hexagon",
-    "description": "Minimalist zsh theme based on geometry."
+    "description": "Minimalist ZSH theme based on geometry."
   },
   {
     "name": "hfulldate",
@@ -7923,6 +7923,11 @@
     "name": "lagune",
     "url": "https://github.com/noplay/lagune",
     "description": "A minimal ZSH theme."
+  },
+  {
+    "name": "lambda (bluedragon1221)",
+    "url": "https://github.com/bluedragon1221/zsh-lambda-prompt",
+    "description": "Includes decorators for current directory and git status."
   },
   {
     "name": "lambda (cdimascio)",
@@ -8570,6 +8575,11 @@
     "description": "Based on af-magic."
   },
   {
+    "name": "niotna",
+    "url": "https://github.com/niotna/niotna-theme",
+    "description": "Includes decorators for git status and current directory. Customizable colors."
+  },
+  {
     "name": "nknu",
     "url": "https://github.com/aanc/oh-my-zsh-nknu-theme",
     "description": "A simple oh-my-zsh theme."
@@ -8783,6 +8793,11 @@
     "name": "papercolor",
     "url": "https://github.com/erikschreier/PaperColor-themes",
     "description": "Color scheme for ZSH, vim and tmux. Includes git status decorations."
+  },
+  {
+    "name": "paramour",
+    "url": "https://github.com/espeon/paramour",
+    "description": "Simple and clean, has decorators for git status, username, time, current directory and username. Requires a nerd font in your terminal."
   },
   {
     "name": "paroape",
@@ -9057,7 +9072,7 @@
   {
     "name": "promptly",
     "url": "https://github.com/manuelcattelan/promptly",
-    "description": "Lightweight, async zsh theme for a prompt(ly) experience."
+    "description": "Lightweight, async ZSH theme for a prompt(ly) experience."
   },
   {
     "name": "promptor",

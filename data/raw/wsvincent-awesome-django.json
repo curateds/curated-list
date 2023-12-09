@@ -575,6 +575,11 @@
     "description": "Modal filter for django admin."
   },
   {
+    "name": "django-elasticsearch-dsl",
+    "url": "https://github.com/django-es/django-elasticsearch-dsl",
+    "description": "Elasticsearch DSL integration for Django."
+  },
+  {
     "name": "django-check-seo",
     "url": "https://github.com/kapt-labs/django-check-seo",
     "description": "Check SEO of pages."

@@ -875,6 +875,11 @@
     "description": "A warehouse-first Customer Data Platform that enables you to collect data from every application, website and SaaS platform, and then activate it in your warehouse and business tools."
   },
   {
+    "name": "PACE",
+    "url": "https://github.com/getstrm/pace",
+    "description": "An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)"
+  },
+  {
     "name": "lakeFS",
     "url": "https://github.com/treeverse/lakeFS",
     "description": "lakeFS is an open source platform that delivers resilience and manageability to object-storage based data lakes."

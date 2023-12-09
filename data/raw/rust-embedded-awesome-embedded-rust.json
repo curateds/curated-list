@@ -308,6 +308,10 @@
     "url": "https://github.com/atsamd-rs/atsamd"
   },
   {
+    "name": "atsamx7x-rust",
+    "url": "https://github.com/atsams-rs/atsamx7x-rust"
+  },
+  {
     "name": "avr-device",
     "url": "https://github.com/Rahix/avr-device"
   },
@@ -749,6 +753,11 @@
     "name": "atsamd-hal",
     "url": "https://crates.io/crates/atsamd-hal",
     "description": "HAL for SAMD11, SAMD21, SAMD51 and SAME54 -"
+  },
+  {
+    "name": "atsamx7x-hal",
+    "url": "https://crates.io/crates/atsamx7x-hal",
+    "description": "HAL for SAM S70/E70/V70/V71-based devices -"
   },
   {
     "name": "avr-hal",

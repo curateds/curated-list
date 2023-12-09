@@ -11,7 +11,7 @@
   },
   {
     "name": "Flask-Classful",
-    "url": "https://flask-classful.teracy.org/",
+    "url": "https://flask-classful.readthedocs.io/",
     "description": "Adds support for class-based views for setting up RESTful API route endpoints."
   },
   {
@@ -721,14 +721,9 @@
     "description": "Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI."
   },
   {
-    "name": "Flask-Scaffold",
-    "url": "https://github.com/Leo-G/Flask-Scaffold",
-    "description": "Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask."
-  },
-  {
-    "name": "Flask-VueJS",
-    "url": "https://github.com/marcuxyz/flask-vuejs",
-    "description": "Connect Flask application with VueJS."
+    "name": "MVC Flask",
+    "url": "https://github.com/marcuxyz/mvc-flask",
+    "description": "You can use the mvc pattern in your flask application using this extension."
   },
   {
     "name": "ActorCloud",
