@@ -2189,6 +2189,11 @@
     "description": "Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. [BSD-2-Clause] website"
   },
   {
+    "name": "libavif",
+    "url": "https://github.com/AOMediaCodec/libavif",
+    "description": "Library for encoding and decoding .avif files. [BSD-2-Clause]"
+  },
+  {
     "name": "libfacedetection",
     "url": "https://github.com/ShiqiYu/libfacedetection",
     "description": "Open source library for face detection in images. The face detection speed can reach 1500FPS. [BSD]"

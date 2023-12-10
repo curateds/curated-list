@@ -290,6 +290,11 @@
     "description": "Automatically resolves imports for undefined terms. Useful with pyright language server."
   },
   {
+    "name": "jmbuhr/otter.nvim",
+    "url": "https://github.com/jmbuhr/otter.nvim",
+    "description": "Provides LSP features and a nvim-cmp completion source for languages embedded in other documents."
+  },
+  {
     "name": "anott03/nvim-lspinstall",
     "url": "https://github.com/anott03/nvim-lspinstall",
     "description": "Easy to install language servers."
@@ -483,6 +488,11 @@
     "name": "chomosuke/typst-preview.nvim",
     "url": "https://github.com/chomosuke/typst-preview.nvim",
     "description": "Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview."
+  },
+  {
+    "name": "quarto-dev/quarto-nvim",
+    "url": "https://github.com/quarto-dev/quarto-nvim",
+    "description": "Tools for working with Quarto documents."
   },
   {
     "name": "ray-x/go.nvim",
