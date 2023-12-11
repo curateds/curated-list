@@ -115,6 +115,11 @@
     "description": "GLib provides the core application building blocks for libraries and applications written in C. [LGPL]"
   },
   {
+    "name": "itlib",
+    "url": "https://github.com/iboB/itlib",
+    "description": "A collection of std-like single-header C++ libraries  [MIT]"
+  },
+  {
     "name": "JUCE",
     "url": "https://github.com/julianstorer/JUCE",
     "description": "An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] website"

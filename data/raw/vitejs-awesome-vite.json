@@ -1279,6 +1279,11 @@
     "description": "Plugin for Remix.run development tools."
   },
   {
+    "name": "vite-plugin-legacy-swc",
+    "url": "https://github.com/CyanSalt/vite-plugin-legacy-swc",
+    "description": "Legacy browser support with SWC."
+  },
+  {
     "name": "unplugin-icons",
     "url": "https://github.com/antfu/unplugin-icons",
     "description": "Access thousands of icons as components."
@@ -1987,6 +1992,11 @@
     "name": "vite-plugin-i18n-detector",
     "url": "https://github.com/hemengke1997/vite-plugin-i18n-detector",
     "description": "Lazyload i18n locale resources."
+  },
+  {
+    "name": "vite-plugin-ngrok",
+    "url": "https://github.com/aphex/vite-plugin-ngrok",
+    "description": "Integration with Ngrok, allowing you to easily share your local development server."
   },
   {
     "name": "mocha-vite-puppeteer",
