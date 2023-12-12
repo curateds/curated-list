@@ -771,7 +771,12 @@
   {
     "name": "react-vite-template",
     "url": "https://github.com/Mirazex/react-vite-template",
-    "description": "Frontend template for building web apps (React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged and others features)."
+    "description": "React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged."
+  },
+  {
+    "name": "gravity-ui-vite-template",
+    "url": "https://github.com/gravity-ui/gravity-ui-vite-example",
+    "description": "Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged)."
   },
   {
     "name": "SvelteKit",
@@ -1997,6 +2002,11 @@
     "name": "vite-plugin-ngrok",
     "url": "https://github.com/aphex/vite-plugin-ngrok",
     "description": "Integration with Ngrok, allowing you to easily share your local development server."
+  },
+  {
+    "name": "vite-plugin-docker",
+    "url": "https://github.com/yracnet/vite-plugin-docker",
+    "description": "Docker utility based on Dockerode."
   },
   {
     "name": "mocha-vite-puppeteer",

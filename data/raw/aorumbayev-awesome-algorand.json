@@ -450,6 +450,11 @@
     "description": "Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development."
   },
   {
+    "name": "puya",
+    "url": "https://github.com/algorandfoundation/puya",
+    "description": "PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax."
+  },
+  {
     "name": "pyteal",
     "url": "https://github.com/algorand/pyteal",
     "description": "Algorand Smart Contracts in Python."

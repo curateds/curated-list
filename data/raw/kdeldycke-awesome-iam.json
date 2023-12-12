@@ -498,6 +498,11 @@
     "url": "https://news.ycombinator.com/item?id=20136831"
   },
   {
+    "name": "Authorization Academy",
+    "url": "https://www.osohq.com/academy",
+    "description": "An in-depth, vendor-agnostic treatment of authorization that emphasizes mental models. This guide shows the reader how to think about their authorization needs in order to make good decisions about their authorization architecture and model."
+  },
+  {
     "name": "Keto",
     "url": "https://github.com/ory/keto",
     "description": "Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource."

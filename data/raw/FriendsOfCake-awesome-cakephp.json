@@ -119,6 +119,11 @@
     "description": "For caching views (HTML, CSV, JSON, XML, ...) as static cache files."
   },
   {
+    "name": "CakeDC/CachedRouting",
+    "url": "https://github.com/CakeDC/cakephp-cached-routing",
+    "description": "Provides a cached version of the RoutingMiddleware to improve the load time of routes."
+  },
+  {
     "name": "CakeDC/PHPStan",
     "url": "https://github.com/CakeDC/cakephp-phpstan",
     "description": "A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer."
@@ -275,16 +280,16 @@
   {
     "name": "Upgrade app",
     "url": "https://github.com/cakephp/upgrade",
-    "description": "Official upgrade app for 2.x=>3.x and 3.x=>4.x."
+    "description": "Official upgrade app for 3.x=>4.x and 4.x=>5.x."
   },
   {
     "name": "Upgrade app (extended)",
     "url": "https://github.com/dereuromark/upgrade",
-    "description": "An extended upgrade app for 2.x=>3.x, between 3.x and some 4.x snippets."
+    "description": "An extended upgrade app for 3.x=>4.x and some 5.x snippets."
   },
   {
     "name": "Upgrade/Migration Guide",
-    "url": "https://book.cakephp.org/4.0/en/appendices.html",
+    "url": "https://book.cakephp.org/5/en/appendices.html",
     "description": "Official migration guide."
   },
   {
