@@ -100,6 +100,11 @@
     "description": "An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT."
   },
   {
+    "name": "Mixtral 8x7B",
+    "url": "https://mistral.ai/news/mixtral-of-experts/",
+    "description": "A high-quality sparse mixture of experts model with open weights."
+  },
+  {
     "name": "ChatGPT",
     "url": "https://chat.openai.com/chat",
     "description": "ChatGPT by OpenAI is a large language model that interacts in a conversational way."

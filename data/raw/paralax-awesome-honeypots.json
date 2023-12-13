@@ -280,6 +280,11 @@
     "description": "Easy to deploy Ruby honeypot."
   },
   {
+    "name": "Helix",
+    "url": "https://github.com/Zeerg/helix-honeypot",
+    "description": "K8s API Honeypot with Active Defense Capabilities."
+  },
+  {
     "name": "honeycomb_plugins",
     "url": "https://github.com/Cymmetria/honeycomb_plugins",
     "description": "Plugin repository for Honeycomb, the honeypot framework by Cymmetria."
@@ -395,9 +400,14 @@
     "description": "Low interaction honeypot server."
   },
   {
-    "name": "kippo_detect",
-    "url": "https://github.com/andrew-morris/kippo_detect",
-    "description": "Offensive component that detects the presence of the kippo honeypot."
+    "name": "canarytokendetector",
+    "url": "https://github.com/referefref/canarytokendetector",
+    "description": "Tool for detection and nullification of Thinkst CanaryTokens"
+  },
+  {
+    "name": "canarytokendetector",
+    "url": "https://github.com/referefref/canarytokendetector",
+    "description": "Tool for detection and nullification of Thinkst CanaryTokens"
   },
   {
     "name": "kippo_detect",
@@ -979,9 +989,14 @@
     "description": "Network security auditing tool designed to analyze the forensics behind compromised and/or vulnerable daemons."
   },
   {
-    "name": "Modern Honeynet Network",
-    "url": "http://threatstream.github.io/mhn/",
-    "description": "Streamlines deployment and management of secure honeypots."
+    "name": "honeyfs",
+    "url": "https://github.com/referefref/honeyfs",
+    "description": "Tool to create artificial file systems for medium/high interaction honeypots."
+  },
+  {
+    "name": "honeyfs",
+    "url": "https://github.com/referefref/honeyfs",
+    "description": "Tool to create artificial file systems for medium/high interaction honeypots."
   },
   {
     "name": "Modern Honeynet Network",
@@ -1384,6 +1399,11 @@
   {
     "name": "Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running",
     "url": "https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/"
+  },
+  {
+    "name": "SMTPLLMPot",
+    "url": "https://github.com/referefref/SMTPLLMPot",
+    "description": "A super simple SMTP Honeypot built using GPT3.5"
   },
   {
     "name": "SpamHAT",

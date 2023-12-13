@@ -1031,9 +1031,14 @@
     "description": "Adds some git shortcuts."
   },
   {
-    "name": "calc",
+    "name": "calc (arzzen)",
     "url": "https://github.com/arzzen/calc.plugin.zsh",
     "description": "A calculator for ZSH."
+  },
+  {
+    "name": "calc (sam-programs)",
+    "url": "https://github.com/Sam-programs/zsh-calc",
+    "description": "Allows you to run math calculations with no prefixes."
   },
   {
     "name": "calibre-zaw-source",
@@ -2576,6 +2581,11 @@
     "description": "Prints colorized outputs from  kubectl. Includes helper functions."
   },
   {
+    "name": "kubeconfig-mgr",
+    "url": "https://github.com/yhlooo/zsh-kubeconfig-mgr",
+    "description": "Makes managing multiple kubeconfig files easier."
+  },
+  {
     "name": "kubectl-config-switcher",
     "url": "https://github.com/chmouel/kubectl-config-switcher/",
     "description": "Switch between config files in ~/.kube via the KUBECTL environment variable."
@@ -2854,6 +2864,11 @@
     "name": "multi-evalcache",
     "url": "https://github.com/rwwiv/multi-evalcache",
     "description": "Cache multiple eval loads to improve startup time, inspired by mroth/evalcache."
+  },
+  {
+    "name": "multi-sshacc",
+    "url": "https://github.com/harvey103565/git-multi-sshacc-asst",
+    "description": "Manages multiple git with different ssh keys per repo."
   },
   {
     "name": "mvn-contexts",
@@ -4894,6 +4909,11 @@
     "name": "_url-httplink",
     "url": "https://github.com/Valodim/zsh-_url-httplink",
     "description": "Extends ZSH's _urls completion, allowing it to complete urls from html pages."
+  },
+  {
+    "name": "aircrack",
+    "url": "https://github.com/Doc0x1/Aircrack-Zsh-Completions",
+    "description": "Adds completions for airbase-ng, aircrack-ng, airdecap-ng, airdecloak-ng, aireplay-ng, airmon-ng, airodump-ng, airolib-ng, airserv-ng, airtun-ng, airventriloquist-ng."
   },
   {
     "name": "aliyun",

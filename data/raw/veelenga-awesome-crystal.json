@@ -70,6 +70,11 @@
     "description": "An Implementation of the Haversine formula"
   },
   {
+    "name": "HKDF",
+    "url": "https://github.com/spider-gazelle/HKDF",
+    "description": "HMAC-based Extract-and-Expand Key Derivation Function rfc5869"
+  },
+  {
     "name": "kd_tree",
     "url": "https://github.com/geocrystal/kd_tree",
     "description": "An implementation of \"K-Dimensional Tree\" and \"N-Nearest Neighbors\""
@@ -88,6 +93,11 @@
     "name": "multiset.cr",
     "url": "https://github.com/tcrouch/multiset.cr",
     "description": "Implementation of a multiset"
+  },
+  {
+    "name": "named_information",
+    "url": "https://github.com/spider-gazelle/named_information",
+    "description": "Naming Things with Hashes rfc6920"
   },
   {
     "name": "qr-code",
@@ -110,9 +120,19 @@
     "description": "SRP-6a protocol for authentication over an insecure network"
   },
   {
+    "name": "SPAKE2+",
+    "url": "https://github.com/spider-gazelle/SPAKE2_plus",
+    "description": "Password Authenticated Key Exchange (PAKE) protocol, comparable to SRP-6a"
+  },
+  {
     "name": "splay_tree_map",
     "url": "https://github.com/wyhaines/splay_tree_map.cr",
     "description": "Splay Tree implementation that conforms to the Hash ducktype"
+  },
+  {
+    "name": "verhoeff",
+    "url": "https://github.com/spider-gazelle/verhoeff",
+    "description": "Implementation of the Verhoeff checksum algorithm"
   },
   {
     "name": "Axentro",

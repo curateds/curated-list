@@ -2135,6 +2135,11 @@
     "description": "A MicroPython port of the CPython standard Fractions library."
   },
   {
+    "name": "Sun and Moon",
+    "url": "https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md",
+    "description": "Determine Sun and Moon rise and set times, Moon phases."
+  },
+  {
     "name": "L298N",
     "url": "https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py",
     "description": "Driver for the L298N dual H-bridge motor controller."
@@ -3237,7 +3242,7 @@
   {
     "name": "Schedule",
     "url": "https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md",
-    "description": "A scheduler for uasyncio based applications. Schedule events at specified times and dates."
+    "description": "A scheduler for uasyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set."
   },
   {
     "name": "micropython-aioschedule",
