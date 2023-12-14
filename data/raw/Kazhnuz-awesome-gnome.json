@@ -30,7 +30,7 @@
     "description": "Talk to people on IRC."
   },
   {
-    "name": "Wrap",
+    "name": "Warp",
     "url": "https://apps.gnome.org/app/app.drey.Warp/",
     "description": "Fast and secure file transfer."
   },
@@ -235,6 +235,11 @@
     "description": "Application to trim, flip, rotate and crop individual clips."
   },
   {
+    "name": "Decibels",
+    "url": "https://github.com/vixalien/decibels",
+    "description": "Simple music player with waveform view."
+  },
+  {
     "name": "Curtail",
     "url": "https://flathub.org/apps/details/com.github.huluti.Curtail",
     "description": "Simple & useful image compressor."
@@ -268,6 +273,11 @@
     "name": "ASCII Draw",
     "url": "https://github.com/Nokse22/ascii-draw",
     "description": "Draw graphs and more using only characters."
+  },
+  {
+    "name": "Switcheroo",
+    "url": "https://gitlab.com/adhami3310/Switcheroo",
+    "description": "Image converter and manipulator (ImageMagick frontend)."
   },
   {
     "name": "Plots",

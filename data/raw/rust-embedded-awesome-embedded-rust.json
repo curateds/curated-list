@@ -2200,6 +2200,11 @@
     "description": "SPI - A host driver for the Atwinc1500 network controller"
   },
   {
+    "name": "HX711",
+    "url": "https://github.com/DaneSlattery/hx711",
+    "description": "GPIO - An interrupt-based driver for the HX711 Load Cell Amplifer IC. no-std."
+  },
+  {
     "name": "adskalman",
     "url": "https://crates.io/crates/adskalman"
   },

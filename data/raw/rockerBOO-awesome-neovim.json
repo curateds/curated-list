@@ -2190,6 +2190,11 @@
     "description": "Track your Neovim usage and visualize statistics easily."
   },
   {
+    "name": "mateuszwieloch/automkdir.nvim",
+    "url": "https://github.com/mateuszwieloch/automkdir.nvim",
+    "description": "Automatically create non-existent parent directories when writing a file."
+  },
+  {
     "name": "jghauser/mkdir.nvim",
     "url": "https://github.com/jghauser/mkdir.nvim",
     "description": "Automatically create missing directories when saving files."

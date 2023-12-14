@@ -1070,11 +1070,6 @@
     "description": "A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]"
   },
   {
-    "name": "Colony",
-    "url": "https://github.com/mattreecebentley/plf_colony",
-    "description": "An unordered \"bag\"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. [zLib] website"
-  },
-  {
     "name": "dynamic_bitset",
     "url": "https://github.com/pinam45/dynamic_bitset",
     "description": "A C++17 header-only dynamic bitset. [MIT]"
@@ -1098,6 +1093,11 @@
     "name": "PGM-index",
     "url": "https://github.com/gvinciguerra/PGM-index",
     "description": "A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. [Apache2] website"
+  },
+  {
+    "name": "plf::colony",
+    "url": "https://github.com/mattreecebentley/plf_colony",
+    "description": "An unordered \"bag\"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. [zLib] website"
   },
   {
     "name": "plf::list",
@@ -3782,6 +3782,11 @@
     "name": "V8",
     "url": "https://v8.dev",
     "description": "A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]"
+  },
+  {
+    "name": "v8pp",
+    "url": "https://github.com/pmed/v8pp",
+    "description": "Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. [BOOST] website"
   },
   {
     "name": "ChakraCore",

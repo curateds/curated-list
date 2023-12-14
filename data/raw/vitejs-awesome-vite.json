@@ -1369,6 +1369,11 @@
     "description": "Use the image resource as a component."
   },
   {
+    "name": "vite-plugin-lqip",
+    "url": "https://github.com/drwpow/vite-plugin-lqip",
+    "description": "Generate low quality image placeholders (LQIP)."
+  },
+  {
     "name": "vite-plugin-importer",
     "url": "https://github.com/ajuner/vite-plugin-importer",
     "description": "Integration for babel-plugin-import."
@@ -2009,6 +2014,11 @@
     "description": "Docker utility based on Dockerode."
   },
   {
+    "name": "vite-plugin-rest-api",
+    "url": "https://github.com/yracnet/vite-plugin-rest-api",
+    "description": "Generate route mapping for API Routes services from the directory tree."
+  },
+  {
     "name": "mocha-vite-puppeteer",
     "url": "https://github.com/larsthorup/mocha-vite-puppeteer",
     "description": "Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher."
@@ -2556,6 +2566,11 @@
     "name": "wordpress-vite-assets",
     "url": "https://github.com/idleberg/php-wordpress-vite-assets",
     "description": "Integration for WordPress themes."
+  },
+  {
+    "name": "Kima",
+    "url": "https://github.com/axelilali/kima",
+    "description": "Theme with Twig."
   },
   {
     "name": "vite-asset-collector for TYPO3",
