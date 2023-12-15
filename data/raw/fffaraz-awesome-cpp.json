@@ -205,11 +205,6 @@
     "description": "A C++ cross-platform rapid application development framework. [BSD]"
   },
   {
-    "name": "uSTL",
-    "url": "http://msharov.github.io/ustl/",
-    "description": "The small STL library. [MIT]"
-  },
-  {
     "name": "Windows Template Library",
     "url": "http://sourceforge.net/projects/wtl/",
     "description": "A C++ library for developing Windows applications and UI components. [Public]"
@@ -563,6 +558,11 @@
     "name": "Argh!",
     "url": "https://github.com/adishavit/argh",
     "description": "A minimalist, frustration-free, header-only argument handler. [BSD]"
+  },
+  {
+    "name": "argparse",
+    "url": "https://github.com/p-ranav/argparse",
+    "description": "Argument Parser for Modern C++. [MIT]"
   },
   {
     "name": "Taywee/args",
@@ -1088,6 +1088,11 @@
     "name": "LSHBOX",
     "url": "https://github.com/RSIA-LIESMARS-WHU/LSHBOX",
     "description": "A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]"
+  },
+  {
+    "name": "parallel-hashmap",
+    "url": "https://github.com/greg7mdp/parallel-hashmap",
+    "description": "A family of header-only, very fast and memory-friendly hashmap and btree containers [Apache2] website"
   },
   {
     "name": "PGM-index",
@@ -3529,6 +3534,11 @@
     "description": "A C++11 library for reflection. [MIT]"
   },
   {
+    "name": "reflect-cpp",
+    "url": "https://github.com/getml/reflect-cpp",
+    "description": "Serialization through reflection, including automatic field name retrieval from structs. [MIT]"
+  },
+  {
     "name": "RTTR",
     "url": "https://github.com/rttrorg/rttr",
     "description": "A C++11 library for reflection. [MIT] website"
@@ -4148,9 +4158,19 @@
     "description": "Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]"
   },
   {
+    "name": "date",
+    "url": "https://github.com/HowardHinnant/date",
+    "description": "A date and time library based on the C++11/14/17  header. [MIT] website"
+  },
+  {
     "name": "D++ (DPP)",
     "url": "https://github.com/brainboxdotcc/DPP",
     "description": "A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] website"
+  },
+  {
+    "name": "DuckX",
+    "url": "https://github.com/amiremohamadi/DuckX",
+    "description": "C++ library for creating and modifying Microsoft Word (.docx) files. [MIT]"
   },
   {
     "name": "DynaMix",
@@ -4181,6 +4201,11 @@
     "name": "FastFormat",
     "url": "http://www.fastformat.org",
     "description": "Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]"
+  },
+  {
+    "name": "hedley",
+    "url": "https://github.com/nemequ/hedley",
+    "description": "A C/C++ header file designed to smooth over some platform-specific annoyances. website"
   },
   {
     "name": "casacore",

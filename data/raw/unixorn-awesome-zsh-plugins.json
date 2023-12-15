@@ -2716,6 +2716,11 @@
     "description": "Listbox element for shell."
   },
   {
+    "name": "llm-suggestions",
+    "url": "https://github.com/stefanheule/zsh-llm-suggestions",
+    "description": "Type something in English at the prompt, hit a definable key, and it uses LLM to generate a command line for you."
+  },
+  {
     "name": "locate-sublime-projects-cli",
     "url": "https://github.com/david-treblig/locate-sublime-projects-cli",
     "description": "Allows searching for Sublime Text projects and opens them in Sublime."
@@ -7483,11 +7488,6 @@
     "name": "hematite",
     "url": "https://github.com/bigdave/hematite",
     "description": "Minimalist promot that tries to show only the status decorations that are actively useful at a given time."
-  },
-  {
-    "name": "hermit",
-    "url": "https://github.com/liyangxia/omz-theme-hermit",
-    "description": "Clean and efficient theme with decorators for git status, current directory, and exit status of last command run."
   },
   {
     "name": "hex",
