@@ -2926,11 +2926,6 @@
     "description": "AI search as a service the free tier includes 1,000 Documents and 50,000 searches. Larger free decks are possible for worthwhile projects."
   },
   {
-    "name": "Meilisearch",
-    "url": "https://www.meilisearch.com/",
-    "description": "An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. The free plan includes 100K documents and 10K searches/month."
-  },
-  {
     "name": "FreeCodeCamp",
     "url": "https://www.freecodecamp.org/",
     "description": "Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more."
@@ -3517,6 +3512,10 @@
     "name": "stepFORM.io",
     "url": "https://stepform.io",
     "description": "Quiz and Form Builder. The free plan has five forms, up to 3 steps per form, and 50 monthly responses."
+  },
+  {
+    "name": "Tapform.com",
+    "url": "https://tapform.com/"
   },
   {
     "name": "Typeform.com",
@@ -6493,8 +6492,8 @@
     "url": "https://sandbox.httpsms.com"
   },
   {
-    "name": "simplebackups.io",
-    "url": "https://simplebackups.io/"
+    "name": "SimpleBackups.com",
+    "url": "https://simplebackups.com/"
   },
   {
     "name": "SnapShooter",
@@ -6552,5 +6551,10 @@
     "name": "OpenUtils",
     "url": "https://openutils.org/",
     "description": "There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converters, encoders/decoder,s and many others."
+  },
+  {
+    "name": "SimpleRestore",
+    "url": "https://simplerestore.io",
+    "description": "Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server."
   }
 ]

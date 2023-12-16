@@ -125,9 +125,19 @@
     "description": "Postman collections to facilitate work with many of the location services."
   },
   {
-    "name": "Basemap layer service",
+    "name": "Basemap styles service (v1)",
     "url": "https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/",
     "description": "Access streets, satellite, and other basemap styles for maps and scenes."
+  },
+  {
+    "name": "Basemap styles service (v2)",
+    "url": "https://developers.arcgis.com/rest/basemap-styles/",
+    "description": "Access multiples map styles, add places of interest, set labels languages, word views and more."
+  },
+  {
+    "name": "Places service",
+    "url": "https://developers.arcgis.com/rest/places/",
+    "description": "Search for businesses and geographic locations around the world with detailed information about each place."
   },
   {
     "name": "Elevation and hydrology services",

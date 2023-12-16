@@ -1230,6 +1230,11 @@
     "description": "Libraries, products, and tools implementing current OpenID specifications and related specs."
   },
   {
+    "name": "Open Ziti",
+    "url": "https://openziti.io/",
+    "description": "Zero trust security and overlay networking as pure open source software."
+  },
+  {
     "name": "ORY",
     "url": "https://www.ory.sh/",
     "description": "Open source identity infrastructure and services."
@@ -1650,7 +1655,7 @@
     "description": "Advanced Message Queuing Protocol."
   },
   {
-    "name": "https://mqtt.org/",
+    "name": "MQTT",
     "url": "https://mqtt.org/",
     "description": "MQ Telemetry Transport."
   },
