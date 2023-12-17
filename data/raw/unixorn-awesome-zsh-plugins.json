@@ -6246,6 +6246,11 @@
     "description": "Agnoster variant with unicode symbols baked in."
   },
   {
+    "name": "Bigyls",
+    "url": "https://github.com/Bigyls/Bigyls-zsh-theme",
+    "description": "Based on lpha3cho. Includes decorators for date, time, IP address, git status, plugins and current directory."
+  },
+  {
     "name": "biraSkull",
     "url": "https://github.com/Shahryar-Pirooz/biraSkull.zsh-theme",
     "description": "Based on bira, includes root status and git status decorations."
@@ -7175,6 +7180,11 @@
     "description": "Originally a fork of Bureau adds new virtual environments info to the prompt: Kubernetes, virtualenv, rbenv and Java versions. Includes git status integration."
   },
   {
+    "name": "gabriel2m",
+    "url": "https://github.com/gabriel2m/gabriel2m-oh-my-zsh-theme",
+    "description": "Minimalist theme with decorators for the current directory and git status."
+  },
+  {
     "name": "gal",
     "url": "https://github.com/x6r/gal",
     "description": "Minimalist theme based on gallois."
@@ -7933,6 +7943,11 @@
     "name": "kyuu",
     "url": "https://github.com/arturoalviar/kyuu-zsh-theme",
     "description": "A simple theme with the first character being 九(kyuu), the number 9. The primary color is blue with a magenta accent. Includes git status decorations."
+  },
+  {
+    "name": "lacerate",
+    "url": "https://github.com/Petrushevsky-A/Lacerate-zsh-theme",
+    "description": "Minimalist theme with decorations for git, hg and python venv status."
   },
   {
     "name": "laconic",

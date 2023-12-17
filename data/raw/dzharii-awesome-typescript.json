@@ -493,6 +493,21 @@
     "description": "Strongly-typed string functions for all"
   },
   {
+    "name": "PandaCSS",
+    "url": "https://panda-css.com/",
+    "description": "CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience"
+  },
+  {
+    "name": "Vanilla-Extract",
+    "url": "https://vanilla-extract.style/",
+    "description": "Use TypeScript as your preprocessor. Write type‑safe, locally scoped classes, variables and themes, then generate static CSS files at build time"
+  },
+  {
+    "name": "StyleX",
+    "url": "https://stylexjs.com/",
+    "description": "StyleX is a JavaScript library for defining styles for optimized user interfaces"
+  },
+  {
     "name": "json-decoder",
     "url": "https://github.com/venil7/json-decoder",
     "description": "Typesafe JSON decoder and runtime checker"
@@ -580,6 +595,11 @@
     "name": "dto-classes",
     "url": "https://github.com/rsinger86/dto-classes",
     "description": "Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators."
+  },
+  {
+    "name": "ReactNative",
+    "url": "https://reactnative.dev/",
+    "description": "Create native apps for Android, iOS, and more using React"
   },
   {
     "name": "NativeScript",

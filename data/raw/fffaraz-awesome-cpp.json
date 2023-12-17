@@ -1275,6 +1275,11 @@
     "description": "Small, easy-to-use and fast header-only library for reading CSV files. [BSD-3-Clause]"
   },
   {
+    "name": "Glaze",
+    "url": "https://github.com/stephenberry/glaze",
+    "description": "High performance, header only, CSV library with reflection support. [MIT]"
+  },
+  {
     "name": "lazycsv",
     "url": "https://github.com/ashtum/lazycsv",
     "description": "A fast, lightweight and single-header csv parser for modern C++. [MIT]"
@@ -4156,6 +4161,11 @@
     "name": "CPPItertools",
     "url": "https://github.com/ryanhaining/cppitertools",
     "description": "Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]"
+  },
+  {
+    "name": "CSerialPort",
+    "url": "https://github.com/itas109/CSerialPort",
+    "description": "lightweight cross-platform serial port library. [LGPL3]"
   },
   {
     "name": "date",

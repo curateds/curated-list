@@ -10,9 +10,9 @@
     "description": "Supercharged End 2 End Testing Framework for Node.js."
   },
   {
-    "name": "chrome-aws-lambda",
-    "url": "https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright",
-    "description": "Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions."
+    "name": "Chromium for Serverless platforms",
+    "url": "https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright",
+    "description": "Chromium for Serverless platforms."
   },
   {
     "name": "playwright-chrome-recorder",
@@ -40,9 +40,14 @@
     "description": "Heroku buildpack for running Playwright on a Heroku Dyno."
   },
   {
+    "name": "@axe-core/playwright",
+    "url": "https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md",
+    "description": "Official Axe integration with Playwright."
+  },
+  {
     "name": "axe-playwright",
     "url": "https://github.com/abhinaba-ghosh/axe-playwright",
-    "description": "Custom commands for Playwright to run accessibility (a11y) checks with axe-core."
+    "description": "Inofficial integration of Axe with Playwright."
   },
   {
     "name": "expect-axe-playwright",
@@ -56,7 +61,7 @@
   },
   {
     "name": "artillery-engine-playwright",
-    "url": "https://github.com/artilleryio/artillery-engine-playwright",
+    "url": "https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright",
     "description": "Load testing with Playwright."
   },
   {
@@ -110,6 +115,11 @@
     "description": "Playwright port for Perl."
   },
   {
+    "name": "automated-Playwright-UI-tests",
+    "url": "https://github.com/OctoMind-dev",
+    "description": "auto-generated, run & maintained with AI-assisted test case discovery."
+  },
+  {
     "name": "Ask Playwright",
     "url": "https://ray.run/ask",
     "description": "Accurate answers to Playwright questions provided by LLM trained on the latest Playwright documentation."
@@ -120,18 +130,13 @@
     "description": "Interactive playground for running Playwright tests."
   },
   {
-    "name": "query-selector-shadow-dom",
-    "url": "https://github.com/Georgegriff/query-selector-shadow-dom",
-    "description": "Extend the selectors engine by selecting Shadow DOM roots."
-  },
-  {
     "name": "playwright-fluent",
     "url": "https://github.com/hdorgeval/playwright-fluent",
     "description": "Fluent API Wrapper around Playwright."
   },
   {
-    "name": "headless-testing",
-    "url": "https://headlesstesting.com",
+    "name": "TestingBot",
+    "url": "https://testingbot.com",
     "description": "Connect your Playwright tests with browsers in the Cloud."
   },
   {
@@ -220,6 +225,11 @@
     "description": "Playwright Xray Reporter, send test executions to Jira / Xray."
   },
   {
+    "name": "testomatio-reporter",
+    "url": "https://github.com/testomatio/reporter",
+    "description": "Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management."
+  },
+  {
     "name": "currents-dev",
     "url": "https://currents.dev/",
     "description": "A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests."
@@ -271,13 +281,8 @@
   },
   {
     "name": "theheadless.dev",
-    "url": "https://theheadless.dev",
+    "url": "https://www.checklyhq.com/learn/headless/",
     "description": "Practical guides and runnable examples on Playwright (and Puppeteer)."
-  },
-  {
-    "name": "playwright.tech",
-    "url": "https://playwright.tech",
-    "description": "A central home for tutorials, tooling, and showcases of the Playwright ecosystem."
   },
   {
     "name": "playwrightsolutions.com",
