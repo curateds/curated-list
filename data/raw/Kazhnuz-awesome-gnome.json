@@ -65,6 +65,21 @@
     "description": "yt-dlp graphical fronted."
   },
   {
+    "name": "Geopard",
+    "url": "https://ranfdev.com/projects/geopard/",
+    "description": "Colorful Gemini client."
+  },
+  {
+    "name": "Fractal",
+    "url": "https://flathub.org/apps/org.gnome.Fractal",
+    "description": "Matrix client."
+  },
+  {
+    "name": "Dino",
+    "url": "https://dino.im/",
+    "description": "XMPP Client."
+  },
+  {
     "name": "Apostrophe",
     "url": "https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/",
     "description": "Distraction-free Markdown editor."
@@ -250,6 +265,16 @@
     "description": "Utility for encoding with SVT-AV1 & Opus."
   },
   {
+    "name": "G4Music",
+    "url": "https://flathub.org/apps/com.github.neithern.g4music",
+    "description": "Play your music elegantly."
+  },
+  {
+    "name": "Monophony",
+    "url": "https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony",
+    "description": "Stream music from YouTube."
+  },
+  {
     "name": "Curtail",
     "url": "https://flathub.org/apps/details/com.github.huluti.Curtail",
     "description": "Simple & useful image compressor."
@@ -400,14 +425,14 @@
     "description": "Junction lets you choose the application to open files and links."
   },
   {
-    "name": "Kooha",
-    "url": "https://apps.gnome.org/app/io.github.seadve.Kooha/",
-    "description": "Elegantly record your screen."
-  },
-  {
     "name": "Metronome",
     "url": "https://apps.gnome.org/app/com.adrienplazas.Metronome/",
     "description": "Keep the tempo."
+  },
+  {
+    "name": "Kooha",
+    "url": "https://github.com/SeaDve/Kooha",
+    "description": "Elegantly record your screen."
   },
   {
     "name": "GPaste",

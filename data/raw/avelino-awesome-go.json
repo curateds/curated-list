@@ -11174,6 +11174,11 @@
     "description": "Runs a command in an acme win on file changes."
   },
   {
+    "name": "envdoc",
+    "url": "https://github.com/g4s8/envdoc",
+    "description": "generate documentation for environment variables from Go source files."
+  },
+  {
     "name": "generic",
     "url": "https://github.com/usk81/generic",
     "description": "flexible data type for Go."

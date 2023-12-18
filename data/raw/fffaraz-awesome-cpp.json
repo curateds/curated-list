@@ -3034,6 +3034,11 @@
     "description": "Google's fast, multi-threaded malloc implementation. [Apache-2.0] website"
   },
   {
+    "name": "buddy_alloc",
+    "url": "https://github.com/spaskalev/buddy_alloc",
+    "description": "A single header buddy memory allocator for C with bounded allocation costs. [0BSD]"
+  },
+  {
     "name": "tgc",
     "url": "https://github.com/orangeduck/tgc",
     "description": "A tiny garbage collector for C written in ~500 LOC. [BSD]"
@@ -3903,6 +3908,31 @@
     "description": "Actually, the fastest modern Serialization library. Just check this video."
   },
   {
+    "name": "Asio",
+    "url": "https://github.com/chriskohlhoff/asio/",
+    "description": "Asio includes classes for creating and manipulating serial ports in a portable manner. [Boost] website"
+  },
+  {
+    "name": "Boost.Asio",
+    "url": "https://github.com/boostorg/asio",
+    "description": "Boost.Asio includes classes for creating and manipulating serial ports in a portable manner. [Boost] website"
+  },
+  {
+    "name": "CSerialPort",
+    "url": "https://github.com/itas109/CSerialPort",
+    "description": "lightweight cross-platform serial port library. [LGPL3]"
+  },
+  {
+    "name": "Libserial",
+    "url": "https://github.com/crayzeewulf/libserial",
+    "description": "Serial Port Programming in C++. [BSD-3-Clause]"
+  },
+  {
+    "name": "Serial Communication Library",
+    "url": "https://github.com/wjwwood/serial",
+    "description": "Cross-platform, Serial Port library written in C++. [MIT] website"
+  },
+  {
     "name": "pdqsort",
     "url": "https://github.com/orlp/pdqsort",
     "description": "Pattern-defeating quicksort. [zlib]"
@@ -4163,11 +4193,6 @@
     "description": "Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]"
   },
   {
-    "name": "CSerialPort",
-    "url": "https://github.com/itas109/CSerialPort",
-    "description": "lightweight cross-platform serial port library. [LGPL3]"
-  },
-  {
     "name": "date",
     "url": "https://github.com/HowardHinnant/date",
     "description": "A date and time library based on the C++11/14/17  header. [MIT] website"
@@ -4293,11 +4318,6 @@
     "description": "A lightweight library of C functions and structures. [GPL2.1]"
   },
   {
-    "name": "Libserial",
-    "url": "https://github.com/crayzeewulf/libserial",
-    "description": "Serial Port Programming in C++. [BSD-3-Clause]"
-  },
-  {
     "name": "libusb",
     "url": "https://libusb.info/",
     "description": "A universal USB library which allows for portable access to USB devices. [LGPL2]"
@@ -4341,11 +4361,6 @@
     "name": "semver.c",
     "url": "https://github.com/h2non/semver.c",
     "description": "A semver parser and render in ANSI C. [MIT]"
-  },
-  {
-    "name": "Serial Communication Library",
-    "url": "https://github.com/wjwwood/serial",
-    "description": "Cross-platform, Serial Port library written in C++. [MIT]"
   },
   {
     "name": "sigslot",

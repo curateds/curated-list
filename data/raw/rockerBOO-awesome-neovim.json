@@ -965,6 +965,11 @@
     "description": "Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders)."
   },
   {
+    "name": "rolv-apneseth/tfm.nvim",
+    "url": "https://github.com/Rolv-Apneseth/tfm.nvim",
+    "description": "Similar to fm-nvim, this provides Neovim integration for several popular terminal file managers (including yazi)."
+  },
+  {
     "name": "nvim-neo-tree/neo-tree.nvim",
     "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
     "description": "Neo-tree is a Neovim plugin to browse the file system and other tree like structures in whatever style suits you, including sidebars, floating windows, netrw split style, or all of them at once."
@@ -1018,11 +1023,6 @@
     "name": "shaeinst/penvim",
     "url": "https://github.com/shaeinst/penvim",
     "description": "Project's Root Directory and Documents Indentation detector with project based config loader."
-  },
-  {
-    "name": "nyngwang/NeoRoot.lua",
-    "url": "https://github.com/nyngwang/NeoRoot.lua",
-    "description": "Change your current working directory to the buffer your cursor is on, and try to go up 2 levels but stop after it encounters one of the project roots you define."
   },
   {
     "name": "windwp/nvim-projectconfig",
@@ -2015,6 +2015,11 @@
     "description": "Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis ✨."
   },
   {
+    "name": "2KAbhishek/nerdy.nvim",
+    "url": "https://github.com/2KAbhishek/nerdy.nvim/",
+    "description": "Find and insert the latest nerd font glyphs."
+  },
+  {
     "name": "edluffy/hologram.nvim",
     "url": "https://github.com/edluffy/hologram.nvim",
     "description": "A cross platform terminal image viewer. Works on macOS and Linux."
@@ -2503,6 +2508,11 @@
     "name": "GCBallesteros/jupytext.nvim",
     "url": "https://github.com/GCBallesteros/jupytext.nvim",
     "description": "Edit jupyter notebooks without leaving Neovim."
+  },
+  {
+    "name": "ariel-frischer/bmessages.nvim",
+    "url": "https://github.com/ariel-frischer/bmessages.nvim",
+    "description": "Replace the default :messages window with a configurable, auto-updating buffer."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",
@@ -3023,6 +3033,11 @@
     "name": "niuiic/git-log.nvim",
     "url": "https://github.com/niuiic/git-log.nvim",
     "description": "Check git log of the selected code."
+  },
+  {
+    "name": "2KAbhishek/co-author.nvim",
+    "url": "https://github.com/2KAbhishek/co-author.nvim",
+    "description": "Quickly add co-authors to commits."
   },
   {
     "name": "pwntester/octo.nvim",
