@@ -3369,6 +3369,41 @@
     "description": "High-speed, modular asynchronous communication library. [LGPL3/MPL2] website"
   },
   {
+    "name": "DuckX",
+    "url": "https://github.com/amiremohamadi/DuckX",
+    "description": "C++ library for creating and modifying Microsoft Word (.docx) files. [MIT]"
+  },
+  {
+    "name": "FreeXL",
+    "url": "https://www.gaia-gis.it/fossil/freexl/index",
+    "description": "an open source library to extract valid data from within Spreadsheets. [MPL/GPL-2/LGPL-2]"
+  },
+  {
+    "name": "libxls",
+    "url": "https://github.com/libxls/libxls",
+    "description": "Read binary Excel files from C/C++ [BSD-2-Clause]"
+  },
+  {
+    "name": "libxlsxwriter",
+    "url": "https://github.com/jmcnamara/libxlsxwriter",
+    "description": "A C library for creating Excel XLSX files. [BSD-2-Clause] website"
+  },
+  {
+    "name": "OpenXLSX",
+    "url": "https://github.com/troldal/OpenXLSX",
+    "description": "A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  [BSD-3-Clause]"
+  },
+  {
+    "name": "SimpleXlsxWriter",
+    "url": "https://sourceforge.net/projects/simplexlsx/",
+    "description": "XLSX files writer for Microsoft Excel 2007 and above. [zlib]"
+  },
+  {
+    "name": "XLSX I/O",
+    "url": "https://github.com/brechtsanders/xlsxio",
+    "description": "C library for reading and writing .xlsx files. [MIT]"
+  },
+  {
     "name": "libharu",
     "url": "https://github.com/libharu/libharu",
     "description": "A free, cross platform, open-sourced software library for generating PDF. [zlib]"
@@ -4201,11 +4236,6 @@
     "name": "D++ (DPP)",
     "url": "https://github.com/brainboxdotcc/DPP",
     "description": "A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] website"
-  },
-  {
-    "name": "DuckX",
-    "url": "https://github.com/amiremohamadi/DuckX",
-    "description": "C++ library for creating and modifying Microsoft Word (.docx) files. [MIT]"
   },
   {
     "name": "DynaMix",

@@ -779,6 +779,11 @@
     "description": "Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged)."
   },
   {
+    "name": "vite-react-component-library-starter",
+    "url": "https://github.com/rayyamhk/vite-react-component-library-starter",
+    "description": "A starter template for creating React component libraries with TypeScript, Tailwind CSS, Storybook, Vitest, ESLint, Prettier, Husky, and GitHub Action."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -1729,6 +1734,11 @@
     "description": "Inject Typescript into index.html."
   },
   {
+    "name": "unplugin-generate-component-name",
+    "url": "https://github.com/CCherry07/unplugin-generate-component-name",
+    "description": "Automatically generate component's name."
+  },
+  {
     "name": "vite-tsconfig-paths",
     "url": "https://github.com/aleclarson/vite-tsconfig-paths",
     "description": "Support for TypeScript's path mapping."
@@ -2014,8 +2024,8 @@
     "description": "Docker utility based on Dockerode."
   },
   {
-    "name": "vite-plugin-rest-api",
-    "url": "https://github.com/yracnet/vite-plugin-rest-api",
+    "name": "vite-plugin-api-routes",
+    "url": "https://github.com/yracnet/vite-plugin-api-routes",
     "description": "Generate route mapping for API Routes services from the directory tree."
   },
   {
@@ -2570,7 +2580,7 @@
   {
     "name": "Kima",
     "url": "https://github.com/axelilali/kima",
-    "description": "Theme with Twig."
+    "description": "Starter theme with Twig."
   },
   {
     "name": "vite-asset-collector for TYPO3",

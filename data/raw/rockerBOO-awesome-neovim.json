@@ -2425,6 +2425,11 @@
     "description": "Automatically close buffers you are not working on."
   },
   {
+    "name": "ragnarok22/whereami.nvim",
+    "url": "https://github.com/ragnarok22/whereami.nvim",
+    "description": "Test your VPN by getting you current location."
+  },
+  {
     "name": "ecthelionvi/NeoComposer.nvim",
     "url": "https://github.com/ecthelionvi/NeoComposer.nvim",
     "description": "Simplify macro management, enhance productivity, and create harmonious workflows."
@@ -3220,8 +3225,8 @@
     "description": "A ridiculously fun alternative keymap for the workman keyboard layout with Neovim features like LSP support, built and configured with Lua."
   },
   {
-    "name": "FeiyouG/command_center.nvim",
-    "url": "https://github.com/FeiyouG/command_center.nvim",
+    "name": "FeiyouG/commander.nvim",
+    "url": "https://github.com/FeiyouG/commander.nvim",
     "description": "Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope."
   },
   {
@@ -3603,6 +3608,11 @@
     "name": "Jxstxs/conceal.nvim",
     "url": "https://github.com/Jxstxs/conceal.nvim",
     "description": "Use Tree-sitter to conceal common boilerplate code."
+  },
+  {
+    "name": "hiberabyss/bzlops.vim",
+    "url": "https://github.com/hiberabyss/bzlops.vim",
+    "description": "Help to manage your bazel build rule."
   },
   {
     "name": "numToStr/Comment.nvim",

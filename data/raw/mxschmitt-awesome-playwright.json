@@ -70,6 +70,11 @@
     "description": "BDD testing with Playwright runner and CucumberJS."
   },
   {
+    "name": "Serenity/JS",
+    "url": "https://serenity-js.org",
+    "description": "Acceptance testing, reporting, and test integration framework for Playwright, implementing the Screenplay Pattern."
+  },
+  {
     "name": "playwright",
     "url": "https://git.io/JT2bj",
     "description": "Official Playwright in Node.js (JavaScript and TypeScript)."
@@ -117,7 +122,7 @@
   {
     "name": "automated-Playwright-UI-tests",
     "url": "https://github.com/OctoMind-dev",
-    "description": "auto-generated, run & maintained with AI-assisted test case discovery."
+    "description": "Auto-generated, run & maintained with AI-assisted test case discovery."
   },
   {
     "name": "Ask Playwright",
@@ -288,5 +293,10 @@
     "name": "playwrightsolutions.com",
     "url": "https://playwrightsolutions.com",
     "description": "Curated Selection of Playwright Automated Test Problems and Solutions."
+  },
+  {
+    "name": "serenity-js.org",
+    "url": "https://serenity-js.org/handbook/web-testing/your-first-web-scenario/",
+    "description": "Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern."
   }
 ]
