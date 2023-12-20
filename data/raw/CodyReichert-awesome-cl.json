@@ -333,6 +333,15 @@
     "url": "https://zaries.wordpress.com/2022/05/31/cl-naive-store/"
   },
   {
+    "name": "AllegroGraph",
+    "url": "https://allegrograph.com/",
+    "description": "a high-performance, multi-model (document and graph), entity-event knowledge graph technology."
+  },
+  {
+    "name": "hosted version",
+    "url": "https://allegrograph.cloud/"
+  },
+  {
     "name": "cl-agraph",
     "url": "https://github.com/vseloved/cl-agraph"
   },
@@ -1397,6 +1406,11 @@
     "description": "A portable type inference library for Common Lisp. MIT."
   },
   {
+    "name": "PELTADOT",
+    "url": "https://gitlab.com/digikar/peltadot/",
+    "description": "PELTADOT Extends Lisp’s Types And Dispatches Over Them."
+  },
+  {
     "name": "ACL2",
     "url": "https://www.cs.utexas.edu/users/moore/acl2/",
     "description": "a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models."
@@ -1416,6 +1430,10 @@
   {
     "name": "Using ACL2 to teach students about software testing",
     "url": "https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ACL22022"
+  },
+  {
+    "name": "PVS",
+    "url": "https://pvs.csl.sri.com/"
   },
   {
     "name": "Learn X in Y minutes - Where X = Common Lisp",
@@ -2324,6 +2342,11 @@
     "name": "OpenRPC",
     "url": "https://github.com/40ants/openrpc",
     "description": "OpenRPC implementation for Common Lisp. BSD."
+  },
+  {
+    "name": "jsonrpc",
+    "url": "https://github.com/cxxxr/jsonrpc",
+    "description": "JSON-RPC 2.0 server/client for Common Lisp. BSD."
   },
   {
     "name": "coleslaw",

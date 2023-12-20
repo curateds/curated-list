@@ -262,6 +262,11 @@
     "description": "A tool to improve readability of your texts with SEO recommendations."
   },
   {
+    "name": "Wagtail SEO",
+    "url": "https://github.com/coderedcorp/wagtail-seo",
+    "description": "Search engine and social media optimization for Wagtail."
+  },
+  {
     "name": "Wagtail Analytics",
     "url": "https://github.com/tomdyson/wagalytics",
     "description": "A Google Analytics dashboard in your Wagtail admin."
@@ -434,6 +439,11 @@
     "description": "Integrates django-admin-rangefilter into Wagtail's ModelAdmin."
   },
   {
+    "name": "wagtail-treemodeladmin",
+    "url": "https://github.com/cfpb/wagtail-treemodeladmin",
+    "description": "Page explorer-like navigation of Django model relationships using ModelAdmin."
+  },
+  {
     "name": "wagtailmenus",
     "url": "https://github.com/rkhleics/wagtailmenus",
     "description": "An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way."
@@ -547,6 +557,11 @@
     "description": "Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS."
   },
   {
+    "name": "Wagtail Headless Preview",
+    "url": "https://github.com/torchbox/wagtail-headless-preview",
+    "description": "Previews for headless Wagtail setups"
+  },
+  {
     "name": "Wagtail Cookiecutter Foundation",
     "url": "https://github.com/chrisdev/wagtail-cookiecutter-foundation",
     "description": "A Cookiecutter template for Wagtail CMS using Zurb Foundation 6."
@@ -554,10 +569,6 @@
   {
     "name": "Beginner Wagtail Cookiecutter",
     "url": "https://github.com/heymonkeyriot/beginner-wagtail"
-  },
-  {
-    "name": "Wagtail Starter Kit",
-    "url": "https://github.com/tkjone/starterkit-wagtail"
   },
   {
     "name": "Wagtail Pipit",
@@ -573,16 +584,6 @@
     "description": "A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku."
   },
   {
-    "name": "Wagtail bootstrap blog",
-    "url": "https://github.com/AccordBox/wagtail-bootstrap-blog",
-    "description": "A Wagtail blog which has Bootstrap theme, supports writing in Markdown, Latex. It also has comment workflow, comment form supports Mention and Emoji. Frontend is built by Webpack, Babel and SCSS."
-  },
-  {
-    "name": "Wagtail react blog",
-    "url": "https://github.com/AccordBox/wagtail-react-blog",
-    "description": "SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview."
-  },
-  {
     "name": "CodeRed CMS",
     "url": "https://github.com/coderedcorp/coderedcms",
     "description": "a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! Learn more or watch the lightning talk."
@@ -596,6 +597,16 @@
     "name": "cookiecutter-wagtail-package",
     "url": "https://github.com/wagtail/cookiecutter-wagtail-package",
     "description": "A cookiecutter template for building Wagtail add-on packages."
+  },
+  {
+    "name": "Wagtail Tailwind & Stimulus blog",
+    "url": "https://github.com/AccordBox/wagtail-tailwind-blog",
+    "description": "A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments."
+  },
+  {
+    "name": "Wagtail for Platform.sh",
+    "url": "https://github.com/platformsh-templates/wagtail",
+    "description": "Wagtail template for Platform.sh."
   },
   {
     "name": "Getting started in Wagtail, a newcomer's perspective",
@@ -694,6 +705,11 @@
     "name": "Upgrading to Wagtail 3.0 Part 1",
     "url": "https://cynthiakiser.com/blog/2022/06/01/wagtail-3-upgrade-part-1.html",
     "description": "Two part series in how to migrate to Wagtail 3.0 with specific code examples."
+  },
+  {
+    "name": "Multi-tenancy with Wagtail",
+    "url": "https://cynthiakiser.com/blog/2023/11/01/multitenancy-with-wagtail.html",
+    "description": "Multiple part guide on robust multi-tenancy support in Wagtail."
   },
   {
     "name": "Oscar Wagtail demo project",

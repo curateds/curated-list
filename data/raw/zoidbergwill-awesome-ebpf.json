@@ -852,6 +852,11 @@
     "description": "Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg_redirect to reduce latency with a shortened datapath between sidecars and services."
   },
   {
+    "name": "PcapPlusPlus",
+    "url": "https://pcapplusplus.github.io/",
+    "description": "An open-source C++ library for capturing, parsing and crafting network packets. It features a C++ interface for creating AF_XDP sockets, making it easy to send and receive packets through them."
+  },
+  {
     "name": "InKeV: In-Kernel Distributed Network Virtualization for DCN",
     "url": "https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf"
   },

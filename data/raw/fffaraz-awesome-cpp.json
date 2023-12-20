@@ -3814,6 +3814,11 @@
     "description": "Seamless operability between C++11 and Python. [BSD]"
   },
   {
+    "name": "QuickJS",
+    "url": "https://bellard.org/quickjs/",
+    "description": "a small and embeddable Javascript engine. [MIT]"
+  },
+  {
     "name": "SIP",
     "url": "https://riverbankcomputing.com/software/sip/intro",
     "description": "C or C++ Bindings Generator for Python v2 and v3. [GPL]"
