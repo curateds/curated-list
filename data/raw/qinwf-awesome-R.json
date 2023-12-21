@@ -604,9 +604,9 @@
     "description": "Avoid the typical working directory pain when using 'knitr'"
   },
   {
-    "name": "drake",
-    "url": "https://github.com/ropensci/drake",
-    "description": "An rOpenSci package for reproducible data science workflows too big for knitr."
+    "name": "targets",
+    "url": "https://docs.ropensci.org/targets/",
+    "description": "Make-like pipeline tool for organizing and running data science workflows, automatically skipping steps that have already been done. Supported by rOpenSci."
   },
   {
     "name": "R Suite",

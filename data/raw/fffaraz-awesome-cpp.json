@@ -3903,6 +3903,11 @@
     "description": "A declarative language to describe various binary data structures and a compiler to generate C++ parser code. [GPLv3+][MIT][Apache2]"
   },
   {
+    "name": "iguana",
+    "url": "https://github.com/qicosmos/iguana",
+    "description": "a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. [Apache2]"
+  },
+  {
     "name": "MessagePack",
     "url": "https://github.com/msgpack/msgpack-c",
     "description": "Efficient binary serialization format \"like JSON\" for C and C++. [Apache2] website"

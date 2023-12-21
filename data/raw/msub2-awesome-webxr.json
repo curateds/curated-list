@@ -306,6 +306,11 @@
     "url": "https://www.nunustudio.org/docs/"
   },
   {
+    "name": "Onirix Studio",
+    "url": "https://www.onirix.com/",
+    "description": "A no-code editor for creating Web AR experiences in the browser. It emulates features of the WebXR if target device / browser is not compatible."
+  },
+  {
     "name": "PlayCanvas",
     "url": "https://playcanvas.com/",
     "description": "A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more."
@@ -369,6 +374,10 @@
     "name": "JanusWeb",
     "url": "https://github.com/jbaicoianu/janusweb",
     "description": "An in-browser implementation of JanusVR that lets you build social VR experiences."
+  },
+  {
+    "name": "JSAR-DOM",
+    "url": "https://github.com/M-CreativeLab/jsar-dom"
   },
   {
     "name": "p5.xr",

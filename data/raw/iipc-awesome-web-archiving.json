@@ -417,6 +417,11 @@
     "description": "Command line implementation of httpreserve.info to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on archive.org. (Golang). (Stable)"
   },
   {
+    "name": "Internet Archive Library",
+    "url": "https://github.com/jjjake/internetarchive",
+    "description": "A command line tool and Python library for interacting directly with archive.org. (Python). (Stable)"
+  },
+  {
     "name": "httrack2warc",
     "url": "https://github.com/nla/httrack2warc",
     "description": "Convert HTTrack archives to WARC format (Java)."

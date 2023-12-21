@@ -3170,6 +3170,11 @@
     "description": "Toggle to navigate and select tree-sitter nodes with hjkl."
   },
   {
+    "name": "backdround/neowords.nvim",
+    "url": "https://github.com/backdround/neowords.nvim",
+    "description": "Hops by any type of words. It gives fine control over w, e, b, ge movements."
+  },
+  {
     "name": "mfussenegger/nvim-ts-hint-textobject",
     "url": "https://github.com/mfussenegger/nvim-ts-hint-textobject",
     "description": "Region selection with hints on the AST nodes of a document powered by Treesitter."
