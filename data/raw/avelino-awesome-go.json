@@ -1,5 +1,20 @@
 [
   {
+    "name": "langchaingo",
+    "url": "https://github.com/tmc/langchaingo",
+    "description": "LangChainGo is a framework for developing applications powered by language models."
+  },
+  {
+    "name": "LocalAI",
+    "url": "https://github.com/mudler/LocalAI",
+    "description": "Open Source OpenAI alternative, self-host AI models."
+  },
+  {
+    "name": "Ollama",
+    "url": "https://github.com/jmorganca/ollama",
+    "description": "Run large language models locally."
+  },
+  {
     "name": "flac",
     "url": "https://github.com/mewkiz/flac",
     "description": "Native Go FLAC encoder/decoder with support for FLAC streams."
@@ -5754,7 +5769,7 @@
   },
   {
     "name": "bexp",
-    "url": "https://github.com/mkungla/bexp",
+    "url": "https://github.com/happy-sdk/happy-go/tree/main/strings/bexp",
     "description": "Go implementation of Brace Expansion mechanism to generate arbitrary strings."
   },
   {
@@ -10420,6 +10435,11 @@
     "name": "goa",
     "url": "https://github.com/goa-go/goa",
     "description": "goa is just like koajs for golang, it is a flexible, light, high-performance and extensible web framework based on middleware."
+  },
+  {
+    "name": "GoFr",
+    "url": "https://github.com/gofr-dev/gofr",
+    "description": "Gofr is an opinionated microservice development framework."
   },
   {
     "name": "GoFrame",

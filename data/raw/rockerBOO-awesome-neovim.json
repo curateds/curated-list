@@ -870,6 +870,11 @@
     "description": "Tabs for different Telescope pickers."
   },
   {
+    "name": "backdround/improved-search.nvim",
+    "url": "https://github.com/backdround/improved-search.nvim",
+    "description": "Add search abilities."
+  },
+  {
     "name": "nvim-telescope/telescope.nvim",
     "url": "https://github.com/nvim-telescope/telescope.nvim",
     "description": "Telescope.nvim is a highly extendable fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization."
@@ -2520,6 +2525,11 @@
     "description": "Replace the default :messages window with a configurable, auto-updating buffer."
   },
   {
+    "name": "LintaoAmons/easy-commands.nvim",
+    "url": "https://github.com/LintaoAmons/easy-commands.nvim",
+    "description": "A collection of intuitive, easily searchable, and ready-to-use commands."
+  },
+  {
     "name": "LoricAndre/OneTerm.nvim",
     "url": "https://github.com/LoricAndre/OneTerm.nvim",
     "description": "Plugin framework for running commands in the terminal."
@@ -3173,6 +3183,11 @@
     "name": "backdround/neowords.nvim",
     "url": "https://github.com/backdround/neowords.nvim",
     "description": "Hops by any type of words. It gives fine control over w, e, b, ge movements."
+  },
+  {
+    "name": "backdround/improved-ft.nvim",
+    "url": "https://github.com/backdround/improved-ft.nvim",
+    "description": "Improve default f/t abilities."
   },
   {
     "name": "mfussenegger/nvim-ts-hint-textobject",

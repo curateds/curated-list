@@ -657,6 +657,11 @@
     "description": "A Vagrant provisioning to build 4 virtual machines, an IS-04/IS-05 Node, IS-04 Registry, BCP-003-02 Authorisation Server, and the NMOS Testing Tool."
   },
   {
+    "name": "DELTACAST IP Virtual Card NMOS samples",
+    "url": "https://github.com/deltacasttv/nmos-ipvc-samples",
+    "description": "A demonstration of the integration of several NMOS standards with the DELTACAST IP Virtual Card through nmos-cpp."
+  },
+  {
     "name": "Easy-NMOS",
     "url": "https://github.com/rhastie/easy-nmos",
     "description": "A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool."
