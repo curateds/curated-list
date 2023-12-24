@@ -347,7 +347,7 @@
   {
     "name": "django-bleach",
     "url": "https://github.com/marksweb/django-bleach/",
-    "description": "Integrate bleach into forms and models."
+    "description": "Integrate bleach into forms and models. See django-nh3 as an alternative."
   },
   {
     "name": "django-crispy-forms",
@@ -438,6 +438,11 @@
     "name": "django-freeze",
     "url": "https://github.com/fabiocaccamo/django-freeze",
     "description": "Convert your dynamic django site to a static one with one line of code."
+  },
+  {
+    "name": "django-nh3",
+    "url": "https://github.com/marksweb/django-nh3",
+    "description": "Django integration with for nh3 and is an alternative for django-bleach."
   },
   {
     "name": "Weblate",

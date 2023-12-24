@@ -440,6 +440,11 @@
     "description": "Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses."
   },
   {
+    "name": "plotting-maps",
+    "url": "https://github.com/piebro/plotting-maps",
+    "description": "A simple web tool to create OpenStreetMap SVG maps for plotting."
+  },
+  {
     "name": "svgsort",
     "url": "https://github.com/inconvergent/svgsort",
     "description": "Path planning for plotting SVG files, reduces time spent moving with the pen up."
