@@ -144,6 +144,11 @@
     "description": "Open Source Power Electronic Circuit Simulator. GitHub Project. Direct download link due to broken website."
   },
   {
+    "name": "Proteus",
+    "url": "https://www.labcenter.com/",
+    "description": "PCB Design and Circuit Simulator Software."
+  },
+  {
     "name": "Verilator",
     "url": "https://www.veripool.org/wiki/verilator",
     "description": "Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only."
@@ -239,6 +244,16 @@
     "description": "Easy to use with both browser based and cross platform app versions. Integrates LCSC and JLCPCB component catalogs with 3D models."
   },
   {
+    "name": "Altium",
+    "url": "https://www.altium.com/",
+    "description": "PCB Design Software & Tools."
+  },
+  {
+    "name": "Proteus",
+    "url": "https://www.labcenter.com/",
+    "description": "PCB Design and Circuit Simulator Software."
+  },
+  {
     "name": "Xesscorp's list of KiCad 3rd party tools",
     "url": "https://github.com/xesscorp/kicad-3rd-party-tools"
   },
@@ -278,9 +293,9 @@
     "description": "A html BOM generation tool for manual pick and place."
   },
   {
-    "name": "kicad-exports",
-    "url": "https://github.com/nerdyscout/kicad-exports",
-    "description": "Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every git push with a CI like Github Actions."
+    "name": "KiBot",
+    "url": "https://github.com/INTI-CMNB/KiBot",
+    "description": "Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably."
   },
   {
     "name": "List of ULPs everyone should know",
@@ -293,6 +308,11 @@
   {
     "name": "SparkFun Electronics Eagle Libraries",
     "url": "https://github.com/sparkfun/SparkFun-Eagle-Libraries"
+  },
+  {
+    "name": "Altium Designer Libraries",
+    "url": "https://www.altium.com/documentation/other_installers#!libraries",
+    "description": ".IntLib and .PcbLib of electronic components from different manufacturers."
   },
   {
     "name": "PCBShopper",
@@ -338,6 +358,11 @@
     "name": "Parts.io",
     "url": "https://parts.io/",
     "description": "Another search engine from Supply Frame geared towards discovering new parts."
+  },
+  {
+    "name": "Electronic Component Search Engine",
+    "url": "https://componentsearchengine.com/",
+    "description": "Free access to schematic symbols, PCB footprints and 3D models."
   },
   {
     "name": "Kitspace",
@@ -398,6 +423,11 @@
     "name": "Language PCB",
     "url": "https://github.com/Alhadis/language-pcb",
     "description": "Syntax highlighting for various PCB formats."
+  },
+  {
+    "name": "Saturn PCB Design Toolkit",
+    "url": "https://saturnpcb.com/saturn-pcb-toolkit/",
+    "description": "The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find."
   },
   {
     "name": "Sparkfun",

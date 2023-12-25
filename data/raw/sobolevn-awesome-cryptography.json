@@ -1097,6 +1097,16 @@
     "description": "A type-safe, functional, general purpose security and cryptography library."
   },
   {
+    "name": "guile-gnutls",
+    "url": "https://gitlab.com/gnutls/guile/",
+    "description": "GnuTLS bindings for GNU Guile."
+  },
+  {
+    "name": "guile-ssh",
+    "url": "https://github.com/artyom-poptsov/guile-ssh",
+    "description": "libssh bindings for GNU Guile."
+  },
+  {
     "name": "CryptoSwift",
     "url": "https://github.com/krzyzanowskim/CryptoSwift",
     "description": "Crypto related functions and helpers for Swift implemented in Swift programming language."

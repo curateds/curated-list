@@ -665,11 +665,6 @@
     "description": "Anonymously share files, browse and publish freesites (web sites accessible only through Hyphanet) and chat on forums. (Source Code) GPL-2.0 Java"
   },
   {
-    "name": "Jam",
-    "url": "https://jamshelf.com/",
-    "description": "Private audio chat rooms to talk to friends and family (alternative to Clubhouse). (Demo, Source Code) AGPL-3.0 Docker/Nodejs"
-  },
-  {
     "name": "Jami",
     "url": "https://jami.net/",
     "description": "Free and universal communication platform which preserves the user's privacy and freedoms (formerly GNU Ring). (Source Code) GPL-3.0 C++"
@@ -1048,11 +1043,6 @@
     "name": "Mailman",
     "url": "https://www.gnu.org/software/mailman/",
     "description": "The Gnu mailing list server. GPL-3.0 Python"
-  },
-  {
-    "name": "Mailtrain",
-    "url": "https://github.com/Mailtrain-org/mailtrain",
-    "description": "Self hosted newsletter application. GPL-3.0 Nodejs"
   },
   {
     "name": "Mautic",
@@ -2243,11 +2233,6 @@
     "name": "NewsBlur",
     "url": "https://www.newsblur.com/",
     "description": "NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. (Source Code) MIT Python"
-  },
-  {
-    "name": "newsdash",
-    "url": "https://github.com/buzz/newsdash",
-    "description": "A news dashboard inspired by iGoogle and Netvibes. AGPL-3.0 Docker/Nodejs"
   },
   {
     "name": "Newspipe",
@@ -3535,6 +3520,11 @@
     "description": "View YouTube videos in a distraction-free interface (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs/PHP"
   },
   {
+    "name": "Digiwords",
+    "url": "https://ladigitale.dev/digiwords/",
+    "description": "A simple online application for creating word clouds (documentation in French). (Source Code) AGPL-3.0 Nodejs/PHP"
+  },
+  {
     "name": "DomainMOD",
     "url": "https://domainmod.org",
     "description": "Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. (Demo, Source Code) GPL-3.0 PHP"
@@ -3703,11 +3693,6 @@
     "name": "OpenZiti",
     "url": "https://openziti.github.io/",
     "description": "Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. (Source Code) Apache-2.0 Go"
-  },
-  {
-    "name": "OS.js",
-    "url": "https://www.os-js.org/",
-    "description": "Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. (Demo, Source Code) BSD-2-Clause Nodejs/Docker"
   },
   {
     "name": "OTS-Share",
@@ -4023,11 +4008,6 @@
     "name": "Note Mark",
     "url": "https://notemark.docs.enchantedcode.co.uk/",
     "description": "A minimal web-based Markdown notes app. (Source Code) AGPL-3.0 Docker"
-  },
-  {
-    "name": "Notes'n'Todos",
-    "url": "https://github.com/larspontoppidan/notesntodos",
-    "description": "Write notes and todos online in markdown with tag filtering and date sorting. (Demo) MIT Python"
   },
   {
     "name": "Oddmuse",
@@ -5513,11 +5493,6 @@
     "name": "Just Short It!",
     "url": "https://github.com/miawinter98/just-short-it",
     "description": "A KISS, single-user URL shortener that runs in just one container. MIT Docker"
-  },
-  {
-    "name": "Kutt",
-    "url": "https://kutt.it",
-    "description": "A modern URL shortener with support for custom domains. (Source Code) MIT Nodejs/Docker"
   },
   {
     "name": "liteshort",

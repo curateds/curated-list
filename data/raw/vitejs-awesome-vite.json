@@ -1384,6 +1384,11 @@
     "description": "Generate low quality image placeholders (LQIP)."
   },
   {
+    "name": "vite-plugin-ms-clarity",
+    "url": "https://github.com/KermanX/vite-plugin-ms-clarity",
+    "description": "Inject the Microsoft Clarity script to index.html."
+  },
+  {
     "name": "vite-plugin-importer",
     "url": "https://github.com/ajuner/vite-plugin-importer",
     "description": "Integration for babel-plugin-import."
