@@ -20,6 +20,51 @@
     "description": "Introductory tutorial on Schematic & PCB design"
   },
   {
+    "name": "Khan Academy - Electrical Engineering",
+    "url": "https://www.khanacademy.org/science/electrical-engineering",
+    "description": "Electrical Engineering - Non-profit learning platform with a full course on electrical engineering and related topics."
+  },
+  {
+    "name": "NEETS (Navy Electricity and Electronics Training Series)",
+    "url": "https://www.fcctests.com/neets/Neets.htm",
+    "description": "U.S. Navy Non-Resident Training Course Material."
+  },
+  {
+    "name": "NPTEL",
+    "url": "https://nptel.ac.in/course.html",
+    "description": "Has all free engineering courses including electronics, electrical and communcation engineering."
+  },
+  {
+    "name": "Udemy courses related to Electronics",
+    "url": "https://www.udemy.com/topic/electronics/",
+    "description": "Top paid courses available on Udemy."
+  },
+  {
+    "name": "Coursera courses related to Electronics",
+    "url": "https://www.coursera.org/courses?query=electronics",
+    "description": "Includes some free courses that provide e-certificates on completion."
+  },
+  {
+    "name": "Basic Electronics PPT",
+    "url": "http://engineering.nyu.edu/gk12/amps-cbri/pdf/Basic%20Electronics.pdf",
+    "description": "Contains conceptual explaination of diode, BJT, J/MOS-FET, LED, 7 seg display, photo-resistor/diode/transistor"
+  },
+  {
+    "name": "Electronics textbook",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf",
+    "description": "Text covers design and function of electronic circuits and components, DC analysis, and AC analysis."
+  },
+  {
+    "name": "Student Handbook",
+    "url": "http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf",
+    "description": "Language used in this book easily understandable covers evolution, fundamentals, diode, rectifiers, transistors and its applications, SCR, DIAC and TRIAC."
+  },
+  {
+    "name": "Electronics circuits and systems",
+    "url": "http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf",
+    "description": "Quality free e-book covering all topics under circuits and systems, highly recommended for conceptual understanding."
+  },
+  {
     "name": "Lessons In Electric Circuits",
     "url": "https://www.ibiblio.org/kuphaldt/electricCircuits/",
     "description": "Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method."
@@ -28,15 +73,6 @@
     "name": "Ultimate Electronics: Practical Circuit Design and Analysis",
     "url": "https://ultimateelectronicsbook.com/",
     "description": "Free online book with interactive schematics & simulations by CircuitLab (under development)."
-  },
-  {
-    "name": "Khan Academy - Electrical Engineering",
-    "url": "https://www.khanacademy.org/science/electrical-engineering",
-    "description": "Electrical Engineering - Non-profit learning platform with a full course on electrical engineering and related topics."
-  },
-  {
-    "name": "NEETS (Navy Electricity and Electronics Training Series)",
-    "url": "https://maritime.org/doc/#neets"
   },
   {
     "name": "Berkeley EECS",
@@ -197,6 +233,11 @@
     "name": "GC-Prevue",
     "url": "http://www.graphicode.com/GC-Prevue_Gerber_Viewer",
     "description": "Commercial with free version. Can handle some gerbers better than Gerbv and KiCAD."
+  },
+  {
+    "name": "ZofZPCB",
+    "url": "https://www.zofzpcb.com/",
+    "description": "FREE 3D Gerber Viewer."
   },
   {
     "name": "KiCad",
@@ -425,6 +466,11 @@
     "description": "Syntax highlighting for various PCB formats."
   },
   {
+    "name": "NinjaCalc",
+    "url": "https://gbmhunter.github.io/NinjaCalc/",
+    "description": "An embedded engineering calculator toolbox for doing calculations in a breeze."
+  },
+  {
     "name": "Saturn PCB Design Toolkit",
     "url": "https://saturnpcb.com/saturn-pcb-toolkit/",
     "description": "The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find."
@@ -482,7 +528,7 @@
   {
     "name": "EEVBlog forum",
     "url": "https://www.eevblog.com/forum/",
-    "description": "Probably the largest and most active forum to discuss electronic engineering topics."
+    "description": "Probably the largest and most active forum to discuss Electronic Engineering topics."
   },
   {
     "name": "/r/electronics",
