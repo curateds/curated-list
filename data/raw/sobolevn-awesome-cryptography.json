@@ -1097,6 +1097,16 @@
     "description": "A type-safe, functional, general purpose security and cryptography library."
   },
   {
+    "name": "chicken-sodium",
+    "url": "https://github.com/caolan/chicken-sodium",
+    "description": "Bindings to libsodium crypto library for Chicken Scheme."
+  },
+  {
+    "name": "crypto-tools",
+    "url": "https://wiki.call-cc.org/eggref/5/crypto-tools",
+    "description": "Useful cryptographic primitives for Chicken Scheme."
+  },
+  {
     "name": "guile-gnutls",
     "url": "https://gitlab.com/gnutls/guile/",
     "description": "GnuTLS bindings for GNU Guile."

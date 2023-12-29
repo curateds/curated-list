@@ -912,24 +912,9 @@
     "description": "Gcal/outlook like calendar component."
   },
   {
-    "name": "react-date-range",
-    "url": "https://github.com/Adphorus/react-date-range",
-    "description": "A React component for choosing dates and date ranges."
-  },
-  {
     "name": "react-datepicker",
     "url": "https://github.com/Hacker0x01/react-datepicker",
     "description": "A simple and reusable datepicker component for React."
-  },
-  {
-    "name": "react-datepicker2",
-    "url": "https://github.com/mberneti/react-datepicker2",
-    "description": "demo - docs A simple and reusable datepicker component (with persian jalali calendar support)."
-  },
-  {
-    "name": "react-datetime",
-    "url": "https://github.com/YouCanBookMe/react-datetime",
-    "description": "A lightweight but complete datetime picker react component."
   },
   {
     "name": "react-day-picker",
@@ -942,11 +927,6 @@
     "description": "Flatpickr for React."
   },
   {
-    "name": "react-nice-dates",
-    "url": "https://github.com/hernansartorio/react-nice-dates",
-    "description": "demo/docs A responsive, touch-friendly, and modular date picker library."
-  },
-  {
     "name": "react-simple-timefield",
     "url": "https://github.com/antonfisher/react-simple-timefield",
     "description": "demo - Simple time input field."
@@ -955,11 +935,6 @@
     "name": "react-timezone-select",
     "url": "https://github.com/ndom91/react-timezone-select",
     "description": "demo - Dynamic, succinct timezone select. Based on react-select."
-  },
-  {
-    "name": "react-yearly-calendar",
-    "url": "https://github.com/BelkaLab/react-yearly-calendar",
-    "description": "React.js Yearly Calendar Component."
   },
   {
     "name": "DevExtreme React Scheduler",
@@ -980,6 +955,11 @@
     "name": "react-date-picker",
     "url": "https://github.com/wojtekmaj/react-date-picker",
     "description": "A date picker for your React app."
+  },
+  {
+    "name": "schedule-x",
+    "url": "https://github.com/schedule-x/schedule-x",
+    "description": "Material design event calendar and date picker components. Demo site: https://schedule-x.dev/"
   },
   {
     "name": "interweave-emoji-picker",

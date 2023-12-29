@@ -4021,6 +4021,11 @@
     "description": "A plugin for integrating with the new macOS El Capitan Terminal.app features."
   },
   {
+    "name": "terminal-aliases",
+    "url": "https://github.com/dvir-levy/terminal-aliases",
+    "description": "Adds convenience aliases for [terraform] [git] and more."
+  },
+  {
     "name": "terminal-title",
     "url": "https://github.com/AnimiVulpis/zsh-terminal-title",
     "description": "Adds a set-term-title function you can use to title terminal windows."
@@ -8216,7 +8221,7 @@
   },
   {
     "name": "madas",
-    "url": "https://github.com/Madasish/madas-zsh-theme",
+    "url": "https://github.com/utauyo/madas-zsh-theme",
     "description": "Inspired by af-magic. Includes decorators for git status, user@host, and whether the last command failed."
   },
   {
@@ -10457,7 +10462,12 @@
   {
     "name": "zen",
     "url": "https://github.com/cybardev/zen.zsh",
-    "description": "A minimalist theme for *NIX systems. Includes decorators for execution time of last command run, vcs status information,"
+    "description": "A minimalist theme for *NIX systems. Includes decorators for execution time of last command run, curreent directory and vcs status information."
+  },
+  {
+    "name": "zenith",
+    "url": "https://github.com/waki285/Zenith",
+    "description": "Minimalist. Includes decorators for username, current directory and git status."
   },
   {
     "name": "zero",

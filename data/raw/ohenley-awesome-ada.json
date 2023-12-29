@@ -595,6 +595,11 @@
     "description": "GUI based on adawebpack."
   },
   {
+    "name": "imgui-ada",
+    "url": "https://github.com/Cre8or/ImGui-Ada",
+    "description": "Ada binding of the ImGui library."
+  },
+  {
     "name": "curses",
     "url": "https://github.com/annexi-strayline/Curses",
     "description": "Advanced UNIX Terminal UI Ada Binding Package."

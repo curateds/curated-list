@@ -134,11 +134,6 @@
     "description": "Sagan uses a 'Snort like' engine and rules to analyze logs (syslog/event log/snmptrap/netflow/etc)."
   },
   {
-    "name": "Node Security Platform",
-    "url": "https://nodesecurity.io/",
-    "description": "Similar feature set to Snyk, but free in most cases, and very cheap for others."
-  },
-  {
     "name": "ntopng",
     "url": "http://www.ntop.org/products/traffic-analysis/ntop/",
     "description": "Ntopng is a network traffic probe that shows the network usage, similar to what the popular top Unix command does."
@@ -870,6 +865,11 @@
     "description": "ModSecurity is a toolkit for real-time web application monitoring, logging, and access control."
   },
   {
+    "name": "BunkerWeb",
+    "url": "https://github.com/bunkerity/bunkerweb",
+    "description": "BunkerWeb is a full-featured open-source web server with ModeSecurity WAF, HTTPS with transparent Let's Encrypt renewal, automatic ban of strange behaviors based on HTTP codes, bot and bad IPs block, connection limits, state-of-the-art security presets, Web UI and much more."
+  },
+  {
     "name": "NAXSI",
     "url": "https://github.com/nbs-system/naxsi",
     "description": "NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection."
@@ -1133,11 +1133,6 @@
     "description": "Ansible role for OS hardening"
   },
   {
-    "name": "bunkerized-nginx",
-    "url": "https://github.com/bunkerity/bunkerized-nginx",
-    "description": "nginx Docker image secure by default"
-  },
-  {
     "name": "Trivy",
     "url": "https://github.com/aquasecurity/trivy",
     "description": "A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI."
@@ -1386,6 +1381,11 @@
     "name": "Node.js Secure Coding: Defending Against Command Injection Vulnerabilities",
     "url": "https://www.nodejs-security.com",
     "description": "Learn secure coding conventions in Node.js by executing command injection attacks on real-world npm packages and analyzing vulnerable code."
+  },
+  {
+    "name": "Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities",
+    "url": "https://www.nodejs-security.com/book/path-traversal",
+    "description": "Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities."
   },
   {
     "name": "Android Security Awesome",

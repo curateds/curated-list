@@ -1665,6 +1665,11 @@
     "description": "Palenight colorscheme supporting Tree-sitter, LSP (including semantic tokens) and lots of plugins."
   },
   {
+    "name": "scottmckendry/cyberdream.nvim",
+    "url": "https://github.com/scottmckendry/cyberdream.nvim",
+    "description": "A high-contrast, futuristic & vibrant coloursheme."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -2535,6 +2540,11 @@
     "description": "Make tab-local buffers."
   },
   {
+    "name": "linrongbin16/gentags.nvim",
+    "url": "https://github.com/linrongbin16/gentags.nvim",
+    "description": "The tags generator/management for old school vimers."
+  },
+  {
     "name": "LoricAndre/OneTerm.nvim",
     "url": "https://github.com/LoricAndre/OneTerm.nvim",
     "description": "Plugin framework for running commands in the terminal."
@@ -3278,6 +3288,11 @@
     "name": "Wansmer/langmapper.nvim",
     "url": "https://github.com/Wansmer/langmapper.nvim",
     "description": "Auto translating your mappings for non-English input methods."
+  },
+  {
+    "name": "tris203/hawtkeys.nvim",
+    "url": "https://github.com/tris203/hawtkeys.nvim",
+    "description": "Suggest new easy-to-hit keymaps and find issues with your current keymap configurations."
   },
   {
     "name": "notomo/gesture.nvim",

@@ -750,11 +750,6 @@
     "description": "Screego is a simple tool to quickly share your screen to one or multiple people via web browser. (Demo, Source Code) GPL-3.0 Docker/Go"
   },
   {
-    "name": "Screensy",
-    "url": "https://github.com/screensy/screensy",
-    "description": "Simple peer-to-peer screen sharing solution for sharing your screen with WebRTC. (Demo) GPL-3.0 Nodejs/Docker"
-  },
-  {
     "name": "Shhh",
     "url": "https://github.com/smallwat3r/shhh",
     "description": "Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. MIT Python"
@@ -2943,6 +2938,11 @@
     "name": "SIP Irrigation Control",
     "url": "https://dan-in-ca.github.io/SIP/",
     "description": "Open source software for sprinkler/irrigation control. (Source Code) GPL-3.0 Python"
+  },
+  {
+    "name": "Tasmota",
+    "url": "https://tasmota.com",
+    "description": "Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. (Source Code) GPL-3.0 C/C++"
   },
   {
     "name": "Thingsboard",
