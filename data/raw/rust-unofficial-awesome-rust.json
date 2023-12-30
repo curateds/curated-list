@@ -169,6 +169,10 @@
     "url": "https://github.com/DasEtwas/enginesound"
   },
   {
+    "name": "Festival",
+    "url": "https://github.com/hinto-janai/festival"
+  },
+  {
     "name": "figsoda/mmtc",
     "url": "https://github.com/figsoda/mmtc"
   },
@@ -192,6 +196,11 @@
   {
     "name": "Spotifyd",
     "url": "https://github.com/Spotifyd/spotifyd"
+  },
+  {
+    "name": "termusic",
+    "url": "https://github.com/tramhao/termusic",
+    "description": "Music Player TUI written in Rust"
   },
   {
     "name": "WhatBPM",
@@ -410,6 +419,10 @@
   {
     "name": "erikgrinaker/toydb",
     "url": "https://github.com/erikgrinaker/toydb"
+  },
+  {
+    "name": "Garage",
+    "url": "https://github.com/deuxfleurs-org/garage"
   },
   {
     "name": "GreptimeDB",
@@ -695,6 +708,11 @@
     "description": "An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley in Rust."
   },
   {
+    "name": "flxzt/rnote",
+    "url": "https://github.com/flxzt/rnote",
+    "description": "Sketch and take handwritten notes."
+  },
+  {
     "name": "ivanceras/svgbob",
     "url": "https://github.com/ivanceras/svgbob"
   },
@@ -772,6 +790,10 @@
   {
     "name": "Andy-Python-Programmer/aero",
     "url": "https://github.com/Andy-Python-Programmer/aero"
+  },
+  {
+    "name": "DragonOS-Community/DragonOS",
+    "url": "https://github.com/DragonOS-Community/DragonOS"
   },
   {
     "name": "redox-os/redox",
@@ -873,6 +895,10 @@
     "name": "cotp",
     "url": "https://github.com/replydev/cotp",
     "description": "Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
+  },
+  {
+    "name": "entropic-security/xgadget",
+    "url": "https://github.com/entropic-security/xgadget"
   },
   {
     "name": "epi052/feroxbuster",
@@ -1004,6 +1030,11 @@
     "url": "https://github.com/amrdeveloper/gql"
   },
   {
+    "name": "httm",
+    "url": "https://github.com/kimono-koans/httm",
+    "description": "Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)"
+  },
+  {
     "name": "j0ru/kickoff",
     "url": "https://github.com/j0ru/kickoff",
     "description": "Fast and snappy wayland program launcher"
@@ -1012,6 +1043,11 @@
     "name": "Kondo",
     "url": "https://github.com/tbillington/kondo",
     "description": "CLI & GUI tool for deleting software project artifacts and reclaiming disk space"
+  },
+  {
+    "name": "LACT",
+    "url": "https://github.com/ilya-zlobintsev/LACT",
+    "description": "Linux AMDGPU Controller"
   },
   {
     "name": "lodosgroup/lpm",
@@ -1409,8 +1445,8 @@
     "description": "User-first chat platform built with modern web technologies."
   },
   {
-    "name": "emanuele-em/man-in-the-middle-proxy",
-    "url": "https://github.com/emanuele-em/man-in-the-middle-proxy"
+    "name": "emanuele-em/proxelar",
+    "url": "https://github.com/emanuele-em/proxelar"
   },
   {
     "name": "mu-arch/skyfolder",
@@ -1496,7 +1532,7 @@
   },
   {
     "name": "geiger",
-    "url": "https://github.com/rust-secure-code/cargo-geiger"
+    "url": "https://github.com/geiger-rs/cargo-geiger"
   },
   {
     "name": "git-cliff",
@@ -1971,12 +2007,12 @@
     "url": "https://github.com/RustPython/RustPython"
   },
   {
-    "name": "d-unseductable/ruru",
-    "url": "https://github.com/d-unseductable/ruru"
+    "name": "d-unsed/ruru",
+    "url": "https://github.com/d-unsed/ruru"
   },
   {
-    "name": "d-unseductable/ruru",
-    "url": "https://github.com/d-unseductable/ruru"
+    "name": "d-unsed/ruru",
+    "url": "https://github.com/d-unsed/ruru"
   },
   {
     "name": "danielpclark/rutie",
@@ -2252,6 +2288,10 @@
     "url": "https://crates.io/crates/demonstrate"
   },
   {
+    "name": "GoogleTest Rust",
+    "url": "https://crates.io/crates/googletest"
+  },
+  {
     "name": "rstest",
     "url": "https://crates.io/crates/rstest"
   },
@@ -2368,8 +2408,8 @@
     "url": "https://github.com/autumnai/leaf"
   },
   {
-    "name": "burn-rs/burn",
-    "url": "https://github.com/burn-rs/burn",
+    "name": "burn",
+    "url": "https://github.com/tracel-ai/burn",
     "description": "A Flexible and Comprehensive Deep Learning Framework in Rust."
   },
   {
@@ -3033,6 +3073,10 @@
     "url": "https://github.com/mehcode/config-rs"
   },
   {
+    "name": "SergioBenitez/Figment",
+    "url": "https://github.com/SergioBenitez/Figment"
+  },
+  {
     "name": "softprops/envy",
     "url": "https://github.com/softprops/envy",
     "description": "deserialize env vars into typesafe structs"
@@ -3087,6 +3131,11 @@
     "url": "https://github.com/facebook/opaque-ke"
   },
   {
+    "name": "iddm/randomorg",
+    "url": "https://github.com/iddm/randomorg",
+    "description": "A random.org client library."
+  },
+  {
     "name": "klutzy/suruga",
     "url": "https://github.com/klutzy/suruga"
   },
@@ -3125,11 +3174,6 @@
   {
     "name": "sorairolake/scryptenc-rs",
     "url": "https://github.com/sorairolake/scryptenc-rs"
-  },
-  {
-    "name": "vityafx/randomorg",
-    "url": "https://github.com/vityafx/randomorg",
-    "description": "A random.org client library."
   },
   {
     "name": "w3f/schnorrkel",
@@ -3798,12 +3842,12 @@
     "url": "https://github.com/BurntSushi/rust-csv"
   },
   {
-    "name": "naomijub/edn-rs",
-    "url": "https://github.com/naomijub/edn-rs"
+    "name": "edn-rs",
+    "url": "https://github.com/edn-rs/edn-rs"
   },
   {
-    "name": "naomijub/edn-rs",
-    "url": "https://github.com/naomijub/edn-rs"
+    "name": "edn-rs",
+    "url": "https://github.com/edn-rs/edn-rs"
   },
   {
     "name": "FlatBuffers",
@@ -3906,13 +3950,13 @@
     "url": "https://github.com/ron-rs/ron"
   },
   {
-    "name": "vityafx/serde-aux",
-    "url": "https://github.com/vityafx/serde-aux/",
+    "name": "iddm/serde-aux",
+    "url": "https://github.com/iddm/serde-aux/",
     "description": "additional tools for using with the serde library."
   },
   {
-    "name": "vityafx/serde-aux",
-    "url": "https://github.com/vityafx/serde-aux/",
+    "name": "iddm/serde-aux",
+    "url": "https://github.com/iddm/serde-aux/",
     "description": "additional tools for using with the serde library."
   },
   {
@@ -4068,12 +4112,12 @@
     "description": "The Roguelike Toolkit (RLTK), implemented for Rust."
   },
   {
-    "name": "vityafx/challonge-rs",
-    "url": "https://github.com/vityafx/challonge-rs"
+    "name": "iddm/challonge-rs",
+    "url": "https://github.com/iddm/challonge-rs"
   },
   {
-    "name": "vityafx/challonge-rs",
-    "url": "https://github.com/vityafx/challonge-rs"
+    "name": "iddm/challonge-rs",
+    "url": "https://github.com/iddm/challonge-rs"
   },
   {
     "name": "lucidscape/corange-rs",
@@ -4185,13 +4229,13 @@
     "url": "https://github.com/tomassedovic/tcod-rs"
   },
   {
-    "name": "vityafx/toornament-rs",
-    "url": "https://github.com/vityafx/toornament-rs",
+    "name": "iddm/toornament-rs",
+    "url": "https://github.com/iddm/toornament-rs",
     "description": "Toornament.com API bindings for Rust."
   },
   {
-    "name": "vityafx/toornament-rs",
-    "url": "https://github.com/vityafx/toornament-rs",
+    "name": "iddm/toornament-rs",
+    "url": "https://github.com/iddm/toornament-rs",
     "description": "Toornament.com API bindings for Rust."
   },
   {
@@ -4897,18 +4941,18 @@
     "url": "https://github.com/serialport/serialport-rs"
   },
   {
-    "name": "svartalf/rust-battery",
-    "url": "https://crates.io/crates/battery",
+    "name": "iddm/thread-priority",
+    "url": "https://github.com/iddm/thread-priority/",
+    "description": "Simple, crossplatform thread priority management."
+  },
+  {
+    "name": "iddm/thread-priority",
+    "url": "https://github.com/iddm/thread-priority/",
     "description": "Simple, crossplatform thread priority management."
   },
   {
     "name": "svartalf/rust-battery",
     "url": "https://crates.io/crates/battery"
-  },
-  {
-    "name": "vityafx/thread-priority",
-    "url": "https://github.com/vityafx/thread-priority/",
-    "description": "Simple, crossplatform thread priority management."
   },
   {
     "name": "fubarnetes/libjail-rs",
@@ -5330,7 +5374,7 @@
   },
   {
     "name": "Rocket",
-    "url": "https://github.com/SergioBenitez/Rocket"
+    "url": "https://github.com/rwf2/Rocket"
   },
   {
     "name": "Rustless",
@@ -5466,6 +5510,10 @@
     "url": "https://github.com/housleyjk/ws-rs"
   },
   {
+    "name": "iddm/urlshortener-rs",
+    "url": "https://github.com/iddm/urlshortener-rs"
+  },
+  {
     "name": "rust-websocket",
     "url": "https://github.com/websockets-rs/rust-websocket"
   },
@@ -5476,10 +5524,6 @@
   {
     "name": "vi/websocat",
     "url": "https://github.com/vi/websocat"
-  },
-  {
-    "name": "vityafx/urlshortener-rs",
-    "url": "https://github.com/vityafx/urlshortener-rs"
   },
   {
     "name": "Cloudsmith 💲",
@@ -5520,7 +5564,7 @@
   },
   {
     "name": "Discover Rust Libraries & Code Snippets",
-    "url": "https://kandi.openweaver.com/explore/rust",
+    "url": "https://kandi.openweaver.com/explorelibrary/rust",
     "description": "A curated list of Rust libraries, authors, kits, tutorials & learning resources on kandi"
   },
   {
@@ -5654,6 +5698,11 @@
     "name": "Take your first steps with Rust",
     "url": "https://learn.microsoft.com/en-us/training/paths/rust-first-steps/",
     "description": "Lay the foundation of knowledge you need to build fast and effective programs in Rust."
+  },
+  {
+    "name": "Tour of Rust",
+    "url": "https://tourofrust.com",
+    "description": "This is meant to be an interactive step by step guide through the features of the Rust programming language."
   },
   {
     "name": "University of Pennsylvania's Comp Sci Rust Programming Course",

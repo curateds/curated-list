@@ -50,11 +50,6 @@
     "description": "An RSS/Atom feed reader."
   },
   {
-    "name": "Cawbird",
-    "url": "https://ibboard.co.uk/cawbird/",
-    "description": "Twitter client."
-  },
-  {
     "name": "Haguichi",
     "url": "https://www.haguichi.net/",
     "description": "Graphical frontend for Hamachi."
@@ -103,11 +98,6 @@
     "name": "Foliate",
     "url": "https://github.com/johnfactotum/foliate",
     "description": "Simple and modern eBook reader."
-  },
-  {
-    "name": "Pdftag",
-    "url": "https://github.com/arrufat/pdftag",
-    "description": "Simple metadata editor for PDFs."
   },
   {
     "name": "Marker",
@@ -325,11 +315,6 @@
     "description": "Open Source gaming platform."
   },
   {
-    "name": "GNOME Games",
-    "url": "https://wiki.gnome.org/Apps/Games",
-    "description": "Game launcher and an emulation frontend to libretro."
-  },
-  {
     "name": "Cartridges",
     "url": "https://github.com/kra-mo/cartridges",
     "description": "Game launcher with Steam, Lutris, Heroic, Bottles and itch library import."
@@ -392,7 +377,22 @@
   {
     "name": "Mission Center",
     "url": "https://missioncenter.io/",
-    "description": "Monitor your CPU, Memory, Disk, Network and GPU usage"
+    "description": "Monitor your CPU, Memory, Disk, Network and GPU usage."
+  },
+  {
+    "name": "Bottles",
+    "url": "https://github.com/bottlesdevs/Bottles",
+    "description": "Wine environments manager to run Windows software and games."
+  },
+  {
+    "name": "BoxBuddy",
+    "url": "https://github.com/Dvlv/BoxBuddyRS",
+    "description": "Graphical Distrobox manager."
+  },
+  {
+    "name": "Pods",
+    "url": "https://github.com/marhkb/pods",
+    "description": "Podman containers manager."
   },
   {
     "name": "Dialect",
@@ -465,6 +465,11 @@
     "description": "Bootable driver flasher application"
   },
   {
+    "name": "Lan Mouse",
+    "url": "https://github.com/feschber/lan-mouse",
+    "description": "Mouse and keyboard sharing software (software KVM switch)"
+  },
+  {
     "name": "Obfuscate",
     "url": "https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/",
     "description": "Censor private information."
@@ -493,11 +498,6 @@
     "name": "File Shredder",
     "url": "https://apps.gnome.org/app/com.github.ADBeveridge.Raider/",
     "description": "Securely delete your files."
-  },
-  {
-    "name": "Passbook",
-    "url": "https://gitlab.gnome.org/gnumdk/passbook",
-    "description": "Password manager compatible with freedesktop secrets."
   },
   {
     "name": "GNOME Builder",

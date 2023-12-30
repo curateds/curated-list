@@ -2674,6 +2674,11 @@
     "description": "A lightweight C++ logging library. [PublicDomain]"
   },
   {
+    "name": "lwlog",
+    "url": "https://github.com/ChristianPanov/lwlog",
+    "description": "Very fast synchronous and asynchronous C++17 logging library. [MIT]"
+  },
+  {
     "name": "plog",
     "url": "https://github.com/SergiusTheBest/plog",
     "description": "Portable and simple log for C++ in less than 1000 lines of code. [MPL2]"
@@ -4451,6 +4456,11 @@
     "name": "StrTk",
     "url": "https://www.partow.net/programming/strtk/index.html",
     "description": "A C++ library consisting of high performance string processing routines. [MIT]"
+  },
+  {
+    "name": "tgbotxx",
+    "url": "https://github.com/baderouaich/tgbotxx",
+    "description": "Telegram Bot C++ Library. [MIT]"
   },
   {
     "name": "Tulip Indicators",

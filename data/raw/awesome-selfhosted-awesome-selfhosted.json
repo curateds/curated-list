@@ -1445,11 +1445,6 @@
     "description": "Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). (Demo, Source Code) AGPL-3.0 Docker/Scala"
   },
   {
-    "name": "Teddit",
-    "url": "https://teddit.net",
-    "description": "Alternative Reddit front-end focused on privacy. (Source Code) AGPL-3.0 Nodejs/Docker"
-  },
-  {
     "name": "yarn.social",
     "url": "https://yarn.social",
     "description": "Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. (Source Code) MIT Go"
@@ -2516,8 +2511,8 @@
   },
   {
     "name": "transfer.sh",
-    "url": "https://transfer.sh",
-    "description": "Easy file sharing from the command line. (Source Code) MIT Go"
+    "url": "https://github.com/dutchcoders/transfer.sh",
+    "description": "Easy file sharing from the command line. MIT Go"
   },
   {
     "name": "Uguu",
@@ -2850,11 +2845,6 @@
     "description": "The award-winning, enterprise-class open source CRM. (Source Code) AGPL-3.0 PHP"
   },
   {
-    "name": "tine - Community Edition",
-    "url": "https://github.com/tine20/tine20",
-    "description": "Community Edition - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. AGPL-3.0 PHP"
-  },
-  {
     "name": "Tracim",
     "url": "https://github.com/tracim/tracim",
     "description": "Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. AGPL-3.0/LGPL-3.0/MIT Python"
@@ -3103,11 +3093,6 @@
     "name": "GraphHopper",
     "url": "https://graphhopper.com/",
     "description": "Fast routing library and server using OpenStreetMap. (Source Code) Apache-2.0 Java"
-  },
-  {
-    "name": "MapBBCodeShare",
-    "url": "https://github.com/MapBBCode/share.mapbbcode.org",
-    "description": "Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. (Demo) WTFPL PHP"
   },
   {
     "name": "Nominatim",
@@ -4173,11 +4158,6 @@
     "name": "Hemmelig",
     "url": "https://hemmelig.app",
     "description": "Share encrypted secrets cross organizations, or as private persons. (Source Code) MIT Docker/Nodejs"
-  },
-  {
-    "name": "Lenpaste",
-    "url": "https://git.lcomrade.su/root/lenpaste",
-    "description": "Web service that allows you to share notes anonymously. (Demo) AGPL-3.0 Docker/Go"
   },
   {
     "name": "MicroBin",
