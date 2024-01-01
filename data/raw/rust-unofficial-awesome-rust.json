@@ -12,10 +12,6 @@
     "url": "https://github.com/cch123/asm-cli-rust"
   },
   {
-    "name": "broot",
-    "url": "https://github.com/Canop/broot"
-  },
-  {
     "name": "cloudflare/boringtun",
     "url": "https://github.com/cloudflare/boringtun"
   },
@@ -627,6 +623,30 @@
   {
     "name": "rustzx/rustzx",
     "url": "https://github.com/rustzx/rustzx"
+  },
+  {
+    "name": "broot",
+    "url": "https://github.com/Canop/broot",
+    "description": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading dystroy.org/broot"
+  },
+  {
+    "name": "joshuto",
+    "url": "https://github.com/kamiyaa/joshuto",
+    "description": "ranger-like terminal file manager written in Rust"
+  },
+  {
+    "name": "xplr",
+    "url": "https://github.com/sayanarijit/xplr",
+    "description": "A hackable, minimal, fast TUI file explorer"
+  },
+  {
+    "name": "yazi",
+    "url": "https://github.com/sxyazi/yazi",
+    "description": "Blazing fast terminal file manager written in Rust, based on async I/O."
+  },
+  {
+    "name": "chess-tui",
+    "url": "https://github.com/thomas-mauran/chess-tui"
   },
   {
     "name": "citybound",

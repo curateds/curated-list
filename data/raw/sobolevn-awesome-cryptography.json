@@ -1117,6 +1117,11 @@
     "description": "libssh bindings for GNU Guile."
   },
   {
+    "name": "industria",
+    "url": "https://gitlab.com/weinholt/industria",
+    "description": "Motley assortment of cryptographic primitives, OpenSSH, DNS."
+  },
+  {
     "name": "CryptoSwift",
     "url": "https://github.com/krzyzanowskim/CryptoSwift",
     "description": "Crypto related functions and helpers for Swift implemented in Swift programming language."

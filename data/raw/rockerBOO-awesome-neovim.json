@@ -355,6 +355,11 @@
     "description": "A nvim-cmp function for better sorting."
   },
   {
+    "name": "SergioRibera/cmp-dotenv",
+    "url": "https://github.com/SergioRibera/cmp-dotenv",
+    "description": "Load environment variables from the shell or from your .env files."
+  },
+  {
     "name": "echasnovski/mini.nvim#mini.completion",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-completion.md",
     "description": "Module of mini.nvim for asynchronous two-stage completion. Supports showing completion item info and independent function signature."
@@ -1198,6 +1203,11 @@
     "name": "folke/tokyonight.nvim",
     "url": "https://github.com/folke/tokyonight.nvim",
     "description": "A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins."
+  },
+  {
+    "name": "crispybaccoon/evergarden",
+    "url": "https://github.com/crispybaccoon/evergarden",
+    "description": "A comfy Neovim colorscheme for cozy morning coding."
   },
   {
     "name": "sainnhe/sonokai",
@@ -3220,6 +3230,11 @@
     "description": "Easy navigation around the Treesitter's tree that works in multi-language files and in normal mode."
   },
   {
+    "name": "atusy/treemonkey.nvim",
+    "url": "https://github.com/atusy/treemonkey.nvim",
+    "description": "Region selection with Treesitter nodes."
+  },
+  {
     "name": "folke/which-key.nvim",
     "url": "https://github.com/folke/which-key.nvim",
     "description": "Neovim plugin that shows a popup with possible keybindings of the command you started typing."
@@ -3308,6 +3323,11 @@
     "name": "declancm/cinnamon.nvim",
     "url": "https://github.com/declancm/cinnamon.nvim",
     "description": "Smooth scrolling for any movement command."
+  },
+  {
+    "name": "nkakouros-original/scrollofffraction.nvim",
+    "url": "https://github.com/nkakouros/scrollofffraction.nvim",
+    "description": "Scrolloff as a fraction of the window height."
   },
   {
     "name": "Xuyuanp/scrollbar.nvim",

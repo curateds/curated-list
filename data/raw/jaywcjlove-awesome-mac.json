@@ -1315,6 +1315,11 @@
     "description": "Zsh is a shell designed for interactive use, although it is also a powerful scripting language."
   },
   {
+    "name": "ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "A delightful community-driven framework for managing your zsh configuration."
+  },
+  {
     "name": "xcodes",
     "url": "https://github.com/RobotsAndPencils/xcodes",
     "description": "A command-line tool to install and switch between multiple versions of Xcode."
@@ -1493,6 +1498,11 @@
     "name": "Parallels",
     "url": "http://www.parallels.com/",
     "description": "Powerful, easy-to-use VM. No free upgrade for each new Mac OS."
+  },
+  {
+    "name": "Rancher Desktop",
+    "url": "https://rancherdesktop.io",
+    "description": "Rancher Desktop is an app that provides container management and Kubernetes on the desktop."
   },
   {
     "name": "Lima",
@@ -2565,7 +2575,7 @@
   },
   {
     "name": "BeMyEars",
-    "url": "https://www.bemyears.io/",
+    "url": "https://www.bemyears.cn/",
     "description": "Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere."
   },
   {
@@ -2768,6 +2778,11 @@
     "description": "Synfig Studio is free, open-source 2D animation software."
   },
   {
+    "name": "trax",
+    "url": "https://github.com/nbonamy/trax",
+    "description": "Free, open-source music library management tool with audio conversion and tag management functionalities."
+  },
+  {
     "name": "VLC",
     "url": "http://www.videolan.org/index.html",
     "description": "Free, open-source, cross-platform multimedia player as well as framework that plays most multimedia files, DVDs, Audio CDs, VCDs and various streaming protocols."
@@ -2801,6 +2816,11 @@
     "name": "YouTube Music Desktop",
     "url": "https://ytmdesktop.app/",
     "description": "Free cross platform Desktop Player for YouTube Music."
+  },
+  {
+    "name": "YPlayer",
+    "url": "https://www.engineerdraft.com/en/yplayer/",
+    "description": "A multifunctional app capable of live caption on-device, converting audio and video files into text and subtitle, transforming recordings into text, and translating subtitles."
   },
   {
     "name": "GarageBand",
@@ -3265,6 +3285,11 @@
     "name": "Boop",
     "url": "https://boop.okat.best/",
     "description": "Snippet tool that provides various functionalities like JSON formatting, MD5 Checksum, reverse string, encode, and much more."
+  },
+  {
+    "name": "CleanClip",
+    "url": "https://cleanclip.cc",
+    "description": "The cleanest Clipboard Manager on macOS, ever!"
   },
   {
     "name": "Clipboard",
@@ -3834,6 +3859,11 @@
     "name": "Linear Mouse",
     "url": "https://linearmouse.app/",
     "description": "Full control of mouse. Change the speed, scrolling direction, pointer type and much more."
+  },
+  {
+    "name": "Macaify",
+    "url": "https://macaify.com",
+    "description": "Fast use of ChatGPT, lightweight, clean, keyboard-first."
   },
   {
     "name": "MindMac",

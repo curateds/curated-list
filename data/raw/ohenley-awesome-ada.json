@@ -345,6 +345,11 @@
     "description": "Ada Toolchains for GitHub Actions."
   },
   {
+    "name": "porion",
+    "url": "https://gitlab.com/stcarrez/porion",
+    "description": "Continuous integration server and agent that helps automate the building, testing and deployment."
+  },
+  {
     "name": "bb-runtimes",
     "url": "https://github.com/AdaCore/bb-runtimes",
     "description": "GNAT bare metal board support package (BSP)."
@@ -755,6 +760,11 @@
     "description": "PowerJoular allows monitoring power consumption of multiple platforms and processes."
   },
   {
+    "name": "mat",
+    "url": "https://github.com/stcarrez/mat",
+    "description": "MAT is a simple memory analysis tool intended to help understand where the memory is used in a program."
+  },
+  {
     "name": "gnat-coverage",
     "url": "https://github.com/AdaCore/gnatcoverage",
     "description": "GNATcoverage is a tool to analyze and report program coverage."
@@ -810,6 +820,11 @@
     "description": "RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK."
   },
   {
+    "name": "resource-embedder",
+    "url": "https://gitlab.com/stcarrez/resource-embedder",
+    "description": "Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files."
+  },
+  {
     "name": "ada-ml",
     "url": "https://github.com/rocher/AdaML",
     "description": "Ada-tailored UML Modeling Language."
@@ -853,6 +868,11 @@
     "name": "geo-energy-math",
     "url": "https://github.com/pukpr/GeoEnergyMath",
     "description": "Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018)."
+  },
+  {
+    "name": "matrix-root",
+    "url": "https://gitlab.com/mockturtle/matrix-root",
+    "description": "Compute the N-th root of a matrix."
   },
   {
     "name": "si",
@@ -1250,6 +1270,11 @@
     "description": "URI and MIME parser & manipulation library."
   },
   {
+    "name": "ada-libmagic",
+    "url": "https://gitlab.com/stcarrez/ada-libmagic",
+    "description": "Magic Number Recognition Library Ada binding (libmagic (3))."
+  },
+  {
     "name": "anet",
     "url": "https://www.codelabs.ch/anet/",
     "description": "Anet is a networking library for the Ada programming language."
@@ -1435,6 +1460,11 @@
     "description": "An Ada package allowing the externalization of application messages into a properties file."
   },
   {
+    "name": "ada-intl",
+    "url": "https://gitlab.com/stcarrez/ada-intl",
+    "description": "NLS thin Ada binding (gettext (3), textdomain (3), bindtextdomain (3))."
+  },
+  {
     "name": "auto-counters",
     "url": "https://github.com/jhumphry/auto_counters",
     "description": "Reference counting approaches to resource management."
@@ -1530,6 +1560,11 @@
     "description": "Minimal binding to libdl."
   },
   {
+    "name": "suid-helper",
+    "url": "https://gitlab.com/mockturtle/suid-helper",
+    "description": "Small Ada library that helps in writing safer suid programs."
+  },
+  {
     "name": "win32ada",
     "url": "https://github.com/AdaCore/win32ada",
     "description": "Ada API to the Windows library."
@@ -1605,6 +1640,11 @@
     "description": "This project shows how to initialize a SensorTile and how to send sensor data over BLE from a SensorTile to a suitable host."
   },
   {
+    "name": "ada-enet",
+    "url": "https://github.com/stcarrez/ada-enet",
+    "description": "Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769."
+  },
+  {
     "name": "giza",
     "url": "https://github.com/Fabien-Chouteau/Giza",
     "description": "Giza is trying to be a simple widget tool kit for embedded platforms."
@@ -1623,6 +1663,11 @@
     "name": "sancta",
     "url": "https://github.com/mosteo/sancta",
     "description": "SANCTA multi-robot task allocation library."
+  },
+  {
+    "name": "stm32-ui",
+    "url": "https://github.com/stcarrez/stm32-ui",
+    "description": "STM32 UI library and tools (graphs, images, 12 hour clock)."
   },
   {
     "name": "coffee-clock",
