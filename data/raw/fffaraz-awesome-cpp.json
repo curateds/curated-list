@@ -3484,6 +3484,16 @@
     "description": "A fast and lightweight 2D game physics library. [MIT] website"
   },
   {
+    "name": "Jolt Physics",
+    "url": "https://github.com/jrouwe/JoltPhysics",
+    "description": "A multi core friendly rigid body physics and collision detection library. [MIT]"
+  },
+  {
+    "name": "Kratos",
+    "url": "https://github.com/KratosMultiphysics/Kratos",
+    "description": "framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. [BSD] website"
+  },
+  {
     "name": "LiquidFun",
     "url": "https://github.com/google/liquidfun",
     "description": "A 2D physics engine for games. [BSD-like]"
@@ -3497,11 +3507,6 @@
     "name": "ODE",
     "url": "http://www.ode.org/",
     "description": "Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]"
-  },
-  {
-    "name": "Kratos",
-    "url": "https://github.com/KratosMultiphysics/Kratos",
-    "description": "framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. [BSD] website"
   },
   {
     "name": "ofxBox2d",
@@ -5233,6 +5238,11 @@
     "name": "Bo Qian's playlist",
     "url": "https://www.youtube.com/user/BoQianTheProgrammer/playlists",
     "description": "Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ..."
+  },
+  {
+    "name": "The Cherno's C++ Playlist",
+    "url": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+    "description": "Extensive C++ tutorial series by The Cherno."
   },
   {
     "name": "Standard C++",

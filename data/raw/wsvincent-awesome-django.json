@@ -230,6 +230,11 @@
     "description": "Simplified environment variable parsing that comes with a Django helper that installs additional packages."
   },
   {
+    "name": "django-classy-settings",
+    "url": "https://github.com/funkybob/django-classy-settings",
+    "description": "Class based settings to keep your environments in order, with easy access to typed environment variables."
+  },
+  {
     "name": "wagtail",
     "url": "https://github.com/wagtail/wagtail",
     "description": "Popular Django content management system (CMS). See awesome-wagtail too."

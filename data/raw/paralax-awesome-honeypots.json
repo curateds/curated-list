@@ -155,6 +155,11 @@
     "description": "Drupal Honeypot."
   },
   {
+    "name": "galah",
+    "url": "https://github.com/0x4D31/galah",
+    "description": "an LLM-powered web honeypot using the OpenAI API."
+  },
+  {
     "name": "honeyhttpd",
     "url": "https://github.com/bocajspear1/honeyhttpd",
     "description": "Python-based web server honeypot builder."
@@ -408,6 +413,11 @@
     "name": "canarytokendetector",
     "url": "https://github.com/referefref/canarytokendetector",
     "description": "Tool for detection and nullification of Thinkst CanaryTokens"
+  },
+  {
+    "name": "honeydet",
+    "url": "https://github.com/referefref/honeydet",
+    "description": "Signature based honeypot detector tool written in Golang"
   },
   {
     "name": "kippo_detect",

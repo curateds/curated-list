@@ -35,14 +35,14 @@
     "description": "A database of human viruses, including information on infected tissues. See description and use in a predictive model in Ye et al. 2022"
   },
   {
+    "name": "Interaction Web Data (iwdb)",
+    "url": "https://iwdb.nceas.ucsb.edu/resources.html#host_parasite",
+    "description": "Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships originally developed in 2003 by NCEAS and is now hosted by the Department of Ecology at the University of São Paulo, Brazil."
+  },
+  {
     "name": "MalAvi",
     "url": "http://130.235.244.92/Malavi/",
     "description": "A database of avian blood parasites from the Plasmodium, Haemoproteus and Leucocytozoon genera including select host and vector information. See database description by Bensch et al. 2009."
-  },
-  {
-    "name": "NCEAS Interaction Web data",
-    "url": "https://iwdb.nceas.ucsb.edu/resources.html#host_parasite",
-    "description": "Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships."
   },
   {
     "name": "NHM Host-parasite database",
@@ -78,6 +78,11 @@
     "name": "Virus-Host DB",
     "url": "http://www.genome.jp/virushostdb/view/",
     "description": "A synthesis of host-virus associations from genomes posted in NCBI/RefSeq and GenBank."
+  },
+  {
+    "name": "Web of Life",
+    "url": "https://www.web-of-life.es/",
+    "description": "An aggregated resource and graphical user interface for easily visualizing and downloading data on ecological networks, including host-parasite interactions. As of January 2024, the host-parasite communities are exclusively gleaned from Hadfield et al. 2013 whose original data files are provided on Dryad."
   },
   {
     "name": "Zover",

@@ -1433,6 +1433,11 @@
     "url": "https://github.com/firecracker-microvm/firecracker"
   },
   {
+    "name": "kata-containers/kata-containers",
+    "url": "https://github.com/kata-containers/kata-containers",
+    "description": "A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs."
+  },
+  {
     "name": "tailhook/vagga",
     "url": "https://github.com/tailhook/vagga"
   },

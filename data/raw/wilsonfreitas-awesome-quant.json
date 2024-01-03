@@ -185,6 +185,11 @@
     "description": "A Python module for fitting the Log-Periodic Power Law Singularity (LPPLS) model."
   },
   {
+    "name": "skfolio",
+    "url": "https://github.com/skfolio/skfolio",
+    "description": "Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models."
+  },
+  {
     "name": "Investing algorithm framework",
     "url": "https://github.com/coding-kitties/investing-algorithm-framework",
     "description": "Framework for developing, backtesting, and deploying automated trading algorithms."

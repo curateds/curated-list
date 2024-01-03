@@ -170,6 +170,16 @@
     "description": "Simply keyboard and nothing more."
   },
   {
+    "name": "OpenBoard",
+    "url": "https://github.com/openboard-team/openboard",
+    "description": "OpenBoard is a 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy."
+  },
+  {
+    "name": "OpenBoard upgrade",
+    "url": "https://github.com/Helium314/openboard",
+    "description": "A fork of OpenBoard with many additional features and improvements. Releases are in a beta state."
+  },
+  {
     "name": "Lawnchair",
     "url": "https://lawnchair.app/",
     "description": "No clever tagline needed."
@@ -762,14 +772,19 @@
     "description": "A 3D open-source arcade racer with a variety characters, tracks, and modes to play."
   },
   {
+    "name": "Sonic Robbo Blast 2 Kart",
+    "url": "https://mb.srb2.org/addons/srb2kart.2435/",
+    "description": "SRB2Kart is a classic styled kart racer, complete with beautiful courses, and wacky items."
+  },
+  {
     "name": "Minetest",
     "url": "https://www.minetest.net/",
     "description": "An open source voxel game engine with many features."
   },
   {
-    "name": "Mineclone5",
-    "url": "https://content.minetest.net/packages/kay27/mineclone5/?protocol_version=40",
-    "description": "Updated version of MineClone2, an attempt to clone Minecraft into Minetest."
+    "name": "Mineclonia",
+    "url": "https://content.minetest.net/packages/ryvnf/mineclonia/",
+    "description": "Survival sandbox game inspired by Minecraft. Fork of MineClone2 with focus on stability, multiplayer performance and features."
   },
   {
     "name": "No-Chat-Reports",

@@ -10,11 +10,6 @@
     "description": "Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL."
   },
   {
-    "name": "MafiaUnity",
-    "url": "https://github.com/MafiaHub/MafiaUnity",
-    "description": "Open-source Mafia game framework."
-  },
-  {
     "name": "OpenJK",
     "url": "https://github.com/JACoders/OpenJK",
     "description": "Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software."
@@ -63,21 +58,6 @@
     "name": "TR1X",
     "url": "https://github.com/LostArtefacts/TR1X",
     "description": "Open source implementation of the classic Tomb Raider I game."
-  },
-  {
-    "name": "engge",
-    "url": "https://github.com/scemino/engge",
-    "description": "Experimental game engine for Thimbleweed Park."
-  },
-  {
-    "name": "raw(gl)",
-    "url": "https://github.com/cyxx/rawgl",
-    "description": "Reimplementation of Another World."
-  },
-  {
-    "name": "ResidualVM",
-    "url": "https://github.com/residualvm/residualvm",
-    "description": "Game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango and Escape from Monkey Island."
   },
   {
     "name": "ScummVM",
@@ -270,11 +250,6 @@
     "description": "Enhanced client for id Software's Quake II with focus on offline and coop gameplay."
   },
   {
-    "name": "vkQuake",
-    "url": "https://github.com/Novum/vkQuake",
-    "description": "Quake port using Vulkan instead of OpenGL for rendering."
-  },
-  {
     "name": "Zandronum",
     "url": "https://zandronum.com/",
     "description": "Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife."
@@ -323,6 +298,11 @@
     "name": "Space Station 14",
     "url": "https://github.com/space-wizards/space-station-14",
     "description": "Space Station 14 is a revived attempt at a Space Station 13 remake."
+  },
+  {
+    "name": "Abyss Engine",
+    "url": "https://github.com/AbyssEngine/AbyssEngine",
+    "description": "Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II."
   },
   {
     "name": "Arx Libertatis",
@@ -383,16 +363,6 @@
     "name": "GemRB",
     "url": "https://github.com/gemrb/gemrb",
     "description": "Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more)."
-  },
-  {
-    "name": "Zelda3",
-    "url": "https://github.com/snesrev/zelda3",
-    "description": "This is a reverse engineered clone of Zelda 3 - A Link to the Past."
-  },
-  {
-    "name": "OpenDiablo2",
-    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
-    "description": "Open source re-implementation of Diablo 2."
   },
   {
     "name": "OpenEnroth",
@@ -458,6 +428,11 @@
     "name": "xoreos",
     "url": "https://github.com/xoreos/xoreos",
     "description": "Implementation of BioWare's Aurora engine and its derivatives (used by Neverwinter Nights, The Witcher and more)."
+  },
+  {
+    "name": "Zelda3",
+    "url": "https://github.com/snesrev/zelda3",
+    "description": "This is a reverse engineered clone of Zelda 3 - A Link to the Past."
   },
   {
     "name": "zorkClone",
@@ -640,11 +615,6 @@
     "description": "Open-source implementation of Cannon Fodder."
   },
   {
-    "name": "OpenHoW",
-    "url": "https://github.com/TalonBraveInfo/OpenHoW",
-    "description": "Recreation of Gremlin's Hogs of War."
-  },
-  {
     "name": "OpenHV",
     "url": "https://github.com/OpenHV/OpenHV",
     "description": "Open-source implementation of Hard Vacuum."
@@ -710,11 +680,6 @@
     "description": "Settlers II remake written in C++."
   },
   {
-    "name": "Seven Kingdoms: Ancient Adversaries",
-    "url": "https://github.com/the3dfxdude/7kaa",
-    "description": "GPL release of the Seven Kingdoms: Ancient Adversaries."
-  },
-  {
     "name": "Sourcehold",
     "url": "https://github.com/sourcehold/Sourcehold",
     "description": "Implementation of Stronghold by Firefly Studios."
@@ -733,11 +698,6 @@
     "name": "VCMI",
     "url": "https://github.com/vcmi/vcmi",
     "description": "Engine for Heroes of Might and Magic III."
-  },
-  {
-    "name": "Warcraft Remake",
-    "url": "https://github.com/b3dgs/warcraft-remake",
-    "description": "Java remake of Warcraft: Orcs & Humans."
   },
   {
     "name": "Wargus",
