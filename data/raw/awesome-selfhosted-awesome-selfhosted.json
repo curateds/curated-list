@@ -1997,7 +1997,7 @@
   {
     "name": "Kavita",
     "url": "https://www.kavitareader.com/",
-    "description": "Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. (Demo, Source Code) GPL-3.0 .NET/Docker"
+    "description": "Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. (Demo, Source Code) GPL-3.0 .NET/Docker"
   },
   {
     "name": "Komga",
@@ -3495,6 +3495,11 @@
     "description": "Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. (Demo) Apache-2.0 Javascript"
   },
   {
+    "name": "Digiboard",
+    "url": "https://digiboard.app/",
+    "description": "Create collaborative whiteboards (documentation in French). (Source Code) AGPL-3.0 Nodejs"
+  },
+  {
     "name": "Digiface",
     "url": "https://ladigitale.dev/digiface/",
     "description": "Create avatars using the Avataaars library (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
@@ -4080,6 +4085,11 @@
     "description": "Password manager with webapp, browser extension, and mobile app. (Source Code) AGPL-3.0 Docker/C#"
   },
   {
+    "name": "Laravel Simple Password Manager",
+    "url": "https://github.com/milenmk/Laravel-Simple-Password-Manager",
+    "description": "Simple Password manager. GPL-3.0 PHP"
+  },
+  {
     "name": "Padloc",
     "url": "https://padloc.app/",
     "description": "A modern, open source password manager for individuals and teams. (Source Code) GPL-3.0 Nodejs"
@@ -4103,6 +4113,11 @@
     "name": "PassWall",
     "url": "https://github.com/passwall/passwall-server",
     "description": "Open source password manager. AGPL-3.0 Docker"
+  },
+  {
+    "name": "Laravel Simple Password Manager",
+    "url": "https://github.com/milenmk/Laravel-Simple-Password-Manager",
+    "description": "Simple Password manager. GPL-3.0 PHP"
   },
   {
     "name": "Psono",

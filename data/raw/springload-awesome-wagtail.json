@@ -609,6 +609,11 @@
     "description": "Wagtail template for Platform.sh."
   },
   {
+    "name": "cookiecutter-wagtail-vix",
+    "url": "https://github.com/engineervix/cookiecutter-wagtail-vix",
+    "description": "A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project."
+  },
+  {
     "name": "Getting started in Wagtail, a newcomer's perspective",
     "url": "https://wagtail.org/blog/getting-started-wagtail-newcomers-perspective/",
     "description": "Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail. By @kiwimind."

@@ -1390,8 +1390,17 @@
     "description": "A parser, formatter and AST for the GraphQL query and schema definition language for Rust."
   },
   {
+    "name": "tailcall",
+    "url": "https://github.com/tailcallhq/tailcall",
+    "description": "A platform for building high-performance GraphQL backends."
+  },
+  {
     "name": "Warp GraphQL Juniper",
     "url": "https://graphql-rust.github.io/"
+  },
+  {
+    "name": "Tailcall",
+    "url": "https://tailcall.run/docs/getting_started/configuration"
   },
   {
     "name": "graphqld",

@@ -343,8 +343,8 @@
     "url": "https://github.com/Phala-Network/phala-blockchain"
   },
   {
-    "name": "Polkadot",
-    "url": "https://github.com/paritytech/polkadot"
+    "name": "polkadot-sdk",
+    "url": "https://github.com/paritytech/polkadot-sdk"
   },
   {
     "name": "revm",
@@ -784,6 +784,11 @@
   {
     "name": "avito-tech/bioyino",
     "url": "https://github.com/avito-tech/bioyino"
+  },
+  {
+    "name": "openobserve",
+    "url": "https://github.com/openobserve/openobserve",
+    "description": "10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative."
   },
   {
     "name": "OpenTelemetry",
@@ -4642,6 +4647,10 @@
   {
     "name": "Geal/rust_on_mobile",
     "url": "https://github.com/Geal/rust_on_mobile"
+  },
+  {
+    "name": "redbadger/crux",
+    "url": "https://github.com/redbadger/crux"
   },
   {
     "name": "TimNN/cargo-lipo",

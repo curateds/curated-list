@@ -760,6 +760,11 @@
     "description": "Simple templates to use when creating new files."
   },
   {
+    "name": "chrisgrieser/nvim-scissors",
+    "url": "https://github.com/chrisgrieser/nvim-scissors",
+    "description": "Automagical editing and creation of snippets."
+  },
+  {
     "name": "gennaro-tedesco/nvim-peekup",
     "url": "https://github.com/gennaro-tedesco/nvim-peekup",
     "description": "Dynamically interact with Vim registers."
@@ -2700,6 +2705,11 @@
     "description": "Virtual text support for nvim-dap."
   },
   {
+    "name": "chrisgrieser/nvim-chainsaw",
+    "url": "https://github.com/chrisgrieser/nvim-chainsaw",
+    "description": "Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring."
+  },
+  {
     "name": "kevinhwang91/nvim-bqf",
     "url": "https://github.com/kevinhwang91/nvim-bqf",
     "description": "The goal of nvim-bqf is to make Neovim's quickfix window better."
@@ -4108,6 +4118,11 @@
     "name": "antonk52/bad-practices.nvim",
     "url": "https://github.com/antonk52/bad-practices.nvim",
     "description": "Helping you give up bad practices in Vim."
+  },
+  {
+    "name": "pgosar/CyberNvim",
+    "url": "https://github.com/pgosar/CyberNvim",
+    "description": "The world's simplest and most extensible Neovim distribution."
   },
   {
     "name": "sontungexpt/stinvim",

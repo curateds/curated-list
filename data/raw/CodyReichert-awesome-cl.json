@@ -2864,7 +2864,7 @@
   {
     "name": "Sly",
     "url": "https://github.com/joaotavora/sly",
-    "description": "SLY is a fork of SLIME and contains multiple improvements upon it."
+    "description": "SLY is a fork of SLIME and contains multiple improvements upon it, such as Sly stickers."
   },
   {
     "name": "Portacle",
@@ -2918,6 +2918,11 @@
     "name": "slime-critic",
     "url": "https://github.com/mmontone/slime-critic",
     "description": "the lisp critic gently critiques your code for bad patterns."
+  },
+  {
+    "name": "sly-overlay",
+    "url": "https://git.sr.ht/~fosskers/sly-overlay",
+    "description": "an extension for Sly that enables the overlay of Common Lisp evaluation results directly into the buffer in the spirit of CIDER (Clojure), Eros (Emacs Lisp) and the Lem editor."
   },
   {
     "name": "SLIMV",
