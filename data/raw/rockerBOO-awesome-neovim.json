@@ -1025,6 +1025,11 @@
     "description": "Ranger integration for neovim."
   },
   {
+    "name": "simonmclean/triptych.nvim",
+    "url": "https://github.com/simonmclean/triptych.nvim",
+    "description": "A directory browser inspired by Ranger."
+  },
+  {
     "name": "echasnovski/mini.nvim#mini.files",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md",
     "description": "Module of mini.nvim providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories."
@@ -2053,6 +2058,11 @@
     "name": "edluffy/hologram.nvim",
     "url": "https://github.com/edluffy/hologram.nvim",
     "description": "A cross platform terminal image viewer. Works on macOS and Linux."
+  },
+  {
+    "name": "hakonharnes/img-clip.nvim",
+    "url": "https://github.com/hakonharnes/img-clip.nvim",
+    "description": "Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst."
   },
   {
     "name": "ekickx/clipboard-image.nvim",
@@ -4153,6 +4163,11 @@
     "name": "LazyVim/LazyVim",
     "url": "https://github.com/LazyVim/LazyVim",
     "description": "Full-fledged IDE powered by lazy.nvim to make it easy to customize and extend your config."
+  },
+  {
+    "name": "crispybaccoon/chaivim",
+    "url": "https://github.com/crispybaccoon/chaivim",
+    "description": "Easily configurable distro with solid defaults and a cozy editor experience."
   },
   {
     "name": "NTBBloodbath/doom-nvim",

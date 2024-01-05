@@ -664,6 +664,11 @@
     "description": "PoC for a patients API using the hexagonal architecture pattern."
   },
   {
+    "name": "Azure DDD boilerplate",
+    "url": "https://github.com/joshpme/azure-go-ddd-boilerplate",
+    "description": "A boilerplate project for DDD in Azure using a custom handler and Cosmos DB for event sourcing"
+  },
+  {
     "name": "Better code with DDD building blocks",
     "url": "https://github.com/asc-lab/better-code-with-ddd",
     "description": "solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code."
@@ -905,6 +910,11 @@
     "name": "https://github.com/felipexw/clean-arch-ddd-intro",
     "url": "https://github.com/felipexw/clean-arch-ddd-intro",
     "description": "Simple DDD + Clean Architecture using Micronaut."
+  },
+  {
+    "name": "CodefyPHP Framework",
+    "url": "https://github.com/codefyphp/codefy",
+    "description": "A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing."
   },
   {
     "name": "DDD CQRS Todo Sample",
@@ -1201,6 +1211,11 @@
     "description": "a CQRS/ES framework for building cloud applications. Defines Bounded Contexts with their Commands, Events, and Entity states in Protobuf. The backend logic is written in Java, on top of the Proto-generated code. Client code in Java, JS or Dart communicates with the backend via gRPC."
   },
   {
+    "name": "Ahoo-Wang/Wow",
+    "url": "https://github.com/Ahoo-Wang/Wow",
+    "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing."
+  },
+  {
     "name": "Broadway",
     "url": "https://github.com/broadway/broadway",
     "description": "Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications."
@@ -1353,6 +1368,10 @@
   {
     "name": "Cologne/Bonn",
     "url": "https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/"
+  },
+  {
+    "name": "Copenhagen",
+    "url": "https://www.meetup.com/copenhagen-domain-driven-design-meetup/"
   },
   {
     "name": "Cracow",

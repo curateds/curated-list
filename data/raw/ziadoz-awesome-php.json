@@ -22,7 +22,7 @@
   {
     "name": "Composer Installers",
     "url": "https://github.com/composer/installers",
-    "description": "A  multi framework Composer library installer."
+    "description": "A  multi-framework Composer library installer."
   },
   {
     "name": "Composer",
@@ -52,12 +52,17 @@
   {
     "name": "Composer Normalize",
     "url": "https://github.com/ergebnis/composer-normalize",
-    "description": "A plugin for normalising composer.json files."
+    "description": "A plugin for normalizing composer.json files."
   },
   {
     "name": "Composer Patches",
     "url": "https://github.com/cweagans/composer-patches",
     "description": "A plugin for Composer to apply patches."
+  },
+  {
+    "name": "Composer Prefer Lowest Validator",
+    "url": "https://github.com/dereuromark/composer-prefer-lowest",
+    "description": "A plugin to check if minimum dependencies can be installed and tested."
   },
   {
     "name": "Composer Require Checker",
@@ -68,11 +73,6 @@
     "name": "Composer Unused",
     "url": "https://github.com/composer-unused/composer-unused",
     "description": "A CLI Tool to scan for unused composer packages."
-  },
-  {
-    "name": "Prestissimo",
-    "url": "https://github.com/hirak/prestissimo",
-    "description": "A composer plugin which enables parallel install process."
   },
   {
     "name": "Repman",
@@ -87,17 +87,22 @@
   {
     "name": "Tooly",
     "url": "https://github.com/tommy-muehle/tooly-composer-script",
-    "description": "A library to manage PHAR files in project using Composer."
+    "description": "A library to manage PHAR files in a project using Composer."
   },
   {
     "name": "Toran Proxy",
     "url": "https://toranproxy.com",
-    "description": "A static Composer repository and proxy."
+    "description": "A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)"
   },
   {
     "name": "CakePHP",
     "url": "https://cakephp.org/",
     "description": "A rapid application development framework."
+  },
+  {
+    "name": "CodeIgniter",
+    "url": "https://codeigniter.com/",
+    "description": "A powerful PHP framework with a very small footprint."
   },
   {
     "name": "Laminas",
@@ -122,7 +127,7 @@
   {
     "name": "Spiral",
     "url": "https://spiral.dev/",
-    "description": "A high performance PHP/Go framework."
+    "description": "A high-performance PHP/Go framework."
   },
   {
     "name": "Symfony",
@@ -147,22 +152,17 @@
   {
     "name": "LaravelS",
     "url": "https://github.com/hhxsv5/laravel-s",
-    "description": "Glue for using Swoole in Laravel or Lumen."
-  },
-  {
-    "name": "Symfony CMF",
-    "url": "https://github.com/symfony-cmf/symfony-cmf",
-    "description": "A Content Management Framework to create custom CMS."
+    "description": "An out-of-the-box adapter between Laravel/Lumen and Swoole."
   },
   {
     "name": "Livewire",
-    "url": "https://laravel-livewire.com/",
-    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs."
+    "url": "https://livewire.laravel.com/",
+    "description": "Powerful, dynamic, front-end UIs without leaving PHP."
   },
   {
     "name": "Backdrop",
     "url": "https://backdropcms.org",
-    "description": "A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal)."
+    "description": "A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal)."
   },
   {
     "name": "Concrete5",
@@ -197,7 +197,7 @@
   {
     "name": "Magento",
     "url": "https://business.adobe.com/products/magento/magento-commerce.html",
-    "description": "The most popular ecommerce platform."
+    "description": "The most popular e-commerce platform."
   },
   {
     "name": "Moodle",
@@ -212,7 +212,7 @@
   {
     "name": "Statamic",
     "url": "https://statamic.com/",
-    "description": "Build beautiful, easy to manage websites."
+    "description": "Build beautiful, easy-to-manage websites."
   },
   {
     "name": "WordPress",
@@ -242,7 +242,7 @@
   {
     "name": "Spatie Open Source",
     "url": "https://spatie.be/open-source",
-    "description": "A collection of open source PHP and Laravel packages."
+    "description": "A collection of open-source PHP and Laravel packages."
   },
   {
     "name": "Symfony Components",
@@ -432,7 +432,7 @@
   {
     "name": "DiDOM",
     "url": "https://github.com/Imangazaliev/DiDOM",
-    "description": "A super fast HTML scrapper and parser."
+    "description": "A super-fast HTML scrapper and parser."
   },
   {
     "name": "Embed",
@@ -571,7 +571,7 @@
   },
   {
     "name": "ByteStream",
-    "url": "https://amphp.org/byte-stream/",
+    "url": "https://amphp.org/byte-stream",
     "description": "An asynchronous stream abstraction."
   },
   {
@@ -727,7 +727,7 @@
   {
     "name": "Peridot",
     "url": "https://github.com/peridot-php/peridot",
-    "description": "An event driven test framework."
+    "description": "An event-driven test framework."
   },
   {
     "name": "Phake",
@@ -737,7 +737,7 @@
   {
     "name": "Pho",
     "url": "https://github.com/danielstjules/pho",
-    "description": "Another behaviour driven development testing framework."
+    "description": "Another behavior-driven development testing framework."
   },
   {
     "name": "PHP-Mock",
@@ -781,7 +781,7 @@
   },
   {
     "name": "GitlabCi",
-    "url": "https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/",
+    "url": "https://about.gitlab.com/solutions/continuous-integration/",
     "description": "Let GitLab CI test, build, deploy your code. TravisCi like."
   },
   {
@@ -797,21 +797,21 @@
   {
     "name": "PHPCI",
     "url": "https://github.com/dancryer/phpci",
-    "description": "An open source continuous integration platform for PHP."
+    "description": "An open-source continuous integration platform for PHP."
   },
   {
     "name": "SemaphoreCI",
-    "url": "https://semaphoreci.com/",
-    "description": "A continuous integration platform for open source and private projects."
+    "url": "https://semaphoreci.com",
+    "description": "A continuous integration platform for open-source and private projects."
   },
   {
     "name": "Shippable",
     "url": "https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/",
-    "description": "A Docker based continious integration platform for open source and private projects."
+    "description": "A Docker based continuous integration platform for open source and private projects."
   },
   {
     "name": "Travis CI",
-    "url": "https://travis-ci.org/",
+    "url": "https://www.travis-ci.com",
     "description": "A continuous integration platform."
   },
   {
@@ -827,7 +827,7 @@
   {
     "name": "daux.io",
     "url": "https://github.com/dauxio/daux.io",
-    "description": "A documentation generator which uses Markdown files."
+    "description": "A documentation generator that uses Markdown files."
   },
   {
     "name": "PHP Documentor 2",
@@ -838,6 +838,11 @@
     "name": "phpDox",
     "url": "https://phpdox.net/",
     "description": "A documentation generator for PHP projects (that is not limited to API documentation)."
+  },
+  {
+    "name": "zircote/swagger-php",
+    "url": "https://github.com/zircote/swagger-php",
+    "description": "Generate OpenAPI documentation for your RESTful API."
   },
   {
     "name": "Halite",
@@ -872,11 +877,11 @@
   {
     "name": "PHP SSH",
     "url": "https://github.com/Herzult/php-ssh",
-    "description": "An experimental object orientated SSH wrapper library."
+    "description": "An experimental object-orientated SSH wrapper library."
   },
   {
     "name": "PHPSecLib",
-    "url": "http://phpseclib.sourceforge.net/",
+    "url": "https://phpseclib.sourceforge.net",
     "description": "A pure PHP secure communications library."
   },
   {
@@ -911,7 +916,7 @@
   },
   {
     "name": "Zap",
-    "url": "https://owasp.org/www-project-zap/",
+    "url": "https://github.com/OWASP/www-project-zap",
     "description": "An integrated penetration testing tool for web applications."
   },
   {
@@ -1012,7 +1017,7 @@
   {
     "name": "UBench",
     "url": "https://github.com/devster/ubench",
-    "description": "A simple micro benchmark library."
+    "description": "A simple micro-benchmark library."
   },
   {
     "name": "CaptainHook",
@@ -1026,7 +1031,7 @@
   },
   {
     "name": "PHP CS Fixer",
-    "url": "https://github.com/FriendsOfPHP/PHP-CS-Fixer",
+    "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer",
     "description": "A coding standards fixer library."
   },
   {
@@ -1067,7 +1072,7 @@
   {
     "name": "PHP Architecture Tester",
     "url": "https://github.com/carlosas/phpat",
-    "description": "Easy to use architecture testing tool for PHP."
+    "description": "Easy-to-use architecture testing tool for PHP."
   },
   {
     "name": "PHPCompatibility",
@@ -1077,7 +1082,7 @@
   {
     "name": "PhpDependencyAnalysis",
     "url": "https://github.com/mamuz/PhpDependencyAnalysis",
-    "description": "A tool to create customisable dependency graphs."
+    "description": "A tool to create customizable dependency graphs."
   },
   {
     "name": "PHP Metrics",
@@ -1167,7 +1172,7 @@
   {
     "name": "PCOV",
     "url": "https://github.com/krakjoe/pcov",
-    "description": "A self contained code coverage compatible driver."
+    "description": "A self-contained code coverage compatible driver."
   },
   {
     "name": "PHP Console",
@@ -1207,7 +1212,7 @@
   {
     "name": "Whoops",
     "url": "https://github.com/filp/whoops",
-    "description": "A pretty error handling library."
+    "description": "A pretty error-handling library."
   },
   {
     "name": "xDebug",
@@ -1342,7 +1347,7 @@
   {
     "name": "Yasumi",
     "url": "https://github.com/azuyalabs/yasumi",
-    "description": "An library to help you calculate the dates and names of holidays."
+    "description": "A library to help you calculate the dates and names of holidays."
   },
   {
     "name": "Amp",
@@ -1455,9 +1460,19 @@
     "description": "An open source e-commerce solution."
   },
   {
+    "name": "Browsershot",
+    "url": "https://github.com/spatie/browsershot",
+    "description": "Convert HTML to an image, PDF or string."
+  },
+  {
     "name": "Dompdf",
     "url": "https://github.com/dompdf/dompdf",
     "description": "A HTML to PDF converter."
+  },
+  {
+    "name": "Gotenberg",
+    "url": "https://github.com/gotenberg/gotenberg-php",
+    "description": "A PHP client for interacting with Gotenberg."
   },
   {
     "name": "PHPPdf",
@@ -1490,9 +1505,9 @@
     "description": "A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel)."
   },
   {
-    "name": "Spout",
-    "url": "https://github.com/box/spout",
-    "description": "Read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way ."
+    "name": "OpenSpout",
+    "url": "https://github.com/openspout/openspout",
+    "description": "A community driven fork of box/spout, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way."
   },
   {
     "name": "Atlas.Orm",
@@ -1597,7 +1612,7 @@
   {
     "name": "Predis",
     "url": "https://github.com/predis/predis",
-    "description": "A feature complete Redis library."
+    "description": "A feature-complete Redis library."
   },
   {
     "name": "Bernard",
@@ -1682,7 +1697,7 @@
   {
     "name": "CLImate",
     "url": "https://github.com/thephpleague/climate",
-    "description": "A library for outputting colours and special formatting."
+    "description": "A library for outputting colors and special formatting."
   },
   {
     "name": "Commando",
@@ -1761,7 +1776,7 @@
   },
   {
     "name": "PHP oAuthLib",
-    "url": "https://github.com/Lusitanian/PHPoAuthLib",
+    "url": "https://github.com/daviddesberg/PHPoAuthLib",
     "description": "Another OAuth library."
   },
   {
@@ -1782,7 +1797,7 @@
   {
     "name": "Cebe Markdown",
     "url": "https://github.com/cebe/markdown",
-    "description": "An fast and extensible Markdown parser."
+    "description": "A fast and extensible Markdown parser."
   },
   {
     "name": "CommonMark PHP",
@@ -1862,7 +1877,7 @@
   {
     "name": "Color Jizz",
     "url": "https://github.com/mikeemoo/ColorJizz-PHP",
-    "description": "A library for manipulating and converting colours."
+    "description": "A library for manipulating and converting colors."
   },
   {
     "name": "Device Detector",
@@ -1887,7 +1902,7 @@
   {
     "name": "Portable ASCII",
     "url": "https://github.com/voku/portable-ascii",
-    "description": "A library to convert strings to ascii."
+    "description": "A library to convert strings to ASCII."
   },
   {
     "name": "Portable UTF-8",
@@ -1936,7 +1951,7 @@
   },
   {
     "name": "DecimalObject",
-    "url": "https://github.com/spryker/decimal-object",
+    "url": "https://github.com/php-collective/decimal-object",
     "description": "A value object to handle decimals/floats easily and more precisely."
   },
   {
@@ -1987,7 +2002,7 @@
   {
     "name": "ISO-codes",
     "url": "https://github.com/ronanguilloux/IsoCodes",
-    "description": "A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries."
+    "description": "A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries."
   },
   {
     "name": "JSON Schema",
@@ -2022,7 +2037,7 @@
   {
     "name": "API Platform",
     "url": "https://api-platform.com",
-    "description": "Expose in minutes an hypermedia REST API that embraces JSON-LD, Hydra format."
+    "description": "Expose in minutes a hypermedia REST API that embraces JSON-LD, Hydra format."
   },
   {
     "name": "Laminas API Tool Skeleton",
@@ -2067,7 +2082,7 @@
   {
     "name": "APIx Cache",
     "url": "https://github.com/apix/cache",
-    "description": "A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing."
+    "description": "A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing."
   },
   {
     "name": "CacheTool",
@@ -2147,7 +2162,7 @@
   {
     "name": "Serializer",
     "url": "https://github.com/schmittjoh/serializer",
-    "description": "A library for serialising and de-serialising data."
+    "description": "A library for serializing and de-serializing data."
   },
   {
     "name": "YaLinqo",
@@ -2300,12 +2315,12 @@
   {
     "name": "BotMan",
     "url": "https://github.com/botman/botman",
-    "description": "A framework agnostic PHP library to build cross-platform chat bots."
+    "description": "A framework agnostic PHP library to build cross-platform chatbots."
   },
   {
     "name": "ClassPreloader",
     "url": "https://github.com/ClassPreloader/ClassPreloader",
-    "description": "A library for optimising autoloading."
+    "description": "A library for optimizing autoloading."
   },
   {
     "name": "Hprose-PHP",
@@ -2358,11 +2373,6 @@
     "description": "Another PHP version installer."
   },
   {
-    "name": "PHP OSX",
-    "url": "https://php-osx.liip.ch/",
-    "description": "A PHP installer for OSX."
-  },
-  {
     "name": "Ansible",
     "url": "https://www.ansible.com/",
     "description": "A radically simple orchestration framework."
@@ -2380,7 +2390,7 @@
   {
     "name": "Expose",
     "url": "https://github.com/beyondcode/expose",
-    "description": "An open source PHP tunneling service."
+    "description": "An open-source PHP tunneling service."
   },
   {
     "name": "Lando",
@@ -2399,7 +2409,7 @@
   },
   {
     "name": "Puppet",
-    "url": "https://puppet.com/",
+    "url": "https://www.puppet.com",
     "description": "A server automation framework and application."
   },
   {
@@ -2513,11 +2523,6 @@
     "description": "High-performance PHP application server, load-balancer and process manager."
   },
   {
-    "name": "libs.garden: PHP",
-    "url": "https://libs.garden/php",
-    "description": "An overview of fastest growing PHP libraries."
-  },
-  {
     "name": "Nomad PHP",
     "url": "https://nomadphp.com/",
     "description": "A online PHP learning resource."
@@ -2604,7 +2609,7 @@
   },
   {
     "name": "Mastering Object-Orientated PHP",
-    "url": "https://www.brandonsavage.net/",
+    "url": "https://brandonsavage.net",
     "description": "A book about object-orientated PHP by Brandon Savage."
   },
   {
@@ -2688,9 +2693,14 @@
     "description": "Screencasts and tutorials about PHP and Symfony."
   },
   {
-    "name": "Laravel Podcast",
+    "name": "The Laravel Podcast",
     "url": "https://laravelpodcast.com/",
     "description": "Laravel and PHP development news and discussion."
+  },
+  {
+    "name": "Laravel News Podcast",
+    "url": "https://podcast.laravel-news.com/",
+    "description": "The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework."
   },
   {
     "name": "PHP Internals News",
@@ -2698,7 +2708,7 @@
     "description": "A podcast about PHP internals."
   },
   {
-    "name": "PHP Roundtable",
+    "name": "The PHP Roundtable",
     "url": "https://phproundtable.com/",
     "description": "The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about."
   },
@@ -2709,7 +2719,38 @@
   },
   {
     "name": "Voices of the ElePHPant",
-    "url": "https://voicesoftheelephpant.com/"
+    "url": "https://voicesoftheelephpant.com/",
+    "description": "Interviews with the people who make the PHP community special."
+  },
+  {
+    "name": "The Laracasts Snippet",
+    "url": "https://laracasts.simplecast.com",
+    "description": "The Laracasts snippet, each episode, offers a single thought on some aspect of web development."
+  },
+  {
+    "name": "php[podcast] episodes from php[architect]",
+    "url": "https://www.phparch.com/podcast/",
+    "description": "The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development."
+  },
+  {
+    "name": "Over Engineered",
+    "url": "https://overengineered.fm/",
+    "description": "A podcast in mini-series where we explore unimportant programming questions in extreme detail."
+  },
+  {
+    "name": "PHPUgly",
+    "url": "https://www.phpugly.com/",
+    "description": "The ramblings of a few overworked PHP Developers."
+  },
+  {
+    "name": "No Compromises",
+    "url": "https://show.nocompromises.io/",
+    "description": "Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams."
+  },
+  {
+    "name": "North Meets South Web Podcast",
+    "url": "https://www.northmeetssouth.audio/",
+    "description": "Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers."
   },
   {
     "name": "PHP Weekly",

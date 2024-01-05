@@ -1930,6 +1930,11 @@
     "description": "Create a distributed, isolated task pipeline in your Docker Swarm."
   },
   {
+    "name": "Tekton CD",
+    "url": "https://tekton.dev/",
+    "description": "A cloud-native pipeline resource."
+  },
+  {
     "name": "Watchtower",
     "url": "https://github.com/containrrr/watchtower",
     "description": "Automatically update running Docker containers"

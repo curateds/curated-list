@@ -3042,19 +3042,9 @@
     "description": "A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number."
   },
   {
-    "name": "puree",
-    "url": "https://github.com/cookpad/puree-ios",
-    "description": "A log collector for iOS."
-  },
-  {
     "name": "Colors",
     "url": "https://github.com/icodeforlove/Colors",
     "description": "A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy!"
-  },
-  {
-    "name": "Loggerithm",
-    "url": "https://github.com/honghaoz/Loggerithm",
-    "description": "A lightweight Swift logger, uses print in development and NSLog in production. Support colourful and formatted output."
   },
   {
     "name": "AELog",
@@ -3065,11 +3055,6 @@
     "name": "ReflectedStringConvertible",
     "url": "https://github.com/mattcomi/ReflectedStringConvertible",
     "description": "A protocol that allows any class to be printed as if it were a struct."
-  },
-  {
-    "name": "Evergreen",
-    "url": "https://github.com/nilsleiffischer/Evergreen",
-    "description": "Most natural Swift logging."
   },
   {
     "name": "SwiftTrace",
@@ -6645,6 +6630,11 @@
     "description": "A standalone, flexible API that provides a full featured rich text editor for iOS applications."
   },
   {
+    "name": "AztecEditor-iOS",
+    "url": "https://github.com/wordpress-mobile/AztecEditor-iOS",
+    "description": "Aztec is a Swift library that provides a UITextView subclass with HTML visual-editing capabilities. The plugin API supports customization HTML conversion from/to HTML for compatibility with your needs."
+  },
+  {
     "name": "FontBlaster",
     "url": "https://github.com/ArtSabintsev/FontBlaster",
     "description": "Programmatically load custom fonts into your iOS app."
@@ -9049,7 +9039,7 @@
   {
     "name": "Shuffle",
     "url": "https://github.com/mac-gallagher/Shuffle",
-    "description": "A multi-directional card swiping library inspired by Tinder"
+    "description": "A multi-directional card swiping library inspired by Tinder."
   },
   {
     "name": "Form",
@@ -9829,6 +9819,11 @@
     "name": "PopupView",
     "url": "https://github.com/exyte/PopupView",
     "description": "Toasts and popups library written with SwiftUI."
+  },
+  {
+    "name": "MijickPopupView",
+    "url": "https://github.com/Mijick/PopupView",
+    "description": "Popups presentation made simple with SwiftUI."
   },
   {
     "name": "ProgressMeter",
@@ -10825,7 +10820,7 @@
   {
     "name": "expanding-collection",
     "url": "https://github.com/Ramotion/expanding-collection",
-    "description": "ExpandingCollection is a card peek/pop controller"
+    "description": "ExpandingCollection is a card peek/pop controller."
   },
   {
     "name": "ParallaxTableViewHeader",
@@ -13175,22 +13170,6 @@
     "name": "Flawless App",
     "url": "https://medium.com/flawless-app-stories",
     "description": "Development & design & marketing tips for iOS developers."
-  },
-  {
-    "name": "@objcio",
-    "url": "https://twitter.com/objcio"
-  },
-  {
-    "name": "@CocoaPods",
-    "url": "https://twitter.com/CocoaPods"
-  },
-  {
-    "name": "@CocoaPodsFeed",
-    "url": "https://twitter.com/CocoaPodsFeed"
-  },
-  {
-    "name": "@RubyMotion",
-    "url": "https://twitter.com/RubyMotion"
   },
   {
     "name": "The Ray Wenderlich Podcast",

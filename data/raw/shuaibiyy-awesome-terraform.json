@@ -1444,6 +1444,11 @@
     "description": "Terraform version manager inspired by rbenv."
   },
   {
+    "name": "tofuenv",
+    "url": "https://github.com/tofuutils/tofuenv",
+    "description": "OpenTofu version manager inspired by tfenv"
+  },
+  {
     "name": "tfgen",
     "url": "https://github.com/refl3ction/tfgen",
     "description": "Terraform code generator for consistent codebase and DRY."
