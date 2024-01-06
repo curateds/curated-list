@@ -395,54 +395,9 @@
     "description": "Web3 library for interacting with the Ethereum blockchain."
   },
   {
-    "name": "RubyMotion",
-    "url": "http://www.rubymotion.com/",
-    "description": "RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language."
-  },
-  {
-    "name": "JSPatch",
-    "url": "https://github.com/bang590/JSPatch",
-    "description": "JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App."
-  },
-  {
-    "name": "WebViewJavascriptBridge",
-    "url": "https://github.com/marcuswestin/WebViewJavascriptBridge",
-    "description": "An iOS/macOS bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews."
-  },
-  {
-    "name": "MAIKit",
-    "url": "https://github.com/MichaelBuckley/MAIKit",
-    "description": "A framework for sharing code between iOS and macOS."
-  },
-  {
-    "name": "Xamarin",
-    "url": "https://xamarin.com/",
-    "description": "Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language."
-  },
-  {
     "name": "Awesome Cache",
     "url": "https://github.com/aschuch/AwesomeCache",
     "description": "Delightful on-disk cache (written in Swift)."
-  },
-  {
-    "name": "mattress",
-    "url": "https://github.com/buzzfeed/mattress",
-    "description": "iOS Offline Caching for Web Content."
-  },
-  {
-    "name": "Carlos",
-    "url": "https://github.com/spring-media/Carlos",
-    "description": "A simple but flexible cache."
-  },
-  {
-    "name": "HanekeSwift",
-    "url": "https://github.com/Haneke/HanekeSwift",
-    "description": "A lightweight generic cache for iOS written in Swift with extra love for images."
-  },
-  {
-    "name": "YYCache",
-    "url": "https://github.com/ibireme/YYCache",
-    "description": "High performance cache framework for iOS."
   },
   {
     "name": "Cache",
@@ -450,9 +405,59 @@
     "description": "Nothing but Cache."
   },
   {
+    "name": "Cache",
+    "url": "https://github.com/soffes/Cache",
+    "description": "Swift caching library."
+  },
+  {
+    "name": "Cachyr",
+    "url": "https://github.com/nrkno/yr-cachyr",
+    "description": "A small key-value data cache for iOS, macOS and tvOS, written in Swift."
+  },
+  {
+    "name": "Carlos",
+    "url": "https://github.com/spring-media/Carlos",
+    "description": "A simple but flexible cache."
+  },
+  {
+    "name": "Disk",
+    "url": "https://github.com/saoudrizwan/Disk",
+    "description": "Delightful framework for iOS to easily persist structs, images, and data."
+  },
+  {
+    "name": "HanekeSwift",
+    "url": "https://github.com/Haneke/HanekeSwift",
+    "description": "A lightweight generic cache for iOS written in Swift with extra love for images."
+  },
+  {
+    "name": "Johnny",
+    "url": "https://github.com/zolomatok/Johnny",
+    "description": "Melodic Caching for Swift."
+  },
+  {
+    "name": "mattress",
+    "url": "https://github.com/buzzfeed/mattress",
+    "description": "iOS Offline Caching for Web Content."
+  },
+  {
+    "name": "MemoryCache",
+    "url": "https://github.com/yysskk/MemoryCache",
+    "description": "MemoryCache is type-safe memory cache."
+  },
+  {
     "name": "MGCacheManager",
     "url": "https://github.com/Mortgy/MGCacheManager",
     "description": "A delightful iOS Networking Cache Managing Class."
+  },
+  {
+    "name": "PINCache",
+    "url": "https://github.com/pinterest/PINCache",
+    "description": "Fast, non-deadlocking parallel object cache for iOS and macOS."
+  },
+  {
+    "name": "RocketData",
+    "url": "https://github.com/plivesey/RocketData",
+    "description": "A caching and consistency solution for immutable models."
   },
   {
     "name": "SPTPersistentCache",
@@ -470,39 +475,9 @@
     "description": "UITableView cell cache that cures scroll-lags on a cell instantiating."
   },
   {
-    "name": "RocketData",
-    "url": "https://github.com/plivesey/RocketData",
-    "description": "A caching and consistency solution for immutable models."
-  },
-  {
-    "name": "PINCache",
-    "url": "https://github.com/pinterest/PINCache",
-    "description": "Fast, non-deadlocking parallel object cache for iOS and macOS."
-  },
-  {
-    "name": "Johnny",
-    "url": "https://github.com/zolomatok/Johnny",
-    "description": "Melodic Caching for Swift."
-  },
-  {
-    "name": "Disk",
-    "url": "https://github.com/saoudrizwan/Disk",
-    "description": "Delightful framework for iOS to easily persist structs, images, and data."
-  },
-  {
-    "name": "Cachyr",
-    "url": "https://github.com/nrkno/yr-cachyr",
-    "description": "A small key-value data cache for iOS, macOS and tvOS, written in Swift."
-  },
-  {
-    "name": "Cache",
-    "url": "https://github.com/soffes/Cache",
-    "description": "Swift caching library."
-  },
-  {
-    "name": "MemoryCache",
-    "url": "https://github.com/yysskk/MemoryCache",
-    "description": "MemoryCache is type-safe memory cache."
+    "name": "YYCache",
+    "url": "https://github.com/ibireme/YYCache",
+    "description": "High performance cache framework for iOS."
   },
   {
     "name": "Charts",

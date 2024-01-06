@@ -1125,6 +1125,11 @@
     "description": "A library that provides iteration primitives using generators."
   },
   {
+    "name": "IterTools PHP",
+    "url": "https://github.com/markrogoyski/itertools-php",
+    "description": "A library that provides functionality for working with iterable entities (similar to itertools library in Python)."
+  },
+  {
     "name": "Patchwork",
     "url": "https://patchwork2.org/",
     "description": "A library for redefining userland functions."
@@ -1475,19 +1480,9 @@
     "description": "A PHP client for interacting with Gotenberg."
   },
   {
-    "name": "PHPPdf",
-    "url": "https://github.com/psliwa/PHPPdf",
-    "description": "A library for generating PDFs and images from XML."
-  },
-  {
     "name": "Snappy",
     "url": "https://github.com/KnpLabs/snappy",
     "description": "A PDF and image generation library."
-  },
-  {
-    "name": "WKHTMLToPDF",
-    "url": "https://github.com/wkhtmltopdf/wkhtmltopdf",
-    "description": "A tool to convert HTML to PDF."
   },
   {
     "name": "PHPPowerPoint",
@@ -1603,6 +1598,11 @@
     "name": "Ruckusing",
     "url": "https://github.com/ruckus/ruckusing-migrations",
     "description": "Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite."
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://github.com/mongodb/mongo-php-driver",
+    "description": "MongoDB PHP Driver."
   },
   {
     "name": "PHPMongo",

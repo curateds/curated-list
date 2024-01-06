@@ -1947,6 +1947,11 @@
     "description": "React bindings for effector, an effective multi-store state manager."
   },
   {
+    "name": "fireproof",
+    "url": "https://github.com/fireproof-storage/fireproof",
+    "description": "demo - docs Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend"
+  },
+  {
     "name": "fluxible",
     "url": "https://github.com/yahoo/fluxible",
     "description": "A pluggable container for universal flux applications."
@@ -1955,11 +1960,6 @@
     "name": "kea",
     "url": "https://github.com/mariusandra/kea",
     "description": "High level architecture for React apps."
-  },
-  {
-    "name": "react-3ducks",
-    "url": "https://github.com/smakazmi/react-3ducks",
-    "description": "demo - Simple state management solution for React."
   },
   {
     "name": "react-i13n",

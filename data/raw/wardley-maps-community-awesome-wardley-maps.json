@@ -621,6 +621,11 @@
     "description": "A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available here."
   },
   {
+    "name": "GitHub repo",
+    "url": "https://github.com/tractorjuice/STMemGPT",
+    "description": "Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the GitHub repo. Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed."
+  },
+  {
     "name": "Chat with your Map",
     "url": "https://chatwithwardleymap.streamlit.app/",
     "description": "Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up."
@@ -637,13 +642,17 @@
   },
   {
     "name": "Learn Wardley Mapping Bot",
-    "url": "https://wardleymapbot.streamlit.app/",
+    "url": "https://learnwardleymapping.streamlit.app/",
     "description": "Learn Wardley Mapping by chatting to a specially configured bot."
   },
   {
     "name": "Chat with Wardley YouTube content",
     "url": "https://wardleygpt.streamlit.app/",
     "description": "Have a chat with all of Simon's YouTube content."
+  },
+  {
+    "name": "Join the Wardley AI Development Group on X/Twitter",
+    "url": "https://twitter.com/i/communities/1670015410542985218"
   },
   {
     "name": "An Exploration into Wardley Mapping Language Code",

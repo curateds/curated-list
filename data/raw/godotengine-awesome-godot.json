@@ -870,9 +870,24 @@
     "description": "A wrapper for Accidental Noise Library with a visual noise editing support."
   },
   {
+    "name": "godot-box2d",
+    "url": "https://github.com/appsinacup/godot-box2d",
+    "description": "A Box2D physics server for Godot (Godot 4.2)."
+  },
+  {
+    "name": "godot-jolt",
+    "url": "https://github.com/godot-jolt/godot-jolt",
+    "description": "Allows you to use the Jolt Physics Engine (Godot 4.2)."
+  },
+  {
     "name": "godot-luaAPI",
     "url": "https://github.com/WeaselGames/godot_luaAPI",
     "description": "Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0)."
+  },
+  {
+    "name": "godot-rapier-2d",
+    "url": "https://github.com/appsinacup/godot-rapier-2d",
+    "description": "A 2D Rapier physics server for Godot (Godot 4.2)."
   },
   {
     "name": "godot-python",
