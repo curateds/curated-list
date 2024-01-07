@@ -6291,6 +6291,11 @@
     "description": "Another git-aware theme."
   },
   {
+    "name": "blaze",
+    "url": "https://github.com/danieltodor/blaze",
+    "description": "Visually similar to powerline. Requires make and g++. Works best with your terminal set to use a nerd font. Includes decorators for current directory, execution time of last command, exit status of last command, git status information, date, time, username and host. Can be extended with custom segments."
+  },
+  {
     "name": "blazux",
     "url": "https://github.com/blazux/omz-theme",
     "description": "Includes git status decoration and a smiley/sad face indicator of the last command's exit status."
@@ -8758,6 +8763,11 @@
     "name": "ortiz (guezwhoz)",
     "url": "https://github.com/guesswhozzz/guezwhoz-zsh-theme",
     "description": "Simplified fork of eriner with git status, kubectl context and elapsed time decorations."
+  },
+  {
+    "name": "osx2",
+    "url": "https://github.com/RizkiIqbal02/zsh-theme-custom",
+    "description": "Based on archcraft. Minimalist. Includes decorator for current directory."
   },
   {
     "name": "otter",
