@@ -440,11 +440,6 @@
     "description": "Build Flutter and Dart applications using the native LSP."
   },
   {
-    "name": "gbprod/phpactor.nvim",
-    "url": "https://github.com/gbprod/phpactor.nvim",
-    "description": "Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features."
-  },
-  {
     "name": "brendalf/mix.nvim",
     "url": "https://github.com/brendalf/mix.nvim",
     "description": "Mix (from Elixir) wrapper plugin."
@@ -653,6 +648,16 @@
     "name": "mpas/marp-nvim",
     "url": "https://github.com/mpas/marp-nvim",
     "description": "Present using markdown with Marp."
+  },
+  {
+    "name": "gbprod/phpactor.nvim",
+    "url": "https://github.com/gbprod/phpactor.nvim",
+    "description": "Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features."
+  },
+  {
+    "name": "ta-tikoma/php.easy.nvim",
+    "url": "https://github.com/ta-tikoma/php.easy.nvim",
+    "description": "Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity."
   },
   {
     "name": "potamides/pantran.nvim",
@@ -3543,6 +3548,11 @@
     "name": "gbprod/substitute.nvim",
     "url": "https://github.com/gbprod/substitute.nvim",
     "description": "Neovim plugin introducing a new operator motions to quickly replace and exchange text."
+  },
+  {
+    "name": "gregorias/coerce.nvim",
+    "url": "https://github.com/gregorias/coerce.nvim",
+    "description": "Change keyword case."
   },
   {
     "name": "echasnovski/mini.nvim#mini.operators",

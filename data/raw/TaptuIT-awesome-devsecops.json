@@ -330,6 +330,11 @@
     "description": "Liam Galvin - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice."
   },
   {
+    "name": "Kubescape",
+    "url": "https://kubescape.io/",
+    "description": "Cloud Native Computing Foundation - An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters."
+  },
+  {
     "name": "Kube-Score",
     "url": "https://github.com/zegl/kube-score",
     "description": "Gustav Westling - Scan Kubernetes object definitions for security and performance misconfiguration."

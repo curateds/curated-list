@@ -600,11 +600,6 @@
     "description": "View, access, and manage remote and virtual systems."
   },
   {
-    "name": "Firefox GNOME Theme",
-    "url": "https://github.com/rafaelmardojai/firefox-gnome-theme",
-    "description": "Integrate Firefox into GNOME-based desktop using Adwaita."
-  },
-  {
     "name": "Nautilus Terminal",
     "url": "https://github.com/flozz/nautilus-terminal",
     "description": "Integrates a terminal into Nautilus."
@@ -832,6 +827,21 @@
     "name": "Capitaine Cursors",
     "url": "https://github.com/keeferrourke/capitaine-cursors",
     "description": "An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons."
+  },
+  {
+    "name": "Adwaita for Steam",
+    "url": "https://github.com/tkashkin/Adwaita-for-Steam",
+    "description": "Skin to make Steam look more like a native GNOME app."
+  },
+  {
+    "name": "Adwaita theme for VS Code",
+    "url": "https://github.com/piousdeer/vscode-adwaita",
+    "description": "Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting."
+  },
+  {
+    "name": "Firefox GNOME Theme",
+    "url": "https://github.com/rafaelmardojai/firefox-gnome-theme",
+    "description": "Integrate Firefox into GNOME-based desktop using Adwaita."
   },
   {
     "name": "Obsidian Adwaita Theme",

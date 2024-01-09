@@ -438,6 +438,11 @@
     "description": "Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates."
   },
   {
+    "name": "Templated",
+    "url": "https://templated.io",
+    "description": "Automate your images with a simple API and no-code integrations. Design your template in a Canva-like aditor and render images (.jpg, .png, .webp) and PDFs with code. Free tier plan with 100 credits per month."
+  },
+  {
     "name": "APIToolkit.io",
     "url": "https://apitoolkit.io",
     "description": "All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month."
@@ -540,6 +545,11 @@
     "description": "Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free tier with 1GB of data passing through each month."
   },
   {
+    "name": "Data Dead Drop",
+    "url": "https://datadeaddrop.com",
+    "description": "Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client."
+  },
+  {
     "name": "Data Fetcher",
     "url": "https://datafetcher.com",
     "description": "Connect Airtable to any application or API with no code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month."
@@ -602,11 +612,6 @@
     "name": "DynamicDocs",
     "url": "https://advicement.io",
     "description": "Generate PDF documents with JSON to PDF API based on LaTeX templates. The free plan allows 50 API calls per month and access to a library of templates."
-  },
-  {
-    "name": "DynaPictures",
-    "url": "https://dynapictures.com",
-    "description": "A design automation tool that lets you dynamically generate images over REST API. Change colors, texts, logos, and images on the fly. The free plan includes 30 generated images per month and three image templates."
   },
   {
     "name": "Efemarai",

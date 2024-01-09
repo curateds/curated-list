@@ -75,6 +75,11 @@
     "description": "Acceptance testing, reporting, and test integration framework for Playwright, implementing the Screenplay Pattern."
   },
   {
+    "name": "@guidepup/playwright",
+    "url": "https://github.com/guidepup/guidepup-playwright",
+    "description": "VoiceOver and NVDA screen reader driver integration for Playwright."
+  },
+  {
     "name": "playwright",
     "url": "https://git.io/JT2bj",
     "description": "Official Playwright in Node.js (JavaScript and TypeScript)."

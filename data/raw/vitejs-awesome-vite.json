@@ -1399,6 +1399,16 @@
     "description": "Inject the Microsoft Clarity script to index.html."
   },
   {
+    "name": "@cyco130/vite-plugin-mdx",
+    "url": "https://github.com/cyco130/vite-plugin-mdx",
+    "description": "Import MDX."
+  },
+  {
+    "name": "vite-awesome-svg-loader",
+    "url": "https://github.com/matafokka/vite-awesome-svg-loader",
+    "description": "Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites."
+  },
+  {
     "name": "vite-plugin-importer",
     "url": "https://github.com/ajuner/vite-plugin-importer",
     "description": "Integration for babel-plugin-import."
@@ -1757,6 +1767,11 @@
     "name": "unplugin-generate-component-name",
     "url": "https://github.com/CCherry07/unplugin-generate-component-name",
     "description": "Automatically generate component's name."
+  },
+  {
+    "name": "@laynezh/vite-plugin-lib-assets",
+    "url": "https://github.com/laynezh/vite-plugin-lib-assets",
+    "description": "Extracts resource files referenced in library mode instead of embedded them as base64."
   },
   {
     "name": "vite-tsconfig-paths",
@@ -2646,6 +2661,11 @@
     "name": "vite-express",
     "url": "https://github.com/szymmis/vite-express",
     "description": "Integration for Express web apps."
+  },
+  {
+    "name": "vite-manifest-parser",
+    "url": "https://github.com/sullay/vite-manifest-parser",
+    "description": "Parses manifest.json to generate HTML script and link tags."
   },
   {
     "name": "Vite.AspNetCore",

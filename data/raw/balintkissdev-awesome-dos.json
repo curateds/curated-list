@@ -10,6 +10,11 @@
     "description": "DJ Delorie's complete 32-bit C/C++ development environment for Intel 80386. Used for Quake."
   },
   {
+    "name": "GCC IA-16 toolchain",
+    "url": "https://gitlab.com/tkchia/build-ia16/-/releases",
+    "description": "A 16-bit counterpart to DJGPP, a GCC-based toolchain for developing 16-bit (8086 to 80286, a.k.a. IA-16) DOS applications, currently maintained by TK Chia."
+  },
+  {
     "name": "Open Watcom",
     "url": "https://web.archive.org/web/20220627162043/http://www.openwatcom.org/",
     "description": "Formerly commercial C/C++ development environment for 16- and 32-bit DOS and"

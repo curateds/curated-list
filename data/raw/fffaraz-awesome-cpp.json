@@ -1085,6 +1085,11 @@
     "description": "A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]"
   },
   {
+    "name": "flat_hash_map",
+    "url": "https://github.com/skarupke/flat_hash_map",
+    "description": "A very fast flat hashtable with Fibonacci hashing."
+  },
+  {
     "name": "LSHBOX",
     "url": "https://github.com/RSIA-LIESMARS-WHU/LSHBOX",
     "description": "A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]"
@@ -1443,6 +1448,11 @@
     "name": "TigerBeetleDB C++ client (Community)",
     "url": "https://github.com/kassane/tigerbeetle-cpp",
     "description": "TigerBeetle is a financial accounting database designed for mission critical safety and performance to power the future of financial services. [BSL-1.0]"
+  },
+  {
+    "name": "UStore",
+    "url": "https://github.com/unum-cloud/ustore",
+    "description": "Multi-Modal database for BLOBs, JSON, and graphs. [Apache2]"
   },
   {
     "name": "Velox",
@@ -2714,6 +2724,11 @@
     "description": "A fast framework for neural networks. [BSD]"
   },
   {
+    "name": "catboost",
+    "url": "https://github.com/catboost/catboost",
+    "description": "A fast, scalable, high performance Gradient Boosting on Decision Trees library. [Apache2]"
+  },
+  {
     "name": "CCV",
     "url": "https://github.com/liuliu/ccv",
     "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]"
@@ -2729,6 +2744,11 @@
     "description": "A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] website"
   },
   {
+    "name": "FAISS",
+    "url": "https://github.com/facebookresearch/faiss",
+    "description": "A library for efficient similarity search and clustering of dense vectors. [MIT]"
+  },
+  {
     "name": "Fido",
     "url": "https://github.com/FidoProject/Fido",
     "description": "A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] website"
@@ -2737,6 +2757,11 @@
     "name": "flashlight",
     "url": "https://github.com/facebookresearch/flashlight",
     "description": "A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. [BSD-3-Clause] website"
+  },
+  {
+    "name": "ggml",
+    "url": "https://github.com/ggerganov/ggml",
+    "description": "Tensor library for machine learning with 16-bit and 4-bit quantization support. [MIT]"
   },
   {
     "name": "libsvm",
@@ -2762,6 +2787,11 @@
     "name": "mlpack",
     "url": "https://github.com/mlpack/mlpack",
     "description": "A scalable c++ machine learning library. [LGPLv3] website"
+  },
+  {
+    "name": "ncnn",
+    "url": "https://github.com/Tencent/ncnn",
+    "description": "A high-performance neural network inference computing framework optimized for mobile platforms. [BSD]"
   },
   {
     "name": "OpenCV",
@@ -2799,6 +2829,11 @@
     "description": "The suite of fast incremental algorithms for machine learning. [Apache2]"
   },
   {
+    "name": "USearch",
+    "url": "https://github.com/unum-cloud/usearch",
+    "description": "Fast search and clustering library for vectors and strings. [Apache2]"
+  },
+  {
     "name": "VLFeat",
     "url": "https://github.com/vlfeat/vlfeat",
     "description": "The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. [BSD-2-Clause] website"
@@ -2807,11 +2842,6 @@
     "name": "xgboost",
     "url": "https://github.com/dmlc/xgboost",
     "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. [Apache2]"
-  },
-  {
-    "name": "ncnn",
-    "url": "https://github.com/Tencent/ncnn",
-    "description": "A high-performance neural network inference computing framework optimized for mobile platforms. [BSD]"
   },
   {
     "name": "Apophenia",
@@ -2957,6 +2987,11 @@
     "name": "QuantLib",
     "url": "https://github.com/lballabio/quantlib",
     "description": "A free/open-source library for quantitative finance. [Modified BSD] website"
+  },
+  {
+    "name": "SimSIMD",
+    "url": "https://github.com/ashvardanian/SimSIMD",
+    "description": "Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. [Apache2]"
   },
   {
     "name": "StatsLib",
@@ -3319,6 +3354,11 @@
     "description": "Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. [BSD]"
   },
   {
+    "name": "RedPanda",
+    "url": "https://github.com/redpanda-data/redpanda",
+    "description": "Streaming data platform for developers. Kafka API compatible. 10x faster. [BSL]"
+  },
+  {
     "name": "RakNet",
     "url": "https://github.com/OculusVR/RakNet",
     "description": "A cross platform, open source, C++ networking engine for game programmers. [BSD]"
@@ -3352,6 +3392,11 @@
     "name": "uWebSockets",
     "url": "https://github.com/uNetworking/uWebSockets",
     "description": "µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]"
+  },
+  {
+    "name": "UCall",
+    "url": "https://github.com/unum-cloud/ucall",
+    "description": "A high-performance SIMD-accelerated RPC library on io_uring. [Apache2]"
   },
   {
     "name": "WAFer",
@@ -3807,6 +3852,11 @@
     "name": "LuaBridge",
     "url": "https://github.com/vinniefalco/LuaBridge",
     "description": "A lightweight, dependency-free library for binding Lua to C++. [MIT]"
+  },
+  {
+    "name": "LuaBridge3",
+    "url": "https://github.com/kunitoki/LuaBridge3",
+    "description": "A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. [MIT]"
   },
   {
     "name": "luacxx",
