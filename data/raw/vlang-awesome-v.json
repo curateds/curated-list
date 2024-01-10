@@ -220,6 +220,11 @@
     "description": "A project setup and configuration tool for V projects."
   },
   {
+    "name": "ini-v",
+    "url": "https://github.com/ldedev/ini-v",
+    "description": "Simple and practical module for manipulating ini/cfg file."
+  },
+  {
     "name": "v-toxml",
     "url": "https://github.com/radare/v-toxml",
     "description": "XML Serialization library for V."
@@ -510,6 +515,11 @@
     "description": "An easy to use wrapper of clipboard with Wayland and Termux support."
   },
   {
+    "name": "winreg",
+    "url": "https://github.com/ldedev/WindowsRegistry",
+    "description": "MS Windows Registry API. (WIP)"
+  },
+  {
     "name": "vplot",
     "url": "https://github.com/erdetn/vplot",
     "description": "V wrapper for GNU Plot (gnuplot_i)."
@@ -668,6 +678,11 @@
     "name": "dialog",
     "url": "https://github.com/ttytm/dialog",
     "description": "A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc."
+  },
+  {
+    "name": "json2v",
+    "url": "https://github.com/ldedev/Json2V",
+    "description": "Convert a json to a struct in Vlang."
   },
   {
     "name": "objc",

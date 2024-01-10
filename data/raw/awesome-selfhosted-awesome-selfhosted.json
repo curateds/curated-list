@@ -180,11 +180,6 @@
     "description": "Lightweight self-hosted wayback machine that creates HTML and PDF files from your bookmarks. BSD-3-Clause Go"
   },
   {
-    "name": "Accelerated Text",
-    "url": "https://github.com/accelerated-text/accelerated-text",
-    "description": "Automatically generate multiple natural language descriptions of your data varying in wording and structure. Apache-2.0 Java"
-  },
-  {
     "name": "Activepieces",
     "url": "https://www.activepieces.com",
     "description": "No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. (Source Code) MIT Docker"
@@ -523,11 +518,6 @@
     "name": "NeonLink",
     "url": "https://github.com/AlexSciFier/neonlink",
     "description": "Self-hosted bookmark service with unique design and simple installation with Docker. MIT Docker"
-  },
-  {
-    "name": "Pinry",
-    "url": "https://docs.getpinry.com/",
-    "description": "The tiling image board system for people who want to save, tag, and share images, videos, and webpages. (Demo, Source Code) BSD-2-Clause Docker/Python"
   },
   {
     "name": "Servas",
@@ -4175,11 +4165,6 @@
     "description": "Simple, performant, configurable, entirely self-contained pastebin and URL shortener. BSD-3-Clause Rust/Docker"
   },
   {
-    "name": "MokinToken",
-    "url": "https://github.com/nexus-uw/mokintoken",
-    "description": "Clientside encrypted pastebin using tweetnacl. Unlicense PHP/Docker"
-  },
-  {
     "name": "Opengist",
     "url": "https://github.com/thomiceli/opengist",
     "description": "Self-hosted pastebin powered by Git. (Demo) AGPL-3.0 Docker/Go/Nodejs"
@@ -4218,11 +4203,6 @@
     "name": "SnyPy",
     "url": "https://snypy.com",
     "description": "Open source on-prem code snippet manager. (Demo, Source Code) MIT Docker"
-  },
-  {
-    "name": "Spacebin",
-    "url": "https://spaceb.in/",
-    "description": "Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. (Source Code) Apache-2.0 Go"
   },
   {
     "name": "Sup3rS3cretMes5age",
@@ -5648,6 +5628,11 @@
     "name": "Wiki.js",
     "url": "https://js.wiki/",
     "description": "Modern, lightweight and powerful wiki app using Git and Markdown. (Demo, Source Code) AGPL-3.0 Nodejs/Docker/K8S"
+  },
+  {
+    "name": "WikiDocs",
+    "url": "http://wikidocs.it",
+    "description": "A databaseless markdown flat-file wiki engine. (Demo, Source Code) MIT PHP/Docker"
   },
   {
     "name": "WiKiss",

@@ -23,14 +23,18 @@
     "description": "Official API Reference for Rust."
   },
   {
-    "name": "Documentation for Node.js API ",
+    "name": "Documentation for Node.js API",
     "url": "https://pola-rs.github.io/nodejs-polars/index.html",
     "description": "Official API Reference for Node.js."
   },
   {
+    "name": "Shared library plugins for Polars",
+    "url": "https://github.com/pola-rs/pyo3-polars"
+  },
+  {
     "name": "Documentation for R API ",
     "url": "https://rpolars.github.io/reference/index.html",
-    "description": "Official API Reference for R (WIP)."
+    "description": "Official API Reference for R."
   },
   {
     "name": "Github: Polars Github Organization",
@@ -487,6 +491,10 @@
     "name": "Time series Analysis with Polars",
     "url": "https://dev.to/gaborschulz/time-series-analysis-with-polars-3dfg",
     "description": "A short blog post that explains how to deal with temporal datasets by @gaborschulz. Full helpful notebook available here."
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=38920043"
   },
   {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
