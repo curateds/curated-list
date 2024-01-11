@@ -325,6 +325,11 @@
     "description": "Configures production infrastructure with AWS, Docker, and ECS."
   },
   {
+    "name": "terraform-aws-account-lookup",
+    "url": "https://github.com/be-bold/terraform-aws-account-lookup",
+    "description": "This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule."
+  },
+  {
     "name": "terraform-aws-alb",
     "url": "https://github.com/terraform-aws-modules/terraform-aws-alb",
     "description": "Creates Application load-balancer on AWS (verified module)."

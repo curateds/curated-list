@@ -1030,6 +1030,11 @@
     "description": "Access control layer for databases. Inspektor leverages open policy agent to make policy decisions."
   },
   {
+    "name": "Holistic.dev",
+    "url": "https://holistic.dev",
+    "description": "Automatic detection service for database performance, security, and architecture issues."
+  },
+  {
     "name": "SQLCheck",
     "url": "https://github.com/jarulraj/sqlcheck",
     "description": "Automatically detects common SQL anti-patterns."
@@ -1323,6 +1328,11 @@
     "name": "Marquez",
     "url": "https://github.com/MarquezProject/marquez",
     "description": "Collect, aggregate, and visualize a data ecosystem's metadata."
+  },
+  {
+    "name": "Dwh.dev",
+    "url": "https://dwh.dev",
+    "description": "Nexgen data lineage for Snowflake."
   },
   {
     "name": "Benerator",

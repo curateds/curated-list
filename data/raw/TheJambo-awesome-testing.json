@@ -20,6 +20,11 @@
     "description": "Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects."
   },
   {
+    "name": "Ferrum",
+    "url": "https://github.com/rubycdp/ferrum",
+    "description": "very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)"
+  },
+  {
     "name": "BareTail",
     "url": "https://www.baremetalsoft.com/baretail/",
     "description": "Brings the tail linux command to Windows, coloured lines and REGEX search and loads of other features."
