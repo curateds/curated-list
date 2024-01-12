@@ -3045,12 +3045,8 @@
   },
   {
     "name": "cl-repl",
-    "url": "https://github.com/koji-kojiro/cl-repl",
-    "description": "an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. MIT. With colorthemes."
-  },
-  {
-    "name": "this active fork",
-    "url": "https://github.com/digikar99/cl-repl/releases"
+    "url": "https://github.com/lisp-maintainers/cl-repl",
+    "description": "an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. GPL3. With colorthemes."
   },
   {
     "name": "sbcli",

@@ -5,19 +5,19 @@
   },
   {
     "name": "Introduction to Terraform",
-    "url": "https://www.terraform.io/intro/"
+    "url": "https://developer.hashicorp.com/terraform/intro"
   },
   {
     "name": "Terraform Documentation",
-    "url": "https://www.terraform.io/docs/"
+    "url": "https://developer.hashicorp.com/terraform/docs"
   },
   {
     "name": "Terraform learn",
-    "url": "https://learn.hashicorp.com/terraform/"
+    "url": "https://developer.hashicorp.com/terraform/tutorials"
   },
   {
     "name": "weekly.tf - Terraform Weekly Newsletter",
-    "url": "https://weekly.tf",
+    "url": "https://www.weekly.tf/",
     "description": "Terraform Weekly Newsletter - Various news in the Terraform world (projects, announcements, discussions)."
   },
   {
@@ -70,7 +70,7 @@
   },
   {
     "name": "Bootstrapping Microservices with Docker, Kubernetes, and Terraform, Second Editon",
-    "url": "https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform-second-edition"
+    "url": "https://www.manning.com/books/bootstrapping-microservices-second-edition"
   },
   {
     "name": "Deep-Dive Terraform on Azure",
@@ -90,7 +90,7 @@
   },
   {
     "name": "Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform",
-    "url": "https://www.manning.com/books/patterns-and-practices-for-infrastructure-as-code"
+    "url": "https://www.manning.com/books/infrastructure-as-code-patterns-and-practices"
   },
   {
     "name": "Terraform Best Practices",
@@ -123,7 +123,7 @@
   },
   {
     "name": "A Comprehensive Guide to Terraform",
-    "url": "https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp",
+    "url": "https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca",
     "description": "Series of blog posts from the author of \"Terraform: Up & Running\" that guide the reader from beginning with Terraform to using it in the real world."
   },
   {
@@ -148,7 +148,7 @@
   },
   {
     "name": "Creating custom terraform providers",
-    "url": "https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2",
+    "url": "https://blog.pelo.tech/creating-custom-terraform-providers-341311823fa2",
     "description": "Guide for creating custom providers."
   },
   {
@@ -158,7 +158,7 @@
   },
   {
     "name": "Writing Custom Providers",
-    "url": "https://www.terraform.io/docs/extend/writing-custom-providers.html",
+    "url": "https://developer.hashicorp.com/terraform/plugin/sdkv2",
     "description": "Official documentation for creating custom providers."
   },
   {
@@ -168,7 +168,7 @@
   },
   {
     "name": "How To Write OPA for Terraform",
-    "url": "https://www.scalr.com/blog/opa-series-part-1-open-policy-agent-and-terraform/",
+    "url": "https://www.scalr.com/blog/opa-series-part-1-open-policy-agent-and-terraform",
     "description": "How to use Open Policy Agent to evaluate and enforce policy on your Terraform plans"
   },
   {
@@ -193,7 +193,7 @@
   },
   {
     "name": "Terraforming 1Password",
-    "url": "https://blog.agilebits.com/2018/01/25/terraforming-1password/",
+    "url": "https://blog.1password.com/terraforming-1password/",
     "description": "How 1Password migrated from CloudFormation to Terraform."
   },
   {
@@ -263,22 +263,22 @@
   },
   {
     "name": "Managing infrastructure as code with Terraform, Cloud Build, and GitOps",
-    "url": "https://cloud.google.com/architecture/managing-infrastructure-as-code",
+    "url": "https://cloud.google.com/docs/terraform/resource-management/managing-infrastructure-as-code",
     "description": "Setup and manage infrastructure as code with Terraform, Cloud Build, and GitOps."
   },
   {
     "name": "Getting started with Terraform on Google Cloud",
-    "url": "https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform",
+    "url": "https://cloud.google.com/docs/terraform/get-started-with-terraform",
     "description": "Using Terraform to create a VM in Google Cloud and Starting a basic Python Flask server."
   },
   {
     "name": "Managing Cloud Infrastructure with Terraform",
-    "url": "https://www.cloudskillsboost.google/quests/44",
+    "url": "https://www.cloudskillsboost.google/course_templates/746",
     "description": "Deploy Kubernetes Load Balancer Service with Terraform, HTTPS Content-Based Load Balancer with Terraform, Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform, Building a VPN Between Google Cloud and AWS with Terraform."
   },
   {
     "name": "Hashicorp Terraform Tutorials for Google Cloud",
-    "url": "https://learn.hashicorp.com/collections/terraform/gcp-get-started",
+    "url": "https://developer.hashicorp.com/terraform/tutorials/gcp-get-started",
     "description": "Get started with Terraform on Google Cloud."
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "name": "terraform-aws-appconfig",
-    "url": "https://github.com/clowdhaus/terraform-aws-appconfig",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-appconfig",
     "description": "Creates AWS AppConfig resources on AWS."
   },
   {
@@ -356,12 +356,12 @@
   },
   {
     "name": "terraform-aws-datadog-forwarders",
-    "url": "https://github.com/clowdhaus/terraform-aws-datadog-forwarders",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders",
     "description": "Creates resources on AWS to forward logs/metrics to Datadog."
   },
   {
     "name": "terraform-aws-dms",
-    "url": "https://github.com/clowdhaus/terraform-aws-dms",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-dms",
     "description": "Creates AWS DMS (Database Migration Service) resources on AWS."
   },
   {
@@ -411,7 +411,7 @@
   },
   {
     "name": "terraform-aws-jenkins",
-    "url": "https://github.com/cloudposse/terraform-aws-jenkins",
+    "url": "https://github.com/cloudposse-archives/terraform-aws-jenkins",
     "description": "Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack."
   },
   {
@@ -431,7 +431,7 @@
   },
   {
     "name": "terraform-aws-managed-service-prometheus",
-    "url": "https://github.com/clowdhaus/terraform-aws-managed-service-prometheus",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-managed-service-prometheus",
     "description": "Creates AWS Managed Service for Prometheus (AMP) resources on AWS."
   },
   {
@@ -441,7 +441,7 @@
   },
   {
     "name": "terraform-aws-msk-kafka-cluster",
-    "url": "https://github.com/clowdhaus/terraform-aws-msk-kafka-cluster",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-msk-kafka-cluster",
     "description": "Creates AWS MSK (Managed Streaming for Kafka) resources on AWS."
   },
   {
@@ -461,7 +461,7 @@
   },
   {
     "name": "terraform-aws-rds-proxy",
-    "url": "https://github.com/clowdhaus/terraform-aws-rds-proxy",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-rds-proxy",
     "description": "Creates AWS RDS Proxy resources on AWS."
   },
   {
@@ -546,7 +546,7 @@
   },
   {
     "name": "terraform-digitalocean-droplet",
-    "url": "https://registry.terraform.io/modules/terraform-digitalocean-modules/droplet/digitalocean",
+    "url": "https://registry.terraform.io/modules/terraform-digitalocean-modules/droplet/digitalocean/latest",
     "description": "Terraform module for managing DigitalOcean Droplets and related resources."
   },
   {
@@ -571,7 +571,7 @@
   },
   {
     "name": "terraform-linode-k8s",
-    "url": "https://registry.terraform.io/modules/linode/k8s/linode/",
+    "url": "https://registry.terraform.io/modules/linode/k8s/linode/latest",
     "description": "Installs Kubernetes on Linode Instances."
   },
   {
@@ -601,7 +601,7 @@
   },
   {
     "name": "boring-registry",
-    "url": "https://github.com/TierMobility/boring-registry",
+    "url": "https://github.com/boring-registry/boring-registry",
     "description": "Private Terraform Module/Provider Registry with API key authentication and blob storage support"
   },
   {
@@ -731,7 +731,7 @@
   },
   {
     "name": "terraform-provider-dominos",
-    "url": "https://github.com/ndmckinley/terraform-provider-dominos",
+    "url": "https://github.com/nat-henderson/terraform-provider-dominos",
     "description": "Provider for Dominos Pizza."
   },
   {
@@ -836,7 +836,7 @@
   },
   {
     "name": "terraform-provider-snowflake",
-    "url": "https://github.com/chanzuckerberg/terraform-provider-snowflake",
+    "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake",
     "description": "Provider for Snowflake data warehouse."
   },
   {
@@ -926,7 +926,7 @@
   },
   {
     "name": "Argonaut",
-    "url": "https://argonaut.dev/",
+    "url": "https://www.argonaut.dev/",
     "description": "Deploy apps and infrastructure on your cloud in minutes. Autogenerate Terraform modules, customize configurations through PRs. Support for app deployments on Kubernetes and Lambda environments."
   },
   {
@@ -1076,7 +1076,7 @@
   },
   {
     "name": "layerform",
-    "url": "https://github.com/ergomake/layerform",
+    "url": "https://github.com/briefercloud/layerform",
     "description": "Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple \"staging\" environments."
   },
   {
@@ -1235,7 +1235,7 @@
   },
   {
     "name": "terraform-bundle",
-    "url": "https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle",
+    "url": "https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle",
     "description": "Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise."
   },
   {
@@ -1280,7 +1280,7 @@
   },
   {
     "name": "terraform-operator",
-    "url": "https://github.com/isaaguilar/terraform-operator.git",
+    "url": "https://github.com/GalleyBytes/terraform-operator",
     "description": "A Kubernetes CRD to handle Terraform operations."
   },
   {
@@ -1310,7 +1310,7 @@
   },
   {
     "name": "terraform.py",
-    "url": "https://github.com/ciscocloud/terraform.py",
+    "url": "https://github.com/mantl/terraform.py",
     "description": "Ansible dynamic inventory script for parsing Terraform state files."
   },
   {
@@ -1355,7 +1355,7 @@
   },
   {
     "name": "terrahub",
-    "url": "https://github.com/TerraHubCorp/terrahub",
+    "url": "https://github.com/tfxor/terrahub",
     "description": "TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. 💲"
   },
   {
@@ -1365,7 +1365,7 @@
   },
   {
     "name": "terramate",
-    "url": "https://github.com/mineiros-io/terramate",
+    "url": "https://github.com/terramate-io/terramate",
     "description": "Tool for managing multiple Terraform stacks that comes with support for change detection and code generation"
   },
   {
@@ -1380,7 +1380,7 @@
   },
   {
     "name": "terrascan",
-    "url": "https://github.com/accurics/terrascan",
+    "url": "https://github.com/tenable/terrascan",
     "description": "Collection of security and best practice test for static code analysis of terraform templates"
   },
   {
@@ -1430,7 +1430,7 @@
   },
   {
     "name": "tfautomv",
-    "url": "https://github.com/padok-team/tfautomv",
+    "url": "https://github.com/busser/tfautomv",
     "description": "Generate Terraform moved blocks automatically for painless refactoring"
   },
   {
@@ -1480,7 +1480,7 @@
   },
   {
     "name": "tfmask",
-    "url": "https://github.com/cloudposse/tfmask",
+    "url": "https://github.com/cloudposse-archives/tfmask",
     "description": "Terraform utility to mask select output from terraform plan and terraform apply"
   },
   {
@@ -1565,7 +1565,7 @@
   },
   {
     "name": "tgf",
-    "url": "https://github.com/coveo/tgf",
+    "url": "https://github.com/coveooss/tgf",
     "description": "Terragrunt frontend for executing Terragrunt/Terraform through Docker."
   },
   {
@@ -1654,22 +1654,22 @@
   },
   {
     "name": "terraform-enterprise-migrator",
-    "url": "https://github.com/silinternational/terraform-enterprise-migrator",
+    "url": "https://github.com/silinternational/tfc-ops",
     "description": "Script for migrating Terraform Enterprise environments from Legacy to new version of Terraform Enterprise."
   },
   {
     "name": "tfe-state-explorer",
-    "url": "https://github.com/segmentio/tfe-state-explorer",
+    "url": "https://github.com/segment-boneyard/tfe-state-explorer",
     "description": "Simple shell for exploring remote terraform enterprise state, with autocomplete. 💀"
   },
   {
     "name": "Scalr",
-    "url": "https://scalr.com",
+    "url": "https://www.scalr.com/",
     "description": "Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting.  💲"
   },
   {
     "name": "env0",
-    "url": "https://env0.com",
+    "url": "https://www.env0.com/",
     "description": "Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support 💲"
   },
   {
@@ -1763,7 +1763,7 @@
   },
   {
     "name": "Orchestrating Containers with Terraform and Consul",
-    "url": "https://www.infoq.com/presentations/terraform-consul",
+    "url": "https://www.infoq.com/presentations/terraform-consul/",
     "description": "Mitchell Hashimoto shows how Terraform can be used to deploy and scale containerized workloads."
   },
   {
@@ -1817,16 +1817,12 @@
     "description": "From BEGINNER to PRO! (Learn Infrastructure as Code) - Complete course from beginner to pro, with no cloud provider focus, with a general approach"
   },
   {
-    "name": "Atom terraform-lookup",
-    "url": "https://atom.io/packages/terraform-lookup"
-  },
-  {
     "name": "Emacs terraform-mode",
-    "url": "https://github.com/syohex/emacs-terraform-mode"
+    "url": "https://github.com/hcl-emacs/terraform-mode"
   },
   {
     "name": "Intellij",
-    "url": "https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support"
+    "url": "https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl"
   },
   {
     "name": "Terraform-ls",
@@ -1846,6 +1842,6 @@
   },
   {
     "name": "VS Code",
-    "url": "https://marketplace.visualstudio.com/items?itemName=mauve.terraform"
+    "url": "https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform"
   }
 ]

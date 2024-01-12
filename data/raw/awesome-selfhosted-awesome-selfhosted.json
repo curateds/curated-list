@@ -205,6 +205,11 @@
     "description": "Music organization man-in-the-middle of your torrent client and music player. Based on beets.io, similar to Sonarr and Radarr. GPL-3.0 Python/Docker"
   },
   {
+    "name": "changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "description": "Self-hosted tool for staying up-to-date with web-site content changes. Apache-2.0 Python/Docker"
+  },
+  {
     "name": "ChiefOnboarding",
     "url": "https://chiefonboarding.com",
     "description": "Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. (Source Code) AGPL-3.0 Docker"
@@ -3458,11 +3463,6 @@
     "name": "Cerbos",
     "url": "https://cerbos.dev",
     "description": "A self-hosted, open source user authorization layer for your applications. (Demo, Source Code) Apache-2.0 Go/deb/Docker/K8S"
-  },
-  {
-    "name": "changedetection.io",
-    "url": "https://github.com/dgtlmoon/changedetection.io",
-    "description": "Self-hosted tool for staying up-to-date with web-site content changes. Apache-2.0 Python/Docker"
   },
   {
     "name": "Cloudlog",

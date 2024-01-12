@@ -2498,8 +2498,8 @@
     "description": "Simplified Server Side Rendering with an SPA-like developer experience."
   },
   {
-    "name": "vite-plugin-ssr",
-    "url": "https://vite-plugin-ssr.com",
+    "name": "Vike",
+    "url": "https://github.com/vikejs/vike",
     "description": "Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin."
   },
   {
@@ -2521,6 +2521,11 @@
     "name": "vite-ssr-boost",
     "url": "https://github.com/Lomray-Software/vite-ssr-boost",
     "description": "Server side rendering library for create awesome app based on react-router."
+  },
+  {
+    "name": "SSRx",
+    "url": "https://github.com/marbemac/ssrx",
+    "description": "A thin layer on top of Vite to build modern SSR apps with a delightful DX."
   },
   {
     "name": "vitedge",

@@ -139,6 +139,11 @@
     "description": "Robinhood on load testing a Kubernetes system with k6."
   },
   {
+    "name": "Streamlining Performance Testing with K6 and ChatGPT",
+    "url": "https://medium.com/@monish.correia/streamlining-performance-testing-with-k6-and-chatgpt-206c6c7db82b",
+    "description": "Monish Correia writes k6 tests using GitHub co-pilot."
+  },
+  {
     "name": "k6 YouTube Channel",
     "url": "https://www.youtube.com/c/k6test"
   },
@@ -194,9 +199,9 @@
     "description": "Jose Luis Latorre Millas at Cloud Summit 2021."
   },
   {
-    "name": "Write load tests with co-pilot",
-    "url": "https://twitter.com/yusuftayman/status/1456972872853852165",
-    "description": "Yusuf writing k6 tests using GitHub co-pilot."
+    "name": "AI-Powered K6 Testing: No Code, No Hassle, Just ChatGPT! 🦾🚀",
+    "url": "https://www.youtube.com/watch?v=RYyPduBqGM4",
+    "description": "In this video, Karthik K.K. demonstrates how ChatGPT can create k6 tests without writing a single line of code."
   },
   {
     "name": "k6 examples",
@@ -204,44 +209,9 @@
     "description": "A list of common examples on the k6 documentation."
   },
   {
-    "name": "k6-circleci-example",
-    "url": "https://github.com/li-clutter-org/k6-circleci-example",
-    "description": "Running k6 load tests as part of a CircleCI build."
-  },
-  {
-    "name": "k6-jenkins-example",
-    "url": "https://github.com/li-clutter-org/k6-jenkins-example",
-    "description": "Running k6 load tests as part of a Jenkins build."
-  },
-  {
-    "name": "k6-github-actions-example",
-    "url": "https://github.com/grafana/k6-example-github-actions",
-    "description": "Running k6 load tests as part of a GitHub Actions build."
-  },
-  {
-    "name": "k6-azure-pipelines-example",
-    "url": "https://github.com/grafana/k6-example-azure-pipelines",
-    "description": "Running k6 load tests as part of an Azure DevOps Pipeline."
-  },
-  {
-    "name": "k6-bitbucket-pipelines-example",
-    "url": "https://github.com/poponuts/k6-boilerplate",
-    "description": "Running k6 load tests as part of a Bitbucket Pipeline build."
-  },
-  {
-    "name": "k6-performance-test-websocket",
-    "url": "https://github.com/Julianhm9612/k6-performance-test-websocket",
-    "description": "Example of performance test for websocket with k6."
-  },
-  {
     "name": "k6-template-es6",
     "url": "https://github.com/grafana/k6-template-es6",
     "description": "Template repository for bundling test projects into single test scripts runnable by k6."
-  },
-  {
-    "name": "k6 templates",
-    "url": "https://github.com/tom-miseur/k6-templates/",
-    "description": "Opinionated starter templates for k6 projects."
   },
   {
     "name": "k6-typescript-template",
@@ -249,22 +219,42 @@
     "description": "Template to use TypeScript with k6."
   },
   {
-    "name": "example-data-generation",
-    "url": "https://github.com/grafana/k6-example-data-generation",
-    "description": "Generate realistic data for k6 using faker."
+    "name": "tom-miseur/k6-templates",
+    "url": "https://github.com/tom-miseur/k6-templates/",
+    "description": "Opinionated starter templates for k6 projects."
   },
   {
-    "name": "continuous-k6k8s",
-    "url": "https://github.com/lreimer/continuous-k6k8s",
-    "description": "Continuously run k6 tests in Kubernetes using cronjobs."
-  },
-  {
-    "name": "k6-multiscenario-template",
+    "name": "SwissLife-OSS/k6-multiscenario-template",
     "url": "https://github.com/SwissLife-OSS/K6-MultiScenario-template",
     "description": "Use K6 to implement a Multi Scenario template."
   },
   {
-    "name": "docker-k6-grafana-influxdb",
+    "name": "Im5tu/template-k6",
+    "url": "https://github.com/Im5tu/template-k6",
+    "description": "A K6 Performance Test Suite Template."
+  },
+  {
+    "name": "mohsenny/k6-test-template",
+    "url": "https://github.com/mohsenny/k6-test-template",
+    "description": "Load testing framework."
+  },
+  {
+    "name": "kwidera/k6_framework",
+    "url": "https://github.com/kwidera/k6_framework",
+    "description": "Another k6 framework example."
+  },
+  {
+    "name": "Sahanipe/pet_store",
+    "url": "https://github.com/Sahanipe/pet_store",
+    "description": "Modularized scripts for the Swagger PetStore APIs."
+  },
+  {
+    "name": "lreimer/continuous-k6k8s",
+    "url": "https://github.com/lreimer/continuous-k6k8s",
+    "description": "Continuously run k6 tests in Kubernetes using cronjobs."
+  },
+  {
+    "name": "luketn/docker-k6-grafana-influxdb",
     "url": "https://github.com/luketn/docker-k6-grafana-influxdb",
     "description": "Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB."
   },
@@ -333,35 +323,52 @@
     "description": "k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations."
   },
   {
-    "name": "k6 for GitHub actions",
-    "url": "https://github.com/marketplace/actions/k6-load-test",
-    "description": "Marketplace action for running k6 in GitHub Actions."
+    "name": "k6 for AWS CodeBuild",
+    "url": "https://k6.io/blog/integrating-k6-with-aws-codebuild/"
   },
   {
-    "name": "k6 for Azure DevOps Pipelines",
-    "url": "https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test",
-    "description": "Marketplace Extension for running k6 in an Azure Devops Pipeline."
+    "name": "k6 for Azure Pipelines",
+    "url": "https://k6.io/blog/integrating-load-testing-with-azure-pipelines/"
   },
   {
-    "name": "k6 CircleCI Orb",
-    "url": "https://circleci.com/developer/orbs/orb/k6io/test",
-    "description": "k6 Orb for running k6 in CircleCI. Supports running tests both on the CircleCI runner and in the k6 cloud SaaS service."
-  },
-  {
-    "name": "k6 for Atlassian Bamboo",
+    "name": "k6 for Bamboo",
     "url": "https://k6.io/blog/integrating-k6-with-bamboo/"
   },
   {
-    "name": "k6 for AWS CodeBuild",
-    "url": "https://k6.io/blog/integrating-k6-with-aws-codebuild/"
+    "name": "k6 for Buddy",
+    "url": "https://k6.io/blog/integrating-k6-with-buddy-devops/"
+  },
+  {
+    "name": "k6 for CircleCI",
+    "url": "https://k6.io/blog/integrating-load-testing-with-circleci/"
+  },
+  {
+    "name": "k6 for Flagger",
+    "url": "https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/"
+  },
+  {
+    "name": "k6 for GitHub Actions",
+    "url": "https://k6.io/blog/load-testing-using-github-actions/"
+  },
+  {
+    "name": "k6 for GitLab",
+    "url": "https://k6.io/blog/integrating-load-testing-with-gitlab/"
   },
   {
     "name": "k6 for Google Cloud Build",
     "url": "https://k6.io/blog/integrating-k6-with-google-cloud-build/"
   },
   {
-    "name": "k6 for Buddy CI/CD",
-    "url": "https://k6.io/blog/integrating-k6-with-buddy-devops/"
+    "name": "k6 for Jenkins",
+    "url": "https://k6.io/blog/integrating-load-testing-with-jenkins/"
+  },
+  {
+    "name": "k6 for Keptn",
+    "url": "https://k6.io/blog/performance-testing-in-keptn-using-k6/"
+  },
+  {
+    "name": "k6 for TeamCity",
+    "url": "https://k6.io/blog/load-testing-using-teamcity-and-k6/"
   },
   {
     "name": "k6 Extensions",

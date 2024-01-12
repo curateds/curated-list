@@ -245,6 +245,11 @@
     "description": "A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests."
   },
   {
+    "name": "qase",
+    "url": "https://github.com/qase-tms/qase-javascript/tree/master/qase-playwright",
+    "description": "Playwright Qase Reporter, send test executions to qase."
+  },
+  {
     "name": "Demo.Playwright",
     "url": "https://github.com/MarcusFelling/Demo.Playwright",
     "description": "Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript."

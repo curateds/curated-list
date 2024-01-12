@@ -3555,6 +3555,11 @@
     "description": "Change keyword case."
   },
   {
+    "name": "johmsalas/text-case.nvim",
+    "url": "https://github.com/johmsalas/text-case.nvim",
+    "description": "Text case changes via keybindings and custom substitute command with Telescope and LSP support."
+  },
+  {
     "name": "echasnovski/mini.nvim#mini.operators",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md",
     "description": "Module of mini.nvim with various text edit operators: replace, exchange, multiply, sort, evaluate."
