@@ -120,11 +120,6 @@
     "description": "A collection of std-like single-header C++ libraries  [MIT]"
   },
   {
-    "name": "Infinity",
-    "url": "https://github.com/infiniflow/infinity",
-    "description": "The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. [Apache2]"
-  },
-  {
     "name": "JUCE",
     "url": "https://github.com/julianstorer/JUCE",
     "description": "An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] website"
@@ -1323,6 +1318,11 @@
     "name": "Hiredis",
     "url": "https://github.com/redis/hiredis",
     "description": "A minimalistic C client library for the Redis database. [BSD]"
+  },
+  {
+    "name": "Infinity",
+    "url": "https://github.com/infiniflow/infinity",
+    "description": "The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. [Apache2]"
   },
   {
     "name": "Kvrocks",

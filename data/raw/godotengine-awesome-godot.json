@@ -565,6 +565,11 @@
     "description": "Quickly build tilesets with style (Godot 3.x)."
   },
   {
+    "name": "AnimatedShape2D",
+    "url": "https://github.com/Goutte/godot-addon-animated-shape-2d",
+    "description": "Animate a CollisionShape2D along with the frames of an AnimatedSprite2D."
+  },
+  {
     "name": "AntialiasedLine2D",
     "url": "https://github.com/godot-extended-libraries/godot-antialiased-line2d",
     "description": "Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms)."
