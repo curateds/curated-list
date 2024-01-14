@@ -305,6 +305,11 @@
     "description": "Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. AGPL-3.0 Python/Nodejs/Docker"
   },
   {
+    "name": "Mylar3",
+    "url": "https://mylarcomics.com/",
+    "description": "Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. (Source Code) GPL-3.0 Python/Docker"
+  },
+  {
     "name": "nefarious",
     "url": "https://github.com/lardbit/nefarious",
     "description": "Web application that automates downloading Movies and TV Shows. GPL-3.0 Python"
@@ -2356,12 +2361,12 @@
   },
   {
     "name": "ZOT OCI Registry",
-    "url": "https://zotregistry.io/",
+    "url": "https://zotregistry.dev",
     "description": "A production-ready vendor-neutral OCI-native container image registry. (Demo, Source Code) Apache-2.0 Go/Docker"
   },
   {
     "name": "ZOT OCI Registry",
-    "url": "https://zotregistry.io/",
+    "url": "https://zotregistry.dev",
     "description": "A production-ready vendor-neutral OCI-native container image registry. (Demo, Source Code) Apache-2.0 Go/Docker"
   },
   {
@@ -2638,11 +2643,6 @@
     "name": "Posio",
     "url": "https://github.com/abrenaut/posio",
     "description": "Geography multiplayer game. MIT Python"
-  },
-  {
-    "name": "QuakeJS",
-    "url": "https://github.com/begleysm/quakejs",
-    "description": "QuakeJS is a port of ioquake3 to Javascript that can be played in a browser. MIT Nodejs"
   },
   {
     "name": "Quizmaster",
@@ -3435,11 +3435,6 @@
     "description": "Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene. (Source Code) Apache-2.0 Java/Docker/K8S"
   },
   {
-    "name": "asciiflow",
-    "url": "https://asciiflow.com/",
-    "description": "Flow Diagram Drawing Tool. (Source Code) MIT Nodejs"
-  },
-  {
     "name": "asciinema",
     "url": "https://github.com/asciinema/asciinema-server",
     "description": "Web app for hosting asciicasts. (Demo) Apache-2.0 Elixir/Docker"
@@ -3953,11 +3948,6 @@
     "name": "Livebook",
     "url": "https://livebook.dev",
     "description": "Realtime collaborative notebook app based on Markdown that supports running Elixir code snippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir. (Source Code) Apache-2.0 Elixir/Docker"
-  },
-  {
-    "name": "Markdown Edit",
-    "url": "https://github.com/georgeOsdDev/markdown-edit/",
-    "description": "Online markdown editor/viewer. MIT Javascript"
   },
   {
     "name": "Meemo",
@@ -4530,6 +4520,11 @@
     "description": "Light-weight HTTP/HTTPS proxy daemon. (Source Code) GPL-2.0 C/deb"
   },
   {
+    "name": "txtdot",
+    "url": "https://txtdot.github.io/documentation/",
+    "description": "A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. (Demo, Source Code) MIT Nodejs/Docker"
+  },
+  {
     "name": "Bar Assistant",
     "url": "https://github.com/karlomikus/bar-assistant",
     "description": "Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. (Demo) MIT PHP/Docker"
@@ -4743,11 +4738,6 @@
     "name": "DockSTARTer",
     "url": "https://dockstarter.com/",
     "description": "DockSTARTer helps you get started with home server apps running in Docker. (Source Code) MIT Shell"
-  },
-  {
-    "name": "FLAP",
-    "url": "https://www.flap.cloud",
-    "description": "Low maintenance framework to manage self-hosted services. (Source Code) AGPL-3.0 Docker/Shell"
   },
   {
     "name": "FreedomBox",
@@ -5298,11 +5288,6 @@
     "name": "Kanboard",
     "url": "https://kanboard.org/",
     "description": "Simple and open source visual task board. (Source Code) MIT PHP"
-  },
-  {
-    "name": "Minimalist Online Markdown Editor",
-    "url": "http://markdown.pioul.fr",
-    "description": "The simplest and slickest online Markdown editor. (Source Code) MIT Nodejs"
   },
   {
     "name": "myTinyTodo",

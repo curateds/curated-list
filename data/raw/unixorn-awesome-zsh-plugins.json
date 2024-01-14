@@ -2831,6 +2831,11 @@
     "description": "Allows you to define persistent functions on-the-fly, without the need to add them to your config files. These functions are permanently available until you delete them."
   },
   {
+    "name": "mise",
+    "url": "https://github.com/wintermi/zsh-mise",
+    "description": "Plugin for mise (formerly called rtx) a fast polyglot version manager, replacing tools like nvm, nodenv, rbenv, rvm, chruby, pyenv, etc."
+  },
+  {
     "name": "mkarch",
     "url": "https://github.com/0xRZ/mkarch",
     "description": "ZSH plugin that allows you to create archives using multiple different compression formats."
