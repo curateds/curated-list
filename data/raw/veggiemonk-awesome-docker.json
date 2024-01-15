@@ -1865,6 +1865,11 @@
     "description": "Receive notifications when an image or repository is updated on a Docker registry by @crazy-max."
   },
   {
+    "name": "dockcheck",
+    "url": "https://github.com/mag37/dockcheck",
+    "description": "A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more."
+  },
+  {
     "name": "Docker plugin for Jenkins",
     "url": "https://github.com/jenkinsci/docker-plugin/",
     "description": "The aim of the docker plugin is to be able to use a docker host to dynamically provision a slave, run a single build, then tear-down that slave."

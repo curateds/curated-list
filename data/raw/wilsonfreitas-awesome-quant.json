@@ -40,6 +40,11 @@
     "description": "Python reimagination of spreadsheets as formula-centric objects that are interoperable with pandas."
   },
   {
+    "name": "ArcticDB",
+    "url": "https://github.com/man-group/ArcticDB",
+    "description": "High performance datastore for time series and tick data."
+  },
+  {
     "name": "OpenBB Terminal",
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Terminal for investment research for everyone."
@@ -1398,6 +1403,11 @@
     "name": "TALib.jl",
     "url": "https://github.com/femtotrader/TALib.jl",
     "description": "A Julia wrapper for TA-Lib."
+  },
+  {
+    "name": "IncTA.jl",
+    "url": "https://femtotrader.github.io/IncTA.jl",
+    "description": "Julia Incremental Technical Analysis Indicators"
   },
   {
     "name": "Miletus.jl",
