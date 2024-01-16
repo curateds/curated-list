@@ -37,6 +37,10 @@
     "url": "https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf"
   },
   {
+    "name": "Awesome executable packing",
+    "url": "https://github.com/packing-box/awesome-executable-packing"
+  },
+  {
     "name": "Cloak and dagger: Unpacking hidden malware attacks",
     "url": "https://symantec-enterprise-blogs.security.com/blogs/expert-perspectives/unpacking-hidden-malware-attacks"
   },
@@ -207,6 +211,10 @@
     "url": "https://github.com/levanvn/Packer_Simple-1"
   },
   {
+    "name": "2-SPIFF: A 2-stage packer identification method based on function call graph and file attributes",
+    "url": "https://doi.org/10.1007/s10489-021-02347-w"
+  },
+  {
     "name": "Absent extreme learning machine algorithm with application to packed executable identification",
     "url": "https://link.springer.com/article/10.1007%2Fs00521-014-1558-4"
   },
@@ -243,6 +251,10 @@
     "url": "http://2008.caro.org/downloads/unpackers.pdf"
   },
   {
+    "name": "An application of machine learning to analysis of packed mac malware",
+    "url": "https://scholar.dsu.edu/theses/381"
+  },
+  {
     "name": "Application of string kernel based support vector machine for malware packer identification",
     "url": "https://ieeexplore.ieee.org/document/6707043"
   },
@@ -261,6 +273,10 @@
   {
     "name": "Automatic analysis of malware behavior using machine learning",
     "url": "https://dl.acm.org/doi/10.5555/2011216.2011217"
+  },
+  {
+    "name": "Automatic generation of adversarial examples for interpreting malware classifiers",
+    "url": "https://www.semanticscholar.org/reader/040a0020e054e050e52a829902cfe0defad8c6ac"
   },
   {
     "name": "Automatic static unpacking of malware binaries",
@@ -299,6 +315,10 @@
     "url": "https://link.springer.com/chapter/10.1007%2F978-3-319-31153-1_11"
   },
   {
+    "name": "Chosen-instruction attack against commercial code virtualization obfuscators",
+    "url": "https://ink.library.smu.edu.sg/sis_research/7354"
+  },
+  {
     "name": "Classification of packed executables for accurate computer virus detection",
     "url": "http://www.sciencedirect.com/science/article/pii/S0167865508002110"
   },
@@ -335,6 +355,10 @@
     "url": "https://ieeexplore.ieee.org/document/7782073"
   },
   {
+    "name": "Complexity-based packed executable classification with high accuracy",
+    "url": "https://caislab.kaist.ac.kr/publication/thesis_files/2009/Thesis_Hanyoung.pdf"
+  },
+  {
     "name": "Computational-intelligence techniques for malware generation",
     "url": "https://raw.githubusercontent.com/jimmy-sonny/ConferencesAndTalks/master/Ms.C%20Thesis/Thesis_Marcelli.pdf"
   },
@@ -355,6 +379,10 @@
     "url": "http://2008.caro.org/downloads/boris_lau_virtualization_obfs.pdf"
   },
   {
+    "name": "Deceiving portable executable malware classifiers into targeted misclassification with practical adversarial examples",
+    "url": "https://doi.org/10.1145/3374664.3375741"
+  },
+  {
     "name": "Denial-of-service attacks on host-based generic unpackers",
     "url": "https://link.springer.com/chapter/10.1007/978-3-642-11145-7_19"
   },
@@ -369,6 +397,10 @@
   {
     "name": "Design and performance evaluation of binary code packing for protecting embedded software against reverse engineering",
     "url": "https://ieeexplore.ieee.org/document/5479571"
+  },
+  {
+    "name": "Detecting obfuscated malware using reduced opcode set and optimised runtime trace",
+    "url": "https://security-informatics.springeropen.com/articles/10.1186/s13388-016-0027-2"
   },
   {
     "name": "Detecting packed executable file: Supervised or anomaly detection method?",
@@ -512,6 +544,10 @@
     "url": "https://link.springer.com/chapter/10.1007/978-3-642-34129-8_49"
   },
   {
+    "name": "Generating adversarial malware examples for black-box attacks based on GAN",
+    "url": "http://arxiv.org/abs/1702.05983"
+  },
+  {
     "name": "A generic approach to automatic deobfuscation of executable code",
     "url": "https://ieeexplore.ieee.org/document/7163054"
   },
@@ -560,6 +596,10 @@
     "url": "https://www.semanticscholar.org/paper/An-Implementation-of-a-Generic-Unpacking-Method-on-HyungChanKim-Daisuke/d5c947520815105231673f1b87af57ed6abd379c"
   },
   {
+    "name": "An improved method for packed malware detection using PE header and section table information",
+    "url": "https://www.mecs-press.org/ijcnis/ijcnis-v11-n9/v11n9-2.html"
+  },
+  {
     "name": "Information theoretic method for classification of packed and encoded files",
     "url": "https://dl.acm.org/doi/10.1145/2799979.2800015"
   },
@@ -568,12 +608,24 @@
     "url": "https://ieeexplore.ieee.org/document/6956729"
   },
   {
+    "name": "Intriguing properties of adversarial ML attacks in the problem space",
+    "url": "http://arxiv.org/abs/1911.02142"
+  },
+  {
     "name": "A learning model to detect maliciousness of portable executable using integrated feature set",
     "url": "https://www.sciencedirect.com/science/article/pii/S1319157817300149"
   },
   {
     "name": "Limits of static analysis for malware detection",
     "url": "https://ieeexplore.ieee.org/document/4413008"
+  },
+  {
+    "name": "MAB-Malware: A reinforcement learning framework for attacking static malware classifiers",
+    "url": "http://arxiv.org/abs/2003.03100"
+  },
+  {
+    "name": "A machine-learning-based framework for supporting malware detection and analysis",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-86970-0_25"
   },
   {
     "name": "Maitland: Analysis of packed and encrypted malware via paravirtualization extensions",
@@ -594,6 +646,10 @@
   {
     "name": "Mal-xtract: Hidden code extraction using memory analysis",
     "url": "https://doi.org/10.1088%2F1742-6596%2F801%2F1%2F012058"
+  },
+  {
+    "name": "MaliCage: A packed malware family classification framework based on DNN and GAN",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2214212622001296"
   },
   {
     "name": "Malware analysis using multiple API sequence mining control flow graph",
@@ -669,6 +725,10 @@
     "url": "https://www.semanticscholar.org/paper/On-deceiving-malware-classification-with-section-Silva-Segundo/915faa4486a78a4f449c0f8028b773078bfdbd84"
   },
   {
+    "name": "On evaluating adversarial robustness",
+    "url": "http://arxiv.org/abs/1902.06705"
+  },
+  {
     "name": "On the (Im)possibility of obfuscating programs",
     "url": "https://link.springer.com/chapter/10.1007/3-540-44647-8_1"
   },
@@ -701,6 +761,10 @@
     "url": "https://www.sans.org/reading-room/whitepapers/malicious/packer-analysis-report-debugging-unpacking-nspack-34-37-packer-33428"
   },
   {
+    "name": "Packer classification based on association rule mining",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1568494622005245"
+  },
+  {
     "name": "Packer classifier based on PE header information",
     "url": "https://dl.acm.org/doi/10.1145/2746194.2746213"
   },
@@ -727,6 +791,10 @@
   {
     "name": "Packer-complexity analysis in PANDA",
     "url": "https://webthesis.biblio.polito.it/7519/"
+  },
+  {
+    "name": "PackGenome: Automatically generating robust YARA rules for accurate malware packer detection",
+    "url": "https://dl.acm.org/doi/10.1145/3576915.3616625"
   },
   {
     "name": "Packing detection and classification relying on machine learning to stop malware propagation",
@@ -859,6 +927,10 @@
     "url": "https://cybersecurity.springeropen.com/articles/10.1186/s42400-018-0010-y"
   },
   {
+    "name": "SoK: Automatic deobfuscation of virtualization-protected applications",
+    "url": "https://doi.org/10.1145/3465481.3465772"
+  },
+  {
     "name": "SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers",
     "url": "https://ieeexplore.ieee.org/document/7163053"
   },
@@ -895,12 +967,28 @@
     "url": "https://link.springer.com/chapter/10.1007/978-3-540-87403-4_6"
   },
   {
+    "name": "A survey on adversarial attacks for malware analysis",
+    "url": "http://arxiv.org/abs/2111.08223"
+  },
+  {
     "name": "Survey on malware evasion techniques: State of the art and challenges",
     "url": "https://ieeexplore.ieee.org/abstract/document/6174775"
   },
   {
+    "name": "A survey on run-time packers and mitigation techniques",
+    "url": "https://link.springer.com/article/10.1007/s10207-023-00759-y"
+  },
+  {
+    "name": "Symbolic execution of obfuscated code",
+    "url": "https://dl.acm.org/doi/10.1145/2810103.2813663"
+  },
+  {
     "name": "Syntia: Synthesizing the semantics of obfuscated code",
     "url": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko"
+  },
+  {
+    "name": "Technical report on the cleverhans v2.1.0 adversarial examples library",
+    "url": "http://arxiv.org/abs/1610.00768"
   },
   {
     "name": "Things you may not know about Android (Un) packers: A systematic study based on whole-system emulation.",
@@ -965,6 +1053,10 @@
   {
     "name": "VMAttack: Deobfuscating virtualization-based packed binaries",
     "url": "https://dl.acm.org/doi/10.1145/3098954.3098995"
+  },
+  {
+    "name": "VMHunt: A verifiable approach to partially-virtualized binary code simplification",
+    "url": "https://dl.acm.org/doi/10.1145/3243734.3243827"
   },
   {
     "name": "VMRe: A reverse framework of virtual machine protection packed binaries",
@@ -1057,6 +1149,11 @@
     "description": "Yet another malware collection in the Internet."
   },
   {
+    "name": "MalwareSamples",
+    "url": "https://github.com/MalwareSamples",
+    "description": "Bringing you the best of the worst files on the Internet."
+  },
+  {
     "name": "MalwareTips",
     "url": "https://malwaretips.com/",
     "description": "MalwareTips is a community-driven platform providing the latest information and resources on malware and cyber threats."
@@ -1112,9 +1209,18 @@
     "description": "Another online malware database."
   },
   {
+    "name": "VirusSamples",
+    "url": "https://www.virussamples.com"
+  },
+  {
     "name": "VirusShare",
     "url": "https://virusshare.com",
     "description": "Virus online database with more than 44 millions of samples."
+  },
+  {
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com/gui/",
+    "description": "File analysis Web service for detecting malware."
   },
   {
     "name": "VX Heaven",
@@ -1356,9 +1462,19 @@
     "description": "Packer compressing .net assemblies, (ab)using the PE format for data storage."
   },
   {
+    "name": "OSX_Packer",
+    "url": "https://github.com/AlysonBee/OSX_Packer",
+    "description": "Binary packer for the Mach-O file format."
+  },
+  {
     "name": "Pakkero",
     "url": "https://github.com/89luca89/pakkero",
     "description": "Pakkero is a binary packer written in Go made for fun and educational purpose."
+  },
+  {
+    "name": "Pakr",
+    "url": "https://github.com/iangcarroll/pakr",
+    "description": "In-memory packer for macOS Mach-O bundles."
   },
   {
     "name": "Papaw",
@@ -1445,8 +1561,8 @@
     "description": "Ultimate Packer for eXecutables."
   },
   {
-    "name": "VMPROTECT",
-    "url": "https://github.com/eaglx/VMPROTECT",
+    "name": "VirtualMachineObfuscationPoC",
+    "url": "https://github.com/eaglx/VirtualMachineObfuscationPoC",
     "description": "Obfuscation method using virtual machine."
   },
   {
@@ -1563,6 +1679,11 @@
     "name": "Kkrunchy",
     "url": "http://www.farbrausch.de/~fg/kkrunchy",
     "description": "Kkrunchy is a small exe packer primarily meant for 64k intros."
+  },
+  {
+    "name": "Laturi",
+    "url": "http://laturi.haxor.fi",
+    "description": "Linker and compressor intended to be used for macOS 1k, 4k and perhaps 64K intros."
   },
   {
     "name": "mPack",
@@ -2487,9 +2608,9 @@
     "description": "Universal exe-file UnPacker."
   },
   {
-    "name": "VirusTotal",
-    "url": "https://www.virustotal.com/gui/",
-    "description": "File analysis Web service for detecting malware."
+    "name": "VMHunt",
+    "url": "https://github.com/s3team/VMHunt",
+    "description": "Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces."
   },
   {
     "name": "VMUnpacker",
@@ -2500,5 +2621,10 @@
     "name": "Winbindex",
     "url": "https://github.com/m417z/winbindex",
     "description": "An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files."
+  },
+  {
+    "name": "yarGen",
+    "url": "https://github.com/Neo23x0/yarGen",
+    "description": "Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files."
   }
 ]

@@ -321,6 +321,11 @@
     "description": "Code for Miami prototype of a cheap open-source solution to track transit buses."
   },
   {
+    "name": "Train departure Display",
+    "url": "https://github.com/chrisys/train-departure-display",
+    "description": "A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0."
+  },
+  {
     "name": "Instabus",
     "url": "http://instabus.org",
     "description": "Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages."
@@ -419,11 +424,6 @@
     "name": "Bongo",
     "url": "http://ebongo.org",
     "description": "Real-time Transit Tracking for Iowa City, Coralville and the University of Iowa. Combines three disparate transit systems into one UI."
-  },
-  {
-    "name": "Brand New Subway",
-    "url": "http://jpwright.net/subway/",
-    "description": "An interactive transportation planning game that lets players alter the NYC subway system to their heart's content."
   },
   {
     "name": "CityMapper Webapp",
@@ -603,6 +603,230 @@
     "name": "Visualizing MBTA Data",
     "url": "http://mbtaviz.github.io/",
     "description": "Interactive graphs that show how people use Boston's subway system."
+  },
+  {
+    "name": "Brand New Subway",
+    "url": "https://jpwright.github.io/subway/",
+    "description": "An interactive transportation planning game that lets players alter the NYC subway system to their heart's content."
+  },
+  {
+    "name": "BENO Metro Mapm Creator",
+    "url": "https://beno.uk/metromapcreator/#",
+    "description": "A very old fashioned but classic transit map creator."
+  },
+  {
+    "name": "Tennessine Metro Designer",
+    "url": "https://tennessine.co.uk/metro/",
+    "description": "A modern and aesthetically pleasing transit map designer."
+  },
+  {
+    "name": "Metro Map Maker",
+    "url": "https://metromapmaker.com/",
+    "description": "An open source and simple metro map maker software."
+  },
+  {
+    "name": "Metro Dreamin",
+    "url": "https://metrodreamin.com/explore%C2%A0",
+    "description": "A modern open source sofware that allows users to create, save, like and share and create interactive transit maps with agents."
+  },
+  {
+    "name": "Rail Map Generators",
+    "url": "https://wongchito.github.io/RailMapGenerator",
+    "description": "Tool for generating railway maps and information panels in the styles of various cities' public transportation systems."
+  },
+  {
+    "name": "MetroSets",
+    "url": "https://metrosets.ac.tuwien.ac.at/",
+    "description": "A flexible web tool to visualize set systems using the metro map metaphor. Based on this paper"
+  },
+  {
+    "name": "Adobe illustrator",
+    "url": "https://www.adobe.com/ca/products/illustrator.html",
+    "description": "The industry-leading vector graphics software (requres membership plan)."
+  },
+  {
+    "name": "Inkscape",
+    "url": "https://inkscape.org/",
+    "description": "A free desgn tool similar to Adobe Illustrator."
+  },
+  {
+    "name": "Felt",
+    "url": "https://felt.com/",
+    "description": "An aestically pleasing Modern GIS software."
+  },
+  {
+    "name": "Google Mymaps",
+    "url": "https://www.google.ca/maps/about/mymaps/",
+    "description": "Create and share custom maps with Google My Maps."
+  },
+  {
+    "name": "Google Earth",
+    "url": "https://www.google.com/earth/about/",
+    "description": "Create and share custom maps with one of the the world's most detailed statelite applications."
+  },
+  {
+    "name": "UrbanRail.Net",
+    "url": "http://www.urbanrail.net/",
+    "description": "Worldwide reference map of urban rail transport (metros,trams,commuter rail) with detailed and up-to-date information."
+  },
+  {
+    "name": "OpenRailwayMap",
+    "url": "https://www.openrailwaymap.org/",
+    "description": "Worldwide map of railways using OpenStreetMap data."
+  },
+  {
+    "name": "AllRailMap",
+    "url": "https://www.allrailmap.com/",
+    "description": "Another worldwide map of railways using OpenStreetMap data."
+  },
+  {
+    "name": "European Railway Atlas",
+    "url": "https://europeanrailwayatlas.com/",
+    "description": "A reference book of European railway maps that is available for purchase."
+  },
+  {
+    "name": "Rail Transit Maps",
+    "url": "http://www-personal.umich.edu/~yopopov/rrt/railroadmaps/",
+    "description": "A collection of railway maps covering Europe (especially Russia)."
+  },
+  {
+    "name": "Tramscale",
+    "url": "https://alexander.co.tz/tramscale/",
+    "description": "Website outlining maps showing the scales of tram systems around the world."
+  },
+  {
+    "name": "Timelines",
+    "url": "https://alexander.co.tz/timelines/",
+    "description": "Compare the timelines of Rapid Transit Projects around the world."
+  },
+  {
+    "name": "Metrolinemap",
+    "url": "https://www.metrolinemap.com/",
+    "description": "Interactive Maps of the world's Metro systems."
+  },
+  {
+    "name": "Metrocyclopaedia",
+    "url": "https://blog.csaladen.es/metro/%C2%A0",
+    "description": "3d maps of metro systems across the world (uses data from Metrolinemap)."
+  },
+  {
+    "name": "RailFansCanada",
+    "url": "https://map.railfans.ca/",
+    "description": "Interactive System Map detailing the  the present and future of different urban rail systems in Canada."
+  },
+  {
+    "name": "North American Transit",
+    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1GAXiiEp8a62LvZNDueYN76NPTCoUxvdx&ll=43.71257881237152%2C-79.385523993394&z=11",
+    "description": "Map of all Passenger Rail in North America including (intercity rail, metros, trams and tourist lines)"
+  },
+  {
+    "name": "Intercity Rail map",
+    "url": "https://asm.transitdocs.com/",
+    "description": "Map of the real time location and schedule information for  Amtrak and Via trains"
+  },
+  {
+    "name": "Indian Railways Map",
+    "url": "https://indiarailinfo.com/atlas",
+    "description": "Interactive Maps of the Indian Main rail network."
+  },
+  {
+    "name": "National Rail Network Map",
+    "url": "https://www.arcgis.com/apps/mapviewer/index.html?webmap=96ec03e4fc8546bd8a864e39a2c3fc41",
+    "description": "This map shows the extent and ownership of rail lines in the United States, including passenger and freight lines."
+  },
+  {
+    "name": "Ferrocarta",
+    "url": "https://ferrocarta.net/",
+    "description": "A series of maps covering all of the passenger rail networks in Brazil, Canada and France."
+  },
+  {
+    "name": "Train Lookout",
+    "url": "https://trainlookout.com/",
+    "description": "A tool to easily Log, map and share your journeys by train."
+  },
+  {
+    "name": "Australian Rail Maps",
+    "url": "http://www.railmaps.com.au/",
+    "description": "Detailed Australian railway maps from the national, state and city levels."
+  },
+  {
+    "name": "Steam Engine \"IS\"",
+    "url": "https://parovoz.com/maps/supermap/",
+    "description": "Maps of railways in the USSR."
+  },
+  {
+    "name": "Carto.Metro",
+    "url": "https://cartometro.com/",
+    "description": "Detailed maps of metro and tram networks of global cities (especially in France)."
+  },
+  {
+    "name": "Railway Stations",
+    "url": "https://map.railway-stations.org/",
+    "description": "Photos of Railway Stations across the world."
+  },
+  {
+    "name": "INAT",
+    "url": "https://www.inat.fr/maps/",
+    "description": "Aesthetically pleasing static maps of worldwide metros systems."
+  },
+  {
+    "name": "Transit Maps",
+    "url": "https://transitmap.net/",
+    "description": "Critiques and reviews of the design of transit maps from across the world."
+  },
+  {
+    "name": "Transit Explorer",
+    "url": "https://www.thetransportpolitic.com/transitexplorer/",
+    "description": "A map containing fixed-guideway transit around the world."
+  },
+  {
+    "name": "Britsh Railways",
+    "url": "https://www.merrittcartographic.co.uk/british_railways.html"
+  },
+  {
+    "name": "TransitLand Map",
+    "url": "https://www.transit.land/map",
+    "description": "Worldwide map of transit services (which have a GTFS Feed)."
+  },
+  {
+    "name": "DB InfraGO",
+    "url": "https://geovdbn.deutschebahn.com/pgv/public/map/isr.xhtml",
+    "description": "Interactive Map of German Rail infrastructure."
+  },
+  {
+    "name": "SNCF Carte interactive",
+    "url": "https://www.sncf-reseau.com/fr/carte/carte-interactive-reseau-ferre-francais-0",
+    "description": "Interactive Map of French Rail infrastructure."
+  },
+  {
+    "name": "Project Mapping",
+    "url": "https://www.projectmapping.co.uk/index.html",
+    "description": "Schematic maps of UK and worldwide rail networks."
+  },
+  {
+    "name": "China Railway Map",
+    "url": "http://cnrail.geogv.org/enus/about",
+    "description": "An online Interactive map for the passenger railway transportation system of China, presenting station and rail information."
+  },
+  {
+    "name": "Canadian Rail Atlas",
+    "url": "https://rac.jmaponline.net/canadianrailatlas/",
+    "description": "a user-friendly, interactive map of Canada’s nearly 43,000-kilometre railway network."
+  },
+  {
+    "name": "The Rail Map",
+    "url": "https://www.therailmap.com/",
+    "description": "An Interactive Map with Train lines in North America using data from OpenStreetMap."
+  },
+  {
+    "name": "JR pass",
+    "url": "https://www.jrpass.com/map#",
+    "description": "Interactive Map of Mainline Rail in Japan."
+  },
+  {
+    "name": "Belgian Train Map",
+    "url": "https://trainmap.belgiantrain.be/",
+    "description": "The Train Map shows realtime information about SNCB trains on the network such as their position on a map of Belgium."
   },
   {
     "name": "GTFS Spec",

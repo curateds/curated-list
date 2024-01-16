@@ -56,8 +56,8 @@
   },
   {
     "name": "OSM Go!",
-    "url": "https://github.com/DoFabien/OsmGo",
-    "description": "OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. (Android / WebApp / Source Code / Wiki)"
+    "url": "https://osmgo.com/",
+    "description": "OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. (Android / Source Code / Wiki)"
   },
   {
     "name": "JOSM",
@@ -72,7 +72,7 @@
   {
     "name": "Merkaartor",
     "url": "https://github.com/openstreetmap/merkaartor",
-    "description": "An opensource OSM editor, written in C++ and Qt"
+    "description": "An opensource OSM editor, written in C++ and Qt."
   },
   {
     "name": "OpenMapTiles",
@@ -361,7 +361,8 @@
   },
   {
     "name": "Streets GL",
-    "url": "https://github.com/StrandedKitty/streets-gl"
+    "url": "https://github.com/StrandedKitty/streets-gl",
+    "description": "OpenStreetMap 3D renderer powered by WebGL2. (Wiki)"
   },
   {
     "name": "OsmAnd",
@@ -509,6 +510,11 @@
     "description": "A package to parse the opening_hours tag."
   },
   {
+    "name": "geodesk",
+    "url": "https://github.com/clarisma/geodesk-py",
+    "description": "Fast and storage-efficient database for OpenStreetMap analysis."
+  },
+  {
     "name": "OpenTripPlanner",
     "url": "https://github.com/opentripplanner/OpenTripPlanner",
     "description": "Open source multi-modal trip planner. (Wiki)"
@@ -522,6 +528,11 @@
     "name": "OSM2World",
     "url": "http://osm2world.org",
     "description": "OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. (Source Code / Wiki)"
+  },
+  {
+    "name": "GeoDesk",
+    "url": "https://github.com/clarisma/geodesk",
+    "description": "Fast and storage-efficient database for OpenStreetMap analysis."
   },
   {
     "name": "overpass",
@@ -551,7 +562,7 @@
   {
     "name": "Bunting Labs' OSM Extract API",
     "url": "https://buntinglabs.com/solutions/openstreetmap-extracts",
-    "description": "Free extracts of OSM features as GeoJSON, filtering on tags and bounding box (Docs)"
+    "description": "Free extracts of OSM features as GeoJSON, filtering on tags and bounding box. (Docs)"
   },
   {
     "name": "OpenGeofiction",

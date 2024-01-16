@@ -775,6 +775,11 @@
     "description": "Fork of the popular zip manipulation library found in the zlib distribution. [zlib]"
   },
   {
+    "name": "Rapidgzip",
+    "url": "https://github.com/mxmlnkn/rapidgzip",
+    "description": "Gzip Decompression and Random Access for Modern Multi-Core Machines. [Apache-2/MIT]"
+  },
+  {
     "name": "smaz",
     "url": "https://github.com/antirez/smaz",
     "description": "Small strings compression library. [BSD]"
@@ -2377,6 +2382,11 @@
     "name": "Boost.Interprocess",
     "url": "https://github.com/boostorg/interprocess",
     "description": "Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). [Boost] website"
+  },
+  {
+    "name": "bRPC",
+    "url": "https://github.com/apache/brpc",
+    "description": "bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. [Apache2] website"
   },
   {
     "name": "Cap'n Proto",

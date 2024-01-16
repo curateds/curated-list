@@ -64,77 +64,68 @@
     "url": "https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2"
   },
   {
-    "name": "LSP",
-    "url": "https://packagecontrol.io/packages/LSP"
-  },
-  {
-    "name": "Sidebar Enhancements",
-    "url": "https://github.com/titoBouzout/SideBarEnhancements"
-  },
-  {
-    "name": "Trailing Spaces",
-    "url": "https://github.com/SublimeText/TrailingSpaces"
-  },
-  {
-    "name": "GitGutter",
-    "url": "https://github.com/jisaacks/GitGutter"
-  },
-  {
-    "name": "EditorConfig",
-    "url": "https://github.com/sindresorhus/editorconfig-sublime"
-  },
-  {
-    "name": "SublimeLinter",
-    "url": "https://github.com/SublimeLinter/SublimeLinter3"
-  },
-  {
-    "name": "Sublime Worksheet",
-    "url": "https://github.com/jcartledge/sublime-worksheet"
-  },
-  {
-    "name": "Sublime Alignment",
-    "url": "https://github.com/wbond/sublime_alignment"
+    "name": "All Autocomplete",
+    "url": "https://github.com/alienhard/SublimeAllAutocomplete"
   },
   {
     "name": "ApplySyntax",
     "url": "https://github.com/facelessuser/ApplySyntax"
   },
   {
-    "name": "All Autocomplete",
-    "url": "https://github.com/alienhard/SublimeAllAutocomplete"
-  },
-  {
-    "name": "SublimeREPL",
-    "url": "https://github.com/wuub/SublimeREPL"
-  },
-  {
-    "name": "FindKeyConflicts",
-    "url": "https://github.com/skuroda/FindKeyConflicts"
-  },
-  {
-    "name": "Glue",
-    "url": "https://github.com/chrissimpkins/glue"
+    "name": "EditorConfig",
+    "url": "https://github.com/sindresorhus/editorconfig-sublime"
   },
   {
     "name": "File Navigator",
     "url": "https://github.com/csch0/SublimeText-File-Navigator"
   },
   {
-    "name": "Synesthesia",
-    "url": "https://github.com/dariusf/synesthesia"
+    "name": "FindKeyConflicts",
+    "url": "https://github.com/skuroda/FindKeyConflicts"
   },
   {
-    "name": "StyleToken",
-    "url": "https://github.com/vcharnahrebel/style-token"
+    "name": "GitGutter",
+    "url": "https://github.com/jisaacks/GitGutter"
+  },
+  {
+    "name": "GitSavvy",
+    "url": "https://packagecontrol.io/packages/GitSavvy"
+  },
+  {
+    "name": "Glue",
+    "url": "https://github.com/chrissimpkins/glue"
+  },
+  {
+    "name": "LSP",
+    "url": "https://packagecontrol.io/packages/LSP"
   },
   {
     "name": "Origami",
     "url": "https://github.com/SublimeText/Origami"
   },
   {
-    "name": "Sync Settings",
-    "url": "https://github.com/mfuentesg/SyncSettings",
-    "description": "The cross-platform solution to keep Sublime Text configuration synchronized"
+    "name": "PackageResourceViewer",
+    "url": "https://github.com/skuroda/PackageResourceViewer"
+  },
+  {
+    "name": "PlainTasks",
+    "url": "https://packagecontrol.io/packages/PlainTasks"
+  },
+  {
+    "name": "Sidebar Enhancements",
+    "url": "https://github.com/titoBouzout/SideBarEnhancements"
+  },
+  {
+    "name": "StyleToken",
+    "url": "https://github.com/vcharnahrebel/style-token"
+  },
+  {
+    "name": "Sublime Alignment",
+    "url": "https://github.com/wbond/sublime_alignment"
+  },
+  {
+    "name": "Sublime Worksheet",
+    "url": "https://github.com/jcartledge/sublime-worksheet"
   },
   {
     "name": "SublimeFileBrowser",
@@ -142,36 +133,53 @@
     "description": "Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, Dired lets you modify your directory structure using the powerful text editing feature that ST provides."
   },
   {
-    "name": "PackageResourceViewer",
-    "url": "https://github.com/skuroda/PackageResourceViewer"
+    "name": "SublimeLinter",
+    "url": "https://github.com/SublimeLinter/SublimeLinter3"
   },
   {
-    "name": "Sublime Text setup",
-    "url": "https://github.com/mhartl/rails_tutorial_sublime_text"
+    "name": "SublimeREPL",
+    "url": "https://github.com/wuub/SublimeREPL"
   },
   {
-    "name": "Setting up Sublime Text for Ruby development",
-    "url": "http://zhuravel.biz/setting-up-sublime-text-for-ruby-development"
+    "name": "Sync Settings",
+    "url": "https://github.com/mfuentesg/SyncSettings",
+    "description": "The cross-platform solution to keep Sublime Text configuration synchronized"
+  },
+  {
+    "name": "Synesthesia",
+    "url": "https://github.com/dariusf/synesthesia"
+  },
+  {
+    "name": "Trailing Spaces",
+    "url": "https://github.com/SublimeText/TrailingSpaces"
   },
   {
     "name": "ChangeQuotes",
     "url": "https://github.com/colinta/SublimeChangeQuotes"
   },
   {
-    "name": "RSpec plugin",
-    "url": "https://github.com/SublimeText/RSpec"
+    "name": "Setting up Sublime Text for Ruby development",
+    "url": "http://zhuravel.biz/setting-up-sublime-text-for-ruby-development"
+  },
+  {
+    "name": "Sublime Text setup",
+    "url": "https://github.com/mhartl/rails_tutorial_sublime_text"
   },
   {
     "name": "BeautifyRuby",
     "url": "https://github.com/CraigWilliams/BeautifyRuby"
   },
   {
-    "name": "Sublime Ruby Debugger",
-    "url": "https://github.com/shuky19/sublime_debugger"
-  },
-  {
     "name": "ProductiveSnippetsRuby",
     "url": "https://github.com/janlelis/productive-sublime-snippets-ruby/"
+  },
+  {
+    "name": "RSpec plugin",
+    "url": "https://github.com/SublimeText/RSpec"
+  },
+  {
+    "name": "Sublime Ruby Debugger",
+    "url": "https://github.com/shuky19/sublime_debugger"
   },
   {
     "name": "Setting up Sublime Text for Python development",
@@ -186,6 +194,14 @@
     "url": "http://opensourcehacker.com/2014/03/10/sublime-text-3-for-python-javascript-and-web-developers/"
   },
   {
+    "name": "Anaconda",
+    "url": "https://github.com/DamnWidget/anaconda"
+  },
+  {
+    "name": "Djaneiro",
+    "url": "https://github.com/squ1b3r/Djaneiro"
+  },
+  {
     "name": "MagicPython",
     "url": "https://github.com/MagicStack/MagicPython"
   },
@@ -194,52 +210,40 @@
     "url": "https://github.com/python-rope/rope"
   },
   {
-    "name": "SublimeLinter PEP 257",
-    "url": "https://github.com/SublimeLinter/SublimeLinter-pep257"
+    "name": "SublimeJEDI",
+    "url": "https://github.com/srusskih/SublimeJEDI"
   },
   {
-    "name": "Djaneiro",
-    "url": "https://github.com/squ1b3r/Djaneiro"
+    "name": "SublimeLinter PEP 257",
+    "url": "https://github.com/SublimeLinter/SublimeLinter-pep257"
   },
   {
     "name": "SublimePythonTidy",
     "url": "https://github.com/witsch/SublimePythonTidy"
   },
   {
-    "name": "Anaconda",
-    "url": "https://github.com/DamnWidget/anaconda"
-  },
-  {
-    "name": "SublimeJEDI",
-    "url": "https://github.com/srusskih/SublimeJEDI"
-  },
-  {
-    "name": "JsFormat",
-    "url": "https://github.com/jdc0589/JsFormat"
+    "name": "Bump",
+    "url": "https://github.com/yavorsky/Bump"
   },
   {
     "name": "CoffeeScript",
     "url": "https://github.com/Xavura/CoffeeScript-Sublime-Plugin"
   },
   {
-    "name": "TernJS",
-    "url": "https://github.com/ternjs/tern_for_sublime"
-  },
-  {
-    "name": "Bump",
-    "url": "https://github.com/yavorsky/Bump"
-  },
-  {
     "name": "JavaScript Enhancements",
     "url": "https://github.com/pichillilorenzo/JavaScriptEnhancements"
   },
   {
-    "name": "Emmet",
-    "url": "http://emmet.io"
+    "name": "JsFormat",
+    "url": "https://github.com/jdc0589/JsFormat"
   },
   {
-    "name": "HTMLPrettify",
-    "url": "https://github.com/victorporof/Sublime-HTMLPrettify"
+    "name": "TernJS",
+    "url": "https://github.com/ternjs/tern_for_sublime"
+  },
+  {
+    "name": "Emmet",
+    "url": "http://emmet.io"
   },
   {
     "name": "GutterColor",
@@ -250,32 +254,40 @@
     "url": "http://hayakubundle.com"
   },
   {
-    "name": "LaTeXTools",
-    "url": "https://github.com/SublimeText/LaTeXTools"
+    "name": "HTMLPrettify",
+    "url": "https://github.com/victorporof/Sublime-HTMLPrettify"
   },
   {
     "name": "LaTeXing",
     "url": "https://github.com/LaTeXing/LaTeXing"
   },
   {
-    "name": "MarkdownEditing",
-    "url": "https://github.com/SublimeText-Markdown/MarkdownEditing"
+    "name": "LaTeXTools",
+    "url": "https://github.com/SublimeText/LaTeXTools"
   },
   {
     "name": "Markdown Preview",
     "url": "https://github.com/revolunet/sublimetext-markdown-preview"
   },
   {
-    "name": "GotoDocumentation",
-    "url": "https://github.com/kemayo/sublime-text-2-goto-documentation"
+    "name": "MarkdownEditing",
+    "url": "https://github.com/SublimeText-Markdown/MarkdownEditing"
   },
   {
     "name": "DashDoc",
     "url": "https://github.com/farcaller/DashDoc"
   },
   {
+    "name": "GotoDocumentation",
+    "url": "https://github.com/kemayo/sublime-text-2-goto-documentation"
+  },
+  {
     "name": "HowDoI",
     "url": "https://github.com/azac/sublime-howdoi-direct-paste"
+  },
+  {
+    "name": "Alfred Workflow",
+    "url": "https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text"
   },
   {
     "name": "Associating text editors with Git",
@@ -286,40 +298,8 @@
     "url": "http://www.sublimetext.com/docs/2/osx_command_line.html"
   },
   {
-    "name": "Alfred Workflow",
-    "url": "https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text"
-  },
-  {
     "name": "LiveReload",
     "url": "https://github.com/alepez/LiveReload-sublimetext3"
-  },
-  {
-    "name": "Soda",
-    "url": "http://buymeasoda.github.io/soda-theme/"
-  },
-  {
-    "name": "Spacegray",
-    "url": "http://kkga.github.io/spacegray/"
-  },
-  {
-    "name": "Cobalt2",
-    "url": "https://github.com/wesbos/cobalt2"
-  },
-  {
-    "name": "Flatland",
-    "url": "https://github.com/thinkpixellab/flatland"
-  },
-  {
-    "name": "Material theme",
-    "url": "https://github.com/equinusocio/material-theme"
-  },
-  {
-    "name": "Comfort",
-    "url": "https://github.com/devanshdalal/Comfort"
-  },
-  {
-    "name": "Predawn",
-    "url": "https://github.com/jamiewilson/predawn"
   },
   {
     "name": "Ayu",
@@ -331,6 +311,38 @@
     "description": "An easy-on-the-eyes Sublime Text/TextMate color scheme."
   },
   {
+    "name": "Cobalt2",
+    "url": "https://github.com/wesbos/cobalt2"
+  },
+  {
+    "name": "Comfort",
+    "url": "https://github.com/devanshdalal/Comfort"
+  },
+  {
+    "name": "Cyanide",
+    "url": "https://github.com/lefoy/cyanide-theme"
+  },
+  {
+    "name": "Flatland",
+    "url": "https://github.com/thinkpixellab/flatland"
+  },
+  {
+    "name": "Material theme",
+    "url": "https://github.com/equinusocio/material-theme"
+  },
+  {
+    "name": "Predawn",
+    "url": "https://github.com/jamiewilson/predawn"
+  },
+  {
+    "name": "Soda",
+    "url": "http://buymeasoda.github.io/soda-theme/"
+  },
+  {
+    "name": "Spacegray",
+    "url": "http://kkga.github.io/spacegray/"
+  },
+  {
     "name": "Sublime Theme Switcher",
     "url": "https://github.com/chmln/sublime-text-theme-switcher-menu"
   },
@@ -338,10 +350,6 @@
     "name": "colorsublime.com",
     "url": "http://colorsublime.com",
     "description": "huge collection of color schemes for Sublime Text."
-  },
-  {
-    "name": "http://tmtheme-editor.herokuapp.com",
-    "url": "http://tmtheme-editor.herokuapp.com"
   },
   {
     "name": "Schemr",
@@ -353,12 +361,12 @@
     "description": "tool for generating color schemes (and matching themes for your other development tools, including wallpaper) from your favorite colors."
   },
   {
-    "name": "Base 16",
-    "url": "https://github.com/chriskempson/base16"
+    "name": "http://tmtheme-editor.herokuapp.com",
+    "url": "http://tmtheme-editor.herokuapp.com"
   },
   {
-    "name": "Solarized",
-    "url": "http://ethanschoonover.com/solarized"
+    "name": "Base 16",
+    "url": "https://github.com/chriskempson/base16"
   },
   {
     "name": "Dracula",
@@ -366,8 +374,8 @@
     "description": "spooky color scheme, perfect for Halloween.  Also available for terminal and several other applications."
   },
   {
-    "name": "By Jon-Paul Lunney",
-    "url": "https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon"
+    "name": "Solarized",
+    "url": "http://ethanschoonover.com/solarized"
   },
   {
     "name": "By Chris Lee",
@@ -382,6 +390,14 @@
     "url": "https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme"
   },
   {
+    "name": "By Jon-Paul Lunney",
+    "url": "https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon"
+  },
+  {
+    "name": "By Matheus Falcão",
+    "url": "https://www.behance.net/gallery/22168387/Sublime-Text-Icon"
+  },
+  {
     "name": "By Shi Yan Hui",
     "url": "https://github.com/shiyanhui/Sublime-Text-Icon"
   },
@@ -390,56 +406,56 @@
     "url": "https://github.com/syky27/Sublime-Text-Icon"
   },
   {
-    "name": "By Matheus Falcão",
-    "url": "https://www.behance.net/gallery/22168387/Sublime-Text-Icon"
-  },
-  {
-    "name": "PT Mono",
-    "url": "http://www.paratype.com/public/"
+    "name": "Adobe Source Code Pro",
+    "url": "https://github.com/adobe-fonts/source-code-pro"
   },
   {
     "name": "Anonymous Pro",
     "url": "http://www.marksimonson.com/fonts/view/anonymous-pro"
   },
   {
-    "name": "Adobe Source Code Pro",
-    "url": "https://github.com/adobe-fonts/source-code-pro"
+    "name": "Bitstream Vera Sans Mono",
+    "url": "http://www.dafont.com/bitstream-vera-mono.font"
   },
   {
     "name": "Consolas",
     "url": "http://www.fonts.com/font/microsoft-corporation/consolas"
   },
   {
-    "name": "Droid Sans Mono",
-    "url": "http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender"
-  },
-  {
     "name": "Deja Vu Sans Mono",
     "url": "http://dejavu-fonts.org"
+  },
+  {
+    "name": "Droid Sans Mono",
+    "url": "http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender"
   },
   {
     "name": "Fira Mono",
     "url": "https://fonts.google.com/specimen/Fira+Mono"
   },
   {
+    "name": "Hack",
+    "url": "http://sourcefoundry.org/hack/"
+  },
+  {
     "name": "Inconsolata",
     "url": "http://levien.com/type/myfonts/inconsolata.html"
-  },
-  {
-    "name": "Monaco",
-    "url": "https://en.wikipedia.org/wiki/Monaco_%28typeface%29"
-  },
-  {
-    "name": "Bitstream Vera Sans Mono",
-    "url": "http://www.dafont.com/bitstream-vera-mono.font"
   },
   {
     "name": "Input",
     "url": "http://input.fontbureau.com"
   },
   {
-    "name": "Hack",
-    "url": "http://sourcefoundry.org/hack/"
+    "name": "Monaco",
+    "url": "https://en.wikipedia.org/wiki/Monaco_%28typeface%29"
+  },
+  {
+    "name": "PT Mono",
+    "url": "http://www.paratype.com/public/"
+  },
+  {
+    "name": "Progamming Fonts",
+    "url": "http://blog.codinghorror.com/progamming-fonts/"
   },
   {
     "name": "Recommended Fonts for Programming?",
@@ -448,9 +464,5 @@
   {
     "name": "What are the best programming fonts?",
     "url": "http://www.slant.co/topics/67/~programming-fonts"
-  },
-  {
-    "name": "Progamming Fonts",
-    "url": "http://blog.codinghorror.com/progamming-fonts/"
   }
 ]

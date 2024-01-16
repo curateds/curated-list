@@ -1,5 +1,95 @@
 [
   {
+    "name": "Accern",
+    "url": "https://accern.com",
+    "description": "Accelerate AI Workflows for Financial Services."
+  },
+  {
+    "name": "AI Builder",
+    "url": "https://flow.microsoft.com/en-us/ai-builder/",
+    "description": "Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate."
+  },
+  {
+    "name": "Alteryx",
+    "url": "https://www.alteryx.com/products/alteryx-platform/machine-learning",
+    "description": "Scale data science across your business with automated machine learning (AutoML)."
+  },
+  {
+    "name": "AutoGen",
+    "url": "https://github.com/microsoft/autogen",
+    "description": "AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks."
+  },
+  {
+    "name": "Dataiku",
+    "url": "https://www.dataiku.com/product/key-capabilities/machine-learning",
+    "description": "Build advanced machine learning models using the latest techniques."
+  },
+  {
+    "name": "DataRobot",
+    "url": "https://www.datarobot.com/platform/visual-ai/",
+    "description": "DataRobot Automated Machine Learning with Visual AI."
+  },
+  {
+    "name": "Gravity-AI",
+    "url": "https://www.gravity-ai.com/",
+    "description": "The fastest & most secure way to solve business problems with A.I."
+  },
+  {
+    "name": "h2o",
+    "url": "https://www.h2o.ai/",
+    "description": "Get free, hands-on experience with the H2O AI Hybrid Cloud."
+  },
+  {
+    "name": "Jasper",
+    "url": "https://www.jasper.ai/",
+    "description": "Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!"
+  },
+  {
+    "name": "Knime",
+    "url": "https://www.knime.com/knime-analytics-platform",
+    "description": "Creating Data Science."
+  },
+  {
+    "name": "Landing AI",
+    "url": "https://landing.ai/",
+    "description": "Building computer vision systems in minutes via natural prompting interactions."
+  },
+  {
+    "name": "Midjourney",
+    "url": "https://www.midjourney.com",
+    "description": "It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species."
+  },
+  {
+    "name": "Noogata",
+    "url": "https://noogata.com/",
+    "description": "AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions."
+  },
+  {
+    "name": "RapidMiner",
+    "url": "https://rapidminer.com/products/studio/",
+    "description": "Comprehensive data science platform with visual workflow design and full automation."
+  },
+  {
+    "name": "Runway",
+    "url": "https://runwayml.com/",
+    "description": "It is your next-generation content creation suite."
+  },
+  {
+    "name": "SaegMaker",
+    "url": "https://aws.amazon.com/sagemaker/",
+    "description": "Machine learning for every data scientist and developer."
+  },
+  {
+    "name": "Sas",
+    "url": "https://www.sas.com/en_si/software/machine-learning-cloud.html",
+    "description": "On-demand programming access to machine learning algorithms in the cloud."
+  },
+  {
+    "name": "Vertex-AI",
+    "url": "https://cloud.google.com/vertex-ai",
+    "description": "Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case."
+  },
+  {
     "name": "Appian",
     "url": "https://www.appian.com/",
     "description": "Discover the power of low-code automation."
@@ -183,91 +273,6 @@
     "name": "harpoon",
     "url": "https://www.harpoon.io/",
     "description": "Deploy software with No Code Kubernetes."
-  },
-  {
-    "name": "Accern",
-    "url": "https://accern.com",
-    "description": "Accelerate AI Workflows for Financial Services."
-  },
-  {
-    "name": "AI Builder",
-    "url": "https://flow.microsoft.com/en-us/ai-builder/",
-    "description": "Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate."
-  },
-  {
-    "name": "Alteryx",
-    "url": "https://www.alteryx.com/products/alteryx-platform/machine-learning",
-    "description": "Scale data science across your business with automated machine learning (AutoML)."
-  },
-  {
-    "name": "Dataiku",
-    "url": "https://www.dataiku.com/product/key-capabilities/machine-learning",
-    "description": "Build advanced machine learning models using the latest techniques."
-  },
-  {
-    "name": "DataRobot",
-    "url": "https://www.datarobot.com/platform/visual-ai/",
-    "description": "DataRobot Automated Machine Learning with Visual AI."
-  },
-  {
-    "name": "Gravity-AI",
-    "url": "https://www.gravity-ai.com/",
-    "description": "The fastest & most secure way to solve business problems with A.I."
-  },
-  {
-    "name": "h2o",
-    "url": "https://www.h2o.ai/",
-    "description": "Get free, hands-on experience with the H2O AI Hybrid Cloud."
-  },
-  {
-    "name": "Jasper",
-    "url": "https://www.jasper.ai/",
-    "description": "Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!"
-  },
-  {
-    "name": "Knime",
-    "url": "https://www.knime.com/knime-analytics-platform",
-    "description": "Creating Data Science."
-  },
-  {
-    "name": "Landing AI",
-    "url": "https://landing.ai/",
-    "description": "Building computer vision systems in minutes via natural prompting interactions."
-  },
-  {
-    "name": "Midjourney",
-    "url": "https://www.midjourney.com",
-    "description": "It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species."
-  },
-  {
-    "name": "Noogata",
-    "url": "https://noogata.com/",
-    "description": "AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions."
-  },
-  {
-    "name": "RapidMiner",
-    "url": "https://rapidminer.com/products/studio/",
-    "description": "Comprehensive data science platform with visual workflow design and full automation."
-  },
-  {
-    "name": "Runway",
-    "url": "https://runwayml.com/",
-    "description": "It is your next-generation content creation suite."
-  },
-  {
-    "name": "SaegMaker",
-    "url": "https://aws.amazon.com/sagemaker/",
-    "description": "Machine learning for every data scientist and developer."
-  },
-  {
-    "name": "Sas",
-    "url": "https://www.sas.com/en_si/software/machine-learning-cloud.html",
-    "description": "On-demand programming access to machine learning algorithms in the cloud."
-  },
-  {
-    "name": "Vertex-AI",
-    "url": "https://cloud.google.com/vertex-ai",
-    "description": "Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case."
   },
   {
     "name": "AppSumo",

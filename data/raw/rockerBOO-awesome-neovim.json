@@ -2590,6 +2590,11 @@
     "description": "The tags generator/management for old school vimers."
   },
   {
+    "name": "theKnightsOfRohan/csvlens.nvim",
+    "url": "https://github.com/theKnightsOfRohan/csvlens.nvim",
+    "description": "A port of YS-L/csvlens, for easy previewing of tabular data."
+  },
+  {
     "name": "LoricAndre/OneTerm.nvim",
     "url": "https://github.com/LoricAndre/OneTerm.nvim",
     "description": "Plugin framework for running commands in the terminal."
@@ -2888,6 +2893,11 @@
     "name": "bfredl/nvim-ipy",
     "url": "https://github.com/bfredl/nvim-ipy",
     "description": "Make interfacing with IPython/Jupyter easier."
+  },
+  {
+    "name": "pianocomposer321/officer.nvim",
+    "url": "https://github.com/pianocomposer321/officer.nvim",
+    "description": "Like dispatch.vim but using overseer.nvim."
   },
   {
     "name": "folke/neodev.nvim",

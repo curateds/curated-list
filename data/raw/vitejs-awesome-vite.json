@@ -1529,6 +1529,11 @@
     "description": "Replace module with CDN."
   },
   {
+    "name": "vite-plugin-bundle-prefetch",
+    "url": "https://github.com/dreambo8563/vite-plugin-bundle-prefetch",
+    "description": "Inject prefetch assets into index.html."
+  },
+  {
     "name": "vite-plugin-html",
     "url": "https://github.com/anncwb/vite-plugin-html",
     "description": "Plugin to minimize and use ejs template syntax in index.html."

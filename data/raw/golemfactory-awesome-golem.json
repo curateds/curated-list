@@ -5,16 +5,6 @@
     "description": "Learn the Golem platform on the official Golem Network website."
   },
   {
-    "name": "Golem Factory GitHub",
-    "url": "https://github.com/golemfactory",
-    "description": "Where you can find the open source code of all things Golem."
-  },
-  {
-    "name": "Yagna GitHub",
-    "url": "https://github.com/golemfactory/yagna",
-    "description": "The official Rust implementation of Golem."
-  },
-  {
     "name": "Golem Community Chat",
     "url": "https://chat.golem.network/",
     "description": "Join the community and team open discussion on Discord."
@@ -35,21 +25,6 @@
     "description": "The official blog where you can find the most reliable information on announcements, summaries and updates."
   },
   {
-    "name": "About Thorg",
-    "url": "https://www.thorg.io/about",
-    "description": "Learn what the Thorg miner does."
-  },
-  {
-    "name": "Thorg Usage",
-    "url": "https://www.thorg.io/usage",
-    "description": "Understand the depths of Thorg."
-  },
-  {
-    "name": "Twitter",
-    "url": "https://twitter.com/minewiththorg",
-    "description": "The official Twitter of Thorg."
-  },
-  {
     "name": "Golem Network Stats",
     "url": "https://stats.golem.network",
     "description": "Statistics tracking tasks and provider resource utilization in the Golem Network."
@@ -63,6 +38,221 @@
     "name": "Stats API Documentation",
     "url": "https://docs.stats.golem.network/",
     "description": "API endpoints that the Golem Network Stats page uses to display its data."
+  },
+  {
+    "name": "Golem Docs",
+    "url": "https://docs.golem.network/",
+    "description": "A creator's manual for Golem. By developers, for developers."
+  },
+  {
+    "name": "Python API Reference",
+    "url": "https://yapapi.readthedocs.io/",
+    "description": "Yapapi API Reference."
+  },
+  {
+    "name": "Releases List",
+    "url": "https://github.com/golemfactory/yagna/releases",
+    "description": "GitHub releases of Yagna."
+  },
+  {
+    "name": "JS Requestor Quickstart",
+    "url": "https://docs.golem.network/docs/quickstarts/js-quickstart",
+    "description": "Get started quickly and create your first tasks/request on Golem."
+  },
+  {
+    "name": "Yagna tag on Stack Overflow",
+    "url": "https://stackoverflow.com/questions/tagged/yagna",
+    "description": "Use the Yagna tag if you have an interesting question you'd like answered."
+  },
+  {
+    "name": "Provider Tutorial",
+    "url": "https://handbook.golem.network/provider-tutorials/provider-tutorial",
+    "description": "Get started as a Provider on Golem Network using the handbook."
+  },
+  {
+    "name": "Provider FAQ",
+    "url": "https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md",
+    "description": "Community curated list of commonly asked questions and answers."
+  },
+  {
+    "name": "Yagna-binaries for aarch64",
+    "url": "https://github.com/MarijnStevens/yagna-binaries",
+    "description": "Build for 64 bit arm architecture to be able to run as a provider on a system such as a Raspberry Pi."
+  },
+  {
+    "name": "Automatically update provider node prices",
+    "url": "https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c",
+    "description": "Script that checks the median of the prices on stats.golem.network and updates all 3 values on the provider node related to price."
+  },
+  {
+    "name": "Golem Price Updater",
+    "url": "https://github.com/jedbrooke/golem-price-updater",
+    "description": "Automatically adjust the price for your Golem node based on the current price of GLM."
+  },
+  {
+    "name": "Golem Provider dashboard",
+    "url": "https://github.com/vciancio/golem-dashboard",
+    "description": "ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them."
+  },
+  {
+    "name": "Golem Provider dashboard backend / GolemBar",
+    "url": "https://github.com/vciancio/golem-node-server",
+    "description": "Flask backend that collects the data from the provider that's then used with the dashboard project above."
+  },
+  {
+    "name": "Ansible ya_provider",
+    "url": "https://galaxy.ansible.com/golemfactory/ya_provider",
+    "description": "Ansible role that deploys a Golem provider automatically with minimal configuration required."
+  },
+  {
+    "name": "WSL",
+    "url": "https://github.com/r34x/WSL",
+    "description": "Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine."
+  },
+  {
+    "name": "Golem Provider Terraform",
+    "url": "https://github.com/nemani/golem-provider-terraform",
+    "description": "Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus."
+  },
+  {
+    "name": "Automatic Golem",
+    "url": "https://github.com/r34x/Automatic-Golem",
+    "description": "Setup a Golem Provider with simple instructions and logs guiding you through the process."
+  },
+  {
+    "name": "Golem Provider Node",
+    "url": "https://github.com/alexandre-abrioux/golem-node",
+    "description": "Docker version of a node to help you get started running as a provider in a Docker container quick."
+  },
+  {
+    "name": "Golem Provider node",
+    "url": "https://github.com/blue-notes-robot/golem-node",
+    "description": "Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn."
+  },
+  {
+    "name": "Scalable golem provider",
+    "url": "https://github.com/cryptobench/scaleable-golem-provider",
+    "description": "Spawn x amount of providers using Docker."
+  },
+  {
+    "name": "Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack",
+    "url": "https://youtu.be/1UoZWC9XI2g",
+    "description": "Live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem."
+  },
+  {
+    "name": "Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack",
+    "url": "https://youtu.be/FmrdyU90NVE",
+    "description": "High-level overview and introduction to Golem as a project."
+  },
+  {
+    "name": "Golem Workshop at H3LLO Decentralization",
+    "url": "https://gist.github.com/zakaprov/5366bffa49b3c116748bf9b5b73c602c",
+    "description": "List of resources containing a live-coding hackathon workshop and relevant resources to help developers understand and requesting on Golem."
+  },
+  {
+    "name": "Mainnet Requestor quickstart Walk-through",
+    "url": "https://youtu.be/GcdTq3i_wdY",
+    "description": "Video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API."
+  },
+  {
+    "name": "Mainnet Provider quickstart Walk-through",
+    "url": "https://youtu.be/RITdKtEOV_E",
+    "description": "Video walk-through of the provider handbook guide to start sharing computational resources the Golem Network."
+  },
+  {
+    "name": "Unraveling Golem's The Next Milestone",
+    "url": "https://blog.golemproject.net/next-milestone",
+    "description": "Introduction to the Yagna implementation of Golem."
+  },
+  {
+    "name": "Unraveling Golem's The Next Milestone, Part II",
+    "url": "https://blog.golemproject.net/next-milestone-part-ii/",
+    "description": "Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna."
+  },
+  {
+    "name": "Unraveling Golem's The Next Milestone, Part III",
+    "url": "https://blog.golemproject.net/next-milestone-part-iii/",
+    "description": "The elements of Golem's reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network."
+  },
+  {
+    "name": "Golem GitHub Digest #1",
+    "url": "https://blog.golemproject.net/golem-github-digest-1/",
+    "description": "Understanding the Golem Repositories."
+  },
+  {
+    "name": "Golem GitHub Digest #2",
+    "url": "https://blog.golemproject.net/golem-github-digest-2/",
+    "description": "Diving into the Golem Repositories."
+  },
+  {
+    "name": "Golem GitHub Digest #3",
+    "url": "https://blog.golemproject.net/golem-github-digest-3/",
+    "description": "Diving into Pull Requests of the Golem repositories."
+  },
+  {
+    "name": "Golem GitHub Digest #4",
+    "url": "https://blog.golemproject.net/golem-github-digest-4/",
+    "description": "Diving into latest releases in the Golem repositories."
+  },
+  {
+    "name": "Golem GitHub Digest #5",
+    "url": "https://blog.golemproject.net/golem-github-digest-5/",
+    "description": "Diving into the Golem alpha testnet."
+  },
+  {
+    "name": "Golem GitHub Digest #6",
+    "url": "https://blog.golemproject.net/golem-github-digest-6/",
+    "description": "SGX proof-of-concept for Golem."
+  },
+  {
+    "name": "Golem GitHub Digest #7",
+    "url": "https://blog.golemproject.net/golem-github-digest-7/",
+    "description": "Decentralization of the Golem marketplace."
+  },
+  {
+    "name": "Golem GitHub Digest #8",
+    "url": "https://blog.golemproject.net/golem-github-digest-8/",
+    "description": "Awesome Golem and next steps to Alpha 3."
+  },
+  {
+    "name": "Golem GitHub Digest #9",
+    "url": "https://blog.golemproject.net/golem-github-digest-9/",
+    "description": "AMD provider support, network metrics and improved proposal handling."
+  },
+  {
+    "name": "Golem GitHub Digest #10",
+    "url": "https://blog.golemproject.net/golem-github-digest-10/",
+    "description": "Improvements from community feedback."
+  },
+  {
+    "name": "Golem GitHub Digest #11",
+    "url": "https://blog.golemproject.net/golem-github-digest-11/",
+    "description": "Easy log collection."
+  },
+  {
+    "name": "Golem GitHub Digest #12",
+    "url": "https://blog.golemproject.net/golem-github-digest-12/",
+    "description": "We are on MAINNET and gathering feedback."
+  },
+  {
+    "name": "Golem GitHub Digest #13",
+    "url": "https://blog.golemproject.net/golem-github-digest-13/",
+    "description": "Progressing faster with the help of the Golem community."
+  },
+  {
+    "name": "Golem GitHub Digest #14",
+    "url": "https://blog.golemproject.net/golem-github-digest-14/",
+    "description": "Towards the next major release."
+  },
+  {
+    "name": "Golem GitHub Digest #15",
+    "url": "https://blog.golemproject.net/golem-github-digest-15/",
+    "description": "Awesome, Goth improvements and towards Beta 3."
+  },
+  {
+    "name": "Golem GitHub Digest #16",
+    "url": "https://blog.golemproject.net/golem-github-digest-16/",
+    "description": "VPN, ARM binaries for requestors, and custom usage counters."
   },
   {
     "name": "Golem SLATE",
@@ -343,260 +533,5 @@
     "name": "golem-bulk-image-handler",
     "url": "https://github.com/figurestudios/golem-bulk-image-handler",
     "description": "Takes an input image and processes it in many different ways using the Pillow library."
-  },
-  {
-    "name": "GLM Rewards Program",
-    "url": "https://blog.golemproject.net/community-incentives-program/",
-    "description": "A program that incentivizes activity within development, support, content creation, and more."
-  },
-  {
-    "name": "Gitcoin Bounties",
-    "url": "https://gitcoin.co/golemfactory/bounties",
-    "description": "A collection of open bounties and hackathons hosted on Gitcoin."
-  },
-  {
-    "name": "Yagna handbook",
-    "url": "https://handbook.golem.network/",
-    "description": "Handbook for the Golem, implementation name, Yagna."
-  },
-  {
-    "name": "Yagna Python API docs",
-    "url": "https://yapapi.readthedocs.io/",
-    "description": "Documentation for Yapapi."
-  },
-  {
-    "name": "Releases List",
-    "url": "https://github.com/golemfactory/yagna/releases",
-    "description": "GitHub releases of Yagna."
-  },
-  {
-    "name": "Requestor flash tutorial",
-    "url": "https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development",
-    "description": "Get started quick and create your first tasks/request on Golem."
-  },
-  {
-    "name": "Yagna tag on Stack Overflow",
-    "url": "https://stackoverflow.com/questions/tagged/yagna",
-    "description": "Use the Yagna tag if you have an interesting question you'd like answered."
-  },
-  {
-    "name": "Breakdown of blender.js",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub",
-    "description": "JS guide for developers to get a better idea of how to run a task with the JavaScript API."
-  },
-  {
-    "name": "EasyYagnaJS",
-    "url": "https://github.com/figurestudios/easy-yagna-js",
-    "description": "Copies over Node.js dependencies directly to the provider, making developers not have to use Docker in their workflow."
-  },
-  {
-    "name": "push-gvmi",
-    "url": "https://github.com/figurestudios/push-gvmi",
-    "description": "A GitHub action that automatically builds and uploads the GVMI image to Golem plus a way to scrape the newest hash for local usage."
-  },
-  {
-    "name": "Provider Tutorial",
-    "url": "https://handbook.golem.network/provider-tutorials/provider-tutorial",
-    "description": "Get started as a Provider on Golem Network using the handbook."
-  },
-  {
-    "name": "Provider FAQ",
-    "url": "https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md",
-    "description": "Community curated list of commonly asked questions and answers."
-  },
-  {
-    "name": "Yagna-binaries for aarch64",
-    "url": "https://github.com/MarijnStevens/yagna-binaries",
-    "description": "Build for 64 bit arm architecture to be able to run as a provider on a system such as a Raspberry Pi."
-  },
-  {
-    "name": "Automatically update provider node prices",
-    "url": "https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c",
-    "description": "Script that checks the median of the prices on stats.golem.network and updates all 3 values on the provider node related to price."
-  },
-  {
-    "name": "Golem Price Updater",
-    "url": "https://github.com/jedbrooke/golem-price-updater",
-    "description": "Automatically adjust the price for your Golem node based on the current price of GLM."
-  },
-  {
-    "name": "Golem Provider dashboard",
-    "url": "https://github.com/vciancio/golem-dashboard",
-    "description": "ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them."
-  },
-  {
-    "name": "Golem Provider dashboard backend / GolemBar",
-    "url": "https://github.com/vciancio/golem-node-server",
-    "description": "Flask backend that collects the data from the provider that's then used with the dashboard project above."
-  },
-  {
-    "name": "Ansible ya_provider",
-    "url": "https://galaxy.ansible.com/golemfactory/ya_provider",
-    "description": "Ansible role that deploys a Golem provider automatically with minimal configuration required."
-  },
-  {
-    "name": "WSL",
-    "url": "https://github.com/r34x/WSL",
-    "description": "Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine."
-  },
-  {
-    "name": "Golem Provider Terraform",
-    "url": "https://github.com/nemani/golem-provider-terraform",
-    "description": "Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus."
-  },
-  {
-    "name": "Automatic Golem",
-    "url": "https://github.com/r34x/Automatic-Golem",
-    "description": "Setup a Golem Provider with simple instructions and logs guiding you through the process."
-  },
-  {
-    "name": "Golem Provider Node",
-    "url": "https://github.com/alexandre-abrioux/golem-node",
-    "description": "Docker version of a node to help you get started running as a provider in a Docker container quick."
-  },
-  {
-    "name": "Golem Provider node",
-    "url": "https://github.com/blue-notes-robot/golem-node",
-    "description": "Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn."
-  },
-  {
-    "name": "Scalable golem provider",
-    "url": "https://github.com/cryptobench/scaleable-golem-provider",
-    "description": "Spawn x amount of providers using Docker."
-  },
-  {
-    "name": "Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack",
-    "url": "https://youtu.be/1UoZWC9XI2g",
-    "description": "Live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem."
-  },
-  {
-    "name": "Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack",
-    "url": "https://youtu.be/FmrdyU90NVE",
-    "description": "High-level overview and introduction to Golem as a project."
-  },
-  {
-    "name": "Golem Workshop at H3LLO Decentralization",
-    "url": "https://gist.github.com/zakaprov/5366bffa49b3c116748bf9b5b73c602c",
-    "description": "List of resources containing a live-coding hackathon workshop and relevant resources to help developers understand and requesting on Golem."
-  },
-  {
-    "name": "Mainnet Requestor quickstart Walk-through",
-    "url": "https://youtu.be/GcdTq3i_wdY",
-    "description": "Video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API."
-  },
-  {
-    "name": "Mainnet Provider quickstart Walk-through",
-    "url": "https://youtu.be/RITdKtEOV_E",
-    "description": "Video walk-through of the provider handbook guide to start sharing computational resources the Golem Network."
-  },
-  {
-    "name": "Unraveling Golem's The Next Milestone",
-    "url": "https://blog.golemproject.net/next-milestone",
-    "description": "Introduction to the Yagna implementation of Golem."
-  },
-  {
-    "name": "Unraveling Golem's The Next Milestone, Part II",
-    "url": "https://blog.golemproject.net/next-milestone-part-ii/",
-    "description": "Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna."
-  },
-  {
-    "name": "Unraveling Golem's The Next Milestone, Part III",
-    "url": "https://blog.golemproject.net/next-milestone-part-iii/",
-    "description": "The elements of Golem's reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network."
-  },
-  {
-    "name": "Golem GitHub Digest #1",
-    "url": "https://blog.golemproject.net/golem-github-digest-1/",
-    "description": "Understanding the Golem Repositories."
-  },
-  {
-    "name": "Golem GitHub Digest #2",
-    "url": "https://blog.golemproject.net/golem-github-digest-2/",
-    "description": "Diving into the Golem Repositories."
-  },
-  {
-    "name": "Golem GitHub Digest #3",
-    "url": "https://blog.golemproject.net/golem-github-digest-3/",
-    "description": "Diving into Pull Requests of the Golem repositories."
-  },
-  {
-    "name": "Golem GitHub Digest #4",
-    "url": "https://blog.golemproject.net/golem-github-digest-4/",
-    "description": "Diving into latest releases in the Golem repositories."
-  },
-  {
-    "name": "Golem GitHub Digest #5",
-    "url": "https://blog.golemproject.net/golem-github-digest-5/",
-    "description": "Diving into the Golem alpha testnet."
-  },
-  {
-    "name": "Golem GitHub Digest #6",
-    "url": "https://blog.golemproject.net/golem-github-digest-6/",
-    "description": "SGX proof-of-concept for Golem."
-  },
-  {
-    "name": "Golem GitHub Digest #7",
-    "url": "https://blog.golemproject.net/golem-github-digest-7/",
-    "description": "Decentralization of the Golem marketplace."
-  },
-  {
-    "name": "Golem GitHub Digest #8",
-    "url": "https://blog.golemproject.net/golem-github-digest-8/",
-    "description": "Awesome Golem and next steps to Alpha 3."
-  },
-  {
-    "name": "Golem GitHub Digest #9",
-    "url": "https://blog.golemproject.net/golem-github-digest-9/",
-    "description": "AMD provider support, network metrics and improved proposal handling."
-  },
-  {
-    "name": "Golem GitHub Digest #10",
-    "url": "https://blog.golemproject.net/golem-github-digest-10/",
-    "description": "Improvements from community feedback."
-  },
-  {
-    "name": "Golem GitHub Digest #11",
-    "url": "https://blog.golemproject.net/golem-github-digest-11/",
-    "description": "Easy log collection."
-  },
-  {
-    "name": "Golem GitHub Digest #12",
-    "url": "https://blog.golemproject.net/golem-github-digest-12/",
-    "description": "We are on MAINNET and gathering feedback."
-  },
-  {
-    "name": "Golem GitHub Digest #13",
-    "url": "https://blog.golemproject.net/golem-github-digest-13/",
-    "description": "Progressing faster with the help of the Golem community."
-  },
-  {
-    "name": "Golem GitHub Digest #14",
-    "url": "https://blog.golemproject.net/golem-github-digest-14/",
-    "description": "Towards the next major release."
-  },
-  {
-    "name": "Golem GitHub Digest #15",
-    "url": "https://blog.golemproject.net/golem-github-digest-15/",
-    "description": "Awesome, Goth improvements and towards Beta 3."
-  },
-  {
-    "name": "Golem GitHub Digest #16",
-    "url": "https://blog.golemproject.net/golem-github-digest-16/",
-    "description": "VPN, ARM binaries for requestors, and custom usage counters."
-  },
-  {
-    "name": "Golem Network Discussion Group",
-    "url": "https://t.me/GolemProject",
-    "description": "Community driven Telegram channel."
-  },
-  {
-    "name": "Reddit Golem Stat Bot",
-    "url": "https://github.com/figurestudios/golem-stat-bot",
-    "description": "Scrapes Reddit posts on /r/GolemProject, and replies if specific keywords/commands are found."
-  },
-  {
-    "name": "Golem God",
-    "url": "https://github.com/Shreyas-Dev-ITB/Golem-God",
-    "description": "Gives out \"bot coins\" for activity, and lets users exchange and withdraw them to tokens when they have enough."
   }
 ]
