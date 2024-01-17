@@ -720,11 +720,6 @@
     "description": "data compression library for embedded/real-time systems  [ISC]"
   },
   {
-    "name": "PhysicsFS",
-    "url": "https://icculus.org/physfs/",
-    "description": "A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]"
-  },
-  {
     "name": "KArchive",
     "url": "https://api.kde.org/frameworks/karchive/html/index.html",
     "description": "A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]"
@@ -773,6 +768,11 @@
     "name": "minizip-ng",
     "url": "https://github.com/zlib-ng/minizip-ng",
     "description": "Fork of the popular zip manipulation library found in the zlib distribution. [zlib]"
+  },
+  {
+    "name": "PhysicsFS",
+    "url": "https://icculus.org/physfs/",
+    "description": "A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]"
   },
   {
     "name": "Rapidgzip",

@@ -5,9 +5,9 @@
     "description": "Learn the Golem platform on the official Golem Network website."
   },
   {
-    "name": "Golem Community Chat",
+    "name": "Golem Network Discord",
     "url": "https://chat.golem.network/",
-    "description": "Join the community and team open discussion on Discord."
+    "description": "Join the Golem Network community on Discord and chat directly with the team."
   },
   {
     "name": "Reddit",
@@ -42,7 +42,7 @@
   {
     "name": "Golem Docs",
     "url": "https://docs.golem.network/",
-    "description": "A creator's manual for Golem. By developers, for developers."
+    "description": "A manual for Golem (both for Requestors and Providers)."
   },
   {
     "name": "Python API Reference",
@@ -66,13 +66,8 @@
   },
   {
     "name": "Provider Tutorial",
-    "url": "https://handbook.golem.network/provider-tutorials/provider-tutorial",
+    "url": "https://docs.golem.network/docs/providers/provider-installation",
     "description": "Get started as a Provider on Golem Network using the handbook."
-  },
-  {
-    "name": "Provider FAQ",
-    "url": "https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md",
-    "description": "Community curated list of commonly asked questions and answers."
   },
   {
     "name": "Yagna-binaries for aarch64",
@@ -105,11 +100,6 @@
     "description": "Ansible role that deploys a Golem provider automatically with minimal configuration required."
   },
   {
-    "name": "WSL",
-    "url": "https://github.com/r34x/WSL",
-    "description": "Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine."
-  },
-  {
     "name": "Golem Provider Terraform",
     "url": "https://github.com/nemani/golem-provider-terraform",
     "description": "Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus."
@@ -130,34 +120,14 @@
     "description": "Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn."
   },
   {
-    "name": "Scalable golem provider",
-    "url": "https://github.com/cryptobench/scaleable-golem-provider",
-    "description": "Spawn x amount of providers using Docker."
+    "name": "Golem: Distributed parallel computing with JavaScript",
+    "url": "https://www.youtube.com/watch?v=2iUhqOJUsoI",
+    "description": "Presentation from Grzegorz Godlewski on Distributed Parallel Computing with JavaScript, based on Golem Network (meet.js Summit 2023)."
   },
   {
     "name": "Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack",
     "url": "https://youtu.be/1UoZWC9XI2g",
     "description": "Live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem."
-  },
-  {
-    "name": "Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack",
-    "url": "https://youtu.be/FmrdyU90NVE",
-    "description": "High-level overview and introduction to Golem as a project."
-  },
-  {
-    "name": "Golem Workshop at H3LLO Decentralization",
-    "url": "https://gist.github.com/zakaprov/5366bffa49b3c116748bf9b5b73c602c",
-    "description": "List of resources containing a live-coding hackathon workshop and relevant resources to help developers understand and requesting on Golem."
-  },
-  {
-    "name": "Mainnet Requestor quickstart Walk-through",
-    "url": "https://youtu.be/GcdTq3i_wdY",
-    "description": "Video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API."
-  },
-  {
-    "name": "Mainnet Provider quickstart Walk-through",
-    "url": "https://youtu.be/RITdKtEOV_E",
-    "description": "Video walk-through of the provider handbook guide to start sharing computational resources the Golem Network."
   },
   {
     "name": "Unraveling Golem's The Next Milestone",
@@ -253,11 +223,6 @@
     "name": "Golem GitHub Digest #16",
     "url": "https://blog.golemproject.net/golem-github-digest-16/",
     "description": "VPN, ARM binaries for requestors, and custom usage counters."
-  },
-  {
-    "name": "Golem SLATE",
-    "url": "https://golem-slate.xyz/",
-    "description": "Hosted code pen SPA for writing a requester script to have work computed by the network. Utilizes dockerized yagna environments to communicate with the Golem Network in the background."
   },
   {
     "name": "Chess On Golem",
@@ -440,11 +405,6 @@
     "description": "Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing."
   },
   {
-    "name": "ZKSync .csv export",
-    "url": "https://github.com/blue-notes-robot/zksync-csv-export",
-    "description": "Scrapes ZKSync to generate financial data in a .csv file."
-  },
-  {
     "name": "DeML-Golem",
     "url": "https://github.com/anshuman73/DeML-Golem",
     "description": "Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model."
@@ -481,7 +441,7 @@
   },
   {
     "name": "Yacat",
-    "url": "https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat",
+    "url": "https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat",
     "description": "Hashcat password-recovery step-by-step."
   },
   {
@@ -505,19 +465,9 @@
     "description": "List offers by providers on the Golem Network with a GUI."
   },
   {
-    "name": "Gc__gvmi_hash",
-    "url": "https://github.com/krunch3r76/gc__gvmi_hash",
-    "description": "Recalculate the hash of gvmi image file. Solves the issue of having lost the hash of a previously uploaded image or if you're unsure if a key corresponds to a specific image."
-  },
-  {
     "name": "gvm-vim",
     "url": "https://github.com/canokaue/gvm-vim",
     "description": "Golemized docker image for compiling the VIM editor."
-  },
-  {
-    "name": "YaJSapi fork with greeting example",
-    "url": "https://github.com/rezahsnz/yajsapi",
-    "description": "Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in examples/greetings."
   },
   {
     "name": "Golem Image Sharpening",

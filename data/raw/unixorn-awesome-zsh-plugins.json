@@ -4666,6 +4666,11 @@
     "description": "Zero is both a plugin and a theme. See the GitHub page for installation details. Includes git and hg status decorators."
   },
   {
+    "name": "zeza",
+    "url": "https://github.com/duggum/zeza",
+    "description": "Manages and customizes eza, the very colorful ls replacement."
+  },
+  {
     "name": "zflai",
     "url": "https://github.com/zdharma-continuum/zflai",
     "description": "A fast logging framework for ZSH."
@@ -8832,7 +8837,7 @@
   {
     "name": "pacmandoh",
     "url": "https://github.com/pacmandoh/omz-theme-pacmandoh",
-    "description": "Enhance your command-line with a sleek theme—Git integration, permissions feedback, Python environment support, and dynamic prompts, all in one, customizable with a single installation script and selectable styles"
+    "description": "Enhance your command-line with a sleek theme. Includes decorators for git integration, permissions feedback, Python environment support, and dynamic prompts, all in one, customizable with a single installation script and selectable styles."
   },
   {
     "name": "pad",

@@ -65,6 +65,11 @@
     "description": "kubectx helps you switch between clusters back and forth, and kubens helps you switch between Kubernetes namespaces smoothly."
   },
   {
+    "name": "kube-ps1",
+    "url": "https://github.com/jonmosco/kube-ps1",
+    "description": "kube-ps1: A script that lets you add the current Kubernetes context and namespace configured on kubectl to your Bash/Zsh prompt strings (i.e. the $PS1)."
+  },
+  {
     "name": "kubediff",
     "url": "https://github.com/weaveworks/kubediff",
     "description": "Kubediff is a tool for Kubernetes to show you the differences between your running configuration and your version controlled configuration."
@@ -200,6 +205,11 @@
     "description": "Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes."
   },
   {
+    "name": "Argocd autopilot",
+    "url": "https://github.com/argoproj-labs/argocd-autopilot",
+    "description": "The Argo-CD Autopilot is a tool which offers an opinionated way of installing Argo-CD and managing GitOps repositories."
+  },
+  {
     "name": "Flagger",
     "url": "https://github.com/weaveworks/flagger",
     "description": "Flagger is a progressive delivery tool that automates the release process for applications running on Kubernetes."
@@ -255,6 +265,11 @@
     "description": "Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise."
   },
   {
+    "name": "Otomi - Self-hosted PaaS for K8s",
+    "url": "https://github.com/redkubes/otomi-core",
+    "description": "Self-hosted PaaS for K8s 🔥🔥🔥🔥 - Otomi adds developer- and operations-centric tools, automation, and developer self-service on top of Kubernetes in any infrastructure or cloud, to code, build, release, deploy, secure, operate and monitor containerized applications."
+  },
+  {
     "name": "Clusterpedia",
     "url": "https://github.com/clusterpedia-io/clusterpedia",
     "description": "Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters."
@@ -288,6 +303,11 @@
     "name": "Liqo",
     "url": "https://github.com/liqotech/liqo",
     "description": "Liqo implements Dynamic resource sharing across different Kubernetes clusters (e.g.; offloading pods and services), supporting decentralized governance."
+  },
+  {
+    "name": "Meshery",
+    "url": "https://github.com/meshery/meshery",
+    "description": "Meshery is an open-source cloud-native manager that enables the design and management of all Kubernetes-based infrastructure and applications."
   },
   {
     "name": "Pluto",
@@ -375,6 +395,11 @@
     "description": "A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations."
   },
   {
+    "name": "loxilb",
+    "url": "https://github.com/loxilb-io/loxilb",
+    "description": "A Kubernetes service load-balancer based on eBPF."
+  },
+  {
     "name": "Longhorn",
     "url": "https://github.com/longhorn/longhorn",
     "description": "Longhorn is a distributed block storage system for Kubernetes."
@@ -388,6 +413,11 @@
     "name": "Rook",
     "url": "https://github.com/rook/rook",
     "description": "Rook is an open source cloud-native storage orchestrator for Kubernetes."
+  },
+  {
+    "name": "Chainsaw",
+    "url": "https://github.com/kyverno/chainsaw",
+    "description": "The ultimate end to end testing tool for Kubernetes operators."
   },
   {
     "name": "Chaos Mesh",
@@ -475,6 +505,11 @@
     "description": "BotKube integration with Slack or Mattermost helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendations for standard practices by running checks on the Kubernetes resources."
   },
   {
+    "name": "Canary Checker",
+    "url": "https://github.com/flanksource/canary-checker",
+    "description": "Canary Checker is a kubernetes-native health check platform with 30+ built-in health check types."
+  },
+  {
     "name": "Cortex",
     "url": "https://github.com/cortexproject/cortex",
     "description": "Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus."
@@ -483,6 +518,11 @@
     "name": "Goldilocks",
     "url": "https://github.com/FairwindsOps/goldilocks",
     "description": "Goldilocks is a utility that can help you identify a starting point for resource requests and limits."
+  },
+  {
+    "name": "Goldpinger",
+    "url": "https://github.com/bloomberg/goldpinger",
+    "description": "Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster."
   },
   {
     "name": "Grafana",
@@ -495,14 +535,14 @@
     "description": "The missing UI for Helm. The Helm Dashboard plugin offers a UI-driven way to view installed Helm charts, see their revision history and corresponding k8s resources."
   },
   {
-    "name": "k8s-image-availability-exporter",
-    "url": "https://github.com/flant/k8s-image-availability-exporter",
-    "description": "Prometheus exporter that warns you proactively about images that are defined in Kubernetes objects but are not available in the container registry."
-  },
-  {
     "name": "Kiali",
     "url": "https://github.com/kiali/kiali",
     "description": "Kiali works with Istio to visualise the service mesh topology."
+  },
+  {
+    "name": "k8s-image-availability-exporter",
+    "url": "https://github.com/flant/k8s-image-availability-exporter",
+    "description": "Prometheus exporter that warns you proactively about images that are defined in Kubernetes objects but are not available in the container registry."
   },
   {
     "name": "kube-capacity",
@@ -510,14 +550,19 @@
     "description": "This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster."
   },
   {
-    "name": "kube-state-metrics",
-    "url": "https://github.com/kubernetes/kube-state-metrics",
-    "description": "kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects."
-  },
-  {
     "name": "Kubernetes Dashboard",
     "url": "https://github.com/kubernetes/dashboard",
     "description": "Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters."
+  },
+  {
+    "name": "Kubedev",
+    "url": "https://github.com/relferreira/kubedev",
+    "description": "Kubedev is a powerful and beautiful user interface for managing Kubernetes clusters."
+  },
+  {
+    "name": "KubeHelper",
+    "url": "https://github.com/KubeHelper/kubehelper",
+    "description": "KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface."
   },
   {
     "name": "Kubernetes Metrics Server",
@@ -528,6 +573,11 @@
     "name": "Kubernetes Operational View",
     "url": "https://github.com/hjacobs/kube-ops-view",
     "description": "A tool that aims to provide a common operational picture for multiple Kubernetes clusters."
+  },
+  {
+    "name": "kube-state-metrics",
+    "url": "https://github.com/kubernetes/kube-state-metrics",
+    "description": "kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects."
   },
   {
     "name": "kubewatch",
@@ -573,16 +623,6 @@
     "name": "Thanos",
     "url": "https://github.com/thanos-io/thanos",
     "description": "Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity."
-  },
-  {
-    "name": "Kubedev",
-    "url": "https://github.com/relferreira/kubedev",
-    "description": "Kubedev is a powerful and beautiful user interface for managing Kubernetes clusters."
-  },
-  {
-    "name": "KubeHelper",
-    "url": "https://github.com/KubeHelper/kubehelper",
-    "description": "KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface."
   },
   {
     "name": "katafygio",
@@ -869,6 +909,11 @@
     "description": "OpenCost models give teams visibility into current and historical Kubernetes spend and resource allocation."
   },
   {
+    "name": "K8s-Cleaner",
+    "url": "https://github.com/gianlucam76/k8s-cleaner",
+    "description": "k8s-cleaner identifies and removes unused resources."
+  },
+  {
     "name": "K8sPurger",
     "url": "https://github.com/yogeshkk/K8sPurger",
     "description": "K8sPurger Hunt Unused Resources In Kubernetes."
@@ -882,6 +927,11 @@
     "name": "KubePug",
     "url": "https://github.com/rikatz/kubepug",
     "description": "A tool to check deprecations before upgrading Kubernetes version"
+  },
+  {
+    "name": "Kube No Trouble",
+    "url": "https://github.com/doitintl/kube-no-trouble",
+    "description": "Easily check your clusters for use of deprecated APIs"
   },
   {
     "name": "Shell-operator",
@@ -1046,11 +1096,6 @@
     "name": "Exposing an External IP Address to Access an Application in a Cluster",
     "url": "https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/",
     "description": "This guide shows how to create a Kubernetes Service object that exposes an external IP address."
-  },
-  {
-    "name": "Katacoda",
-    "url": "https://www.katacoda.com/courses/kubernetes/playground",
-    "description": "This is a Kubernetes playground, a safe place designed for experimenting, exploring and learning Kubernetes."
   },
   {
     "name": "kubectl Cheat Sheet",

@@ -901,6 +901,11 @@
     "description": "Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, etc."
   },
   {
+    "name": "arp-scan-rs",
+    "url": "https://github.com/kongbytes/arp-scan-rs",
+    "description": "A minimalistic ARP scan tool for fast local network scans"
+  },
+  {
     "name": "cargo-audit",
     "url": "https://crates.io/crates/cargo-audit",
     "description": "Audit Cargo.lock for crates with security vulnerabilities"

@@ -211,12 +211,17 @@
   {
     "name": "k6-template-es6",
     "url": "https://github.com/grafana/k6-template-es6",
-    "description": "Template repository for bundling test projects into single test scripts runnable by k6."
+    "description": "Starter template using Webpack and Babel to enable ES6 features in k6 tests."
   },
   {
     "name": "k6-typescript-template",
     "url": "https://github.com/grafana/k6-template-typescript",
-    "description": "Template to use TypeScript with k6."
+    "description": "Starter template using Webpack bundler to write k6 tests in TypeScript."
+  },
+  {
+    "name": "Jahmilli/k6-example",
+    "url": "https://github.com/Jahmilli/k6-example",
+    "description": "Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript."
   },
   {
     "name": "tom-miseur/k6-templates",
