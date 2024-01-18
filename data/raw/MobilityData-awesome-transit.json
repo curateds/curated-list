@@ -1248,6 +1248,11 @@
     "description": "Analyse, monitor and maintain GTFS data (Example instances)."
   },
   {
+    "name": "PTNA",
+    "url": "https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis",
+    "description": "Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM."
+  },
+  {
     "name": "GTFS-to-HTML",
     "url": "https://gtfstohtml.com",
     "description": "Generate human-readable timetables in HTML or PDF format directly from GTFS."

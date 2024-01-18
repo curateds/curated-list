@@ -820,6 +820,11 @@
     "description": "Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO)."
   },
   {
+    "name": "django-guest-user",
+    "url": "https://github.com/julianwachholz/django-guest-user",
+    "description": "Allow visitors to use your site like a regular user and register later."
+  },
+  {
     "name": "django-braces",
     "url": "https://github.com/brack3t/django-braces",
     "description": "Reusable, generic mixins."
@@ -1135,12 +1140,12 @@
     "description": "A popular Python podcast that features Django guests on occasion."
   },
   {
-    "name": "Django for Beginners: Build websites with Python and Django",
-    "url": "https://djangoforbeginners.com/"
-  },
-  {
     "name": "Boost Your Django DX",
     "url": "https://adamchainz.gumroad.com/l/byddx"
+  },
+  {
+    "name": "Django for Beginners: Build websites with Python and Django",
+    "url": "https://djangoforbeginners.com/"
   },
   {
     "name": "Django for APIs: Build web APIs with Python and Django",
@@ -1304,6 +1309,11 @@
     "name": "sidewinder",
     "url": "https://github.com/stribny/sidewinder/",
     "description": "A Django starter kit that focuses on good defaults, developer experience, and deployment."
+  },
+  {
+    "name": "Falco",
+    "url": "https://github.com/tobi-de/falco",
+    "description": "Enhance your Django developer experience: CLI and Guides for the Modern Django Developer."
   },
   {
     "name": "Blog app with users and forms",
