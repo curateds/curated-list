@@ -3696,6 +3696,11 @@
     "description": "Add safe-rm functionality so that rm will put files in your OS' trash instead of permanently deleting them."
   },
   {
+    "name": "sail",
+    "url": "https://github.com/Razzaghnoori/Sailor/",
+    "description": "Adds convenience aliases for sail."
+  },
+  {
     "name": "saml2aws-auto",
     "url": "https://github.com/devndive/zsh-saml2aws-auto",
     "description": "When using multiple AWS profiles, e.g. different accounts for your stages (development, pre-prod, prod), can be used to determine which profile is currently exported and if the token is still valid."
@@ -7958,6 +7963,11 @@
     "name": "kraken",
     "url": "https://github.com/KrakenTheme/kraken-zsh",
     "description": "A dark theme for ZSH."
+  },
+  {
+    "name": "ksposh",
+    "url": "https://github.com/KSposh/ksposh-zsh-theme",
+    "description": "Includes decorators for python virtual environment, git information, current directory and username."
   },
   {
     "name": "kube",

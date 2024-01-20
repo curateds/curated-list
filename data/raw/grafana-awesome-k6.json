@@ -219,6 +219,11 @@
     "description": "Starter template using Webpack bundler to write k6 tests in TypeScript."
   },
   {
+    "name": "k6-rollup-example",
+    "url": "https://github.com/grafana/k6-rollup-example",
+    "description": "Example using Rollup to bundle k6 tests."
+  },
+  {
     "name": "Jahmilli/k6-example",
     "url": "https://github.com/Jahmilli/k6-example",
     "description": "Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript."

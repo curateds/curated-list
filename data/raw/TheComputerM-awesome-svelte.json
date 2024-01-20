@@ -54,11 +54,6 @@
     "description": "DigitalOcean."
   },
   {
-    "name": "Building My First Svelte App",
-    "url": "https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions",
-    "description": "Scotch.io."
-  },
-  {
     "name": "Develop a complete application with Svelte and TypeScript",
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started",
     "description": "MDN Web Docs."
@@ -244,8 +239,13 @@
     "description": "Svelte implementation of the IBM Carbon Design System."
   },
   {
+    "name": "Melt UI",
+    "url": "https://github.com/melt-ui/melt-ui",
+    "description": "A collection of accessible, reusable, and composable headless component builders and utilities."
+  },
+  {
     "name": "Radix Svelte",
-    "url": "https://github.com/TGlide/radix-svelte",
+    "url": "https://github.com/radix-svelte/radix-svelte",
     "description": "An unofficial community-led Svelte port of Radix UI Primitives"
   },
   {

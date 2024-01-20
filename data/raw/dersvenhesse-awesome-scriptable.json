@@ -225,6 +225,11 @@
     "description": "Status of build plans from Bamboo."
   },
   {
+    "name": "github-contributions",
+    "url": "https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js",
+    "description": "GitHub contributions heatmap on your lockscreen."
+  },
+  {
     "name": "gitlab-stats-for-scribtable",
     "url": "https://github.com/p0fi/gitlab-stats-for-scribtable",
     "description": "Statistics from GitLab like the number of assigned merge requests."

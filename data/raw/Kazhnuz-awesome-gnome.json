@@ -110,6 +110,11 @@
     "description": "PDF metadata editor."
   },
   {
+    "name": "RNote",
+    "url": "https://github.com/flxzt/rnote",
+    "description": "Sketch and take handwritten notes."
+  },
+  {
     "name": "Solanum",
     "url": "https://apps.gnome.org/app/org.gnome.Solanum/",
     "description": "Balance working time and break time."
@@ -310,6 +315,11 @@
     "description": "Simple graph plotting."
   },
   {
+    "name": "Graphs",
+    "url": "https://apps.gnome.org/Graphs/",
+    "description": "Plot and manipulate data."
+  },
+  {
     "name": "Lutris",
     "url": "https://github.com/lutris/lutris",
     "description": "Open Source gaming platform."
@@ -498,6 +508,11 @@
     "name": "File Shredder",
     "url": "https://apps.gnome.org/app/com.github.ADBeveridge.Raider/",
     "description": "Securely delete your files."
+  },
+  {
+    "name": "Key Rack",
+    "url": "https://gitlab.gnome.org/sophie-h/key-rack",
+    "description": "Tool that allows to view and edit keys, like passwords or tokens, stored by apps."
   },
   {
     "name": "GNOME Builder",
@@ -842,6 +857,11 @@
     "name": "Firefox GNOME Theme",
     "url": "https://github.com/rafaelmardojai/firefox-gnome-theme",
     "description": "Integrate Firefox into GNOME-based desktop using Adwaita."
+  },
+  {
+    "name": "Thunderbird GNOME Theme",
+    "url": "https://github.com/rafaelmardojai/thunderbird-gnome-theme",
+    "description": "Integrate Thunderbird into GNOME-based desktop using Adwaita."
   },
   {
     "name": "Obsidian Adwaita Theme",
