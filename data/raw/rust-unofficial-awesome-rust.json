@@ -209,7 +209,7 @@
   },
   {
     "name": "beerus",
-    "url": "https://github.com/keep-starknet-strange/beerus",
+    "url": "https://github.com/eigerco/beerus",
     "description": "Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀"
   },
   {
@@ -458,6 +458,11 @@
     "name": "Qdrant",
     "url": "https://github.com/qdrant/qdrant",
     "description": "An open source vector similarity search engine with extended filtering support"
+  },
+  {
+    "name": "Qrlew/qrlew",
+    "url": "https://github.com/Qrlew/qrlew",
+    "description": "The SQL-to-SQL Differential Privacy layer"
   },
   {
     "name": "RisingWaveLabs/RisingWave",
@@ -1618,10 +1623,6 @@
   {
     "name": "Rust Search Extension",
     "url": "https://github.com/huhu/rust-search-extension"
-  },
-  {
-    "name": "rust-lang/rustfix",
-    "url": "https://github.com/rust-lang/rustfix"
   },
   {
     "name": "Rustup",
@@ -4655,12 +4656,12 @@
     "url": "https://github.com/raphlinus/pulldown-cmark"
   },
   {
-    "name": "ivanschuetz/rust_android_ios",
-    "url": "https://github.com/ivanschuetz/rust_android_ios"
+    "name": "owlmafia/rust_android_ios",
+    "url": "https://github.com/owlmafia/rust_android_ios"
   },
   {
-    "name": "ivanschuetz/rust_android_ios",
-    "url": "https://github.com/ivanschuetz/rust_android_ios"
+    "name": "owlmafia/rust_android_ios",
+    "url": "https://github.com/owlmafia/rust_android_ios"
   },
   {
     "name": "Geal/rust_on_mobile",

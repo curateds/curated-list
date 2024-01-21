@@ -1240,19 +1240,9 @@
     "description": "A fast, SQLite-powered forum engine written in ASM. (Source Code) EUPL-1.2 Assembly"
   },
   {
-    "name": "Buddycloud",
-    "url": "http://buddycloud.com/",
-    "description": "Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. (Source Code) Apache-2.0 Java"
-  },
-  {
     "name": "BuddyPress",
     "url": "https://buddypress.org/about/",
     "description": "Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. (Source Code) GPL-2.0 PHP"
-  },
-  {
-    "name": "Cactus Comments",
-    "url": "https://cactus.chat/",
-    "description": "Cactus Comments is a federated comment system for the open web built on Matrix. (Demo, Source Code) GPL-3.0 Docker/Python"
   },
   {
     "name": "Chirpy",
@@ -2410,6 +2400,11 @@
     "description": "The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). ISC Nodejs/Docker"
   },
   {
+    "name": "Chibisafe",
+    "url": "https://chibisafe.moe",
+    "description": "File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. (Source Code) MIT Docker/Nodejs"
+  },
+  {
     "name": "elixire",
     "url": "https://elixi.re",
     "description": "Simple yet advanced screenshot uploading and link shortening service. (Source Code, Clients) AGPL-3.0 Python"
@@ -2766,7 +2761,7 @@
   },
   {
     "name": "Gramps Web",
-    "url": "https://gramps-project.github.io/web/",
+    "url": "https://www.grampsweb.org/",
     "description": "Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. (Demo, Source Code) AGPL-3.0 Docker"
   },
   {
@@ -2838,6 +2833,11 @@
     "name": "Tracim",
     "url": "https://github.com/tracim/tracim",
     "description": "Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. AGPL-3.0/LGPL-3.0/MIT Python"
+  },
+  {
+    "name": "Twenty",
+    "url": "https://twenty.com",
+    "description": "A modern CRM offering the flexibility of open source, advanced features, and a sleek design. (Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "Zimbra Collaboration",
@@ -4200,6 +4200,11 @@
     "description": "A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. (Demo) MIT Nodejs/Docker"
   },
   {
+    "name": "ybFeed",
+    "url": "https://github.com/ybizeul/ybFeed",
+    "description": "ybFeed is a personal micro feed where you can post snippets of text or images. MIT Go/Nodejs/Docker"
+  },
+  {
     "name": "Dashy",
     "url": "https://github.com/lissy93/dashy",
     "description": "Feature-rich homepage for your homelab, with easy YAML configuration. (Demo) MIT Nodejs/Docker"
@@ -5337,7 +5342,7 @@
   {
     "name": "Bugzilla",
     "url": "https://www.bugzilla.org/",
-    "description": "General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. MPL-2.0 Perl"
+    "description": "General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. (Source Code) MPL-2.0 Perl"
   },
   {
     "name": "Erxes",

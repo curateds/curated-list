@@ -310,6 +310,11 @@
     "description": "Contributing to Prometheus by Atibhi Agrawal."
   },
   {
+    "name": "Simple Prometheus queries for metrics inspection",
+    "url": "https://mkaz.me/blog/2023/simple-prometheus-queries-for-metrics-inspection/",
+    "description": "Overview of PromQL queries that help to identify high cardinality metrics by Michal Kazmierczak."
+  },
+  {
     "name": "Ansitheus",
     "url": "https://github.com/ntk148v/ansitheus",
     "description": "Ansible playbook to containerize, configure and deploy Prometheus ecosystem by ntk148v."
