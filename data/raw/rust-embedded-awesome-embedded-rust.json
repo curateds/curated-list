@@ -477,16 +477,8 @@
   },
   {
     "name": "j71xx-pac",
-    "url": "https://github.com/rmsyn/jh71xx-pac",
+    "url": "https://crates.io/crates/jh71xx-pac",
     "description": "svd2rust generated interface to StarFive JH71xx MCUs -"
-  },
-  {
-    "name": "jh7110-vf2-12a-pac",
-    "url": "https://crates.io/crates/jh7110-vf2-12a-pac"
-  },
-  {
-    "name": "jh7110-vf2-13b-pac",
-    "url": "https://crates.io/crates/jh7110-vf2-13b-pac"
   },
   {
     "name": "stm32f0",
@@ -940,6 +932,11 @@
   {
     "name": "da14531-hal",
     "url": "https://crates.io/crates/da14531-hal"
+  },
+  {
+    "name": "j71xx-hal",
+    "url": "https://crates.io/crates/jh71xx-hal",
+    "description": "HAL crate for StarFive JH71xx MCUs -"
   },
   {
     "name": "cortex-a",

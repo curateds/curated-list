@@ -180,6 +180,24 @@
     "description": "A fork of OpenBoard with many additional features and improvements. Releases are in a beta state."
   },
   {
+    "name": "privacy policy",
+    "url": "https://policies.google.com/privacy?hl=en-US#infocollect"
+  },
+  {
+    "name": "examples list",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01"
+  },
+  {
+    "name": "Aves",
+    "url": "https://github.com/deckerst/aves",
+    "description": "Beautiful gallery and metadata explorer app, built for Android with Flutter."
+  },
+  {
+    "name": "Fossify Gallery",
+    "url": "https://github.com/FossifyOrg/Gallery",
+    "description": "Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery."
+  },
+  {
     "name": "Lawnchair",
     "url": "https://lawnchair.app/",
     "description": "No clever tagline needed."
@@ -1569,14 +1587,19 @@
     "description": "An open source, non-custodial, privacy-focused Bitcoin wallet available on Desktop."
   },
   {
-    "name": "My Expenses",
-    "url": "https://github.com/mtotschnig/MyExpenses",
-    "description": "Featureful GPL licenced Android Expense Tracking App."
+    "name": "Budget Zen",
+    "url": "https://budgetzen.net",
+    "description": "Simple and Encrypted Budget Management."
   },
   {
-    "name": "ProExpense",
-    "url": "https://github.com/arduia/ProExpense/",
-    "description": "A simple free finance note to safely record daily expenses."
+    "name": "Debitum",
+    "url": "https://github.com/Marmo/debitum",
+    "description": "With Debitum you can track all kinds of IOUs, be it money or lent items."
+  },
+  {
+    "name": "GnuCash",
+    "url": "https://gnucash.org/",
+    "description": "GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows."
   },
   {
     "name": "IHateMoney",
@@ -1584,9 +1607,14 @@
     "description": "Manage your shared expenses, easily."
   },
   {
-    "name": "Debitum",
-    "url": "https://github.com/Marmo/debitum",
-    "description": "With Debitum you can track all kinds of IOUs, be it money or lent items."
+    "name": "MoneyBuster",
+    "url": "https://gitlab.com/eneiluj/moneybuster/",
+    "description": "Android client for Nextcloud Cospend and IHateMoney servers."
+  },
+  {
+    "name": "My Expenses",
+    "url": "https://github.com/mtotschnig/MyExpenses",
+    "description": "Featureful GPL licenced Android Expense Tracking App."
   },
   {
     "name": "Nextcloud Cospend",
@@ -1599,14 +1627,9 @@
     "description": "Android client for Nextcloud Cospend and IHateMoney servers."
   },
   {
-    "name": "GnuCash",
-    "url": "https://gnucash.org/",
-    "description": "GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows."
-  },
-  {
-    "name": "Budget Zen",
-    "url": "https://budgetzen.net",
-    "description": "Simple and Encrypted Budget Management."
+    "name": "ProExpense",
+    "url": "https://github.com/arduia/ProExpense/",
+    "description": "A simple free finance note to safely record daily expenses."
   },
   {
     "name": "Rotki",

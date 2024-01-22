@@ -962,6 +962,11 @@
     "url": "https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php"
   },
   {
+    "name": "denops-docker.vim",
+    "url": "https://github.com/skanehira/denops-docker.vim",
+    "description": "Manage docker containers and images in Vim. By @skanehira"
+  },
+  {
     "name": "docker.vim",
     "url": "https://github.com/skanehira/docker.vim",
     "description": "Manage docker containers and images in Vim. By @skanehira"
@@ -1241,6 +1246,11 @@
     "name": "Kubevious",
     "url": "https://github.com/kubevious/kubevious",
     "description": "A highly visual web UI for Kubernetes which renders configuration and state in an application centric way by @rubenhak."
+  },
+  {
+    "name": "Mafl",
+    "url": "https://github.com/hywax/mafl",
+    "description": "Minimalistic flexible homepage by @hywax"
   },
   {
     "name": "netdata",
@@ -1698,6 +1708,16 @@
   {
     "name": "GCE Container Registry 💲",
     "url": "https://cloud.google.com/artifact-registry"
+  },
+  {
+    "name": "Gitea Container Registry",
+    "url": "https://docs.gitea.com/usage/packages/container",
+    "description": "Integrated Docker registry in Gitea, ideal for private, small-scale image hosting."
+  },
+  {
+    "name": "GitHub Container Registry",
+    "url": "https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry",
+    "description": "GitHub's solution for storing and managing Docker images, with tight integration into GitHub Actions."
   },
   {
     "name": "GitLab Container Registry",

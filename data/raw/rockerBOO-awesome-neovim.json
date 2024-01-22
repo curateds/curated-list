@@ -2305,6 +2305,11 @@
     "description": "A fancy, configurable, notification manager."
   },
   {
+    "name": "echasnovski/mini.nvim#mini.notify",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md",
+    "description": "Module of mini.nvim to show one or more highlighted notifications in a single window. Provides maker of vim.notify() implementation and sets up automated LSP progress updates."
+  },
+  {
     "name": "folke/noice.nvim",
     "url": "https://github.com/folke/noice.nvim",
     "description": "Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu."
