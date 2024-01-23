@@ -62,7 +62,7 @@
   {
     "name": "Cyber Triage",
     "url": "http://www.cybertriage.com",
-    "description": "Cyber Triage remotely collects and analyzes endpoint data to help determine if it is compromised.  It’s agentless approach and focus on ease of use and automation allows companies to respond without major infrastructure changes and without a team of forensics experts.  Its results are used to decide if the system should be erased or investigated further."
+    "description": "Cyber Triage collects and analyzes host data to determine if it is compromised. It's scoring system and recommendation engine allow you to quickly focus on the important artifacts. It can import data from its collection tool, disk images, and other collectors (such as KAPE). It can run on an examiner's desktop or in a server model. Developed by Sleuth Kit Labs, which also makes Autopsy."
   },
   {
     "name": "Dissect",
@@ -1017,6 +1017,11 @@
     "name": "Crowd Response",
     "url": "http://www.crowdstrike.com/community-tools/",
     "description": "Lightweight Windows console application designed to aid in the gathering of system information for incident response and security engagements. It features numerous modules and output formats."
+  },
+  {
+    "name": "Cyber Triage",
+    "url": "http://www.cybertriage.com",
+    "description": "Cyber Triage has a lightweight collection tool that is free to use. It collects source files (such as registry hives and event logs), but also parses them on the live host so that it can also collect the executables that the startup items, scheduled, tasks, etc. refer to. It's output is a JSON file that can be imported into the free version of Cyber Triage. Cyber Triage is made by Sleuth Kit Labs, which also makes Autopsy."
   },
   {
     "name": "DFIR ORC",

@@ -150,6 +150,11 @@
     "description": "Sane and flexible OpenAPI 3 schema generation for Django REST framework."
   },
   {
+    "name": "django-webhook",
+    "url": "https://github.com/danihodovic/django-webhook",
+    "description": "A plug-and-play Django app for sending outgoing webhooks on model changes."
+  },
+  {
     "name": "channels",
     "url": "https://github.com/django/channels/",
     "description": "Async support for Django."
@@ -1198,6 +1203,10 @@
   {
     "name": "Microsoft Azure",
     "url": "https://azure.microsoft.com/en-us/develop/python/"
+  },
+  {
+    "name": "Piku",
+    "url": "https://github.com/piku/piku"
   },
   {
     "name": "Platform.sh",

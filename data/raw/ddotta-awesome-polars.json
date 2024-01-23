@@ -86,6 +86,11 @@
     "description": "Polars extension that offers utilities for business day operations with Polars and Python by @MarcoGorelli."
   },
   {
+    "name": "Ibis Python package for Polars",
+    "url": "https://ibis-project.org/backends/polars",
+    "description": "Ibis is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."

@@ -416,6 +416,11 @@
     "description": "Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux."
   },
   {
+    "name": "PiKISS",
+    "url": "https://github.com/jmcerrejon/PiKISS",
+    "description": "A bunch of scripts with menu to make your life easier."
+  },
+  {
     "name": "Pimod",
     "url": "https://github.com/Nature40/pimod",
     "description": "Reconfigure Raspberry Pi images with an easy, Docker-like configuration file."
@@ -434,6 +439,11 @@
     "name": "PiVPN",
     "url": "https://pivpn.io",
     "description": "Create a full-featured OpenVPN/WireGuard VPN Server with a single bash command."
+  },
+  {
+    "name": "PiGro",
+    "url": "https://github.com/actionschnitzel/PiGro-Aid-",
+    "description": "PiGro does many commands that have to be entered via the terminal with one or two clicks of a button."
   },
   {
     "name": "Pi-Apps",

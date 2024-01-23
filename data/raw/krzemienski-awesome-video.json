@@ -196,12 +196,12 @@
   },
   {
     "name": "matmoi/create-DASH-HLS",
-    "url": "https://github.com/matmoi/create-DASH-HLS/",
+    "url": "https://github.com/matmoi/create-DASH-HLS",
     "description": "A tutorial to generate fMp4 files compatible with dash and HLS - matmoi/create-DASH-HLS"
   },
   {
     "name": "matmoi/create-DASH-HLS",
-    "url": "https://github.com/matmoi/create-DASH-HLS",
+    "url": "https://github.com/matmoi/create-DASH-HLS/",
     "description": "A tutorial to generate fMp4 files compatible with dash and HLS - matmoi/create-DASH-HLS"
   },
   {
@@ -243,6 +243,11 @@
     "name": "Digital Video and HD: Algorithms and Interfaces",
     "url": "https://www.amazon.com/dp/0123919266/",
     "description": "2012-02-07 (2nd Edition). Poynton, Charles."
+  },
+  {
+    "name": "Fundamentals of Multimedia",
+    "url": "https://www.amazon.com/Fundamentals-Multimedia-Texts-Computer-Science/dp/303062126X/",
+    "description": "2022-02-17 (3rd Edition). Ze-Nian Li (Author), Mark S. Drew (Author), Jiangchuan Liu."
   },
   {
     "name": "High Efficiency Video Coding (HEVC): Algorithms and Architectures (Integrated Circuits and Systems)",
@@ -419,12 +424,12 @@
   },
   {
     "name": "Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming",
-    "url": "https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1559724204&_branch_match_id=664738392430917730",
+    "url": "https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1560983627&_branch_match_id=670020794794030328",
     "description": "In this blog article Jonas Rydholm Birmé describes how he created a server-less just-in-time packaging origin, using AWS ECS Fargate tasks…"
   },
   {
     "name": "Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming",
-    "url": "https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1560983627&_branch_match_id=670020794794030328",
+    "url": "https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1559724204&_branch_match_id=664738392430917730",
     "description": "In this blog article Jonas Rydholm Birmé describes how he created a server-less just-in-time packaging origin, using AWS ECS Fargate tasks…"
   },
   {
@@ -1046,7 +1051,7 @@
   {
     "name": "Vilsol/Transcoder",
     "url": "https://github.com/Vilsol/Transcoder",
-    "description": "Docker container to transcode videos in mounted volume to H265 using FFMPEG - Vilsol/Transcoder [unmaintained]"
+    "description": "Docker container to transcode videos in mounted volume to H265 using FFMPEG - Vilsol/Transcoder"
   },
   {
     "name": "Zulko/moviepy",
@@ -1105,6 +1110,11 @@
     "name": "cannonbeach/ott-packager",
     "url": "https://github.com/cannonbeach/ott-packager",
     "description": "OTT/ABR streaming encoder (H264/HEVC) and packager for DASH and HLS - cannonbeach/ott-packager"
+  },
+  {
+    "name": "cbsinteractive/transcode-orchestrator",
+    "url": "https://github.com/cbsinteractive/transcode-orchestrator",
+    "description": "Agnostic API orchestrating the transcoding of media assets across various cloud providers, previously https://github.com/cbsinteractive/video-transcoding-api - cbsinteractive/transcode-orchestrator"
   },
   {
     "name": "chn-lee-yumi/distributed_ffmpeg_transcoding_cluster: 分布式FFMpeg转码集群。A FFMpeg transcoding cluster runs in variable CPUs, including ARM, x86, and others which can run linux. You can use it to run a RaspberryPi cluster.",
@@ -1213,6 +1223,11 @@
     "description": "Quickly transcode a source video to MP4, OGV, and WebM, with scale, bitrate, and screengrab options. - monking/transcode-web-video"
   },
   {
+    "name": "natsuite/NatReader-API",
+    "url": "https://github.com/natsuite/NatReader-API",
+    "description": "NatReader is a cross-platform video decoding API designed for transcoding applications. - natsuite/NatReader-API"
+  },
+  {
     "name": "olaris / olaris-server",
     "url": "https://gitlab.com/olaris/olaris-server",
     "description": "GitLab.com"
@@ -1226,6 +1241,11 @@
     "name": "quarkscript/media_works",
     "url": "https://github.com/quarkscript/media_works",
     "description": "Transcode video by ffmpeg with nvenc; normalize the volume; force dynamic range compression to the volume - quarkscript/media_works"
+  },
+  {
+    "name": "realeyes-media/demo-encoder",
+    "url": "https://github.com/realeyes-media/demo-encoder",
+    "description": "A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder"
   },
   {
     "name": "realeyes-media/demo-encoder",
@@ -1309,11 +1329,6 @@
     "name": "Alkl58/NotEnoughAV1Encodes",
     "url": "https://github.com/Alkl58/NotEnoughAV1Encodes",
     "description": "GUI Handler for AV1 Encoders (aomenc, rav1e & svt-av1) - Alkl58/NotEnoughAV1Encodes"
-  },
-  {
-    "name": "Analysis of AV1 Encoding Tools & libaom Case Study",
-    "url": "https://visionular.io/performance-analysis-of-av1-encoding-tools-libaom-case-study/",
-    "description": "This article provides a performance analysis of AV1 encoding tools."
   },
   {
     "name": "Eyevinn/av1-player",
@@ -1510,7 +1525,7 @@
   },
   {
     "name": "prologic/tube",
-    "url": "https://git.mills.io/prologic/tube",
+    "url": "https://github.com/prologic/tube",
     "description": "📺 a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and R..."
   },
   {
@@ -1676,9 +1691,9 @@
     "description": "⚡A curated list of awesome resources for building Smart TV apps - vitalets/awesome-smart-tv"
   },
   {
-    "name": "androidx/media",
-    "url": "https://github.com/androidx/media",
-    "description": "Collection of Android libraries implementing video playback and editing, media sessions and more. Formerly known as google/ExoPlayer."
+    "name": "google/ExoPlayer",
+    "url": "https://github.com/google/ExoPlayer",
+    "description": "ExoPlayer is an application level media player for Android."
   },
   {
     "name": "mkaflowski/HybridMediaPlayer",
@@ -2160,7 +2175,7 @@
   {
     "name": "FallingSnow/h265ize",
     "url": "https://github.com/FallingSnow/h265ize",
-    "description": "A node utility utilizing ffmpeg to encode videos with the hevc codec. - FallingSnow/h265ize [unmaintained]"
+    "description": "A node utility utilizing ffmpeg to encode videos with the hevc codec. - FallingSnow/h265ize"
   },
   {
     "name": "Generate MPEG-TS from file with ffmpeg",
@@ -2224,7 +2239,7 @@
   {
     "name": "VCDP/FFmpeg-patch",
     "url": "https://github.com/VCDP/FFmpeg-patch",
-    "description": "This repository contains a collection of FFmpeg* patches and samples to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in FFmpeg* framew... [unmaintained]"
+    "description": "This repository contains a collection of FFmpeg* patches and samples to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in FFmpeg* framew..."
   },
   {
     "name": "WritingMinds/ffmpeg-android-java",
@@ -2260,6 +2275,16 @@
     "name": "compile and install latest ffmpeg source as pkg",
     "url": "https://gist.github.com/krzemienski/e51a0b7a6ba77e616f954e516783270c#file-compile-and-install-latest-ffmpeg-source-sh-L2",
     "description": "compile and install latest ffmpeg source as pkg. GitHub Gist: instantly share code, notes, and snippets."
+  },
+  {
+    "name": "cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile · master · nvidia / container-images / samples",
+    "url": "https://gitlab.com/nvidia/container-images/samples/blob/master/cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile",
+    "description": "Sample Dockerfiles for Docker Hub images"
+  },
+  {
+    "name": "dschere/industrial-ffmpeg",
+    "url": "https://github.com/dschere/industrial-ffmpeg",
+    "description": "A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video - dschere/industrial-ffmpeg"
   },
   {
     "name": "ffmprovisr",
@@ -2412,6 +2437,11 @@
     "name": "videomorph-dev/videomorph",
     "url": "https://github.com/videomorph-dev/videomorph",
     "description": "A user-friendly Video Converter based on FFMPEG and writen in Python/PyQt5. - videomorph-dev/videomorph"
+  },
+  {
+    "name": "x264 FFmpeg Options Guide - Linux Encoding",
+    "url": "https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping",
+    "description": "Linux Encoding  -"
   },
   {
     "name": "Adjust and Normalize Your Music Files with FFMPEG - Make Tech Easier",
@@ -3218,11 +3248,6 @@
     "name": "watson-developer-cloud/text-to-speech-nodejs",
     "url": "https://github.com/watson-developer-cloud/text-to-speech-nodejs",
     "description": "🔈 Sample Node.js Application for the IBM Watson Text to Speech Service - watson-developer-cloud/text-to-speech-nodejs"
-  },
-  {
-    "name": "wangyoucao577/plot-av",
-    "url": "https://github.com/wangyoucao577/plot-av",
-    "description": "Plot Audio/Video streams for better insights."
   },
   {
     "name": "Advanced Encryption Techniques: ContentProtection Tags for MPDs and PSSH Boxes for DASH.",

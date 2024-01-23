@@ -90,6 +90,11 @@
     "description": "Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant."
   },
   {
+    "name": "Kinde",
+    "url": "https://kinde.com/",
+    "description": "Authentification and user management as a service."
+  },
+  {
     "name": "LoginRadius",
     "url": "https://www.loginradius.com/",
     "description": "Managed user authentication service with SSO."
@@ -143,6 +148,16 @@
     "name": "Trigger.dev",
     "url": "http://trigger.dev/",
     "description": "Open-source platform to create workflows from APIs, on a schedule or on demand."
+  },
+  {
+    "name": "Appwrite",
+    "url": "https://appwrite.io/",
+    "description": "End-to-end backend server for frontend and mobile developers."
+  },
+  {
+    "name": "Supabase",
+    "url": "https://supabase.io/",
+    "description": "Hosted and open source managed Postgres DB like Firebase."
   },
   {
     "name": "CircleCI",
@@ -248,11 +263,6 @@
     "name": "PlanetScale",
     "url": "https://planetscale.com/",
     "description": "Hosted managed MySQL database, CI integration & auto scaling."
-  },
-  {
-    "name": "Supabase",
-    "url": "https://supabase.io/",
-    "description": "Hosted and open source managed postgres DB like firebase."
   },
   {
     "name": "Upstash",

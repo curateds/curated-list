@@ -2091,16 +2091,6 @@
     "description": "A package for parsing ECMAScript 3. zlib."
   },
   {
-    "name": "Wuwei",
-    "url": "https://github.com/mtravers/wuwei/",
-    "description": "A toolkit to build Ajax-based web pages. MIT."
-  },
-  {
-    "name": "SmackJack",
-    "url": "https://github.com/aarvid/SmackJack",
-    "description": "An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. MIT."
-  },
-  {
     "name": "remote-js",
     "url": "https://github.com/ceramic/remote-js",
     "description": "send JavaScript from Common Lisp to a browser. MIT."
