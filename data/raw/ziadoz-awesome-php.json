@@ -660,11 +660,6 @@
     "description": "An expressive fixture generation library."
   },
   {
-    "name": "AspectMock",
-    "url": "https://github.com/Codeception/AspectMock",
-    "description": "A mocking framework for PHPUnit/Codeception."
-  },
-  {
     "name": "Atoum",
     "url": "https://github.com/atoum/atoum",
     "description": "A simple testing library."
@@ -713,6 +708,11 @@
     "name": "Mockery",
     "url": "https://github.com/mockery/mockery",
     "description": "A mock object library for testing."
+  },
+  {
+    "name": "Nette Tester",
+    "url": "https://github.com/nette/tester",
+    "description": "A productive and enjoyable parallel unit testing framework."
   },
   {
     "name": "ParaTest",

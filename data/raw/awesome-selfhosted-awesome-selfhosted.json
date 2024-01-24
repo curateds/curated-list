@@ -686,7 +686,7 @@
   },
   {
     "name": "Mattermost",
-    "url": "https://mattermost.org/",
+    "url": "https://mattermost.com/",
     "description": "Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack). (Source Code) AGPL-3.0/Apache-2.0 Go/Docker/K8S"
   },
   {
@@ -1013,11 +1013,6 @@
     "name": "Dada Mail",
     "url": "https://dadamailproject.com/",
     "description": "Web-based list management system that can be used for announcement lists and/or discussion lists. (Source Code) GPL-2.0 Perl"
-  },
-  {
-    "name": "Gray Duck Mail",
-    "url": "https://grayduckmail.com",
-    "description": "Self hosted email discussion list management that uses external email providers. (Source Code) GPL-3.0 Docker"
   },
   {
     "name": "HyperKitty",
@@ -2603,11 +2598,6 @@
     "name": "Digibuzzer",
     "url": "https://digibuzzer.app/",
     "description": "Create a virtual game room around a connected buzzer (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
-  },
-  {
-    "name": "EmuLinkerSF",
-    "url": "https://emulinker.org",
-    "description": "EmuLinkerSF is an open source Kaillera server. Kaillera is a client/server system that any emulator can implement to enable netplay over the Internet. (Source Code) GPL-2.0 Java"
   },
   {
     "name": "Lila",
@@ -4592,7 +4582,7 @@
   {
     "name": "Sshwifty",
     "url": "https://github.com/nirui/sshwifty",
-    "description": "Sshwifty is a SSH and Telnet connector made for the Web. AGPL-3.0 Go/Docker"
+    "description": "Sshwifty is a SSH and Telnet connector made for the Web. (Demo) AGPL-3.0 Go/Docker"
   },
   {
     "name": "Warpgate",

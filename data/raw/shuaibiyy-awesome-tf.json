@@ -645,6 +645,11 @@
     "description": "Open Source terraform provider registry acting as a proxy for gitlab or github releases."
   },
   {
+    "name": "cloudsmith",
+    "url": "https://help.cloudsmith.io/docs/terraform-modules-repository",
+    "description": "Managed package hoster for internal and external clients. 💲"
+  },
+  {
     "name": "terraform-provider-aws",
     "url": "https://github.com/hashicorp/terraform-provider-aws",
     "description": "Provider for Amazon Web Services."
@@ -1643,6 +1648,56 @@
     "description": "Everything you need to build reliable automation for AKS, EKS, and GKE Kubernetes clusters in one free and open-source framework."
   },
   {
+    "name": "OTF",
+    "url": "https://github.com/leg100/otf",
+    "description": "Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration."
+  },
+  {
+    "name": "Terrakube",
+    "url": "https://docs.terrakube.io",
+    "description": "Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states."
+  },
+  {
+    "name": "Digger",
+    "url": "https://digger.dev",
+    "description": "Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI."
+  },
+  {
+    "name": "cloud-concierge",
+    "url": "https://github.com/dragondrop-cloud/cloud-concierge",
+    "description": "Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request."
+  },
+  {
+    "name": "Stack-Lifecycle-Deployment",
+    "url": "https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment",
+    "description": "OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud."
+  },
+  {
+    "name": "Scalr",
+    "url": "https://www.scalr.com/",
+    "description": "Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. 💲"
+  },
+  {
+    "name": "env0",
+    "url": "https://www.env0.com/",
+    "description": "Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support 💲"
+  },
+  {
+    "name": "Brainboard",
+    "url": "https://www.brainboard.co",
+    "description": "Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure 💲"
+  },
+  {
+    "name": "Spacelift",
+    "url": "https://spacelift.io/",
+    "description": "Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform 💲"
+  },
+  {
+    "name": "Terrateam",
+    "url": "https://terrateam.io",
+    "description": "Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. 💲"
+  },
+  {
     "name": "terraform-enterprise-cli",
     "url": "https://github.com/skierkowski/terraform-enterprise-cli",
     "description": "Terraform Enterprise Command Line Interface."
@@ -1661,56 +1716,6 @@
     "name": "tfe-state-explorer",
     "url": "https://github.com/segment-boneyard/tfe-state-explorer",
     "description": "Simple shell for exploring remote terraform enterprise state, with autocomplete. 💀"
-  },
-  {
-    "name": "Scalr",
-    "url": "https://www.scalr.com/",
-    "description": "Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting.  💲"
-  },
-  {
-    "name": "env0",
-    "url": "https://www.env0.com/",
-    "description": "Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support 💲"
-  },
-  {
-    "name": "Brainboard",
-    "url": "https://www.brainboard.co",
-    "description": "Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure 💲"
-  },
-  {
-    "name": "OTF",
-    "url": "https://github.com/leg100/otf",
-    "description": "Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration."
-  },
-  {
-    "name": "Terrakube",
-    "url": "https://docs.terrakube.io",
-    "description": "Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states."
-  },
-  {
-    "name": "Spacelift",
-    "url": "https://spacelift.io/",
-    "description": "Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform 💲"
-  },
-  {
-    "name": "Terrateam",
-    "url": "https://terrateam.io",
-    "description": "Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. 💲"
-  },
-  {
-    "name": "Digger",
-    "url": "https://digger.dev",
-    "description": "Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI."
-  },
-  {
-    "name": "cloud-concierge",
-    "url": "https://github.com/dragondrop-cloud/cloud-concierge",
-    "description": "Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request."
-  },
-  {
-    "name": "Stack-Lifecycle-Deployment",
-    "url": "https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment",
-    "description": "OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud."
   },
   {
     "name": "Your Weekly Dose of Terraform",

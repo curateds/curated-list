@@ -81,11 +81,6 @@
     "description": "Bootloader/universal OS installer, with support to VNC and HDMI-CEC."
   },
   {
-    "name": "CentOS",
-    "url": "https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3",
-    "description": "CentOS on the Raspberry Pi."
-  },
-  {
     "name": "chilipie-kiosk",
     "url": "https://github.com/futurice/chilipie-kiosk",
     "description": "Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors."
@@ -351,19 +346,14 @@
     "description": "Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server."
   },
   {
-    "name": "ApplePi Bakery",
-    "url": "http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/",
+    "name": "ApplePi Baker",
+    "url": "https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/",
     "description": "macOS application to easily install/backup/restore images onto an SD card."
   },
   {
     "name": "Atlas toolkit",
     "url": "https://github.com/epeios-q37/atlas-python",
     "description": "Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server."
-  },
-  {
-    "name": "CusDeb",
-    "url": "https://cusdeb.com/en/",
-    "description": "Web UI for creating custom images with specific packages installed."
   },
   {
     "name": "balenaEtcher",
