@@ -305,15 +305,23 @@
   },
   {
     "name": "QuestDB",
-    "url": "https://questdb.io/"
+    "url": "https://questdb.io/",
+    "description": "A relational column-oriented database designed for real-time analytics on time series and event data."
   },
   {
     "name": "Phoenix",
-    "url": "https://phoenix.arize.com"
+    "url": "https://phoenix.arize.com",
+    "description": "Uncover insights, surface problems, monitor and fine tune your generative LLM, CV and tabular models."
   },
   {
     "name": "XAD",
-    "url": "https://github.com/auto-differentiation/XAD"
+    "url": "https://github.com/auto-differentiation/XAD",
+    "description": "Comprehensive backpropagation tool for C++."
+  },
+  {
+    "name": "Truss",
+    "url": "https://truss.baseten.co",
+    "description": "An open source framework for packaging and serving ML models."
   },
   {
     "name": "BLLIP Parser",
@@ -607,7 +615,7 @@
   {
     "name": "matlib",
     "url": "https://github.com/atisharma/matlib",
-    "description": "a Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal."
+    "description": "A Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal."
   },
   {
     "name": "Scicloj",
@@ -995,7 +1003,7 @@
   {
     "name": "OpenNLP",
     "url": "https://opennlp.apache.org/",
-    "description": "a machine learning based toolkit for the processing of natural language text."
+    "description": "A machine learning based toolkit for the processing of natural language text."
   },
   {
     "name": "LingPipe",
@@ -1139,7 +1147,7 @@
   {
     "name": "Tribou",
     "url": "https://tribuo.org",
-    "description": "a machine learning library written in Java by Oracle."
+    "description": "A machine learning library written in Java by Oracle."
   },
   {
     "name": "Weka",
@@ -2186,7 +2194,7 @@
   {
     "name": "Machine Learning in MatLab/Octave",
     "url": "https://github.com/trekhleb/machine-learning-octave",
-    "description": "examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained."
+    "description": "Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained."
   },
   {
     "name": "ParaMonte",
@@ -2255,7 +2263,7 @@
   {
     "name": "Infer.NET",
     "url": "https://dotnet.github.io/infer/",
-    "description": "Infer.NET is a framework for running Bayesian inference in graphical models. One can use Infer.NET to solve many different kinds of machine learning problems, from standard problems like classification, recommendation or clustering through to customized solutions to domain-specific problems. Infer.NET has been used in a wide variety of domains including information retrieval, bioinformatics, epidemiology, vision, and many others."
+    "description": "Infer.NET is a framework for running Bayesian inference in graphical models. One can use Infer.NET to solve many different kinds of machine learning problems, from standard problems like classification, recommendation or clustering through customized solutions to domain-specific problems. Infer.NET has been used in a wide variety of domains including information retrieval, bioinformatics, epidemiology, vision, and many others."
   },
   {
     "name": "ML.NET",
@@ -2320,12 +2328,12 @@
   {
     "name": "Multi-Perceptron-NeuralNetwork",
     "url": "https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork",
-    "description": "it implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Networks (BPN) and designed unlimited-hidden-layers."
+    "description": "It implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Networks (BPN) and designed unlimited-hidden-layers."
   },
   {
     "name": "KRHebbian-Algorithm",
     "url": "https://github.com/Kalvar/ios-KRHebbian-Algorithm",
-    "description": "It is a non-supervisor and self-learning algorithm (adjust the weights) in the neural network of Machine Learning. [Deprecated]"
+    "description": "It is a non-supervisory and self-learning algorithm (adjust the weights) in the neural network of Machine Learning. [Deprecated]"
   },
   {
     "name": "KRKmeans-Algorithm",
@@ -2592,6 +2600,10 @@
     "name": "segmentation_models",
     "url": "https://github.com/qubvel/segmentation_models",
     "description": "A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images."
+  },
+  {
+    "name": "MLX",
+    "url": "https://github.com/ml-explore/mlx"
   },
   {
     "name": "pkuseg-python",
@@ -2940,7 +2952,7 @@
   {
     "name": "Hydrosphere Mist",
     "url": "https://github.com/Hydrospheredata/mist",
-    "description": "a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services."
+    "description": "A service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services."
   },
   {
     "name": "Towhee",
@@ -4109,6 +4121,11 @@
     "description": "An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search."
   },
   {
+    "name": "Kinho",
+    "url": "https://github.com/kinhosz/Neural",
+    "description": "Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning."
+  },
+  {
     "name": "nn_builder",
     "url": "https://github.com/p-christ/nn_builder",
     "description": "nn_builder is a python package that lets you build neural networks in 1 line"
@@ -4321,7 +4338,7 @@
   {
     "name": "Gymnasium",
     "url": "https://github.com/Farama-Foundation/Gymnasium",
-    "description": "A library for developing and comparing reinforcement learning algorithms (successor of gym."
+    "description": "A library for developing and comparing reinforcement learning algorithms (successor of [gym])(https://github.com/openai/gym)."
   },
   {
     "name": "Serpent.AI",
@@ -5310,6 +5327,11 @@
     "name": "layer",
     "url": "https://github.com/cloudkj/layer",
     "description": "Neural network inference from the command line"
+  },
+  {
+    "name": "Infinity",
+    "url": "https://github.com/infiniflow/infinity",
+    "description": "The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20"
   },
   {
     "name": "Synthical",
