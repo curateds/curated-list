@@ -2406,6 +2406,11 @@
     "description": "ZSH plugin for forking model."
   },
   {
+    "name": "hypnosnek",
+    "url": "https://github.com/josephcourtney/hypnosnek",
+    "description": "Simple utilities with p10k integration for managing python environments."
+  },
+  {
     "name": "igit",
     "url": "https://github.com/ytakahashi/igit",
     "description": "Interactive git commands using fzf."
@@ -10478,6 +10483,11 @@
     "name": "z4rr3t",
     "url": "https://github.com/inimicus/z4rr3t",
     "description": "Based on sindresorhus' pure theme."
+  },
+  {
+    "name": "zap-robbyrussell",
+    "url": "https://github.com/devadathanmb/zap-robbyrussell",
+    "description": "The OMZ robbyrussell theme, patched to add compatibility with zap."
   },
   {
     "name": "zcmder",

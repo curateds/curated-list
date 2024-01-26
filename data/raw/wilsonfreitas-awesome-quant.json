@@ -545,6 +545,16 @@
     "description": "Automatically generating signals and trading based on machine learning and feature engineering"
   },
   {
+    "name": "fastquant",
+    "url": "https://github.com/enzoampil/fastquant",
+    "description": "fastquant allows you to easily backtest investment strategies with as few as 3 lines of python code."
+  },
+  {
+    "name": "nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester."
+  },
+  {
     "name": "pyfolio",
     "url": "https://github.com/quantopian/pyfolio",
     "description": "Portfolio and risk analytics in Python."
@@ -1703,6 +1713,11 @@
     "description": "Quantitative finance library written in Rust."
   },
   {
+    "name": "finalytics",
+    "url": "https://github.com/Nnamdi-sys/finalytics",
+    "description": "A rust library for financial data analysis."
+  },
+  {
     "name": "Derman Papers",
     "url": "https://github.com/MarcosCarreira/DermanPapers",
     "description": "Notebooks that replicate original quantitative finance papers from Emanuel Derman."
@@ -1906,5 +1921,10 @@
     "name": "QuantFinanceTraining",
     "url": "https://github.com/JoaoJungblut/QuantFinanceTraining",
     "description": "This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference."
+  },
+  {
+    "name": "Statistical-Learning-based-Portfolio-Optimization",
+    "url": "https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization",
+    "description": "This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018)."
   }
 ]

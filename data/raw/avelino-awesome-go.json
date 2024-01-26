@@ -1684,6 +1684,11 @@
     "description": "A Go caching framework that supports multiple data source drivers."
   },
   {
+    "name": "otter",
+    "url": "https://github.com/maypok86/otter",
+    "description": "A high performance lockless cache for Go. Many times faster than Ristretto and friends."
+  },
+  {
     "name": "remember-go",
     "url": "https://github.com/rocketlaunchr/remember-go",
     "description": "A universal interface for caching slow database queries (backed by redis, memcached, ristretto, or in-memory)."
@@ -2644,6 +2649,11 @@
     "description": "More effective network communication, support two-way-calling, notify, broadcast."
   },
   {
+    "name": "bedrock",
+    "url": "https://github.com/z5labs/bedrock",
+    "description": "Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go."
+  },
+  {
     "name": "celeriac",
     "url": "https://github.com/svcavallar/celeriac.v1",
     "description": "Library for adding support for interacting and monitoring Celery workers, tasks and events in Go."
@@ -2892,6 +2902,11 @@
     "name": "sleuth",
     "url": "https://github.com/ursiform/sleuth",
     "description": "Library for master-less p2p auto-discovery and RPC between HTTP services (using ZeroMQ)."
+  },
+  {
+    "name": "sponge",
+    "url": "https://github.com/zhufuyi/sponge",
+    "description": "A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks."
   },
   {
     "name": "Temporal",
@@ -10522,6 +10537,11 @@
     "description": "Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI."
   },
   {
+    "name": "Lit",
+    "url": "https://github.com/jvcoutinho/lit",
+    "description": "Highly performant declarative web framework for Golang, aiming for simplicity and quality of life."
+  },
+  {
     "name": "Macaron",
     "url": "https://github.com/go-macaron/macaron",
     "description": "Macaron is a high productive and modular design web framework in Go."
@@ -12668,10 +12688,6 @@
   {
     "name": "Golang Melbourne",
     "url": "https://www.meetup.com/golang-mel/"
-  },
-  {
-    "name": "Golang Mountain View",
-    "url": "https://www.meetup.com/Golang-Mountain-View/"
   },
   {
     "name": "Golang North East",

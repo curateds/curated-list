@@ -685,11 +685,6 @@
     "description": "A fixture factory generation library for Doctrine."
   },
   {
-    "name": "HTTP Mock",
-    "url": "https://github.com/InterNations/http-mock",
-    "description": "A library for mocking HTTP requests in unit tests."
-  },
-  {
     "name": "Infection",
     "url": "https://github.com/infection/infection",
     "description": "An AST-based PHP Mutation testing framework."
@@ -725,19 +720,9 @@
     "description": "A testing framework with a focus on simplicity."
   },
   {
-    "name": "Peridot",
-    "url": "https://github.com/peridot-php/peridot",
-    "description": "An event-driven test framework."
-  },
-  {
     "name": "Phake",
     "url": "https://github.com/phake/phake",
     "description": "Another mock object library for testing."
-  },
-  {
-    "name": "Pho",
-    "url": "https://github.com/danielstjules/pho",
-    "description": "Another behavior-driven development testing framework."
   },
   {
     "name": "PHP-Mock",
