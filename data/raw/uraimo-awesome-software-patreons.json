@@ -27,12 +27,17 @@
   {
     "name": "Blender",
     "url": "https://fund.blender.org/",
-    "description": "3D creation suite."
+    "description": "3D creation suite"
   },
   {
     "name": "BookWyrm",
     "url": "https://www.patreon.com/bookwyrm",
     "description": "Social reading and reviewing, decentralized with ActivityPub."
+  },
+  {
+    "name": "Bottles",
+    "url": "https://usebottles.com/funding/",
+    "description": "Easily manage and run Windows apps on Linux."
   },
   {
     "name": "Calibre",
@@ -80,19 +85,9 @@
     "description": "Self-hosted VPN server using WireGuard."
   },
   {
-    "name": "Flarum",
-    "url": "https://opencollective.com/flarum/",
-    "description": "Forum platform."
-  },
-  {
     "name": "FreeCAD",
     "url": "https://freecadweb.org/wiki/Donate",
     "description": "Parametric 3D modeler made primarily to design real-life objects of any size."
-  },
-  {
-    "name": "Funkwhale",
-    "url": "https://opencollective.com/funkwhale",
-    "description": "A free, federated and social music server."
   },
   {
     "name": "GIMP",
@@ -170,24 +165,9 @@
     "description": "Cheap, easy, self-hosted clouds for everyone."
   },
   {
-    "name": "Mastodon",
-    "url": "https://www.patreon.com/mastodon",
-    "description": "Federated social network server."
-  },
-  {
-    "name": "Matrix",
-    "url": "https://www.patreon.com/matrixdotorg",
-    "description": "An open network for secure, decentralized communication."
-  },
-  {
     "name": "Memcode",
     "url": "https://www.patreon.com/memcode",
     "description": "Platform for flashcards"
-  },
-  {
-    "name": "MissKey",
-    "url": "https://www.patreon.com/syuilo",
-    "description": "Federated microblogging platform."
   },
   {
     "name": "MuseScore",
@@ -270,6 +250,11 @@
     "description": "Video editor."
   },
   {
+    "name": "OptiKey",
+    "url": "https://www.patreon.com/OptiKey",
+    "description": "Full computer control and speech with your eyes."
+  },
+  {
     "name": "Paperwork",
     "url": "https://www.patreon.com/openpaper",
     "description": "Personal document manager."
@@ -290,11 +275,6 @@
     "description": "PHPUnit and related projects."
   },
   {
-    "name": "PixelFed",
-    "url": "https://www.patreon.com/dansup",
-    "description": "Federated image sharing powered by the ActivityPub protocol."
-  },
-  {
     "name": "Pixelorama",
     "url": "https://www.patreon.com/OramaInteractive",
     "description": "A free & open-source 2D sprite editor, made with the Godot Engine."
@@ -305,19 +285,9 @@
     "description": "UML diagram creation software."
   },
   {
-    "name": "postActiv",
-    "url": "https://www.patreon.com/postActiv",
-    "description": "Microblogging platform."
-  },
-  {
     "name": "Project Lombok",
     "url": "https://www.patreon.com/lombok",
     "description": "Java editor plugin."
-  },
-  {
-    "name": "Reddit Enhancement Suite",
-    "url": "https://www.patreon.com/honestbleeps",
-    "description": "Reddit browser extension."
   },
   {
     "name": "Remmina",
@@ -325,19 +295,14 @@
     "description": "Remote desktop client."
   },
   {
-    "name": "Retrospring",
-    "url": "https://patreon.com/retrospring",
-    "description": "A social network following the Q/A (question and answer) principle."
-  },
-  {
-    "name": "Secure Scuttlebutt",
-    "url": "https://opencollective.com/secure-scuttlebutt-consortium",
-    "description": "A distributed and secure peer-to-peer protocol and social network."
-  },
-  {
     "name": "ShareX Team",
     "url": "https://www.patreon.com/ShareX",
     "description": "Screen capture and screen sharing tool."
+  },
+  {
+    "name": "Sonic Pi",
+    "url": "https://www.patreon.com/samaaron",
+    "description": "Code-based music creation and performance tool."
   },
   {
     "name": "Synfig",
@@ -353,11 +318,6 @@
     "name": "Termux",
     "url": "https://www.patreon.com/termux",
     "description": "Android terminal emulator."
-  },
-  {
-    "name": "The Lounge",
-    "url": "https://opencollective.com/thelounge",
-    "description": "Modern web IRC client."
   },
   {
     "name": "Thirty Bees",
@@ -428,6 +388,66 @@
     "name": "Kitbashery",
     "url": "https://www.patreon.com/kitbashery",
     "description": "3D kitbashing solution & CC0 model library."
+  },
+  {
+    "name": "BookWyrm",
+    "url": "https://www.patreon.com/bookwyrm",
+    "description": "Social reading and reviewing, decentralized with ActivityPub."
+  },
+  {
+    "name": "Flarum",
+    "url": "https://opencollective.com/flarum/",
+    "description": "Forum platform."
+  },
+  {
+    "name": "Funkwhale",
+    "url": "https://opencollective.com/funkwhale",
+    "description": "A free, federated and social music server."
+  },
+  {
+    "name": "The Lounge",
+    "url": "https://opencollective.com/thelounge",
+    "description": "Modern web IRC client."
+  },
+  {
+    "name": "Mastodon",
+    "url": "https://www.patreon.com/mastodon",
+    "description": "Federated social network server."
+  },
+  {
+    "name": "Matrix",
+    "url": "https://www.patreon.com/matrixdotorg",
+    "description": "An open network for secure, decentralized communication."
+  },
+  {
+    "name": "MissKey",
+    "url": "https://www.patreon.com/syuilo",
+    "description": "Federated microblogging platform."
+  },
+  {
+    "name": "PixelFed",
+    "url": "https://www.patreon.com/dansup",
+    "description": "Federated image sharing powered by the ActivityPub protocol."
+  },
+  {
+    "name": "postActiv",
+    "url": "https://www.patreon.com/postActiv",
+    "description": "Microblogging platform."
+  },
+  {
+    "name": "Reddit Enhancement Suite",
+    "url": "https://www.patreon.com/honestbleeps",
+    "description": "Reddit browser extension."
+  },
+  {
+    "name": "Retrospring",
+    "url": "https://patreon.com/retrospring",
+    "description": "A social network following the Q/A (question and answer) principle."
+  },
+  {
+    "name": "Secure Scuttlebutt",
+    "url": "https://opencollective.com/secure-scuttlebutt-consortium",
+    "description": "A distributed and secure peer-to-peer protocol and social network."
   },
   {
     "name": "ApexCharts",
@@ -573,6 +593,11 @@
     "name": "Parrot",
     "url": "https://www.patreon.com/parrot",
     "description": "Security-related Debian distribution."
+  },
+  {
+    "name": "PostmarketOS",
+    "url": "https://opencollective.com/postmarketos",
+    "description": "A real Linux distribution for phones."
   },
   {
     "name": "Qubes OS",

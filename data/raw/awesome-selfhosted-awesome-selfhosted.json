@@ -7,7 +7,7 @@
   {
     "name": "AWStats",
     "url": "http://www.awstats.org/",
-    "description": "Generate statistics from web, streaming, ftp or mail server logfiles. (Source Code) GPL-3.0 Perl"
+    "description": "Generate statistics from web, streaming, ftp or mail server logfiles. (Demo, Source Code) GPL-3.0 Perl"
   },
   {
     "name": "Countly Community Edition",
@@ -388,11 +388,6 @@
     "name": "Antville",
     "url": "https://antville.org",
     "description": "Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. (Source Code) Apache-2.0 Javascript"
-  },
-  {
-    "name": "Blog",
-    "url": "https://github.com/m1k1o/blog",
-    "description": "Facebook-styled blog. Free, extremely lightweight, single-user and easy to install. GPL-3.0 PHP"
   },
   {
     "name": "Castopod",
@@ -1842,7 +1837,7 @@
   {
     "name": "Directus",
     "url": "https://directus.io/",
-    "description": "An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. (Source Code) GPL-3.0 Nodejs"
+    "description": "An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. (Source Code) GPL-3.0 Nodejs/Docker"
   },
   {
     "name": "Evidence",

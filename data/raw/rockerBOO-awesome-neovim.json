@@ -290,6 +290,11 @@
     "description": "Provides LSP features and a nvim-cmp completion source for languages embedded in other documents."
   },
   {
+    "name": "lopi-py/luau-lsp.nvim",
+    "url": "https://github.com/lopi-py/luau-lsp.nvim",
+    "description": "A luau-lsp extension to improve your experience."
+  },
+  {
     "name": "anott03/nvim-lspinstall",
     "url": "https://github.com/anott03/nvim-lspinstall",
     "description": "Easy to install language servers."

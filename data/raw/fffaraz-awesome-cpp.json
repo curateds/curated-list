@@ -1055,6 +1055,11 @@
     "description": "Small configuration file parser library for C. [ISC]"
   },
   {
+    "name": "mINI",
+    "url": "https://github.com/metayeti/mINI",
+    "description": "INI file reader and writer. [MIT]"
+  },
+  {
     "name": "simpleini",
     "url": "https://github.com/brofield/simpleini",
     "description": "Cross-platform C++ library providing a simple API to read and write INI-style configuration files. [MIT]"

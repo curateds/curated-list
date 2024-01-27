@@ -20,6 +20,11 @@
     "description": "Prepare a packed repository for use over dumb transports (e.g. http)."
   },
   {
+    "name": "dotenvx",
+    "url": "https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/dotenvx.hook",
+    "description": "Prevent committing your .env file(s) to code."
+  },
+  {
     "name": "format-code",
     "url": "https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/format-code.hook",
     "description": "Run command to format code and re-add any files modified after formatting."

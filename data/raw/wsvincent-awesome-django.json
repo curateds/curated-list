@@ -685,6 +685,11 @@
     "description": "Task processing library with a focus on simplicity, reliability, and performance."
   },
   {
+    "name": "django-celery-results",
+    "url": "https://github.com/celery/django-celery-results",
+    "description": "Celery result backend with Django."
+  },
+  {
     "name": "curlylint",
     "url": "https://www.curlylint.org/",
     "description": "Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid."

@@ -891,7 +891,7 @@
   {
     "name": "IUP",
     "url": "https://github.com/lispnik/iup/",
-    "description": "CFFI bindings to the IUP Portable User Interface library (pre-ALPHA). IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed."
+    "description": "CFFI bindings to the IUP Portable User Interface library (pre-ALPHA)."
   },
   {
     "name": "cl-gtk4",
@@ -913,18 +913,19 @@
     "description": "A binding for GTK+2. LLGPL."
   },
   {
-    "name": "ceramic",
-    "url": "https://ceramic.github.io/",
-    "description": "Desktop web apps with Electron. Expat."
+    "name": "Electron-lisp-boilerplate",
+    "url": "https://github.com/mikelevins/electron-lisp-boilerplate",
+    "description": "a rudimentary boilerplate for building Electron apps that start a Lisp process."
   },
   {
     "name": "Electron-lisp-boilerplate",
     "url": "https://github.com/mikelevins/electron-lisp-boilerplate",
-    "description": "A rudimentary boilerplate for building Electron apps with embedded Lisp helper processes."
+    "description": "a rudimentary boilerplate for building Electron apps that start a Lisp process."
   },
   {
-    "name": "electron-sbcl-sqlite",
-    "url": "https://github.com/mikelevins/electron-sbcl-sqlite/"
+    "name": "ceramic",
+    "url": "https://ceramic.github.io/",
+    "description": "a wrapper around simpler tools to create and build an Electron app for Common Lisp. It is currently broken and unmaintained, but some tools are workth having a look at."
   },
   {
     "name": "CocoaInterface",
