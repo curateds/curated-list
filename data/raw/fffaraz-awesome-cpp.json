@@ -1085,19 +1085,24 @@
     "description": "A C++17 header-only dynamic bitset. [MIT]"
   },
   {
+    "name": "flat_hash_map",
+    "url": "https://github.com/skarupke/flat_hash_map",
+    "description": "A very fast flat hashtable with Fibonacci hashing."
+  },
+  {
     "name": "Hashmaps",
     "url": "https://github.com/goossaert/hashmap",
     "description": "Implementation of open addressing hash table algorithms in C++. [MIT]"
   },
   {
+    "name": "hat-trie",
+    "url": "https://github.com/Tessil/hat-trie",
+    "description": "C++ implementation of a fast and memory efficient HAT-trie. [MIT]"
+  },
+  {
     "name": "Hopscotch map",
     "url": "https://github.com/Tessil/hopscotch-map",
     "description": "A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]"
-  },
-  {
-    "name": "flat_hash_map",
-    "url": "https://github.com/skarupke/flat_hash_map",
-    "description": "A very fast flat hashtable with Fibonacci hashing."
   },
   {
     "name": "LSHBOX",
@@ -1150,9 +1155,19 @@
     "description": "A fast, memory efficient hash map for C++. [BSD 3-clause]"
   },
   {
+    "name": "st_tree",
+    "url": "https://github.com/erikerlandson/st_tree",
+    "description": "A fast and flexible c++ template class for tree data structures. [Apache-2.0]"
+  },
+  {
     "name": "svector",
     "url": "https://github.com/martinus/svector",
     "description": "Compact SVO optimized vector for C++17 or higher. [MIT]"
+  },
+  {
+    "name": "tree.hh",
+    "url": "https://github.com/kpeeters/tree.hh",
+    "description": "An STL-like C++ header-only tree library. [GPL2+]"
   },
   {
     "name": "unordered_dense",

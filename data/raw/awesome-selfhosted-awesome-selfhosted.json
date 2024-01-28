@@ -120,11 +120,6 @@
     "description": "Simple, fast, privacy-focused alternative to Google Analytics. (Demo, Source Code) MIT Nodejs/Docker"
   },
   {
-    "name": "Access to Memory (AtoM)",
-    "url": "https://www.accesstomemory.org/",
-    "description": "Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. (Demo, Source Code) AGPL-3.0 PHP"
-  },
-  {
     "name": "ArchiveBox",
     "url": "https://archivebox.io/",
     "description": "Self-hosted wayback machine that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. (Source Code) MIT Python/Docker"
@@ -2813,6 +2808,11 @@
     "name": "SuiteCRM",
     "url": "https://suitecrm.com",
     "description": "The award-winning, enterprise-class open source CRM. (Source Code) AGPL-3.0 PHP"
+  },
+  {
+    "name": "Tine",
+    "url": "https://www.tine-groupware.de/",
+    "description": "Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. (Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "Tracim",

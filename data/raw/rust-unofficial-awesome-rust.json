@@ -404,6 +404,11 @@
     "description": "A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast!"
   },
   {
+    "name": "darkbird",
+    "url": "https://github.com/Rustixir/darkbird",
+    "description": "HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia"
+  },
+  {
     "name": "Databend",
     "url": "https://github.com/datafuselabs/databend",
     "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture"
@@ -3798,6 +3803,11 @@
   {
     "name": "mailtutan/mailtutan",
     "url": "https://github.com/mailtutan/mailtutan"
+  },
+  {
+    "name": "meli/meli",
+    "url": "https://github.com/meli/meli",
+    "description": "🐝 terminal mail client"
   },
   {
     "name": "staktrace/mailparse",

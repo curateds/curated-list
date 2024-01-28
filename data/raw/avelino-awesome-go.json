@@ -1654,6 +1654,10 @@
     "description": "A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern."
   },
   {
+    "name": "go-freelru",
+    "url": "https://github.com/elastic/go-freelru"
+  },
+  {
     "name": "go-mcache",
     "url": "https://github.com/OrlovEvgeny/go-mcache",
     "description": "Fast in-memory key:value store/cache library. Pointer caches."
@@ -3933,6 +3937,11 @@
     "description": "Structured concurrency made easy."
   },
   {
+    "name": "go-accumulator",
+    "url": "https://github.com/nar10z/go-accumulator",
+    "description": "Solution for accumulation of events and their subsequent processing."
+  },
+  {
     "name": "go-actor",
     "url": "https://github.com/vladopajic/go-actor",
     "description": "A tiny library for writing concurrent programs using actor model."
@@ -4476,6 +4485,11 @@
     "name": "tga",
     "url": "https://github.com/ftrvxmtrx/tga",
     "description": "Package tga is a TARGA image format decoder/encoder."
+  },
+  {
+    "name": "transformimgs",
+    "url": "https://github.com/Pixboost/transformimgs",
+    "description": "Transformimgs resizes and optimises images for Web using next-generation formats."
   },
   {
     "name": "webp-server",
@@ -8498,6 +8512,11 @@
     "description": "Rich rendering of YAML as HTML in Go"
   },
   {
+    "name": "htree",
+    "url": "https://github.com/bobg/htree",
+    "description": "Traverse, navigate, filter, and otherwise process trees of html.Node objects."
+  },
+  {
     "name": "mxj",
     "url": "https://github.com/clbanning/mxj",
     "description": "Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages."
@@ -11307,6 +11326,11 @@
     "name": "colorgo",
     "url": "https://github.com/songgao/colorgo",
     "description": "Wrapper around go command for colorized go build output."
+  },
+  {
+    "name": "decouple",
+    "url": "https://github.com/bobg/decouple",
+    "description": "Find “overspecified” function parameters that could be generalized with interface types."
   },
   {
     "name": "depth",

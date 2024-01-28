@@ -380,11 +380,6 @@
     "description": "Blazingly fast, minimal LSP auto-completion and snippet engine."
   },
   {
-    "name": "simrat39/rust-tools.nvim",
-    "url": "https://github.com/simrat39/rust-tools.nvim",
-    "description": "Tools for better development in Rust using Neovim's builtin LSP."
-  },
-  {
     "name": "zbirenbaum/copilot.lua",
     "url": "https://github.com/zbirenbaum/copilot.lua",
     "description": "Fully featured Lua replacement for GitHub/copilot.vim."
@@ -415,9 +410,9 @@
     "description": "Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI."
   },
   {
-    "name": "gsuuon/llm.nvim",
-    "url": "https://github.com/gsuuon/llm.nvim",
-    "description": "Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp."
+    "name": "gsuuon/model.nvim",
+    "url": "https://github.com/gsuuon/model.nvim",
+    "description": "Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp."
   },
   {
     "name": "dense-analysis/neural",
