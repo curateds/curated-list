@@ -430,6 +430,11 @@
     "description": "Generate text using LLMs (via Ollama) with customizable prompts."
   },
   {
+    "name": "kiddos/gemini.nvim",
+    "url": "https://github.com/kiddos/gemini.nvim",
+    "description": "Bindings to Google Gemini API."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."

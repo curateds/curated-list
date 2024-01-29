@@ -1096,6 +1096,11 @@
     "description": "Makes it easier to change directories to directories that are subdirs of a user-defined list of directories. Includes tab-completion, session history and pushd, popd and dirs equivalents."
   },
   {
+    "name": "cdhist",
+    "url": "https://github.com/joknarf/cdhist",
+    "description": "cd history/subdir/locatedir navigation. simple cd history, alias builtin cd to add cd history, rapidily swich to already visited directories, can use locate, mlocate or plocate to rapidly cd to any directory"
+  },
+  {
     "name": "cdr",
     "url": "https://github.com/willghatch/zsh-cdr",
     "description": "Easy setup of cdr for ZSH."
@@ -3616,6 +3621,11 @@
     "description": "Will run redis-server pointing it to the redis.conf configuration file. This can be used with the zdharma/zredis plugin to share variables between shells."
   },
   {
+    "name": "redo",
+    "url": "https://github.com/joknarf/redo",
+    "description": "Adds an interactive history menu to replace Ctrl-R and ESC+/."
+  },
+  {
     "name": "reentry-hook",
     "url": "https://github.com/RobSis/zsh-reentry-hook",
     "description": "Plugin that re-enters working directory if it has been removed and re-created."
@@ -3764,6 +3774,11 @@
     "name": "select",
     "url": "https://github.com/z-shell/zsh-select",
     "description": "Multi-term searched selection list with approximate matching and uniq mode."
+  },
+  {
+    "name": "selector",
+    "url": "https://github.com/joknarf/selector",
+    "description": "Make it easy to create selection menus."
   },
   {
     "name": "send",
@@ -5719,6 +5734,10 @@
     "name": "ssh-agent (hkupty)",
     "url": "https://github.com/hkupty/ssh-agent",
     "description": "Automatically starts ssh-agent to set up and load whichever credentials you want for ssh connections."
+  },
+  {
+    "name": "ssh-config-suggestions",
+    "url": "https://github.com/yngc0der/zsh-ssh-config-suggestions"
   },
   {
     "name": "supabase",
@@ -8938,11 +8957,6 @@
     "name": "phalanx",
     "url": "https://github.com/d-danilov/phalanx-zsh-theme",
     "description": "Minimal theme in the spirit of the robbyrussell and Pure Shell themes."
-  },
-  {
-    "name": "phantomk",
-    "url": "https://github.com/phantomk/phantomk.zsh-theme",
-    "description": "Colorful theme, includes golang version, node version and git status."
   },
   {
     "name": "phi φ",

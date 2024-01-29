@@ -885,6 +885,11 @@
     "description": "An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)"
   },
   {
+    "name": "Prefect",
+    "url": "https://prefect.io/",
+    "description": "Prefect is an orchestration and observability platform. With it, developers can rapidly build and scale resilient code, and triage disruptions effortlessly."
+  },
+  {
     "name": "lakeFS",
     "url": "https://github.com/treeverse/lakeFS",
     "description": "lakeFS is an open source platform that delivers resilience and manageability to object-storage based data lakes."

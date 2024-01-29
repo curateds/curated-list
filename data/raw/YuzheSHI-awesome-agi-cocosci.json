@@ -819,9 +819,9 @@
     "description": "ICML'07, 2007. [All Versions]. Treating predicate invention as a non-parametric problem, in the account of statistics."
   },
   {
-    "name": "A Tutorial on Bayesian Optimization",
-    "url": "https://arxiv.org/abs/1807.02811",
-    "description": "2018. [All Versions]."
+    "name": "Taking the Human Out of the Loop: A Review of Bayesian Optimization",
+    "url": "https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf",
+    "description": "Proceedings of the IEEE, 2015. [All Versions]."
   },
   {
     "name": "Practical Bayesian Optimization of Machine Learning Algorithms",
@@ -829,9 +829,9 @@
     "description": "NeurIPS'12, 2012. [All Versions]. The original paper for applying Bayesian optimization to machine learning hyperparameter selection."
   },
   {
-    "name": "Taking the Human Out of the Loop: A Review of Bayesian Optimization",
-    "url": "https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf",
-    "description": "Proceedings of the IEEE, 2015. [All Versions]."
+    "name": "A Tutorial on Bayesian Optimization",
+    "url": "https://arxiv.org/abs/1807.02811",
+    "description": "2018. [All Versions]."
   },
   {
     "name": "Concepts",
@@ -1871,6 +1871,11 @@
     "name": "CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines",
     "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5643",
     "description": "AAAI'20, 2020. [All Versions]."
+  },
+  {
+    "name": "CX-ToM: Counterfactual explanations with theory-of-mind for enhancing human trust in image recognition models",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2589004221015510",
+    "description": "iScience, 2022. [All Versions]."
   },
   {
     "name": "Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP",

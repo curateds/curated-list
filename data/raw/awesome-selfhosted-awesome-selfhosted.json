@@ -125,11 +125,6 @@
     "description": "Self-hosted wayback machine that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. (Source Code) MIT Python/Docker"
   },
   {
-    "name": "Archivematica",
-    "url": "https://www.archivematica.org/en/",
-    "description": "Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. (Demo, Source Code) AGPL-3.0 Python"
-  },
-  {
     "name": "ArchivesSpace",
     "url": "https://archivesspace.org/",
     "description": "Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. (Demo, Source Code) ECL-2.0 Ruby"
@@ -4533,11 +4528,6 @@
     "name": "Specifically Clementines",
     "url": "https://davideshay.github.io/groceries/",
     "description": "Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. (Demo, Source Code) MIT Docker"
-  },
-  {
-    "name": "Tandoor Recipes",
-    "url": "https://docs.tandoor.dev/",
-    "description": "Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. (Demo, Source Code) MIT Python/Docker/K8S"
   },
   {
     "name": "Firezone",
