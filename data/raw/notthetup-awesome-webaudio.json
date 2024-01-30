@@ -104,6 +104,11 @@
     "description": "HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed."
   },
   {
+    "name": "MusicXML Player",
+    "url": "https://github.com/infojunkie/musicxml-player",
+    "description": "A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI."
+  },
+  {
     "name": "Audion",
     "url": "https://github.com/google/audion",
     "description": "Chrome extension that adds a Web Audio panel to Developer Tools."
