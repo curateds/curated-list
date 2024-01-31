@@ -22,7 +22,7 @@
   {
     "name": "EDA",
     "url": "https://eda.jortilles.com/en/jortilles-english/",
-    "description": "Web application for data analysis and visualization. (Source Code) Apache-2.0 Docker/Rust"
+    "description": "Web application for data analysis and visualization. (Source Code) AGPL-3.0 Nodejs/Docker"
   },
   {
     "name": "Fathom Lite",
@@ -173,11 +173,6 @@
     "name": "Activepieces",
     "url": "https://www.activepieces.com",
     "description": "No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. (Source Code) MIT Docker"
-  },
-  {
-    "name": "ActiveWorkflow",
-    "url": "https://github.com/automaticmode/active_workflow",
-    "description": "An intelligent process and workflow automation platform based on software agents. MIT Ruby"
   },
   {
     "name": "Apache Airflow",
@@ -812,7 +807,7 @@
   {
     "name": "AnonAddy",
     "url": "https://anonaddy.com",
-    "description": "Open source email forwarding service for creating aliases. (Source Code) MIT PHP"
+    "description": "Open source email forwarding service for creating aliases. (Source Code) MIT PHP/Docker"
   },
   {
     "name": "DebOps",

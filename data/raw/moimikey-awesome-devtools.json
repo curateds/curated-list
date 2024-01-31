@@ -5,16 +5,6 @@
     "description": "Client-side scraping utility for the currently loaded uri."
   },
   {
-    "name": "CSS Stress Test",
-    "url": "https://github.com/andyedinborough/stress-css",
-    "description": "JavaScript to test each CSS class on a page and report which are hindering performance."
-  },
-  {
-    "name": "deCSS3",
-    "url": "https://github.com/davatron5000/deCSS3/",
-    "description": "A lil' bookmarklet that will strip out your CSS3 rules and show you how gracefully you're degrading."
-  },
-  {
     "name": "DOM Monster",
     "url": "http://mir.aculo.us/dom-monster/",
     "description": "A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on."
@@ -23,11 +13,6 @@
     "name": "Make Bookmarklets",
     "url": "https://make-bookmarklets.com",
     "description": "Online tool to turn JavaScript into a bookmarklet."
-  },
-  {
-    "name": "Ramda",
-    "url": "https://github.com/ramda/ramda/blob/master/BOOKMARKLET.md",
-    "description": "Add Ramda to any page!"
   },
   {
     "name": "Rulers Guides",
@@ -45,11 +30,6 @@
     "description": "Travel in time as babel transpiles."
   },
   {
-    "name": "Beeceptor",
-    "url": "http://beeceptor.com/",
-    "description": "Rule based API mocking service. When rules are matched, a request is mocked, else target endpoint is hit as usual. Create custom endpoints to test and debug rest APIs."
-  },
-  {
     "name": "DebugJS",
     "url": "http://debugjs.com/",
     "description": "Debug your JavaScript in the browser (lol?)"
@@ -58,16 +38,6 @@
     "name": "endpoints.dev",
     "url": "https://www.endpoints.dev",
     "description": "View realtime HTTP requests using a endpoints.dev generated URL."
-  },
-  {
-    "name": "Hook.io",
-    "url": "https://hook.io/",
-    "description": "Instantly deploy microservices in over 11+ languages (OSS!)"
-  },
-  {
-    "name": "Hoppscotch",
-    "url": "https://hoppscotch.io",
-    "description": "A lightweight, web-based API development suite."
   },
   {
     "name": "httpbin",
@@ -80,14 +50,9 @@
     "description": "Loupe-inspired JavaScript execution visualizer"
   },
   {
-    "name": "jsonbin",
-    "url": "https://jsonbin.io/",
+    "name": "JSONBIN.io",
+    "url": "https://jsonbin.io/quick-store",
     "description": "Custom, mock JSON API"
-  },
-  {
-    "name": "JSONPlaceholder",
-    "url": "https://jsonplaceholder.typicode.com",
-    "description": "Free fake API for testing and prototyping."
   },
   {
     "name": "Loupe",
@@ -95,9 +60,14 @@
     "description": "Similar in goal to SlowmoJS, a JavaScript call stack visualizer."
   },
   {
-    "name": "Mockbin",
-    "url": "http://mockbin.com/",
-    "description": "Generate custom endpoints to test, mock, and track HTTP requests."
+    "name": "SlowmoJS",
+    "url": "http://toolness.github.io/slowmo-js/",
+    "description": "Execute JavaScript in slow motion."
+  },
+  {
+    "name": "Hoppscotch",
+    "url": "https://hoppscotch.io",
+    "description": "A lightweight, web-based API development suite."
   },
   {
     "name": "RecipeUI",
@@ -106,58 +76,8 @@
   },
   {
     "name": "Reqbin",
-    "url": "https://reqbin.com/",
+    "url": "https://reqbin.com",
     "description": "REST & SOAP API Online Testing Tool"
-  },
-  {
-    "name": "SlowmoJS",
-    "url": "http://toolness.github.io/slowmo-js/",
-    "description": "Execute JavaScript in slow motion."
-  },
-  {
-    "name": "AST Explorer",
-    "url": "http://astexplorer.net/",
-    "description": "Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript."
-  },
-  {
-    "name": "Compiler Explorer",
-    "url": "https://godbolt.org",
-    "description": "Run compilers interactively from your web browser and interact with the assembly"
-  },
-  {
-    "name": "fixmyjs",
-    "url": "http://goatslacker.github.io/fixmyjs.com/",
-    "description": "Automatically fix your JS, driven by JSHint."
-  },
-  {
-    "name": "JavaScript Deobfuscator",
-    "url": "https://deobfuscate.io",
-    "description": "A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques."
-  },
-  {
-    "name": "JSNice",
-    "url": "http://www.jsnice.org/",
-    "description": "Statistical renaming, type inference and deobfuscation."
-  },
-  {
-    "name": "JSON ABC",
-    "url": "https://novicelab.org/jsonabc/",
-    "description": "Sorts JSON alphabetically"
-  },
-  {
-    "name": "Markdown to HTML",
-    "url": "https://markdowntohtml.com",
-    "description": "Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML."
-  },
-  {
-    "name": "Markdown Tools",
-    "url": "https://markdowntools.com",
-    "description": "Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table."
-  },
-  {
-    "name": "SWC",
-    "url": "https://swc.rs/playground",
-    "description": "compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers."
   },
   {
     "name": "asciiflow",
@@ -185,6 +105,16 @@
     "description": "Create beautiful charts from JSON data in your browser."
   },
   {
+    "name": "JSONCrack",
+    "url": "https://jsoncrack.com/editor",
+    "description": "Visualize CSV/JSON/TOML/XML/YAML instantly into graphs."
+  },
+  {
+    "name": "Markmap",
+    "url": "https://markmap.js.org/repl",
+    "description": "Visualize markdown as a feature-rich mindmaps."
+  },
+  {
     "name": "nomnoml",
     "url": "https://nomnoml.com",
     "description": "A tool for drawing UML diagrams based on a simple syntax."
@@ -196,23 +126,13 @@
   },
   {
     "name": "JSONDiffPatch",
-    "url": "https://benjamine.github.io/jsondiffpatch/demo/index.html",
+    "url": "https://benjamine.github.io/jsondiffpatch",
     "description": "Run a visual or non-visual diff on two JSON blobs."
   },
   {
     "name": "README.so",
     "url": "https://readme.so/editor",
     "description": "A simple editor to quickly add and customize all the sections you need for your project's readme."
-  },
-  {
-    "name": "file.io",
-    "url": "https://www.file.io/",
-    "description": "Ephemeral file sharing. Convenient, anonymous and secure."
-  },
-  {
-    "name": "instant.io",
-    "url": "https://instant.io/",
-    "description": "Instant file transfer/sharing over WebTorrent"
   },
   {
     "name": "JSONGenerator",
@@ -223,11 +143,6 @@
     "name": "NGINXConfig",
     "url": "https://www.digitalocean.com/community/tools/nginx",
     "description": "The easiest way to configure a performant, secure, and stable NGINX server."
-  },
-  {
-    "name": "Pure CSS Apple",
-    "url": "http://purecssapple.com/",
-    "description": "Pure CSS Apple devices with scrollable media"
   },
   {
     "name": "Readme",
@@ -275,91 +190,6 @@
     "description": "Try SVGO (SVG Optimizer) in the browser!"
   },
   {
-    "name": "Perflink",
-    "url": "https://perf.link",
-    "description": "JS benchmarks"
-  },
-  {
-    "name": "codepen",
-    "url": "http://codepen.io/",
-    "description": "Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration."
-  },
-  {
-    "name": "CodeSandbox",
-    "url": "https://codesandbox.io/s/new",
-    "description": "Online code editor and sandbox"
-  },
-  {
-    "name": "Ellie",
-    "url": "https://ellie-app.com/",
-    "description": "The Elm Live Editor"
-  },
-  {
-    "name": "ES.nextBin",
-    "url": "http://esnextb.in/",
-    "description": "Like RequireBin but ES2015"
-  },
-  {
-    "name": "ESM",
-    "url": "https://code.esm.sh",
-    "description": "A fast, smart, & global CDN for modern(es2015+) web development."
-  },
-  {
-    "name": "JSBin",
-    "url": "http://jsbin.com/",
-    "description": "JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass"
-  },
-  {
-    "name": "JSFiddle",
-    "url": "http://jsfiddle.net/",
-    "description": "JS/ES3/Coffee/HTML/CSS/Sass"
-  },
-  {
-    "name": "JSONCrack",
-    "url": "https://jsoncrack.com/editor",
-    "description": "Visualize CSV/JSON/TOML/XML/YAML instantly into graphs."
-  },
-  {
-    "name": "Markmap",
-    "url": "https://markmap.js.org/repl",
-    "description": "Visualize markdown as a feature-rich mindmaps."
-  },
-  {
-    "name": "playcode.io",
-    "url": "https://playcode.io/",
-    "description": "JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug"
-  },
-  {
-    "name": "Debuggex",
-    "url": "https://www.debuggex.com/",
-    "description": "PCRE/Python/JavaScript regex matching."
-  },
-  {
-    "name": "ExtendsClass",
-    "url": "https://extendsclass.com/regex-tester.html",
-    "description": "PHP/Python/Ruby/JavaScript regex matching."
-  },
-  {
-    "name": "reFiddle",
-    "url": "http://refiddle.com/",
-    "description": "Ruby/.NET/JavaScript regex matching."
-  },
-  {
-    "name": "RegExplained",
-    "url": "http://leaverou.github.io/regexplained/",
-    "description": "JavaScript regex matching."
-  },
-  {
-    "name": "Regexr",
-    "url": "http://www.regexr.com/",
-    "description": "JavaScript regex matching."
-  },
-  {
-    "name": "Regulex",
-    "url": "https://jex.im/regulex",
-    "description": "JavaScript Regular Expression Visualizer."
-  },
-  {
     "name": "crontab guru",
     "url": "https://crontab.guru/",
     "description": "The quick and simple editor for cron schedule expressions by Cronitor"
@@ -395,9 +225,134 @@
     "description": "Drop-in CSS transitions"
   },
   {
+    "name": "file.io",
+    "url": "https://www.file.io",
+    "description": "Ephemeral file sharing. Convenient, anonymous and secure."
+  },
+  {
+    "name": "instant.io",
+    "url": "https://instant.io",
+    "description": "Instant file transfer/sharing over WebTorrent"
+  },
+  {
+    "name": "pairdrop",
+    "url": "https://pairdrop.net",
+    "description": "Instant file transfer over your local network (P2P)"
+  },
+  {
+    "name": "Perflink",
+    "url": "https://perf.link",
+    "description": "JS benchmarks"
+  },
+  {
+    "name": "codepen",
+    "url": "http://codepen.io/pen",
+    "description": "Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration."
+  },
+  {
+    "name": "CodeSandbox",
+    "url": "https://codesandbox.io/s/new",
+    "description": "Online code editor and sandbox"
+  },
+  {
+    "name": "Ellie",
+    "url": "https://ellie-app.com/",
+    "description": "The Elm Live Editor"
+  },
+  {
+    "name": "ES.nextBin",
+    "url": "http://esnextb.in/",
+    "description": "Like RequireBin but ES2015"
+  },
+  {
+    "name": "ESM",
+    "url": "https://code.esm.sh",
+    "description": "A fast, smart, & global CDN for modern(es2015+) web development."
+  },
+  {
+    "name": "JSBin",
+    "url": "http://jsbin.com/",
+    "description": "JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass"
+  },
+  {
+    "name": "JSFiddle",
+    "url": "http://jsfiddle.net/",
+    "description": "JS/ES3/Coffee/HTML/CSS/Sass"
+  },
+  {
+    "name": "playcode.io",
+    "url": "https://playcode.io/new",
+    "description": "JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug"
+  },
+  {
+    "name": "Debuggex",
+    "url": "https://www.debuggex.com/",
+    "description": "PCRE/Python/JavaScript regex matching."
+  },
+  {
+    "name": "ExtendsClass",
+    "url": "https://extendsclass.com/regex-tester.html",
+    "description": "PHP/Python/Ruby/JavaScript regex matching."
+  },
+  {
+    "name": "RegExplained",
+    "url": "http://leaverou.github.io/regexplained/",
+    "description": "JavaScript regex matching."
+  },
+  {
+    "name": "Regexr",
+    "url": "http://www.regexr.com/",
+    "description": "JavaScript regex matching."
+  },
+  {
+    "name": "Regulex",
+    "url": "https://jex.im/regulex",
+    "description": "JavaScript Regular Expression Visualizer."
+  },
+  {
+    "name": "AST Explorer",
+    "url": "http://astexplorer.net/",
+    "description": "Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript."
+  },
+  {
     "name": "Babel REPL",
     "url": "https://babeljs.io/en/repl",
     "description": "The compiler for next generation JavaScript"
+  },
+  {
+    "name": "Compiler Explorer",
+    "url": "https://godbolt.org",
+    "description": "Run compilers interactively from your web browser and interact with the assembly"
+  },
+  {
+    "name": "fixmyjs",
+    "url": "http://goatslacker.github.io/fixmyjs.com/",
+    "description": "Automatically fix your JS, driven by JSHint."
+  },
+  {
+    "name": "JavaScript Deobfuscator",
+    "url": "https://deobfuscate.io",
+    "description": "A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques."
+  },
+  {
+    "name": "JSNice",
+    "url": "http://www.jsnice.org/",
+    "description": "Statistical renaming, type inference and deobfuscation."
+  },
+  {
+    "name": "JSON ABC",
+    "url": "https://novicelab.org/jsonabc/",
+    "description": "Sorts JSON alphabetically"
+  },
+  {
+    "name": "Markdown to HTML",
+    "url": "https://markdowntohtml.com",
+    "description": "Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML."
+  },
+  {
+    "name": "Markdown Tools",
+    "url": "https://markdowntools.com",
+    "description": "Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table."
   },
   {
     "name": "Sassmeister",
@@ -408,6 +363,11 @@
     "name": "Sucrase",
     "url": "https://sucrase.io",
     "description": "Super-fast Babel alternative"
+  },
+  {
+    "name": "SWC",
+    "url": "https://swc.rs/playground",
+    "description": "compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers."
   },
   {
     "name": "Terser",
@@ -425,14 +385,34 @@
     "description": "translate C/C++ to WebAssembly, and then see the machine code generated by the browser."
   },
   {
-    "name": "snapify",
-    "url": "https://snappify.com/editor",
-    "description": "Snappify enables you to create stunning presentations, with first-class support for code snippets."
+    "name": "Pure CSS Apple",
+    "url": "http://purecssapple.com/",
+    "description": "Pure CSS Apple devices with scrollable media"
   },
   {
     "name": "Ray.so",
     "url": "https://ray.so",
     "description": "Create beautiful images of code snippets."
+  },
+  {
+    "name": "snapify",
+    "url": "https://snappify.com/editor",
+    "description": "Snappify enables you to create stunning presentations, with first-class support for code snippets."
+  },
+  {
+    "name": "FillText",
+    "url": "http://filltext.com/",
+    "description": "Generate JSON datasets for testing or demonstration purposes"
+  },
+  {
+    "name": "JSONPlaceholder",
+    "url": "https://jsonplaceholder.typicode.com",
+    "description": "Free fake API for testing and prototyping."
+  },
+  {
+    "name": "Zippopotamus",
+    "url": "http://zippopotam.us/",
+    "description": "Zipcode to Geo"
   },
   {
     "name": "What's My Browser?",
@@ -459,20 +439,12 @@
     "description": "A concise collection of high value information on specific application security topics."
   },
   {
-    "name": "HTML5",
-    "url": "http://html5please.com/"
-  },
-  {
     "name": "Campaign Monitor",
-    "url": "http://inliner.cm/"
+    "url": "https://www.campaignmonitor.com/resources/tools/css-inliner"
   },
   {
     "name": "MailChimp",
-    "url": "http://templates.mailchimp.com/resources/inline-css/"
-  },
-  {
-    "name": "Pleeease",
-    "url": "http://pleeease.io/play/"
+    "url": "http://templates.mailchimp.com/resources/inline-css"
   },
   {
     "name": "DevDocs",
@@ -531,16 +503,6 @@
     "name": "Tabler Icons",
     "url": "https://tablericons.com",
     "description": "4000+ Open source free SVG icons. Highly customizable. No attribution required. For commercial use."
-  },
-  {
-    "name": "FillText",
-    "url": "http://filltext.com/",
-    "description": "Generate JSON datasets for testing or demonstration purposes"
-  },
-  {
-    "name": "Zippopotamus",
-    "url": "http://zippopotam.us/",
-    "description": "Zipcode to Geo"
   },
   {
     "name": "CORS Anywhere",

@@ -2092,6 +2092,11 @@
     "description": "A minimalist-friendly ~1.3KB routing library. Nothing else but hooks."
   },
   {
+    "name": "tanstack-router",
+    "url": "https://github.com/TanStack/router",
+    "description": "Type-safe router with built-in caching & URL state management"
+  },
+  {
     "name": "react-refetch",
     "url": "https://github.com/heroku/react-refetch",
     "description": "A simple, declarative, and composable way to fetch data for React components."

@@ -65,11 +65,6 @@
     "description": "Texas A&M researchers develop intelligence system prototype."
   },
   {
-    "name": "How big data will impact car security in the proximate future: Concerns and solutions",
-    "url": "http://bigdata-madesimple.com/big-data-will-impact-car-security-proximate-future-concerns-solutions/",
-    "description": "Impact of big data on car security."
-  },
-  {
     "name": "Reverse engineering of the Nitro OBD2",
     "url": "https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html",
     "description": "Reverse engineering of CAN diagnostic tools."
@@ -120,14 +115,9 @@
     "description": "Hacking the Mitsubishi Outlander & IOT - talk from BSides Manchester 2016 by Ken and Dave of Pen Test Partners"
   },
   {
-    "name": "A Platform base on Visualization for Protecting CAN Bus Security",
-    "url": "https://www.syscan360.org/slides/2016_SH_Jianhao_Liu_A_platform_base_on_visualization_for_protecting_CAN_bus_security.pdf",
-    "description": "Syscan360 2016 SH talk by Jianhao Liu"
-  },
-  {
-    "name": "Gateway Internals of Tesla Motors",
-    "url": "https://2016.zeronights.ru/wp-content/uploads/2016/12/Gateway_Internals_of_Tesla_Motors_v6.pdf",
-    "description": "Zeronights 2016 talk by Nie Seng and Liu Ling"
+    "name": "FREE-FALL: HACKING TESLA FROM WIRELESS TO CAN BUS",
+    "url": "https://www.blackhat.com/docs/us-17/thursday/us-17-Nie-Free-Fall-Hacking-Tesla-From-Wireless-To-CAN-Bus-wp.pdf",
+    "description": "Zeronights 2016 and later BlackHat talk by Sen Nie, Ling Liu, and Yuefeng Du from Tencent and KEEN Security lab"
   },
   {
     "name": "Car Hacking 101",
@@ -194,9 +184,39 @@
     "description": "The Honda Connect app used by Honda City 5th generation used weak security mechanisms in its APIs for access control which would allow a malicious user to perform actions like starting the car, locking/unlocking car etc. remotely by interacting with it's Telematics Control Unit (TCU)"
   },
   {
+    "name": "TR22: UDS Fuzzing and the Path to Game Over",
+    "url": "https://www.youtube.com/watch?v=c_DqxHmH7kc",
+    "description": "UDS diagnostics protocol fuzzing methodology, presented as a result of numerous penetration testing projects in the automotive industry, with real world exploitation PoCs, presented during Troopers Conference 2022."
+  },
+  {
+    "name": "CCC - Horror Stories From the Automotive Industry",
+    "url": "https://www.youtube.com/watch?v=rAA-agcNeeg",
+    "description": "Horror Stories From the Automotive Industry - Horrifying examples of common vulnerabilities in the automotive industry, result of more than 100 penetration tests targeting Tier 1 suppliers and OEMs, with ultimate goal to raise awareness on the current state of automotive security. Additionally, PoC of automated week seed randomness exploitation in automotive components, by using a battery isolator in heavy-duty vehicles and the UDS protocol, for complete compromise of a target. Presented in Chaos Communication Camp, DeepSec 2023 and Troopers Conference 23."
+  },
+  {
+    "name": "Car Hacking Scene in the PH: How Far We've Come",
+    "url": "https://www.youtube.com/watch?v=JaF-_KYQ46A",
+    "description": "Car Hacking Village PH presents their first attempt on the main tracks for ROOTCON. This is a rundown of CHVPH's past security research to current research - from hacking infotainment systems to CAN Bus protocols and a summary of cars available in the Philippines which are susceptible to car thefts."
+  },
+  {
+    "name": "Analysis of an In-vehicular network: From CAN bus to infotainment",
+    "url": "https://www.youtube.com/watch?v=4d-uhs2VLCQ",
+    "description": "This talk will feature Div0 CSQ’s 3 test benches as they explore more features on Connected vehicles. This was presented in ROOTCON 17 Car Hacking Village."
+  },
+  {
+    "name": "An overview of Automotive Defensive Engineering",
+    "url": "https://www.youtube.com/watch?v=MfTNv9SXd-o",
+    "description": "This talk is for car hackers to learn about modern defense measures being added to ECUs and Vehicle Architectures. This was presented in ROOTCON 17 Car Hacking Village."
+  },
+  {
+    "name": "Hacking Back Your Car",
+    "url": "https://www.youtube.com/watch?v=akMok3Hb-pE",
+    "description": "Kamel Ghali's talk on ROOTCON 17 about how an attacker's perspective on hacking a car and origins of such attacks, how they've been used in different countries over the years, and explore the technical details of what makes such an attack possible."
+  },
+  {
     "name": "2014 Car Hacker's Handbook",
-    "url": "http://opengarages.org/handbook/",
-    "description": "Free guide to hacking vehicles from 2014. You can also buy the book on Amazon here."
+    "url": "https://www.amazon.com/Car-Hackers-Manual-Craig-Smith/dp/0990490106",
+    "description": "Free guide to hacking vehicles from 2014."
   },
   {
     "name": "2016 Car Hacker's Handbook",
@@ -224,7 +244,7 @@
   },
   {
     "name": "Inside Radio: An Attack and Defense Guide",
-    "url": "https://unicorn.360.com/blog/2018/01/29/Inside_Radio_An_Attack_and_Defense_Guide"
+    "url": "https://www.amazon.com/Inside-Radio-Attack-Defense-Guide/dp/9811084467"
   },
   {
     "name": "Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010",
@@ -281,7 +301,7 @@
   },
   {
     "name": "Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016",
-    "url": "https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf"
+    "url": "https://ieeexplore.ieee.org/document/7427089"
   },
   {
     "name": "Modeling Inter-Signal Arrival Times for Accurate Detection of CAN Bus Signal Injection Attacks",
@@ -321,7 +341,7 @@
   },
   {
     "name": "OpenGarages",
-    "url": "http://opengarages.org/index.php/Main_Page",
+    "url": "https://github.com/opengarages",
     "description": "Provides public access, documentation and tools necessary to understand today's modern vehicle systems."
   },
   {
@@ -539,7 +559,7 @@
   },
   {
     "name": "TrustedSec Podcast",
-    "url": "https://www.trustedsec.com/podcast/",
+    "url": "https://podcasts.apple.com/us/podcast/security-noise/id1428851782",
     "description": "From the people at TrustedSec, leaders in Social Engineering, their episodes often go into recent vehicle vulnerabilities and exploits."
   },
   {
@@ -571,11 +591,6 @@
     "name": "Hacking Connected Vehicles with Chris Valasek of IOActive",
     "url": "https://soundcloud.com/securityledger/chris-valasek-of-ioactive",
     "description": "Chris Valasek talks about hacking into connected vehicles."
-  },
-  {
-    "name": "Hackable? - Cars are Computers",
-    "url": "https://hackablepodcast.com/#/episodes/cars-are-computers",
-    "description": "Cars are Computers - Geoff Siskind paired up with Craig Smith, author of The Car Hacker’s Handbook, to show us just how easy – or not – it is to hack a car."
   },
   {
     "name": "Reverse Engineering Resources",
@@ -618,10 +633,6 @@
     "url": "https://github.com/watterott/CANdiy-Shield"
   },
   {
-    "name": "ChuangZhou CAN-Bus Shield",
-    "url": "http://www.seeedstudio.com/wiki/CAN-BUS_Shield"
-  },
-  {
     "name": "DFRobot CAN-BUS Shield For Arduino",
     "url": "http://www.dfrobot.com/index.php?route=product/product&product_id=1444"
   },
@@ -636,7 +647,7 @@
   },
   {
     "name": "CANtact",
-    "url": "http://linklayer.github.io/cantact/",
+    "url": "https://cantact.io/cantact/users-guide.html",
     "description": "\"The Open Source Car Tool\" designed to help you hack your car. You can buy one or make your own following the guide here."
   },
   {
@@ -711,7 +722,7 @@
   },
   {
     "name": "Macchina M2",
-    "url": "http://macchina.cc/guide/m2",
+    "url": "https://www.macchina.cc/m2-introduction",
     "description": "Macchina 2.0 is a complete overhaul of our 1.X generation of Macchina. The goals are still the same: Create an easy-to-use, fully-open, and super-compatible automotive interface."
   },
   {
@@ -900,6 +911,11 @@
     "url": "https://github.com/eerimoq/cantools"
   },
   {
+    "name": "Caring Caribou Next",
+    "url": "https://github.com/Cr0wTom/caringcaribounext",
+    "description": "Upgraded and optimized version of the original Caring Caribou project."
+  },
+  {
     "name": "CANNiBUS",
     "url": "https://github.com/Hive13/CANiBUS/",
     "description": "A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions."
@@ -916,8 +932,8 @@
   },
   {
     "name": "UberATC",
-    "url": "https://www.uberatc.com/",
-    "description": "Uber Advanced Technologies Center - info@uberatc.com."
+    "url": "https://www.uber.com/us/en/autonomous/",
+    "description": "Uber Advanced Technologies Center, now Uber AV - info@uberatc.com."
   },
   {
     "name": "Tesla",
@@ -945,19 +961,34 @@
     "description": "V2X DSRC Radio and Software"
   },
   {
+    "name": "VicOne",
+    "url": "https://www.vicone.com/",
+    "description": "A subsidiary of Trend Micro which focuses on automotive security"
+  },
+  {
     "name": "General Motors",
     "url": "https://hackerone.com/gm",
     "description": "Coordinated disclosure submissions accepted"
   },
   {
-    "name": "Fiat Chrysler Automobiles",
-    "url": "https://bugcrowd.com/fca",
+    "name": "Stellantis",
+    "url": "https://bugcrowd.com/stellantis",
     "description": "Coordinated disclosure submissions accepted, paid bounties offered"
   },
   {
     "name": "Tesla Motors",
     "url": "https://bugcrowd.com/tesla",
     "description": "Coordinated disclosure submissions accepted, paid bounties offered"
+  },
+  {
+    "name": "ASRG",
+    "url": "https://asrg.io/disclosure/",
+    "description": "The ASRG Disclosure Process is to support responsible disclosure when direct communication with the responsible company is unavailable or not responsive."
+  },
+  {
+    "name": "Zeekr",
+    "url": "https://security.zeekrlife.com/vulnerability",
+    "description": "Zeekr and Geely Responsible disclosure program"
   },
   {
     "name": "Application Security",

@@ -280,6 +280,11 @@
     "description": "Articles exploring different graphics techniques."
   },
   {
+    "name": "Lighthouse3d.com",
+    "url": "http://www.lighthouse3d.com/tutorials/",
+    "description": "Collection of tutorials on OpenGL, GLSL and other graphics topics."
+  },
+  {
     "name": "Scratchapixel",
     "url": "https://www.scratchapixel.com",
     "description": "In depth coverage of computer graphics topics."
@@ -922,7 +927,7 @@
   {
     "name": "Sokol Gfx",
     "url": "https://github.com/floooh/sokol/blob/master/sokol_gfx.h",
-    "description": "Cross-platform, single-file graphics. [Examples | LearnOpenGL]"
+    "description": "Cross-platform, single-file graphics. [Examples]"
   },
   {
     "name": "Sokol Graphics Painter",
@@ -2173,6 +2178,11 @@
     "name": "DefaultEcs",
     "url": "https://github.com/Doraku/DefaultEcs",
     "description": "ECS framework designed for game development."
+  },
+  {
+    "name": "Friflo.Engine.ECS",
+    "url": "https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md",
+    "description": "Archetype based ECS with focus 🎯 on performance, cache locality and DX."
   },
   {
     "name": "LeoECS",
@@ -4935,6 +4945,16 @@
     "description": "Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin."
   },
   {
+    "name": "2D Water Shader",
+    "url": "https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/",
+    "description": "GLSL fragment shader to simulate 2D water surface in libGDX."
+  },
+  {
+    "name": "2D Water Shader",
+    "url": "https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/",
+    "description": "GLSL fragment shader to simulate 2D water surface in libGDX."
+  },
+  {
     "name": "Flat and Wireframe Shading",
     "url": "https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/",
     "description": "Flat shading / wireframes using Barycentric Coordinates."
@@ -4983,11 +5003,6 @@
     "name": "Auto-Tile",
     "url": "https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673",
     "description": "How to use tile bitmasking to auto-tile your level layouts."
-  },
-  {
-    "name": "Blob Tileset",
-    "url": "http://www.cr31.co.uk/stagecast/wang/blob.html",
-    "description": "Tutorial on 2D edge and corner matched tilesets."
   },
   {
     "name": "List of Eucliden Uniform Tilings",

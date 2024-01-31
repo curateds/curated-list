@@ -4355,6 +4355,11 @@
     "description": "A simple Nix flake template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations."
   },
   {
+    "name": "drybalka/clean.nvim",
+    "url": "https://github.com/drybalka/clean.nvim",
+    "description": "Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon."
+  },
+  {
     "name": "MordechaiHadad/bob",
     "url": "https://github.com/MordechaiHadad/bob",
     "description": "A cross platform and easy to use Neovim version manager."
@@ -4423,5 +4428,10 @@
     "name": "Dotfyle",
     "url": "https://dotfyle.com",
     "description": "Dotfyle is a site for sharing and discovering Neovim configs and plugins."
+  },
+  {
+    "name": "NeoLand",
+    "url": "https://neoland.dev",
+    "description": "A beautifully crafted website for Neovim resources."
   }
 ]
