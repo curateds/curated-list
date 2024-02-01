@@ -560,6 +560,11 @@
     "description": "Micro-framework that helps you quickly write simple yet powerful web applications and APIs."
   },
   {
+    "name": "Spiral",
+    "url": "https://spiral.dev/",
+    "description": "Framework designed for long-running applications using RoadRunner. It offers advanced features like integration with the Temporal workflow engine and Centrifugo websocket server. It is particularly effective for microservices architecture, providing robust support for REST APIs and gRPC services."
+  },
+  {
     "name": "Swoft",
     "url": "https://github.com/swoft-cloud/swoft/",
     "description": "PHP microservices coroutine framework for building high-performance web systems, APIs, middleware, and basic services."
@@ -728,11 +733,6 @@
     "name": "Istio",
     "url": "https://istio.io/",
     "description": "An open platform to connect, manage, and secure microservices."
-  },
-  {
-    "name": "Janus",
-    "url": "https://github.com/hellofresh/janus",
-    "description": "An API Gateway written in Go."
   },
   {
     "name": "Keepalived",

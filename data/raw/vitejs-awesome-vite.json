@@ -1544,6 +1544,11 @@
     "description": "Inject prefetch assets into index.html."
   },
   {
+    "name": "vite-plugin-imagemin",
+    "url": "https://github.com/vHeemstra/vite-plugin-imagemin",
+    "description": "Optimize and compress your image assets and optionally create WebP/AVIF."
+  },
+  {
     "name": "vite-plugin-html",
     "url": "https://github.com/anncwb/vite-plugin-html",
     "description": "Plugin to minimize and use ejs template syntax in index.html."

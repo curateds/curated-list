@@ -243,14 +243,19 @@
     "description": "Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU."
   },
   {
-    "name": "ollama",
-    "url": "https://github.com/jmorganca/ollama",
-    "description": "Get up and running with Llama 2 and other large language models locally."
+    "name": "LMStudio",
+    "url": "https://lmstudio.ai/",
+    "description": "Run LLMs on your laptop, entirely offline with a beautiful UI."
   },
   {
     "name": "LocalAI",
     "url": "https://github.com/go-skynet/LocalAI",
     "description": "Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware."
+  },
+  {
+    "name": "ollama",
+    "url": "https://github.com/jmorganca/ollama",
+    "description": "Get up and running with Llama 2 and other large language models locally."
   },
   {
     "name": "Turbopilot",

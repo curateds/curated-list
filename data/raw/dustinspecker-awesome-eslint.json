@@ -45,6 +45,11 @@
     "description": "Shareable config for Shopify's style guide."
   },
   {
+    "name": "Vercel",
+    "url": "https://github.com/vercel/style-guide/tree/canary/eslint",
+    "description": "Vercel Engineering's composable eslint configuration used in all their codebases."
+  },
+  {
     "name": "Wikimedia",
     "url": "https://github.com/wikimedia/eslint-config-wikimedia",
     "description": "Shareable config for Wikimedia's style guide, used by MediaWiki."
