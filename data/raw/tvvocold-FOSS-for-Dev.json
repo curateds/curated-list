@@ -90,6 +90,11 @@
     "description": "Open Source file sync & share, with calendar, contacts and more apps"
   },
   {
+    "name": "Tolgee",
+    "url": "https://tolgee.io",
+    "description": "Developer & translator friendly web-based localization platform"
+  },
+  {
     "name": "sonarqube",
     "url": "https://github.com/SonarSource/sonarqube",
     "description": "Put your technical debt under control"
@@ -145,6 +150,11 @@
     "description": "an enterprise-grade PKI/Trustcenter software"
   },
   {
+    "name": "Selefra",
+    "url": "https://github.com/selefra/selefra",
+    "description": "An open-source policy-as-code software that provides analytics for multi-cloud and SaaS."
+  },
+  {
     "name": "Bugzilla",
     "url": "https://github.com/bugzilla/bugzilla",
     "description": "web-based bug-tracking software"
@@ -180,14 +190,28 @@
     "description": "Your Agile, Free and Open Source Project Management Tool"
   },
   {
+    "name": "Preevy",
+    "url": "https://github.com/livecycle/preevy",
+    "description": "Provision preview environments for docker compose applications with minimal configuration"
+  },
+  {
     "name": "OpenShift",
     "url": "https://github.com/openshift/origin",
     "description": "build, deploy, and manage your applications with Docker and Kubernetes"
   },
   {
+    "name": "Zeabur",
+    "url": "https://zeabur.com",
+    "description": "deploy your full stack apps and databases with one click"
+  },
+  {
     "name": "Log4brains",
     "url": "https://github.com/thomvaill/log4brains",
     "description": "Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website"
+  },
+  {
+    "name": "Hook0",
+    "url": "https://www.hook0.com/"
   },
   {
     "name": "Okteto",
@@ -198,6 +222,11 @@
     "name": "Dokku",
     "url": "https://dokku.com/",
     "description": "Heroku like environment"
+  },
+  {
+    "name": "Keploy",
+    "url": "https://www.keploy.io/",
+    "description": "A  developer-centric backend testing tool which makes backend tests with built-in-mocks, faster than unit tests, from user traffic"
   },
   {
     "name": "Matrix",
@@ -222,6 +251,11 @@
   {
     "name": "WildDuck Email Server",
     "url": "https://wildduck.email/",
-    "description": "nodejs application to send emails (built for sclae (needs more hand work to make it work)"
+    "description": "nodejs application to send emails (built for scale (needs more hand work to make it work)"
+  },
+  {
+    "name": "DEM",
+    "url": "https://axemsolutions.io/dem_doc/index.html",
+    "description": "DEM (Development Environment Manager) is an open source command line tool to manage containerized Development Environments."
   }
 ]

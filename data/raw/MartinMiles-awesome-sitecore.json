@@ -7,7 +7,7 @@
   {
     "name": "Sitecore Goal Conversion Demo",
     "url": "https://github.com/martinrayenglish/GoalConversions.Demo",
-    "description": "Demonstrate how to obtain goals that were triggered during a visitor's interaction, after their session has ended, this data can be sent to an external system to be used helping marketers by informing them of what customer's and leads are doing on their website."
+    "description": "Demonstrate how to obtain goals that were triggered during a visitor's interaction, after their session has ended, this data can be sent to an external system to be used to help marketers by informing them of what customer's and leads are doing on their website."
   },
   {
     "name": "Custom Timeline Eras",
@@ -22,17 +22,17 @@
   {
     "name": "Sitecore.Boost",
     "url": "https://github.com/cardinal252/Sitecore.Boost",
-    "description": "This repository contains a whole wealth of potential patches for the performance Improvements for the Sitecore platform to improve, most of which are running in production instances of Sitecore."
+    "description": "This repository contains a whole wealth of potential patches for the performance Improvements for the Sitecore platform, most of which are running in production instances of Sitecore."
   },
   {
     "name": "Sitecore.Cleanup",
     "url": "https://github.com/martinrayenglish/Sitecore.Cleanup",
-    "description": "The module consists of 3 agents that will monitor each the Event Queue, Publish Queue and History tables to ensure that they don't exceed a set threshold."
+    "description": "The module consists of 3 agents that will monitor each of the Event Queue, Publish Queue, and History tables to ensure that they don't exceed a set threshold."
   },
   {
     "name": "SitecoreDXG: The Documentation Experience Generator",
     "url": "https://github.com/zkniebel/SitecoreDXG",
-    "description": "Sitecore template architecture visualization and documentation tool from the SitecoreUML family. Leveraging the open-source APIs associated with StarUML (on which SitecoreUML is also based), SitecoreDXG provides support for generating template data model architecture diagrams and HTML documentation from any existing Sitecore instance (PaaS and non-PaaS are both supported) that has the SitecoreUML Service for Sitecore."
+    "description": "Sitecore template architecture visualization and documentation tool from the SitecoreUML family. Leveraging the open-source APIs associated with StarUML (on which SitecoreUML is also based), SitecoreDXG provides support for generating template data model architecture diagrams and HTML documentation from any existing Sitecore instance (PaaS and non-PaaS both supported) that has the SitecoreUML Service for Sitecore."
   },
   {
     "name": "sitecore-assembly-lists",
@@ -47,17 +47,17 @@
   {
     "name": "Sitecore Azure Scripts",
     "url": "https://github.com/robhabraken/Sitecore-Azure-Scripts",
-    "description": "Azure related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs."
+    "description": "Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs."
   },
   {
     "name": "Sitecore Azure Content",
     "url": "https://github.com/olegburov/Sitecore-Azure-Content",
-    "description": "Articles on how to automate a deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services."
+    "description": "Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services."
   },
   {
     "name": "Sitecore Advanced Azure Devops",
     "url": "https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops",
-    "description": "Expanding Sitecore on azure with flexible and generic scripts (requires a valid powershell Azure session to be connected and available)."
+    "description": "Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available)."
   },
   {
     "name": "Language Understanding (LUIS) Samples",
@@ -97,7 +97,7 @@
   {
     "name": "Cache Tuner",
     "url": "https://github.com/KayeeNL/CacheTuner",
-    "description": "The module is an implementation of the rules given in Sitecore Caching guide."
+    "description": "The module is an implementation of the rules given in the Sitecore Caching guide."
   },
   {
     "name": "Caching Manager",
@@ -112,7 +112,7 @@
   {
     "name": "ExperienceEditorCache",
     "url": "https://github.com/marek-musielak/Skillcore.ExperienceEditorCache",
-    "description": "A caching module which makes working with Sitecore Experience Editor more pleasant."
+    "description": "A caching module that makes working with Sitecore Experience Editor more pleasant."
   },
   {
     "name": "ManualHtmlCacheClearer",
@@ -132,7 +132,7 @@
   {
     "name": "Dictionary Flush Partial Cache",
     "url": "https://github.com/jbluemink/DictionaryFlushPartialCache",
-    "description": "Flashes Partial Html Cache on changes to Sitecore Dictionary items."
+    "description": "Flashes Partial HTML Cache on changes to Sitecore Dictionary items."
   },
   {
     "name": "Reference Storefront",
@@ -162,7 +162,7 @@
   {
     "name": "Short Confirmation Codes",
     "url": "https://github.com/dsolovay/ShortConfirmationCodes",
-    "description": "Provides six character confirmation codes (configurable), randomly generated, and tracked in the commerce database to avoid conflicts, as shorter codes are easier to communicate over support calls and for some clients may be more convenient than the 25 character confirmations that are provided out of the box."
+    "description": "Provides six-character confirmation codes (configurable), randomly generated, and tracked in the commerce database to avoid conflicts, as shorter codes are easier to communicate over support calls and for some clients may be more convenient than the 25 character confirmations that are provided out of the box."
   },
   {
     "name": "Sitecore Commerce Engine Fedex plugin",
@@ -197,7 +197,7 @@
   {
     "name": "Sitecore Containers Prerequisites",
     "url": "https://github.com/nickwesselman/sitecore-containers-prerequisites",
-    "description": "Checks the machine for Sitecore Container compatibility, enables Hyper-V, downloads and installs software including Sitecore 10.1"
+    "description": "Checks the machine for Sitecore Container compatibility, enable Hyper-V, downloads and installs software including Sitecore 10.1"
   },
   {
     "name": "Sitecore Docker Examples",
@@ -217,17 +217,17 @@
   {
     "name": "Sitecore MVP",
     "url": "https://github.com/Sitecore/MVP-Site",
-    "description": "The source code of a real Sitecore MVP website built with Sitecore 10 and SXAworking in containers."
+    "description": "The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers."
   },
   {
     "name": "Packer for Sitecore",
     "url": "https://github.com/asmagin/sitecore-packer",
-    "description": "Repository contains Packer templates for a local Sitecore hosting environment with IIS and and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef."
+    "description": "Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef."
   },
   {
     "name": "Docker SOLR with SSL",
     "url": "https://github.com/LaubPlusCo/docker-solr-ssl",
-    "description": "A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate."
+    "description": "A simple setup that sets up a Linux container on a host running solr with SSL using a generated certificate."
   },
   {
     "name": "Sitecore Docker Tools",
@@ -277,7 +277,7 @@
   {
     "name": "schguild",
     "url": "https://github.com/sitecoreguild/schguild",
-    "description": "Provides tools and sample code to help you in learning and working with Sitecore Content Hub."
+    "description": "Provides tools and sample code to help you learn and work with Sitecore Content Hub."
   },
   {
     "name": "Sitecore.ContentHub.Twitter",
@@ -287,7 +287,7 @@
   {
     "name": "Sitecore.SharedSource.CMP.Connector.Extensions",
     "url": "https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions",
-    "description": "Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronised using the xml format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required."
+    "description": "Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronized using the XML format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required."
   },
   {
     "name": "Starter Kit for Content Hub with Next.js and GraphQL",
@@ -312,7 +312,7 @@
   {
     "name": "Sitecore spatial geojson polygons",
     "url": "https://github.com/josedbaez/sitecore-spatial-geojson-polygons",
-    "description": "Implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in solr indexes. The demo provides a template with the spatial field, couple of sample items with polygons from openstreetmap that cover some cities; and a controller rendering that reads lat and lng from the querystring and returns the polygon of the item found (e.g. Big Ben's coordinates return London)."
+    "description": "Implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in Solr indexes. The demo provides a template with the spatial field, a couple of sample items with polygons from OpenStreetMap that cover some cities; and a controller rendering that reads lat and long from the query string and returns the polygon of the item found (e.g. Big Ben's coordinates return London)."
   },
   {
     "name": "Sitecore Solr Schema",
@@ -332,12 +332,12 @@
   {
     "name": "Docker SolrCloud for Sitecore 10",
     "url": "https://github.com/jermdavis/Sitecore-SolrCloud-Docker",
-    "description": "Creates a SolrCloud container that can be used with a Sitecore 10 instance under Docker. The files have been adjusted from the Solr container files in the Sitecore Docker examples repo. The default \"solr\" service Sitecore provide can be replaced using these files."
+    "description": "Creates a SolrCloud container that can be used with a Sitecore 10 instance under Docker. The files have been adjusted from the Solr container files in the Sitecore Docker examples repo. The default \"solr\" service Sitecore provides can be replaced using these files."
   },
   {
     "name": "Sitecore SolrProxy",
     "url": "https://github.com/Antonytm/Sitecore.SolrProxy",
-    "description": "Tool for easy access to Solr admin console if you have access only to Sitecore CM."
+    "description": "Tool for easy access to the Solr admin console if you have access only to Sitecore CM."
   },
   {
     "name": "Common Sitecore ContentSearch extensions",
@@ -347,7 +347,7 @@
   {
     "name": "Sitecore Computed Search",
     "url": "https://github.com/martinrayenglish/Sitecore-Computed-Search",
-    "description": "An index search development accelerator that allows developers to declare computed search fields on an index that can capture and store targeted field values of items within a scope as well as the field values of items based on specific templates that are part of its presentation. In addition, specific weights can by applied to these computed fields using search boosting so that content matching search terms can be promoted in search results."
+    "description": "An index search development accelerator that allows developers to declare computed search fields on an index that can capture and store targeted field values of items within a scope as well as the field values of items based on specific templates that are part of its presentation. In addition, specific weights can be applied to these computed fields using search boosting so that content-matching search terms can be promoted in search results."
   },
   {
     "name": "sitecore-azure-search-compat",
@@ -382,7 +382,7 @@
   {
     "name": "Sitecore Helix Examples",
     "url": "https://github.com/Sitecore/Helix.Examples",
-    "description": "Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples."
+    "description": "Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples."
   },
   {
     "name": "Lighthouse Demo",
@@ -397,12 +397,12 @@
   {
     "name": "Sitecore MVP",
     "url": "https://github.com/Sitecore/MVP-Site",
-    "description": "The source code of a real Sitecore MVP website built with Sitecore 10 and SXAworking in containers."
+    "description": "The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers."
   },
   {
     "name": "Sitecore.HabitatHome.Utilities",
     "url": "https://github.com/Sitecore/Sitecore.HabitatHome.Utilities",
-    "description": "A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance etc."
+    "description": "A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance, etc."
   },
   {
     "name": "Sitecore.HabitatHome.Commerce",
@@ -442,12 +442,12 @@
   {
     "name": "Developer Portal",
     "url": "https://github.com/Sitecore/developer-portal",
-    "description": "The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used managed in Sitecore DAM and"
+    "description": "The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and"
   },
   {
     "name": "PostDeploySteps",
     "url": "https://github.com/jst-cyr/NonlinearPostDeploySteps",
-    "description": "Post deploy steps for use with TDS. 1) TDS Example project that triggers the post deploy step; 2) Sample web project to show pulling in the deploy step; 3) DeployStep class library that you can add to your solution."
+    "description": "Post-deploy steps for use with TDS. 1) TDS Example project that triggers the post-deploy step; 2) Sample web project to show pulling in the deploy step; 3) DeployStep class library that you can add to your solution."
   },
   {
     "name": "Sitecore Devops with AppVeyor",
@@ -477,7 +477,7 @@
   {
     "name": "Browse Command",
     "url": "https://github.com/ParTech/Browse-Command",
-    "description": "Adds a command that allows the user to open an item from the Sitecore content tree in a new browser window. Sitecore does not offer this out-of-the-box, except for the Preview command which has the effect of entering preview mode, so given module will do exactly the same but without entering Preview mode."
+    "description": "Adds a command that allows the user to open an item from the Sitecore content tree in a new browser window. Sitecore does not offer this out-of-the-box, except for the Preview command which has the effect of entering preview mode, so the given module will do the same but without entering Preview mode."
   },
   {
     "name": "Expand Descendants Command",
@@ -487,7 +487,7 @@
   {
     "name": "Environment Styler for Sitecore",
     "url": "https://github.com/jammykam/Environment-Styler-for-Sitecore",
-    "description": "An environment specific styling (and text) on login screen and header ribbon for Sitecore."
+    "description": "An environment-specific styling (and text) on the login screen and header ribbon for Sitecore."
   },
   {
     "name": "InsertOptionsLoophole",
@@ -517,12 +517,12 @@
   {
     "name": "SitecoreFieldSuite",
     "url": "https://github.com/Velir/SitecoreFieldSuite",
-    "description": "Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items and adding new functionality such as the Edit Form, Go to Item button and the Field Gutter."
+    "description": "Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items, and adding new functionality such as the Edit Form, Go to Item button, and the Field Gutter."
   },
   {
     "name": "Sitecore Smart Commands",
     "url": "https://github.com/AlenPelin/Sitecore-Smart-Commands",
-    "description": "A shared-source module that contains smart copy, duplicate and clone commands in Content Editor, that implement so much wanted functionality missing by default."
+    "description": "A shared-source module that contains smart copy, duplicate, and clone commands in Content Editor, that implement so much wanted functionality missing by default."
   },
   {
     "name": "CopyPageToVersions",
@@ -547,12 +547,12 @@
   {
     "name": "CrossDatabaseTreeListField",
     "url": "https://github.com/ivansharamok/CrossDatabaseTreeListField",
-    "description": "An extended Treelist field to support cross database references."
+    "description": "An extended Treelist field to support cross-database references."
   },
   {
     "name": "LimitedText Field",
     "url": "https://github.com/ParTech/LimitedText-Field-Controls",
-    "description": "Adds two new field types to the Sitecore Content Editor, Single-Line Text Limited and Multi-Line Text Limited. Both inherit all functionality from the existing text field controls and add the posibility to configure a maximum allowed value for the field, also inform the user of the number of remaining characters while they are editing."
+    "description": "Adds two new field types to the Sitecore Content Editor, Single-Line Text Limited and Multi-Line Text Limited. Both inherit all functionality from the existing text field controls and add the possibility to configure a maximum allowed value for the field, also inform the user of the number of remaining characters while they are editing."
   },
   {
     "name": "CustomFields",
@@ -567,7 +567,7 @@
   {
     "name": "Hide Dependent Fields Controls",
     "url": "https://github.com/jammykam/Hide-Dependent-Fields",
-    "description": "Adds new Checkbox, Droplist and Droplink field type to the Sitecore Content Editor which depending on the selected value will hide the proceeding sibling fields. All controls inherit from their equivalent Sitecore counterpart and add the required UI enhancements."
+    "description": "Adds new Checkbox, Droplist, and Droplink field type to the Sitecore Content Editor which depending on the selected value will hide the proceeding sibling fields. All controls inherit from their equivalent Sitecore counterpart and add the required UI enhancements."
   },
   {
     "name": "icon-selector-field",
@@ -577,12 +577,12 @@
   {
     "name": "ImageSelector",
     "url": "https://github.com/markvanaalst/Sitecore.SharedSource.ImageSelector",
-    "description": "An image Selector field for Sitecore to allow selecting and previewing multiple images based on TreeListEx field."
+    "description": "An image Selector field for Sitecore to allow selecting and previewing multiple images based on the TreeListEx field."
   },
   {
     "name": "Sitecore-Forms-Extensions",
     "url": "https://github.com/bartverdonck/Sitecore-Forms-Extensions",
-    "description": "Adds some functionality to the forms creator, such as sending mails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more."
+    "description": "Adds some functionality to the forms creator, such as sending emails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more."
   },
   {
     "name": "WFFM Conversion Tool",
@@ -605,6 +605,21 @@
     "description": "Handles all possible presentation scenarios to integrate a handlebars frontend into Sitecore instead of Razor View without functional loss and improving productivity."
   },
   {
+    "name": "Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub",
+    "url": "https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service",
+    "description": "This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub."
+  },
+  {
+    "name": "Uniform, JSS and Next.js starter kit",
+    "url": "https://github.com/uniformdev/sitecore-jss-nextjs-starterkit",
+    "description": "A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with."
+  },
+  {
+    "name": "Uniform, MVC and Next.js starter kit",
+    "url": "https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit",
+    "description": "A starter kit of Uniform, MVC, and Next.JS with content items and required configuration files, great to start a vanilla project with."
+  },
+  {
     "name": "JSS",
     "url": "https://github.com/Sitecore/jss",
     "description": "An official repo of Sitecore JavaScript Services."
@@ -617,7 +632,7 @@
   {
     "name": "SitecoreQL",
     "url": "https://github.com/kmazzoni/SitecoreQL",
-    "description": "A GraphQL implementation for Sitecore, for example you can query against Sitecore's Content Search API."
+    "description": "A GraphQL implementation for Sitecore, for example, you can query against Sitecore's Content Search API."
   },
   {
     "name": "JSS React Starter Application",
@@ -642,7 +657,7 @@
   {
     "name": "How to GraphQL",
     "url": "https://github.com/kamsar/howtographql",
-    "description": "A fullstack tutorial website to learn all about GraphQL."
+    "description": "A full-stack tutorial website to learn all about GraphQL."
   },
   {
     "name": "JSS with Vue.js",
@@ -660,19 +675,9 @@
     "description": "Adds support for images rendered by SVG tags in Sitecore JSS."
   },
   {
-    "name": "Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub",
-    "url": "https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service",
-    "description": "This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub."
-  },
-  {
-    "name": "Uniform, JSS and Next.js starter kit",
-    "url": "https://github.com/uniformdev/sitecore-jss-nextjs-starterkit",
-    "description": "A starter kit of Uniform, JSS and Next.JS with content items and required configuration files, great to start a vanilla project with."
-  },
-  {
-    "name": "Uniform, MVC and Next.js starter kit",
-    "url": "https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit",
-    "description": "A starter kit of Uniform, MVC and Next.JS with content items and required configuration files, great to start a vanilla project with."
+    "name": "jss21.4-nextjs-storybook7.4",
+    "url": "https://github.com/jflheureux/jss21.4-nextjs-storybook7.4",
+    "description": "Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history."
   },
   {
     "name": "Sample",
@@ -682,22 +687,22 @@
   {
     "name": "Sitecore Helix Documentation",
     "url": "https://github.com/Sitecore/Helix.Docs",
-    "description": "The official guidelines and recommended practises for developing in Sitecore for Sitecore Helix."
+    "description": "The official guidelines and recommended practices for developing in Sitecore for Sitecore Helix."
   },
   {
     "name": "Sitecore Helix Examples",
     "url": "https://github.com/Sitecore/Helix.Examples",
-    "description": "Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples."
+    "description": "Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples."
   },
   {
     "name": "Helixbase",
     "url": "https://github.com/muso31/Helixbase",
-    "description": "Sitecore Helix based solution for Greenfield projects."
+    "description": "Sitecore Helix-based solution for Greenfield projects."
   },
   {
     "name": "Sitecore Foundation",
     "url": "https://github.com/Avanade/SitecoreFoundation",
-    "description": "Sitecore Framework that follows the Helix modular architecture design principles.Includes plenty of Feature and Foundation layer modules, as well as reusable Common from Project layer."
+    "description": "Sitecore Framework that follows the Helix modular architecture design principles.Includes plenty of Feature and Foundation layer modules, as well as reusable Common from the Project layer."
   },
   {
     "name": "Helix example Module & Solution templates",
@@ -712,7 +717,7 @@
   {
     "name": "Helix Publishing Pipeline",
     "url": "https://github.com/richardszalay/helix-publishing-pipeline",
-    "description": "Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line."
+    "description": "Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimizations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line."
   },
   {
     "name": "CustomLinkProvider",
@@ -722,12 +727,12 @@
   {
     "name": "Elision",
     "url": "https://github.com/sitecore-elision",
-    "description": "An open source Sitecore accelerator implementing Helix principles."
+    "description": "An open-source Sitecore accelerator implementing Helix principles."
   },
   {
     "name": "Helixify",
     "url": "https://github.com/konabos/Konabos.Helixify",
-    "description": "The module designed to add instant Helix compatilbility to any Sitecore project."
+    "description": "The module is designed to add instant Helix compatibility to any Sitecore project."
   },
   {
     "name": "Sitecore Foundation",
@@ -762,7 +767,7 @@
   {
     "name": "Sitecore IAR Management",
     "url": "https://github.com/GAAOPS/Sitecore.IAR.Management",
-    "description": "PowerShell script for managing Item as resources."
+    "description": "PowerShell script for managing Items as resources."
   },
   {
     "name": "Sitecore Item as Resource Explorer",
@@ -772,12 +777,12 @@
   {
     "name": "Sitecore Item Translator",
     "url": "https://github.com/adoprog/Sitecore-Item-Translator",
-    "description": "An item Translator module integrates Google translate seamlessly so that with a click of a button you are able to translate your text to any language that Google translate supports."
+    "description": "An item Translator module integrates Google Translate seamlessly so that with a click of a button you can translate your text into any language that Google Translate supports."
   },
   {
     "name": "Sitecore Item Versioner",
     "url": "https://github.com/aquasonic/SitecoreItemVersioner",
-    "description": "This module adds a new ribbon into the versions chunk of the Content Editor.With the new ribbon it is possible to initially create an item version in all configured languages."
+    "description": "This module adds a new ribbon into the version's chunk of the Content Editor. With the new ribbon, it is possible to initially create an item version in all configured languages."
   },
   {
     "name": "CopyPageToVersions",
@@ -787,7 +792,7 @@
   {
     "name": "SitecoreRollingLogFileAppender",
     "url": "https://github.com/ivansharamok/SitecoreRollingLogFileAppender",
-    "description": "Log4net RollingLogFileAppender for Sitecore that allows to cap log files size."
+    "description": "Log4net RollingLogFileAppender for Sitecore that allows capping log files size."
   },
   {
     "name": "RabbitMQ.GEFL.Appender for Sitecore",
@@ -797,7 +802,7 @@
   {
     "name": "Logging To Logentries",
     "url": "https://github.com/jammykam/Sitecore.Logentries",
-    "description": "Configures your application to log intto Logentries (supports NLog, Log4net, Serilog, others)."
+    "description": "Configures your application to log into Logentries (supports NLog, Log4net, Serilog, others)."
   },
   {
     "name": "Namics.Foundation.Logger",
@@ -812,12 +817,12 @@
   {
     "name": "Sitecore Instance Manager",
     "url": "https://github.com/Sitecore/Sitecore-Instance-Manager",
-    "description": "The legendary Sitecore Instanmce Manager, now with veriosn 9.x support."
+    "description": "The legendary Sitecore Instant Manager, now with version 9.x support."
   },
   {
     "name": "Sifon",
     "url": "https://github.com/MartinMiles/Sifon",
-    "description": "Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has very powerful extension system with plugins covering many aspects of day-to-day activities."
+    "description": "Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has a very powerful extension system with plugins covering many aspects of day-to-day activities."
   },
   {
     "name": "Autocropper",
@@ -832,12 +837,12 @@
   {
     "name": "YouTube Integration module",
     "url": "https://github.com/ivansharamok/YouTube-Integration",
-    "description": "An easy way to show the videos from a channel at YouTube on your site, the YouTube integration module might be what you are looking for. In the media library you have a YouTube folder and by typing the name of the channel, all the videos in that channel are now represented by an item and when you create a new video on your channel it automatically updates the channel in the media library."
+    "description": "An easy way to show the videos from a channel on YouTube on your site, the YouTube integration module might be what you are looking for. In the media library, you have a YouTube folder and by typing the name of the channel, all the videos in that channel are now represented by an item and when you create a new video on your channel it automatically updates the channel in the media library."
   },
   {
     "name": "Shrink",
     "url": "https://github.com/robhabraken/shrink",
-    "description": "Gives an insight in the usage of your media librarysimilar to a disk usage statistics viewer for your hard drives, also shows you which items are actually being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!"
+    "description": "Gives an insight into the usage of your media library similar to a disk usage statistics viewer for your hard drives, also shows you which items are being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!"
   },
   {
     "name": "Dianoga",
@@ -857,7 +862,7 @@
   {
     "name": "TemplateModelHelper",
     "url": "https://github.com/lowedown/TemplateModelHelper",
-    "description": "Helper methods for working with generated Sitecore Template Models (Mapped through Glass.Mapper or other framework) wit a main goal is to make it easy for developers to query the Sitecore database using generated Template models."
+    "description": "Helper methods for working with generated Sitecore Template Models (Mapped through Glass.Mapper or other framework) with a main goal is to make it easy for developers to query the Sitecore database using generated Template models."
   },
   {
     "name": "TDS-T4-Model-Generation",
@@ -872,7 +877,7 @@
   {
     "name": "Synthesis",
     "url": "https://github.com/blipson89/Synthesis",
-    "description": "An object mapping framework for Sitecore that enables developing more reliable and maintainable sites in less time than traditional Sitecore development. It is a strongly typed template object generator that is easily understandable for developers with either a Sitecore or traditional .NET background. It neatly integrates with Sitecore MVC (via the Synthesis.Mvc package) as a View rendering model provider and IoC dependency for controller renderings."
+    "description": "An object mapping framework for Sitecore that enables the development of more reliable and maintainable sites in less time than traditional Sitecore development. It is a strongly typed template object generator that is easily understandable for developers with either a Sitecore or traditional .NET background. It neatly integrates with Sitecore MVC (via the Synthesis.Mvc package) as a View rendering model provider and IoC dependency for controller renderings."
   },
   {
     "name": "License Expiration Module 2.0",
@@ -882,12 +887,12 @@
   {
     "name": "Sitecore.SharedSource.JohnWest",
     "url": "https://github.com/jammykam/Sitecore.SharedSource.JohnWest",
-    "description": "A collection of code samples of Sitecore protoypes from John West blog posts."
+    "description": "A collection of code samples of Sitecore prototypes from John West blog posts."
   },
   {
     "name": "BLAZOR + SITECORE",
     "url": "https://github.com/GoranHalvarsson/SitecoreBlazor",
-    "description": "Allows you to run Sitecore app's client-side, also following the HELIX concept, the clean way."
+    "description": "Allows you to run the Sitecore app's client-side, also following the HELIX concept, the clean way."
   },
   {
     "name": "Sitecore.SampleMvc",
@@ -897,7 +902,7 @@
   {
     "name": "Sitecore TokenManager",
     "url": "https://github.com/JeffDarchuk/SCTokenManager",
-    "description": "A framework designed to allow any type of content to be dynamically injected into a RTE field."
+    "description": "A framework designed to allow any type of content to be dynamically injected into an RTE field."
   },
   {
     "name": "sxp-notifications",
@@ -962,22 +967,22 @@
   {
     "name": "SIF scripts to install Publishing Service",
     "url": "https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice",
-    "description": "Powershell scripts that both use the Sitecore Install Framework (SIF) to auto install the Publishing Service & auto install the Publishing Module on top of the ContentManagement instance or StandAlone instance."
+    "description": "Powershell scripts that both use the Sitecore Install Framework (SIF) to auto-install the Publishing Service & auto-install the Publishing Module on top of the ContentManagement instance or StandAlone instance."
   },
   {
     "name": "Publish Viewer",
     "url": "https://github.com/mikeedwards83/Glass.PublishViewer",
-    "description": "Allows you to monitor the publishing queue on the Sitecore Publishing CM Server, see their current status and cancel publishing jobs if required (ie. time queued, time publish job started, duration in the queue, number of items published, average time to publish an item, all messages from the publish job)."
+    "description": "Allows you to monitor the publishing queue on the Sitecore Publishing CM Server, see their current status, and cancel publishing jobs if required (ie. time queued, time publish job started, duration in the queue, number of items published, average time to publish an item, all messages from the published job)."
   },
   {
     "name": "Sitecore Power Publish",
     "url": "https://github.com/robhabraken/sitecore-power-publish",
-    "description": "Publish button that forces the item being published, regardless the state of the Publishable option on the Item tab in the Publish restriction. 1) This function will not publish linked pages in your site that are not published, but only resources like media library items and data sources used in item fields, as those are needed to display the item you want to publish correctly. This method even publishes the templates and layouts used by the current item, if that's not done yet. 2) Unpublish button enables you to unpublish an item with a single click. It will change the Publish Restrictions as it unchecks the Publishable option on the Item tab and publishes the item after that, using a full Republish without Subitems. 3) Publishing State button shows the publishing state for all publishing targets. If a publishing target is up-to-date, a green dot is shown. If the item is published to a publishing target, but the item has changed afterwards, an orange dot is shown (so it's published, but not up-to-date). If the current item is not present in a publishing target at all, a red dot is shown. This function enables the content editor to check into detail if the content is published or not, for every publishing target."
+    "description": "Publish button that forces the item being published, regardless of the state of the Publishable option on the Item tab in the Publish restriction. 1) This function will not publish linked pages in your site that are not published, but only resources like media library items and data sources used in item fields, as those are needed to display the item you want to publish correctly. This method even publishes the templates and layouts used by the current item, if that's not done yet. 2) Unpublish button enables you to unpublish an item with a single click. It will change the Publish Restrictions as it unchecks the Publishable option on the Item tab and publishes the item after that, using a full Republish without Subitems. 3) The Publishing State button shows the publishing state for all publishing targets. If a publishing target is up-to-date, a green dot is shown. If the item is published to a publishing target, but the item has changed afterward, an orange dot is shown (so it's published, but not up-to-date). If the current item is not present in a publishing target at all, a red dot is shown. This function enables the content editor to check in detail if the content is published or not, for every publishing target."
   },
   {
     "name": "Page Rules",
     "url": "https://github.com/marek-musielak/Marek.Musielak.PageRules",
-    "description": "Create any custom Sitecore rules for every page your visitors browse. User hasn't read T&C page and wants to see a contest page? Page should be accessible only after a certain date? You want to use GEO IP data to change the language of your home page automatically? You don't have translation ready for your page? With Sitecore rules engine only sky is the limit!"
+    "description": "Create any custom Sitecore rules for every page your visitors browse. The user hasn't read T&C page and wants to see a contest page? Page should be accessible only after a certain date? You want to use GEO IP data to change the language of your home page automatically? You don't have a translation ready for your page? With the Sitecore rules engine only sky is the limit!"
   },
   {
     "name": "ItemNamingRules",
@@ -1002,7 +1007,7 @@
   {
     "name": "Conditional Placeholder Settings",
     "url": "https://github.com/matthewkenny/ConditionalPlaceholderSettings",
-    "description": "A module to allow Sitecore Rules Engine supporting the existing placeholder settings functionality coming with Sitecore."
+    "description": "A module to allow Sitecore Rules Engine to support the existing placeholder settings functionality coming with Sitecore."
   },
   {
     "name": "Sitecore Adaptive Rules",
@@ -1012,12 +1017,12 @@
   {
     "name": "Securty Headers",
     "url": "https://github.com/GuitarRich/SXA.SecurityHeaders",
-    "description": "Shows how to implement response security headers on an exaple of SXA, but they are truly Helix-generic."
+    "description": "Shows how to implement response security headers on an example of SXA, but they are truly Helix-generic."
   },
   {
     "name": "SI Snitch",
     "url": "https://github.com/KayeeNL/SI-Snitch",
-    "description": "A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly."
+    "description": "A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after the transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly."
   },
   {
     "name": "MasterKey",
@@ -1077,7 +1082,7 @@
   {
     "name": "URL Rewrite",
     "url": "https://github.com/iamandycohen/UrlRewrite",
-    "description": "A site-specific version of Redirect / Rewrite module."
+    "description": "A site-specific version of the Redirect / Rewrite module."
   },
   {
     "name": "Rainbow",
@@ -1092,7 +1097,7 @@
   {
     "name": "Sidekick",
     "url": "https://github.com/JeffDarchuk/SitecoreSidekick",
-    "description": "A framework for angularjs based microservice architecture operations."
+    "description": "A framework for angularjs-based microservice architecture operations."
   },
   {
     "name": "Rhino",
@@ -1172,12 +1177,12 @@
   {
     "name": "SXA Styleguide",
     "url": "https://github.com/markvanaalst/SXA.Styleguide",
-    "description": "An education site based on SXA that helps explaining the inner working and illustrating best practices."
+    "description": "An education site based on SXA that helps explain the inner workings and illustrate best practices."
   },
   {
     "name": "SXA.Styleguide.Frontend",
     "url": "https://github.com/markvanaalst/SXA.Styleguide.Frontend",
-    "description": "A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the seperate scriban templates."
+    "description": "A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the separate Scriban templates."
   },
   {
     "name": "SXA.Foundation.Variants",
@@ -1187,12 +1192,12 @@
   {
     "name": "SXA Reference",
     "url": "https://github.com/alan-null/XA.Reference",
-    "description": "An example Sitecore project build on top of Sitecore Experience Accelerator."
+    "description": "An example Sitecore project built on top of Sitecore Experience Accelerator."
   },
   {
     "name": "SXA.HealthCheck",
     "url": "https://github.com/alan-null/SXA.HealthCheck",
-    "description": "A Power Shell script used to determine health status of SXA site, consists of validation steps, each of them checks different thing in SXA solution and provides possible solution."
+    "description": "A Power Shell script used to determine the health status of the SXA site, consists of validation steps, each of them checks different things in SXA solution and provides possible solutions."
   },
   {
     "name": "Global Field Validator",
@@ -1217,7 +1222,7 @@
   {
     "name": "SXA Securty Headers",
     "url": "https://github.com/GuitarRich/SXA.SecurityHeaders",
-    "description": "Shows how to implemenmt response security headers on an exaple of SXA, but they are truly Helix-generic."
+    "description": "Shows how to implement response security headers on an example of SXA, but they are truly Helix-generic."
   },
   {
     "name": "SXA.Platform.Assemblies",
@@ -1227,7 +1232,7 @@
   {
     "name": "Sitecore FakeDb",
     "url": "https://github.com/sshushliapin/Sitecore.FakeDb",
-    "description": "A unit testing framework for Sitecore that enables creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation."
+    "description": "A unit testing framework for Sitecore that enables the creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation."
   },
   {
     "name": "Minq",
@@ -1237,12 +1242,12 @@
   {
     "name": "Token Set",
     "url": "https://github.com/retohugi/SitecoreExtension-TokenSet",
-    "description": "Provides additional standard value tokens for Sitecore Data Templates, icludes future date and obtaining the value by executing a query."
+    "description": "Provides additional standard value tokens for Sitecore Data Templates, including future date and obtaining the value by executing a query."
   },
   {
     "name": "Terminal DevEx Improvements",
     "url": "https://github.com/Sitecore/Windows-Terminal-DevEx-improvements",
-    "description": "A Sitecore branded Windows Termial and VS Code Theme and Profile to unlock helpful tooling for working with XM Cloud such as autocompletion, command history list and directory improvements."
+    "description": "A Sitecore branded Windows Terminal and VS Code Theme and Profile to unlock helpful tooling for working with XM Cloud such as autocompletion, command history list and directory improvements."
   },
   {
     "name": "UniversalTracker SDK",
@@ -1277,7 +1282,7 @@
   {
     "name": "DynamicWorkflows",
     "url": "https://github.com/ivansharamok/DynamicWorkflows",
-    "description": "Rule Engine based workflow management tool."
+    "description": "Rule Engine-based workflow management tool."
   },
   {
     "name": "XConnectTutorial",
@@ -1287,7 +1292,7 @@
   {
     "name": "XConnectHelper",
     "url": "https://github.com/lowedown/xConnectHelper",
-    "description": "A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing."
+    "description": "A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on the last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing."
   },
   {
     "name": "XdbTracker",
