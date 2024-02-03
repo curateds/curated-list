@@ -1203,6 +1203,11 @@
     "description": "Connect your containers via a web-tty @wrfly"
   },
   {
+    "name": "dockemon",
+    "url": "https://github.com/ProductiveOps/dokemon",
+    "description": "Docker Container Management GUI by @productiveops"
+  },
+  {
     "name": "Docker Compose UI",
     "url": "https://github.com/francescou/docker-compose-ui",
     "description": "Manage docker-compose via HTTP. docker-compose-ui runs in a Docker container, mounts the hosts docker socket and exposes a RESTful API and AngularJS GUI"
@@ -1241,6 +1246,11 @@
     "name": "DockerSurfer",
     "url": "https://github.com/Simone-Erba/DockerSurfer",
     "description": "A web service for analyze and browse dependencies between Docker images in the Docker registry, by @Simone-Erba"
+  },
+  {
+    "name": "dockge",
+    "url": "https://github.com/louislam/dockge",
+    "description": "easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by @louislam."
   },
   {
     "name": "Kubevious",
