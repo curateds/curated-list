@@ -1914,6 +1914,11 @@
     "description": "Continuous integration server built on Docker and configured using YAML files."
   },
   {
+    "name": "Gantry",
+    "url": "https://github.com/shizunge/gantry",
+    "description": "Automatically update selected Docker swarm services."
+  },
+  {
     "name": "GitLab Runner",
     "url": "https://gitlab.com/gitlab-org/gitlab-runner",
     "description": "GitLab has integrated CI to test, build and deploy your code with the use of GitLab runners."
@@ -2167,6 +2172,11 @@
     "name": "docker-gc",
     "url": "https://github.com/spotify/docker-gc",
     "description": "A cron job that will delete old stopped containers and unused images by @spotify"
+  },
+  {
+    "name": "Docuum",
+    "url": "https://github.com/stepchowfun/docuum",
+    "description": "Least recently used (LRU) eviction of Docker images by @stepchowfun"
   },
   {
     "name": "sherdock",

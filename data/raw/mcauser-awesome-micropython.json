@@ -225,6 +225,11 @@
     "description": "MicroPython library to read certain Xiaomi Mijia BLE temperature & humidity sensors."
   },
   {
+    "name": "micropython-aioble-itag",
+    "url": "https://github.com/mcauser/micropython-aioble-itag",
+    "description": "Examples using aioble to interact with iTag BLE keychain tags."
+  },
+  {
     "name": "micropython-spacecan",
     "url": "https://gitlab.com/alphaaomega/micropython-spacecan",
     "description": "Spacecan is a MicroPython implementation of the SpaceCAN protocol for embedded systems."
@@ -1290,6 +1295,11 @@
     "description": "A small Python module for BMP image processing."
   },
   {
+    "name": "MicroPython_UPLOT",
+    "url": "https://github.com/jposada202020/MicroPython_UPLOT",
+    "description": "MicroPython Small Graphics Framework."
+  },
+  {
     "name": "lvgl",
     "url": "https://github.com/lvgl/lv_binding_micropython",
     "description": "An object-oriented, component-based high-level GUI library with MicroPython binding."
@@ -1935,6 +1945,11 @@
     "description": "A MicroPython module for asyncio button."
   },
   {
+    "name": "micropython-tca9548a",
+    "url": "https://github.com/mcauser/micropython-tca9548a",
+    "description": "MicroPython examples using TCA9548A I2C multiplexer."
+  },
+  {
     "name": "micropython-ad840x",
     "url": "https://github.com/dsiggi/micropython-ad840x",
     "description": "MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403."
@@ -1968,6 +1983,11 @@
     "name": "upwmcontroller",
     "url": "https://gitlab.com/WiLED-Project/upwmcontroller",
     "description": "A MicroPython library for controlling PWM outputs in an asyncio loop, with features including fading and blinking."
+  },
+  {
+    "name": "micropython-xl9535-kxv5-relay",
+    "url": "https://github.com/mcauser/micropython-xl9535-kxv5-relay",
+    "description": "A MicroPython library for jxl XL9535-KxV5 I2C relay boards."
   },
   {
     "name": "micropython-rotary",
@@ -2490,6 +2510,11 @@
     "description": "MicroPython driver for the AMS TCS3430 Color and ALS sensor."
   },
   {
+    "name": "micropython-gy33",
+    "url": "https://github.com/QuirkyCort/micropython-gy33",
+    "description": "UART and I2C drivers for GY-33 module (TCS3472 color sensor)."
+  },
+  {
     "name": "micropython-esp8266-hmc5883l",
     "url": "https://github.com/gvalkov/micropython-esp8266-hmc5883l",
     "description": "3-axis digital compass on the ESP8266."
@@ -2573,6 +2598,11 @@
     "name": "VL6180X",
     "url": "https://github.com/Ledbelly2142/VL6180X",
     "description": "MicroPython driver for the VL6180X sensor on the ESP32."
+  },
+  {
+    "name": "LidarLight_v3HP_micropython",
+    "url": "https://github.com/Dnapert/LidarLight_v3HP_micropython",
+    "description": "A MicroPython library for the Garmin Lidar Lite v3HP."
   },
   {
     "name": "micropython-hcsr04",
@@ -2950,6 +2980,11 @@
     "description": "Generic MicroPython driver for MCP9700."
   },
   {
+    "name": "micropython-generic-thermistor",
+    "url": "https://github.com/Trexation/micropython-generic-thermistor",
+    "description": "MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividors."
+  },
+  {
     "name": "bme680-mqtt-micropython",
     "url": "https://github.com/robmarkcole/bme680-mqtt-micropython",
     "description": "Driver for BME680 gas, pressure, temperature and humidity sensor."
@@ -3185,6 +3220,11 @@
     "description": "MicroPython Driver for the NXP Semiconductors PCT2075 Temperature Sensor."
   },
   {
+    "name": "micropython-hdc1080",
+    "url": "https://github.com/mcauser/micropython-hdc1080",
+    "description": "MicroPython driver for the HDC1080 temperature and humidity sensor."
+  },
+  {
     "name": "micropython-mlx90614",
     "url": "https://github.com/mcauser/micropython-mlx90614",
     "description": "Driver for Melexis MLX90614 IR temperature sensor."
@@ -3323,6 +3363,11 @@
     "name": "micropython-winbond",
     "url": "https://github.com/brainelectronics/micropython-winbond",
     "description": "Interact with Winbond W25Q Flash chips via SPI."
+  },
+  {
+    "name": "freezeFS",
+    "url": "https://github.com/bixb922/freezeFS",
+    "description": "Create self-extracting compressed or self-mounting archives for MicroPython."
   },
   {
     "name": "micropython-fram",
