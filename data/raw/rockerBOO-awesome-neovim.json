@@ -105,6 +105,11 @@
     "description": "Show type annotations as virtual text."
   },
   {
+    "name": "marilari88/twoslash-queries.nvim",
+    "url": "https://github.com/marilari88/twoslash-queries.nvim",
+    "description": "Provide inline virtual text displaying TypeScript types for the inspected variables."
+  },
+  {
     "name": "ray-x/navigator.lua",
     "url": "https://github.com/ray-x/navigator.lua",
     "description": "Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰."
@@ -275,8 +280,8 @@
     "description": "A heavily modified fork of rust-tools.nvim that does not require a setup call and does not depend on nvim-lspconfig."
   },
   {
-    "name": "soulis-1256/hoverhints.nvim",
-    "url": "https://github.com/soulis-1256/hoverhints.nvim",
+    "name": "soulis-1256/eagle.nvim",
+    "url": "https://github.com/soulis-1256/eagle.nvim",
     "description": "Mouse-hover LSP hints."
   },
   {
@@ -613,6 +618,11 @@
     "name": "AckslD/nvim-FeMaco.lua",
     "url": "https://github.com/AckslD/nvim-FeMaco.lua",
     "description": "Catalyze your Fenced Markdown Code-block editing."
+  },
+  {
+    "name": "Nedra1998/nvim-mdlink",
+    "url": "https://github.com/Nedra1998/nvim-mdlink",
+    "description": "Simplify creating and following markdown links."
   },
   {
     "name": "NFrid/markdown-togglecheck",

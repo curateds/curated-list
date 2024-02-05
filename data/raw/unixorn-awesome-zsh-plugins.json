@@ -480,7 +480,7 @@
   {
     "name": "BlaCk-Void-Zsh",
     "url": "https://github.com/black7375/BlaCk-Void-Zsh",
-    "description": "🔮 Awesome, customable Zsh Starter Kit 🌠🌠. Includes powerline, fzf integration, Weather and image viewing in some terminals."
+    "description": "🔮 Awesome, customizable Zsh Starter Kit 🌠🌠. Includes powerline, fzf integration, Weather and image viewing in some terminals."
   },
   {
     "name": "zinit-configs",
@@ -3434,6 +3434,11 @@
     "name": "prettyping",
     "url": "https://github.com/unixorn/prettyping",
     "description": "Adds a wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read."
+  },
+  {
+    "name": "prezto-last-working-dir",
+    "url": "https://github.com/JoniVanderheijden/prezto-last-working-dir",
+    "description": "Keeps track of the last used working directory and automatically jumps into it for new shells, unless the starting directory is not $HOME. Includes a lwd alias."
   },
   {
     "name": "print-alias",
@@ -7444,6 +7449,11 @@
     "description": "Simple yet informative theme that includes git decorations and the return status of the last command."
   },
   {
+    "name": "greencastle",
+    "url": "https://github.com/GustavGroenborg/greencastle-zsh-theme/",
+    "description": "Minimalistic theme, that supports really, really, long branch names, without severely truncating the prompt. The theme is inspired by the jonathan theme and the robby russel theme. Includes decorators for current directory, git information and the exit status of the last command run."
+  },
+  {
     "name": "griffin",
     "url": "https://github.com/GriffinLedingham/griffin.zsh-theme",
     "description": "Minimalist, includes git status decorations."
@@ -10362,11 +10372,6 @@
     "name": "wormwood",
     "url": "https://github.com/ann-kilzer/annkilzer.zsh-theme",
     "description": "Includes decorators for last command exit status, current directory and git status."
-  },
-  {
-    "name": "wynwyn",
-    "url": "https://github.com/thaffenden/wynwyn.zsh-theme",
-    "description": "A theme that aims to show you the information you need when you need it. wynwyn takes inspiration from the default theme avit and the excellent Spaceship prompt."
   },
   {
     "name": "x",

@@ -1314,6 +1314,11 @@
     "description": "Legacy browser support with SWC."
   },
   {
+    "name": "vite-plugin-biome",
+    "url": "https://github.com/skrulling/vite-plugin-biome",
+    "description": "Biome linter."
+  },
+  {
     "name": "unplugin-icons",
     "url": "https://github.com/antfu/unplugin-icons",
     "description": "Access thousands of icons as components."
@@ -1547,6 +1552,11 @@
     "name": "vite-plugin-imagemin",
     "url": "https://github.com/vHeemstra/vite-plugin-imagemin",
     "description": "Optimize and compress your image assets and optionally create WebP/AVIF."
+  },
+  {
+    "name": "vite-plugin-lib-types",
+    "url": "https://github.com/keuby/vite-plugin-lib-types",
+    "description": "Generate DTS file while building library."
   },
   {
     "name": "vite-plugin-html",
