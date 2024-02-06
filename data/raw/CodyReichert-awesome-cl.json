@@ -3485,9 +3485,14 @@
     "description": "access to common file attributes (uid, gid, permissions, ctime, mtime, atime)."
   },
   {
+    "name": "filepaths",
+    "url": "https://github.com/fosskers/filepaths",
+    "description": "Modern and consistent filepath manipulation for Common Lisp. LGPL3."
+  },
+  {
     "name": "ppath",
     "url": "https://codeberg.org/fourier/ppath",
-    "description": "Common Lisp's"
+    "description": "Common Lisp's implementation of the Python's os.path module. BSD."
   },
   {
     "name": "mmap",

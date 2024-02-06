@@ -1005,6 +1005,11 @@
     "description": "Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption."
   },
   {
+    "name": "Data Profiler",
+    "url": "https://github.com/capitalone/dataprofiler",
+    "description": "The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy."
+  },
+  {
     "name": "Grai",
     "url": "https://github.com/grai-io/grai-core/",
     "description": "A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production."

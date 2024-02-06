@@ -1420,6 +1420,11 @@
     "description": "HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. (Source Code) BSD-2-Clause C"
   },
   {
+    "name": "Static Web Server",
+    "url": "https://static-web-server.net/",
+    "description": "A cross-platform, high-performance, and asynchronous web server for static file serving. (Source Code) Apache-2.0/MIT Rust/Docker"
+  },
+  {
     "name": "Traefik",
     "url": "https://traefik.io/",
     "description": "HTTP reverse proxy and load balancer that makes deploying microservices easy. (Source Code) MIT Go/Docker"

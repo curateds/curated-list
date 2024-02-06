@@ -722,29 +722,9 @@
     "description": "An easy to use ffmpeg module for Deno. 🦕"
   },
   {
-    "name": "abc",
-    "url": "https://github.com/zhmushan/abc",
-    "description": "A better Deno framework to create web application."
-  },
-  {
-    "name": "alosaur",
-    "url": "https://github.com/alosaur/alosaur",
-    "description": "Alosaur - Deno web framework with many decorators."
-  },
-  {
-    "name": "attain",
-    "url": "https://github.com/aaronwlee/Attain",
-    "description": "A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage."
-  },
-  {
     "name": "aqua",
     "url": "https://github.com/l2ig/aqua",
     "description": "A minimal and fast web framework for Deno."
-  },
-  {
-    "name": "cheetah",
-    "url": "https://github.com/azurystudio/cheetah",
-    "description": "🐈 A blazing fast framework for the modern web."
   },
   {
     "name": "danet",
@@ -752,24 +732,9 @@
     "description": "A Savory web framework for Deno heavily inspired by Nest.js."
   },
   {
-    "name": "deno-express",
-    "url": "https://github.com/NMathar/deno-express",
-    "description": "Node Express ported to Deno."
-  },
-  {
-    "name": "dinatra",
-    "url": "https://github.com/syumai/dinatra",
-    "description": "Sinatra like light weight web app framework for deno."
-  },
-  {
     "name": "drash",
     "url": "https://github.com/drashland/deno-drash",
     "description": "A REST microframework for Deno's HTTP server with zero dependencies."
-  },
-  {
-    "name": "fast",
-    "url": "https://github.com/danteissaias/fast",
-    "description": "Small web framework with near-native performance."
   },
   {
     "name": "faster",
@@ -800,11 +765,6 @@
     "name": "opine-http-proxy",
     "url": "https://github.com/asos-craigmorten/opine-http-proxy",
     "description": "Proxy middleware for Deno Opine HTTP servers."
-  },
-  {
-    "name": "pogo",
-    "url": "https://github.com/sholladay/pogo",
-    "description": "Server framework for Deno."
   },
   {
     "name": "wren",
