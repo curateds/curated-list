@@ -425,6 +425,11 @@
     "description": "PSR-7 HTTP Message implementation."
   },
   {
+    "name": "CrawlerDetect",
+    "url": "https://github.com/JayBizzle/Crawler-Detect",
+    "description": "A PHP class for detecting bots/crawlers/spiders via the user agent."
+  },
+  {
     "name": "Chrome PHP",
     "url": "https://github.com/chrome-php/chrome",
     "description": "Instrument headless Chrome/Chromium instances from PHP."

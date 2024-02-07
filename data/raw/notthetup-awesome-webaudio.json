@@ -109,6 +109,16 @@
     "description": "A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI."
   },
   {
+    "name": "waveform-path",
+    "url": "https://github.com/jerosoler/waveform-path",
+    "description": "Library to generate waveforms paths in svg."
+  },
+  {
+    "name": "wave-audio-path-player",
+    "url": "https://github.com/jerosoler/wave-audio-path-player",
+    "description": "Simple audio player webcomponent customizable with waveform."
+  },
+  {
     "name": "Audion",
     "url": "https://github.com/google/audion",
     "description": "Chrome extension that adds a Web Audio panel to Developer Tools."
