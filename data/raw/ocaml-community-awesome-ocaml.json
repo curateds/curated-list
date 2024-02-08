@@ -102,11 +102,8 @@
   },
   {
     "name": "core_bench",
-    "url": "https://github.com/janestreet/core_bench"
-  },
-  {
-    "name": "Getting Started with Core_bench",
-    "url": "https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench"
+    "url": "https://github.com/janestreet/core_bench",
+    "description": "Getting Started with Core_bench"
   },
   {
     "name": "benchmark",
@@ -143,17 +140,17 @@
   {
     "name": "OCaml from the Very Beginning",
     "url": "http://ocaml-book.com/",
-    "description": "OCaml from the Very Beginning will appeal both to new programmers, and experienced programmers eager to explore functional languages such as OCaml."
+    "description": "OCaml from the Very Beginning will appeal both to new programmers and experienced programmers eager to explore functional languages such as OCaml."
   },
   {
     "name": "Pearls of Functional Algorithm Design",
     "url": "https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383",
-    "description": "It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are here."
+    "description": "It summarizes 30 hard algorithmic problems in the function programming world. Although it is for Haskell, the algorithm problems are very interesting, and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are here."
   },
   {
     "name": "Real World OCaml",
     "url": "https://realworldocaml.org/",
-    "description": "Functional programming for the masses."
+    "description": "Functional Programming for the masses."
   },
   {
     "name": "Unix System Programming in OCaml",
@@ -176,17 +173,12 @@
   {
     "name": "OCaml Programming: Correct + Efficient + Beautiful",
     "url": "https://cs3110.github.io/textbook",
-    "description": "Textboot on functional programming and data structures in OCaml - by Michael R. Clarkson et al."
-  },
-  {
-    "name": "OCaml Programming: Correct + Efficient + Beautiful",
-    "url": "https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU",
-    "description": "List of 200 bite-sized videos recorded by Michael R. Clarkson. It can be watched independently of the textbook titled the same and listed above in Books section."
+    "description": "Textbook on Functional Programming and Data Structures in OCaml - by Michael R. Clarkson et al."
   },
   {
     "name": "Mascot",
     "url": "http://mascot.x9c.fr/",
-    "description": "Mascot is a style-checker for OCaml sources"
+    "description": "Mascot is a style-checker for OCaml sources."
   },
   {
     "name": "pfff",
@@ -200,12 +192,12 @@
   {
     "name": "Frama-C",
     "url": "http://frama-c.com",
-    "description": "Frama-C is a static analysis and formal proof framework for C and C++"
+    "description": "Frama-C is a static analysis and formal proof framework for C and C++."
   },
   {
     "name": "flow",
     "url": "https://github.com/facebook/flow",
-    "description": "flow is a static type checker for JavaScript"
+    "description": "flow is a static type checker for JavaScript."
   },
   {
     "name": "SLAyer",
@@ -833,12 +825,12 @@
   {
     "name": "Notty",
     "url": "https://github.com/pqwy/notty",
-    "description": "Notty is a declarative terminal library for OCaml, structured around a notion of composable images."
+    "description": "Notty is a declarative terminal library for OCaml, structured around the notion of composable images."
   },
   {
     "name": "ocaml-linenoise",
     "url": "https://github.com/ocaml-community/ocaml-linenoise",
-    "description": "Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml."
+    "description": "Self-contained OCaml bindings to linenoise; easy high-level readline functionality in OCaml."
   },
   {
     "name": "Higher-Rank Polymorphism in OCaml",
@@ -921,7 +913,7 @@
   {
     "name": "Oni2",
     "url": "https://github.com/onivim/oni2",
-    "description": "Native, lightweight modal code editor"
+    "description": "Native, lightweight modal code editor."
   },
   {
     "name": "pfff",
@@ -936,7 +928,7 @@
   {
     "name": "xen-api",
     "url": "https://github.com/xapi-project/xen-api",
-    "description": "management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool"
+    "description": "management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool."
   },
   {
     "name": "dolog",
@@ -1451,7 +1443,7 @@
   {
     "name": "nocoiner",
     "url": "https://github.com/marcoonroad/nocoiner",
-    "description": "A Commitment Schemes library for Multi-party Computations such as online Auctions and Gambling."
+    "description": "A Commitment scheme library for Multi-party computations such as online auctions and gambling."
   },
   {
     "name": "nocrypto",
@@ -1570,7 +1562,7 @@
   {
     "name": "Uuidm",
     "url": "https://erratique.ch/software/uuidm",
-    "description": "Uuidm is an OCaml module implementing 128 bits universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122."
+    "description": "Uuidm is an OCaml module implementing 128-bit universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122."
   },
   {
     "name": "Opium",

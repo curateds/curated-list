@@ -505,6 +505,11 @@
     "description": "Tools for working with Quarto documents."
   },
   {
+    "name": "iabdelkareem/csharp.nvim",
+    "url": "https://github.com/iabdelkareem/csharp.nvim",
+    "description": "Enhances the development experience for .NET developers."
+  },
+  {
     "name": "ray-x/go.nvim",
     "url": "https://github.com/ray-x/go.nvim",
     "description": "Golang plugin based on lsp and Treesitter."
@@ -683,6 +688,11 @@
     "name": "niuiic/translate.nvim",
     "url": "https://github.com/niuiic/translate.nvim",
     "description": "Invoke any translation engine via shell command."
+  },
+  {
+    "name": "tanloong/interlaced.nvim",
+    "url": "https://github.com/tanloong/interlaced.nvim",
+    "description": "Help align bilingual parallel texts."
   },
   {
     "name": "nvim-treesitter/nvim-treesitter",
