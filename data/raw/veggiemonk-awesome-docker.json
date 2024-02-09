@@ -1373,6 +1373,11 @@
     "description": "Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron. Supports configuration from container labels and/or configuration files."
   },
   {
+    "name": "SparkView",
+    "url": "https://github.com/beyondssl/sparkview-container",
+    "description": "Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management."
+  },
+  {
     "name": "su-exec",
     "url": "https://github.com/ncopa/su-exec",
     "description": "This is a simple tool that will simply execute a program with different privileges. The program will be executed directly and not run as a child, like su and sudo does, which avoids TTY and signal issues. Why reinvent gosu? This does more or less exactly the same thing as gosu but it is only 10kb instead of 1.8MB. By ncopa"

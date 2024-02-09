@@ -91,6 +91,11 @@
     "description": "Ibis is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars."
   },
   {
+    "name": "Python package polars-ds",
+    "url": "https://github.com/abstractqqq/polars_ds_extension",
+    "description": "Python package that contains multiple extension to simplify common numerical/string data analysis procedures by @abstractqqq."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."
