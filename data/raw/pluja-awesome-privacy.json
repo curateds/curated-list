@@ -243,9 +243,9 @@
     "description": "Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU."
   },
   {
-    "name": "LMStudio",
-    "url": "https://lmstudio.ai/",
-    "description": "Run LLMs on your laptop, entirely offline with a beautiful UI."
+    "name": "Jan",
+    "url": "https://github.com/janhq/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
   },
   {
     "name": "LocalAI",
@@ -258,14 +258,9 @@
     "description": "Get up and running with Llama 2 and other large language models locally."
   },
   {
-    "name": "Turbopilot",
-    "url": "https://github.com/ravenscroftj/turbopilot",
-    "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU."
-  },
-  {
-    "name": "Localpilot",
-    "url": "https://github.com/danielgross/localpilot",
-    "description": "Use GitHub Copilot locally on your Macbook with one-click."
+    "name": "Continue",
+    "url": "https://github.com/continuedev/continue",
+    "description": "Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM"
   },
   {
     "name": "Fauxpilot",
@@ -276,6 +271,16 @@
     "name": "vscode-fauxpilot",
     "url": "https://github.com/Venthe/vscode-fauxpilot",
     "description": "vscode extension for fauxpilot. reminder: use vscodium instead!"
+  },
+  {
+    "name": "Localpilot",
+    "url": "https://github.com/danielgross/localpilot",
+    "description": "Use GitHub Copilot locally on your Macbook with one-click."
+  },
+  {
+    "name": "Turbopilot",
+    "url": "https://github.com/ravenscroftj/turbopilot",
+    "description": "[Archived] Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU."
   },
   {
     "name": "Stable Diffusion",
@@ -428,11 +433,6 @@
     "name": "PrivateStorage",
     "url": "https://private.storage/",
     "description": "Accountless, privacy-focused cloud storage and folder synchronization with client-side encryption."
-  },
-  {
-    "name": "Skiff Drive",
-    "url": "https://skiff.com/drive",
-    "description": "Skiff Drive protects your dataq with end-to-end encryption."
   },
   {
     "name": "Cryptomator",
@@ -1000,11 +1000,6 @@
     "description": "Secure and private email."
   },
   {
-    "name": "Skiff",
-    "url": "https://skiff.com",
-    "description": "Privacy-first, end-to-end encrypted, open-source email."
-  },
-  {
     "name": "Docker mail server",
     "url": "https://github.com/docker-mailserver/docker-mailserver",
     "description": "A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker."
@@ -1381,11 +1376,6 @@
     "name": "Etherpad",
     "url": "https://etherpad.org/",
     "description": "Highly customizable open source online editor providing collaborative editing in really real-time."
-  },
-  {
-    "name": "Skiff",
-    "url": "https://skiff.com/",
-    "description": "End-to-end encrypted real-time document collaboration and file storage."
   },
   {
     "name": "Crypton",

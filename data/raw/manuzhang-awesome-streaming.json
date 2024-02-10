@@ -80,6 +80,11 @@
     "description": "mapReduce-style framework for processing fast/streaming data."
   },
   {
+    "name": "Numaflow",
+    "url": "https://github.com/numaproj/numaflow",
+    "description": "Kubernetes native stream processing platform with language agnostic framework. Scalable and cost-efficient"
+  },
+  {
     "name": "Onyx",
     "url": "https://github.com/onyx-platform/onyx",
     "description": "Distributed, masterless, high performance, fault tolerant data processing."
@@ -408,6 +413,11 @@
     "name": "DataSketches",
     "url": "https://github.com/DataSketches/sketches-core",
     "description": "sketches library from Yahoo!."
+  },
+  {
+    "name": "https://github.com/numaproj/numalogic",
+    "url": "https://github.com/numaproj/numalogic",
+    "description": "Collection of ML models and libraries for real-time anomaly detection and forecasting on time series data. Built on Numaflow, a K8s native stream processing platform"
   },
   {
     "name": "River",

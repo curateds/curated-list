@@ -262,12 +262,12 @@
   },
   {
     "name": "TransitClock",
-    "url": "http://thetransitclock.org",
+    "url": "https://thetransitclock.github.io/",
     "description": "Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.  Formerly known as \"Transitime\"."
   },
   {
     "name": "TransiCast",
-    "url": "http://www.transicast.com/",
+    "url": "https://www.transicast.com/",
     "description": "Provides public transportation data for North America in a single, integrated call and response format. The data is provided in stream-parsable XML and JSON formats.  Open-source on Google Code.  Hosted version at www.transitcast.com requires payment."
   },
   {
@@ -1443,7 +1443,7 @@
   },
   {
     "name": "GTFS-realtime VehiclePositions to GTFS-realtime TripUpdates (TransitClock)",
-    "url": "http://thetransitclock.org",
+    "url": "https://thetransitclock.github.io/",
     "description": "Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.  Formerly known as \"Transitime\"."
   },
   {

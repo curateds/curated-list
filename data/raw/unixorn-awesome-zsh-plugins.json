@@ -1111,6 +1111,11 @@
     "description": "Plugin for fast swap between upper and lower case in your command line. 😎"
   },
   {
+    "name": "chatGPT",
+    "url": "https://github.com/mountaineerbr/shellChatGPT",
+    "description": "A command-line wrapper for OpenAI API for ChatGPT, DALL-E, and Whisper."
+  },
+  {
     "name": "cheatsheet",
     "url": "https://github.com/0b10/cheatsheet",
     "description": "Plugin to easily view, create, and edit cheatsheets."
@@ -1679,6 +1684,11 @@
     "name": "eza (clavelm)",
     "url": "https://github.com/clavelm/eza-omz-plugin",
     "description": "Replaces ls with eza-community/eza."
+  },
+  {
+    "name": "eza (mohamedelashri)",
+    "url": "https://github.com/MohamedElashri/eza-zsh",
+    "description": "Adds aliases for eza, a modern replacement for ls."
   },
   {
     "name": "eza (twopizza9621536)",
