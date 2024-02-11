@@ -3145,6 +3145,11 @@
     "description": "Lightweight music streaming server. Subsonic compatible. GPL-3.0 Go/Docker"
   },
   {
+    "name": "HoloPlay",
+    "url": "https://app.holoplay.io",
+    "description": "Web app using Invidious API for listening to Youtube audio sources. (Source Code) MIT Nodejs/Docker"
+  },
+  {
     "name": "koel",
     "url": "https://koel.dev/",
     "description": "Personal music streaming server that works. (Demo, Source Code) MIT PHP"

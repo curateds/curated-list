@@ -647,7 +647,7 @@
   {
     "name": "micropython-mqtt",
     "url": "https://github.com/peterhinch/micropython-mqtt",
-    "description": "A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets."
+    "description": "A 'resilient' asynchronous MQTT client: recovers from WiFi and broker outages."
   },
   {
     "name": "MQBoard",

@@ -960,6 +960,11 @@
     "description": "A PHP code-quality tool."
   },
   {
+    "name": "PHP Magic Number Detector",
+    "url": "https://github.com/povils/phpmnd",
+    "description": "A library that detects magic numbers in code."
+  },
+  {
     "name": "PHP Parser",
     "url": "https://github.com/nikic/PHP-Parser",
     "description": "A PHP parser written in PHP."
@@ -983,11 +988,6 @@
     "name": "PHPQA",
     "url": "https://github.com/EdgedesignCZ/phpqa",
     "description": "A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics)."
-  },
-  {
-    "name": "Qafoo Quality Analyzer",
-    "url": "https://github.com/Qafoo/QualityAnalyzer",
-    "description": "A tool to visualize metrics and source code."
   },
   {
     "name": "Rector",
@@ -1365,6 +1365,11 @@
     "description": "An event library with a focus on domain events."
   },
   {
+    "name": "Fast CGI Client",
+    "url": "https://github.com/hollodotme/fast-cgi-client",
+    "description": "A client to make synchronous/asynchronous requests through php-fpm socket."
+  },
+  {
     "name": "Pawl",
     "url": "https://github.com/ratchetphp/Pawl",
     "description": "An asynchronous web socket client."
@@ -1463,6 +1468,11 @@
     "name": "Snappy",
     "url": "https://github.com/KnpLabs/snappy",
     "description": "A PDF and image generation library."
+  },
+  {
+    "name": "TCPDF",
+    "url": "https://tcpdf.org/",
+    "description": "An open source PHP class for generating PDF documents."
   },
   {
     "name": "PHPPowerPoint",
