@@ -596,7 +596,7 @@
   },
   {
     "name": "Piranha CMS",
-    "url": "https://github.com/PiranhaCMS/Piranha",
+    "url": "https://github.com/PiranhaCMS/piranha.core",
     "description": "Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. https://piranhacms.org"
   },
   {
@@ -698,6 +698,11 @@
     "name": "Sharplab",
     "url": "https://sharplab.io/",
     "description": "Run C# code using different branches and versions of Roslyn, see the IL that was produced and examine the JIT's output."
+  },
+  {
+    "name": "Entity Framework Playground",
+    "url": "https://efplayground.io",
+    "description": "Examine the generated SQL for migrations and queries by writing DbContext and queries using it in the browser. Learn by example, compare different versions of Entity Framework and providers such as MS SQL, PostgreSql and Sqlite."
   },
   {
     "name": "ClojureCLR",
@@ -1195,11 +1200,6 @@
     "description": "Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB."
   },
   {
-    "name": "Square",
-    "url": "https://github.com/square/connect-csharp-sdk",
-    "description": "The official SDK for Square payments and other Square APIs."
-  },
-  {
     "name": "Adyen",
     "url": "https://github.com/Adyen/adyen-dotnet-api-library",
     "description": "The official Adyen Payment API Library for .NET"
@@ -1373,6 +1373,11 @@
     "name": "DotRecast",
     "url": "https://github.com/ikpil/DotRecast",
     "description": "A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#"
+  },
+  {
+    "name": "Foster",
+    "url": "https://github.com/FosterFramework/Foster",
+    "description": "Foster is a small cross-platform 2D game framework in C#."
   },
   {
     "name": "NetTopologySuite",

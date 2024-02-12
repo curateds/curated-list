@@ -3503,6 +3503,11 @@
     "description": "2023. [All Versions]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling."
   },
   {
+    "name": "Latent Programmer: Discrete Latent Codes for Program Synthesis",
+    "url": "https://proceedings.mlr.press/v139/hong21a.html",
+    "description": "ICML'21, 2021. [All Versions]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language."
+  },
+  {
     "name": "Handbook of Knowledge Representation",
     "url": "https://1lib.net/book/511192/9eab86",
     "description": "Elsevier, 2008. [All Versions]. A pragmatical handbook for all kinds of knowledge representation modes."

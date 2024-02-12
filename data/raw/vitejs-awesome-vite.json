@@ -1799,6 +1799,11 @@
     "description": "Extracts resource files referenced in library mode instead of embedded them as base64."
   },
   {
+    "name": "css-media-splitter/vite-plugin",
+    "url": "https://github.com/levchak0910/css-media-splitter",
+    "description": "Extracts all @media At-rules into a dedicated .css files and download it only when matches the media query."
+  },
+  {
     "name": "vite-tsconfig-paths",
     "url": "https://github.com/aleclarson/vite-tsconfig-paths",
     "description": "Support for TypeScript's path mapping."
@@ -2287,6 +2292,11 @@
     "name": "vite-plugin-svgr",
     "url": "https://github.com/pd4d10/vite-plugin-svgr",
     "description": "Transform SVGs into React components."
+  },
+  {
+    "name": "vite-plugin-react-rich-svg",
+    "url": "https://github.com/iGoodie/vite-plugin-react-rich-svg",
+    "description": "Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code."
   },
   {
     "name": "vite-plugin-react-pages",

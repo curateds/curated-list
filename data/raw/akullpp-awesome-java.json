@@ -431,7 +431,7 @@
   },
   {
     "name": "Timefold",
-    "url": "https://github.com/TimefoldAI/timefold-solver",
+    "url": "https://timefold.ai/docs",
     "description": "Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more."
   },
   {
@@ -1888,6 +1888,11 @@
     "name": "FizzBuzz Enterprise Edition",
     "url": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
     "description": "No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)"
+  },
+  {
+    "name": "IP2Location.io Java SDK",
+    "url": "https://github.com/ip2location/ip2location-io-java",
+    "description": "Wrapper for the IP2Location.io Geolocation API and the IP2WHOIS domain WHOIS API."
   },
   {
     "name": "J2ObjC",
@@ -3365,19 +3370,24 @@
     "description": "Reports whether instances of a given class are immutable."
   },
   {
+    "name": "pojo-tester",
+    "url": "https://www.pojo.pl",
+    "description": "Automatically performs tests on basic POJO methods. (LGPL-3.0-only)"
+  },
+  {
     "name": "raml-tester",
     "url": "https://github.com/nidi3/raml-tester",
     "description": "Tests if a request/response matches a given RAML definition."
   },
   {
+    "name": "Selfie",
+    "url": "https://github.com/diffplug/selfie",
+    "description": "Snapshot testing (inline and on disk)."
+  },
+  {
     "name": "TestContainers",
     "url": "https://github.com/testcontainers/testcontainers-java",
     "description": "Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
-  },
-  {
-    "name": "pojo-tester",
-    "url": "https://www.pojo.pl",
-    "description": "Automatically performs tests on basic POJO methods. (LGPL-3.0-only)"
   },
   {
     "name": "JMockit",

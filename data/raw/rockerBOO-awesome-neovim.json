@@ -350,6 +350,11 @@
     "description": "Add inline-comments to ignore rules, or lookup rule documentation online."
   },
   {
+    "name": "artemave/workspace-diagnostics.nvim",
+    "url": "https://github.com/artemave/workspace-diagnostics.nvim",
+    "description": "Populate diagnostics for all projects files, not just the opened ones."
+  },
+  {
     "name": "ms-jpq/coq_nvim",
     "url": "https://github.com/ms-jpq/coq_nvim",
     "description": "Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization."
@@ -2738,6 +2743,11 @@
     "name": "niuiic/terminal.nvim",
     "url": "https://github.com/niuiic/terminal.nvim",
     "description": "Manage terminal as buffer, multiple terminals support."
+  },
+  {
+    "name": "RAprogramm/nekifoch",
+    "url": "https://github.com/RAprogramm/nekifoch",
+    "description": "Managing Kitty terminal font settings."
   },
   {
     "name": "mfussenegger/nvim-dap",

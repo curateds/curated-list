@@ -768,6 +768,11 @@
     "description": "Set up a specific version of Zig environment on GitHub Actions."
   },
   {
+    "name": "weskoerber/zvm",
+    "url": "https://github.com/weskoerber/zvm",
+    "description": "POSIX-compliant bash script to manage multiple active Zig versions."
+  },
+  {
     "name": "zigtools/zpm",
     "url": "https://github.com/zigtools/zpm",
     "description": "Unofficial Zig package manager."
@@ -911,6 +916,11 @@
     "name": "InKryption/comath",
     "url": "https://github.com/InKryption/comath",
     "description": "Calculate math expressions in comptime."
+  },
+  {
+    "name": "weskoerber/kewpie",
+    "url": "https://github.com/weskoerber/kewpie",
+    "description": "A simple query string parser."
   },
   {
     "name": "belse-de/zig-tut",
