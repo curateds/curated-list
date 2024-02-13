@@ -40,6 +40,11 @@
     "description": "A modern approach to plugin management using Luarocks, inspired by Cargo."
   },
   {
+    "name": "echasnovski/mini.nvim#mini.deps",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md",
+    "description": "Module of mini.nvim for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins."
+  },
+  {
     "name": "neovim/nvim-lspconfig",
     "url": "https://github.com/neovim/nvim-lspconfig",
     "description": "Quickstart configurations for the LSP client."
@@ -2298,6 +2303,11 @@
     "name": "gsuuon/note.nvim",
     "url": "https://github.com/gsuuon/note.nvim",
     "description": "Daily tasks with deep-linking and project spaces."
+  },
+  {
+    "name": "backdround/global-note.nvim",
+    "url": "https://github.com/backdround/global-note.nvim",
+    "description": "One global note in a floating window."
   },
   {
     "name": "gaborvecsei/usage-tracker.nvim",

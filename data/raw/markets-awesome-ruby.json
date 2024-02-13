@@ -29,6 +29,11 @@
     "description": "A simple to use Rails-Engine-Gem that offers an admin interface for trusted user."
   },
   {
+    "name": "Hot Glue",
+    "url": "https://github.com/hot-glue-for-rails/hot-glue/",
+    "description": "Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards."
+  },
+  {
     "name": "MotorAdmin",
     "url": "https://github.com/motor-admin/motor-admin-rails",
     "description": "A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI."
@@ -2799,6 +2804,11 @@
     "name": "fast_blank",
     "url": "https://github.com/SamSaffron/fast_blank",
     "description": "Provides a C-optimized method for determining if a string is blank."
+  },
+  {
+    "name": "fast_count",
+    "url": "https://github.com/fatkodima/fast_count",
+    "description": "Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL)."
   },
   {
     "name": "fast_underscore",

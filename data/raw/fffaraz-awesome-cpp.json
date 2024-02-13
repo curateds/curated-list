@@ -1410,6 +1410,11 @@
     "description": "Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]"
   },
   {
+    "name": "Reindexer",
+    "url": "https://github.com/Restream/reindexer",
+    "description": "Embeddable, in-memory, document-oriented database with a high-level Query builder interface. [Apache2] website"
+  },
+  {
     "name": "RocksDB",
     "url": "https://github.com/facebook/rocksdb",
     "description": "Embedded key-value store for fast storage from facebook. [BSD]"

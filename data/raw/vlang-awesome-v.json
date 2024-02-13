@@ -270,6 +270,11 @@
     "description": "Deploy V apps on Heroku."
   },
   {
+    "name": "Tiniest vWeb Server",
+    "url": "https://github.com/davlgd/tws",
+    "description": "A < 1MB static hosting web server written in V, based on x.vweb. 🍃"
+  },
+  {
     "name": "v-admin-skeleton",
     "url": "https://github.com/xiusin/v-system-skeleton",
     "description": "Backend skeleton written in V."
