@@ -115,11 +115,6 @@
     "description": "Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets."
   },
   {
-    "name": "Nixpkgs Bot",
-    "url": "https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot",
-    "description": "A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch."
-  },
-  {
     "name": "nixpkgs PR tracker",
     "url": "https://nixpk.gs/pr-tracker.html",
     "description": "A tracker for whether a PR has made it into a channel yet."
@@ -273,11 +268,6 @@
     "name": "nix-melt",
     "url": "https://github.com/nix-community/nix-melt",
     "description": "A ranger-like flake.lock viewer."
-  },
-  {
-    "name": "nix-output-monitor",
-    "url": "https://git.maralorn.de/nix-output-monitor/",
-    "description": "A tool to produce useful graphs and statistics when building derivations."
   },
   {
     "name": "nix-prefetch",
@@ -719,7 +709,7 @@
   },
   {
     "name": "NixCon",
-    "url": "http://nixcon.org/",
+    "url": "https://nixcon.org/",
     "description": "The annual community conference for contributors and users of Nix and NixOS."
   },
   {

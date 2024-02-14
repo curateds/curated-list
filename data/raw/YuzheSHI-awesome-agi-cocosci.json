@@ -3488,9 +3488,9 @@
     "description": "2021. [All Versions]."
   },
   {
-    "name": "AutumnSynth: Synthesis of Reactive Programs with Structured Latent State",
-    "url": "https://openreview.net/forum?id=Qw8eyl2_N_-",
-    "description": "NeurIPS'21 AIPLANS Workshop, 2021. [All Versions]."
+    "name": "Combining Functional and Automata Synthesis to Discover Causal Reactive Programs",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3571249",
+    "description": "POPL'23, 2023. [All Versions]. A new algorithm that synthesizes functional reactive programs from observation data, which iterates between a functional synthesis step, which attempts to generate a transition function over observed states, and an automata synthesis step, which adds any additional latent state necessary to fully account for the observations."
   },
   {
     "name": "Synthesizing theories of human language with Bayesian program induction",

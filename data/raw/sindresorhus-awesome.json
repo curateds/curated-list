@@ -1,9 +1,5 @@
 [
   {
-    "name": "One Task",
-    "url": "https://www.producthunt.com/posts/one-task"
-  },
-  {
     "name": "Node.js",
     "url": "https://github.com/sindresorhus/awesome-nodejs#readme",
     "description": "Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine."
@@ -266,6 +262,16 @@
     "name": "ArcGIS Developer",
     "url": "https://github.com/Esri/awesome-arcgis-developer#readme",
     "description": "Mapping and location analysis platform for developers."
+  },
+  {
+    "name": "Bluetooth Low Energy",
+    "url": "https://github.com/dotintent/awesome-ble#readme",
+    "description": "Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications."
+  },
+  {
+    "name": "Uno Platform",
+    "url": "https://github.com/MartinZikmund/awesome-uno-platform#readme",
+    "description": "Open-source .NET UI platform for building cross-platform apps."
   },
   {
     "name": "JavaScript",
@@ -1001,6 +1007,11 @@
     "description": "Frontend libraries that fit into 2 kB with dependencies."
   },
   {
+    "name": "Frontend GIS",
+    "url": "https://github.com/joewdavies/awesome-frontend-gis#readme",
+    "description": "Geographic Information Systems (GIS) for web browsers."
+  },
+  {
     "name": "Flask",
     "url": "https://github.com/mjhea0/awesome-flask#readme",
     "description": "Python framework."
@@ -1144,6 +1155,11 @@
     "name": "Fiber",
     "url": "https://github.com/gofiber/awesome-fiber#readme",
     "description": "Web framework built on top of Fasthttp, the fastest HTTP engine for Go."
+  },
+  {
+    "name": "Kustomize",
+    "url": "https://github.com/DevOpsHiveHQ/awesome-kustomize#readme",
+    "description": "Kubernetes native declarative configuration management tool."
   },
   {
     "name": "University Courses",
@@ -3043,9 +3059,19 @@
     "description": "Open-source AI-powered speech recognition system developed by OpenAI."
   },
   {
+    "name": "Stock Trading",
+    "url": "https://github.com/shi-rudo/awesome-stock-trading#readme",
+    "description": "Purchase and sale of equities of publicly traded companies with the aim of generating profits."
+  },
+  {
     "name": "Steam Deck",
     "url": "https://github.com/airscripts/awesome-steam-deck#readme",
     "description": "A handheld gaming computer developed by Valve."
+  },
+  {
+    "name": "Astrophotography",
+    "url": "https://github.com/lunohodov/awesome-astrophotography#readme",
+    "description": "Photography of astronomical objects, celestial events, or areas of the night sky."
   },
   {
     "name": "HPC",

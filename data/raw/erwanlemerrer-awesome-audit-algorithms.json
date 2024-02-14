@@ -1,5 +1,10 @@
 [
   {
+    "name": "Improved Membership Inference Attacks Against Language Classification Models",
+    "url": "https://arxiv.org/pdf/2310.07219.pdf",
+    "description": "(ICLR) Presents a framework for running membership inference attacks against classifier, in audit mode."
+  },
+  {
     "name": "Auditing Fairness by Betting",
     "url": "https://arxiv.org/pdf/2305.17570.pdf",
     "description": "(Neurips) [Code] Sequential methods that allows for the continuous monitoring of incoming data from a black-box classifier or regressor."
