@@ -532,6 +532,11 @@
     "description": "A post that illustrates the possibility of extending the core Dataframe API of Polars with a few examples by @brunocous."
   },
   {
+    "name": "15 Pandas ↔ Polars ↔ SQL ↔ PySpark Translations",
+    "url": "https://www.blog.dailydoseofds.com/p/15-pandas-polars-sql-pyspark-translations",
+    "description": "A post that depicts the 15 most common tabular operations in Polars and their corresponding translations in Pandas, SQL and PySpark by @ChawlaAvi."
+  },
+  {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
     "url": "https://www.youtube.com/watch?v=kVy3-gMdViM",
     "description": "Introduction to Polars by databricks."
@@ -650,6 +655,11 @@
     "name": "Library of the week 13 : Polars with Python",
     "url": "https://www.youtube.com/watch?v=kv7rqHgX20w",
     "description": "A video that presents Polars with Python by @enarroied. Article supplied with the video in this page."
+  },
+  {
+    "name": "Polars and time zones: everything you need to know | PyData Global 2023",
+    "url": "https://www.youtube.com/watch?v=DFQFAwt_0VY",
+    "description": "A video that  shows how to use Polars effectively for time series analysis involving different time zones by @MarcoGorelli."
   },
   {
     "name": "pola-rs (@pola-rs)",
