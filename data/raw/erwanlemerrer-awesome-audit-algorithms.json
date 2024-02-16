@@ -1,5 +1,10 @@
 [
   {
+    "name": "Under manipulations, are some AI models harder to audit?",
+    "url": "https://grodino.github.io/projects/manipulated-audits/preprint.pdf",
+    "description": "(SATML) Relates the difficulty of black-box audits"
+  },
+  {
     "name": "Improved Membership Inference Attacks Against Language Classification Models",
     "url": "https://arxiv.org/pdf/2310.07219.pdf",
     "description": "(ICLR) Presents a framework for running membership inference attacks against classifier, in audit mode."
@@ -8,6 +13,11 @@
     "name": "Auditing Fairness by Betting",
     "url": "https://arxiv.org/pdf/2305.17570.pdf",
     "description": "(Neurips) [Code] Sequential methods that allows for the continuous monitoring of incoming data from a black-box classifier or regressor."
+  },
+  {
+    "name": "Online Fairness Auditing through Iterative Refinement",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3580305.3599454",
+    "description": "(KDD) Provides an adaptive process that automates the inference of probabilistic guarantees associated with estimating fairness metrics."
   },
   {
     "name": "Stealing the Decoding Algorithms of Language Models",

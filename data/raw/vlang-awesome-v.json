@@ -375,6 +375,11 @@
     "description": "V wrapper for Tesseract-OCR (optical character recognition)."
   },
   {
+    "name": "mongodb",
+    "url": "https://github.com/vlang/mongo",
+    "description": "MongoDB driver for V."
+  },
+  {
     "name": "redis",
     "url": "https://github.com/Coachonko/redis",
     "description": "Connect and interface with Redis-compatible databases."

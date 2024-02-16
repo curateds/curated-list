@@ -505,6 +505,11 @@
     "description": "toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM."
   },
   {
+    "name": "Apache Pekko",
+    "url": "https://github.com/apache/incubator-pekko",
+    "description": "Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License."
+  },
+  {
     "name": "pulsar",
     "url": "https://github.com/quantmind/pulsar/",
     "description": "Actor based event driven concurrent framework for Python."

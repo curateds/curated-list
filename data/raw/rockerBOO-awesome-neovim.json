@@ -4445,6 +4445,11 @@
     "description": "Search Neovim plugins and online :help via Alfred (macOS)."
   },
   {
+    "name": "massix/termux.nvim",
+    "url": "https://github.com/massix/termux.nvim",
+    "description": "Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level)."
+  },
+  {
     "name": "tokiory/neovim-boilerplate",
     "url": "https://github.com/tokiory/neovim-boilerplate",
     "description": "Starter boilerplate for making new configurations."
