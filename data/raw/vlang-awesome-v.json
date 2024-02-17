@@ -790,6 +790,11 @@
     "description": "Simple client for digest authentication (written in V)."
   },
   {
+    "name": "vistas",
+    "url": "https://github.com/Coachonko/vistas",
+    "description": "Central file server API."
+  },
+  {
     "name": "vweb",
     "url": "https://github.com/vlang/v/tree/master/vlib/vweb",
     "description": "V's built-in web framework. Used by Vorum."

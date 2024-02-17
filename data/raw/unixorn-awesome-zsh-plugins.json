@@ -6640,6 +6640,11 @@
     "description": "Designed for for simpleness and extensibility."
   },
   {
+    "name": "classic",
+    "url": "https://github.com/freakinu/classic-zsh-theme",
+    "description": "A classic unix theme with decorators for username, host, current directory and git status."
+  },
+  {
     "name": "classyTouchName",
     "url": "https://github.com/dylanroman03/classyTouchName",
     "description": "Inspired by classyTouch. Works better with dark backgrounds. Includes git status decorations."
@@ -7025,11 +7030,6 @@
     "description": "Based on astro. Includes decorators for git branch & hash, current directory, user, host & time."
   },
   {
-    "name": "dzhi",
-    "url": "https://github.com/pentago/dzhi-zsh-theme",
-    "description": "Optimized for people using Nord. Includes git status decorations."
-  },
-  {
     "name": "easytocloud",
     "url": "https://github.com/easytocloud/oh-my-easytocloud",
     "description": "Based on agnoster. Includes decorators for AWS environment, git status, username and the current directory."
@@ -7232,6 +7232,11 @@
     "name": "frlo",
     "url": "https://github.com/fiorillo/frlo",
     "description": "Uses your computer's hostname to come up with a (hopefully) unique three-color theme to display in your prompt, so you know at a glance which machine you're logged into."
+  },
+  {
+    "name": "frontcube",
+    "url": "https://github.com/ronitkrshah/frontcube/",
+    "description": "Requires a nerd font. Based on the official Frontcube theme. Includes decorators for git status and current directory."
   },
   {
     "name": "funkyberlin",

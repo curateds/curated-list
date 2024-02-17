@@ -1547,6 +1547,11 @@
     "description": "Open-source and encrypted password manager by Proton."
   },
   {
+    "name": "NoPaste",
+    "url": "https://github.com/bokub/nopaste",
+    "description": "Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else."
+  },
+  {
     "name": "PrivateBin",
     "url": "https://github.com/PrivateBin/PrivateBin",
     "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES."

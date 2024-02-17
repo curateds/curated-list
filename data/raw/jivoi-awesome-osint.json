@@ -580,6 +580,11 @@
     "url": "http://www.opinioncrawl.com"
   },
   {
+    "name": "Predicta Search",
+    "url": "https://predictasearch.com",
+    "description": "Search for social accounts with e-mail and phone"
+  },
+  {
     "name": "Rival IQ",
     "url": "https://www.rivaliq.com"
   },
@@ -588,7 +593,7 @@
     "url": "http://www.socialbakers.com"
   },
   {
-    "name": "SociaBlade",
+    "name": "SocialBlade",
     "url": "http://socialblade.com"
   },
   {
@@ -635,6 +640,11 @@
   {
     "name": "Oblivion",
     "url": "https://github.com/loseys/Oblivion"
+  },
+  {
+    "name": "Datalead AI",
+    "url": "https://datalead.ai",
+    "description": "The power of people intelligence at your fingertip."
   },
   {
     "name": "ExportData",
@@ -1015,6 +1025,11 @@
     "description": "Search a username across over 500+ websites."
   },
   {
+    "name": "CheckUser",
+    "url": "https://checkuser.vercel.app/",
+    "description": "search username across social networks"
+  },
+  {
     "name": "411 (US)",
     "url": "http://www.411.com",
     "description": "Search by person, phone number, address, and business. Limited free info, premium data upsell."
@@ -1051,7 +1066,7 @@
   },
   {
     "name": "Digital Footprint Check",
-    "url": "https://www.cyberoneintel.com/digitalfootprint",
+    "url": "https://www.digitalfootprintcheck.com",
     "description": "Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more."
   },
   {
@@ -1063,6 +1078,11 @@
     "name": "Family Search",
     "url": "https://familysearch.org",
     "description": "Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints."
+  },
+  {
+    "name": "FamilyTreeNow",
+    "url": "https://familytreenow.com",
+    "description": "Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations."
   },
   {
     "name": "Federal Bureau of Prisons - Inmate Locator (US)",
@@ -1150,6 +1170,11 @@
   {
     "name": "BeenVerified",
     "url": "https://www.backgroundchecks.com/solutions/beenverified"
+  },
+  {
+    "name": "VineLink",
+    "url": "https://www.vinelink.com/#state-selection",
+    "description": "Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S."
   },
   {
     "name": "DeHashed",
@@ -1246,6 +1271,11 @@
     "name": "Ghunt",
     "url": "https://github.com/mxrch/GHunt",
     "description": "Investigate Google emails and documents."
+  },
+  {
+    "name": "Gitrecon",
+    "url": "https://github.com/atiilla/gitrecon",
+    "description": "Node.js tool to scan GitHub repositories for exposed email addresses and names."
   },
   {
     "name": "EmobileTracker.com",
@@ -1592,6 +1622,11 @@
   {
     "name": "YouControl",
     "url": "https://youcontrol.com.ua/en/"
+  },
+  {
+    "name": "Datalead AI",
+    "url": "https://datalead.ai",
+    "description": "A 360-degree view to billions of people and companies with deep, actionable insights."
   },
   {
     "name": "Beyond",
@@ -2042,6 +2077,11 @@
     "description": "is a free service to scan and analyse websites."
   },
   {
+    "name": "Validin",
+    "url": "https://app.validin.com/",
+    "description": "Website and API to search current and historical DNS records for free"
+  },
+  {
     "name": "Google Adwords",
     "url": "http://adwords.google.com",
     "description": "Get monthly keyword volume data and stats."
@@ -2199,6 +2239,11 @@
     "url": "https://search4faces.com/"
   },
   {
+    "name": "GeoSpyer",
+    "url": "https://github.com/atiilla/geospy",
+    "description": "Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken."
+  },
+  {
     "name": "ExifLooter",
     "url": "https://github.com/aydinnyunus/exiflooter"
   },
@@ -2241,6 +2286,11 @@
   {
     "name": "ImgOps",
     "url": "https://imgops.com/"
+  },
+  {
+    "name": "GeoSpy",
+    "url": "https://geospy.web.app/",
+    "description": "AI based image osint tool"
   },
   {
     "name": "Aol Videos",
@@ -3370,6 +3420,14 @@
     "url": "https://bridge.suumitsu.eu"
   },
   {
+    "name": "ChangeDetection.io",
+    "url": "https://changedetection.io"
+  },
+  {
+    "name": "ChangeDetection.io Open Source",
+    "url": "https://github.com/dgtlmoon/changedetection.io"
+  },
+  {
     "name": "ChangeDetect",
     "url": "http://www.changedetect.com"
   },
@@ -4318,6 +4376,11 @@
     "description": "Draws relationships between crypto wallets with recursive crawling of transaction history."
   },
   {
+    "name": "OSINT-Tool",
+    "url": "https://www.osint-tool.com/",
+    "description": "A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit."
+  },
+  {
     "name": "OSINT Framework",
     "url": "http://osintframework.com/",
     "description": "Web based framework for OSINT."
@@ -4406,6 +4469,11 @@
     "name": "Sub3 Suite",
     "url": "https://github.com/3nock/sub3suite",
     "description": "A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities."
+  },
+  {
+    "name": "Discoshell",
+    "url": "https://github.com/foozzi/discoshell",
+    "description": "A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others"
   },
   {
     "name": "GitGuardian - Public GitHub Monitoring",
