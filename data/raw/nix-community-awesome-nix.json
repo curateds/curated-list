@@ -270,6 +270,11 @@
     "description": "A ranger-like flake.lock viewer."
   },
   {
+    "name": "nix-output-monitor",
+    "url": "https://github.com/maralorn/nix-output-monitor",
+    "description": "A tool to produce useful graphs and statistics when building derivations."
+  },
+  {
     "name": "nix-prefetch",
     "url": "https://github.com/msteen/nix-prefetch",
     "description": "A universal tool for updating source checksums."

@@ -1873,6 +1873,11 @@
     "description": "Machine Learning, 2022. [All Versions]. A neuro-symbolic framework that integrates meta-policy learning in inductive logic programming."
   },
   {
+    "name": "Visual Programming: Compositional Visual Reasoning Without Training",
+    "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.html",
+    "description": "CVPR'23, 2023. [All Versions]. VISPROG, a neuro-symbolic approach to solving complex and compositional visual tasks given natural language instructions, using the in-context learning ability of large language models to generate python-like modular programs, which are then executed to get both the solution and a comprehensive and interpretable rationale."
+  },
+  {
     "name": "Bayesian modeling of human–AI complementarity",
     "url": "https://www.pnas.org/doi/full/10.1073/pnas.2111547119",
     "description": "Proceedings of the National Academy of Sciences, 2022. [All Versions]. A Bayesian framework for combining the predictions and different types of confidence scores from humans and machines."
@@ -3511,6 +3516,11 @@
     "name": "PAL: Program-aided Language Models",
     "url": "https://proceedings.mlr.press/v202/gao23f",
     "description": "ICML'23, 2023. [All Versions]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter."
+  },
+  {
+    "name": "Grammar Prompting for Domain-Specific Language Generation with Large Language Models",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd40d0d65bfebb894ccc9ea822b47fa8-Abstract-Conference.html",
+    "description": "NeurIPS'23, 2023. [All Versions]. Grammar prompting, a simple approach to enable LLMs to use external knowledge and domain-specific constraints, expressed through a grammar in Backus--Naur Form (BNF), during in-context learning."
   },
   {
     "name": "Handbook of Knowledge Representation",

@@ -102,7 +102,7 @@
   {
     "name": "Hands-On Music Generation with Magenta",
     "url": "https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/",
-    "description": "Design and use machine learning models for music generation using Magenta and make them interact with existing music creation tools"
+    "description": "Explore the role of deep learning in music generation and assisted music composition."
   },
   {
     "name": "The Book of Shaders",
@@ -197,7 +197,7 @@
   {
     "name": "WebGL Academy",
     "url": "http://www.webglacademy.com",
-    "description": "Learn WebGL and 3D algorithmic in a progressive and interactive way. (Archived)"
+    "description": "Learn WebGL and 3D algorithmic in a progressive and interactive way."
   },
   {
     "name": "Create 3D Graphics in JS Using WebGL",
@@ -223,11 +223,6 @@
     "name": "Kadenze Creative Coding",
     "url": "http://try.kadenze.com/creative-coder/",
     "description": "Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK."
-  },
-  {
-    "name": "Think. Create. Code",
-    "url": "https://www.edx.org/course/think-create-code-adelaidex-code101x-2",
-    "description": "EDX course to learn programming with ProcessingJS."
   },
   {
     "name": "Creative Programming for Digital Media & Mobile Apps",
@@ -321,7 +316,7 @@
   },
   {
     "name": "Godot",
-    "url": "https://github.com/godotengine/godot",
+    "url": "https://godotengine.org",
     "description": "Open source game engine, that can also be used for all sorts of things."
   },
   {
@@ -335,19 +330,14 @@
     "description": "GLSL library for building signed distance functions."
   },
   {
-    "name": "HYPE",
-    "url": "http://www.hypeframework.org/",
-    "description": "HYPE_processing, is a collection of classes that performs heavy lifting tasks while using a minimal amount of code writing."
-  },
-  {
     "name": "nannou",
     "url": "http://nannou.cc/",
-    "description": "Open-source creative coding framework for the Rust language"
+    "description": "Open-source creative coding framework for the Rust language."
   },
   {
     "name": "thi.ng",
     "url": "http://thi.ng/",
-    "description": "Open source collection of computational design tools for the Clojure and ClojureScript languages"
+    "description": "Open source collection of computational design tools for the Clojure and ClojureScript languages."
   },
   {
     "name": "PixelKit",
@@ -377,17 +367,12 @@
   {
     "name": "Lygia",
     "url": "https://github.com/patriciogonzalezvivo/lygia",
-    "description": "Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility"
+    "description": "Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility."
   },
   {
     "name": "vvvv",
     "url": "https://vvvv.org/",
     "description": "Hybrid visual/textual live-programming environment for easy prototyping and development."
-  },
-  {
-    "name": "VisualScript",
-    "url": "https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/",
-    "description": "Visual coding language in the Godot game engine."
   },
   {
     "name": "NodeBox",
@@ -455,11 +440,6 @@
     "description": "Node-based authoring tool with a strong focus on real-time graphics. Currently in beta."
   },
   {
-    "name": "Synopsis",
-    "url": "https://synopsis.video/",
-    "description": "A suite of open source software for computational cinematography."
-  },
-  {
     "name": "JOY.JS",
     "url": "https://ncase.me/joy/",
     "description": "Realtime visual coding tool, easy to understand and aimed at beginners."
@@ -468,6 +448,11 @@
     "name": "Circles",
     "url": "http://circles.software",
     "description": "Live graphics node editor, powered by AsyncGraphics."
+  },
+  {
+    "name": "TIC-80",
+    "url": "https://tic80.com/",
+    "description": "Make pixel art style games and art on a 240*136 pixel screen."
   },
   {
     "name": "SuperCollider",
@@ -622,12 +607,12 @@
   {
     "name": "OGL.js",
     "url": "https://github.com/oframe/ogl",
-    "description": "JavaScript 3D library (WebGL)"
+    "description": "JavaScript 3D library (WebGL)."
   },
   {
     "name": "Zdog",
     "url": "https://zzz.dog/",
-    "description": "A pseudo-3D engine for canvas & SVG"
+    "description": "A pseudo-3D engine for canvas & SVG."
   },
   {
     "name": "Oimo.js",
@@ -637,7 +622,7 @@
   {
     "name": "Ammo.js",
     "url": "https://github.com/kripken/ammo.js/",
-    "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten"
+    "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten."
   },
   {
     "name": "Theatre.js",
@@ -703,11 +688,6 @@
     "name": "Shader Park",
     "url": "https://shaderpark.com/",
     "description": "A JavaScript library for creating interactive procedural 2D and 3D shaders."
-  },
-  {
-    "name": "GLSLbin",
-    "url": "http://glslb.in/",
-    "description": "Fragment shader sandbox with support for glslify."
   },
   {
     "name": "GLSL Sandbox",
@@ -820,11 +800,6 @@
     "description": "Turn everyday objects into touchpads and combine them with the internet."
   },
   {
-    "name": "Tessel",
-    "url": "https://tessel.io/",
-    "description": "Easy to use microcontroller that runs JavaScript."
-  },
-  {
     "name": "Leap Motion",
     "url": "https://www.leapmotion.com/",
     "description": "Sensor device that supports hand and finger motions as input."
@@ -900,7 +875,7 @@
   },
   {
     "name": "basil.js",
-    "url": "http://basiljs.ch/",
+    "url": "https://basiljs.ch/",
     "description": "Scripting (JS) in InDesign for designers and artists in the spirit of Processing."
   },
   {
@@ -985,18 +960,13 @@
   },
   {
     "name": "Inigo Quilez Live",
-    "url": "http://www.iquilezles.org/live/index.htm",
+    "url": "https://iquilezles.org/live/",
     "description": "Collection of live coding videos by Íñigo Quílez."
   },
   {
     "name": "There is also canvas",
     "url": "https://slideslive.com/38898318/there-is-also-canvas",
     "description": "Bruno Imbrizi go through the use of canvas for creative coding at WebExpo 2016. Interactive slides here."
-  },
-  {
-    "name": "Draw. Move. Fail. Repeat.",
-    "url": "http://setimeout.com/workshops/gobelins-2016/",
-    "description": "Slides by @williamapan from his Creative developer workshop at Gobelins."
   },
   {
     "name": "OpenGL 3D Game Tutorials",
@@ -1039,11 +1009,6 @@
     "description": "Introduction to three.js from a creative coder perspective."
   },
   {
-    "name": "Experimenting with Three.js shaders and the ShaderMaterial",
-    "url": "http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial",
-    "description": "Introduction to custom mesh shader materials."
-  },
-  {
     "name": "lwjgl: Shaders",
     "url": "https://github.com/mattdesl/lwjgl-basics/wiki/Shaders",
     "description": "Shader tutorial in the context of lwjgl-basics."
@@ -1075,7 +1040,7 @@
   },
   {
     "name": "Ray Marching and Signed Distance Functions",
-    "url": "http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing",
+    "url": "https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work.html",
     "description": "Introduction to ray tracing."
   },
   {
@@ -1125,12 +1090,12 @@
   },
   {
     "name": "Smooth minimum",
-    "url": "http://iquilezles.org/www/articles/smin/smin.htm",
+    "url": "https://iquilezles.org/www/articles/smin/smin.htm",
     "description": "Article about the smooth based primitive union."
   },
   {
     "name": "Modeling with distance functions",
-    "url": "http://iquilezles.org/www/articles/distfunctions/distfunctions.htm",
+    "url": "https://iquilezles.org/www/articles/distfunctions/distfunctions.htm",
     "description": "Collection of distance functions in one centralized place."
   },
   {
@@ -1154,11 +1119,6 @@
     "description": "The title says it all. Introduction by Adok."
   },
   {
-    "name": "Sun and Black Cat",
-    "url": "http://sunandblackcat.com/other.php?l=eng",
-    "description": "Articles on shaders and other computer graphics related topics."
-  },
-  {
     "name": "Writing a small software renderer",
     "url": "http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html",
     "description": "Really good introduction to how basic software rendering works."
@@ -1172,11 +1132,6 @@
     "name": "Generating Geometry: 1",
     "url": "http://codepen.io/mcdorli/post/generating-geometry-part-1-basics",
     "description": "Beginner introduction on how to create geometry object."
-  },
-  {
-    "name": "Three.js sine animation",
-    "url": "http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/",
-    "description": "Learn how to add sine waves to a circle with three.js. (oF version)"
   },
   {
     "name": "Into Vertex Shaders",
@@ -1235,7 +1190,12 @@
   },
   {
     "name": "Flow Fields, Part 1",
-    "url": "https://www.bit-101.com/blog/2017/10/23/flow-fields-part-i/",
+    "url": "https://medium.com/@bit101/flow-fields-part-i-3ebebc688fd8",
+    "description": "Introduction to flow fields also known as vector fields."
+  },
+  {
+    "name": "Flow Fields, Part 2",
+    "url": "https://medium.com/@bit101/flow-fields-part-ii-f3c24c1b777d",
     "description": "Introduction to flow fields also known as vector fields."
   },
   {
@@ -1319,11 +1279,6 @@
     "description": "Easy to understand collection of articles on game developement, but relevant to creative coding as well."
   },
   {
-    "name": "Shepherding random numbers",
-    "url": "http://inconvergent.net/shepherding-random-numbers/",
-    "description": "Tiny guide to shepherding random numbers."
-  },
-  {
     "name": "Amit’s Game Programming Information",
     "url": "http://www-cs-students.stanford.edu/~amitp/gameprog.html",
     "description": "Collection of resources on stuff like path-finding, Ai, math etc."
@@ -1390,7 +1345,7 @@
   },
   {
     "name": "Shaderific GLSL",
-    "url": "http://www.shaderific.com/glsl/",
+    "url": "https://shaderific.com/glsl.html",
     "description": "OpenGL ES shading language reference."
   },
   {
@@ -1449,24 +1404,14 @@
     "description": "Interactive easing functions cheatsheet."
   },
   {
-    "name": "The newbie's PBR Cheat Sheet",
-    "url": "https://www.artstation.com/artwork/YeBr3",
-    "description": "Short and sweet visual overview on PBR."
-  },
-  {
     "name": "PixelSpirit",
     "url": "http://pixelspiritdeck.com/",
     "description": "GLSL library on the back of tarot cards, for learning and reference."
   },
   {
     "name": "Procedural Patterns And Noises",
-    "url": "http://www.neilblevins.com/cg_education/procedural_noise/procedural_noise.html",
+    "url": "http://www.neilblevins.com/art_lessons/procedural_noise/procedural_noise.html",
     "description": "Collection of procedural patterns and procedural noises."
-  },
-  {
-    "name": "Three.js Reference",
-    "url": "https://www.udacity.com/wiki/cs291/threejs-reference",
-    "description": "Reference from the Udacity Interactive 3D Graphics course."
   },
   {
     "name": "Visual Noises",
@@ -1524,29 +1469,9 @@
     "description": "Subreddit on generative art and music."
   },
   {
-    "name": "Creative-Dev Slack",
-    "url": "https://creative-dev.herokuapp.com/",
-    "description": "Creative Development Slack."
-  },
-  {
-    "name": "Generative Art Slack",
-    "url": "https://genart.herokuapp.com/",
-    "description": "Generative Art Slack."
-  },
-  {
     "name": "Creative Coding Club",
     "url": "http://creative-coding-club.slack.com/",
     "description": "Creative Coding Club Slack."
-  },
-  {
-    "name": "Creative Coding",
-    "url": "http://the-mccc-project.github.io/creative-coding-sign-up/",
-    "description": "Creative Coding Slack."
-  },
-  {
-    "name": "openFrameworks",
-    "url": "https://ofslack.herokuapp.com/",
-    "description": "openFrameworks Slack."
   },
   {
     "name": "The Creative Coding Podcast",
@@ -1704,11 +1629,6 @@
     "description": "Maths cheat-sheet for 2D and 3D game-makers."
   },
   {
-    "name": "Tiny 3D",
-    "url": "https://cantelope.org/tiny_3D/",
-    "description": "The smallest possible perspective engine on a 2D canvas."
-  },
-  {
     "name": "Matrices for Creative Coding",
     "url": "https://www.youtube.com/watch?v=4k9wTfxfkJU&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2",
     "description": "Introduction to matrices by Greg Tatum."
@@ -1742,6 +1662,21 @@
     "name": "Practical use of Vector Math in Games",
     "url": "https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/",
     "description": "In-depth article on vectors for game math."
+  },
+  {
+    "name": "Shepherding random numbers",
+    "url": "https://inconvergent.net/2016/shepherding-random-numbers/",
+    "description": "Tiny guide to shepherding random numbers."
+  },
+  {
+    "name": "Shepherding random grids",
+    "url": "https://inconvergent.net/2016/shepherding-random-grids/",
+    "description": "Tiny guide to shepherding random grids."
+  },
+  {
+    "name": "Shepherding random growth",
+    "url": "https://inconvergent.net/2016/shepherding-random-growth/",
+    "description": "Tiny guide to shepherding random growth."
   },
   {
     "name": "ml4a",
@@ -1914,11 +1849,6 @@
     "description": "Tumblr with curves, surfaces, scalar and vector fields."
   },
   {
-    "name": "W:BLUT Inspiration",
-    "url": "http://inspiration.wblut.com/",
-    "description": "Collection of gifs, links and images by W:Blut."
-  },
-  {
     "name": "OFFF Festival",
     "url": "http://offf.barcelona/",
     "description": "Digital design festival (Online Flash Film Festival)."
@@ -1949,9 +1879,9 @@
     "description": "An open platform for the exchange on culture, arts and technology."
   },
   {
-    "name": "Digital Design Days - OFFF",
-    "url": "http://www.ddd.it/en",
-    "description": "OFFF - 3 day event offering conferences, workshops, digital showcases & installations."
+    "name": "Digital Design Days",
+    "url": "http://www.ddd.it",
+    "description": "3 day event offering conferences, workshops, digital showcases & installations."
   },
   {
     "name": "CODAME ART+TECH",
@@ -1959,19 +1889,9 @@
     "description": "Projects and nonprofit events, to inspire through experience."
   },
   {
-    "name": "Curated Creative Events",
-    "url": "http://events.thesupply.com/",
-    "description": "Hand-picked design, code, art, fashion and maker events."
-  },
-  {
     "name": "NextArt Night",
     "url": "https://nextart.tech/",
     "description": "Inspiring people through creative uses of tech."
-  },
-  {
-    "name": "GROW",
-    "url": "https://www.grow.paris/",
-    "description": "The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation."
   },
   {
     "name": "ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany",
@@ -2035,7 +1955,7 @@
   },
   {
     "name": "iquilezles.org",
-    "url": "http://www.iquilezles.org",
+    "url": "https://iquilezles.org",
     "description": "Home of Íñigo Quílez, specialised in GLSL and math snippets."
   },
   {

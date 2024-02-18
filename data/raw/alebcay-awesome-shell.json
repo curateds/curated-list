@@ -8,6 +8,10 @@
     "url": "https://github.com/jorgebucaran/awsm.fish"
   },
   {
+    "name": "Awesome Bash",
+    "url": "https://github.com/awesome-lists/awesome-bash"
+  },
+  {
     "name": "bash",
     "url": "https://www.gnu.org/software/bash/",
     "description": "GNU Project's shell (Bourne Again SHell)"
@@ -98,7 +102,7 @@
   },
   {
     "name": "yash",
-    "url": "https://yash.osdn.jp/",
+    "url": "https://github.com/magicant/yash",
     "description": "A POSIX-compliant command line shell with built-in support for completion and prediction based on command history"
   },
   {
@@ -359,6 +363,11 @@
     "name": "nnn",
     "url": "https://github.com/jarun/nnn",
     "description": "File browser and disk usage analyzer with excellent desktop integration"
+  },
+  {
+    "name": "ok-sh",
+    "url": "https://github.com/secretGeek/ok-bash",
+    "description": "Do you work on many different projects? And in each project, are there commands you use that are specific to that project? You need a .ok file."
   },
   {
     "name": "parallel",
@@ -1089,6 +1098,11 @@
     "description": "The interactive web server, let you inspect HTTP requests and forge responses."
   },
   {
+    "name": "Kapow!",
+    "url": "https://github.com/BBVA/kapow",
+    "description": "If you can script it, you can HTTP it."
+  },
+  {
     "name": "ngincat",
     "url": "https://github.com/jaburns/ngincat",
     "description": "Tiny Bash HTTP server using netcat"
@@ -1791,6 +1805,10 @@
   {
     "name": "awesome-zsh",
     "url": "https://github.com/unixorn/awesome-zsh-plugins"
+  },
+  {
+    "name": "awesome-bash",
+    "url": "https://github.com/awesome-lists/awesome-bash"
   },
   {
     "name": "terminals-are-sexy",

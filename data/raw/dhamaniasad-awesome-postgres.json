@@ -514,6 +514,11 @@
     "description": "a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs."
   },
   {
+    "name": "Metis",
+    "url": "https://www.metisdata.io/product/troubleshooting",
+    "description": "Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)"
+  },
+  {
     "name": "apgdiff",
     "url": "https://www.apgdiff.com/",
     "description": "Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one."
@@ -920,6 +925,11 @@
     "description": "Hubert Lubaczewski's blog."
   },
   {
+    "name": "Metis Blog",
+    "url": "https://www.metisdata.io/blog",
+    "description": "Set of posts on PostgreSQL, SQL databases, performance, and tuning."
+  },
+  {
     "name": "What PostgreSQL has over other open source SQL databases: Part I",
     "url": "https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/"
   },
@@ -946,6 +956,10 @@
   {
     "name": "Tricking Postgres into using an insane – but 200x faster – query plan",
     "url": "https://spacelift.io/blog/tricking-postgres-into-using-query-plan"
+  },
+  {
+    "name": "PostgreSQL Mistakes and How to Avoid Them",
+    "url": "https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them"
   },
   {
     "name": "Wiki",
@@ -995,7 +1009,7 @@
   {
     "name": "Russian",
     "url": "https://t.me/pgsql",
-    "description": "Several groups for PostgreSQL in different langauges: Russian >4200 people, Brazilian Portuguese >2300 people, Indonesian ~1000 people, English >750 people"
+    "description": "Several groups for PostgreSQL in different languages: Russian >4200 people, Brazilian Portuguese >2300 people, Indonesian ~1000 people, English >750 people"
   },
   {
     "name": "#postgresql on Freenode",

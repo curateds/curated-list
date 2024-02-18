@@ -2913,6 +2913,11 @@
     "description": "A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks."
   },
   {
+    "name": "Tarmac",
+    "url": "https://github.com/tarmac-project/tarmac",
+    "description": "Framework for writing functions, microservices, or monoliths with WebAssembly"
+  },
+  {
     "name": "Temporal",
     "url": "https://github.com/temporalio/sdk-go",
     "description": "Durable execution system for making code fault-tolerant and simple."
