@@ -683,6 +683,16 @@
     "description": "blazingly fast, robust HTTP server."
   },
   {
+    "name": "skunkwerks/zamqp",
+    "url": "https://github.com/skunkwerks/zamqp",
+    "description": "AMQP client, based on rabbitmq-c."
+  },
+  {
+    "name": "nine-lives-later/zzmq",
+    "url": "https://github.com/nine-lives-later/zzmq",
+    "description": "ZeroMQ library, based on CZMQ."
+  },
+  {
     "name": "andrewrk/lua-in-the-browser",
     "url": "https://github.com/andrewrk/lua-in-the-browser",
     "description": "Using Zig to build Lua for WebAssembly."

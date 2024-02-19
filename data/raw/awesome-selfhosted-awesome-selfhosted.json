@@ -905,11 +905,6 @@
     "description": "IMAP and POP3 server written primarily with security in mind. (Source Code) MIT/LGPL-2.1 C/deb"
   },
   {
-    "name": "MailForm",
-    "url": "https://github.com/Feuerhamster/mailform",
-    "description": "Lightweight self-hosted email service for contact forms and more (alternative to Formspree and SendGrid). Apache-2.0 Nodejs/Docker"
-  },
-  {
     "name": "Piler",
     "url": "https://www.mailpiler.org/",
     "description": "Feature-rich email archiving solution. (Source Code) GPL-3.0 C"
@@ -2410,11 +2405,6 @@
     "description": "Securely and anonymously share a file of any size. GPL-2.0 Python/deb"
   },
   {
-    "name": "Pairdrop",
-    "url": "https://github.com/schlagmichdoch/pairdrop",
-    "description": "Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). GPL-3.0 Docker"
-  },
-  {
     "name": "PicoShare",
     "url": "https://pico.rocks",
     "description": "A minimalist, easy-to-host service for sharing images and other files. (Demo, Source Code) AGPL-3.0 Go/Docker"
@@ -3417,7 +3407,7 @@
   {
     "name": "Bracket",
     "url": "https://evroon.github.io/bracket",
-    "description": "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. (Source Code) MIT Docker/Nodejs"
+    "description": "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. (Demo, Source Code) AGPL-3.0 Docker/Nodejs"
   },
   {
     "name": "CapRover",

@@ -445,6 +445,11 @@
     "description": "Godot Unit Testing Framework (Godot 3.x)."
   },
   {
+    "name": "GdUnit4",
+    "url": "https://github.com/MikeSchulze/gdUnit4",
+    "description": "Godot Unit Testing Framework (Godot 4.x)."
+  },
+  {
     "name": "GodotNotificationCenter",
     "url": "https://github.com/didier-v/GodotNotificationCenter",
     "description": "A notification center (Godot 3.x)."
@@ -560,11 +565,6 @@
     "description": "Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x)."
   },
   {
-    "name": "SMRT-Godot",
-    "url": "https://github.com/brunosxs/SMRT-Godot",
-    "description": "A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x)."
-  },
-  {
     "name": "StoryTeller Engine",
     "url": "https://github.com/HeavenMercy/StoryTeller-Engine",
     "description": "Dialog and interactive fiction engine (Godot 3.x)."
@@ -643,11 +643,6 @@
     "name": "GitHub integration",
     "url": "https://github.com/fenix-hub/godot-engine.github-integration",
     "description": "Interact with GitHub without opening your browser."
-  },
-  {
-    "name": "GDGotm",
-    "url": "https://github.com/PlayGotm/GDGotm/tree/master/gotm",
-    "description": "GDScript API for gotm.io."
   },
   {
     "name": "godotccd",
@@ -1190,11 +1185,6 @@
     "name": "Gotm.io",
     "url": "https://gotm.io/about",
     "description": "A website for hosting HTML5 games that were made in Godot."
-  },
-  {
-    "name": "The Godot Report",
-    "url": "https://www.thegodotreport.com/",
-    "description": "A newsletter with news, tutorials, game and demo releases and more."
   },
   {
     "name": "codetranslator",

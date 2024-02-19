@@ -1766,6 +1766,11 @@
     "description": "I2C - Power management unit"
   },
   {
+    "name": "ad57xx",
+    "url": "https://github.com/deltronix/ad57xx",
+    "description": "SPI - Quad and dual channel DAC -"
+  },
+  {
     "name": "BH1750",
     "url": "https://github.com/wose/bh1750",
     "description": "I2C - ambient light sensor (lux meter)"

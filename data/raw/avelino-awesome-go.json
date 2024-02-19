@@ -280,6 +280,11 @@
     "description": "Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more."
   },
   {
+    "name": "go-tg",
+    "url": "https://github.com/mr-linch/go-tg",
+    "description": "Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included."
+  },
+  {
     "name": "go-tgbot",
     "url": "https://github.com/olebedev/go-tgbot",
     "description": "Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware."
@@ -398,6 +403,11 @@
     "name": "gilbert",
     "url": "https://go-gilbert.github.io",
     "description": "Build system and task runner for Go projects."
+  },
+  {
+    "name": "gob",
+    "url": "https://github.com/kcmvp/gob",
+    "description": "Gradle/Maven like build tool for Go projects."
   },
   {
     "name": "goyek",
@@ -1072,6 +1082,11 @@
     "name": "koanf",
     "url": "https://github.com/knadh/koanf",
     "description": "Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line."
+  },
+  {
+    "name": "konf",
+    "url": "https://github.com/nil-go/konf",
+    "description": "The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP)."
   },
   {
     "name": "konfig",
@@ -2263,6 +2278,11 @@
     "description": "Datastore connectivity for SQL, NoSQL, structured files."
   },
   {
+    "name": "dynamo",
+    "url": "https://github.com/fogfish/dynamo",
+    "description": "A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and AWS S3."
+  },
+  {
     "name": "go-transaction-manager",
     "url": "https://github.com/avito-tech/go-transaction-manager",
     "description": "Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries."
@@ -2426,6 +2446,11 @@
     "name": "gomemcache",
     "url": "https://github.com/bradfitz/gomemcache/",
     "description": "memcache client library for the Go programming language."
+  },
+  {
+    "name": "gomemcached",
+    "url": "https://github.com/aliexpressru/gomemcached",
+    "description": "A binary Memcached client for Go with support for sharding using consistent hashing, along with SASL."
   },
   {
     "name": "gorethink",
@@ -4592,6 +4617,11 @@
     "description": "Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons."
   },
   {
+    "name": "go-dag",
+    "url": "https://github.com/rhosocial/go-dag",
+    "description": "A framework developed in Go that manages the execution of workflows described by directed acyclic graphs."
+  },
+  {
     "name": "go-quartz",
     "url": "https://github.com/reugn/go-quartz",
     "description": "Simple, zero-dependency scheduling library for Go."
@@ -5722,6 +5752,11 @@
     "description": "Customizable dependency injection container with the global mode, cascade initialization and panic-safe finalization."
   },
   {
+    "name": "kod",
+    "url": "https://github.com/go-kod/kod",
+    "description": "A generics based dependency injection framework for Go."
+  },
+  {
     "name": "linker",
     "url": "https://github.com/logrange/linker",
     "description": "A reflection based dependency injection and inversion of control library with components lifecycle support."
@@ -5813,7 +5848,7 @@
   },
   {
     "name": "bexp",
-    "url": "https://github.com/happy-sdk/happy-go/tree/main/strings/bexp",
+    "url": "https://github.com/happy-sdk/happy/tree/main/pkg/strings/bexp",
     "description": "Go implementation of Brace Expansion mechanism to generate arbitrary strings."
   },
   {
@@ -7467,6 +7502,11 @@
     "description": "A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption."
   },
   {
+    "name": "encid",
+    "url": "https://github.com/bobg/encid",
+    "description": "Encode and decode encrypted integer IDs."
+  },
+  {
     "name": "firewalld-rest",
     "url": "https://github.com/prashantgupta24/firewalld-rest",
     "description": "A rest application to dynamically update firewalld rules on a linux server."
@@ -7877,6 +7917,11 @@
     "description": "Simple and fast template engine. Substitutes template placeholders up to 10x faster than text/template."
   },
   {
+    "name": "gomponents",
+    "url": "https://www.gomponents.com",
+    "description": "HTML 5 components in pure Go, that look something like this: func(name string) g.Node { return Div(Class(\"headline\"), g.Textf(\"Hi %v!\", name)) }."
+  },
+  {
     "name": "gospin",
     "url": "https://github.com/m1/gospin",
     "description": "Article spinning and spintax/spinning syntax engine, useful for A/B, testing pieces of text/articles and creating more natural conversations."
@@ -8155,11 +8200,6 @@
     "name": "Gont",
     "url": "https://github.com/stv0g/gont",
     "description": "Go network testing toolkit for testing building complex network topologies using Linux namespaces."
-  },
-  {
-    "name": "GoSpec",
-    "url": "https://github.com/orfjackal/gospec",
-    "description": "BDD-style testing framework for the Go programming language."
   },
   {
     "name": "gospecify",
@@ -10664,6 +10704,11 @@
     "name": "YARF",
     "url": "https://github.com/yarf-framework/yarf",
     "description": "Fast micro-framework designed to build REST APIs and web services in a fast and simple way."
+  },
+  {
+    "name": "Yokai",
+    "url": "https://github.com/ankorstore/yokai",
+    "description": "Simple, modular, and observable Go framework for backend applications."
   },
   {
     "name": "client-timing",

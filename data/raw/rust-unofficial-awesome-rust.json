@@ -200,7 +200,7 @@
   {
     "name": "termusic",
     "url": "https://github.com/tramhao/termusic",
-    "description": "Music Player TUI written in Rust"
+    "description": "Music Player TUI written"
   },
   {
     "name": "WhatBPM",
@@ -209,12 +209,12 @@
   {
     "name": "artemis",
     "url": "https://github.com/paradigmxyz/artemis",
-    "description": "A simple, modular, and fast framework for writing MEV bots in Rust."
+    "description": "A simple, modular, and fast framework for writing MEV bots."
   },
   {
     "name": "beerus",
     "url": "https://github.com/eigerco/beerus",
-    "description": "Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀"
+    "description": "Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡"
   },
   {
     "name": "Bitcoin Satoshi's Vision",
@@ -261,7 +261,7 @@
   {
     "name": "ethers-rs",
     "url": "https://github.com/gakonst/ethers-rs",
-    "description": "Complete Ethereum & Celo library and wallet implementation in Rust."
+    "description": "Complete Ethereum & Celo library and wallet implementation."
   },
   {
     "name": "etk",
@@ -271,12 +271,12 @@
   {
     "name": "Forest",
     "url": "https://github.com/ChainSafe/forest",
-    "description": "Rust Filecoin implementation"
+    "description": "Filecoin implementation"
   },
   {
     "name": "Foundry",
     "url": "https://github.com/foundry-rs/foundry",
-    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development."
   },
   {
     "name": "Grin",
@@ -293,7 +293,7 @@
   {
     "name": "ibc-rs",
     "url": "https://github.com/informalsystems/hermes",
-    "description": "Rust implementation of the Interblockchain Communication protocol"
+    "description": "Implementation of the Interblockchain Communication protocol"
   },
   {
     "name": "infincia/bip39-rs",
@@ -314,12 +314,12 @@
   {
     "name": "madara",
     "url": "https://github.com/keep-starknet-strange/madara",
-    "description": "Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀."
+    "description": "Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate."
   },
   {
     "name": "mev-inspect-rs",
     "url": "https://github.com/flashbots/mev-inspect-rs",
-    "description": "Ethereum MEV Inspector in Rust"
+    "description": "Ethereum MEV Inspector."
   },
   {
     "name": "near/nearcore",
@@ -336,7 +336,7 @@
   {
     "name": "opensea-rs",
     "url": "https://github.com/gakonst/opensea-rs",
-    "description": "Rust bindings & CLI to the Opensea API and Contracts."
+    "description": "Bindings & CLI to the Opensea API and Contracts."
   },
   {
     "name": "Parity-Bitcoin",
@@ -353,7 +353,7 @@
   {
     "name": "revm",
     "url": "https://github.com/bluealloy/revm",
-    "description": "Revolutionary Machine (revm) is a fast Ethereum virtual machine written in rust."
+    "description": "Revolutionary Machine (revm) is a fast Ethereum virtual machine."
   },
   {
     "name": "rust-bitcoin",
@@ -372,6 +372,11 @@
     "url": "https://github.com/solana-labs/solana"
   },
   {
+    "name": "Subspace",
+    "url": "https://github.com/subspace/subspace",
+    "description": "The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization."
+  },
+  {
     "name": "Substrate",
     "url": "https://github.com/paritytech/substrate"
   },
@@ -387,7 +392,7 @@
   {
     "name": "tendermint-rs",
     "url": "https://github.com/informalsystems/tendermint-rs",
-    "description": "Rust implementation of Tendermint blockchain data structures and clients"
+    "description": "Tendermint blockchain data structures and clients"
   },
   {
     "name": "wagyu",
@@ -506,6 +511,11 @@
   {
     "name": "tikv",
     "url": "https://github.com/tikv/tikv"
+  },
+  {
+    "name": "USearch",
+    "url": "https://github.com/unum-cloud/usearch",
+    "description": "Similarity Search Engine for Vectors and Strings"
   },
   {
     "name": "vorot93/libmdbx-rs",
@@ -650,7 +660,7 @@
   {
     "name": "joshuto",
     "url": "https://github.com/kamiyaa/joshuto",
-    "description": "ranger-like terminal file manager written in Rust"
+    "description": "ranger-like terminal file manager"
   },
   {
     "name": "xplr",
@@ -660,7 +670,7 @@
   {
     "name": "yazi",
     "url": "https://github.com/sxyazi/yazi",
-    "description": "Blazing fast terminal file manager written in Rust, based on async I/O."
+    "description": "Blazing fast terminal file manager, based on async I/O."
   },
   {
     "name": "chess-tui",
@@ -743,7 +753,7 @@
   {
     "name": "dps/rust-raytracer",
     "url": "https://github.com/dps/rust-raytracer",
-    "description": "An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley in Rust."
+    "description": "An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley."
   },
   {
     "name": "flxzt/rnote",
@@ -869,7 +879,7 @@
   {
     "name": "ast-grep",
     "url": "https://github.com/ast-grep/ast-grep",
-    "description": "A CLI tool for code structural search, lint and rewriting. Written in Rust."
+    "description": "A CLI tool for code structural search, lint and rewriting."
   },
   {
     "name": "Bartib",
@@ -887,12 +897,12 @@
   {
     "name": "Furtherance",
     "url": "https://github.com/lakoliu/Furtherance",
-    "description": "Time tracking app built with Rust and GTK4"
+    "description": "Time tracking app built with GTK4"
   },
   {
     "name": "illacloud/illa",
     "url": "https://github.com/illacloud/illa",
-    "description": "Low-code internal tool builder written with Rust."
+    "description": "Low-code internal tool builder."
   },
   {
     "name": "LLDAP",
@@ -911,7 +921,7 @@
   {
     "name": "RustyBGP",
     "url": "https://github.com/osrg/rustybgp",
-    "description": "BGP implemented in the Rust Programming Language"
+    "description": "BGP"
   },
   {
     "name": "AFLplusplus/LibAFL",
@@ -936,7 +946,7 @@
   {
     "name": "cargo-crev",
     "url": "https://crates.io/crates/cargo-crev",
-    "description": "A cryptographically verifiable code review system for the cargo (Rust) package manager."
+    "description": "A cryptographically verifiable code review system for the cargo package manager."
   },
   {
     "name": "cargo-deny",
@@ -960,7 +970,7 @@
   {
     "name": "epi052/feroxbuster",
     "url": "https://github.com/epi052/feroxbuster",
-    "description": "A simple, fast, recursive content discovery tool written in Rust ("
+    "description": "A simple, fast, recursive content discovery tool."
   },
   {
     "name": "Inspektor",
@@ -998,12 +1008,12 @@
   {
     "name": "Rustodon",
     "url": "https://github.com/rustodon/rustodon",
-    "description": "A Mastodon-compatible, ActivityPub-speaking server in Rust"
+    "description": "A Mastodon-compatible, ActivityPub-speaking server."
   },
   {
     "name": "Rustodon",
     "url": "https://github.com/rustodon/rustodon",
-    "description": "A Mastodon-compatible, ActivityPub-speaking server in Rust"
+    "description": "A Mastodon-compatible, ActivityPub-speaking server."
   },
   {
     "name": "ajeetdsouza/zoxide",
@@ -1080,7 +1090,7 @@
   {
     "name": "gitui",
     "url": "https://github.com/extrawurst/gitui",
-    "description": "Blazing fast terminal client for git written in Rust."
+    "description": "Blazing fast terminal client for git."
   },
   {
     "name": "GQL",
@@ -1133,7 +1143,7 @@
   {
     "name": "mdgaziur/findex",
     "url": "https://github.com/mdgaziur/findex",
-    "description": "Findex is a highly customizable application finder written in Rust and uses GTK3"
+    "description": "Findex is a highly customizable application finder using GTK3"
   },
   {
     "name": "mitnk/cicada",
@@ -1285,6 +1295,11 @@
   {
     "name": "zed",
     "url": "https://github.com/zed-industries/zed"
+  },
+  {
+    "name": "ashvardanian/stringzilla",
+    "url": "https://github.com/ashvardanian/StringZilla",
+    "description": "SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON"
   },
   {
     "name": "dominikwilkowski/cfonts",
@@ -2489,7 +2504,7 @@
   {
     "name": "burn",
     "url": "https://github.com/tracel-ai/burn",
-    "description": "A Flexible and Comprehensive Deep Learning Framework in Rust."
+    "description": "A Flexible and Comprehensive Deep Learning Framework."
   },
   {
     "name": "coreylowman/dfdx",
@@ -2502,7 +2517,7 @@
   {
     "name": "huggingface/tokenizers",
     "url": "https://github.com/huggingface/tokenizers",
-    "description": "Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python."
+    "description": "Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python."
   },
   {
     "name": "LaurentMazare/tch-rs",
@@ -2610,12 +2625,12 @@
   {
     "name": "RustAudio",
     "url": "https://github.com/RustAudio",
-    "description": "Low-level cross-platform audio I/O library in pure Rust."
+    "description": "Low-level cross-platform audio I/O library."
   },
   {
     "name": "RustAudio/cpal",
     "url": "https://github.com/RustAudio/cpal",
-    "description": "Low-level cross-platform audio I/O library in pure Rust."
+    "description": "Low-level cross-platform audio I/O library."
   },
   {
     "name": "RustAudio/rodio",
@@ -2689,7 +2704,7 @@
   {
     "name": "al8n/stretto",
     "url": "https://github.com/al8n/stretto",
-    "description": "A high performance thread-safe memory-bound Rust cache"
+    "description": "A high performance thread-safe memory-bound cache"
   },
   {
     "name": "jaemk/cached",
@@ -2698,12 +2713,12 @@
   {
     "name": "moka-rs/moka",
     "url": "https://github.com/moka-rs/moka",
-    "description": "A high performance concurrent caching library for Rust inspired by the Caffeine library for Java"
+    "description": "A high performance concurrent caching library inspired by the Caffeine library for Java"
   },
   {
     "name": "mozilla/sccache",
     "url": "https://github.com/mozilla/sccache/",
-    "description": "Shared Compilation Cache, great for Rust compilation"
+    "description": "Shared Compilation Cache, great compilation"
   },
   {
     "name": "zkat/cacache-rs",
@@ -2713,7 +2728,7 @@
   {
     "name": "aws",
     "url": "https://crates.io/keywords/aws",
-    "description": "The new AWS SDK for Rust"
+    "description": "The new AWS SDK"
   },
   {
     "name": "awslabs/aws-lambda-rust-runtime",
@@ -2722,7 +2737,7 @@
   {
     "name": "awslabs/aws-sdk-rust",
     "url": "https://github.com/awslabs/aws-sdk-rust",
-    "description": "The new AWS SDK for Rust"
+    "description": "The new AWS SDK"
   },
   {
     "name": "rusoto/rusoto",
@@ -3168,7 +3183,7 @@
   {
     "name": "arkworks-rs/circom-compat",
     "url": "https://github.com/arkworks-rs/circom-compat",
-    "description": "Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust."
+    "description": "Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation."
   },
   {
     "name": "briansmith/ring",
@@ -3300,6 +3315,11 @@
     "description": "Programmable data streaming platform"
   },
   {
+    "name": "ashvardanian/simsimd",
+    "url": "https://github.com/ashvardanian/SimSIMD",
+    "description": "SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON"
+  },
+  {
     "name": "becheran/grid",
     "url": "https://github.com/becheran/grid"
   },
@@ -3358,7 +3378,7 @@
   {
     "name": "blitzarx1/egui_graphs",
     "url": "https://github.com/blitzarx1/egui_graphs",
-    "description": "[egui_graphs] - Interactive graph visualization widget for rust powered by egui and petgraph."
+    "description": "[egui_graphs] - Interactive graph visualization widget powered by egui and petgraph."
   },
   {
     "name": "djduque/pgfplots",
@@ -3406,12 +3426,12 @@
   {
     "name": "Arangors",
     "url": "https://github.com/fMeow/arangors",
-    "description": "An ArangoDB driver for Rust"
+    "description": "An ArangoDB driver"
   },
   {
     "name": "Cassandra",
     "url": "https://cassandra.apache.org/_/index.html",
-    "description": "Cassandra protocol implementation in Rust"
+    "description": "Cassandra protocol implementation."
   },
   {
     "name": "AlexPikalov/cdrs",
@@ -3420,17 +3440,17 @@
   {
     "name": "krojew/cdrs-tokio",
     "url": "https://github.com/krojew/cdrs-tokio",
-    "description": "Cassandra protocol implementation in Rust"
+    "description": "Cassandra protocol implementation."
   },
   {
     "name": "cassandra-protocol",
     "url": "https://crates.io/crates/cassandra-protocol",
-    "description": "Cassandra protocol implementation in Rust"
+    "description": "Cassandra protocol implementation."
   },
   {
     "name": "cdrs-tokio",
     "url": "https://crates.io/crates/cdrs-tokio",
-    "description": "production-ready async Apache Cassandra driver written in pure Rust"
+    "description": "production-ready async Apache Cassandra driver"
   },
   {
     "name": "Metaswitch/cassandra-rs",
@@ -3539,12 +3559,12 @@
   {
     "name": "Redb",
     "url": "https://www.redb.org/",
-    "description": "An embedded key-value database written in pure Rust. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb."
+    "description": "An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb."
   },
   {
     "name": "Redb",
     "url": "https://github.com/cberner/redb",
-    "description": "An embedded key-value database written in pure Rust. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb."
+    "description": "An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb."
   },
   {
     "name": "redis",
@@ -3587,7 +3607,7 @@
   {
     "name": "ZooKeeper",
     "url": "https://zookeeper.apache.org/",
-    "description": "Async Zookeeper client written 100% in Rust, based on tokio."
+    "description": "Async Zookeeper client, based on tokio."
   },
   {
     "name": "bonifaido/rust-zookeeper",
@@ -3596,7 +3616,7 @@
   {
     "name": "krojew/rust-zookeeper",
     "url": "https://github.com/krojew/rust-zookeeper",
-    "description": "Async Zookeeper client written 100% in Rust, based on tokio."
+    "description": "Async Zookeeper client, based on tokio."
   },
   {
     "name": "ogm",
@@ -4121,7 +4141,7 @@
   {
     "name": "ParthJadhav/Rust_Search",
     "url": "https://github.com/ParthJadhav/Rust_Search",
-    "description": "Blazingly fast file search library built in Rust."
+    "description": "Blazingly fast file search library."
   },
   {
     "name": "pop-os/dbus-udisks2",
@@ -4197,12 +4217,12 @@
   {
     "name": "bracket-lib",
     "url": "https://github.com/amethyst/bracket-lib",
-    "description": "The Roguelike Toolkit (RLTK), implemented for Rust."
+    "description": "The Roguelike Toolkit (RLTK)."
   },
   {
     "name": "bracket-lib",
     "url": "https://github.com/amethyst/bracket-lib",
-    "description": "The Roguelike Toolkit (RLTK), implemented for Rust."
+    "description": "The Roguelike Toolkit (RLTK)."
   },
   {
     "name": "iddm/challonge-rs",
@@ -4268,12 +4288,12 @@
   {
     "name": "Godot",
     "url": "https://godotengine.org/",
-    "description": "Rust bindings to the Godot game engine"
+    "description": "Bindings to the Godot game engine"
   },
   {
     "name": "godot-rust/gdnative",
     "url": "https://github.com/godot-rust/gdnative",
-    "description": "Rust bindings to the Godot game engine"
+    "description": "Bindings to the Godot game engine"
   },
   {
     "name": "Raylib",
@@ -4324,12 +4344,12 @@
   {
     "name": "iddm/toornament-rs",
     "url": "https://github.com/iddm/toornament-rs",
-    "description": "Toornament.com API bindings for Rust."
+    "description": "Toornament.com API bindings."
   },
   {
     "name": "iddm/toornament-rs",
     "url": "https://github.com/iddm/toornament-rs",
-    "description": "Toornament.com API bindings for Rust."
+    "description": "Toornament.com API bindings."
   },
   {
     "name": "VictoremWinbringer/Victorem",
@@ -4367,17 +4387,17 @@
   {
     "name": "petgraph/petgraph",
     "url": "https://github.com/petgraph/petgraph",
-    "description": "Graph data structure library for Rust."
+    "description": "Graph data structure library."
   },
   {
     "name": "RazrFalcon/rustybuzz",
     "url": "https://github.com/RazrFalcon/rustybuzz",
-    "description": "An incremental harfbuzz port to Rust"
+    "description": "An incremental harfbuzz port"
   },
   {
     "name": "RazrFalcon/rustybuzz",
     "url": "https://github.com/RazrFalcon/rustybuzz",
-    "description": "An incremental harfbuzz port to Rust"
+    "description": "An incremental harfbuzz port"
   },
   {
     "name": "redox-os/rusttype",
@@ -4468,7 +4488,7 @@
   {
     "name": "emilk/egui",
     "url": "https://github.com/emilk/egui",
-    "description": "Simple, fast, and highly portable immediate mode GUI library for Rust. egui runs on the web, natively, and in your favorite game engine."
+    "description": "Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine."
   },
   {
     "name": "emoon/rust_minifb",
@@ -4505,12 +4525,12 @@
   {
     "name": "GTK+",
     "url": "https://www.gtk.org/",
-    "description": "GTK4 binding for rust"
+    "description": "GTK4 binding"
   },
   {
     "name": "gtk-rs/gtk4-rs",
     "url": "https://github.com/gtk-rs/gtk4-rs",
-    "description": "GTK4 binding for rust"
+    "description": "GTK4 binding"
   },
   {
     "name": "relm",
@@ -4977,7 +4997,7 @@
   {
     "name": "Folyd/robotstxt",
     "url": "https://github.com/Folyd/robotstxt",
-    "description": "A native Rust port of Google's robots.txt parser and matcher C++ library"
+    "description": "Port of Google's robots.txt parser and matcher C++ library"
   },
   {
     "name": "freestrings/jsonpath",
@@ -5110,7 +5130,7 @@
   {
     "name": "3body-lang",
     "url": "https://github.com/rustq/3body-lang",
-    "description": "The Three Body Language written in Rust"
+    "description": "The Three Body Language"
   },
   {
     "name": "duckscript",
@@ -5328,7 +5348,7 @@
   {
     "name": "oxidecomputer/propolis",
     "url": "https://github.com/oxidecomputer/propolis",
-    "description": "Rust-based userspace program for illumos bhyve kernel modules"
+    "description": "Userspace program for illumos bhyve kernel modules"
   },
   {
     "name": "saurvs/hypervisor-rs",
@@ -5371,7 +5391,7 @@
   {
     "name": "alexcrichton/curl-rust",
     "url": "https://github.com/alexcrichton/curl-rust",
-    "description": "A GraphQL server library implemented in Rust"
+    "description": "A GraphQL server library"
   },
   {
     "name": "alexcrichton/curl-rust",
@@ -5380,7 +5400,7 @@
   {
     "name": "async-graphql",
     "url": "https://github.com/async-graphql/async-graphql",
-    "description": "A GraphQL server library implemented in Rust"
+    "description": "A GraphQL server library"
   },
   {
     "name": "DoumanAsh/yukikaze",
@@ -5406,7 +5426,7 @@
   {
     "name": "actix/actix-web",
     "url": "https://github.com/actix/actix-web",
-    "description": "A full-featured and easy-to-use web framework with the Rust programming language."
+    "description": "A full-featured and easy-to-use web framework."
   },
   {
     "name": "actix/actix-web",
@@ -5471,7 +5491,7 @@
   {
     "name": "poem-web/poem",
     "url": "https://github.com/poem-web/poem",
-    "description": "A full-featured and easy-to-use web framework with the Rust programming language."
+    "description": "A full-featured and easy-to-use web framework."
   },
   {
     "name": "Rocket",
@@ -5528,7 +5548,7 @@
   {
     "name": "juhaku/utoipa",
     "url": "https://github.com/juhaku/utoipa",
-    "description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust"
+    "description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation"
   },
   {
     "name": "osohq/oso",
@@ -5546,7 +5566,7 @@
   {
     "name": "serenity-rs/serenity",
     "url": "https://github.com/serenity-rs/serenity",
-    "description": "A Rust library for the Discord API"
+    "description": "A library for the Discord API"
   },
   {
     "name": "softprops/openapi",
@@ -5559,12 +5579,12 @@
   {
     "name": "tbot",
     "url": "https://gitlab.com/SnejUgal/tbot",
-    "description": "Make cool Telegram bots with Rust easily"
+    "description": "Make cool Telegram bots easily"
   },
   {
     "name": "teloxide/teloxide",
     "url": "https://github.com/teloxide/teloxide/",
-    "description": "An elegant Telegram bots framework for Rust"
+    "description": "An elegant Telegram bots framework"
   },
   {
     "name": "utkarshkukreti/select.rs",
@@ -5666,7 +5686,7 @@
   {
     "name": "Discover Rust Libraries & Code Snippets",
     "url": "https://kandi.openweaver.com/explorelibrary/rust",
-    "description": "A curated list of Rust libraries, authors, kits, tutorials & learning resources on kandi"
+    "description": "A curated list of libraries, authors, kits, tutorials & learning resources on kandi"
   },
   {
     "name": "Aquascope",
@@ -5681,7 +5701,7 @@
   {
     "name": "Awesome Rust Streaming",
     "url": "https://github.com/jamesmunns/awesome-rust-streaming",
-    "description": "A community curated list of livestreams about Rust."
+    "description": "A community curated list of livestreams."
   },
   {
     "name": "awesome-rust-mentors",
