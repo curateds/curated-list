@@ -1,7 +1,11 @@
 [
   {
-    "name": " ➡️ ➡️ Get Instant updates for Capacitor App: Capgo 🔔",
+    "name": " ➡️ Get Instant updates for Capacitor App: Capgo 🔔",
     "url": "https://capgo.app/?ref=awesome-list"
+  },
+  {
+    "name": " Hire a Capacitor consultant 💪",
+    "url": "https://capgo.app/consulting/"
   },
   {
     "name": "Action Sheet",
@@ -403,7 +407,7 @@
     "description": "Hide and show home button indicator in Capacitor app."
   },
   {
-    "name": "Naitve Purchases",
+    "name": "Native Purchases",
     "url": "https://github.com/Cap-go/native-purchases",
     "description": "Manage IAP on capacitor with latest libs Android and IOS."
   },
@@ -538,6 +542,11 @@
     "name": "Biometric",
     "url": "https://github.com/epicshaggy/capacitor-native-biometric",
     "description": "Use biometrics confirm device owner presence or authenticate users."
+  },
+  {
+    "name": "capacitor-plugin-camera",
+    "url": "https://github.com/xulihang/capacitor-plugin-camera",
+    "description": "A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance."
   },
   {
     "name": "Dark mode",
@@ -783,6 +792,11 @@
     "name": "Websocket Client",
     "url": "https://github.com/OrdinarySF/capacitor-websocket-client",
     "description": "Capacitor WebSocket Client Plugin."
+  },
+  {
+    "name": "Bing Translator",
+    "url": "https://github.com/sabereen/capacitor-bing-translator",
+    "description": "A simple and free API for using Bing Translator."
   },
   {
     "name": "NPM search",

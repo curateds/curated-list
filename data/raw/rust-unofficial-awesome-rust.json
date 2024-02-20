@@ -461,6 +461,11 @@
     "url": "https://github.com/mit-pdos/noria"
   },
   {
+    "name": "ParadeDB",
+    "url": "https://github.com/paradedb/paradedb/",
+    "description": "ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics."
+  },
+  {
     "name": "ParityDB",
     "url": "https://github.com/paritytech/parity-db"
   },
@@ -3292,6 +3297,11 @@
     "url": "https://github.com/kernelmachine/utah"
   },
   {
+    "name": "pg_analytics",
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_analytics",
+    "description": "PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases."
+  },
+  {
     "name": "pola-rs/polars",
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast feature complete DataFrame library"
@@ -5320,6 +5330,11 @@
   {
     "name": "meilisearch/MeiliSearch",
     "url": "https://github.com/meilisearch/MeiliSearch"
+  },
+  {
+    "name": "pg_bm25",
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_bm25",
+    "description": "PostgreSQL extension that enables full text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search."
   },
   {
     "name": "tantivy",

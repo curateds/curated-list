@@ -285,6 +285,21 @@
     "description": "FiPer is a library that provides Fiber with Role Based Access Control (RBAC) using JWT and with database persistence using two ORM libraries are supported: Gorm and Bun."
   },
   {
+    "name": "zeiss/fiber-goth",
+    "url": "https://github.com/ZEISS/fiber-goth",
+    "description": "Simple middleware to integrate authentication to your Fiber applications."
+  },
+  {
+    "name": "zeiss/fiber-authz",
+    "url": "https://github.com/ZEISS/fiber-authz",
+    "description": "A middleware to secure routes in Fiber with a defined RBAC model."
+  },
+  {
+    "name": "zeiss/fiber-htmx",
+    "url": "https://github.com/ZEISS/fiber-htmx",
+    "description": "A middleware for using HTMX in Fiber."
+  },
+  {
     "name": "gofiber/boilerplate",
     "url": "https://github.com/gofiber/boilerplate",
     "description": "Official fiber boilerplate."

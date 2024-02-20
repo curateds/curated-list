@@ -7444,6 +7444,11 @@
     "description": "Theme for iTerm 2 and ZSH. Uncludes git status, user@host, path and date decorators."
   },
   {
+    "name": "goldenprompt",
+    "url": "https://github.com/Goldeneye128/goldenprompt",
+    "description": "A simple prompt that incorporates fish-like functionality and decorators for git status, current directory."
+  },
+  {
     "name": "goprompt",
     "url": "https://github.com/NonLogicalDev/shell.async-goprompt",
     "description": "Lightning fast. Includes decorators for truncated current directory, last command duration & exit status, vim-mode indicators, git information, datetime and parent process name."
