@@ -19,9 +19,9 @@
     "description": "A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot."
   },
   {
-    "name": "Avo",
-    "url": "https://avohq.io",
-    "description": "Avo is a next-generation framework that empowers developers and teams to create fantastic admin panels for Ruby on Rails projects in hours, not days or weeks. Fast, extendable, with a developer-friendly API, it just works out of the box."
+    "name": "Avo Admin for Rails",
+    "url": "https://avohq.io/rails-admin",
+    "description": "Avo is the modern approach to building an advanced admin panel that can be used by the entire organization. It has all the tools an admin panel needs and more. We have carefully made sure that you have all the escape hatches you need to ensure you can build your next admin panel for Ruby on Rails incredibly fast and easily."
   },
   {
     "name": "bhf",
@@ -1523,6 +1523,11 @@
     "description": "Simple and lightweight configuration management tool inspired by Chef."
   },
   {
+    "name": "Kanrisuru",
+    "url": "https://github.com/avamia/kanrisuru",
+    "description": "Manage remote infrastructure in Ruby"
+  },
+  {
     "name": "Lita",
     "url": "https://www.lita.io/",
     "description": "ChatOps for Ruby: A pluggable chat bot framework usable with any chat service."
@@ -2871,9 +2876,14 @@
     "description": "Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby."
   },
   {
-    "name": "acts_as_archival",
-    "url": "https://github.com/expectedbehavior/acts_as_archival",
-    "description": "ActiveRecord plugin for atomic object tree archiving."
+    "name": "active_snapshot",
+    "url": "https://github.com/westonganger/active_snapshot",
+    "description": "Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation"
+  },
+  {
+    "name": "active_snapshot",
+    "url": "https://github.com/westonganger/active_snapshot",
+    "description": "Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation"
   },
   {
     "name": "acts_as_archival",

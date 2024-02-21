@@ -1,7 +1,12 @@
 [
   {
+    "name": "Dadroit JSON Viewer",
+    "url": "https://dadroit.com",
+    "description": "Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson)."
+  },
+  {
     "name": "Visual JSON",
-    "url": "https://apps.apple.com/app/id488709442",
+    "url": "https://apps.apple.com/us/app/visual-json/id488709442?mt=12",
     "description": "simple JSON pretty-viewer for Mac OS X."
   },
   {
@@ -11,7 +16,7 @@
   },
   {
     "name": "BSON",
-    "url": "http://bsonspec.org/",
+    "url": "https://bsonspec.org/",
     "description": "Binary JSON."
   },
   {
@@ -26,7 +31,7 @@
   },
   {
     "name": "CBOR",
-    "url": "https://tools.ietf.org/html/rfc7049",
+    "url": "https://datatracker.ietf.org/doc/html/rfc7049",
     "description": "Concise Binary Object Representation."
   },
   {
@@ -41,32 +46,27 @@
   },
   {
     "name": "JSON Formatter",
-    "url": "https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
+    "url": "https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
     "description": "Makes JSON easy to read. Open source."
   },
   {
     "name": "JSON Viewer",
-    "url": "https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh",
+    "url": "https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh",
     "description": "It is a Chrome extension for printing JSON and JSONP."
   },
   {
-    "name": "JSON Browser",
-    "url": "https://chrome.google.com/webstore/detail/json-browser/hngfgkmimoikmpohakflgadcajkfnoba",
-    "description": "Browse a JSON web with the help of JSON schemas."
-  },
-  {
     "name": "JSON Finder",
-    "url": "https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj",
+    "url": "https://chromewebstore.google.com/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj",
     "description": "Browse like you do it in Finder."
   },
   {
     "name": "JSON Viewer Pro",
-    "url": "https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc",
+    "url": "https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc",
     "description": "An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph."
   },
   {
     "name": "Discoverable JSON",
-    "url": "https://chrome.google.com/webstore/detail/json-manipulator-json-to/pcakbljjigdafljigcpbmjllkbhlncjg",
+    "url": "https://chromewebstore.google.com/detail/json-manipulator-json-to/pcakbljjigdafljigcpbmjllkbhlncjg",
     "description": "Gron inspired Extension. Convert a JSON document into javascript expressions. Comes with filter, remove, find-and-replace capabilities."
   },
   {
@@ -106,8 +106,13 @@
   },
   {
     "name": "jq",
-    "url": "http://stedolan.github.io/jq/",
+    "url": "https://github.com/jqlang/jq",
     "description": "A lightweight and flexible command-line JSON processor."
+  },
+  {
+    "name": "livejq",
+    "url": "https://github.com/kunalsin9h/livejq",
+    "description": "An alternative jq implementation in rust for continuous parsing without crashing on invalid JSON"
   },
   {
     "name": "json",
@@ -115,8 +120,13 @@
     "description": "A \"json\" command for massaging JSON on your Unix command line."
   },
   {
+    "name": "json-search",
+    "url": "https://github.com/cosmo-ray/json-search",
+    "description": "A small tool to search for objects/values in json files."
+  },
+  {
     "name": "jshon",
-    "url": "http://kmkeen.com/jshon/",
+    "url": "https://web.archive.org/web/20240206155217/http://kmkeen.com/jshon/",
     "description": "A parser designed for maximum convenience within the shell."
   },
   {
@@ -168,6 +178,16 @@
     "name": "visidata",
     "url": "https://github.com/saulpw/visidata",
     "description": "A terminal spreadsheet-like tool for interactively exploring data."
+  },
+  {
+    "name": "jc",
+    "url": "https://github.com/kellyjonbrazil/jc",
+    "description": "Converts the output of many CLI tools, file-types, and common strings into JSON"
+  },
+  {
+    "name": "logdy",
+    "url": "https://github.com/logdyhq/logdy-core",
+    "description": "jq, tail, less, grep and awk merged together and available in a clean web UI."
   },
   {
     "name": "MongoDB",
@@ -271,7 +291,7 @@
   },
   {
     "name": "JSONPatch",
-    "url": "http://jsonpatch.com/",
+    "url": "https://jsonpatch.com/",
     "description": "A format for describing changes to a document."
   },
   {
@@ -308,6 +328,11 @@
     "name": "JSONEdit",
     "url": "http://mb21.github.io/JSONedit/",
     "description": "User friendly, visual editor built as an AngularJS directive."
+  },
+  {
+    "name": "JSON Crack",
+    "url": "https://jsoncrack.com/",
+    "description": "Display your JSON as a graph"
   },
   {
     "name": "GeoJSON",
@@ -390,18 +415,13 @@
     "description": "Making open source contribution information easier to access, across projects."
   },
   {
-    "name": "JSON Table Schema",
-    "url": "https://frictionlessdata.io/table-schema/",
-    "description": "a simple schema for tabular data"
-  },
-  {
     "name": "NDJSON",
-    "url": "http://ndjson.org/",
+    "url": "https://ndjson.org/",
     "description": "a standard for delimiting JSON in stream protocols."
   },
   {
     "name": "survey.js",
-    "url": "http://surveyjs.org/",
+    "url": "https://surveyjs.io/form-library",
     "description": "JSON based survey library."
   },
   {
@@ -411,7 +431,7 @@
   },
   {
     "name": "JackSON: JSON secret keeper",
-    "url": "https://github.com/r0hi7/jackson",
+    "url": "https://github.com/rosehgal/jackson",
     "description": "JSONic way of storing secrets in config file."
   },
   {
@@ -445,13 +465,18 @@
     "description": "A React component for building Web forms from JSON Schema. (React)"
   },
   {
+    "name": "@textea/json-viewer",
+    "url": "https://github.com/TexteaInc/json-viewer",
+    "description": "A React component for JSON viewer. (React)"
+  },
+  {
     "name": "ngx-formly",
     "url": "https://github.com/ngx-formly/ngx-formly",
     "description": "JSON powered / Dynamic forms for Angular"
   },
   {
     "name": "Jansson",
-    "url": "https://digip.org/jansson/",
+    "url": "https://github.com/akheron/jansson",
     "description": "A C library for encoding, decoding and manipulating data."
   },
   {
@@ -580,7 +605,7 @@
   },
   {
     "name": "oboe.js",
-    "url": "http://oboejs.com/",
+    "url": "https://github.com/jimhigson/oboe.js",
     "description": "A streaming approach, speeds up web applications by providing parsed objects before the response completes."
   },
   {
@@ -715,7 +740,7 @@
   },
   {
     "name": "JSON Editor online",
-    "url": "http://jsoneditoronline.org/",
+    "url": "https://jsoneditoronline.org/",
     "description": "A web-based tool to view, edit and format."
   },
   {
@@ -730,7 +755,7 @@
   },
   {
     "name": "JSON Generator",
-    "url": "https://www.json-generator.com/",
+    "url": "https://json-generator.com/",
     "description": "Tool for generating random data."
   },
   {
@@ -745,7 +770,7 @@
   },
   {
     "name": "CSV to JSON",
-    "url": "https://mango-is.com/tools/csv-to-json/",
+    "url": "https://alef.website/tools/csv-to-json",
     "description": "Easy, privacy-friendly and offline-first online csv to json converter"
   },
   {
@@ -760,7 +785,7 @@
   },
   {
     "name": "geojson.io",
-    "url": "http://geojson.io/",
+    "url": "https://geojson.io/",
     "description": "Simply edit GeoJSON map data."
   },
   {
@@ -785,13 +810,8 @@
   },
   {
     "name": "ObjGen",
-    "url": "http://www.objgen.com/json",
+    "url": "https://www.objgen.com/json",
     "description": "Online live JSON generator."
-  },
-  {
-    "name": "JsonStub",
-    "url": "https://jsonstub.com/",
-    "description": "Online JSON faker."
   },
   {
     "name": "JSONPlaceholder",
@@ -809,11 +829,6 @@
     "description": "A simple and free JSON Schema Validation API."
   },
   {
-    "name": "JSONLog",
-    "url": "https://jsonlog.io/docs",
-    "description": "Logging and visualization of JSON from any client."
-  },
-  {
     "name": "JSONPerf",
     "url": "https://jsonperf.com",
     "description": "A Visual, Unbiased and Up-to-Date JSON Performance Benchmark."
@@ -825,7 +840,7 @@
   },
   {
     "name": "JSON Schema",
-    "url": "http://json-schema.org/",
+    "url": "https://json-schema.org/",
     "description": "a JSON based format for defining the structure of JSON data."
   },
   {
@@ -835,12 +850,12 @@
   },
   {
     "name": "Kwalify",
-    "url": "http://www.kuwata-lab.com/kwalify/",
+    "url": "https://github.com/kvs/kwalify",
     "description": "A parser, schema validator, and data binding tool"
   },
   {
     "name": "Rx",
-    "url": "http://rx.codesimply.com/",
+    "url": "https://rx.codesimply.com/",
     "description": "Simple, Extensible Schemata."
   },
   {
@@ -865,7 +880,7 @@
   },
   {
     "name": "Telize",
-    "url": "http://www.telize.com/",
+    "url": "https://www.telize.com/",
     "description": "JSON IP and GeoIP REST API."
   },
   {
@@ -919,7 +934,7 @@
   },
   {
     "name": "JSON - Rosetta Code",
-    "url": "http://rosettacode.org/wiki/JSON",
+    "url": "https://rosettacode.org/wiki/JSON",
     "description": "Rosetta Code - Basic operations in different languages (57 languages in this moment)."
   },
   {
@@ -1119,7 +1134,7 @@
   },
   {
     "name": "nimnjs",
-    "url": "https://github.com/nimndata/nimnjs",
+    "url": "https://github.com/NaturalIntelligence/nimnjs",
     "description": "JSON to nimn bidirectional converter."
   },
   {
@@ -1149,7 +1164,7 @@
   },
   {
     "name": "ObjectPath",
-    "url": "http://objectpath.org/",
+    "url": "https://objectpath.org/",
     "description": "The agile query language for semi-structured data. (Python)"
   },
   {
@@ -1274,7 +1289,7 @@
   },
   {
     "name": "JSON Schema Store",
-    "url": "https://schemastore.org/json/",
+    "url": "https://www.schemastore.org/json/",
     "description": "A collection of popular schemas."
   },
   {
@@ -1284,7 +1299,7 @@
   },
   {
     "name": "Awesome JSON Schema",
-    "url": "https://github.com/jviotti/awesome-jsonschema",
+    "url": "https://github.com/sourcemeta/awesome-jsonschema",
     "description": "A curated list of awesome JSON Schema resources, tutorials, tools, and more."
   },
   {
@@ -1354,7 +1369,7 @@
   },
   {
     "name": "jsonschema",
-    "url": "https://github.com/Julian/jsonschema",
+    "url": "https://github.com/python-jsonschema/jsonschema",
     "description": "Python implementation of jsonschema."
   },
   {
@@ -1364,7 +1379,7 @@
   },
   {
     "name": "Ruby JSON Schema Validator",
-    "url": "https://github.com/ruby-json-schema/json-schema",
+    "url": "https://github.com/voxpupuli/json-schema",
     "description": "validating against a JSON schema conforming to JSON Schema Draft 4."
   }
 ]

@@ -830,6 +830,11 @@
     "description": "Save and load macros/registers."
   },
   {
+    "name": "kr40/nvim-macros",
+    "url": "https://github.com/kr40/nvim-macros",
+    "description": "Easy way to save and load Macros, with backup and formatting options."
+  },
+  {
     "name": "cbochs/grapple.nvim",
     "url": "https://github.com/cbochs/grapple.nvim",
     "description": "Provides tagging, cursor tracking, and immediate navigation to important project files."
@@ -2310,6 +2315,11 @@
     "description": "One global note in a floating window."
   },
   {
+    "name": "2KAbhishek/tdo.nvim",
+    "url": "https://github.com/2KAbhishek/tdo.nvim",
+    "description": "Fast and simple note taking."
+  },
+  {
     "name": "gaborvecsei/usage-tracker.nvim",
     "url": "https://github.com/gaborvecsei/usage-tracker.nvim",
     "description": "Track your Neovim usage and visualize statistics easily."
@@ -2758,6 +2768,11 @@
     "name": "RAprogramm/nekifoch",
     "url": "https://github.com/RAprogramm/nekifoch",
     "description": "Managing Kitty terminal font settings."
+  },
+  {
+    "name": "2KAbhishek/termim.nvim",
+    "url": "https://github.com/2KAbhishek/termim.nvim/",
+    "description": "Neovim Terminal, Improved."
   },
   {
     "name": "mfussenegger/nvim-dap",

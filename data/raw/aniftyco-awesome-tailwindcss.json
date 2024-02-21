@@ -190,6 +190,11 @@
     "description": "Adds clay utilities for creating claymorphism style."
   },
   {
+    "name": "Fluid",
+    "url": "https://github.com/barvian/fluid-tailwind",
+    "description": "Adds fluid clamp() versions of every built-in utility."
+  },
+  {
     "name": "FormKit",
     "url": "https://github.com/formkit/formkit/tree/master/packages/tailwindcss",
     "description": "Adds variants for input and form states for FormKit."

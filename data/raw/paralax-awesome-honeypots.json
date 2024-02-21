@@ -170,6 +170,11 @@
     "description": "An uploader honeypot designed to look like poor website security."
   },
   {
+    "name": "modpot",
+    "url": "https://github.com/referefref/modpot",
+    "description": "Modpot is a modular web application honeypot framework and management application written in Golang and making use of gin framework."
+  },
+  {
     "name": "owa-honeypot",
     "url": "https://github.com/joda32/owa-honeypot",
     "description": "A basic flask based Outlook Web Honey pot."
@@ -212,7 +217,7 @@
   {
     "name": "tomcat-manager-honeypot",
     "url": "https://github.com/helospark/tomcat-manager-honeypot",
-    "description": "Honeypot that mimics Tomcat manager endpoints. Logs requests and saves attacker's WAR file for later study"
+    "description": "Honeypot that mimics Tomcat manager endpoints. Logs requests and saves attacker's WAR file for later study."
   },
   {
     "name": "HonnyPotter",

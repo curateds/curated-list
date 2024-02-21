@@ -290,6 +290,11 @@
     "description": "Daily questionnaires and automatically generated wellness insights (iOS)."
   },
   {
+    "name": "Reflect",
+    "url": "https://ntl.ai/reflect",
+    "description": "Tracking app with customizable forms and data insights (iOS)."
+  },
+  {
     "name": "MyFitnessPal",
     "url": "http://www.myfitnesspal.com/",
     "description": "Food tracking and diet plan app (iOS & Android)."
@@ -333,6 +338,11 @@
     "name": "HiCoffee",
     "url": "https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706",
     "description": "Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch)."
+  },
+  {
+    "name": "Nutriely",
+    "url": "https://nutriely.com",
+    "description": "Food and nutrition tracking, diary. Focusing on detailed micro and vitamin breakdown. (Web)"
   },
   {
     "name": "GoalsOnTrack",
@@ -898,5 +908,25 @@
     "name": "TimelineBuilder",
     "url": "https://github.com/facebookresearch/personal-timeline",
     "description": "A data aggregation and and timeline visualization tool by Facebook."
+  },
+  {
+    "name": "Me API",
+    "url": "https://github.com/danfang/me-api",
+    "description": "An extensible, personal API with custom integrations."
+  },
+  {
+    "name": "Bolero",
+    "url": "https://github.com/bcongdon/bolero",
+    "description": "An extensible, personal API with custom integrations."
+  },
+  {
+    "name": "Memacs",
+    "url": "https://github.com/novoid/Memacs",
+    "description": "Visualize your life in Orgmode."
+  },
+  {
+    "name": "Syte3",
+    "url": "https://github.com/rigoneri/Syte3",
+    "description": "A personal website that shows your activity on social networks and more."
   }
 ]
