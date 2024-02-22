@@ -20,6 +20,11 @@
     "description": "A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching."
   },
   {
+    "name": "FastEndpoints",
+    "url": "https://github.com/FastEndpoints/FastEndpoints",
+    "description": "High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR (Request-Endpoint-Response) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code."
+  },
+  {
     "name": "Telegram.Bot",
     "url": "https://github.com/TelegramBots/Telegram.Bot",
     "description": ".NET Client for Telegram Bot API"
@@ -3068,6 +3073,11 @@
     "name": "Sleet",
     "url": "https://github.com/emgarten/sleet/",
     "description": "A NuGet v3 static feed generator with support for AWS S3 and Azure Storage"
+  },
+  {
+    "name": "QPdfSharp",
+    "url": "https://github.com/svengeance/QPdfSharp",
+    "description": "A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements."
   },
   {
     "name": "Cloudmersive PDF",

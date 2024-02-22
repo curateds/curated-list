@@ -170,6 +170,11 @@
     "description": "Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula."
   },
   {
+    "name": "rateslib",
+    "url": "https://github.com/attack68/rateslib",
+    "description": "A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps."
+  },
+  {
     "name": "pandas_talib",
     "url": "https://github.com/femtotrader/pandas_talib",
     "description": "A Python Pandas implementation of technical analysis indicators."
@@ -1131,7 +1136,7 @@
   },
   {
     "name": "RQuantLib",
-    "url": "http://dirk.eddelbuettel.com/code/rquantlib.html",
+    "url": "https://github.com/eddelbuettel/rquantlib",
     "description": "RQuantLib connects GNU R with QuantLib."
   },
   {
@@ -1486,7 +1491,7 @@
   },
   {
     "name": "JQuantLib",
-    "url": "http://www.jquantlib.org",
+    "url": "https://github.com/frgomes/jquantlib",
     "description": "JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java."
   },
   {
@@ -1605,23 +1610,28 @@
     "description": "IndicatorGo is a Golang module providing various stock technical analysis indicators, strategies, and a backtest framework for trading."
   },
   {
+    "name": "QuantLib",
+    "url": "https://github.com/lballabio/QuantLib",
+    "description": "The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance."
+  },
+  {
     "name": "TradeFrame",
     "url": "https://github.com/rburkholder/trade-frame",
     "description": "C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in Option Greeks/IV calculation library."
   },
   {
     "name": "QuantLib",
-    "url": "https://www.quantlib.org",
+    "url": "https://github.com/lballabio/QuantLib",
     "description": "The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance."
   },
   {
     "name": "JQuantLib",
-    "url": "http://www.jquantlib.org",
+    "url": "https://github.com/frgomes/jquantlib",
     "description": "Java port."
   },
   {
     "name": "RQuantLib",
-    "url": "http://dirk.eddelbuettel.com/code/rquantlib.html",
+    "url": "https://github.com/eddelbuettel/rquantlib",
     "description": "R port."
   },
   {
@@ -1936,5 +1946,10 @@
     "name": "Statistical-Learning-based-Portfolio-Optimization",
     "url": "https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization",
     "description": "This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018)."
+  },
+  {
+    "name": "book_irds3",
+    "url": "https://github.com/attack68/book_irds3",
+    "description": "Code repository for Pricing and Trading Interest Rate Derivatives."
   }
 ]

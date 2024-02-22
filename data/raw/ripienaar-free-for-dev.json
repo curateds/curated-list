@@ -428,11 +428,6 @@
     "url": "https://www.apify.com/"
   },
   {
-    "name": "API Mocha",
-    "url": "https://apimocha.com",
-    "description": "Completely free online API mocking for testing and prototyping.  Make up to 500 daily requests, fully customizable API responses, and download mock rules as a Postman collection."
-  },
-  {
     "name": "APITemplate.io",
     "url": "https://apitemplate.io",
     "description": "Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates."
@@ -702,11 +697,6 @@
     "name": "ipbase.com",
     "url": "https://ipbase.com",
     "description": "IP Geolocation API - Forever free plan that spans 150 monthly requests."
-  },
-  {
-    "name": "Iploka",
-    "url": "https://iploka.com/",
-    "description": "Forever free plan for developers with 10k requests per month limit."
   },
   {
     "name": "IP Geolocation",
@@ -1467,6 +1457,11 @@
   {
     "name": "wormhol.org",
     "url": "https://www.wormhol.org/"
+  },
+  {
+    "name": "Wormhole",
+    "url": "https://wormhole.app/",
+    "description": "Share files up to 5GB with end-to-end encryption for up to 24hours. For files larger than 5 GB, it uses peer-to-peer transfer to send your files directly."
   },
   {
     "name": "zoom.us",
@@ -2986,6 +2981,10 @@
     "url": "https://www.antideo.com"
   },
   {
+    "name": "Brevo",
+    "url": "https://www.brevo.com/"
+  },
+  {
     "name": "Bump",
     "url": "https://bump.email/",
     "description": "Free 10 Bump email addresses, one custom domain"
@@ -3198,20 +3197,12 @@
     "url": "https://sendgrid.com/"
   },
   {
-    "name": "Sendinblue",
-    "url": "https://www.sendinblue.com/"
-  },
-  {
     "name": "Sendpulse",
     "url": "https://sendpulse.com"
   },
   {
     "name": "SimpleLogin",
     "url": "https://simplelogin.io/"
-  },
-  {
-    "name": "Skiff",
-    "url": "https://skiff.com/"
   },
   {
     "name": "Substack",
@@ -3246,13 +3237,9 @@
     "description": "Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which is also partially open source, so you can self-host."
   },
   {
-    "name": "Validator.Pizza",
-    "url": "https://www.validator.pizza/"
-  },
-  {
     "name": "validemail.io",
     "url": "https://validemail.io/",
-    "description": "Free Tier with 1000 validations per day."
+    "description": "Free Tier with 10,000 validations per month & 10 requests per second."
   },
   {
     "name": "Verifalia",
@@ -3600,6 +3587,16 @@
     "name": "Qualli",
     "url": "https://usequalli.com",
     "description": "In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers."
+  },
+  {
+    "name": "Sprig",
+    "url": "https://sprig.com/",
+    "description": "1 In-Product Survey or Survey with Replay per month, with GPT-powered AI Analysis."
+  },
+  {
+    "name": "feedback.fish",
+    "url": "https://feedback.fish/",
+    "description": "Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided."
   },
   {
     "name": "Portkey",
@@ -5908,7 +5905,7 @@
   {
     "name": "PostHog",
     "url": "https://posthog.com",
-    "description": "Full Product Analytics suite free for up to 1m tracked events per month"
+    "description": "Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses."
   },
   {
     "name": "Uptrace",
@@ -6530,7 +6527,7 @@
   },
   {
     "name": "Framacloud",
-    "url": "https://degooglisons-internet.org/en/list/"
+    "url": "https://degooglisons-internet.org/en/"
   },
   {
     "name": "github.com — FOSS for Dev",
