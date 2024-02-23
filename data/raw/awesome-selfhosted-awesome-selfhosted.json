@@ -130,6 +130,11 @@
     "description": "Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. (Demo, Source Code) ECL-2.0 Ruby"
   },
   {
+    "name": "bitmagnet",
+    "url": "https://bitmagnet.io",
+    "description": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. (Source Code) MIT Go/Docker"
+  },
+  {
     "name": "CKAN",
     "url": "https://ckan.org",
     "description": "CKAN is a tool for making open data websites. (Source Code) AGPL-3.0 Python"

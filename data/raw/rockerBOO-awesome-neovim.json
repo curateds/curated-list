@@ -230,6 +230,11 @@
     "description": "A pretty window for previewing, navigating and editing your LSP locations."
   },
   {
+    "name": "deathbeam/lspecho.nvim",
+    "url": "https://github.com/deathbeam/lspecho.nvim",
+    "description": "Echo LSP progress to cmdline or embed it in status line."
+  },
+  {
     "name": "linrongbin16/lsp-progress.nvim",
     "url": "https://github.com/linrongbin16/lsp-progress.nvim",
     "description": "A performant LSP progress status."
@@ -383,6 +388,11 @@
     "name": "echasnovski/mini.nvim#mini.completion",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-completion.md",
     "description": "Module of mini.nvim for asynchronous two-stage completion. Supports showing completion item info and independent function signature."
+  },
+  {
+    "name": "deathbeam/autocomplete.nvim",
+    "url": "https://github.com/deathbeam/autocomplete.nvim",
+    "description": "Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help."
   },
   {
     "name": "vigoux/complementree.nvim",

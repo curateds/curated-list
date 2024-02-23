@@ -13,12 +13,12 @@
     "description": "Official user guide for Python, Rust and R."
   },
   {
-    "name": "Documentation for Python API ",
+    "name": "Documentation for Python API",
     "url": "https://pola-rs.github.io/polars/py-polars/html/reference/",
     "description": "Official API Reference for Python."
   },
   {
-    "name": "Documentation for Rust API ",
+    "name": "Documentation for Rust API",
     "url": "https://pola-rs.github.io/polars/polars/",
     "description": "Official API Reference for Rust."
   },
@@ -32,7 +32,7 @@
     "url": "https://github.com/pola-rs/pyo3-polars"
   },
   {
-    "name": "Documentation for R API ",
+    "name": "Documentation for R API",
     "url": "https://rpolars.github.io/reference/index.html",
     "description": "Official API Reference for R."
   },
@@ -81,9 +81,14 @@
     "description": "Machine learning Python package built on Polars for time-series predictions by @neocortexdb. According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !"
   },
   {
-    "name": "polars-business",
-    "url": "https://github.com/MarcoGorelli/polars-business",
-    "description": "Polars extension that offers utilities for business day operations with Polars and Python by @MarcoGorelli."
+    "name": "Python package functime",
+    "url": "https://docs.functime.ai/",
+    "description": "Machine learning Python package built on Polars for time-series predictions by @neocortexdb. According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !"
+  },
+  {
+    "name": "polars-xdt",
+    "url": "https://github.com/pola-rs/polars-xdt",
+    "description": "Polars plugin offering eXtra stuff for DateTimes (originally by @MarcoGorelli)."
   },
   {
     "name": "Ibis Python package for Polars",
@@ -145,7 +150,7 @@
   {
     "name": "Cheatsheet for Pandas to Polars",
     "url": "https://www.rhosignal.com/posts/polars-pandas-cheatsheet/",
-    "description": "A Cheat Sheet that shows how to convert some familar Pandas commands to Polars by @braaannigan."
+    "description": "A Cheat Sheet that shows how to convert some familiar Pandas commands to Polars by @braaannigan."
   },
   {
     "name": "Modern Polars",
@@ -165,7 +170,7 @@
   {
     "name": "Prise en main de Polars",
     "url": "http://colab.research.google.com/github/inseefrlab/ssphub/blob/main/content/notebooks/polars-tuto.ipynb",
-    "description": "A notebook tutorial in French that illustrates the main features of Polars by @romaintailhurat and @linogaliana. There is also an accompanying blog post ."
+    "description": "A notebook tutorial in French that illustrates the main features of Polars by @romaintailhurat and @linogaliana. There is also an accompanying blog post."
   },
   {
     "name": "Running Polars code distributedly",
@@ -216,6 +221,11 @@
     "name": "Python Polars: A Lightning-Fast DataFrame Library",
     "url": "https://realpython.com/polars-python/",
     "description": "A tutorial that shows how to use Polars with Python ecosystem by @hfhoffman1144. Code used is available on Github here."
+  },
+  {
+    "name": "Polars plugins tutorial",
+    "url": "https://marcogorelli.github.io/polars-plugins-tutorial/",
+    "description": "How you (yes, you!) can write a Polars Plugin, by @MarcoGorelli."
   },
   {
     "name": "Using the Polars DataFrame Library",
@@ -278,7 +288,7 @@
     "description": "A blog post comparing some common functions between Pandas and Polars by @danielbeach. Code used is available on Github here."
   },
   {
-    "name": "Dataframe Showdown – Polars vs Spark vs Pandas vs DataFusion. Guess who wins? ",
+    "name": "Dataframe Showdown – Polars vs Spark vs Pandas vs DataFusion. Guess who wins?",
     "url": "https://www.confessionsofadataguy.com/dataframe-showdown-polars-vs-spark-vs-pandas-vs-datafusion-guess-who-wins/",
     "description": "A short article that presents a performance test between Polars, Pandas, Datafusion and Spark on a csv dataset by @danielbeach. Code used is available on Github here."
   },
@@ -313,9 +323,9 @@
     "description": "A blog post that analyzes in terms of Syntax, Speed, and Usability between Pandas 2.0 and Polars 0.17.0 by @priyanshu7401."
   },
   {
-    "name": "Polars - modern data frame library ",
+    "name": "Polars - modern data frame library",
     "url": "https://dskrzypiec.dev/polars/",
-    "description": "modern data frame library  - A blog post that describes why Polars could be a better alternative to pandas, dplyr or data.table by @DSkrzypiec."
+    "description": "modern data frame library - A blog post that describes why Polars could be a better alternative to pandas, dplyr or data.table by @DSkrzypiec."
   },
   {
     "name": "The fastest way to read a CSV file in Python",
@@ -345,7 +355,7 @@
   {
     "name": "A Polars exploration into Kedro",
     "url": "https://kedro.org/blog/a-polars-exploration-into-kedro",
-    "description": "A blog post that explains how Polars can be used instead of pandas in Kedro  for your data catalog and data manipulation by @astrojuanlu."
+    "description": "A blog post that explains how Polars can be used instead of pandas in Kedro for your data catalog and data manipulation by @astrojuanlu."
   },
   {
     "name": "High Performance Data Manipulation in Python: pandas 2.0 vs. polars",
@@ -353,7 +363,7 @@
     "description": "A blog post that compares differences between Python pandas 2.0 and Polars libraries by @jcanalesluna."
   },
   {
-    "name": "Lightning-fast queries with Polars ",
+    "name": "Lightning-fast queries with Polars",
     "url": "https://dev.to/astrojuanlu/lightning-fast-queries-with-polars-1bp3",
     "description": "Another blog post that is a good introduction to Polars by @astrojuanlu."
   },
@@ -363,9 +373,9 @@
     "description": "A blog post that presents two good reasons to adopt Polars :  Lazy and SQL Context by @danielbeach."
   },
   {
-    "name": "Exploring Polars - The Lightning-Fast DataFrame Library in Python ",
+    "name": "Exploring Polars - The Lightning-Fast DataFrame Library in Python",
     "url": "https://medium.com/@HeCanThink/exploring-polars-the-lightning-fast-dataframe-library-in-python-2d01aa332f70",
-    "description": "The Lightning-Fast DataFrame Library in Python  - A blog post on the basics of Polars by @mddas."
+    "description": "The Lightning-Fast DataFrame Library in Python - A blog post on the basics of Polars by @mddas."
   },
   {
     "name": "Pandas vs Polars – Speed Comparison",
@@ -473,7 +483,7 @@
     "description": "An article that explains how to learn fundamental Polars concepts with ChatGPT by Suhith Illesinghe."
   },
   {
-    "name": "Date and DateTime Manipulation in Polars ",
+    "name": "Date and DateTime Manipulation in Polars",
     "url": "https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/",
     "description": "A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by @danielbeach. Code used is available on Github here."
   },
@@ -483,7 +493,7 @@
     "description": "A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by @hopswork."
   },
   {
-    "name": "Spark vs Polars. Real-life Test Case. ",
+    "name": "Spark vs Polars. Real-life Test Case.",
     "url": "https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case",
     "description": "A blog post in which the author tests whether Polars is able to handle \"real amounts of data\" and \"really replace some production Spark workloads.\" by @danielbeach. Code used is available on Github here."
   },
@@ -512,9 +522,9 @@
     "url": "https://news.ycombinator.com/item?id=38920043"
   },
   {
-    "name": "https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1",
+    "name": "Level Up Your Data Analysis with Polars: A Powerful DataFrame Library for Speed and Efficiency",
     "url": "https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1",
-    "description": "A blog post that describs the main features of Polars (with benchmarks) by ravi-m."
+    "description": "A blog post that describes the main features of Polars (with benchmarks) by ravi-m."
   },
   {
     "name": "polars’ Rgonomic Patterns",
@@ -537,7 +547,7 @@
     "description": "A post that depicts the 15 most common tabular operations in Polars and their corresponding translations in Pandas, SQL and PySpark by @ChawlaAvi."
   },
   {
-    "name": "LazyFrame: Exploring Laziness in Dataframes from Polars in Python ",
+    "name": "LazyFrame: Exploring Laziness in Dataframes from Polars in Python",
     "url": "https://medium.com/@HeCanThink/lazyframe-exploring-laziness-in-dataframes-from-polars-in-python-46da61d48e79",
     "description": "A blog post that introduces LazyFrames with Polars an Python by Manoj Das."
   },

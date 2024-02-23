@@ -136,6 +136,10 @@
     "url": "https://github.com/kohkimakimoto/inertia-echo"
   },
   {
+    "name": "Grails",
+    "url": "https://github.com/matrei/grails-inertia-plugin"
+  },
+  {
     "name": "Laravel Breeze",
     "url": "https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia",
     "description": "Laravel's official authentication scaffolding, with Tailwind CSS and Inertia.js."
@@ -274,6 +278,11 @@
     "name": "Ping CRM / Preact",
     "url": "https://github.com/jrson83/pingcrm-preact",
     "description": "Demonstration application made with Laravel Preact."
+  },
+  {
+    "name": "Ping CRM / Grails",
+    "url": "https://github.com/matrei/pingcrm-grails",
+    "description": "Demonstration application made with Grails and Vue.js."
   },
   {
     "name": "Built with Inertia",

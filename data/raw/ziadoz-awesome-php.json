@@ -1140,11 +1140,6 @@
     "description": "Another web debugging console using Google Chrome."
   },
   {
-    "name": "Blackfire.io",
-    "url": "https://www.blackfire.io",
-    "description": "A low-overhead code profiler."
-  },
-  {
     "name": "Kint",
     "url": "https://github.com/kint-php/kint",
     "description": "A debugging and profiling tool."
@@ -1185,11 +1180,6 @@
     "description": "A variable dumper component."
   },
   {
-    "name": "Tideways.io",
-    "url": "https://tideways.com/",
-    "description": "Monitoring and profiling tool."
-  },
-  {
     "name": "Tracy",
     "url": "https://github.com/nette/tracy",
     "description": "A simple error detection, logging and time measuring library."
@@ -1213,6 +1203,31 @@
     "name": "Z-Ray",
     "url": "https://www.zend.com/products/z-ray",
     "description": "A debug and profile tool for Zend Server."
+  },
+  {
+    "name": "Blackfire",
+    "url": "https://www.blackfire.io",
+    "description": "A low-overhead code profiler."
+  },
+  {
+    "name": "Honeybadger",
+    "url": "https://www.honeybadger.io/",
+    "description": "Error Tracking & Application Monitoring for Developers."
+  },
+  {
+    "name": "Rollbar",
+    "url": "https://rollbar.com/",
+    "description": "Error Logging & Tracking Service for Software Teams."
+  },
+  {
+    "name": "Sentry",
+    "url": "https://sentry.io/welcome/",
+    "description": "Application Performance Monitoring & Error Tracking Software."
+  },
+  {
+    "name": "Tideways",
+    "url": "https://tideways.com/",
+    "description": "Monitoring and profiling tool."
   },
   {
     "name": "Box",

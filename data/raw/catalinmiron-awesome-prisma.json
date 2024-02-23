@@ -140,6 +140,11 @@
     "description": "Generate Prisma Schemas with TypeScript"
   },
   {
+    "name": "Prismock - Run tests in isolation with an in-memory implementation of Prisma",
+    "url": "https://github.com/morintd/prismock",
+    "description": "Run tests in isolation with an in-memory implementation of Prisma"
+  },
+  {
     "name": "Prisma Client Python",
     "url": "https://github.com/RobertCraigie/prisma-client-py"
   },
@@ -231,6 +236,10 @@
   {
     "name": "Build A Pet Management System With Remix, Prisma, and Postgres",
     "url": "https://www.youtube.com/watch?v=wqyHGQlZcws&list=PLTnRtjQN5ieYu9SdwLvzKYFVtfqySY7FT"
+  },
+  {
+    "name": "How To Write Efficient Unit Tests with Prisma ORM",
+    "url": "https://medium.com/javascript-in-plain-english/how-to-write-efficient-unit-tests-with-prisma-orm-e9d8fdf43f5f"
   },
   {
     "name": "Nexus",
