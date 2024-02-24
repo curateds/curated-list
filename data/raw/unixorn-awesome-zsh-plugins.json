@@ -7324,6 +7324,11 @@
     "description": "Mimics the fish-shell default prompt. Includes git decorations."
   },
   {
+    "name": "glider",
+    "url": "https://github.com/MrRedacted/zsh-glider",
+    "description": "Based on strug. Includes decorators for git status, username, hostname and current directory."
+  },
+  {
     "name": "gianu-alternative",
     "url": "https://github.com/zbentzinger/gianu-alternative-theme",
     "description": "An alternative to OMZ Gianu that changes prompt based on privilege. Includes git status and current directory decorators."

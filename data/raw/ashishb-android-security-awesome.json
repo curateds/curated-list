@@ -34,11 +34,6 @@
     "description": "Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malware with Yara rules. More here."
   },
   {
-    "name": "Approver",
-    "url": "https://approver.talos-sec.com/",
-    "description": "Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free."
-  },
-  {
     "name": "Oversecured",
     "url": "https://oversecured.com/",
     "description": "Enterprise vulnerability scanner for Android and iOS apps, it offers app owners and developers the ability to secure each new version of a mobile app by integrating Oversecured into the development process. Not free."
@@ -154,6 +149,11 @@
   {
     "name": "Fireeye",
     "url": "https://fireeye.ijinshan.com/"
+  },
+  {
+    "name": "approver",
+    "url": "https://approver.talos-sec.com/",
+    "description": "Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free."
   },
   {
     "name": "Androwarn",
@@ -692,11 +692,6 @@
     "description": "download apps from Appland third-party Android market"
   },
   {
-    "name": "Apkpure",
-    "url": "https://apkpure.com/",
-    "description": "Online apk downloader. Provides also its own app for downloading."
-  },
-  {
     "name": "PlaystoreDownloader",
     "url": "https://github.com/ClaudiuGeorgiu/PlaystoreDownloader",
     "description": "PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name."
@@ -704,6 +699,11 @@
   {
     "name": "APK Downloader",
     "url": "https://apkcombo.com/apk-downloader/"
+  },
+  {
+    "name": "Apkpure",
+    "url": "https://apkpure.com/",
+    "description": "Online apk downloader. Provides also its own app for downloading."
   },
   {
     "name": "smalihook",

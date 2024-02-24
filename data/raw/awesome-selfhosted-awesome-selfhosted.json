@@ -3540,11 +3540,6 @@
     "description": "Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). MIT Docker/Nodejs"
   },
   {
-    "name": "Journal",
-    "url": "https://github.com/inoda/journal",
-    "description": "Simple journaling with encrypted entries and sharing capabilities. MIT Ruby/Docker"
-  },
-  {
     "name": "Kasm Workspaces",
     "url": "https://kasmweb.com/",
     "description": "Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. (Demo, Source Code) GPL-3.0 Docker"
