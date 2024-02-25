@@ -275,11 +275,6 @@
     "description": "online LilyPond-based sheet music editor (with optional GitHub integration)."
   },
   {
-    "name": "i-score",
-    "url": "http://www.i-score.org",
-    "description": "a software for interactive music notation, with DAW features."
-  },
-  {
     "name": "Inknote",
     "url": "https://github.com/MichalPaszkiewicz/inknote",
     "description": "free, open source, browser based music notation and composition software."
@@ -333,6 +328,11 @@
     "name": "MusicKit",
     "url": "https://github.com/venturemedia/musickit",
     "description": "Music sheet rendering for iOS and OSX."
+  },
+  {
+    "name": "neoscore",
+    "url": "https://neoscore.org/",
+    "description": "python library for notating music in a graphics-first paradigm."
   },
   {
     "name": "NOTATIO",

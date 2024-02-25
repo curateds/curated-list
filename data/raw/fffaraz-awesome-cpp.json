@@ -2234,6 +2234,11 @@
     "description": "A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] website"
   },
   {
+    "name": "fpng",
+    "url": "https://github.com/richgel999/fpng",
+    "description": "Super fast C++ .PNG writer/reader. [Unlicense]"
+  },
+  {
     "name": "FreeImage",
     "url": "http://freeimage.sourceforge.net/",
     "description": "An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]"
@@ -2282,6 +2287,11 @@
     "name": "libjxl",
     "url": "https://github.com/libjxl/libjxl",
     "description": "JPEG XL image format reference implementation. [BSD-3-Clause]"
+  },
+  {
+    "name": "libpng",
+    "url": "https://github.com/pnggroup/libpng",
+    "description": "the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. [libpng-2.0] website"
   },
   {
     "name": "libspng",
@@ -4353,6 +4363,16 @@
     "description": "An implementation of a managed signals and slots system. [Boost] website"
   },
   {
+    "name": "casacore",
+    "url": "https://code.google.com/p/casacore/",
+    "description": "A set of c++ core libraries derived from aips++. [LGPL]"
+  },
+  {
+    "name": "CCTZ",
+    "url": "https://github.com/google/cctz",
+    "description": "a C++ library for translating between absolute and civil times using the rules of a time zone.  [Apache-2.0]"
+  },
+  {
     "name": "Cheat Sheets of HackingCPP",
     "url": "https://hackingcpp.com/cpp/cheat_sheets.html",
     "description": "Cool cheat sheets and infographics for algorithms, views, containers, randomness, etc."
@@ -4366,6 +4386,11 @@
     "name": "CPPItertools",
     "url": "https://github.com/ryanhaining/cppitertools",
     "description": "Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]"
+  },
+  {
+    "name": "cxx-prettyprint",
+    "url": "https://github.com/louisdx/cxx-prettyprint",
+    "description": "A pretty printing library for C++ containers. [Boost]"
   },
   {
     "name": "date",
@@ -4393,6 +4418,11 @@
     "description": "C++20 Faker library for generating fake (but realistic) data for testing and development. [MIT]"
   },
   {
+    "name": "FastFormat",
+    "url": "http://www.fastformat.org",
+    "description": "Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]"
+  },
+  {
     "name": "fccf",
     "url": "https://github.com/p-ranav/fccf",
     "description": "A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. [MIT]"
@@ -4403,29 +4433,14 @@
     "description": "Small, safe and fast formatting library for C++. [Simplified BSD] website"
   },
   {
-    "name": "FastFormat",
-    "url": "http://www.fastformat.org",
-    "description": "Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]"
+    "name": "gcc-poison",
+    "url": "https://github.com/leafsr/gcc-poison",
+    "description": "A simple header file for developers to ban unsafe C/C++ functions from applications."
   },
   {
     "name": "hedley",
     "url": "https://github.com/nemequ/hedley",
     "description": "A C/C++ header file designed to smooth over some platform-specific annoyances. website"
-  },
-  {
-    "name": "casacore",
-    "url": "https://code.google.com/p/casacore/",
-    "description": "A set of c++ core libraries derived from aips++. [LGPL]"
-  },
-  {
-    "name": "QtVerbalExpressions",
-    "url": "https://github.com/VerbalExpressions/QtVerbalExpressions",
-    "description": "This Qt lib is based off of the C++ VerbalExpressions library. [MIT]"
-  },
-  {
-    "name": "cxx-prettyprint",
-    "url": "https://github.com/louisdx/cxx-prettyprint",
-    "description": "A pretty printing library for C++ containers. [Boost]"
   },
   {
     "name": "icecream-cpp",
@@ -4436,11 +4451,6 @@
     "name": "inja",
     "url": "https://github.com/pantor/inja",
     "description": "A Template Engine for Modern C++. [MIT]"
-  },
-  {
-    "name": "gcc-poison",
-    "url": "https://github.com/leafsr/gcc-poison",
-    "description": "A simple header file for developers to ban unsafe C/C++ functions from applications."
   },
   {
     "name": "Jinja2С++",
@@ -4463,11 +4473,6 @@
     "description": "Small and lightweight implementations of common algorithms and data structures. [MIT]"
   },
   {
-    "name": "libsigc++",
-    "url": "https://github.com/libsigcplusplus/libsigcplusplus",
-    "description": "A typesafe callback system for standard C++. [LGPL] website"
-  },
-  {
     "name": "libcpuid",
     "url": "https://github.com/anrieff/libcpuid",
     "description": "A small C library for x86 CPU detection and feature extraction. [BSD]"
@@ -4488,6 +4493,11 @@
     "description": "A lightweight library of C functions and structures. [GPL2.1]"
   },
   {
+    "name": "libsigc++",
+    "url": "https://github.com/libsigcplusplus/libsigcplusplus",
+    "description": "A typesafe callback system for standard C++. [LGPL] website"
+  },
+  {
     "name": "libusb",
     "url": "https://libusb.info/",
     "description": "A universal USB library which allows for portable access to USB devices. [LGPL2]"
@@ -4506,6 +4516,21 @@
     "name": "PEGTL",
     "url": "https://github.com/taocpp/PEGTL",
     "description": "The Parsing Expression Grammar Template Library. [MIT]"
+  },
+  {
+    "name": "pprint",
+    "url": "https://github.com/p-ranav/pprint",
+    "description": "Pretty Printer for Modern C++. [MIT]"
+  },
+  {
+    "name": "pspsdk",
+    "url": "https://github.com/pspdev/pspsdk",
+    "description": "An open-source SDK for PSP homebrew development. [BSD/GNU GPL3]"
+  },
+  {
+    "name": "QtVerbalExpressions",
+    "url": "https://github.com/VerbalExpressions/QtVerbalExpressions",
+    "description": "This Qt lib is based off of the C++ VerbalExpressions library. [MIT]"
   },
   {
     "name": "Remote Call Framework",
@@ -4548,14 +4573,14 @@
     "description": "Mobile robot simulator. [GPL2]"
   },
   {
-    "name": "stdman",
-    "url": "https://github.com/jeaye/stdman",
-    "description": "A tool that parses archived HTML files from cppreference and generates groff-formatted manual pages for Unix-based systems. [MIT]"
-  },
-  {
     "name": "stb",
     "url": "https://github.com/nothings/stb",
     "description": "A range of single-file libraries for C/C++. [PublicDomain]"
+  },
+  {
+    "name": "stdman",
+    "url": "https://github.com/jeaye/stdman",
+    "description": "A tool that parses archived HTML files from cppreference and generates groff-formatted manual pages for Unix-based systems. [MIT]"
   },
   {
     "name": "StringZilla",
@@ -4600,16 +4625,6 @@
     "name": "ZXing",
     "url": "https://github.com/zxing/zxing/",
     "description": "An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]"
-  },
-  {
-    "name": "pprint",
-    "url": "https://github.com/p-ranav/pprint",
-    "description": "Pretty Printer for Modern C++. [MIT]"
-  },
-  {
-    "name": "pspsdk",
-    "url": "https://github.com/pspdev/pspsdk",
-    "description": "An open-source SDK for PSP homebrew development. [BSD/GNU GPL3]"
   },
   {
     "name": "8cc",

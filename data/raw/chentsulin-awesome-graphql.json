@@ -217,6 +217,11 @@
     "description": "A No GraphQL client for TypeScript"
   },
   {
+    "name": "genql",
+    "url": "https://github.com/remorses/genql",
+    "description": "Type safe TypeScript client for any GraphQL API."
+  },
+  {
     "name": "vue-apollo",
     "url": "https://github.com/vuejs/vue-apollo",
     "description": "Apollo/GraphQL integration for VueJS."
@@ -388,12 +393,17 @@
   {
     "name": "fast-graphql",
     "url": "https://github.com/idurar/fast-graphql",
-    "description": "Graphql Tools to Strucutre , Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server"
+    "description": "Graphql Tools to Structure, Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server"
   },
   {
     "name": "graphql-to-type",
     "url": "https://github.com/lkster/graphql-to-type",
     "description": "GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query"
+  },
+  {
+    "name": "gql.tada",
+    "url": "https://github.com/0no-co/gql.tada",
+    "description": "GraphQL document authoring library, inferring the result and variables types of GraphQL queries and fragments in the TypeScript type system."
   },
   {
     "name": "graphql-tools",

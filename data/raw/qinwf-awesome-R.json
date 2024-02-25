@@ -54,8 +54,8 @@
     "description": "Emacs Speaks Statistics is an add-on package for emacs text editors."
   },
   {
-    "name": "Sublime Text + R-Box",
-    "url": "http://github.com/randy3k/R-Box/",
+    "name": "Sublime Text + R-IDE",
+    "url": "https://github.com/REditorSupport/sublime-ide-r",
     "description": "Add-on package for Sublime Text 2/3."
   },
   {
@@ -67,11 +67,6 @@
     "name": "StatET",
     "url": "http://www.walware.de/goto/statet",
     "description": "An Eclipse based IDE for R."
-  },
-  {
-    "name": "Microsoft R",
-    "url": "https://mran.microsoft.com/",
-    "description": "Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality."
   },
   {
     "name": "R Commander",
@@ -94,12 +89,7 @@
     "description": "A platform-independent browser-based interface for business analytics in R, based on the Shiny."
   },
   {
-    "name": "Vim-R",
-    "url": "https://github.com/vim-scripts/Vim-R-plugin",
-    "description": "Vim plugin for R."
-  },
-  {
-    "name": "Nvim-R",
+    "name": "Nvim-R ",
     "url": "https://github.com/jalvesaq/Nvim-R",
     "description": "Neovim plugin for R."
   },
@@ -1841,8 +1831,8 @@
     "description": "Visualise line profiling results in R."
   },
   {
-    "name": "packrat",
-    "url": "https://github.com/rstudio/packrat",
+    "name": "renv ",
+    "url": "https://github.com/rstudio/renv",
     "description": "Make your R projects more isolated, portable, and reproducible."
   },
   {
@@ -1856,9 +1846,9 @@
     "description": "An import mechanism for R."
   },
   {
-    "name": "modules",
-    "url": "https://github.com/klmr/modules",
-    "description": "An alternative (Python style) module system for R."
+    "name": "box ",
+    "url": "https://github.com/klmr/box",
+    "description": "A modern module system for R."
   },
   {
     "name": "Rocker ",
