@@ -31,7 +31,7 @@
   },
   {
     "name": "SuperSplat",
-    "url": "https://playcanvas.com/super-splat",
+    "url": "https://playcanvas.com/supersplat/editor",
     "description": "3D Gassuian Splat Editor."
   },
   {
@@ -140,6 +140,11 @@
     "name": "playcanvas-p2.js",
     "url": "https://github.com/playcanvas/playcanvas-p2.js",
     "description": "An integration with the p2.js 2D physics engine."
+  },
+  {
+    "name": "playcanvas-rest-api-tools",
+    "url": "https://github.com/playcanvas/playcanvas-rest-api-tools",
+    "description": "CLI tools built on the PlayCanvas REST API."
   },
   {
     "name": "playcanvas-spine",

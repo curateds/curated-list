@@ -924,6 +924,11 @@
     "description": "Scientific Data, 2020. [All Versions]. [Project]. CLICS tackles interconnected interdisciplinary research questions about the colexifcation of words across semantic categories in the world’s languages, and show-cases best practices for preparing data for cross-linguistic research."
   },
   {
+    "name": "Locating what comes to mind in empirically derived representational spaces",
+    "url": "https://www.sciencedirect.com/science/article/pii/S001002772300183X",
+    "description": "Cognition, 2023. [All Versions]. An evidence-based study concluding that people call category members to mind according to their location in representational space, specifically based on the predicted usefulness of considering category members with particular features."
+  },
+  {
     "name": "A principal odor map unifies diverse tasks in olfactory perception",
     "url": "https://www.science.org/doi/full/10.1126/science.ade4401",
     "description": "Science, 2023. [All Versions]. [Code]. [Data (Reproduced)]. [Preprint]. [GoodScents Database]. [Leffingwell Database]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants."
@@ -957,6 +962,11 @@
     "name": "Unit Testing for Concepts in Neural Networks",
     "url": "https://aclanthology.org/2022.tacl-1.69/",
     "description": "Transactions of the Association for Computational Linguistics, 2022. [All Versions]. Testing the concept representation by neural networks through Fodor's theory of concepts."
+  },
+  {
+    "name": "Do Llamas Work in English? On the Latent Language of Multilingual Transformers",
+    "url": "https://arxiv.org/abs/2402.10588",
+    "description": "2024. [All Versions]. A preliminary work empirically showing that the intermediate embeddings of multilingual Transformers (1) start far away from output token embeddings; (2) already allow for decoding a semantically correct next token in the middle layers, but give higher probability to its version in English than in the input language; (3) finally move into an input-language-specific region of the embedding space. Also, the embedding of abstract concept space lies closer to English than to other languages."
   },
   {
     "name": "A Mathematical Theory of Communication",

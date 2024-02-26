@@ -655,6 +655,11 @@
     "description": "The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files."
   },
   {
+    "name": "OpenDrive",
+    "url": "https://www.asam.net/standards/detail/opendrive/",
+    "description": "The data that is stored in an ASAM OpenDRIVE file describes the geometry of roads, lanes and objects, such as roadmarks on the road, as well as features along the roads, like signals."
+  },
+  {
     "name": "Pandas",
     "url": "https://pandas.pydata.org/",
     "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more."

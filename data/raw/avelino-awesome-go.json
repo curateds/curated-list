@@ -230,6 +230,11 @@
     "description": "Official Go implementation of the Ethereum protocol."
   },
   {
+    "name": "gosemble",
+    "url": "https://github.com/LimeChain/gosemble",
+    "description": "A Go-based framework for building Polkadot/Substrate-compatible runtimes."
+  },
+  {
     "name": "gossamer",
     "url": "https://github.com/ChainSafe/gossamer",
     "description": "A Go implementation of the Polkadot Host."
@@ -2608,6 +2613,11 @@
     "description": "Parse dates/times like \"next dec 22nd at 3pm\" and ranges like \"from today until next thursday\" without knowing the format in advance."
   },
   {
+    "name": "go-datebin",
+    "url": "https://github.com/deatil/go-datebin",
+    "description": "A simple datetime parse pkg."
+  },
+  {
     "name": "go-persian-calendar",
     "url": "https://github.com/yaa110/go-persian-calendar",
     "description": "The implementation of the Persian (Solar Hijri) Calendar in Go (golang)."
@@ -4707,6 +4717,11 @@
     "description": "Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection."
   },
   {
+    "name": "gabs",
+    "url": "https://github.com/Jeffail/gabs",
+    "description": "For parsing, creating and editing unknown or dynamic JSON in Go."
+  },
+  {
     "name": "gjo",
     "url": "https://github.com/skanehira/gjo",
     "description": "Small utility to create JSON objects."
@@ -5687,6 +5702,11 @@
     "description": "Component-based development with dependency injection using reflections for Go developers."
   },
   {
+    "name": "cosban/di",
+    "url": "https://gitlab.com/cosban/di",
+    "description": "A code generation based dependency injection wiring tool."
+  },
+  {
     "name": "di",
     "url": "https://github.com/goava/di",
     "description": "A dependency injection container for go programming language."
@@ -6367,6 +6387,11 @@
     "description": "CN Hanzi to Hanyu Pinyin converter."
   },
   {
+    "name": "go-words",
+    "url": "https://github.com/saleh-rahimzadeh/go-words",
+    "description": "A words table and text resource library for Golang projects."
+  },
+  {
     "name": "gotext",
     "url": "https://github.com/leonelquinteros/gotext",
     "description": "GNU gettext utilities for Go."
@@ -6895,6 +6920,11 @@
     "name": "cacheme",
     "url": "https://github.com/Yiling-J/cacheme-go",
     "description": "Schema based, typed Redis caching/memoize framework for Go."
+  },
+  {
+    "name": "CQL",
+    "url": "https://github.com/FrancoLiberali/cql",
+    "description": "Built on top of GORM, adds compile-time verified queries based on auto-generated code."
   },
   {
     "name": "ent",
@@ -13335,6 +13365,11 @@
   {
     "name": "The world’s easiest introduction to WebAssembly with Golang",
     "url": "https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02"
+  },
+  {
+    "name": "Understanding Go in a visual way",
+    "url": "https://dev.to/aurelievache/series/26234",
+    "description": "Learn Go visually"
   },
   {
     "name": "W3basic Go Tutorials",

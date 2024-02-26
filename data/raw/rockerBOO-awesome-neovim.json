@@ -690,6 +690,11 @@
     "description": "Present using markdown with Marp."
   },
   {
+    "name": "Myzel394/easytables.nvim",
+    "url": "https://github.com/Myzel394/easytables.nvim",
+    "description": "Easily insert and edit markdown tables with a live preview and useful helpers."
+  },
+  {
     "name": "gbprod/phpactor.nvim",
     "url": "https://github.com/gbprod/phpactor.nvim",
     "description": "Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features."
@@ -883,6 +888,11 @@
     "name": "LintaoAmons/bookmarks.nvim",
     "url": "https://github.com/LintaoAmons/bookmarks.nvim",
     "description": "Your new bookmarks option: simple yet powerful."
+  },
+  {
+    "name": "desdic/marlin.nvim",
+    "url": "https://github.com/desdic/marlin.nvim",
+    "description": "Like harpoon, but with key differences like project path, split support, no UI."
   },
   {
     "name": "kevinhwang91/nvim-hlslens",
@@ -1768,6 +1778,16 @@
     "name": "HoNamDuong/hybrid.nvim",
     "url": "https://github.com/HoNamDuong/hybrid.nvim",
     "description": "A dark theme written in Lua."
+  },
+  {
+    "name": "sxwpb/halfspace.nvim",
+    "url": "https://gitlab.com/sxwpb/halfspace.nvim",
+    "description": "A semi-light colorscheme for minimal eye melting."
+  },
+  {
+    "name": "bartekjaszczak/distinct-nvim",
+    "url": "https://gitlab.com/bartekjaszczak/distinct-nvim",
+    "description": "Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting."
   },
   {
     "name": "tjdevries/gruvbuddy.nvim",
@@ -3275,6 +3295,11 @@
     "description": "Spooky (Leap) actions at a distance."
   },
   {
+    "name": "rasulomaroff/telepath.nvim",
+    "url": "https://github.com/rasulomaroff/telepath.nvim",
+    "description": "Another Leap extension for performing remote actions with a different approach."
+  },
+  {
     "name": "folke/flash.nvim",
     "url": "https://github.com/folke/flash.nvim",
     "description": "Navigate your code with search labels, enhanced character motions and Treesitter integration."
@@ -4250,9 +4275,9 @@
     "description": "A plugin to automate testcases management and checking for Competitive Programming contests."
   },
   {
-    "name": "Dhanus3133/Leetbuddy.nvim",
-    "url": "https://github.com/Dhanus3133/Leetbuddy.nvim",
-    "description": "Solve Leetcode problems within Neovim."
+    "name": "kawre/leetcode.nvim",
+    "url": "https://github.com/kawre/leetcode.nvim",
+    "description": "Solve Leetcode problems."
   },
   {
     "name": "m4xshen/hardtime.nvim",

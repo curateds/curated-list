@@ -5780,6 +5780,11 @@
     "description": "Tab completion and aliases for tailscale."
   },
   {
+    "name": "talosctl",
+    "url": "https://github.com/RusMephist/talosctl-zsh-plugin",
+    "description": "Tab completion for Talos Linux."
+  },
+  {
     "name": "terragrunt",
     "url": "https://github.com/jkavan/terragrunt-oh-my-zsh-plugin",
     "description": "Tab completion for Terragrunt."
@@ -9567,6 +9572,11 @@
     "name": "saraiva",
     "url": "https://github.com/ruisaraiva19/saraiva-theme",
     "description": "Includes git status decorations, works well on a dark terminal background."
+  },
+  {
+    "name": "sashimi",
+    "url": "https://github.com/simonmader17/sashimi-zsh-theme",
+    "description": "Includes decorators for git status and the exit status of the last command run."
   },
   {
     "name": "saturn",
