@@ -101,6 +101,16 @@
     "description": "Python package that contains multiple extension to simplify common numerical/string data analysis procedures by @abstractqqq."
   },
   {
+    "name": "Narwhals",
+    "url": "https://github.com/MarcoGorelli/narwhals",
+    "description": "Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by @MarcoGorelli."
+  },
+  {
+    "name": "polars-upgrade",
+    "url": "https://github.com/MarcoGorelli/polars-upgrade",
+    "description": "Python package that automatically upgrades your Polars code so it's compatible with future versions by @MarcoGorelli."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."

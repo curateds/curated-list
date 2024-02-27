@@ -500,6 +500,11 @@
     "description": "Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list."
   },
   {
+    "name": "dmmulroy/ts-error-translator.nvim",
+    "url": "https://github.com/dmmulroy/ts-error-translator.nvim",
+    "description": "A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English."
+  },
+  {
     "name": "chuwy/ucm.nvim",
     "url": "https://github.com/chuwy/ucm.nvim",
     "description": "Navigating Unison projects."

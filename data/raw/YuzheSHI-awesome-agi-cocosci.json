@@ -1353,6 +1353,11 @@
     "description": "CVPR'23, 2023. [All Versions]. [Website]. [Supplementary Text]. This paper introduces Infinigen, a procedural generator of photorealistic 3D scenes of the natural world. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules, using no external source and allowing infinite variation and composition."
   },
   {
+    "name": "pix2code: Generating Code from a Graphical User Interface Screenshot",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3220134.3220135",
+    "description": "ACM SIGCHI Symposium on Engineering Interactive Computing Systems, 2018. [All Versions]. [Code]. [Website]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies)."
+  },
+  {
     "name": "Elements of a theory of human problem solving",
     "url": "https://psycnet.apa.org/record/1959-07883-001",
     "description": "Psychological Review, 1958. [All Versions]. Herbert Simon's original idea on human problem solving."

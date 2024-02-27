@@ -4136,11 +4136,6 @@
     "description": "NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences."
   },
   {
-    "name": "Neuron",
-    "url": "https://github.com/molcik/python-neuron",
-    "description": "Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm."
-  },
-  {
     "name": "NeuralTalk",
     "url": "https://github.com/karpathy/neuraltalk2",
     "description": "NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. [Deprecated]"
@@ -4564,6 +4559,41 @@
     "name": "RusticSOM",
     "url": "https://github.com/avinashshenoy97/RusticSOM",
     "description": "A Rust library for Self Organising Maps (SOM)."
+  },
+  {
+    "name": "candle",
+    "url": "https://github.com/huggingface/candle",
+    "description": "Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use."
+  },
+  {
+    "name": "linfa",
+    "url": "https://github.com/rust-ml/linfa",
+    "description": "linfa aims to provide a comprehensive toolkit to build Machine Learning applications with Rust"
+  },
+  {
+    "name": "tch-rs",
+    "url": "https://github.com/LaurentMazare/tch-rs",
+    "description": "Rust bindings for the C++ API of PyTorch"
+  },
+  {
+    "name": "dfdx",
+    "url": "https://github.com/coreylowman/dfdx",
+    "description": "Deep learning in Rust, with shape checked tensors and neural networks"
+  },
+  {
+    "name": "burn",
+    "url": "https://github.com/tracel-ai/burn",
+    "description": "Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals"
+  },
+  {
+    "name": "huggingface/tokenizers",
+    "url": "https://github.com/huggingface/tokenizers",
+    "description": "Fast State-of-the-Art Tokenizers optimized for Research and Production"
+  },
+  {
+    "name": "rust-bert",
+    "url": "https://github.com/guillaume-be/rust-bert",
+    "description": "Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)"
   },
   {
     "name": "ahaz",
@@ -5363,6 +5393,11 @@
     "name": "MLReef",
     "url": "https://about.mlreef.com/",
     "description": "MLReef is an end-to-end development platform using the power of git to give structure and deep collaboration possibilities to the ML development process."
+  },
+  {
+    "name": "Chroma",
+    "url": "https://www.trychroma.com/",
+    "description": "Chroma - the AI-native open-source embedding database"
   },
   {
     "name": "Pinecone",

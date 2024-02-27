@@ -133,6 +133,11 @@
     "description": "Introduces panels for selecting colors in Wagtail."
   },
   {
+    "name": "Wagtail Ace Editor",
+    "url": "https://github.com/Nigel2392/wagtail_ace_editor",
+    "description": "An IDE-like code editor right in your Wagtail admin."
+  },
+  {
     "name": "Wagtail FontAwesome",
     "url": "https://gitlab.com/alexgleason/wagtailfontawesome",
     "description": "Add FontAwesome icons to StreamField."
@@ -560,6 +565,11 @@
     "name": "Wagtail Headless Preview",
     "url": "https://github.com/torchbox/wagtail-headless-preview",
     "description": "Previews for headless Wagtail setups"
+  },
+  {
+    "name": "Wagtail Word",
+    "url": "https://github.com/Nigel2392/wagtail_word",
+    "description": "A way to upload your word (.docx, .doc) documents as pages to Wagtail."
   },
   {
     "name": "Wagtail Cookiecutter Foundation",
