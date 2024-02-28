@@ -3403,11 +3403,6 @@
     "description": "Modules to read and write STL (stereolithography) files. Concurrent algorithm for reading."
   },
   {
-    "name": "tarfs",
-    "url": "https://github.com/posener/tarfs",
-    "description": "Implementation of the FileSystem interface for tar files."
-  },
-  {
     "name": "todotxt",
     "url": "https://github.com/1set/todotxt",
     "description": "Go library for Gina Trapani's todo.txt files, supports parsing and manipulating of task lists in the todo.txt format."
@@ -7488,7 +7483,7 @@
   },
   {
     "name": "autocert",
-    "url": "https://godoc.org/golang.org/x/crypto/acme/autocert",
+    "url": "https://pkg.go.dev/golang.org/x/crypto/acme/autocert",
     "description": "Auto provision Let's Encrypt certificates and start a TLS server."
   },
   {
@@ -8312,11 +8307,6 @@
     "description": "Sacred extension to the standard go testing package."
   },
   {
-    "name": "testmd",
-    "url": "https://godoc.org/github.com/tvastar/test/cmd/testmd",
-    "description": "Convert markdown snippets into testable go code."
-  },
-  {
     "name": "testsql",
     "url": "https://github.com/zhulongcheng/testsql",
     "description": "Generate test data from SQL files before testing and clear it after finished."
@@ -8545,11 +8535,6 @@
     "name": "blackfriday",
     "url": "https://github.com/russross/blackfriday",
     "description": "Markdown processor in Go."
-  },
-  {
-    "name": "github_flavored_markdown",
-    "url": "https://godoc.org/github.com/shurcooL/github_flavored_markdown",
-    "description": "GitHub Flavored Markdown renderer (using blackfriday) with fenced code block highlighting, clickable header anchor links."
   },
   {
     "name": "go-output-format",
@@ -11167,7 +11152,7 @@
   },
   {
     "name": "goimports",
-    "url": "https://godoc.org/golang.org/x/tools/cmd/goimports",
+    "url": "https://pkg.go.dev/golang.org/x/tools/cmd/goimports",
     "description": "Tool to fix (add, remove) your Go imports automatically."
   },
   {
@@ -13044,11 +13029,6 @@
     "description": "Collection of Go projects that needs help. Good place to start your open-source way in Go."
   },
   {
-    "name": "godoc.org",
-    "url": "https://godoc.org/",
-    "description": "Documentation for open source Go packages."
-  },
-  {
     "name": "Golang Developer Jobs",
     "url": "https://golangjob.xyz",
     "description": "Developer Jobs exclusively for Golang related Roles."
@@ -13099,11 +13079,6 @@
     "description": "Free coding exercises for budding gophers."
   },
   {
-    "name": "gowalker.org",
-    "url": "https://gowalker.org",
-    "description": "Go Project API documentation."
-  },
-  {
     "name": "json2go",
     "url": "https://m-zajac.github.io/json2go",
     "description": "Advanced JSON to Go struct conversion - online tool."
@@ -13121,6 +13096,11 @@
   {
     "name": "Made with Golang",
     "url": "https://madewithgolang.com/?ref=awesome-go"
+  },
+  {
+    "name": "pkg.go.dev",
+    "url": "https://pkg.go.dev/",
+    "description": "Documentation for open source Go packages."
   },
   {
     "name": "r/Golang",

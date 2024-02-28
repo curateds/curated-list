@@ -2339,6 +2339,11 @@
     "description": "Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]"
   },
   {
+    "name": "OpenJPEG",
+    "url": "https://github.com/uclouvain/openjpeg",
+    "description": "an open-source JPEG 2000 codec written in C language.  [BSD-2-Clause]"
+  },
+  {
     "name": "SAIL",
     "url": "https://github.com/happy-sea-fox/sail",
     "description": "Easy-to-use cross-platform image decoding library with pluggable image codecs. [MIT]"

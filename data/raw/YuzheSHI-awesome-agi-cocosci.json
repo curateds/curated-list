@@ -1328,6 +1328,11 @@
     "description": "Journal of Systems and Software, 2015. [All Versions]. A study to compare the usability of textual DSLs under the perspective of software maintenance, suggesting that the proposed metrics were useful: (1) to early identify DSL usability limitations, (2) to reveal specific DSL features favoring maintenance tasks, and (3) to successfully analyze eight critical DSL usability dimensions."
   },
   {
+    "name": "Communicating Natural Programs to Humans and Machines",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/182aed0379591ebd1d655b2bdc152075-Abstract-Datasets_and_Benchmarks.html",
+    "description": "NeurIPS'22, 2022. [All Versions]. While humans readily generate and interpret instructions in a general language, computer systems are shackled to a narrow domain-specific language that they can precisely execute. This makes building intelligent systems that can generalize to novel situations such as ARC difficult. Human-generated instructions are referred as `natural programs'. While they resemble computer programs, they are distinct in two ways: First, they contain a wide range of primitives; Second, they frequently leverage communicative strategies beyond directly executable codes."
+  },
+  {
     "name": "Biocoder: A programming language for standardizing and automating biology protocols",
     "url": "https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf",
     "description": "Journal of Biological Engineering, 2010. [All Versions]. [Project]. [Microsoft Page] Microsoft's programming language for representing biology protocols."

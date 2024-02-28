@@ -35,7 +35,7 @@
     "description": "A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward."
   },
   {
-    "name": "Gravitee.io API Management (⭐118)",
+    "name": "Gravitee.io API Management (⭐119)",
     "url": "https://github.com/gravitee-io/gravitee-api-management",
     "description": "A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease."
   },
@@ -95,7 +95,7 @@
     "description": "Create and validate OpenAPI specs with ease using this intuitive graphical user interface."
   },
   {
-    "name": "OpenAPI Diff (⭐728)",
+    "name": "OpenAPI Diff (⭐730)",
     "url": "https://github.com/OpenAPITools/openapi-diff",
     "description": "Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format."
   },
@@ -120,17 +120,17 @@
     "description": "Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs."
   },
   {
-    "name": "Zally (⭐866)",
+    "name": "Zally (⭐870)",
     "url": "https://github.com/zalando/zally",
     "description": "Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback."
   },
   {
-    "name": "DapperDox (⭐391)",
+    "name": "DapperDox (⭐390)",
     "url": "https://github.com/DapperDox/dapperdox",
     "description": "An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing."
   },
   {
-    "name": "OpenAPI Explorer (⭐263)",
+    "name": "OpenAPI Explorer (⭐265)",
     "url": "https://github.com/Rhosys/openapi-explorer",
     "description": "A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs."
   },
@@ -330,7 +330,7 @@
     "description": "Open-source HTTP mock server that can mimic your API's behavior as if you already built it."
   },
   {
-    "name": "WireMock (⭐5.9k)",
+    "name": "WireMock (⭐6k)",
     "url": "https://github.com/tomakehurst/wiremock",
     "description": "Mock your APIs for fast, robust, and comprehensive testing."
   },
@@ -345,7 +345,7 @@
     "description": "Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services."
   },
   {
-    "name": "Gatling (⭐6.1k)",
+    "name": "Gatling (⭐6.2k)",
     "url": "https://github.com/gatling/gatling",
     "description": "An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance."
   },
@@ -435,7 +435,7 @@
     "description": "Business process management platform that offers capabilities for process automation, documentation, human capital management, process patterns, and predictive operations analytics."
   },
   {
-    "name": "AltasMap (⭐175)",
+    "name": "AltasMap (⭐176)",
     "url": "https://github.com/atlasmap/atlasmap",
     "description": "A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy."
   },
@@ -510,7 +510,7 @@
     "description": "An ESB that supports zero-copy proxying for extreme performance utilizing Direct Memory Access and Non-Blocking IO."
   },
   {
-    "name": "WSO2 Enterprise Integrator (⭐359)",
+    "name": "WSO2 Enterprise Integrator (⭐360)",
     "url": "https://github.com/wso2/product-ei",
     "description": "An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers."
   },
@@ -980,7 +980,7 @@
     "description": "A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications."
   },
   {
-    "name": "Camunda (⭐3.7k)",
+    "name": "Camunda (⭐3.8k)",
     "url": "https://github.com/camunda/camunda-bpm-platform",
     "description": "An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way."
   },
@@ -995,7 +995,7 @@
     "description": "A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments."
   },
   {
-    "name": "Flowable (⭐7.1k)",
+    "name": "Flowable (⭐7.2k)",
     "url": "https://github.com/flowable/flowable-engine",
     "description": "A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way."
   },
@@ -1010,7 +1010,7 @@
     "description": "A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications."
   },
   {
-    "name": "Temporal (⭐9.2k)",
+    "name": "Temporal (⭐9.3k)",
     "url": "https://github.com/temporalio/temporal",
     "description": "An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable."
   },
@@ -2580,12 +2580,12 @@
     "description": "A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages."
   },
   {
-    "name": "NDJSON (⭐617)",
+    "name": "NDJSON (⭐619)",
     "url": "https://github.com/ndjson/ndjson-spec",
     "description": "A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing."
   },
   {
-    "name": "Protocol Buffers (⭐62k)",
+    "name": "Protocol Buffers (⭐63k)",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka."
   },
@@ -2595,7 +2595,7 @@
     "description": "A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages."
   },
   {
-    "name": "YAML (⭐298)",
+    "name": "YAML (⭐297)",
     "url": "https://github.com/yaml/yaml-spec",
     "description": "A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages."
   },
@@ -2722,7 +2722,7 @@
     "description": "A lightweight and efficient publish-subscribe protocol that supports messaging between devices. MQTT enables low-overhead communication and is ideal for IoT and mobile applications."
   },
   {
-    "name": "OpenMessaging (⭐284)",
+    "name": "OpenMessaging (⭐285)",
     "url": "https://github.com/openmessaging/specification",
     "description": "A cloud native, vendor-neutral open specification for distributed messaging."
   },
@@ -2762,7 +2762,7 @@
     "description": "Open source tools and guidelines for sending webhooks easily, securely, and reliably."
   },
   {
-    "name": "JSON Schema (⭐2.9k)",
+    "name": "JSON Schema (⭐3k)",
     "url": "https://github.com/json-schema-org/json-schema-spec",
     "description": "A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate."
   },

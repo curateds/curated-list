@@ -449,6 +449,11 @@
     "description": "Page explorer-like navigation of Django model relationships using ModelAdmin."
   },
   {
+    "name": "Wagtail Celery Beat",
+    "url": "https://github.com/Nigel2392/wagtail_celery_beat",
+    "description": "A way to manage your Django Celery Beat tasks inside of the Wagtail admin."
+  },
+  {
     "name": "wagtailmenus",
     "url": "https://github.com/rkhleics/wagtailmenus",
     "description": "An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way."
