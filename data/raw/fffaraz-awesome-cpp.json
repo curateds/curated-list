@@ -4323,6 +4323,11 @@
     "description": "A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. [MIT]"
   },
   {
+    "name": "Xalan C",
+    "url": "https://github.com/apache/xalan-c",
+    "description": "A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. [Apache-2.0] website"
+  },
+  {
     "name": "Xerces-C++",
     "url": "http://xerces.apache.org/xerces-c/",
     "description": "A validating XML parser written in a portable subset of C++. [Apache2]"

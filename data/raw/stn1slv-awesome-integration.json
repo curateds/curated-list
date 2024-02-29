@@ -35,7 +35,7 @@
     "description": "A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward."
   },
   {
-    "name": "Gravitee.io API Management (⭐119)",
+    "name": "Gravitee.io API Management (⭐120)",
     "url": "https://github.com/gravitee-io/gravitee-api-management",
     "description": "A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease."
   },
@@ -130,7 +130,7 @@
     "description": "An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing."
   },
   {
-    "name": "OpenAPI Explorer (⭐265)",
+    "name": "OpenAPI Explorer (⭐267)",
     "url": "https://github.com/Rhosys/openapi-explorer",
     "description": "A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs."
   },
@@ -163,6 +163,11 @@
     "name": "Swagger UI (⭐25k)",
     "url": "https://github.com/swagger-api/swagger-ui",
     "description": "An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console."
+  },
+  {
+    "name": "SpectaQL (⭐1k)",
+    "url": "https://github.com/anvilco/spectaql",
+    "description": "A Node.js library that generates static documentation for a GraphQL schema from various sources, including live endpoint, query result, and SDL files."
   },
   {
     "name": "Apinto (⭐1.1k)",
@@ -580,7 +585,7 @@
     "description": "An open-source programming language that simplifies the creation, usage, and combination of network services."
   },
   {
-    "name": "Frank!Framework (⭐94)",
+    "name": "Frank!Framework (⭐95)",
     "url": "https://github.com/frankframework/frankframework",
     "description": "A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations."
   },
@@ -855,7 +860,7 @@
     "description": "An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay."
   },
   {
-    "name": "Eclipse Mosquitto (⭐8.1k)",
+    "name": "Eclipse Mosquitto (⭐8.2k)",
     "url": "https://github.com/eclipse/mosquitto",
     "description": "A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication."
   },
@@ -890,7 +895,7 @@
     "description": "An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability."
   },
   {
-    "name": "Redpanda (⭐8.4k)",
+    "name": "Redpanda (⭐8.5k)",
     "url": "https://github.com/vectorizedio/redpanda",
     "description": "A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics."
   },
@@ -2243,6 +2248,41 @@
     "name": "API Security Architect",
     "url": "https://apiacademy.co/api-certification/",
     "description": "Validate your expertise in securing APIs using modern architectures."
+  },
+  {
+    "name": "API Documentation Best Practices",
+    "url": "https://www.apisecuniversity.com/courses/api-documentation-best-practices",
+    "description": "The 2-hour course covers everything you need to know to create, automate, and publish API documentation your developers, partners and users will love. You wll also learn why API documentation is the foundation for strong governance, effective API security, and achieving your API business goals."
+  },
+  {
+    "name": "API Penetration Testing",
+    "url": "https://www.apisecuniversity.com/courses/api-penetration-testing",
+    "description": "The API Penetration Testing course covers all the key topics to become an APIsec professional. This hands-on course includes over 12 hours of live instruction and provides detailed labs on API hacking techniques and how to uncover vulnerabilities."
+  },
+  {
+    "name": "API Security for PCI Compliance",
+    "url": "https://www.apisecuniversity.com/courses/api-security-for-pci-compliance",
+    "description": "This 60-minute course examines the new PCI DSS 4.0 requirements and details the API security obligations for compliance. DSS 4.0 introduces API security concerns for the time ever - enroll to understand what the implications are for your organization."
+  },
+  {
+    "name": "API Security Fundamentals",
+    "url": "https://www.apisecuniversity.com/courses/api-security-fundamentals",
+    "description": "The 90-minute course covers the core threats to APIs and how to prevent breaches. Learn the OWASP API Security Top 10, examine real-world API attacks, and understand the 3 Pillars of API Security."
+  },
+  {
+    "name": "Certified API Security Analyst",
+    "url": "https://www.apisecuniversity.com/courses/certified-api-security-analyst-exam",
+    "description": "The CASA exam is designed to test your expertise in API security threats, risks, and best practices. Students are expected to have completed the OWASP API Security and Beyond! course before attempting to earn the CASA certification."
+  },
+  {
+    "name": "OWASP API Security Top 10",
+    "url": "https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond",
+    "description": "The 90-minute course provides a deep-dive into the 2023 edition of the OWASP API Security Top 10 - and covers key concepts that didn't make it into the Top 10."
+  },
+  {
+    "name": "Securing API Servers",
+    "url": "https://www.apisecuniversity.com/courses/securing-api-servers",
+    "description": "Learn key concepts for keeping API servers secure - from CORS to error handling to rate limiting and more."
   },
   {
     "name": "Associate Administrator Certification",

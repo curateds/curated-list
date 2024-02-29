@@ -2135,6 +2135,11 @@
     "description": "Google Reader inspired self-hosted RSS reader. (Source Code) Apache-2.0 Java/Docker"
   },
   {
+    "name": "FeedCord",
+    "url": "https://github.com/Qolors/FeedCord",
+    "description": "A simple, lightweight & customizable RSS News Feed for your Discord Server. MIT Docker"
+  },
+  {
     "name": "Feedpushr",
     "url": "https://github.com/ncarlier/feedpushr",
     "description": "Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. GPL-3.0 Go/Docker"
@@ -3705,11 +3710,6 @@
     "description": "A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. MIT Go/Docker"
   },
   {
-    "name": "ViMbAdmin",
-    "url": "https://www.vimbadmin.net/",
-    "description": "Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases. (Source Code) GPL-3.0 PHP"
-  },
-  {
     "name": "Watcharr",
     "url": "https://github.com/sbondCo/Watcharr",
     "description": "A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. (Demo) MIT Docker"
@@ -4090,11 +4090,6 @@
     "description": "A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. (Demo) MIT Docker/PHP"
   },
   {
-    "name": "Hasty Paste",
-    "url": "https://enchantedcode.co.uk/hasty-paste/",
-    "description": "A place to quickly paste some text and share it. Mostly used for sharing debug logs and such to help developers provide tech support. The project aims to be both fast and minimal. (Source Code) AGPL-3.0 Docker/Python"
-  },
-  {
     "name": "Hemmelig",
     "url": "https://hemmelig.app",
     "description": "Share encrypted secrets cross organizations, or as private persons. (Source Code) MIT Docker/Nodejs"
@@ -4428,6 +4423,11 @@
     "name": "iodine",
     "url": "https://code.kryo.se/iodine/",
     "description": "IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. (Source Code) ISC C/deb"
+  },
+  {
+    "name": "Jauth",
+    "url": "https://github.com/Jipok/Jauth",
+    "description": "Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. (Demo) GPL-3.0 Go"
   },
   {
     "name": "Koblas",
@@ -5388,6 +5388,11 @@
     "name": "Blink",
     "url": "https://docs.blink.rest",
     "description": "Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. (Source Code) AGPL-3.0 Nodejs/Docker"
+  },
+  {
+    "name": "Chhoto URL",
+    "url": "https://github.com/SinTan1729/chhoto-url",
+    "description": "Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). MIT Rust/Docker"
   },
   {
     "name": "Easyshortener",

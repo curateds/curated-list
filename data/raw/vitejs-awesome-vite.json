@@ -119,6 +119,11 @@
     "description": "Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions."
   },
   {
+    "name": "vite-alpine-template",
+    "url": "https://github.com/dvd101x/vite-alpine",
+    "description": "Starter template for Alpine."
+  },
+  {
     "name": "Vitesse",
     "url": "https://github.com/antfu/vitesse",
     "description": "Opinionated starter template."
@@ -1322,6 +1327,11 @@
     "name": "vite-plugin-oxlint",
     "url": "https://github.com/52-entertainment/vite-plugin-oxlint",
     "description": "Oxlint linter."
+  },
+  {
+    "name": "@tomjs/vite-plugin-electron",
+    "url": "https://github.com/tomjs/vite-plugin-electron",
+    "description": "Easily develop Electron applications."
   },
   {
     "name": "unplugin-icons",
@@ -2726,6 +2736,16 @@
     "name": "Vite.AspNetCore",
     "url": "https://github.com/Eptagone/Vite.AspNetCore",
     "description": "Integration with ASP.NET Core projects."
+  },
+  {
+    "name": "Vite module",
+    "url": "https://git.drupalcode.org/project/vite",
+    "description": "Backend integration for Drupal."
+  },
+  {
+    "name": "vite-plugin-twig-drupal",
+    "url": "https://github.com/larowlan/vite-plugin-twig-drupal",
+    "description": "Support for Twig with includes/embeds and Drupal specific twig features."
   },
   {
     "name": "vue-cli-plugin-vite",

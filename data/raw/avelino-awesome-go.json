@@ -3508,6 +3508,11 @@
     "description": "One unified interface for multiple Payment Service Providers (PsP) to process online payment."
   },
   {
+    "name": "swift",
+    "url": "https://code.pfad.fr/swift/",
+    "description": "Offline validity check of IBAN (International Bank Account Number) and retrieval of BIC (for some countries)."
+  },
+  {
     "name": "techan",
     "url": "https://github.com/sdcoffey/techan",
     "description": "Technical analysis library with advanced market analysis and trading strategies."
@@ -4170,11 +4175,6 @@
     "name": "gio",
     "url": "https://gioui.org",
     "description": "Gio is a library for writing cross-platform immediate mode GUI-s in Go. Gio supports all the major platforms: Linux, macOS, Windows, Android, iOS, FreeBSD, OpenBSD and WebAssembly."
-  },
-  {
-    "name": "go-astilectron",
-    "url": "https://github.com/asticode/go-astilectron",
-    "description": "Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)."
   },
   {
     "name": "go-gtk",

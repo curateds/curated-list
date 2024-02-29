@@ -677,6 +677,11 @@
     "description": "💎 Solidity bindings for Deno."
   },
   {
+    "name": "switcher4deno",
+    "url": "https://github.com/switcherapi/switcher-client-deno",
+    "description": "Feature Flag Deno SDK client for Switcher-API."
+  },
+  {
     "name": "tryify",
     "url": "https://github.com/twilsoft/tryify",
     "description": "Functional style error handling; never throw/try/catch/finally again."
@@ -725,6 +730,11 @@
     "name": "aqua",
     "url": "https://github.com/l2ig/aqua",
     "description": "A minimal and fast web framework for Deno."
+  },
+  {
+    "name": "alosaur",
+    "url": "https://github.com/alosaur/alosaur",
+    "description": "Alosaur - Deno web framework with many ES Decorators."
   },
   {
     "name": "danet",
