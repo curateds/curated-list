@@ -762,13 +762,8 @@
     "description": "Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework."
   },
   {
-    "name": "Google Keyczar",
-    "url": "https://github.com/google/keyczar",
-    "description": "Easy to use, yet safe encryption framework with key versioning."
-  },
-  {
     "name": "Google Tink",
-    "url": "https://github.com/google/tink",
+    "url": "https://github.com/tink-crypto/tink-java",
     "description": "A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks."
   },
   {
@@ -785,11 +780,6 @@
     "name": "Keycloak",
     "url": "https://github.com/keycloak/keycloak",
     "description": "Open Source Identity and Access Management For Modern Applications and Services."
-  },
-  {
-    "name": "keywhiz",
-    "url": "https://github.com/square/keywhiz",
-    "description": "A system for distributing and managing secrets."
   },
   {
     "name": "pac4j",

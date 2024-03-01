@@ -25,6 +25,10 @@
     "url": "https://www.youtube.com/watch?v=xsjSadjKXns"
   },
   {
+    "name": "Docker katas",
+    "url": "https://github.com/eficode-academy/docker-katas"
+  },
+  {
     "name": "Docker Latest Tutorial",
     "url": "https://www.techgeekbuzz.com/tutorial/docker/what-is-docker/"
   },
@@ -87,10 +91,6 @@
   {
     "name": "Docker on Windows behind a firewall",
     "url": "https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/"
-  },
-  {
-    "name": "Docker Quick Tutorial",
-    "url": "https://vegibit.com/docker-quick-tutorial/"
   },
   {
     "name": "Docker Reference Architecture: Modernizing Traditional .NET Framework Applications",
@@ -1655,11 +1655,6 @@
     "name": "opencontainer",
     "url": "https://github.com/opencontainers/image-spec/blob/master/annotations.md",
     "description": "A convention and shared namespace for Docker labels defined by OCI Image Spec."
-  },
-  {
-    "name": "Alin.io",
-    "url": "https://alin.io",
-    "description": "Build and Distribute container based applications. By @tigranbs"
   },
   {
     "name": "Amazon Elastic Container Registry 💲",

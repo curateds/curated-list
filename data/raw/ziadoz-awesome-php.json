@@ -1685,11 +1685,6 @@
     "description": "Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands."
   },
   {
-    "name": "Boris",
-    "url": "https://github.com/borisrepl/boris",
-    "description": "A tiny PHP REPL."
-  },
-  {
     "name": "Cilex",
     "url": "https://github.com/Cilex/Cilex",
     "description": "A micro framework for building command line tools."

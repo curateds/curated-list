@@ -111,6 +111,11 @@
     "description": "Python package that automatically upgrades your Polars code so it's compatible with future versions by @MarcoGorelli."
   },
   {
+    "name": "polars-fuzzy-match",
+    "url": "https://github.com/bnm3k/polars-fuzzy-match",
+    "description": "Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by @bnm3k."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."

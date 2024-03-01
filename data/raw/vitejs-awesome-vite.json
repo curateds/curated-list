@@ -1334,6 +1334,11 @@
     "description": "Easily develop Electron applications."
   },
   {
+    "name": "@tomjs/vite-plugin-vscode",
+    "url": "https://github.com/tomjs/vite-plugin-vscode",
+    "description": "Easily use web frameworks to develop VSCode Extension's Webview, and support HMR and Debug."
+  },
+  {
     "name": "unplugin-icons",
     "url": "https://github.com/antfu/unplugin-icons",
     "description": "Access thousands of icons as components."
