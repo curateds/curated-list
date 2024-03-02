@@ -965,6 +965,11 @@
     "description": "Add search abilities."
   },
   {
+    "name": "polirritmico/telescope-lazy-plugins.nvim",
+    "url": "https://github.com/polirritmico/telescope-lazy-plugins.nvim",
+    "description": "A Telescope picker to quickly access plugins configurations from the lazy.nvim spec."
+  },
+  {
     "name": "nvim-telescope/telescope.nvim",
     "url": "https://github.com/nvim-telescope/telescope.nvim",
     "description": "Telescope.nvim is a highly extendable fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization."

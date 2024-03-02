@@ -2370,6 +2370,11 @@
     "description": "SDS011 pollution sensor + Wemos D1 mini pro + MicroPython."
   },
   {
+    "name": "micropython-SNGCJA5",
+    "url": "https://github.com/aleppax/micropython-SNGCJA5",
+    "description": "MicroPython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor."
+  },
+  {
     "name": "micropython-bme280",
     "url": "https://github.com/kevbu/micropython-bme280",
     "description": "Driver for the Bosch BME280 temperature/pressure/humidity sensor."
@@ -3290,6 +3295,11 @@
     "description": "A persistent uasyncio scheduler that supports deepsleep between task runs."
   },
   {
+    "name": "uPyftsConf",
+    "url": "https://github.com/aleppax/upyftsconf",
+    "description": "MicroPython Far Too Simple Config File. Single file library that writes configurations to itself."
+  },
+  {
     "name": "uPyMySQL",
     "url": "https://github.com/dvrhax/uPyMySQL",
     "description": "Pure MicroPython MySQL Client."
@@ -3398,6 +3408,11 @@
     "name": "upymenu",
     "url": "https://github.com/jplattel/upymenu",
     "description": "MicroPython Menu for LCD Displays."
+  },
+  {
+    "name": "micropython-hexdump",
+    "url": "https://github.com/mattytrentini/micropython-hexdump",
+    "description": "An implementation of Hexdump for MicroPython."
   },
   {
     "name": "MicroPython Discussions on GitHub",

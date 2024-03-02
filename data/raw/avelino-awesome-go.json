@@ -6692,11 +6692,6 @@
     "description": "Send packets over TCP and UDP. It can buffer messages and hot-swap connections if needed."
   },
   {
-    "name": "panoptes-stream",
-    "url": "https://github.com/yahoo/panoptes-stream",
-    "description": "A cloud native distributed streaming network telemetry (gNMI, Juniper JTI and Cisco MDT)."
-  },
-  {
     "name": "peerdiscovery",
     "url": "https://github.com/schollz/peerdiscovery",
     "description": "Pure Go library for cross-platform local peer discovery using UDP multicast."
@@ -12191,11 +12186,6 @@
     "name": "shell2http",
     "url": "https://github.com/msoap/shell2http",
     "description": "Executing shell commands via http server (for prototyping or remote control)."
-  },
-  {
-    "name": "snap",
-    "url": "https://github.com/intelsdi-x/snap",
-    "description": "Powerful telemetry framework."
   },
   {
     "name": "Snitch",
