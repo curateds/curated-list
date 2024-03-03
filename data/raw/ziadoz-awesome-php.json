@@ -2583,11 +2583,6 @@
     "description": "PHP articles, news, upcoming changes, RFCs and more."
   },
   {
-    "name": "PHP Weekly",
-    "url": "https://www.phpweekly.com/archive.html",
-    "description": "A weekly PHP newsletter."
-  },
-  {
     "name": "Unit Testing Tips",
     "url": "https://testing-tips.sarvendev.com/",
     "description": "Unit Testing Tips by examples in PHP."
@@ -2609,23 +2604,18 @@
   },
   {
     "name": "Mastering Object-Orientated PHP",
-    "url": "https://brandonsavage.net",
+    "url": "https://masteringobjectorientedphp.com/",
     "description": "A book about object-orientated PHP by Brandon Savage."
   },
   {
-    "name": "Modern PHP New Features and Good Practices",
-    "url": "https://www.oreilly.com/library/view/~/9781491905173/",
-    "description": "A book about new PHP features and best practices by Josh Lockhart."
+    "name": "PHP Cookbook",
+    "url": "https://www.oreilly.com/library/view/php-cookbook/9781098121310/",
+    "description": "This cookbook provides code recipes to help you resolve a variety of coding issues."
   },
   {
     "name": "Modernizing Legacy Applications in PHP",
     "url": "https://leanpub.com/mlaphp",
     "description": "A book about modernizing legacy PHP applications by Paul M. Jones."
-  },
-  {
-    "name": "PHP 7 Upgrade Guide",
-    "url": "https://leanpub.com/php7",
-    "description": "An ebook covering all of the features and changes in PHP 7 by Colin O'Dell."
   },
   {
     "name": "Scaling PHP Applications",
@@ -2641,11 +2631,6 @@
     "name": "Signaling PHP",
     "url": "https://leanpub.com/signalingphp",
     "description": "A book about catching PCNTL signals in CLI scripts by Cal Evans."
-  },
-  {
-    "name": "The Grumpy Programmer's Guide to Building Testable PHP Applications",
-    "url": "https://leanpub.com/grumpy-testing",
-    "description": "A book about building testing PHP applications by Chris Hartjes."
   },
   {
     "name": "XML Parsing with PHP",
@@ -2688,54 +2673,14 @@
     "description": "A collection of videos from the PHP UK Conference."
   },
   {
-    "name": "The Laravel Podcast",
-    "url": "https://laravelpodcast.com/",
-    "description": "Laravel and PHP development news and discussion."
-  },
-  {
     "name": "Laravel News Podcast",
     "url": "https://podcast.laravel-news.com/",
     "description": "The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework."
   },
   {
-    "name": "PHP Internals News",
-    "url": "https://phpinternals.news",
-    "description": "A podcast about PHP internals."
-  },
-  {
-    "name": "The PHP Roundtable",
-    "url": "https://phproundtable.com/",
-    "description": "The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about."
-  },
-  {
-    "name": "PHP Town Hall",
-    "url": "https://phptownhall.com/",
-    "description": "A casual PHP podcast by Ben Edmunds and Phil Sturgeon."
-  },
-  {
-    "name": "Voices of the ElePHPant",
-    "url": "https://voicesoftheelephpant.com/",
-    "description": "Interviews with the people who make the PHP community special."
-  },
-  {
-    "name": "The Laracasts Snippet",
-    "url": "https://laracasts.simplecast.com",
-    "description": "The Laracasts snippet, each episode, offers a single thought on some aspect of web development."
-  },
-  {
-    "name": "php[podcast] episodes from php[architect]",
-    "url": "https://www.phparch.com/podcast/",
-    "description": "The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development."
-  },
-  {
-    "name": "Over Engineered",
-    "url": "https://overengineered.fm/",
-    "description": "A podcast in mini-series where we explore unimportant programming questions in extreme detail."
-  },
-  {
-    "name": "PHPUgly",
-    "url": "https://www.phpugly.com/",
-    "description": "The ramblings of a few overworked PHP Developers."
+    "name": "Mostly Technical",
+    "url": "https://mostlytechnical.com/",
+    "description": "Hosted by Ian Landsman and Aaron Francis, Mostly Technical is a lively discussion on Laravel, business, and an eclectic mix of related topics."
   },
   {
     "name": "No Compromises",
@@ -2746,6 +2691,51 @@
     "name": "North Meets South Web Podcast",
     "url": "https://www.northmeetssouth.audio/",
     "description": "Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers."
+  },
+  {
+    "name": "Over Engineered",
+    "url": "https://overengineered.fm/",
+    "description": "A podcast in mini-series where we explore unimportant programming questions in extreme detail."
+  },
+  {
+    "name": "PHP Internals News",
+    "url": "https://phpinternals.news",
+    "description": "A podcast about PHP internals."
+  },
+  {
+    "name": "PHP Town Hall",
+    "url": "https://phptownhall.com/",
+    "description": "A casual PHP podcast by Ben Edmunds and Phil Sturgeon."
+  },
+  {
+    "name": "php[podcast] episodes from php[architect]",
+    "url": "https://www.phparch.com/podcast/",
+    "description": "The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development."
+  },
+  {
+    "name": "PHPUgly",
+    "url": "https://www.phpugly.com/",
+    "description": "The ramblings of a few overworked PHP Developers."
+  },
+  {
+    "name": "The Laracasts Snippet",
+    "url": "https://laracasts.simplecast.com",
+    "description": "The Laracasts snippet, each episode, offers a single thought on some aspect of web development."
+  },
+  {
+    "name": "The Laravel Podcast",
+    "url": "https://laravelpodcast.com/",
+    "description": "Laravel and PHP development news and discussion."
+  },
+  {
+    "name": "The PHP Roundtable",
+    "url": "https://phproundtable.com/",
+    "description": "The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about."
+  },
+  {
+    "name": "Voices of the ElePHPant",
+    "url": "https://voicesoftheelephpant.com/",
+    "description": "Interviews with the people who make the PHP community special."
   },
   {
     "name": "PHP Weekly",
