@@ -180,6 +180,11 @@
     "description": "A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]"
   },
   {
+    "name": "SaneCppLibraries",
+    "url": "https://github.com/Pagghiu/SaneCppLibraries",
+    "description": "a set of C++ platform abstraction libraries for macOS, Windows and Linux. [MIT] website"
+  },
+  {
     "name": "Seastar",
     "url": "https://github.com/scylladb/seastar",
     "description": "An advanced, open-source C++ framework for high-performance server applications on modern hardware. [Apache-2.0 License] seastar.io"

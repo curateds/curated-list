@@ -1368,6 +1368,11 @@
     "description": "ACM SIGCHI Symposium on Engineering Interactive Computing Systems, 2018. [All Versions]. [Code]. [Website]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies)."
   },
   {
+    "name": "Learning to Infer Graphics Programs from Hand-Drawn Images",
+    "url": "https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html",
+    "description": "NeurIPS'18, 2018. [All Versions]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings."
+  },
+  {
     "name": "Elements of a theory of human problem solving",
     "url": "https://psycnet.apa.org/record/1959-07883-001",
     "description": "Psychological Review, 1958. [All Versions]. Herbert Simon's original idea on human problem solving."

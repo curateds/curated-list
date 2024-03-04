@@ -110,6 +110,16 @@
     "description": "A lightweight and flexible command-line JSON processor."
   },
   {
+    "name": "jaq",
+    "url": "https://github.com/01mf02/jaq",
+    "description": "A jq clone focussed on correctness, speed, and simplicity. Written in Rust."
+  },
+  {
+    "name": "gojq",
+    "url": "https://github.com/itchyny/gojq",
+    "description": "Pure Go implementation of jq. A bit faster and more portable."
+  },
+  {
     "name": "livejq",
     "url": "https://github.com/kunalsin9h/livejq",
     "description": "An alternative jq implementation in rust for continuous parsing without crashing on invalid JSON"
@@ -612,6 +622,11 @@
     "name": "FracturedJsonJs",
     "url": "https://www.npmjs.com/package/fracturedjsonjs",
     "description": "A JSON formatter that produces human-readable but fairly compact output."
+  },
+  {
+    "name": "JsonHilo",
+    "url": "https://github.com/xtao-org/jsonhilo",
+    "description": "Minimal lossless parse event streaming, akin to SAX."
   },
   {
     "name": "JSONKit",

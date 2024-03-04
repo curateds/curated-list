@@ -1169,6 +1169,11 @@
     "description": "Enterprise-Grade CI/CD and DevOps Automation Open Source Platform."
   },
   {
+    "name": "dot",
+    "url": "https://github.com/opnlabs/dot",
+    "description": "A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages."
+  },
+  {
     "name": "drone",
     "url": "https://github.com/drone/drone",
     "description": "Drone is a Continuous Integration platform built on Docker, written in Go."
@@ -5782,6 +5787,11 @@
     "description": "A type safe, reflective framework for libraries, tests, http endpoints, and service startup."
   },
   {
+    "name": "ore",
+    "url": "https://github.com/firasdarwish/ore",
+    "description": "Lightweight, generic & simple dependency injection (DI) container."
+  },
+  {
     "name": "wire",
     "url": "https://github.com/Fs02/wire",
     "description": "Strict Runtime Dependency Injection for Golang."
@@ -9605,6 +9615,11 @@
     "name": "go-httpheader",
     "url": "https://github.com/mozillazg/go-httpheader",
     "description": "Go library for encoding structs into Header fields."
+  },
+  {
+    "name": "go-lambda-cleanup",
+    "url": "https://github.com/karl-cardenas-coding/go-lambda-cleanup",
+    "description": "A CLI for removing unused or previous versions of AWS Lambdas."
   },
   {
     "name": "go-lock",

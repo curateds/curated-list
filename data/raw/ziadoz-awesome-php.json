@@ -840,14 +840,14 @@
     "description": "A standards compliant HTML filter."
   },
   {
-    "name": "IniScan",
-    "url": "https://github.com/psecio/iniscan",
-    "description": "A tool that scans PHP INI files for security."
-  },
-  {
     "name": "Optimus",
     "url": "https://github.com/jenssegers/optimus",
     "description": "Id obfuscation based on Knuth's multiplicative hashing method."
+  },
+  {
+    "name": "OWASP",
+    "url": "https://owasp.org/",
+    "description": "Explore the world of cyber security."
   },
   {
     "name": "PHPGGC",
@@ -860,11 +860,6 @@
     "description": "Secure PHP Encryption Library."
   },
   {
-    "name": "PHP SSH",
-    "url": "https://github.com/Herzult/php-ssh",
-    "description": "An experimental object-orientated SSH wrapper library."
-  },
-  {
     "name": "PHPSecLib",
     "url": "https://phpseclib.sourceforge.net",
     "description": "A pure PHP secure communications library."
@@ -875,9 +870,9 @@
     "description": "PHP 5.x support for random_bytes() and random_int()"
   },
   {
-    "name": "RandomLib",
-    "url": "https://github.com/ircmaxell/RandomLib",
-    "description": "A library for generating random numbers and strings."
+    "name": "Roave Security Advisories",
+    "url": "https://github.com/Roave/SecurityAdvisories",
+    "description": "This package ensures that your application doesn't have installed dependencies with known security vulnerabilities."
   },
   {
     "name": "Symfony Security Monitoring",
@@ -890,18 +885,8 @@
     "description": "An automatic SQL injection and database takeover tool."
   },
   {
-    "name": "TCrypto",
-    "url": "https://github.com/timoh6/TCrypto",
-    "description": "A simple encrypted key-value storage library."
-  },
-  {
-    "name": "VAddy",
-    "url": "https://vaddy.net/",
-    "description": "A continuous security testing platform for web applications."
-  },
-  {
     "name": "Zap",
-    "url": "https://github.com/OWASP/www-project-zap",
+    "url": "https://github.com/zaproxy/zaproxy",
     "description": "An integrated penetration testing tool for web applications."
   },
   {

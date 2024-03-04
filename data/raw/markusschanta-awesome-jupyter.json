@@ -320,6 +320,11 @@
     "description": "Interactive spreadsheets in Jupyter."
   },
   {
+    "name": "ITables",
+    "url": "https://github.com/mwouts/itables",
+    "description": "Pandas and Polars DataFrames rendered as interactive datatables-net tables."
+  },
+  {
     "name": "Qgrid",
     "url": "https://github.com/quantopian/qgrid",
     "description": "Interactive grid for sorting, filtering, and editing DataFrames in Jupyter."
@@ -533,6 +538,11 @@
     "name": "jupyter-panel-proxy",
     "url": "https://github.com/holoviz/jupyter-panel-proxy",
     "description": "Automatically serve notebooks as Panel data apps at the /panel endpoint of your Jupyter server."
+  },
+  {
+    "name": "jupyter-stack-trace",
+    "url": "https://github.com/teticio/jupyter-stack-trace",
+    "description": "Click on the stack trace to open the respective file or a Google search."
   },
   {
     "name": "jupyterlab-executor",
