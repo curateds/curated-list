@@ -585,6 +585,11 @@
     "description": "Animate a CollisionShape2D along with the frames of an AnimatedSprite2D."
   },
   {
+    "name": "LimboAI",
+    "url": "https://github.com/limbonaut/limboai",
+    "description": "Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial."
+  },
+  {
     "name": "AntialiasedLine2D",
     "url": "https://github.com/godot-extended-libraries/godot-antialiased-line2d",
     "description": "Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms)."

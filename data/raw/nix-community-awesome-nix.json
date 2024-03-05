@@ -5,6 +5,11 @@
     "description": "An in-depth blog series about creating a Rust application with Nix."
   },
   {
+    "name": "Explainix",
+    "url": "https://zaynetro.com/explainix",
+    "description": "Explain Nix syntax visually."
+  },
+  {
     "name": "How to Learn Nix",
     "url": "https://ianthehenry.com/posts/how-to-learn-nix/",
     "description": "It's like a Let's Play, but for obscure software documentation."
@@ -98,6 +103,11 @@
     "name": "nix-installer",
     "url": "https://github.com/DeterminateSystems/nix-installer",
     "description": "Opinonated alternative to the official Nix install scripts."
+  },
+  {
+    "name": "nix-installer-scripts",
+    "url": "https://github.com/dnkmmr69420/nix-installer-scripts",
+    "description": "Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it."
   },
   {
     "name": "Channel History",
@@ -693,6 +703,11 @@
     "name": "NUR",
     "url": "https://github.com/nix-community/NUR/",
     "description": "Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes."
+  },
+  {
+    "name": "System Manager",
+    "url": "https://github.com/numtide/system-manager",
+    "description": "A non-NixOS Linux system configuration tool built on Nix."
   },
   {
     "name": "#nix:nixos.org",

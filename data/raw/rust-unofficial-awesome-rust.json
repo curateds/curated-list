@@ -1531,6 +1531,11 @@
     "description": "User-first chat platform built with modern web technologies."
   },
   {
+    "name": "cloudflare/pingora",
+    "url": "https://github.com/cloudflare/pingora",
+    "description": "A library for building fast, reliable and evolvable network services."
+  },
+  {
     "name": "emanuele-em/proxelar",
     "url": "https://github.com/emanuele-em/proxelar"
   },
@@ -4447,8 +4452,14 @@
     "url": "https://github.com/PistonDevelopers/glfw-rs"
   },
   {
-    "name": "fschutt/printpdf",
-    "url": "https://github.com/fschutt/printpdf"
+    "name": "bastibense/libharu_ng",
+    "url": "https://github.com/bastibense/libharu_ng",
+    "description": "Easily generate PDFs from your Rust app."
+  },
+  {
+    "name": "bastibense/libharu_ng",
+    "url": "https://github.com/bastibense/libharu_ng",
+    "description": "Easily generate PDFs from your Rust app."
   },
   {
     "name": "fschutt/printpdf",
@@ -5393,7 +5404,7 @@
   },
   {
     "name": "seed",
-    "url": "https://seed-rs.org/"
+    "url": "https://github.com/seed-rs/seed"
   },
   {
     "name": "stdweb",

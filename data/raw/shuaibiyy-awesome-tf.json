@@ -85,6 +85,10 @@
     "url": "https://www.amazon.com/HashiCorp-Infrastructure-Automation-Certification-Guide-ebook/dp/B092KM7LXC/"
   },
   {
+    "name": "IaC starting with Terraform (Korean)",
+    "url": "https://product.kyobobook.co.kr/detail/S000202478097"
+  },
+  {
     "name": "Infrastructure as Code",
     "url": "http://shop.oreilly.com/product/0636920039297.do"
   },
@@ -102,8 +106,16 @@
     "url": "https://www.amazon.com/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557"
   },
   {
+    "name": "Terraform for Ops e-book",
+    "url": "https://www.terraformforops.com"
+  },
+  {
     "name": "Terraform in Action",
     "url": "https://www.manning.com/books/terraform-in-action"
+  },
+  {
+    "name": "Terraform in Depth",
+    "url": "https://www.manning.com/books/terraform-in-depth"
   },
   {
     "name": "Terraform: Up & Running, 3rd ed.",
@@ -112,18 +124,6 @@
   {
     "name": "The Terraform Book",
     "url": "https://terraformbook.com/"
-  },
-  {
-    "name": "IaC starting with Terraform(Korean)",
-    "url": "https://product.kyobobook.co.kr/detail/S000202478097"
-  },
-  {
-    "name": "Terraform for Ops e-book",
-    "url": "https://www.terraformforops.com"
-  },
-  {
-    "name": "Terraform in Depth",
-    "url": "https://www.manning.com/books/terraform-in-depth"
   },
   {
     "name": "A Comprehensive Guide to Terraform",
@@ -287,7 +287,7 @@
   },
   {
     "name": "Sharing data between Terraform configurations",
-    "url": "https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/",
+    "url": "https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/",
     "description": "Illustrates how to use remote state to share data between Terraform configurations."
   },
   {

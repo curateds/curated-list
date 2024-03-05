@@ -418,6 +418,11 @@
     "description": "Render your project's file dependency tree and/or validate it against your own rules."
   },
   {
+    "name": "itertools-ts",
+    "url": "https://github.com/Smoren/itertools-ts",
+    "description": "Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones)."
+  },
+  {
     "name": "jsonup",
     "url": "https://github.com/tani/jsonup",
     "description": "Compile-time JSON parser"

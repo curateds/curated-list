@@ -84,7 +84,7 @@
   },
   {
     "name": "Cache Attacks and Countermeasures: the Case of AES",
-    "url": "http://cs.tau.ac.il/~tromer/papers/cache.pdf",
+    "url": "https://eprint.iacr.org/2005/271.pdf",
     "description": "Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer."
   },
   {
@@ -159,7 +159,7 @@
   },
   {
     "name": "Cryptanalysis of block ciphers and protocols",
-    "url": "https://web.archive.org/http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04",
+    "url": "https://web.archive.org/web/20220929023539/http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04",
     "description": "By Elad Pinhas Barkan."
   },
   {
@@ -204,7 +204,7 @@
   },
   {
     "name": "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems",
-    "url": "https://web.williams.edu/Mathematics/lg5/302/RSA.pdf",
+    "url": "https://people.csail.mit.edu/rivest/Rsapaper.pdf",
     "description": "Original paper introducing RSA algorithm."
   },
   {
@@ -218,8 +218,8 @@
     "description": "Paper by R. Merkle,   predated \"New directions in cryptography\" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system."
   },
   {
-    "name": "On the Security of Public Key Protocols ",
-    "url": "http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf",
+    "name": "On the Security of Public Key Protocols",
+    "url": "https://web.archive.org/web/20230902163042/https://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf",
     "description": "Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols."
   },
   {
@@ -334,7 +334,7 @@
   },
   {
     "name": "How to construct zero-knowledge proof systems for NP",
-    "url": "http://www.wisdom.weizmann.ac.il/~oded/gmw1.html",
+    "url": "https://www.wisdom.weizmann.ac.il/~oded/gmw1.html",
     "description": "Classic paper by Goldreich,  Micali and Wigderson."
   },
   {

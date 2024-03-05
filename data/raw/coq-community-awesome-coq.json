@@ -90,6 +90,11 @@
     "description": "IDE extensions for Proof General's Coq mode."
   },
   {
+    "name": "opam-switch-mode",
+    "url": "https://github.com/ProofGeneral/opam-switch-mode",
+    "description": "IDE extension for Proof General to locally change or reset the opam switch from a menu or using a command."
+  },
+  {
     "name": "jsCoq",
     "url": "https://github.com/ejgallego/jscoq",
     "description": "Port of Coq to JavaScript, which enables running Coq projects in a browser."

@@ -5,6 +5,11 @@
     "description": "Based static typing with baseline functionality."
   },
   {
+    "name": "basedpyright",
+    "url": "https://github.com/detachhead/basedpyright",
+    "description": "Pyright fork with improvements to VSCode support and various other fixes."
+  },
+  {
     "name": "mypy",
     "url": "https://github.com/python/mypy",
     "description": "Optional static typing (PEP 484)."
