@@ -67,12 +67,7 @@
   {
     "name": "Allo",
     "url": "https://allo.info",
-    "description": "Allo is a blockchain explorer for all of Algorand created by Nodely team."
-  },
-  {
-    "name": "Goalseeker",
-    "url": "https://goalseeker.purestake.io/algorand/mainnet",
-    "description": "Algorand blockchain explorer built by PureStake."
+    "description": "Allo is a blockchain explorer for all of Algorand created by Nodely."
   },
   {
     "name": "NFTExplorer",
@@ -95,18 +90,13 @@
     "description": "Algorand accounts' 3D graphs."
   },
   {
-    "name": "Algoscan",
-    "url": "https://algoscan.app/",
-    "description": "Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network."
-  },
-  {
     "name": "Asalytic",
     "url": "https://www.asalytic.app/",
     "description": "Analyze the Algorand NFT space."
   },
   {
     "name": "Dappflow",
-    "url": "https://explorer.dappflow.org/",
+    "url": "https://app.dappflow.org/explorer/home",
     "description": "Algorand Private Network Explorer (supports Sandbox in localhost)."
   },
   {
@@ -115,9 +105,9 @@
     "description": "Actionable, insightful blockchain GraphQL APIs for more than 30 blockchains. One of the highlighted features is the ability to query a list of Algorand block proposers."
   },
   {
-    "name": "Algogator.Finance",
-    "url": "https://algogator.finance/",
-    "description": "Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand blockchain anywhere and anytime. Built by @TeamAlgogator."
+    "name": "CompX",
+    "url": "https://app.compx.io/dashboard",
+    "description": "Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand blockchain anywhere and anytime. Formerly Algogator.Finance."
   },
   {
     "name": "ASA Stats",
@@ -131,7 +121,7 @@
   },
   {
     "name": "Zero to Hero PyTeal",
-    "url": "https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x",
+    "url": "https://www.youtube.com/playlist?list=PLwRyHoehE435ttTjvFZA-DyqHYIYc26K_",
     "description": "PyTeal crash course video lectures."
   },
   {
@@ -188,11 +178,6 @@
     "name": "Creating a License Manager Contract",
     "url": "https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/",
     "description": "Tutorial on utilizing PyTEAL and Inner Transactions."
-  },
-  {
-    "name": "WalletConnect Quickstart",
-    "url": "https://developer.algorand.org/docs/get-details/walletconnect/",
-    "description": "Overview and quick start guide to WalletConnect protocol."
   },
   {
     "name": "Stateless session management with the Pera wallet",
@@ -315,11 +300,6 @@
     "description": "Tinyman Python SDK."
   },
   {
-    "name": "algofi-py-sdk",
-    "url": "https://github.com/Algofiorg/algofi-py-sdk",
-    "description": "Algofi Python SDK."
-  },
-  {
     "name": "smart-asa",
     "url": "https://github.com/algorandlabs/smart-asa",
     "description": "Smart ASA PyTeal reference implementation based on ARC-20."
@@ -328,11 +308,6 @@
     "name": "js-algorand-sdk",
     "url": "https://github.com/algorand/js-algorand-sdk",
     "description": "The Algorand JavaScript SDK & Examples."
-  },
-  {
-    "name": "algofi-js-sdk",
-    "url": "https://github.com/Algofiorg/algofi-js-sdk",
-    "description": "Algofi JavaScript SDK."
   },
   {
     "name": "algo-builder",
@@ -422,7 +397,7 @@
   {
     "name": "TEALrb",
     "url": "https://github.com/joe-p/TEALrb",
-    "description": "A Ruby DSL for writing Algorand smart contracts."
+    "description": "A Ruby DSL for writing Algorand smart contracts. (Archived on Jan 22, 2023)"
   },
   {
     "name": "vim-algorand-teal",
@@ -465,11 +440,6 @@
     "description": "A tool for smart contract development on the Algorand blockchain. Inspired by flask."
   },
   {
-    "name": "beaker-ts",
-    "url": "https://github.com/algorand-devrel/beaker-ts",
-    "description": "Generate typescript clients for your beaker applications."
-  },
-  {
     "name": "pyteal-utils",
     "url": "https://github.com/algorand/pyteal-utils",
     "description": "PyTEAL utilities library."
@@ -501,7 +471,7 @@
   },
   {
     "name": "tealish",
-    "url": "https://github.com/Hipo/tealish",
+    "url": "https://tealish.tinyman.org",
     "description": "Tealish is a readable language for the Algorand Virtual Machine. It enables developers to write TEAL in a procedural style optimized for readability."
   },
   {
@@ -515,11 +485,6 @@
     "description": "Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support."
   },
   {
-    "name": "ceal",
-    "url": "https://github.com/dragmz/ceal",
-    "description": "A C-like language for Algorand smart contracts by @dragmz."
-  },
-  {
     "name": "Algorand Sandbox",
     "url": "https://github.com/algorand/sandbox",
     "description": "Fast way to create and configure an Algorand development environment."
@@ -527,7 +492,7 @@
   {
     "name": "Algorand Sandbox Dev",
     "url": "https://github.com/MakerXStudio/algorand-sandbox-dev",
-    "description": "Docker Hub image for faster local development and CI/CD usage."
+    "description": "Docker Hub image for faster local development and CI/CD usage. (Archived on Jan 2, 2024)"
   },
   {
     "name": "Official Algod Container",
@@ -575,11 +540,6 @@
     "description": "A decentralized trading protocol, AMM and platform."
   },
   {
-    "name": "Algofi",
-    "url": "https://www.algofi.org/",
-    "description": "Decentralized lending market and stablecoin on the Algorand blockchain."
-  },
-  {
     "name": "Pact",
     "url": "https://www.pact.fi/",
     "description": "Decentralised Automated Market Maker (AMM) built on the Algorand protocol."
@@ -605,7 +565,7 @@
     "description": "Decentralized liquidity-as-a-service."
   },
   {
-    "name": "aramid.finance/",
+    "name": "aramid.finance",
     "url": "https://www.aramid.finance/",
     "description": "A Decentralized Cross-Chain Protocol supporitng Algorand, Polygon, Ethereum and other EVM chains."
   },
@@ -625,8 +585,8 @@
     "description": "The Undocumented Docs - Dev Notes for Archival Node, Indexer Setup (and more)."
   },
   {
-    "name": "AlgoNode",
-    "url": "https://algonode.io",
+    "name": "Nodely",
+    "url": "https://nodely.io",
     "description": "Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots."
   },
   {
@@ -705,8 +665,8 @@
     "description": "Centralized BTC and ETH bridge to Algorand."
   },
   {
-    "name": "QUIGON",
-    "url": "https://bridge.quigon.com/",
+    "name": "XP.network",
+    "url": "https://bridge.xp.network/",
     "description": "Centralized cross-chain NFT bridge."
   },
   {
@@ -720,19 +680,14 @@
     "description": "The ALGO — ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand."
   },
   {
-    "name": "Algoracle",
-    "url": "https://www.algoracle.ai/",
+    "name": "Gora",
+    "url": "https://www.gora.io/",
     "description": "Decentralized oracle networks that connect the Algorand blockchain with the real world."
   },
   {
     "name": "NFDomains",
     "url": "https://nf.domains/",
     "description": "Algorand name service and marketplace for Non-Fungible Domains (NFDs) — unique, readable aliases for wallet addresses."
-  },
-  {
-    "name": "Algorand Name Service",
-    "url": "https://algonameservice.com/home",
-    "description": "ANS is a decentralized naming service. An Algorand smart contract stores names and governs the naming policy."
   },
   {
     "name": "arc3.xyz",
@@ -770,11 +725,6 @@
     "description": "A tiny macOS menu bar app for tracking ASA prices from TinyMan."
   },
   {
-    "name": "Algodesk",
-    "url": "https://www.algodesk.io/",
-    "description": "Create, configure and manage your Assets on Algorand Blockchain."
-  },
-  {
     "name": "algonim",
     "url": "https://github.com/cusma/algonim",
     "description": "First Algorand mini-puzzle-game. Written in Python+PyTEAL by @cusma."
@@ -805,11 +755,6 @@
     "description": "Galvanity is Algorand vanity address generator written in Go."
   },
   {
-    "name": "Algocurator",
-    "url": "https://www.algocurator.com/home",
-    "description": "The Biggest Unofficial One-Stop Hub for Algorand."
-  },
-  {
     "name": "genpyteal",
     "url": "https://github.com/runvnc/genpyteal",
     "description": "Generate PyTeal from (mostly) normal Python."
@@ -831,7 +776,7 @@
   {
     "name": "algofractals",
     "url": "https://github.com/aorumbayev/algofractals",
-    "description": "Mint randomly generated mandelbrot fractals with embedded ARC69 tags."
+    "description": "Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)"
   },
   {
     "name": "algorewards",
@@ -845,7 +790,7 @@
   },
   {
     "name": "Pipeline-UI",
-    "url": "https://www.pipeline-ui.com/",
+    "url": "https://github.com/headline-design/pipeline-ui",
     "description": "A React.js based component library for rapid deployment of Algorand Dapps."
   },
   {
@@ -855,7 +800,7 @@
   },
   {
     "name": "AlgoTables",
-    "url": "https://github.com/algotables/algotables.github.io",
+    "url": "https://algotables.github.io/",
     "description": "A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem."
   },
   {

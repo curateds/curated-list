@@ -1100,6 +1100,11 @@
     "description": "A very fast flat hashtable with Fibonacci hashing."
   },
   {
+    "name": "frozen",
+    "url": "https://github.com/serge-sans-paille/frozen",
+    "description": "a header-only, constexpr alternative to gperf for C++14 users. [Apache-2.0]"
+  },
+  {
     "name": "Hashmaps",
     "url": "https://github.com/goossaert/hashmap",
     "description": "Implementation of open addressing hash table algorithms in C++. [MIT]"

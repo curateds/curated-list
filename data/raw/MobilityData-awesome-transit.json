@@ -237,6 +237,11 @@
     "description": "An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data."
   },
   {
+    "name": "Mobroute",
+    "url": "http://sr.ht/~mil/mobroute",
+    "description": "Mobroute is a general purpose FOSS public transportation router (e.g. trip planner) Go library and CLI that works by directly ingesting timetable (GTFS) data from transit agencies themselves (sourced from the Mobility Database). It can be used to quickly run & test routing requests based on GTFS data on your device (via its CLI) or it can be embedded as a library to add GTFS routing to existing navigation apps."
+  },
+  {
     "name": "MOTIS",
     "url": "https://github.com/motis-project/motis",
     "description": "Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used."
@@ -401,6 +406,11 @@
     "description": "Scripts to create a Docker container that encapsulates all the elements necessary to develop map tiles for use on MBTA.com"
   },
   {
+    "name": "Cadê Meu Busão",
+    "url": "https://tarifazerobh.org/cade-meu-busao/",
+    "description": "Realtime tracking transit buses from Belo Horizonte, Brazil. Open-source on GitHub."
+  },
+  {
     "name": "Tiramisu Transit",
     "url": "https://github.com/CMU-RERC-APT/tiramisu3-pr",
     "description": "An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained."
@@ -459,6 +469,11 @@
     "name": "opentripplanner-client-library",
     "url": "https://github.com/CUTR-at-USF/opentripplanner-client-library",
     "description": "A Kotlin Multiplatform library for making API requests and parsing responses from an OpenTripPlanner v2 server for trip plans, bike rental info, and server metadata for Android, iOS, and web."
+  },
+  {
+    "name": "Transito",
+    "url": "http://git.sr.ht/~mil/transito",
+    "description": "FOSS data-provider-agnostic public transportation app that let's you route between locations using openly available public GTFS feeds (sourced from the Mobility Database). Utilizing the Mobroute Go API, the Transito app lets you performs routing calculations right on your phone. Cross-platform app currently supporting Android & Linux."
   },
   {
     "name": "Transportr",
@@ -971,14 +986,19 @@
     "description": "A Python library to support transit service analysis."
   },
   {
+    "name": "r-transit",
+    "url": "https://github.com/r-transit",
+    "description": "Collection of tools for GTFS in R."
+  },
+  {
     "name": "gtfsio",
     "url": "https://github.com/r-transit/gtfsio",
     "description": "Fast and flexible functions to read and write GTFS in R."
   },
   {
-    "name": "trread",
-    "url": "https://github.com/r-gtfs/trread",
-    "description": "A transit (GTFS) file reader for R."
+    "name": "tidytransit",
+    "url": "https://github.com/r-gtfs/tidytransit",
+    "description": "Use tidytransit to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds. tidytransit reads the General Transit Feed Specification into tidyverse and simple features data frames."
   },
   {
     "name": "GTFS-viz",
