@@ -198,7 +198,7 @@
     "description": "Materials, examples, libraries and hardware for running Python game programming and electronics workshops with a minimum of problems."
   },
   {
-    "name": "CircuitPython Online IDE",
+    "name": "Version 1",
     "url": "https://urfdvw.github.io/CircuitPython-online-IDE/",
     "description": "A browser based IDE for CircuitPython by River Wang"
   },
@@ -219,9 +219,9 @@
     "url": "https://learn.adafruit.com/adding-a-single-board-computer-to-blinka"
   },
   {
-    "name": "Adafruit Daily, Python for microcontrollers",
+    "name": "Adafruit Daily, Python for Microcontrollers",
     "url": "https://www.adafruitdaily.com/",
-    "description": "A weekly newsletter on MicroPython and CircuitPython, a spam-free list."
+    "description": "A weekly newsletter on MicroPython, CircuitPython, and Python on single-board computers (SBC). A spam-free list."
   },
   {
     "name": "Contribute to newsletter",
@@ -500,6 +500,11 @@
     "name": "John Park's CircuitPython Parsec, Thursdays 4pm ET on YouTube LIVE",
     "url": "https://www.youtube.com/adafruit/live",
     "description": "John Park shares CircuitPython tips and tricks."
+  },
+  {
+    "name": "CircuitPython 9 release poster",
+    "url": "https://www.adafruit.com/product/5873",
+    "description": "CircuitPython release version 9 poster."
   },
   {
     "name": "CircuitPython 8 release poster",

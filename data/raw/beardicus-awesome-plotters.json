@@ -175,6 +175,11 @@
     "description": "A Processing library for writing HPGL files."
   },
   {
+    "name": "processing2hpgl",
+    "url": "https://github.com/awdriggs/processing2hpgl",
+    "description": "A Processing library that allows for direct communication with HPGL pen plotters from within a Processing sketch."
+  },
+  {
     "name": "grbl",
     "url": "https://github.com/grbl/grbl",
     "description": "A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino."
@@ -508,6 +513,11 @@
     "name": "CNC Text Tool",
     "url": "https://msurguy.github.io/cnc-text-tool/",
     "description": "Browser-based Hershey Text tool with export to SVG."
+  },
+  {
+    "name": "hf2gcode",
+    "url": "https://github.com/Andy1978/hf2gcode",
+    "description": "Generates G-code from text with a Hershey font."
   },
   {
     "name": "An Intro to Pen Plotters",

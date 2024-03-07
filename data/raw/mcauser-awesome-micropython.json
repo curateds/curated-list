@@ -1895,6 +1895,11 @@
     "description": "Driver for MCP23017 and MCP23008 GPIO expanders."
   },
   {
+    "name": "micropython-mcp230xx",
+    "url": "https://github.com/dsiggi/micropython-mcp230xx",
+    "description": "Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling."
+  },
+  {
     "name": "micropython-mcp23017",
     "url": "https://github.com/mcauser/micropython-mcp23017",
     "description": "MicroPython driver for MCP23017 16-bit I/O Expander."
@@ -2623,6 +2628,11 @@
     "name": "micropython-i2c-ultrasonic",
     "url": "https://github.com/HowManyOliversAreThere/micropython-i2c-ultrasonic",
     "description": "MicroPython driver for the RCWL-9620-based M5 I2C Ultrasonic Distance Unit."
+  },
+  {
+    "name": "micropython-grove-ultrasonic-ranger",
+    "url": "https://github.com/mores/TheMissingLink/tree/main/Seeed_MicroPython_UltrasonicRanger",
+    "description": "Driver for SeeedStudio's Grove Ultrasonic Ranger."
   },
   {
     "name": "pyGP2Y",

@@ -490,6 +490,11 @@
     "description": "This allows you to host your own Firefox accounts server. (Source Code) MPL-2.0 Nodejs/Java"
   },
   {
+    "name": "Grimoire",
+    "url": "https://grimoire.pro",
+    "description": "Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment. (Source Code) MIT Nodejs/Docker"
+  },
+  {
     "name": "Hackershare",
     "url": "https://github.com/hackershare/hackershare",
     "description": "Social bookmarks website for hackers. MIT Ruby"
@@ -4385,6 +4390,11 @@
     "description": "A shared agenda for local communities. (Source Code) AGPL-3.0 Nodejs"
   },
   {
+    "name": "gathio",
+    "url": "https://gath.io/",
+    "description": "Self-destructing, shareable, no-registration event pages. (Demo, Source Code) GPL-3.0 Nodejs/Docker"
+  },
+  {
     "name": "hitobito",
     "url": "https://hitobito.com/en",
     "description": "A web application to manage complex group hierarchies with members, events and a lot more. (Demo, Source Code) AGPL-3.0 Ruby"
@@ -5043,6 +5053,11 @@
     "name": "Gogs",
     "url": "https://gogs.io/",
     "description": "Painless self-hosted Git Service written in Go. (Source Code) MIT Go"
+  },
+  {
+    "name": "Huly",
+    "url": "https://huly.io",
+    "description": "All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion). (Demo, Source Code) EPL-2.0 Docker/K8S/Nodejs"
   },
   {
     "name": "Kallithea",

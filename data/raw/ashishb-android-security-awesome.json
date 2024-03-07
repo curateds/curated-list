@@ -177,10 +177,6 @@
     "url": "https://bitbucket.org/srl/droidlegacy"
   },
   {
-    "name": "Smali CFG generator",
-    "url": "https://github.com/EugenioDelfa/Smali-CFGs"
-  },
-  {
     "name": "FlowDroid",
     "url": "https://blogs.uni-paderborn.de/sse/tools/flowdroid/"
   },
@@ -272,6 +268,10 @@
     "description": "Web application for performing Static Analysis and detecting malware in Android APKs."
   },
   {
+    "name": "Smali CFG generator",
+    "url": "https://github.com/EugenioDelfa/Smali-CFGs"
+  },
+  {
     "name": "Several tools from PSU",
     "url": "http://siis.cse.psu.edu/tools.html"
   },
@@ -341,11 +341,6 @@
     "name": "ProbeDroid",
     "url": "https://github.com/ZSShen/ProbeDroid",
     "description": "Dynamic Java code instrumentation"
-  },
-  {
-    "name": "Android Tamer",
-    "url": "https://androidtamer.com/",
-    "description": "Virtual / Live Platform for Android Security Professionals"
   },
   {
     "name": "DECAF",
@@ -440,6 +435,16 @@
     "name": "Android_application_analyzer",
     "url": "https://github.com/NotSoSecure/android_application_analyzer",
     "description": "The tool is used to analyze the content of the Android application in local storage."
+  },
+  {
+    "name": "Decompiler.com",
+    "url": "https://www.decompiler.com/",
+    "description": "Online APK and Java decompiler"
+  },
+  {
+    "name": "Android Tamer",
+    "url": "https://androidtamer.com/",
+    "description": "Virtual / Live Platform for Android Security Professionals"
   },
   {
     "name": "Android Malware Analysis Toolkit",
@@ -614,6 +619,11 @@
     "description": "a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices"
   },
   {
+    "name": "Dexmod",
+    "url": "https://github.com/google/dexmod",
+    "description": "tool to exemplify patching Dalvik bytecode in a DEX (Dalvik Executable) file, and assist in the static analysis of Android applications."
+  },
+  {
     "name": "Procyon",
     "url": "https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler",
     "description": "Java decompiler"
@@ -629,11 +639,6 @@
   {
     "name": "Dare",
     "url": "http://siis.cse.psu.edu/dare/index.html"
-  },
-  {
-    "name": "Decompiler.com",
-    "url": "https://www.decompiler.com/",
-    "description": "Online APK and Java decompiler"
   },
   {
     "name": "Radamsa Fuzzer",

@@ -3485,9 +3485,9 @@
     "description": "Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope."
   },
   {
-    "name": "anuvyklack/hydra.nvim",
-    "url": "https://github.com/anuvyklack/hydra.nvim",
-    "description": "Create custom submodes and menus. Port of Emacs Hydra."
+    "name": "nvimtools/hydra.nvim",
+    "url": "https://github.com/nvimtools/hydra.nvim",
+    "description": "Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim."
   },
   {
     "name": "anuvyklack/keymap-amend.nvim",

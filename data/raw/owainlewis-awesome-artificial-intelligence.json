@@ -1,5 +1,15 @@
 [
   {
+    "name": "Introduction to Artificial Intelligence (AI)",
+    "url": "https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4",
+    "description": "A high-level introduction to AI from IBM on Coursera"
+  },
+  {
+    "name": "Introduction to Generative AI",
+    "url": "https://www.coursera.org/learn/introduction-to-generative-ai",
+    "description": "A beginner-level introduction to Generative AI from Google on Coursera"
+  },
+  {
     "name": "CS50’s Intro to Artificial Intelligence",
     "url": "https://cs50.harvard.edu/ai/2020",
     "description": "This course explores the concepts and algorithms at the foundation of modern artificial intelligence"
@@ -7,12 +17,12 @@
   {
     "name": "MIT: Intro to Deep Learning",
     "url": "https://introtodeeplearning.com",
-    "description": "A seven day bootcamp designed in MIT to introduce deep learning methods and applications"
+    "description": "A seven-day bootcamp designed in MIT to introduce deep learning methods and applications"
   },
   {
     "name": "Deep Blueberry: Deep Learning book",
     "url": "https://mithi.github.io/deep-blueberry",
-    "description": "A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more"
+    "description": "A free five-weekend plan for self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more"
   },
   {
     "name": "Spinning Up in Deep Reinforcement Learning",
@@ -42,7 +52,7 @@
   {
     "name": "Artificial Intelligence For Robotics",
     "url": "https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics",
-    "description": "This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics"
+    "description": "This class will teach you basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics"
   },
   {
     "name": "Machine Learning",
@@ -52,12 +62,12 @@
   {
     "name": "Deep Learning",
     "url": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187",
-    "description": "An Introductory course to the world of Deep Learning using TensorFlow."
+    "description": "An Introductory course to Deep Learning using TensorFlow."
   },
   {
     "name": "Stanford Statistical Learning",
     "url": "http://online.stanford.edu/course/statistical-learning-winter-2014",
-    "description": "Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines."
+    "description": "Introductory course on machine learning focusing on linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines."
   },
   {
     "name": "Knowledge Based Artificial Intelligence",

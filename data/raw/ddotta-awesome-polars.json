@@ -116,6 +116,11 @@
     "description": "Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by @bnm3k."
   },
   {
+    "name": "Polars for Identifiers and Standard Format Strings",
+    "url": "https://github.com/abstractqqq/polars_istr",
+    "description": "Python package forProcessing IBAN, ISINs, URLs and other standard format data in Polars by @abstractqqq."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."
@@ -580,6 +585,11 @@
     "name": "DuckDB vs Polars - Thunderdome.",
     "url": "https://dataengineeringcentral.substack.com/p/duckdb-vs-polars-thunderdome",
     "description": "Thunderdome. - A blog post that compares Polars and DuckDB with the use of 16 GB of data on a machine of only 4 GB by @danielbeach."
+  },
+  {
+    "name": "How moving from Pandas to Polars made me write better code without writing better code",
+    "url": "https://dev.to/check/how-moving-from-pandas-to-polars-made-me-write-better-code-without-writing-better-code-52bl",
+    "description": "A post that describs the process of \"Polarification\" of code written with Pandas by @duvenagep."
   },
   {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
