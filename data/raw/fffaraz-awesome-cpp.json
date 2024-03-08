@@ -4558,6 +4558,11 @@
     "description": "This Qt lib is based off of the C++ VerbalExpressions library. [MIT]"
   },
   {
+    "name": "RaipdFuzz",
+    "url": "https://github.com/rapidfuzz/rapidfuzz-cpp",
+    "description": "Rapid fuzzy string matching in C++ using the Levenshtein Distance. [MIT] website"
+  },
+  {
     "name": "Remote Call Framework",
     "url": "http://www.deltavsoft.com/",
     "description": "Inter-process communication framework for C++. [GPL2/Proprietary]"

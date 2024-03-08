@@ -129,6 +129,11 @@
     "description": "Joy Of Code"
   },
   {
+    "name": "Setup Authentication with AuthJS and Sveltekit 2.0",
+    "url": "https://www.youtube.com/watch?v=ridRgYSJ0ds",
+    "description": "@bradcypert (YouTube)"
+  },
+  {
     "name": "SvelteScaling",
     "url": "https://svelte-scaling.acmion.com/",
     "description": "Does Svelte Scale?"
@@ -209,6 +214,11 @@
     "description": "The Svelte store contract with support for asynchronous values."
   },
   {
+    "name": "exome",
+    "url": "https://github.com/Marcisbee/exome",
+    "description": "Simple proxy based state manager for deeply nested states."
+  },
+  {
     "name": "AgnosticUI",
     "url": "https://github.com/agnosticui/agnosticui",
     "description": "Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular)."
@@ -274,9 +284,19 @@
     "description": "YeSvelte is flexible Svelte UI component library built on top of Bootstrap css."
   },
   {
+    "name": "Skeleton",
+    "url": "https://www.skeleton.dev/docs/get-started",
+    "description": "Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces."
+  },
+  {
     "name": "STDF",
     "url": "https://stdf.design",
     "description": "Mobile web component library based on Svelte and Tailwind."
+  },
+  {
+    "name": "M3 Svelte",
+    "url": "https://github.com/KTibow/m3-svelte",
+    "description": "Robust component library implementing Material Design 3"
   },
   {
     "name": "svelte-simple-datatables",

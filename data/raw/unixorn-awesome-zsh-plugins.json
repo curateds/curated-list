@@ -546,6 +546,11 @@
     "description": "Plugin for skipping the node part of the ace command."
   },
   {
+    "name": "ai-commands",
+    "url": "https://github.com/muePatrick/zsh-ai-commands",
+    "description": "Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action."
+  },
+  {
     "name": "airpods-battery",
     "url": "https://github.com/A-delta/zsh-airpods-battery/",
     "description": "Looks for AirPods via Bluetooth and puts their battery charge state into $RPROMPT."
@@ -5901,7 +5906,7 @@
   },
   {
     "name": "acenoster",
-    "url": "https://github.com/HiDe-Techno-Tips/Acenoster-ZSH-Theme",
+    "url": "https://github.com/himdek/Acenoster-ZSH-Theme",
     "description": "A multi-purpose theme with very detailed git and mercurial support. Also includes decorators for AWS profile name, virtual environment name if any, number of background tasks, current directory and previous command's exit code if non-zero."
   },
   {
@@ -6908,11 +6913,6 @@
     "name": "delta-prompt",
     "url": "https://github.com/cusxio/delta-prompt",
     "description": "A minimal ZSH prompt."
-  },
-  {
-    "name": "destiny",
-    "url": "https://github.com/ja1dan/Destiny",
-    "description": "A simple, configurable ZSH prompt with no dependencies. Destiny has been tested on Linux, macOS and iOS."
   },
   {
     "name": "devj121",

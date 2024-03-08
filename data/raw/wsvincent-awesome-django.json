@@ -195,6 +195,11 @@
     "description": "Django application to simplify migration management and changes in states of db scheme."
   },
   {
+    "name": "django-typer",
+    "url": "https://github.com/bckohan/django-typer",
+    "description": "Write Django management commands using the Typer CLI library."
+  },
+  {
     "name": "confidential",
     "url": "https://github.com/candidco/confidential",
     "description": "Manage configs and secrets (with CLI support)."

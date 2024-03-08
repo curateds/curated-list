@@ -530,6 +530,14 @@
     "url": "https://try.ocamlpro.com/"
   },
   {
+    "name": "learn-ocaml",
+    "url": "https://github.com/ocaml-sf/learn-ocaml"
+  },
+  {
+    "name": "learn-ocaml.el",
+    "url": "https://github.com/pfitaxel/learn-ocaml.el"
+  },
+  {
     "name": "BetterOCaml",
     "url": "https://betterocaml.ml"
   },
@@ -609,6 +617,11 @@
     "description": "OCaml mode for Emacs that can run the toplevel and the debugger within Emacs."
   },
   {
+    "name": "opam-switch-mode",
+    "url": "https://github.com/ProofGeneral/opam-switch-mode",
+    "description": "Minor mode for Emacs that extends Tuareg and Merlin with menus to change or reset the opam switch in the ambient Emacs session."
+  },
+  {
     "name": "merlin-eldoc",
     "url": "https://github.com/Khady/merlin-eldoc"
   },
@@ -663,6 +676,10 @@
   {
     "name": "99 problems",
     "url": "https://ocaml.org/learn/tutorials/99problems.html"
+  },
+  {
+    "name": "learn-ocaml-corpus",
+    "url": "https://ocaml-sf.org/learn-ocaml-public/#activity=exercises"
   },
   {
     "name": "Rosetta Code",
@@ -946,7 +963,7 @@
   {
     "name": "Ocaml-sklearn",
     "url": "https://github.com/lehy/ocaml-sklearn",
-    "description": "Scientific library with neural networks, algoritmic differentiation and ONNX support."
+    "description": "Scientific library with neural networks, algorithmic differentiation and ONNX support."
   },
   {
     "name": "Ocaml-sklearn",
@@ -955,7 +972,7 @@
   {
     "name": "Owl",
     "url": "https://ocaml.xyz/",
-    "description": "Scientific library with neural networks, algoritmic differentiation and ONNX support."
+    "description": "Scientific library with neural networks, algorithmic differentiation and ONNX support."
   },
   {
     "name": "Object detection convolutional neural network with OCaml (based on Owl)",
@@ -965,6 +982,11 @@
     "name": "PyTorch bindings",
     "url": "https://github.com/LaurentMazare/ocaml-torch",
     "description": "OCaml bindings for PyTorch."
+  },
+  {
+    "name": "Ocaml-NN",
+    "url": "https://github.com/ck090/ocaml-nn/tree/main",
+    "description": "Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml"
   },
   {
     "name": "Deep Learning with OCaml (PyTorch bindings)",
@@ -1133,8 +1155,9 @@
     "description": "charrua-unix is a Unix DHCP daemon based on charrua-core."
   },
   {
-    "name": "Introduction to Functional Programming in OCaml",
-    "url": "https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about"
+    "name": "OCaml MOOC: Introduction to Functional Programming in OCaml",
+    "url": "https://www.fun-mooc.fr/en/courses/introduction-functional-programming-ocaml/",
+    "description": "Videos available in this playlist of the OCaml Software Foundation YouTube channel."
   },
   {
     "name": "Cornell University – Data Structures and Functional Programming",
@@ -1560,9 +1583,19 @@
     "description": "Collision-resistant IDs for server scalability & database performance."
   },
   {
+    "name": "Validate",
+    "url": "https://github.com/Axot017/validate",
+    "description": "PPX deriver designed to streamline the process of validating records."
+  },
+  {
     "name": "Uuidm",
     "url": "https://erratique.ch/software/uuidm",
     "description": "Uuidm is an OCaml module implementing 128-bit universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122."
+  },
+  {
+    "name": "sqids-ocaml",
+    "url": "https://github.com/sqids/sqids-ocaml",
+    "description": "Official OCaml port of Sqids. Generate short unique IDs from numbers."
   },
   {
     "name": "Opium",
