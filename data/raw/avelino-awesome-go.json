@@ -11883,6 +11883,11 @@
     "description": "Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected."
   },
   {
+    "name": "tau",
+    "url": "https://github.com/taubyte/tau",
+    "description": "Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging."
+  },
+  {
     "name": "terraform-provider-openapi",
     "url": "https://github.com/dikhan/terraform-provider-openapi",
     "description": "Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed."
