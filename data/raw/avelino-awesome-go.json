@@ -155,6 +155,11 @@
     "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation"
   },
   {
+    "name": "openfga",
+    "url": "https://github.com/openfga/openfga",
+    "description": "Implementation of fine-grained authorization based on the \"Zanzibar: Google's Consistent, Global Authorization System\" paper. Backed by CNCF."
+  },
+  {
     "name": "osin",
     "url": "https://github.com/openshift/osin",
     "description": "Golang OAuth2 server library."
@@ -11771,6 +11776,11 @@
     "name": "KubeVela",
     "url": "https://github.com/kubevela/kubevela",
     "description": "Cloud native application delivery."
+  },
+  {
+    "name": "kubevpn",
+    "url": "https://github.com/kubenetworks/kubevpn",
+    "description": "VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh."
   },
   {
     "name": "kwatch",

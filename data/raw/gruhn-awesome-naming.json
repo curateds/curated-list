@@ -60,6 +60,11 @@
     "description": "A programming antipattern where in a single change you wildly add code everywhere in your codebase."
   },
   {
+    "name": "Spaghetti Code",
+    "url": "https://en.wikipedia.org/wiki/Spaghetti_code",
+    "description": "A program with a tangled and hard-to-follow stucture."
+  },
+  {
     "name": "fold",
     "url": "https://en.wikipedia.org/wiki/Fold_(higher-order_function)",
     "description": "Like a blanket being folded up, this function iterates a collection and in each step combines the current item with everything that has already been folded."

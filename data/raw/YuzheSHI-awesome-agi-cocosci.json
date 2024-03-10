@@ -1363,6 +1363,11 @@
     "description": "Information and Software Technology, 2022. [All Versions]. A reference model and platform agnostic language for smart contracts."
   },
   {
+    "name": "Scenic: a language for scenario specification and data generation",
+    "url": "https://link.springer.com/article/10.1007/s10994-021-06120-5",
+    "description": "Machine Learning, 2022. [All Versions]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario."
+  },
+  {
     "name": "Infinite Photorealistic Worlds Using Procedural Generation",
     "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Raistrick_Infinite_Photorealistic_Worlds_Using_Procedural_Generation_CVPR_2023_paper.html",
     "description": "CVPR'23, 2023. [All Versions]. [Website]. [Supplementary Text]. This paper introduces Infinigen, a procedural generator of photorealistic 3D scenes of the natural world. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules, using no external source and allowing infinite variation and composition."

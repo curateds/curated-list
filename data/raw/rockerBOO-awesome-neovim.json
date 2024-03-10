@@ -910,6 +910,11 @@
     "description": "Like harpoon, but with key differences like project path, split support, no UI."
   },
   {
+    "name": "fnune/recall.nvim",
+    "url": "https://github.com/fnune/recall.nvim",
+    "description": "Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability."
+  },
+  {
     "name": "kevinhwang91/nvim-hlslens",
     "url": "https://github.com/kevinhwang91/nvim-hlslens",
     "description": "Helps you better glance searched information, seamlessly jump matched instances."
@@ -3425,6 +3430,11 @@
     "description": "Improve default f/t abilities."
   },
   {
+    "name": "Mr-LLLLL/treesitter-outer",
+    "url": "https://github.com/Mr-LLLLL/treesitter-outer",
+    "description": "Jump to outer node with smart."
+  },
+  {
     "name": "mfussenegger/nvim-ts-hint-textobject",
     "url": "https://github.com/mfussenegger/nvim-ts-hint-textobject",
     "description": "Region selection with hints on the AST nodes of a document powered by Treesitter."
@@ -3893,6 +3903,11 @@
     "name": "hiberabyss/bzlops.vim",
     "url": "https://github.com/hiberabyss/bzlops.vim",
     "description": "Help to manage your bazel build rule."
+  },
+  {
+    "name": "altermo/iedit.nvim",
+    "url": "https://github.com/altermo/iedit.nvim",
+    "description": "Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way."
   },
   {
     "name": "numToStr/Comment.nvim",
