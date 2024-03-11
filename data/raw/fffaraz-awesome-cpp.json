@@ -3369,6 +3369,11 @@
     "description": "A lightweight TCP/IP stack. [Modified BSD]"
   },
   {
+    "name": "mailio",
+    "url": "https://github.com/karastojko/mailio",
+    "description": "mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. [BSD]"
+  },
+  {
     "name": "Mongoose",
     "url": "https://github.com/cesanta/mongoose",
     "description": "Extremely lightweight webserver. [GPL2]"

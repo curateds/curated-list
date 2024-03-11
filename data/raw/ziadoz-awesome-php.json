@@ -260,11 +260,6 @@
     "description": "A micro-framework for console applications."
   },
   {
-    "name": "Lumen",
-    "url": "https://lumen.laravel.com/",
-    "description": "A micro-framework by Laravel."
-  },
-  {
     "name": "Mezzio",
     "url": "https://getexpressive.org/",
     "description": "A micro-framework by Laminas."
@@ -873,6 +868,11 @@
     "name": "Roave Security Advisories",
     "url": "https://github.com/Roave/SecurityAdvisories",
     "description": "This package ensures that your application doesn't have installed dependencies with known security vulnerabilities."
+  },
+  {
+    "name": "Secure Headers",
+    "url": "https://github.com/BePsvPT/secure-headers",
+    "description": "A package that adds security related headers to HTTP response."
   },
   {
     "name": "Symfony Security Monitoring",
@@ -1875,6 +1875,11 @@
     "description": "Another library for parsing user agent strings."
   },
   {
+    "name": "Hyphenation",
+    "url": "https://github.com/heiglandreas/Org_Heigl_Hyphenator",
+    "description": "Text-Hyphenation based on the TeX-hyphenation Algorithm"
+  },
+  {
     "name": "Jieba-PHP",
     "url": "https://github.com/fukuball/jieba-php",
     "description": "A PHP port of Python's jieba. Chinese text segmentation for natural language processing."
@@ -2311,6 +2316,11 @@
     "name": "ClassPreloader",
     "url": "https://github.com/ClassPreloader/ClassPreloader",
     "description": "A library for optimizing autoloading."
+  },
+  {
+    "name": "Ganesha",
+    "url": "https://github.com/ackintosh/ganesha",
+    "description": "A PHP implementation of Circuit Breaker pattern."
   },
   {
     "name": "Hprose-PHP",

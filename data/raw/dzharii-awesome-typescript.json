@@ -537,6 +537,11 @@
     "description": "A JSON de/serializer to ensure everything is safe at runtime."
   },
   {
+    "name": "@core/match",
+    "url": "https://github.com/tani/ts-match",
+    "description": "Type-safe destructuring assignment with pattern-match validation"
+  },
+  {
     "name": "io-ts",
     "url": "https://github.com/gcanti/io-ts",
     "description": "Runtime type system for IO decoding/encoding"

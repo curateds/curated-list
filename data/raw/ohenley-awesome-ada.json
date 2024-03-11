@@ -300,6 +300,11 @@
     "description": "A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam."
   },
   {
+    "name": "alr-appimage",
+    "url": "https://github.com/mgrojo/alr-appimage",
+    "description": "A tool for automatically creating an AppImage executable from an Alire crate."
+  },
+  {
     "name": "aura",
     "url": "https://github.com/annexi-strayline/AURA",
     "description": "An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines."

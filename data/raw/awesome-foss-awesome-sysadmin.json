@@ -175,6 +175,11 @@
     "description": "Software configuration management tool which includes its own declarative language to describe system configuration. (Source Code) Apache-2.0 Ruby/C"
   },
   {
+    "name": "Rudder",
+    "url": "https://www.rudder.io/",
+    "description": "Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine. (Source Code) GPL-3.0 Scala"
+  },
+  {
     "name": "Salt",
     "url": "https://docs.saltproject.io/",
     "description": "Event-driven IT automation, remote task execution, and configuration management software. (Source Code) Apache-2.0 Python"
@@ -763,6 +768,11 @@
     "name": "rsyslog",
     "url": "https://www.rsyslog.com/",
     "description": "Rocket-fast system for log processing. (Source Code) GPL-3.0 C"
+  },
+  {
+    "name": "aerc",
+    "url": "https://aerc-mail.org/",
+    "description": "Terminal MUA with a focus on plaintext and features for developers. (Source Code) MIT Go"
   },
   {
     "name": "Claws Mail",

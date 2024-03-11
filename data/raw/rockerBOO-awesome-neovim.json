@@ -2035,6 +2035,11 @@
     "description": "Hyperextensible Statusline / Tabline / Winbar."
   },
   {
+    "name": "Mr-LLLLL/lualine-ext.nvim",
+    "url": "https://github.com/Mr-LLLLL/lualine-ext.nvim",
+    "description": "Show more information on lualine."
+  },
+  {
     "name": "romgrk/barbar.nvim",
     "url": "https://github.com/romgrk/barbar.nvim",
     "description": "The Neovim tabline plugin."
@@ -2738,6 +2743,11 @@
     "name": "theKnightsOfRohan/csvlens.nvim",
     "url": "https://github.com/theKnightsOfRohan/csvlens.nvim",
     "description": "A port of YS-L/csvlens, for easy previewing of tabular data."
+  },
+  {
+    "name": "mcauley-penney/visual-whitespace.nvim",
+    "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
+    "description": "See whitespace characters in Visual selections, like VSCode."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",
