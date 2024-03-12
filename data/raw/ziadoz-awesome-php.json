@@ -265,9 +265,9 @@
     "description": "A micro-framework by Laminas."
   },
   {
-    "name": "Radar",
-    "url": "https://github.com/radarphp/Radar.Adr",
-    "description": "An Action-Domain-Responder implementation for PHP."
+    "name": "Minicli",
+    "url": "https://github.com/minicli/minicli",
+    "description": "Minimalist, dependency-free framework for building CLI-centric PHP applications."
   },
   {
     "name": "Silly",
@@ -940,6 +940,11 @@
     "description": "An automated code review."
   },
   {
+    "name": "Editorconfig-Checker",
+    "url": "https://github.com/editorconfig-checker/editorconfig-checker.php",
+    "description": "A command line utility which verifies that your files implement your .editorconfig rules."
+  },
+  {
     "name": "GrumPHP",
     "url": "https://github.com/phpro/grumphp",
     "description": "A PHP code-quality tool."
@@ -1438,6 +1443,11 @@
     "name": "Payum",
     "url": "https://github.com/payum/payum",
     "description": "A payment abstraction library."
+  },
+  {
+    "name": "Shopsys Framework",
+    "url": "https://github.com/shopsys/shopsys/",
+    "description": "An open source e-commerce platform for in-house development teams."
   },
   {
     "name": "Shopware",

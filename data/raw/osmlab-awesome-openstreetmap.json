@@ -520,6 +520,11 @@
     "description": "Fast and storage-efficient database for OpenStreetMap analysis."
   },
   {
+    "name": "QuackOSM",
+    "url": "https://github.com/kraina-ai/quackosm",
+    "description": "A Python library for downloading, filtering and transforming *.osm.pbf files into GeoParquet files using DuckDB."
+  },
+  {
     "name": "OpenTripPlanner",
     "url": "https://github.com/opentripplanner/OpenTripPlanner",
     "description": "Open source multi-modal trip planner. (Wiki)"

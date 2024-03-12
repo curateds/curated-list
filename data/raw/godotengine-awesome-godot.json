@@ -570,6 +570,11 @@
     "description": "Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x)."
   },
   {
+    "name": "SmartShape2D",
+    "url": "https://github.com/SirRamEsq/SmartShape2D",
+    "description": "A 2D terrain tool (Godot 3.x, 4.x)."
+  },
+  {
     "name": "StoryTeller Engine",
     "url": "https://github.com/HeavenMercy/StoryTeller-Engine",
     "description": "Dialog and interactive fiction engine (Godot 3.x)."
@@ -583,6 +588,11 @@
     "name": "TileSet Builder",
     "url": "https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin",
     "description": "Quickly build tilesets with style (Godot 3.x)."
+  },
+  {
+    "name": "Virtual Joystick",
+    "url": "https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot",
+    "description": "A virtual joystick for touchscreens. Simple to use and with useful options (Godot 3.x, 4.x)."
   },
   {
     "name": "AnimatedShape2D",
@@ -768,11 +778,6 @@
     "name": "Shell Fur",
     "url": "https://github.com/Arnklit/ShellFurGodot",
     "description": "3D fur node for Godot."
-  },
-  {
-    "name": "SmartShape2D",
-    "url": "https://github.com/SirRamEsq/SmartShape2D",
-    "description": "A 2D terrain tool."
   },
   {
     "name": "Tree generator",
@@ -1190,11 +1195,6 @@
     "name": "Godotes",
     "url": "https://godotes.com/",
     "description": "Weekly micro data analysis reports about the Godot engine and its ecosystem."
-  },
-  {
-    "name": "Gotm.io",
-    "url": "https://gotm.io/about",
-    "description": "A website for hosting HTML5 games that were made in Godot."
   },
   {
     "name": "codetranslator",
