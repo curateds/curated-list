@@ -10,6 +10,11 @@
     "description": "This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues."
   },
   {
+    "name": "GoodLooks",
+    "url": "https://github.com/dashcamio/goodlooks",
+    "description": "Visually validate Playwright tests using AI vision instead of flaky selectors."
+  },
+  {
     "name": "Octomind",
     "url": "https://github.com/OctoMind-dev",
     "description": "auto-generated, run and maintained Playwright tests with AI-powered test case discovery."
