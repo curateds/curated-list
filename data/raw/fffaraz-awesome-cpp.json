@@ -1095,6 +1095,11 @@
     "description": "A C++17 header-only dynamic bitset. [MIT]"
   },
   {
+    "name": "fixed-containers",
+    "url": "https://github.com/teslamotors/fixed-containers",
+    "description": "Header-only C++20 library that provides fixed capacity constexpr containers. [MIT]"
+  },
+  {
     "name": "flat_hash_map",
     "url": "https://github.com/skarupke/flat_hash_map",
     "description": "A very fast flat hashtable with Fibonacci hashing."

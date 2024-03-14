@@ -20,6 +20,10 @@
     "url": "https://github.com/apache/arrow-datafusion"
   },
   {
+    "name": "defguard",
+    "url": "https://github.com/defguard/defguard"
+  },
+  {
     "name": "denoland/deno",
     "url": "https://github.com/denoland/deno"
   },
@@ -431,6 +435,10 @@
     "url": "https://github.com/erikgrinaker/toydb"
   },
   {
+    "name": "FnckSQL",
+    "url": "https://github.com/KipData/FnckSQL"
+  },
+  {
     "name": "Garage",
     "url": "https://github.com/deuxfleurs-org/garage"
   },
@@ -607,11 +615,11 @@
   },
   {
     "name": "touchHLE",
-    "url": "https://github.com/hikari-no-yume/touchHLE"
+    "url": "https://github.com/touchHLE/touchHLE"
   },
   {
     "name": "touchHLE",
-    "url": "https://github.com/hikari-no-yume/touchHLE"
+    "url": "https://github.com/touchHLE/touchHLE"
   },
   {
     "name": "clicky",
@@ -1437,6 +1445,14 @@
   {
     "name": "rustic-rs/rustic",
     "url": "https://github.com/rustic-rs/rustic"
+  },
+  {
+    "name": "sorairolake/qrtool",
+    "url": "https://github.com/sorairolake/qrtool"
+  },
+  {
+    "name": "str4d/rage",
+    "url": "https://github.com/str4d/rage"
   },
   {
     "name": "suckit",
@@ -3279,6 +3295,10 @@
   {
     "name": "sfackler/rust-openssl",
     "url": "https://github.com/sfackler/rust-openssl"
+  },
+  {
+    "name": "sorairolake/abcrypt",
+    "url": "https://github.com/sorairolake/abcrypt"
   },
   {
     "name": "sorairolake/scryptenc-rs",
@@ -5792,6 +5812,11 @@
   {
     "name": "Rust Cookbook",
     "url": "https://rust-lang-nursery.github.io/rust-cookbook/"
+  },
+  {
+    "name": "Rust Flashcards",
+    "url": "https://github.com/ad-si/Rust-Flashcards",
+    "description": "Over 550 flashcards to learn Rust from first principles."
   },
   {
     "name": "Rust for professionals",
