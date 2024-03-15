@@ -6445,6 +6445,11 @@
     "description": "Works well with solarized terminal colors. Includes decorators for username@hostname, current directory, git status, return code for last command, and time last command was run."
   },
   {
+    "name": "braundo",
+    "url": "https://github.com/Braundo/braundo-zsh-theme",
+    "description": "Straightforward theme with username, current directory, git status, and timestamp."
+  },
+  {
     "name": "bref",
     "url": "https://github.com/mpostaire/bref-zsh-prompt",
     "description": "A simple prompt. It includes decorators to display git status asynchronously, a notification if the ssh session is remote, the battery level and the number of background jobs."

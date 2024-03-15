@@ -1,5 +1,21 @@
 [
   {
+    "name": "Chat GPT",
+    "url": "https://chat.openai.com/"
+  },
+  {
+    "name": "Gemini",
+    "url": "https://gemini.google.com/"
+  },
+  {
+    "name": "DALL·E 2",
+    "url": "https://openai.com/dall-e-3"
+  },
+  {
+    "name": "Sora",
+    "url": "https://openai.com/sora"
+  },
+  {
     "name": "Introduction to Artificial Intelligence (AI)",
     "url": "https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4",
     "description": "A high-level introduction to AI from IBM on Coursera"
@@ -220,6 +236,11 @@
     "description": "A book for ML developers which introduces the ML concepts & strategies with lots of practical usages."
   },
   {
+    "name": "Machine Learning Observability Course",
+    "url": "https://arize.com/blog-course/",
+    "description": "Self-guided course covers the intuition, math, and best practices for effective machine learning observability."
+  },
+  {
     "name": "Machine Learning for Humans",
     "url": "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12",
     "description": "A series of simple, plain-English explanations accompanied by math, code, and real-world examples."
@@ -232,12 +253,11 @@
   {
     "name": "How Machine Learning Works",
     "url": "https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5",
-    "description": "Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way."
+    "description": "Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threatening way."
   },
   {
     "name": "MachineLearningWithTensorFlow2ed",
-    "url": "https://www.manning.com/books/machine-learning-with-tensorflow-second-edition",
-    "description": "a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1."
+    "url": "https://www.manning.com/books/machine-learning-with-tensorflow-second-edition"
   },
   {
     "name": "Serverless Machine Learning",
@@ -253,6 +273,11 @@
     "name": "Trust in Machine Learning",
     "url": "https://www.manning.com/books/trust-in-machine-learning",
     "description": "a book for experienced data scientists and machine learning engineers on how to make your AI a trustworthy partner. Build machine learning systems that are explainable, robust, transparent, and optimized for fairness."
+  },
+  {
+    "name": "Generative AI in Action",
+    "url": "https://www.manning.com/books/generative-ai-in-action",
+    "description": "A book that shows exactly how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects.."
   },
   {
     "name": "Prolog Programming For Artificial Intelligence",
@@ -275,7 +300,7 @@
   {
     "name": "Super Intelligence",
     "url": "http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G",
-    "description": "Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book."
+    "description": "Superintelligence asks the question: What happens when machines surpass humans in general intelligence?"
   },
   {
     "name": "Our Final Invention: Artificial Intelligence And The End Of The Human Era",
@@ -290,12 +315,12 @@
   {
     "name": "Minds, Brains, And Programs",
     "url": "http://cogprints.org/7150/1/10.1.1.83.5248.pdf",
-    "description": "The 1980 paper by philosopher John Searle that contains the famous 'Chinese Room' thought experiment. Probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and interesting reading for those interested in the intersection of AI and philosophy of mind."
+    "description": "The 1980 paper by philosopher John Searle that contains the famous 'Chinese Room' thought experiment. It is probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and it is an interesting reading for those interested in the intersection of AI and philosophy of mind."
   },
   {
     "name": "Gödel, Escher, Bach: An Eternal Golden Braid",
     "url": "http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567",
-    "description": "Written by Douglas Hofstadter and taglined \"a metaphorical fugue on minds and machines in the spirit of Lewis Carroll\", this wonderful journey into the the fundamental concepts of mathematics,symmetry and intelligence won a Pulitzer Prize for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns."
+    "description": "Written by Douglas Hofstadter and taglined \"a metaphorical fugue on minds and machines in the spirit of Lewis Carroll\", this incredible journey into the fundamental concepts of mathematics, symmetry and intelligence won a Pulitzer Prize for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns."
   },
   {
     "name": "Life 3.0: Being Human in the Age of Artificial Intelligence",
@@ -305,7 +330,7 @@
   {
     "name": "Foundations Of Computational Agents",
     "url": "http://artint.info/html/ArtInt.html",
-    "description": "This book is published by Cambridge University Press, 2010"
+    "description": "This book is published by Cambridge University Press"
   },
   {
     "name": "The Quest For Artificial Intelligence",
@@ -320,7 +345,7 @@
   {
     "name": "Computers and Thought: A practical Introduction to Artificial Intelligence",
     "url": "http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/",
-    "description": "The book covers computer simulation of human activities, such as problem solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science."
+    "description": "The book covers computer simulation of human activities, such as problem-solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science."
   },
   {
     "name": "Society of Mind",
@@ -345,7 +370,7 @@
   {
     "name": "Ethical Artificial Intelligence",
     "url": "http://arxiv.org/abs/1411.1373",
-    "description": "a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence."
+    "description": "a book by Bill Hibbard that combines several peer-reviewed papers and new material to analyze the issues of ethical artificial intelligence."
   },
   {
     "name": "Golden Artificial Intelligence",
@@ -355,7 +380,7 @@
   {
     "name": "R2D3",
     "url": "http://www.r2d3.us/",
-    "description": "A website with explanations on topics from Machine Learning to Statistics. All helped with beautiful animated infographics and real life examples. Available in various languages."
+    "description": "A website with explanations on topics from Machine Learning to Statistics. All helped with beautifully animated infographics and real-life examples. Available in various languages."
   },
   {
     "name": "Modeling Agents with Probabilistic Programs",
@@ -369,7 +394,7 @@
   {
     "name": "AIMACode",
     "url": "https://github.com/aimacode",
-    "description": "Source code for \"Artificial Intelligence: A Modern Approach\" in Common Lisp, Java, Python. More to come."
+    "description": "Source code for \"Artificial Intelligence: A Modern Approach\" in Common Lisp, Java, and Python. More to come."
   },
   {
     "name": "FANN",
@@ -417,7 +442,7 @@
   {
     "name": "Reinforcement Learning in Motion",
     "url": "https://www.manning.com/livevideo/reinforcement-learning-in-motion",
-    "description": "This liveVideo breaks down key concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents."
+    "description": "This live-video breaks down critical concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents."
   },
   {
     "name": "Deep Learning. Methods And Applications",
@@ -468,17 +493,17 @@
   {
     "name": "Professional and In-Depth Machine Learning Video Courses",
     "url": "https://freecoursesite.com/?s=Machine+Learning+Data+Science",
-    "description": "A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses"
+    "description": "A collection of free professional and in-depth Machine Learning and Data Science video tutorials and courses"
   },
   {
     "name": "Professional and In-Depth Artificial Intelligence Video Courses",
     "url": "https://freecoursesite.com/?s=Artificial+Intelligence",
-    "description": "A collection of free professional and in depth Artificial Intelligence video tutorials and courses"
+    "description": "A collection of free professional and in-depth Artificial Intelligence video tutorials and courses"
   },
   {
     "name": "Professional and In-Depth Deep Learning Video Courses",
     "url": "https://freecoursesite.com/?s=Deep+Learning",
-    "description": "A collection of free professional and in depth Deep Learning video tutorials and courses"
+    "description": "A collection of free professional and in-depth Deep Learning video tutorials and courses"
   },
   {
     "name": "Introduction to Machine Learning",
@@ -684,8 +709,8 @@
     "url": "http://theaigames.com"
   },
   {
-    "name": "AI Digest",
-    "url": "https://aidigest.net/"
+    "name": "Superhuman.ai",
+    "url": "https://www.superhuman.ai/"
   },
   {
     "name": "Open Cognition Project",

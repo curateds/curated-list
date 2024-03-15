@@ -315,6 +315,11 @@
     "description": "Quickly pop-up some LSP-powered information of the thing your cursor is on."
   },
   {
+    "name": "zeioth/garbage-day.nvim",
+    "url": "https://github.com/Zeioth/garbage-day.nvim",
+    "description": "Garbage collector that stops inactive LSP clients to free RAM."
+  },
+  {
     "name": "anott03/nvim-lspinstall",
     "url": "https://github.com/anott03/nvim-lspinstall",
     "description": "Easy to install language servers."
@@ -2750,9 +2755,19 @@
     "description": "A port of YS-L/csvlens, for easy previewing of tabular data."
   },
   {
+    "name": "Mr-LLLLL/utilities.nvim",
+    "url": "https://github.com/Mr-LLLLL/utilities.nvim",
+    "description": "A repository to collect some little utility functions."
+  },
+  {
     "name": "mcauley-penney/visual-whitespace.nvim",
     "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
     "description": "See whitespace characters in Visual selections, like VSCode."
+  },
+  {
+    "name": "Zeioth/distroupdate.nvim",
+    "url": "https://github.com/Zeioth/distroupdate.nvim",
+    "description": "Distro agnostic updater to get the latest changes from the git repository of your config."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",

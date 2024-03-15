@@ -1399,6 +1399,11 @@
     "description": "Automatic bindings generator configured using JSON/YAML files"
   },
   {
+    "name": "crafka",
+    "url": "https://github.com/BT-OpenSource/crafka",
+    "description": "Apache Kafka library utilizing librdkafka"
+  },
+  {
     "name": "mosquito",
     "url": "https://github.com/mosquito-cr/mosquito/",
     "description": "Redis backed periodic and ad hoc job processing"

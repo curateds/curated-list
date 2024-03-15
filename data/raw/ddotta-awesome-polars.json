@@ -118,7 +118,12 @@
   {
     "name": "Polars for Identifiers and Standard Format Strings",
     "url": "https://github.com/abstractqqq/polars_istr",
-    "description": "Python package forProcessing IBAN, ISINs, URLs and other standard format data in Polars by @abstractqqq."
+    "description": "Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by @abstractqqq."
+  },
+  {
+    "name": "polars_hash",
+    "url": "https://github.com/ion-elgreco/polars-hash",
+    "description": "Python package that provides stable hashing functionality across different Polars versions by @ion-elgreco."
   },
   {
     "name": "polars for Rust",

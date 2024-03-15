@@ -189,6 +189,11 @@
     "description": "Deep learning library for Chemistry based on Tensorflow"
   },
   {
+    "name": "Chemprop",
+    "url": "https://github.com/chemprop/chemprop",
+    "description": "Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation."
+  },
+  {
     "name": "ChemML",
     "url": "https://github.com/hachmannlab/chemml",
     "description": "ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)"
@@ -277,6 +282,11 @@
     "name": "Rosetta",
     "url": "https://www.rosettacommons.org/docs/latest/Home",
     "description": "A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking."
+  },
+  {
+    "name": "DOCKSTRING",
+    "url": "https://github.com/dockstring/dockstring",
+    "description": "Automates and standardizes ligand preparation for AutoDock Vina."
   },
   {
     "name": "Gromacs",

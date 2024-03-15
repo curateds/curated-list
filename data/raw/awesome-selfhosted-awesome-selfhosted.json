@@ -1255,11 +1255,6 @@
     "description": "Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. (Source Code) MIT PHP"
   },
   {
-    "name": "FlaskBB",
-    "url": "https://flaskbb.org/",
-    "description": "FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools. (Source Code) BSD-3-Clause Python"
-  },
-  {
     "name": "Friendica",
     "url": "https://friendi.ca/",
     "description": "Social Communication Server. (Source Code) AGPL-3.0 PHP"
@@ -5438,11 +5433,6 @@
     "name": "Shlink",
     "url": "https://shlink.io",
     "description": "URL shortener with REST API and command line interface. Includes official progressive web application and docker images. (Source Code, Clients) MIT PHP/Docker"
-  },
-  {
-    "name": "Short{Paste}",
-    "url": "https://github.com/adyanth/shortpaste",
-    "description": "A Go based URL shortener, pastebin and file uploader. MIT Docker"
   },
   {
     "name": "Simple-URL-Shortener",
