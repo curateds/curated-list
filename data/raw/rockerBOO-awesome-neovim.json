@@ -472,7 +472,7 @@
   {
     "name": "olimorris/codecompanion.nvim",
     "url": "https://github.com/olimorris/codecompanion.nvim",
-    "description": "Use the power of generative AI. Use it to chat, author and advise you on your code. Supports Anthropic, Ollama and OpenAI."
+    "description": "Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI."
   },
   {
     "name": "Julian/lean.nvim",
@@ -3063,6 +3063,11 @@
     "name": "Zeioth/compiler.nvim",
     "url": "https://github.com/Zeioth/compiler.nvim",
     "description": "Compiler for building and running your code without having to configure anything."
+  },
+  {
+    "name": "Zeioth/makeit.nvim",
+    "url": "https://github.com/Zeioth/makeit.nvim",
+    "description": "Makefile runner based on overseer."
   },
   {
     "name": "jaytyrrell13/static.nvim",

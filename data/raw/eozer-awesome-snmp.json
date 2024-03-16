@@ -150,9 +150,19 @@
     "url": "https://github.com/lextudio/pysmi"
   },
   {
+    "name": "gufo_snmp",
+    "url": "https://github.com/gufolabs/gufo_snmp",
+    "description": "The accelerated Python SNMP client library supporting both async and synchronous mode. It consists of a clean Python API for high-efficient BER parser and socket IO, implemented in the Rust language with PyO3 wrapper. Seems to be a bit early in the project's lifecycle, but it is easy to use and extremely fast, especially when querying many devices."
+  },
+  {
     "name": "net-snmp Python bindings",
     "url": "http://www.net-snmp.org/wiki/index.php/Python_Bindings",
     "description": "Net-SNMP 5.4 and later contains Python bindings in the \"python\" sub-directory, though, they are not built by default."
+  },
+  {
+    "name": "easysnmp",
+    "url": "https://github.com/easysnmp/easysnmp",
+    "description": "A fork of net-snmp Python bindings that attempts to bring a more Pythonic interface to the library."
   },
   {
     "name": "puresnmp",

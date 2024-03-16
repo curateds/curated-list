@@ -3594,7 +3594,7 @@
   },
   {
     "name": "Combining Functional and Automata Synthesis to Discover Causal Reactive Programs",
-    "url": "https://dl.acm.org/doi/pdf/10.1145/3571249",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3571249",
     "description": "POPL'23, 2023. [All Versions]. A new algorithm that synthesizes functional reactive programs from observation data, which iterates between a functional synthesis step, which attempts to generate a transition function over observed states, and an automata synthesis step, which adds any additional latent state necessary to fully account for the observations."
   },
   {

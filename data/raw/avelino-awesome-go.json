@@ -9172,6 +9172,11 @@
     "description": "Go client for the Internet Game Database API."
   },
   {
+    "name": "ip2location-io-go",
+    "url": "https://github.com/ip2location/ip2location-io-go",
+    "description": "Go wrapper for the IP2Location.io API IP2Location.io."
+  },
+  {
     "name": "jokeapi-go",
     "url": "https://github.com/icelain/jokeapi",
     "description": "Go client for JokeAPI."
@@ -9425,6 +9430,11 @@
     "name": "command",
     "url": "https://github.com/txgruppi/command",
     "description": "Command pattern for Go with thread safe serial and parallel dispatcher."
+  },
+  {
+    "name": "config-file-validator",
+    "url": "https://github.com/Boeing/config-file-validator",
+    "description": "Cross Platform tool to validate configuration files."
   },
   {
     "name": "contextplus",

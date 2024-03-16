@@ -101,7 +101,7 @@
   {
     "name": "TinyAuth plugin",
     "url": "https://github.com/dereuromark/cakephp-tinyauth",
-    "description": "Authentication and role based (single/multi) authorization as very light-weight approach."
+    "description": "Authentication and role-based (single/multi) authorization as very light-weight approach."
   },
   {
     "name": "Tools:Passwordable",
@@ -119,12 +119,12 @@
     "description": "For caching views (HTML, CSV, JSON, XML, ...) as static cache files."
   },
   {
-    "name": "CakeDC/CachedRouting",
+    "name": "CakeDC/CachedRouting plugin",
     "url": "https://github.com/CakeDC/cakephp-cached-routing",
     "description": "Provides a cached version of the RoutingMiddleware to improve the load time of routes."
   },
   {
-    "name": "CakeDC/PHPStan",
+    "name": "cakedc/cakephp-phpstan",
     "url": "https://github.com/CakeDC/cakephp-phpstan",
     "description": "A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer."
   },
@@ -137,6 +137,11 @@
     "name": "IdeHelperExtra plugin",
     "url": "https://github.com/dereuromark/cakephp-ide-helper-extra",
     "description": "Useful IdeHelper addons for other plugins or custom use cases."
+  },
+  {
+    "name": "lordsimal/cakephp-psalm",
+    "url": "https://github.com/LordSimal/cakephp-psalm",
+    "description": "A Psalm extension to resolve CakePHP magic around getter return types for the static analyzer."
   },
   {
     "name": "TestHelper plugin",
