@@ -257,5 +257,25 @@
     "name": "TransformerCPI",
     "url": "https://github.com/lifanchen-simm/transformerCPI",
     "description": "A library for Compound Protein Interaction prediction using Transformer."
+  },
+  {
+    "name": "Evolutionary Scale Modeling",
+    "url": "https://github.com/facebookresearch/esm",
+    "description": "a library for protein embeddings."
+  },
+  {
+    "name": "ChemBERTa-2",
+    "url": "https://github.com/seyonechithrananda/bert-loves-chemistry",
+    "description": "a library for chemical embeddingg and prediction."
+  },
+  {
+    "name": "AI4Chem/ChemLLM-7B-Chat",
+    "url": "https://huggingface.co/AI4Chem/ChemLLM-7B-Chat",
+    "description": "LLM for chemical and molecule science"
+  },
+  {
+    "name": "BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "description": "LLM for Biomedical text generation"
   }
 ]

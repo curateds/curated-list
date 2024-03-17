@@ -552,7 +552,7 @@
   },
   {
     "name": "airpods-battery",
-    "url": "https://github.com/A-delta/zsh-airpods-battery/",
+    "url": "https://github.com/louis-thevenet/zsh-airpods-battery/",
     "description": "Looks for AirPods via Bluetooth and puts their battery charge state into $RPROMPT."
   },
   {
@@ -7179,9 +7179,14 @@
     "description": "Fork of Bureau with tweaks to the node and git decorators."
   },
   {
-    "name": "fish",
+    "name": "fish (raniconduh)",
     "url": "https://github.com/Raniconduh/zshfish",
     "description": "ZSH theme reminiscent of the default fish shell theme. Includes git status decorations."
+  },
+  {
+    "name": "fish (sbfkcel)",
+    "url": "https://github.com/sbfkcel/oh-my-zsh-theme",
+    "description": "Minimalist theme with decorators for git status, current directory and username."
   },
   {
     "name": "fishy-lite",
@@ -9594,6 +9599,11 @@
     "description": "A soft & minimalistic prompt for those who love space and want to have a bit of it on their terminal, featuring cool emojis & highly customizable prompt elements (such as icons, colors, time format, and more)."
   },
   {
+    "name": "savior",
+    "url": "https://github.com/Savecoders/Savior-zsh-theme",
+    "description": "Minimalist theme with decorators for current directory, exit status of last command run and git status."
+  },
+  {
     "name": "schminitz-v2",
     "url": "https://github.com/mashdots/schminitz-v2",
     "description": "Shows decorators for git status, user@host information, the exit status of last command, and whether running as root."
@@ -9892,6 +9902,11 @@
     "name": "sm",
     "url": "https://github.com/blyndusk/sm-theme",
     "description": "A Simplist & Minimalist theme for your favorite terminal. Includes git status decorations."
+  },
+  {
+    "name": "smail",
+    "url": "https://github.com/nimacpp/themes-zsh",
+    "description": "Includes decorators for git status, current directory and exit status of last command run."
   },
   {
     "name": "small-terminal-diy",

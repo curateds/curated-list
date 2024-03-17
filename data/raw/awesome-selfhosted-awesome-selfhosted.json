@@ -3300,11 +3300,6 @@
     "description": "Self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. (Demo, Source Code) MIT Nodejs"
   },
   {
-    "name": "cmyflix",
-    "url": "https://github.com/farfalleflickan/cmyflix",
-    "description": "Self-hosted, super lightweight Netflix alternative. AGPL-3.0 C"
-  },
-  {
     "name": "CyTube",
     "url": "https://github.com/calzoneman/sync",
     "description": "CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. (Demo) MIT Nodejs"
@@ -4673,11 +4668,6 @@
     "name": "CasaOS",
     "url": "https://www.casaos.io/",
     "description": "A simple, easy-to-use, elegant open-source Home Cloud system. (Source Code) Apache-2.0 Go/Docker"
-  },
-  {
-    "name": "Cloudbox",
-    "url": "https://cloudbox.works",
-    "description": "Ansible-based solution for rapidly deploying a Docker containerized cloud media server. (Source Code) GPL-3.0 Shell/Ansible"
   },
   {
     "name": "DietPi",
