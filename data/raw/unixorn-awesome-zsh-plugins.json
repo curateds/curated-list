@@ -4071,14 +4071,14 @@
     "description": "Add the current Telepresence connection status and context to your ZSH prompt."
   },
   {
-    "name": "terminal-app",
-    "url": "https://github.com/the8/terminal-app.zsh",
-    "description": "A plugin for integrating with the new macOS El Capitan Terminal.app features."
-  },
-  {
     "name": "terminal-aliases",
     "url": "https://github.com/dvir-levy/terminal-aliases",
     "description": "Adds convenience aliases for [terraform] [git] and more."
+  },
+  {
+    "name": "terminal-app",
+    "url": "https://github.com/the8/terminal-app.zsh",
+    "description": "A plugin for integrating with the new macOS El Capitan Terminal.app features."
   },
   {
     "name": "terminal-title",
@@ -6330,6 +6330,11 @@
     "description": "Agnoster variant with unicode symbols baked in."
   },
   {
+    "name": "bigshrimp",
+    "url": "https://github.com/taksyon/BigShrimp-zsh-theme",
+    "description": "A clear and concise theme that includes decorators for username@host, current directory and git status."
+  },
+  {
     "name": "bigyls",
     "url": "https://github.com/Bigyls/Bigyls-zsh-theme",
     "description": "Based on lpha3cho. Includes decorators for date, time, IP address, git status, plugins and current directory."
@@ -7274,14 +7279,14 @@
     "description": "Colorful theme, works better on a dark background."
   },
   {
-    "name": "gaia",
-    "url": "https://github.com/gcaracuel/gaia.zsh-theme",
-    "description": "Originally a fork of Bureau adds new virtual environments info to the prompt: Kubernetes, virtualenv, rbenv and Java versions. Includes git status integration."
-  },
-  {
     "name": "gabriel2m",
     "url": "https://github.com/gabriel2m/gabriel2m-oh-my-zsh-theme",
     "description": "Minimalist theme with decorators for the current directory and git status."
+  },
+  {
+    "name": "gaia",
+    "url": "https://github.com/gcaracuel/gaia.zsh-theme",
+    "description": "Originally a fork of Bureau adds new virtual environments info to the prompt: Kubernetes, virtualenv, rbenv and Java versions. Includes git status integration."
   },
   {
     "name": "gal",
@@ -7337,11 +7342,6 @@
     "name": "ghoti",
     "url": "https://github.com/lonr/ghoti",
     "description": "Mimics the fish-shell default prompt. Includes git decorations."
-  },
-  {
-    "name": "glider",
-    "url": "https://github.com/MrRedacted/zsh-glider",
-    "description": "Based on strug. Includes decorators for git status, username, hostname and current directory."
   },
   {
     "name": "gianu-alternative",
@@ -7442,6 +7442,11 @@
     "name": "gk3000",
     "url": "https://github.com/gk3000/gk3000-oh-my-zsh-theme",
     "description": "Includes git status decorations and full path to current directory."
+  },
+  {
+    "name": "glider",
+    "url": "https://github.com/MrRedacted/zsh-glider",
+    "description": "Based on strug. Includes decorators for git status, username, hostname and current directory."
   },
   {
     "name": "glimmer",

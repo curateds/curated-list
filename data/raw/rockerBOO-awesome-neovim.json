@@ -1032,7 +1032,7 @@
   {
     "name": "linrongbin16/fzfx.nvim",
     "url": "https://github.com/linrongbin16/fzfx.nvim",
-    "description": "FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke."
+    "description": "A fuzzy finder that updates on every keystroke."
   },
   {
     "name": "echasnovski/mini.nvim#mini.pick",
@@ -3323,6 +3323,11 @@
     "name": "2KAbhishek/co-author.nvim",
     "url": "https://github.com/2KAbhishek/co-author.nvim",
     "description": "Quickly add co-authors to commits."
+  },
+  {
+    "name": "isak102/telescope-git-file-history.nvim",
+    "url": "https://github.com/isak102/telescope-git-file-history.nvim",
+    "description": "Open/preview contents of the current file at a specific commit, without using git checkout."
   },
   {
     "name": "pwntester/octo.nvim",

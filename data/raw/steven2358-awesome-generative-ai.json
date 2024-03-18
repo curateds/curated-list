@@ -95,19 +95,24 @@
     "description": "The next generation of Meta's open source large language model. #opensource"
   },
   {
-    "name": "Claude 2",
+    "name": "Claude",
     "url": "https://claude.ai/",
     "description": "Talk to Claude, an AI assistant from Anthropic."
   },
   {
     "name": "Vicuna-13B",
     "url": "https://lmsys.org/blog/2023-03-30-vicuna/",
-    "description": "An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT."
+    "description": "An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #opensource"
   },
   {
     "name": "Mixtral 8x7B",
     "url": "https://mistral.ai/news/mixtral-of-experts/",
-    "description": "A high-quality sparse mixture of experts model with open weights."
+    "description": "A high-quality sparse mixture of experts model with open weights. #opensource"
+  },
+  {
+    "name": "Grok",
+    "url": "https://grok.x.ai/",
+    "description": "An LLM by xAI with open source and open weights. #opensource"
   },
   {
     "name": "ChatGPT",

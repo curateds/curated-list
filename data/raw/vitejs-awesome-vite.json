@@ -809,6 +809,11 @@
     "description": "A library template for with React, Javascript,Styled-Components, Vitest, React Testing Library, Storybook."
   },
   {
+    "name": "ReTail",
+    "url": "https://github.com/nikolailehbrink/retail",
+    "description": "Starter template for building Full Stack WEB applications with Remix using TypeScript, Tailwind CSS, Prettier and ESLint."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -962,6 +967,11 @@
     "name": "vite-vanjs-ts",
     "url": "https://github.com/yahia-berashish/vite-vanjs-ts",
     "description": "VanJS and VanX with TypeScript."
+  },
+  {
+    "name": "github-action-template",
+    "url": "https://github.com/hywax/github-action-template",
+    "description": "Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits."
   },
   {
     "name": "P5.js Starter Template",
@@ -1827,6 +1837,16 @@
     "name": "css-media-splitter/vite-plugin",
     "url": "https://github.com/levchak0910/css-media-splitter",
     "description": "Extracts all @media At-rules into a dedicated .css files and download it only when matches the media query."
+  },
+  {
+    "name": "@tomjs/vite-plugin-html",
+    "url": "https://github.com/tomjs/vite-plugin-html",
+    "description": "Support compression, loading, CDN and others for index.html."
+  },
+  {
+    "name": "@tomjs/vite-plugin-iconify",
+    "url": "https://github.com/tomjs/vite-plugin-iconify",
+    "description": "Inject the global variable IconifyProviders into index.html for iconify, and support local area network and custom url."
   },
   {
     "name": "vite-tsconfig-paths",
