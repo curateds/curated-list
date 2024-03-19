@@ -905,6 +905,11 @@
     "description": "lakeFS is an open source platform that delivers resilience and manageability to object-storage based data lakes."
   },
   {
+    "name": "Project Nessie",
+    "url": "https://github.com/projectnessie/nessie",
+    "description": "Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables."
+  },
+  {
     "name": "docker-logstash",
     "url": "https://github.com/pblittle/docker-logstash",
     "description": "A highly configurable logstash (1.4.4) - docker image running Elasticsearch (1.7.0) - and Kibana (3.1.2)."
@@ -1043,5 +1048,10 @@
     "name": "Data Engineering Podcast",
     "url": "https://www.dataengineeringpodcast.com/",
     "description": "The show about modern data infrastructure."
+  },
+  {
+    "name": "The Data Stack Show",
+    "url": "https://datastackshow.com/",
+    "description": "A show where they talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data."
   }
 ]

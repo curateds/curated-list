@@ -939,6 +939,11 @@
     "description": "Deploy apps and infrastructure on your cloud in minutes. Autogenerate Terraform modules, customize configurations through PRs. Support for app deployments on Kubernetes and Lambda environments."
   },
   {
+    "name": "asdf",
+    "url": "https://github.com/asdf-community/asdf-hashicorp",
+    "description": "HashiCorp plugin for the asdf version manager"
+  },
+  {
     "name": "astro",
     "url": "https://github.com/uber/astro/",
     "description": "Astro is a tool for managing multiple Terraform executions as a single command. 👻"

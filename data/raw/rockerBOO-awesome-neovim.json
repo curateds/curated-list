@@ -890,6 +890,11 @@
     "description": "A per project, auto updating and editable marks utility for fast file navigation."
   },
   {
+    "name": "abeldekat/harpoonline",
+    "url": "https://github.com/abeldekat/harpoonline",
+    "description": "Create up-to-date harpoon2 information to be used in a status-line."
+  },
+  {
     "name": "otavioschwanck/arrow.nvim",
     "url": "https://github.com/otavioschwanck/arrow.nvim",
     "description": "Like harpoon, but with a different UX, single keybinding needed and statusline support."
@@ -1922,7 +1927,7 @@
   {
     "name": "linrongbin16/colorbox.nvim",
     "url": "https://github.com/linrongbin16/colorbox.nvim",
-    "description": "Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings."
+    "description": "Load all the ultra colorschemes into your Neovim player!"
   },
   {
     "name": "CWood-sdf/pineapple",
@@ -2033,6 +2038,11 @@
     "name": "rebelot/heirline.nvim",
     "url": "https://github.com/rebelot/heirline.nvim",
     "description": "Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile."
+  },
+  {
+    "name": "zeioth/heirline-components.nvim",
+    "url": "https://github.com/zeioth/heirline-components.nvim",
+    "description": "30+ Heirline.nvim components you can use out of the box to create your perfect user interface."
   },
   {
     "name": "yaocccc/nvim-lines.lua",
@@ -2930,6 +2940,11 @@
     "description": "Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring."
   },
   {
+    "name": "Willem-J-an/visidata.nvim",
+    "url": "https://github.com/Willem-J-an/visidata.nvim",
+    "description": "Render pandas dataframes in nvim-dap using the power of visidata."
+  },
+  {
     "name": "kevinhwang91/nvim-bqf",
     "url": "https://github.com/kevinhwang91/nvim-bqf",
     "description": "The goal of nvim-bqf is to make Neovim's quickfix window better."
@@ -3272,7 +3287,7 @@
   {
     "name": "linrongbin16/gitlinker.nvim",
     "url": "https://github.com/linrongbin16/gitlinker.nvim",
-    "description": "Maintained fork of \"ruifm's gitlinker\", refactored with bug fixes, alias-host, /blame url support and other enhancements."
+    "description": "Maintained fork of \"ruifm's gitlinker\", refactored with bug fixes, ssh aliases, blame support and other improvements."
   },
   {
     "name": "tanvirtin/vgit.nvim",
