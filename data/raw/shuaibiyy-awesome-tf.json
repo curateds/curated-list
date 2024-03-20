@@ -724,6 +724,11 @@
     "description": "Manage Checkly resources for API & E2E monitoring."
   },
   {
+    "name": "terraform-provider-coder",
+    "url": "https://github.com/coder/terraform-provider-coder",
+    "description": "Provider for Coder"
+  },
+  {
     "name": "terraform-provider-confluent",
     "url": "https://github.com/confluentinc/terraform-provider-confluent",
     "description": "Provider for Confluent."

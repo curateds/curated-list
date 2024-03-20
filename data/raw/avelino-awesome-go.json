@@ -12486,11 +12486,6 @@
     "description": "An introductory book for Go beginners."
   },
   {
-    "name": "Go Faster",
-    "url": "https://leanpub.com/gofaster",
-    "description": "This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster."
-  },
-  {
     "name": "Go in Practice, Second Edition",
     "url": "https://www.manning.com/books/go-in-practice-second-edition",
     "description": "Your practical guide on the ins-and-outs of Go development, covering the standard library and the most important tools from Go’s powerful ecosystem."
@@ -12554,6 +12549,11 @@
     "name": "Go AST Book (Chinese)",
     "url": "https://github.com/chai2010/go-ast-book",
     "description": "A book focusing on Go go/* packages."
+  },
+  {
+    "name": "Go Faster",
+    "url": "https://leanpub.com/gofaster",
+    "description": "This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster."
   },
   {
     "name": "Go Succinctly",

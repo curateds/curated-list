@@ -814,6 +814,11 @@
     "description": "Starter template for building Full Stack WEB applications with Remix using TypeScript, Tailwind CSS, Prettier and ESLint."
   },
   {
+    "name": "vite-react-redux-saga-typescript",
+    "url": "https://github.com/Dulajdeshan/vite-react-redux-saga-typescript",
+    "description": "Starter template with React, TypeScript, Redux (Redux Toolkit), Saga, React Testing Library, ESLint, Prettier and Husky."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -1594,6 +1599,11 @@
     "description": "Efficient image compression tool."
   },
   {
+    "name": "vite-plugin-robots",
+    "url": "https://github.com/kolirt/vite-plugin-robots",
+    "description": "Generating robots.txt."
+  },
+  {
     "name": "vite-plugin-html",
     "url": "https://github.com/anncwb/vite-plugin-html",
     "description": "Plugin to minimize and use ejs template syntax in index.html."
@@ -2144,6 +2154,11 @@
     "description": "Detect duplicate packaged dependencies."
   },
   {
+    "name": "vite-plugin-vitepress-auto-nav",
+    "url": "https://github.com/Xaviw/vite-plugin-vitepress-auto-nav",
+    "description": "Automatically generates sidebar and nav configurations by scanning directories, based on VitePress."
+  },
+  {
     "name": "mocha-vite-puppeteer",
     "url": "https://github.com/larsthorup/mocha-vite-puppeteer",
     "description": "Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher."
@@ -2611,6 +2626,11 @@
     "name": "SSRx",
     "url": "https://github.com/marbemac/ssrx",
     "description": "A thin layer on top of Vite to build modern SSR apps with a delightful DX."
+  },
+  {
+    "name": "Vinxi",
+    "url": "https://github.com/nksaraf/vinxi",
+    "description": "The Full Stack JavaScript SDK. Allows adding SSR to a Vite app."
   },
   {
     "name": "vitedge",

@@ -35,7 +35,7 @@
     "description": "A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward."
   },
   {
-    "name": "Gravitee.io API Management (⭐124)",
+    "name": "Gravitee.io API Management (⭐125)",
     "url": "https://github.com/gravitee-io/gravitee-api-management",
     "description": "A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease."
   },
@@ -80,7 +80,7 @@
     "description": "A comprehensive API management solution from Software AG that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments."
   },
   {
-    "name": "WSO2 API Manager (⭐798)",
+    "name": "WSO2 API Manager (⭐799)",
     "url": "https://github.com/wso2/product-apim",
     "description": "A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease."
   },
@@ -95,7 +95,7 @@
     "description": "Create and validate OpenAPI specs with ease using this intuitive graphical user interface."
   },
   {
-    "name": "OpenAPI Diff (⭐733)",
+    "name": "OpenAPI Diff (⭐735)",
     "url": "https://github.com/OpenAPITools/openapi-diff",
     "description": "Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format."
   },
@@ -110,7 +110,7 @@
     "description": "Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator."
   },
   {
-    "name": "Spectral (⭐2.1k)",
+    "name": "Spectral (⭐2.2k)",
     "url": "https://github.com/stoplightio/spectral",
     "description": "Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI."
   },
@@ -120,7 +120,7 @@
     "description": "Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs."
   },
   {
-    "name": "Zally (⭐873)",
+    "name": "Zally (⭐871)",
     "url": "https://github.com/zalando/zally",
     "description": "Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback."
   },
@@ -130,7 +130,7 @@
     "description": "An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing."
   },
   {
-    "name": "OpenAPI Explorer (⭐271)",
+    "name": "OpenAPI Explorer (⭐272)",
     "url": "https://github.com/Rhosys/openapi-explorer",
     "description": "A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs."
   },
@@ -195,7 +195,7 @@
     "description": "A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services."
   },
   {
-    "name": "KrakenD API Gateway (⭐1.6k)",
+    "name": "KrakenD API Gateway (⭐1.7k)",
     "url": "https://github.com/devopsfaith/krakend-ce",
     "description": "An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management."
   },
@@ -235,7 +235,7 @@
     "description": "Command-line tool for transferring data with URLs over various protocols."
   },
   {
-    "name": "curlie (⭐2.5k)",
+    "name": "curlie (⭐2.6k)",
     "url": "https://github.com/rs/curlie",
     "description": "Frontend to curl with the ease of use of httpie without compromising on performance and features."
   },
@@ -275,7 +275,7 @@
     "description": "Universal JMS client designed to interact with a wide range of JMS-based message brokers."
   },
   {
-    "name": "kcat (⭐5.1k)",
+    "name": "kcat (⭐5.2k)",
     "url": "https://github.com/edenhill/kcat",
     "description": "Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka."
   },
@@ -515,12 +515,12 @@
     "description": "An ESB that supports zero-copy proxying for extreme performance utilizing Direct Memory Access and Non-Blocking IO."
   },
   {
-    "name": "WSO2 Enterprise Integrator (⭐361)",
+    "name": "WSO2 Enterprise Integrator (⭐362)",
     "url": "https://github.com/wso2/product-ei",
     "description": "An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers."
   },
   {
-    "name": "Apache NiFi (⭐4.2k)",
+    "name": "Apache NiFi (⭐4.3k)",
     "url": "https://github.com/apache/nifi",
     "description": "An automated data integration platform that efficiently moves data between disparate systems."
   },
@@ -585,7 +585,7 @@
     "description": "An open-source programming language that simplifies the creation, usage, and combination of network services."
   },
   {
-    "name": "Frank!Framework (⭐98)",
+    "name": "Frank!Framework (⭐107)",
     "url": "https://github.com/frankframework/frankframework",
     "description": "A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations."
   },
@@ -845,7 +845,7 @@
     "description": "A fast and reliable distributed messaging platform designed for high volume and low latency messaging scenarios. Offers efficient message storage and retrieval and supports various messaging patterns."
   },
   {
-    "name": "Apache Qpid (⭐57)",
+    "name": "Apache Qpid (⭐56)",
     "url": "https://github.com/apache/qpid-broker-j",
     "description": "A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery."
   },
@@ -895,7 +895,7 @@
     "description": "An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability."
   },
   {
-    "name": "Redpanda (⭐8.5k)",
+    "name": "Redpanda (⭐8.6k)",
     "url": "https://github.com/vectorizedio/redpanda",
     "description": "A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics."
   },
@@ -985,7 +985,7 @@
     "description": "A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications."
   },
   {
-    "name": "Camunda (⭐3.8k)",
+    "name": "Camunda (⭐3.9k)",
     "url": "https://github.com/camunda/camunda-bpm-platform",
     "description": "An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way."
   },
@@ -1015,7 +1015,7 @@
     "description": "A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications."
   },
   {
-    "name": "Temporal (⭐9.4k)",
+    "name": "Temporal (⭐9.5k)",
     "url": "https://github.com/temporalio/temporal",
     "description": "An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable."
   },
@@ -2195,7 +2195,7 @@
     "description": "A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs."
   },
   {
-    "name": "OpenAPI (ex.Swagger) (⭐27k)",
+    "name": "OpenAPI (ex.Swagger) (⭐28k)",
     "url": "https://github.com/OAI/OpenAPI-Specification",
     "description": "A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation."
   },
@@ -2620,7 +2620,7 @@
     "description": "A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages."
   },
   {
-    "name": "NDJSON (⭐622)",
+    "name": "NDJSON (⭐624)",
     "url": "https://github.com/ndjson/ndjson-spec",
     "description": "A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing."
   },
@@ -2635,7 +2635,7 @@
     "description": "A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages."
   },
   {
-    "name": "YAML (⭐302)",
+    "name": "YAML (⭐304)",
     "url": "https://github.com/yaml/yaml-spec",
     "description": "A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages."
   },
@@ -2762,7 +2762,7 @@
     "description": "A lightweight and efficient publish-subscribe protocol that supports messaging between devices. MQTT enables low-overhead communication and is ideal for IoT and mobile applications."
   },
   {
-    "name": "OpenMessaging (⭐285)",
+    "name": "OpenMessaging (⭐286)",
     "url": "https://github.com/openmessaging/specification",
     "description": "A cloud native, vendor-neutral open specification for distributed messaging."
   },

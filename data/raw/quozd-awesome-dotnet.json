@@ -239,7 +239,13 @@
   },
   {
     "name": "Mpt-Instruct-DotNet-S",
-    "url": "https://github.com/NethermindEth/Mpt-Instruct-DotNet-S"
+    "url": "https://github.com/NethermindEth/Mpt-Instruct-DotNet-S",
+    "description": "LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)"
+  },
+  {
+    "name": "LLamaSharp",
+    "url": "https://github.com/SciSharp/LLamaSharp",
+    "description": "C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp."
   },
   {
     "name": "Fody",
@@ -803,6 +809,16 @@
     "name": "Amplifier.NET",
     "url": "https://github.com/tech-quantum/Amplifier.NET",
     "description": "Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code."
+  },
+  {
+    "name": "IKVM",
+    "url": "https://ikvm.org",
+    "description": "A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core."
+  },
+  {
+    "name": "Lib.Harmony",
+    "url": "https://github.com/pardeike/Harmony",
+    "description": "Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding."
   },
   {
     "name": "SharpCompress",
@@ -3939,6 +3955,11 @@
     "description": "A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys."
   },
   {
+    "name": "OctaneEngine",
+    "url": "https://github.com/gregyjames/OctaneDownloader",
+    "description": "A high preformance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling."
+  },
+  {
     "name": "Lean",
     "url": "https://github.com/QuantConnect/Lean",
     "description": "Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/"
@@ -4179,6 +4200,11 @@
     "description": "An easy service hosting framework for building Windows services using .NET"
   },
   {
+    "name": "DeftSharp.Windows.Input",
+    "url": "https://github.com/Empiree/DeftSharp.Windows.Input",
+    "description": "A simple keyboard/mouse event handler for Windows UI applications (WPF, MAUI, Avalonia)"
+  },
+  {
     "name": "Data Grid Extensions",
     "url": "https://github.com/tom-englert/DataGridExtensions",
     "description": "Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more..."
@@ -4217,6 +4243,11 @@
     "name": "CSLY",
     "url": "https://github.com/b3b00/CSLY",
     "description": "A light embedded C# lexer/parser generator."
+  },
+  {
+    "name": "Parakeet",
+    "url": "https://github.com/ara3d/parakeet",
+    "description": "A recursive descent parsing library with operator overloading for C#."
   },
   {
     "name": "M31.FluentAPI",

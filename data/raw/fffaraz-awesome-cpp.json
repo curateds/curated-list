@@ -935,6 +935,11 @@
     "description": "Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. [Apache-2.0] website"
   },
   {
+    "name": "libfork",
+    "url": "https://github.com/ConorWilliams/libfork",
+    "description": "A bleeding-edge, lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines. [MPL-2.0] website"
+  },
+  {
     "name": "libmill",
     "url": "https://github.com/sustrik/libmill/",
     "description": "Introduces Go-style concurrency in C. [MIT]"
