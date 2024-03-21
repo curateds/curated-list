@@ -615,6 +615,11 @@
     "description": "Add vscode-style TailwindCSS completion to nvim-cmp."
   },
   {
+    "name": "luckasRanarison/tailwind-tools.nvim",
+    "url": "https://github.com/luckasRanarison/tailwind-tools.nvim",
+    "description": "Unofficial TailwindCSS tooling."
+  },
+  {
     "name": "ellisonleao/glow.nvim",
     "url": "https://github.com/ellisonleao/glow.nvim",
     "description": "Markdown preview using glow."
@@ -1643,6 +1648,11 @@
     "name": "rebelot/kanagawa.nvim",
     "url": "https://github.com/rebelot/kanagawa.nvim",
     "description": "Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai."
+  },
+  {
+    "name": "kevinm6/kurayami.nvim",
+    "url": "https://github.com/kevinm6/kurayami.nvim",
+    "description": "Dark (only) theme."
   },
   {
     "name": "tiagovla/tokyodark.nvim",

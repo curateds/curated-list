@@ -340,11 +340,6 @@
     "description": "StackStorm (aka IFTTT for Ops) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. (Source Code) Apache-2.0 Python"
   },
   {
-    "name": "Tube Archivist",
-    "url": "https://www.tubearchivist.com/",
-    "description": "Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos. (Source Code) GPL-3.0 Python/Docker"
-  },
-  {
     "name": "tubesync",
     "url": "https://github.com/meeb/tubesync",
     "description": "Syncs YouTube channels and playlists to a locally hosted media server. AGPL-3.0 Docker/Python"
@@ -2415,6 +2410,11 @@
     "description": "Securely and anonymously share a file of any size. GPL-2.0 Python/deb"
   },
   {
+    "name": "Pairdrop",
+    "url": "https://github.com/schlagmichdoch/pairdrop",
+    "description": "Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). GPL-3.0 Docker"
+  },
+  {
     "name": "PicoShare",
     "url": "https://pico.rocks",
     "description": "A minimalist, easy-to-host service for sharing images and other files. (Demo, Source Code) AGPL-3.0 Go/Docker"
@@ -3365,9 +3365,19 @@
     "description": "Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat. MIT Nodejs/Haxe"
   },
   {
+    "name": "Tube Archivist",
+    "url": "https://tubearchivist.com/",
+    "description": "Organize, search, and enjoy your YouTube collection. Subscribe, download, and track viewed content with metadata indexing and a user-friendly interface. (Source Code, Clients) GPL-3.0 Docker"
+  },
+  {
     "name": "Tube",
     "url": "https://git.mills.io/prologic/tube",
     "description": "Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed. (Demo) MIT Go"
+  },
+  {
+    "name": "Tube Archivist",
+    "url": "https://tubearchivist.com/",
+    "description": "Organize, search, and enjoy your YouTube collection. Subscribe, download, and track viewed content with metadata indexing and a user-friendly interface. (Source Code, Clients) GPL-3.0 Docker"
   },
   {
     "name": "VideoLAN Client (VLC)",

@@ -97,7 +97,7 @@
   },
   {
     "name": "Optimize JMeter for Large Scale Tests",
-    "url": "https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/"
+    "url": "https://blog.octoperf.com/optimize-jmeter-for-large-scale-tests/"
   },
   {
     "name": "Concurrent, High Throughput Performance Testing with JMeter",
@@ -192,6 +192,16 @@
     "name": "fiddler2jmeter",
     "url": "https://github.com/dperfly/fiddler2jmeter",
     "description": "Fiddler or Charles to JMeter script convertor."
+  },
+  {
+    "name": "har-convertor-jmeter-tool",
+    "url": "https://github.com/vdaburon/har-convertor-jmeter-plugin",
+    "description": "Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file."
+  },
+  {
+    "name": "JMeter HAR Importer Plugin",
+    "url": "https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin",
+    "description": "JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter."
   },
   {
     "name": "JMeter Ant Task",
@@ -499,7 +509,7 @@
   },
   {
     "name": "JMeter Result Analysis: The Ultimate Guide",
-    "url": "https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/"
+    "url": "https://blog.octoperf.com/jmeter-result-analysis-the-ultimate-guide/"
   },
   {
     "name": "JtlReporter",
@@ -820,7 +830,7 @@
   },
   {
     "name": "REST API Testing with JMeter. Step by Step Guide",
-    "url": "https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/"
+    "url": "https://blog.octoperf.com/rest-api-testing-with-jmeter-step-by-step-guide/"
   },
   {
     "name": "JMeter Plugins",
@@ -1104,7 +1114,7 @@
   },
   {
     "name": "OctoPerf Blog",
-    "url": "https://octoperf.com/categories/jmeter/",
+    "url": "https://blog.octoperf.com/categories/jmeter/",
     "description": "OctoPerf blog about JMeter and load testing."
   },
   {

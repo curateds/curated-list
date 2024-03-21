@@ -1354,6 +1354,11 @@
     "description": "Easily use web frameworks to develop VSCode Extension's Webview, and support HMR and Debug."
   },
   {
+    "name": "vite-plugin-px-rem-vw",
+    "url": "https://github.com/zscumt123/vite-plugin-px-rem-vw",
+    "description": "Integrate PostCSS plugin pxTorem and pxTovw."
+  },
+  {
     "name": "unplugin-icons",
     "url": "https://github.com/antfu/unplugin-icons",
     "description": "Access thousands of icons as components."

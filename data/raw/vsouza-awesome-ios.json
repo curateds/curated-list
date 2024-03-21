@@ -25,11 +25,6 @@
     "description": "Answers gives you real-time insight into people’s experience in your app."
   },
   {
-    "name": "ARAnalytics",
-    "url": "https://github.com/orta/ARAnalytics",
-    "description": "Analytics abstraction library offering a sane API for tracking events and user data."
-  },
-  {
     "name": "Bugsnag",
     "url": "https://www.bugsnag.com/platforms/ios-crash-reporting",
     "description": "Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data."
@@ -48,11 +43,6 @@
     "name": "Emerge Tools",
     "url": "https://www.emergetools.com",
     "description": "Prevent app size & performance regressions on every pull request, get automated insights on how to improve."
-  },
-  {
-    "name": "Inapptics",
-    "url": "https://inapptics.com",
-    "description": "Helps analyze and visualize user behavior in mobile apps. Provides visual user journeys, heatmaps and crash replays."
   },
   {
     "name": "Instabug",
@@ -110,11 +100,6 @@
     "description": "An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind"
   },
   {
-    "name": "CoreNavigation",
-    "url": "https://github.com/aronbalog/CoreNavigation",
-    "description": "Navigate between view controllers with ease."
-  },
-  {
     "name": "Crossroad",
     "url": "https://github.com/giginet/Crossroad",
     "description": "Crossroad is an URL router focused on handling Custom URL Schemes. Using this, you can route multiple URL schemes and fetch arguments and parameters easily."
@@ -123,21 +108,6 @@
     "name": "DeepLinkKit",
     "url": "https://github.com/button/DeepLinkKit",
     "description": "A splendid route-matching, block-based way to handle your deep links."
-  },
-  {
-    "name": "DZURLRoute",
-    "url": "https://github.com/yishuiliunian/DZURLRoute",
-    "description": "Universal route engine for iOS app, it can handle URLScheme between applications and page route between UIViewController."
-  },
-  {
-    "name": "IKRouter",
-    "url": "https://github.com/IanKeen/IKRouter",
-    "description": "URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks"
-  },
-  {
-    "name": "IntentKit",
-    "url": "https://github.com/intentkit/IntentKit",
-    "description": "An easier way to handle third-party URL schemes in iOS apps."
   },
   {
     "name": "JLRoutes",
@@ -448,11 +418,6 @@
     "name": "MemoryCache",
     "url": "https://github.com/yysskk/MemoryCache",
     "description": "MemoryCache is type-safe memory cache."
-  },
-  {
-    "name": "MGCacheManager",
-    "url": "https://github.com/Mortgy/MGCacheManager",
-    "description": "A delightful iOS Networking Cache Managing Class."
   },
   {
     "name": "PINCache",
