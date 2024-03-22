@@ -300,6 +300,11 @@
     "description": "Plugin repository for Honeycomb, the honeypot framework by Cymmetria."
   },
   {
+    "name": "https://honeydb.io/downloads",
+    "url": "https://honeydb.io/downloads",
+    "description": "Multi-service honeypot that is easy to deploy and configure. Can be configured to send interaction data to to HoneyDB's centralized collectors for access via REST API."
+  },
+  {
     "name": "honeyntp",
     "url": "https://github.com/fygrave/honeyntp",
     "description": "NTP logger/honeypot."

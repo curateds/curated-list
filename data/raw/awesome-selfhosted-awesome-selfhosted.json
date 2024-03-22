@@ -1791,7 +1791,7 @@
   },
   {
     "name": "CloudBeaver",
-    "url": "https://cloudbeaver.io/",
+    "url": "https://dbeaver.com/",
     "description": "Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. (Source Code) Apache-2.0 Docker"
   },
   {
@@ -3413,6 +3413,11 @@
     "name": "Baby Buddy",
     "url": "https://github.com/babybuddy/babybuddy",
     "description": "Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. (Demo) BSD-2-Clause Python"
+  },
+  {
+    "name": "beelzebub",
+    "url": "https://beelzebub-honeypot.com/",
+    "description": "Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. (Demo, Source Code) MIT Docker/K8S/Go"
   },
   {
     "name": "Bracket",

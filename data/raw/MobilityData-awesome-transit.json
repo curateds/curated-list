@@ -1,33 +1,31 @@
 [
   {
-    "name": "GTFS",
-    "url": "https://developers.google.com/transit/gtfs/",
-    "description": "A GTFS feed is a group of text files that contains infrequently changing transit data, like stops, routes, trips, and other schedule data. Transit agencies typically update their GTFS feed every few months."
+    "name": "GTFS.org",
+    "url": "https://gtfs.org"
   },
   {
-    "name": "GTFS Realtime",
-    "url": "https://developers.google.com/transit/gtfs-realtime/",
-    "description": "GTFS Realtime consists of three binary files that contain realtime vehicle positions, realtime arrival information, and service alerts. Transit agencies typically update these files every minute."
+    "name": "Google Transit Developers",
+    "url": "https://developers.google.com/transit/gtfs/"
   },
   {
-    "name": "World Bank - \"Intro. to GTFS\" online course",
-    "url": "https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping",
-    "description": "\"Intro. to GTFS\" online course - A free, online, self-paced course for learning about GTFS and GTFS-realtime."
-  },
-  {
-    "name": "Open Transit Data Toolkit",
-    "url": "http://transitdatatoolkit.com/",
-    "description": "A series of lessons to help people utilize open transit data."
+    "name": "World Bank: Intro. to GTFS",
+    "url": "https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping"
   },
   {
     "name": "MBTA GTFS Onboarding",
-    "url": "https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb",
-    "description": "An interactive tutorial created by MBTA for GTFS static. A stand-alone Docker image is available on GitHub as well as a hosted/no-install version of the Jupyter notebook."
+    "url": "https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb"
   },
   {
-    "name": "German Open Transport Meetup",
-    "url": "https://github.com/transportkollektiv/meetup/wiki",
-    "description": "You can participate in a biweekly meetup of the German-speaking open transport community."
+    "name": "TransitWiki",
+    "url": "http://transitwiki.org"
+  },
+  {
+    "name": "MobilityData Slack chat",
+    "url": "https://share.mobilitydata.org/slack"
+  },
+  {
+    "name": "Transit Developers mailing list",
+    "url": "https://groups.google.com/forum/#!forum/transit-developers"
   },
   {
     "name": "OpenTripPlanner",
@@ -40,19 +38,6 @@
   {
     "name": "OpenTripPlanner Developers mailing list",
     "url": "https://groups.google.com/forum/#!forum/opentripplanner-dev"
-  },
-  {
-    "name": "TransitWiki",
-    "url": "http://transitwiki.org",
-    "description": "A community wiki for transit planners. Like this repo, but better."
-  },
-  {
-    "name": "MobilityData Slack chat",
-    "url": "https://share.mobilitydata.org/slack"
-  },
-  {
-    "name": "Transit Developers mailing list",
-    "url": "https://groups.google.com/forum/#!forum/transit-developers"
   },
   {
     "name": "OneBusAway User mailing list",
@@ -77,7 +62,32 @@
   {
     "name": "Transit Techies NYC",
     "url": "https://transittechies.nyc/",
-    "description": "NYC-based meetup for those interested in this repo. Speaker list includes many contributors to this repo."
+    "description": "NYC-based in-person/online hybrid meetup for those interested in this repo. Speaker list includes many contributors to this repo."
+  },
+  {
+    "name": "German Open Transport Meetup",
+    "url": "https://github.com/transportkollektiv/meetup/wiki",
+    "description": "You can participate in a biweekly online meetup of the German-speaking open transport community."
+  },
+  {
+    "name": "German Open Transport Data Quality Meetup",
+    "url": "https://github.com/transportkollektiv/meetup/wiki",
+    "description": "Bimonthly online meetup of the German-speaking open transport community dedicated to data quality."
+  },
+  {
+    "name": "The Mobility Database",
+    "url": "https://mobilitydatabase.org/",
+    "description": "JSON and CSV files on GitHub that is a repository of 2000+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com."
+  },
+  {
+    "name": "Transitland",
+    "url": "https://transit.land/",
+    "description": "Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data."
+  },
+  {
+    "name": "TransitData.io",
+    "url": "https://transitdata.io/",
+    "description": "A list of GTFS data in parts of Latin America. Must contact website maintainers directly to access feeds, as they're not publicly available."
   },
   {
     "name": "GTFS Data Exchange (Deprecated)",
@@ -88,21 +98,6 @@
     "name": "OpenMobilityData (Deprecated)",
     "url": "https://openmobilitydata.org/",
     "description": "List of GTFS and GTFS-RT feeds. Archives and validates the GTFS feeds and allows you to preview both GTFS and GTFS-RT through the browser. Formerly TransitFeeds.com. MobilityData announced it is end-of-life as of early 2022 with a shutdown date to be determined."
-  },
-  {
-    "name": "The Mobility Database",
-    "url": "https://database.mobilitydata.org/",
-    "description": "JSON and CSV files on GitHub that is a repository of 1300+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com."
-  },
-  {
-    "name": "TransitData.io",
-    "url": "https://transitdata.io/",
-    "description": "A list of GTFS data in parts of Latin America. Must contact website maintainers directly to access feeds, as they're not publicly available."
-  },
-  {
-    "name": "Transitland",
-    "url": "https://transit.land/",
-    "description": "Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data."
   },
   {
     "name": "CapMetrics",

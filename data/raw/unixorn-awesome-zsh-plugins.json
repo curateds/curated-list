@@ -238,6 +238,10 @@
     "url": "https://github.com/DuckzCantFly/zsh-dot-plugin"
   },
   {
+    "name": "zsh-mgr",
+    "url": "https://github.com/amt911/zsh-mgr"
+  },
+  {
     "name": "zshPlug",
     "url": "https://github.com/Atlas34/zshPlug"
   },
@@ -894,11 +898,6 @@
     "name": "azure-subscription",
     "url": "https://github.com/dmakeienko/azure-subscription-prompt",
     "description": "Displays information about the Azure current Subscription and tenant."
-  },
-  {
-    "name": "base16",
-    "url": "https://github.com/tinted-theming/base16-shell",
-    "description": "Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as Vim."
   },
   {
     "name": "baseballfunfacts",
@@ -2104,6 +2103,11 @@
     "name": "git-smart-commends-wrapper",
     "url": "https://github.com/jelek21/omz-git-smart-commands",
     "description": "Wraps git-smart-commands to make it compatible with the oh-my-zsh plugins system."
+  },
+  {
+    "name": "git-switch-branch-skim",
+    "url": "https://github.com/okhiroyuki/zsh-git-switch-branch-skim",
+    "description": "Allows you to switch git branches with skim"
   },
   {
     "name": "git-sync",
@@ -3786,6 +3790,10 @@
     "description": "Adds keybindings to do global search and replace on current command line."
   },
   {
+    "name": "select-history-skim",
+    "url": "https://github.com/okhiroyuki/zsh-select-history-skim"
+  },
+  {
     "name": "select-with-lf",
     "url": "https://github.com/chmouel/zsh-select-with-lf",
     "description": "Lets user select files or a directory using lf."
@@ -4169,6 +4177,11 @@
     "name": "timewarrior",
     "url": "https://github.com/svenXY/timewarrior",
     "description": "Adds support for timewarrior, a time-tracking application."
+  },
+  {
+    "name": "tinted-shell",
+    "url": "https://github.com/tinted-theming/tinted-shell",
+    "description": "Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as Vim."
   },
   {
     "name": "tipz",
@@ -6243,6 +6256,11 @@
     "name": "backbone",
     "url": "https://github.com/lmllrjr/backbone-zsh-prompt",
     "description": "A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes git status and current directory decorations."
+  },
+  {
+    "name": "bahman",
+    "url": "https://github.com/bahmanworld/bahman-zsh-theme",
+    "description": "Requires Nerd Font. Has git status decorator."
   },
   {
     "name": "banana",
@@ -8629,11 +8647,6 @@
     "description": "Maxime Garcia's myzsh theme."
   },
   {
-    "name": "mzpt",
-    "url": "https://github.com/linrongbin16/mzpt/",
-    "description": "Minimal prompt inspired by powerlevel10k."
-  },
-  {
     "name": "mzt",
     "url": "https://github.com/honbey/mzt",
     "description": "Sets up LS_COLORS, colorizes diff and includes git status and current working directory decorations."
@@ -10167,6 +10180,11 @@
     "name": "thnikk",
     "url": "https://github.com/thnikk/zsh-theme-thnikk",
     "description": "A minimal version of the spaceship theme."
+  },
+  {
+    "name": "tho",
+    "url": "https://github.com/codingtho/tho-zsh-theme",
+    "description": "Includes decorators for git status & current directory."
   },
   {
     "name": "thygod",

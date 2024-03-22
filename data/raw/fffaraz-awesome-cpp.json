@@ -4468,6 +4468,11 @@
     "description": "Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]"
   },
   {
+    "name": "fast_io",
+    "url": "https://github.com/cppfastio/fast_io",
+    "description": "Significantly faster input/output for C++20. [MIT]"
+  },
+  {
     "name": "fccf",
     "url": "https://github.com/p-ranav/fccf",
     "description": "A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. [MIT]"
