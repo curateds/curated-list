@@ -600,6 +600,11 @@
     "description": "Evolutive Neural Networks framework à la G.Sher written in Elixir. (Docs)."
   },
   {
+    "name": "GenAI",
+    "url": "https://github.com/noizu-labs-ml/genai",
+    "description": "An extensible Generative AI Completion API Wrapper with basic chat completion with tool use support provided for Gemini, Anthropic, OpenAI, and Mistral models."
+  },
+  {
     "name": "m2cgen",
     "url": "https://github.com/BayesWitnesses/m2cgen",
     "description": "A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies."
