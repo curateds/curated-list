@@ -1850,6 +1850,11 @@
     "description": "Synthwave '84 colorscheme port."
   },
   {
+    "name": "loganswartz/sunburn.nvim",
+    "url": "https://github.com/loganswartz/sunburn.nvim",
+    "description": "A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -1918,6 +1923,11 @@
     "name": "echasnovski/mini.nvim#mini.hues",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hues.md",
     "description": "Module of mini.nvim to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration."
+  },
+  {
+    "name": "loganswartz/polychrome.nvim",
+    "url": "https://github.com/loganswartz/polychrome.nvim",
+    "description": "A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL."
   },
   {
     "name": "4e554c4c/darkman.nvim",

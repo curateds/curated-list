@@ -435,11 +435,6 @@
     "description": "Simple docker/docker-compose interface."
   },
   {
-    "name": "docker-shell",
-    "url": "https://github.com/Trendyol/docker-shell",
-    "description": "Simple interactive docker interface."
-  },
-  {
     "name": "docker-pushrm",
     "url": "https://github.com/christian-korneck/docker-pushrm",
     "description": "Push a readme to container registries."
@@ -1416,7 +1411,7 @@
   },
   {
     "name": "organize-rt",
-    "url": "https://gitlab.com/FixFromDarkness/organize-rt",
+    "url": "https://gitlab.com/foxido/organize-rt",
     "description": "organize-cli in Rust with more customization."
   },
   {

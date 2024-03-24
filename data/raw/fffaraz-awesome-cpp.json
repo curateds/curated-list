@@ -1097,7 +1097,7 @@
   {
     "name": "dynamic_bitset",
     "url": "https://github.com/pinam45/dynamic_bitset",
-    "description": "A C++17 header-only dynamic bitset. [MIT]"
+    "description": "Simple Useful Libraries: C++17/20 header-only dynamic bitset. [MIT] website"
   },
   {
     "name": "fixed-containers",
@@ -4965,6 +4965,11 @@
     "name": "build2",
     "url": "https://build2.org/",
     "description": "cross-platform build, packaging and dependency management toolchain for developing and packaging C/C++ projects. [MIT]"
+  },
+  {
+    "name": "Ccache",
+    "url": "https://ccache.dev/",
+    "description": "A fast C/C++ compiler cache. [GPLv3]"
   },
   {
     "name": "clib",
