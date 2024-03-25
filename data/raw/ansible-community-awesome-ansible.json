@@ -80,6 +80,11 @@
     "description": "Workshop on multiple topics with different levels of difficulty."
   },
   {
+    "name": "Ansible For DevOps",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "description": "This repository contains Ansible examples developed to support different sections of Ansible for DevOps, a book on Ansible by Jeff Geerling."
+  },
+  {
     "name": "Ansible for DevOps",
     "url": "https://www.ansiblefordevops.com/",
     "description": "This book helps to start using Ansible to provision and manage anywhere from one to thousands of servers. Free sample can be read here."
@@ -258,6 +263,11 @@
     "name": "Monkeyble",
     "url": "https://hewlettpackard.github.io/monkeyble/",
     "description": "A callback plugin that allow to execute end-to-end tests on playbooks with a Pythonic testing and CI/CD approach to detect regressions."
+  },
+  {
+    "name": "antsichaut",
+    "url": "https://github.com/ansible-community/antsichaut",
+    "description": "automate the filling of a changelog.yaml used by antsibull-changelog."
   },
   {
     "name": "Ansible (Real Life) Good Practices",

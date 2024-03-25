@@ -255,6 +255,11 @@
     "description": "Playwright Qase Reporter, send test executions to qase."
   },
   {
+    "name": "echoed",
+    "url": "https://github.com/mrasu/echoed",
+    "description": "Makes tests observable by visualizing OpenTelemetry data in HTML."
+  },
+  {
     "name": "Demo.Playwright",
     "url": "https://github.com/MarcusFelling/Demo.Playwright",
     "description": "Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript."

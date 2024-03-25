@@ -880,6 +880,11 @@
     "description": "Forked from the original oh-my-zsh aws. Includes completions for awscli and a few utilities for managing AWS profiles and displaying them in your prompt."
   },
   {
+    "name": "awsssh",
+    "url": "https://github.com/raisedadead/zsh-awsssh",
+    "description": "List, select and ssh into EC2 instances."
+  },
+  {
     "name": "awsume",
     "url": "https://github.com/Sordie/AWSume",
     "description": "Plugin that enables showing the current awsume profile."
@@ -6733,7 +6738,7 @@
     "description": "Inspired by zeta and pure."
   },
   {
-    "name": "club_house",
+    "name": "club house",
     "url": "https://github.com/skippyr/club_house",
     "description": "Requires a Nerd Font."
   },
@@ -7176,6 +7181,11 @@
     "name": "fattyarrow",
     "url": "https://github.com/sohnryang/fattyarrow",
     "description": "Minimal ZSH prompt that works better on dark backgrounds."
+  },
+  {
+    "name": "fbi",
+    "url": "https://github.com/bateman/fbi-zsh-theme",
+    "description": "Powerline-inspired fork of Bureau with decorators for nvm environment, git status, username@hostname and current directory."
   },
   {
     "name": "fdT2K",
@@ -8745,6 +8755,11 @@
     "name": "ningxia",
     "url": "https://github.com/wangyandong-ningxia/ningxia.zsh-theme",
     "description": "Based on af-magic."
+  },
+  {
+    "name": "ninik",
+    "url": "https://github.com/NimaNikfar/ninik-zsh-theme",
+    "description": "Inspired by agnoster and ubunly. Includes decorators for OS, current directory, python virtualenv and git status. Requires a Nerd Font or Powerline-patched font."
   },
   {
     "name": "niotna",

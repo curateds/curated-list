@@ -4403,11 +4403,6 @@
     "description": "An implementation of a managed signals and slots system. [Boost] website"
   },
   {
-    "name": "CRCpp",
-    "url": "https://github.com/d-bahr/CRCpp",
-    "description": "Easy to use and fast C++ CRC library. [BSD-3-Clause]"
-  },
-  {
     "name": "casacore",
     "url": "https://code.google.com/p/casacore/",
     "description": "A set of c++ core libraries derived from aips++. [LGPL]"
@@ -4431,6 +4426,16 @@
     "name": "CPPItertools",
     "url": "https://github.com/ryanhaining/cppitertools",
     "description": "Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]"
+  },
+  {
+    "name": "cpp-lazy",
+    "url": "https://github.com/MarcDirven/cpp-lazy",
+    "description": "a fast and easy lazy evaluation library for C++11/14/17/20. [MIT]"
+  },
+  {
+    "name": "CRCpp",
+    "url": "https://github.com/d-bahr/CRCpp",
+    "description": "Easy to use and fast C++ CRC library. [BSD-3-Clause]"
   },
   {
     "name": "cxx-prettyprint",
