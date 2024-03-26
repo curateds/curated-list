@@ -2826,6 +2826,11 @@
     "description": "Provides a C-optimized method for transforming a string from any capitalization into underscore-separated"
   },
   {
+    "name": "pluck_in_batches",
+    "url": "https://github.com/fatkodima/pluck_in_batches",
+    "description": "A faster alternative to the custom use of in_batches with pluck."
+  },
+  {
     "name": "yajl-ruby",
     "url": "https://github.com/brianmario/yajl-ruby",
     "description": "A streaming JSON parsing and encoding library for Ruby (C bindings to yajl)."

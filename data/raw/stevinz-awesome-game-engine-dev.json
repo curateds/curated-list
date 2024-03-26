@@ -50,11 +50,6 @@
     "description": "Modern 3D game engine written in C++ and C#."
   },
   {
-    "name": "Frostbite",
-    "url": "https://www.ea.com/frostbite",
-    "description": "Cutting-edge games and experiences by Electronic Arts."
-  },
-  {
     "name": "Gamebryo",
     "url": "http://www.gamebryo.com",
     "description": "Complete toolset, flexible workflow, rapid prototyping."
@@ -63,11 +58,6 @@
     "name": "O3DE",
     "url": "https://github.com/o3de/o3de/",
     "description": "Multi-platform AAA engine. Cinema-quality 3D. Successor to Lumberyard."
-  },
-  {
-    "name": "Snowdrop Engine",
-    "url": "https://www.massive.se/project/snowdrop-engine/",
-    "description": "Enabling small teams to create AAA games, by Massive Entertainment."
   },
   {
     "name": "Unigine",
@@ -171,7 +161,7 @@
   },
   {
     "name": "DopeFish",
-    "url": "https://subpixel-studios.itch.io/dopefish",
+    "url": "https://lemontoast-games.itch.io/dopefish",
     "description": "Doom / Heretic map loading system for GameMaker."
   },
   {
@@ -498,6 +488,26 @@
     "name": "Game Engine Architecture",
     "url": "https://www.gameenginebook.com",
     "description": "Theory and practice of game engine development."
+  },
+  {
+    "name": "Activision Research",
+    "url": "https://research.activision.com/",
+    "description": "Blog posts, articles and presentations from research within Activision."
+  },
+  {
+    "name": "Activision Research",
+    "url": "https://research.activision.com/",
+    "description": "Blog posts, articles and presentations from research within Activision."
+  },
+  {
+    "name": "EA Technology",
+    "url": "https://www.ea.com/technology/research",
+    "description": "Research on game tech including info on the Frostbite engine."
+  },
+  {
+    "name": "Ubisoft Technology",
+    "url": "https://www.ubisoft.com/en-us/company/how-we-make-games/technology",
+    "description": "Learn about in-house tech including the Anvil and Snowdrop engines."
   },
   {
     "name": "Awesome Gamedev",
@@ -2182,7 +2192,7 @@
   {
     "name": "Friflo.Engine.ECS",
     "url": "https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md",
-    "description": "Archetype based ECS with focus 🎯 on performance, cache locality and DX."
+    "description": "Archetype based ECS with focus on performance, cache locality and DX."
   },
   {
     "name": "LeoECS",
@@ -4772,7 +4782,7 @@
   {
     "name": "SHADERed",
     "url": "https://github.com/dfranx/SHADERed",
-    "description": "Shader IDE, written in C++. [Online Editor]"
+    "description": "Shader IDE, written in C++."
   },
   {
     "name": "Shadertoy",
@@ -5350,8 +5360,8 @@
     "description": "3D reconstruction, built with the AliceVision framework. [Source]"
   },
   {
-    "name": "ZBrush Core Mini",
-    "url": "https://zbrushcore.com/mini/index.php",
+    "name": "ZBrush Core",
+    "url": "https://www.maxon.net/en/zbrushcore",
     "description": "Simple and easy to use 3D sculpting tool."
   },
   {
