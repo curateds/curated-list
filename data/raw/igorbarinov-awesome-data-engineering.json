@@ -1035,6 +1035,11 @@
     "description": "A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production."
   },
   {
+    "name": "DQOps",
+    "url": "https://github.com/dqops/dqo",
+    "description": "An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring."
+  },
+  {
     "name": "/r/dataengineering",
     "url": "https://www.reddit.com/r/dataengineering/",
     "description": "News, tips and background on Data Engineering."

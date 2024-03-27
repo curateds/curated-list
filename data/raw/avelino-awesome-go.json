@@ -6687,6 +6687,11 @@
     "description": "The Paho Go Client provides an MQTT client library for connection to MQTT brokers via TCP, TLS or WebSockets."
   },
   {
+    "name": "natiu-mqtt",
+    "url": "https://github.com/soypat/natiu-mqtt",
+    "description": "A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems."
+  },
+  {
     "name": "nbio",
     "url": "https://github.com/lesismal/nbio",
     "description": "Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use."
