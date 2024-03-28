@@ -475,6 +475,11 @@
     "description": "Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI."
   },
   {
+    "name": "simplegpt.nvim",
+    "url": "https://github.com/you-n-g/simplegpt.nvim",
+    "description": "Provide a simple yet flexible way to construct and send questions to ChatGPT."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."

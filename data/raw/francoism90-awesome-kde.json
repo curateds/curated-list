@@ -60,6 +60,11 @@
     "description": "A BitTorrent application which allows you to download files using the BitTorrent protocol 📌."
   },
   {
+    "name": "NeoChat",
+    "url": "https://apps.kde.org/neochat/",
+    "description": "Matrix network client for KDE 📌."
+  },
+  {
     "name": "Otter Browser",
     "url": "https://otter-browser.org/",
     "description": "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5."
@@ -83,6 +88,11 @@
     "name": "Smb4K",
     "url": "https://apps.kde.org/en/smb4k",
     "description": "Advanced Network Neighborhood Browser and Samba Share Mounting Utility 📌."
+  },
+  {
+    "name": "Tokodon",
+    "url": "https://apps.kde.org/pt-br/tokodon/",
+    "description": "Tokodon is a Mastodon client. It allows you to interact with the Fediverse community 📌."
   },
   {
     "name": "digiKam",
@@ -163,6 +173,11 @@
     "name": "Calligra",
     "url": "https://www.calligra.org/",
     "description": "Includes efficient and capable office components 📌."
+  },
+  {
+    "name": "GhostWriter",
+    "url": "https://ghostwriter.kde.org/",
+    "description": "No distraction markdown editor 📌."
   },
   {
     "name": "Kate",
@@ -279,6 +294,11 @@
     "description": "Wayland compositor and X11 window manager."
   },
   {
+    "name": "QOwnNotes",
+    "url": "https://www.qownnotes.org/",
+    "description": "Note taking app with cloud integration, web and mobile support."
+  },
+  {
     "name": "QtPass",
     "url": "https://qtpass.org/",
     "description": "A multi-platform GUI for pass."
@@ -292,6 +312,11 @@
     "name": "Yin-Yang",
     "url": "https://github.com/daehruoydeef/Yin-Yang",
     "description": "Auto Night-mode for Linux."
+  },
+  {
+    "name": "Kate",
+    "url": "https://kate-editor.org/",
+    "description": "Kate is a Feature-Packed Code Editor with advanced support for LSP, Syntax Highlighting, multi-cursoe and more 📌."
   },
   {
     "name": "KDevelop",
@@ -331,7 +356,7 @@
   {
     "name": "Bismuth",
     "url": "https://github.com/Bismuth-Forge/bismuth",
-    "description": "A KDE Plasma extension that lets you tile windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMondad)."
+    "description": "A KDE Plasma extension that lets you tile windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMondad). (NOTE for KDE Plasma 6, check Polonium listed below)"
   },
   {
     "name": "Dynamic Wallpaper Engine",
@@ -357,6 +382,11 @@
     "name": "Places Widget",
     "url": "https://github.com/dfaust/plasma-applet-places-widget",
     "description": "Plasma 5 widget that gives access to user places."
+  },
+  {
+    "name": "Polonium",
+    "url": "https://zeroxoneafour.github.io/polonium/",
+    "description": "The successor of Bismuth for KDE Plasma 6."
   },
   {
     "name": "Window AppMenu Applet",
