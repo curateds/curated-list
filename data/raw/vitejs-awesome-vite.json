@@ -305,8 +305,8 @@
   },
   {
     "name": "vue3-vant-mobile",
-    "url": "https://github.com/CharleeWa/vue3-vant-mobile",
-    "description": "Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template."
+    "url": "https://github.com/easy-temps/vue3-vant-mobile",
+    "description": "Vite5 + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template."
   },
   {
     "name": "vue3-powerbuild",
@@ -442,6 +442,11 @@
     "name": "materio-free-vuetify-nuxtjs-admin-template",
     "url": "https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free",
     "description": "Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3."
+  },
+  {
+    "name": "vite-plugin-vue-style-bundler",
+    "url": "https://github.com/zhangfisher/vite-plugin-vue-style-bundler",
+    "description": "Auto bundle Vue/sfc styles into JavaScript."
   },
   {
     "name": "vite-vue2-windicss-starter",
@@ -1695,7 +1700,7 @@
   },
   {
     "name": "@import-meta-env/unplugin",
-    "url": "https://github.com/iendeavor/import-meta-env",
+    "url": "https://github.com/runtime-env/import-meta-env",
     "description": "Inject environment variables into the import.meta.env object after building the application instead of statically replacing it during production."
   },
   {

@@ -131,6 +131,11 @@
     "description": "Python package that provides technical indicator operators rewritten in Polars by @wukan1986."
   },
   {
+    "name": "QuickEcharts",
+    "url": "https://github.com/AdrianAntico/QuickEcharts",
+    "description": "Python package for fast and easy echarts with Polars backend by @AdrianAntico."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."

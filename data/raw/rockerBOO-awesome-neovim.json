@@ -2805,6 +2805,11 @@
     "description": "Distro agnostic updater to get the latest changes from the git repository of your config."
   },
   {
+    "name": "SUSTech-data/neopyter",
+    "url": "https://github.com/SUSTech-data/neopyter",
+    "description": "The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab."
+  },
+  {
     "name": "LoricAndre/OneTerm.nvim",
     "url": "https://github.com/LoricAndre/OneTerm.nvim",
     "description": "Plugin framework for running commands in the terminal."

@@ -50,6 +50,11 @@
     "description": "A fairly simple 3d-printed AxiDraw-style plotter with good video documentation."
   },
   {
+    "name": "PlotterXY",
+    "url": "https://github.com/jamescarruthers/PlotterXY",
+    "description": "A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board."
+  },
+  {
     "name": "grblShield",
     "url": "https://github.com/synthetos/grblShield",
     "description": "All the stepper motor control hardware needed to turn an Arduino into a G-code-based motion controller using the grbl firmware. (adafruit)"
