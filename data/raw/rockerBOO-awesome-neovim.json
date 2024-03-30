@@ -30,11 +30,6 @@
     "description": "A plugin installation system designed to complement folke/lazy.nvim."
   },
   {
-    "name": "abeldekat/lazyflex.nvim",
-    "url": "https://github.com/abeldekat/lazyflex.nvim",
-    "description": "An addon for folke/lazy.nvim. Facilitates the testing and troubleshooting of a Neovim configuration."
-  },
-  {
     "name": "nvim-neorocks/rocks.nvim",
     "url": "https://github.com/nvim-neorocks/rocks.nvim",
     "description": "A modern approach to plugin management using Luarocks, inspired by Cargo."
@@ -1158,6 +1153,11 @@
     "name": "echasnovski/mini.nvim#mini.files",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md",
     "description": "Module of mini.nvim providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories."
+  },
+  {
+    "name": "prichrd/netrw.nvim",
+    "url": "https://github.com/prichrd/netrw.nvim",
+    "description": "Add icons and custom keybindings to netrw."
   },
   {
     "name": "pluffie/neoproj",
@@ -2810,6 +2810,11 @@
     "description": "The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab."
   },
   {
+    "name": "terje/simctl.nvim",
+    "url": "https://github.com/terje/simctl.nvim",
+    "description": "Interact with iOS Simulators."
+  },
+  {
     "name": "LoricAndre/OneTerm.nvim",
     "url": "https://github.com/LoricAndre/OneTerm.nvim",
     "description": "Plugin framework for running commands in the terminal."
@@ -3300,6 +3305,11 @@
     "description": "Git integration: signs, hunk actions, blame, etc."
   },
   {
+    "name": "echasnovski/mini.nvim#mini.diff",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md",
+    "description": "Module of mini.nvim to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more."
+  },
+  {
     "name": "NeogitOrg/neogit",
     "url": "https://github.com/NeogitOrg/neogit",
     "description": "A Magit clone that may change some things to fit the Vim philosophy."
@@ -3393,6 +3403,11 @@
     "name": "topaxi/gh-actions.nvim",
     "url": "https://github.com/topaxi/gh-actions.nvim",
     "description": "View and dispatch GitHub Actions workflow runs."
+  },
+  {
+    "name": "rawnly/gist.nvim",
+    "url": "https://github.com/rawnly/gist.nvim",
+    "description": "Create a GitHub Gist from the current file (powered by gh)."
   },
   {
     "name": "smoka7/hop.nvim",
