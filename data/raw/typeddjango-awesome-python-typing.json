@@ -125,19 +125,9 @@
     "description": "Stubs for lxml."
   },
   {
-    "name": "ordered-set-stubs",
-    "url": "https://github.com/rominf/ordered-set-stubs",
-    "description": "Stubs for OrderedSet."
-  },
-  {
     "name": "PyQt5-stubs",
     "url": "https://github.com/stlehmann/PyQt5-stubs",
     "description": "Stubs for PyQt5."
-  },
-  {
-    "name": "pyspark-stubs",
-    "url": "https://github.com/zero323/pyspark-stubs",
-    "description": "Stubs for PySpark."
   },
   {
     "name": "python-phonenumbers-stubs",
@@ -173,11 +163,6 @@
     "name": "typeshed",
     "url": "https://github.com/python/typeshed",
     "description": "Collection of library stubs, with static types."
-  },
-  {
-    "name": "wsgitypes",
-    "url": "https://github.com/shabbyrobe/wsgitypes",
-    "description": "Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance."
   },
   {
     "name": "meiga",
@@ -220,11 +205,6 @@
     "description": "Backport for type hinting generics in standard collections and union types as X | Y."
   },
   {
-    "name": "typed-ast",
-    "url": "https://github.com/python/typed_ast",
-    "description": "Modified fork of CPython's ast module that parses # type: comments."
-  },
-  {
     "name": "typing-extensions",
     "url": "https://github.com/python/typing/tree/master/typing_extensions",
     "description": "Backported and experimental type hints."
@@ -233,11 +213,6 @@
     "name": "typing-utils",
     "url": "https://github.com/bojiang/typing_utils",
     "description": "Backport 3.8+ runtime typing utils(for eg: get_origin) & add issubtype & more."
-  },
-  {
-    "name": "typingplus",
-    "url": "https://github.com/contains-io/typingplus/",
-    "description": "Backport support, dynamic is_instance and cast for abstract types."
   },
   {
     "name": "flake8-annotations-complexity",
@@ -328,11 +303,6 @@
     "name": "mypyc",
     "url": "https://github.com/python/mypy/tree/master/mypyc",
     "description": "Compiles mypy-annotated, statically typed Python modules into CPython C extensions."
-  },
-  {
-    "name": "pep585-upgrade",
-    "url": "https://github.com/snok/pep585-upgrade",
-    "description": "Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585."
   },
   {
     "name": "retype",
@@ -458,11 +428,6 @@
     "name": "emacs-flycheck-mypy",
     "url": "https://github.com/lbolla/emacs-flycheck-mypy",
     "description": "Mypy integration for Emacs."
-  },
-  {
-    "name": "linter-mypy",
-    "url": "https://atom.io/packages/linter-mypy",
-    "description": "Mypy integration for Atom."
   },
   {
     "name": "mypy-playground",

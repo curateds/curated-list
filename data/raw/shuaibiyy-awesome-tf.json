@@ -1367,6 +1367,11 @@
     "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state."
   },
   {
+    "name": "tenv",
+    "url": "https://github.com/tofuutils/tenv",
+    "description": "OpenTofu/Terraform/Terragrunt version manager."
+  },
+  {
     "name": "Terrahaxs",
     "url": "https://www.terrahaxs.com",
     "description": "A GitOps Terraform CI/CD GitHub Application 💲"
@@ -1470,11 +1475,6 @@
     "name": "tfenv",
     "url": "https://github.com/tfutils/tfenv",
     "description": "Terraform version manager inspired by rbenv."
-  },
-  {
-    "name": "tofuenv",
-    "url": "https://github.com/tofuutils/tofuenv",
-    "description": "OpenTofu version manager inspired by tfenv"
   },
   {
     "name": "tfgen",
@@ -1590,6 +1590,11 @@
     "name": "tgf",
     "url": "https://github.com/coveooss/tgf",
     "description": "Terragrunt frontend for executing Terragrunt/Terraform through Docker."
+  },
+  {
+    "name": "tofuenv",
+    "url": "https://github.com/tofuutils/tofuenv",
+    "description": "OpenTofu version manager inspired by tfenv"
   },
   {
     "name": "tpm",

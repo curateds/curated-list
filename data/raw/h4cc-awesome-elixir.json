@@ -5695,6 +5695,11 @@
     "description": "Elixir testing libraries with nested contexts, superior readability, and ease of use."
   },
   {
+    "name": "stream_data",
+    "url": "https://github.com/whatyouhide/stream_data",
+    "description": "A pure-Elixir data generation and property-based testing library."
+  },
+  {
     "name": "test_selector",
     "url": "https://github.com/DefactoSoftware/test_selector",
     "description": "A set of test helpers that make sure you always select the right elements in your Phoenix app."

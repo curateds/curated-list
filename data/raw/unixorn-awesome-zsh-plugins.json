@@ -3085,6 +3085,10 @@
     "description": "Utility powered by fzf for using npm scripts interactively. Requires fzf and jq."
   },
   {
+    "name": "nvim-switcher",
+    "url": "https://github.com/dacarey/zsh-nvim-switcher"
+  },
+  {
     "name": "nvm-auto-use",
     "url": "https://github.com/tomsquest/nvm-auto-use.zsh",
     "description": "Calls nvm use automatically whenever you enter a directory that contains an .nvmrc file with a string telling nvm which node to use."
@@ -6738,9 +6742,9 @@
     "description": "Inspired by zeta and pure."
   },
   {
-    "name": "club house",
-    "url": "https://github.com/skippyr/club_house",
-    "description": "Requires a Nerd Font."
+    "name": "club-house",
+    "url": "https://github.com/skippyr/club-house",
+    "description": "Requires a Nerd Font. Has decorators for username, hostname, python virtual environment, current working directory, git status information and the exit code of the last command run."
   },
   {
     "name": "cmder-wsl",
@@ -6946,6 +6950,11 @@
     "name": "delta-prompt",
     "url": "https://github.com/cusxio/delta-prompt",
     "description": "A minimal ZSH prompt."
+  },
+  {
+    "name": "devil-puppet",
+    "url": "https://github.com/skippyr/devil-puppet",
+    "description": "Theme decorated by a pentagram. Has decorators for username, hostname, python virtual environment, current working directory, git status information and the exit code of the last command run."
   },
   {
     "name": "devj121",
@@ -8052,6 +8061,11 @@
     "description": "Theme with nifty colors on the git info."
   },
   {
+    "name": "ko",
+    "url": "https://github.com/JoshBenn/KoTheme-for-Oh-My-Zsh/",
+    "description": "Includes decorators for git status and current directory."
+  },
+  {
     "name": "korittg",
     "url": "https://github.com/dkorittki/korittg-zsh-theme",
     "description": "Minimalistic but informative. Includes decorations for git status, current directory and the kubectl context and namespace."
@@ -8922,9 +8936,9 @@
     "description": "Otter-themed theme with git status, user@host and current directory decorators."
   },
   {
-    "name": "outer space",
-    "url": "https://github.com/skippyr/outer_space",
-    "description": "Includes decorators for user@hostname, active python virtual environment,current directory and git status."
+    "name": "outer-space",
+    "url": "https://github.com/skippyr/outer-space",
+    "description": "Includes decorators for user@hostname, active python virtual environment, current directory and git status."
   },
   {
     "name": "owczarczak",
@@ -9510,6 +9524,11 @@
     "name": "rkj-logik",
     "url": "https://github.com/logik93/rkj-logik.zsh-theme",
     "description": "Based on omz's rkj. Includes decorators for user@host, current directory, time & date."
+  },
+  {
+    "name": "rkj-with-conda",
+    "url": "https://github.com/cain986/rkj-with-conda-zsh-theme",
+    "description": "Based on omz's rkj and adds conda environment and git status decorators."
   },
   {
     "name": "robbyolivier",

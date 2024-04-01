@@ -325,11 +325,6 @@
     "description": "SickChill is an automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. (Source Code) GPL-3.0 Python/Docker"
   },
   {
-    "name": "SiteInspector",
-    "url": "https://www.getsiteinspector.com/",
-    "description": "Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. (Source Code) AGPL-3.0 Docker"
-  },
-  {
     "name": "Sonarr",
     "url": "https://sonarr.tv/",
     "description": "Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. (Source Code) GPL-3.0 C#/Docker"

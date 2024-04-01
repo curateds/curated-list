@@ -55,6 +55,16 @@
     "description": "A Jax Library for Computer Vision Research and Beyond."
   },
   {
+    "name": "Levanter",
+    "url": "https://github.com/stanford-crfm/levanter",
+    "description": "Legible, Scalable, Reproducible Foundation Models with Named Tensors and JAX."
+  },
+  {
+    "name": "EasyLM",
+    "url": "https://github.com/young-geng/EasyLM",
+    "description": "LLMs made easy: Pre-training, finetuning, evaluating and serving LLMs in JAX/Flax."
+  },
+  {
     "name": "NumPyro",
     "url": "https://github.com/pyro-ppl/numpyro",
     "description": "Probabilistic programming based on the Pyro library."
@@ -913,6 +923,10 @@
     "name": "Jax in Action",
     "url": "https://www.manning.com/books/jax-in-action",
     "description": "A hands-on guide to using JAX for deep learning and other mathematically-intensive applications."
+  },
+  {
+    "name": "JaxLLM (Unofficial) Discord",
+    "url": "https://discord.com/channels/1107832795377713302/1107832795688083561"
   },
   {
     "name": "JAX GitHub Discussions",
