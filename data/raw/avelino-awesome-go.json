@@ -8417,24 +8417,19 @@
     "description": "Mock object for Go http.ResponseWriter."
   },
   {
-    "name": "mockit",
-    "url": "https://github.com/pasdam/mockit",
-    "description": "Allows functions and method easy mocking, without defining new types; it's similar to Mockito for Java."
-  },
-  {
-    "name": "monkey",
-    "url": "https://github.com/awterman/monkey",
-    "description": "One line to mock functions/methods/variables in place without dependency injection or code generation."
-  },
-  {
     "name": "mooncake",
     "url": "https://github.com/GuilhermeCaruso/mooncake",
-    "description": "A simple way to generate mocks for multiple purposes"
+    "description": "A simple way to generate mocks for multiple purposes."
   },
   {
     "name": "timex",
     "url": "https://github.com/cabify/timex",
     "description": "A test-friendly replacement for the native time package."
+  },
+  {
+    "name": "xgo",
+    "url": "https://github.com/xhd2015/xgo",
+    "description": "A general pureposed function mocking library."
   },
   {
     "name": "go-fuzz",

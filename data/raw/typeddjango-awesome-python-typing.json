@@ -175,6 +175,11 @@
     "description": "Rust like Option and Result types."
   },
   {
+    "name": "optype",
+    "url": "https://github.com/jorenham/optype",
+    "description": "Opinionated collections.abc and operators alternative: Flexible single-method protocols and typed operators with predictable names."
+  },
+  {
     "name": "phantom-types",
     "url": "https://github.com/antonagestam/phantom-types",
     "description": "Phantom types."
