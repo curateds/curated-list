@@ -3705,6 +3705,11 @@
     "description": "A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. MIT Go/Docker"
   },
   {
+    "name": "URL-to-PNG",
+    "url": "https://github.com/jasonraimondi/url-to-png",
+    "description": "URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. MIT Nodejs/Docker"
+  },
+  {
     "name": "Watcharr",
     "url": "https://github.com/sbondCo/Watcharr",
     "description": "A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. (Demo) MIT Docker"

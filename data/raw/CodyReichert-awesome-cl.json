@@ -2288,11 +2288,6 @@
     "description": "Programmatically find open ports. MIT."
   },
   {
-    "name": "Postmaster",
-    "url": "https://github.com/eudoxia0/postmaster",
-    "description": "A simple, easy-to-use SMTP/IMAP library. Expat."
-  },
-  {
     "name": "cl-wget",
     "url": "https://github.com/cl-wget/cl-wget",
     "description": "Makes retrieving large files or mirroring entire websites easy. AGPL-3.0."
@@ -2306,6 +2301,11 @@
     "name": "trivial-imap",
     "url": "https://github.com/40ants/trivial-imap",
     "description": "tries to make easy some common cases of working with IMAP servers, like reading emails from the server. A thin wrapper over post-office library (which is a fork of Franz's cl-imap). BSD."
+  },
+  {
+    "name": "Postmaster",
+    "url": "https://github.com/eudoxia0/postmaster",
+    "description": "A simple, easy-to-use SMTP/IMAP library. Expat."
   },
   {
     "name": "cl-smtp",

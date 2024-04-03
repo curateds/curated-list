@@ -2818,16 +2818,6 @@
     "description": "Bioprocess and Biosystems Engineering, 2016. [All Versions]."
   },
   {
-    "name": "Robotic search for optimal cell culture in regenerative medicine",
-    "url": "https://elifesciences.org/articles/77007",
-    "description": "eLife, 2022. [All Versions]."
-  },
-  {
-    "name": "Cell Culture: Implementing robotics and artificial intelligence",
-    "url": "https://elifesciences.org/articles/80609",
-    "description": "eLife, 2022. [All Versions]."
-  },
-  {
     "name": "ChemCrow: Augmenting large-language models with chemistry tools",
     "url": "https://openreview.net/forum?id=wdGIL6lx3l",
     "description": "NeurIPS AI for Science Workshop, 2023. [All Versions]. [Preprint]."
@@ -2908,9 +2898,24 @@
     "description": "Science, 2020. [All Versions]. [Preprint]. This paper presents an automatically executable chemical reaction database of 100 molecules representative of the range of reactions found in contemporary organic synthesis. The chemical reaction codes or χDLs for the reactions have been stored in a database for version control, validation, collaboration, and data mining. Of these syntheses, more than 50 entries from the database have been downloaded and robotically run in seven modular chemputers with yields and purities comparable to those achieved by an expert chemist."
   },
   {
+    "name": "Chemputation and the Standardization of Chemical Informatics",
+    "url": "https://pubs.acs.org/doi/full/10.1021/jacsau.1c00303",
+    "description": "Journal of the American Chemical Society (Au), 2021. [All Versions]. This paper describes a standard hardware (the chemical processing programming architecture --- the ChemPU) to encompass all chemical synthesis, an approach which unifies all chemistry automation strategies, from solid-phase peptide synthesis, to HTE flow chemistry platforms, while at the same time establishing a publication standard so that researchers can exchange chemical code (χDL) to ensure reproducibility and interoperability."
+  },
+  {
     "name": "A mobile robotic chemist",
     "url": "https://www.nature.com/articles/s41586-020-2442-2",
     "description": "Nature, 2020. [All Versions]. [Preprint]. This work uses a mobile robot to search for improved photocatalysts for hydrogen production from water. The robot operated autonomously over eight days, performing 688 experiments within a ten-variable experimental space, driven by a batched Bayesian search algorithm. This autonomous search identified photocatalyst mixtures that were six times more active than the initial formulations, selecting beneficial components and deselecting negative ones."
+  },
+  {
+    "name": "Robotic search for optimal cell culture in regenerative medicine",
+    "url": "https://elifesciences.org/articles/77007",
+    "description": "eLife, 2022. [All Versions]."
+  },
+  {
+    "name": "Cell Culture: Implementing robotics and artificial intelligence",
+    "url": "https://elifesciences.org/articles/80609",
+    "description": "eLife, 2022. [All Versions]."
   },
   {
     "name": "Theory of Mind",
