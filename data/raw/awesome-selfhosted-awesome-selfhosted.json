@@ -1555,6 +1555,16 @@
     "description": "A feature-rich event management system, made @ CERN, the place where the Web was born. (Demo, Source Code) MIT Python"
   },
   {
+    "name": "OpenSlides",
+    "url": "https://openslides.com/",
+    "description": "A web based presentation and assembly system for managing and projecting agenda, motions and elections of an assembly. (Demo, Source Code) MIT Docker"
+  },
+  {
+    "name": "OpenSlides",
+    "url": "https://openslides.com/",
+    "description": "A web based presentation and assembly system for managing and projecting agenda, motions and elections of an assembly. (Demo, Source Code) MIT Docker"
+  },
+  {
     "name": "osem",
     "url": "https://osem.io/",
     "description": "Event management tailored to free Software conferences. (Source Code) MIT Ruby/Docker"
@@ -2067,7 +2077,7 @@
   {
     "name": "Pretix",
     "url": "https://pretix.eu/",
-    "description": "Django based ticket sales platform for events. (Source Code) Apache-2.0 Python"
+    "description": "Django based ticket sales platform for events. (Source Code) Apache-2.0 Python/Docker"
   },
   {
     "name": "s-cart",
@@ -2548,6 +2558,16 @@
     "name": "TagSpaces",
     "url": "https://www.tagspaces.org/",
     "description": "TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud. (Demo, Source Code) AGPL-3.0 Nodejs"
+  },
+  {
+    "name": "Tiny File Manager",
+    "url": "https://tinyfilemanager.github.io",
+    "description": "Web based File Manager in PHP, simple, fast and small file manager with a single file. (Demo, Source Code) GPL-3.0 PHP"
+  },
+  {
+    "name": "Tiny File Manager",
+    "url": "https://tinyfilemanager.github.io",
+    "description": "Web based File Manager in PHP, simple, fast and small file manager with a single file. (Demo, Source Code) GPL-3.0 PHP"
   },
   {
     "name": "0 A.D.",
@@ -3245,6 +3265,11 @@
     "description": "Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. (Source Code) GPL-2.0 C++/deb"
   },
   {
+    "name": "Kyoo",
+    "url": "https://github.com/zoriya/kyoo",
+    "description": "Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval. (Demo) GPL-3.0 Docker"
+  },
+  {
     "name": "LBRY",
     "url": "https://lbry.com/",
     "description": "Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. (Demo, Source Code, Clients) MIT PHP"
@@ -3850,6 +3875,11 @@
     "description": "A budgeting app based on the Bucket Budgeting Principle. MIT Docker/C#"
   },
   {
+    "name": "Receipt Wrangler",
+    "url": "https://receiptwrangler.io",
+    "description": "Easy-to-use receipt manager, powered by AI. Allows users to create receipts effortlessly and quickly, categorize and more. (Demo, Source Code) AGPL-3.0 Docker"
+  },
+  {
     "name": "REI3",
     "url": "https://rei3.de/home_en/",
     "description": "Open source, expandable Business Management Software. Manage tasks, time, assets and much more. (Demo, Source Code) MIT Go"
@@ -4228,6 +4258,11 @@
     "name": "Organizr",
     "url": "https://github.com/causefx/Organizr",
     "description": "Organizr aims to be your one stop shop for your Servers Frontend. GPL-3.0 PHP/Docker"
+  },
+  {
+    "name": "ryot",
+    "url": "https://github.com/ignisda/ryot",
+    "description": "Platform for tracking various facets of your life - media, fitness, etc. (Demo) GPL-3.0 Docker"
   },
   {
     "name": "Starbase 80",
@@ -4803,6 +4838,11 @@
     "name": "Lura",
     "url": "https://luraproject.org/",
     "description": "Open source High-Performance API Gateway. (Source Code) Apache-2.0 Go"
+  },
+  {
+    "name": "Panora",
+    "url": "https://panora.dev",
+    "description": "An API to add an integration catalog to your SaaS product in minutes (alternative to Merge.dev). (Source Code) AGPL-3.0 Nodejs/Docker"
   },
   {
     "name": "Para",

@@ -2903,6 +2903,11 @@
     "description": "Journal of the American Chemical Society (Au), 2021. [All Versions]. This paper describes a standard hardware (the chemical processing programming architecture --- the ChemPU) to encompass all chemical synthesis, an approach which unifies all chemistry automation strategies, from solid-phase peptide synthesis, to HTE flow chemistry platforms, while at the same time establishing a publication standard so that researchers can exchange chemical code (χDL) to ensure reproducibility and interoperability."
   },
   {
+    "name": "An integrated self-optimizing programmable chemical synthesis and reaction engine",
+    "url": "https://www.nature.com/articles/s41467-024-45444-3",
+    "description": "Nature Communications, 2024. [All Versions]. This paper presents a dynamically programmable system capable of making, optimizing, and discovering new molecules which utilizes seven sensors that continuously monitor the reaction. By developing a dynamic programming language, the work demonstrates the 10-fold scale-up of a highly exothermic oxidation reaction, end point detection, as well as detecting critical hardware failures."
+  },
+  {
     "name": "A mobile robotic chemist",
     "url": "https://www.nature.com/articles/s41586-020-2442-2",
     "description": "Nature, 2020. [All Versions]. [Preprint]. This work uses a mobile robot to search for improved photocatalysts for hydrogen production from water. The robot operated autonomously over eight days, performing 688 experiments within a ten-variable experimental space, driven by a batched Bayesian search algorithm. This autonomous search identified photocatalyst mixtures that were six times more active than the initial formulations, selecting beneficial components and deselecting negative ones."

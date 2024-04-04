@@ -195,6 +195,16 @@
     "description": "A Python module for fitting the Log-Periodic Power Law Singularity (LPPLS) model."
   },
   {
+    "name": "talipp",
+    "url": "https://github.com/nardew/talipp",
+    "description": "Incremental technical analysis library for Python."
+  },
+  {
+    "name": "streaming_indicators",
+    "url": "https://github.com/mr-easy/streaming_indicators",
+    "description": "A python library for computing technical analysis indicators on streaming data."
+  },
+  {
     "name": "skfolio",
     "url": "https://github.com/skfolio/skfolio",
     "description": "Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models."
@@ -630,6 +640,11 @@
     "description": "Portfolio and risk analytics in Python. pyfolio fork."
   },
   {
+    "name": "fortitudo.tech",
+    "url": "https://github.com/fortitudo-tech/fortitudo.tech",
+    "description": "Conditional Value-at-Risk (CVaR) portfolio optimization and Entropy Pooling views / stress-testing in Python."
+  },
+  {
     "name": "alphalens",
     "url": "https://github.com/quantopian/alphalens",
     "description": "Performance analysis of predictive alpha factors."
@@ -963,6 +978,11 @@
     "name": "finagg",
     "url": "https://github.com/theOGognf/finagg",
     "description": "finagg is a Python package that provides implementations of popular and free financial APIs, tools for aggregating historical data from those APIs into SQL databases, and tools for transforming aggregated data into features useful for analysis and AI/ML."
+  },
+  {
+    "name": "FinanceDatabase",
+    "url": "https://github.com/JerBouma/FinanceDatabase",
+    "description": "This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets."
   },
   {
     "name": "xlwings",

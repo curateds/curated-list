@@ -120,31 +120,6 @@
     "description": "Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse."
   },
   {
-    "name": "clooney",
-    "url": "https://github.com/GoogleChromeLabs/clooney",
-    "description": "A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor."
-  },
-  {
-    "name": "horcrux",
-    "url": "https://github.com/jesseduffield/horcrux",
-    "description": "Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed."
-  },
-  {
-    "name": "Puppeteer",
-    "url": "https://github.com/puppeteer/puppeteer",
-    "description": "A browser automation library. If the browser is the puppet, this is the puppeteer."
-  },
-  {
-    "name": "Uglify",
-    "url": "https://github.com/mishoo/UglifyJS",
-    "description": "A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller."
-  },
-  {
-    "name": "uppy",
-    "url": "https://github.com/transloadit/uppy",
-    "description": "A dog themed uploader component. The name is a blend of upload and puppy. It even comes with a crash recovery plugin called Golden Retriever."
-  },
-  {
     "name": "Confusion matrix",
     "url": "https://en.wikipedia.org/wiki/Confusion_matrix",
     "description": "A tabular summary of a classifiers \"confusion\", i.e. how often it thought to make correct predictions when it actually didn't."
@@ -265,6 +240,21 @@
     "description": "The fact that in some formal languages any sufficiently long string can be pumped with repetitions of its substring and the result stays in the same formal language."
   },
   {
+    "name": "clooney",
+    "url": "https://github.com/GoogleChromeLabs/clooney",
+    "description": "A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor."
+  },
+  {
+    "name": "horcrux",
+    "url": "https://github.com/jesseduffield/horcrux",
+    "description": "Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed."
+  },
+  {
+    "name": "Puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "A browser automation library. If the browser is the puppet, this is the puppeteer."
+  },
+  {
     "name": "Safari",
     "url": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
     "description": "Web browser developed by Apple."
@@ -273,6 +263,21 @@
     "name": "tldr",
     "url": "https://tldr.sh/",
     "description": "Simplified man pages with practical examples."
+  },
+  {
+    "name": "Uglify",
+    "url": "https://github.com/mishoo/UglifyJS",
+    "description": "A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller."
+  },
+  {
+    "name": "uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "description": "A dog themed uploader component. The name is a blend of upload and puppy. It even comes with a crash recovery plugin called Golden Retriever."
+  },
+  {
+    "name": "Webpack",
+    "url": "https://webpack.js.org/",
+    "description": "A bundler for JavaScript and other web assets with a short and descriptive name that also somewhat rhymes."
   },
   {
     "name": "yarn",
