@@ -1530,6 +1530,11 @@
     "description": "A beautiful stack trace pretty printer for C++. [MIT]"
   },
   {
+    "name": "Bencher",
+    "url": "https://bencher.dev/",
+    "description": "A suite of continuous benchmarking tools designed to catch performance regressions in CI. [MIT]/[Apache2]"
+  },
+  {
     "name": "benchmark",
     "url": "https://github.com/google/benchmark",
     "description": "Google provided small microbenchmark support library. [Apache2]"

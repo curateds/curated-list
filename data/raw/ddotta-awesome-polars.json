@@ -141,6 +141,11 @@
     "description": "Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by @azmyrajab."
   },
   {
+    "name": "polars-finance",
+    "url": "https://github.com/ngriffiths13/polars-finance",
+    "description": "A collection of Python Polars plugins and functions for market data processing by @ngriffiths13."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."

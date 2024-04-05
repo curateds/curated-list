@@ -2815,6 +2815,11 @@
     "description": "Interact with iOS Simulators."
   },
   {
+    "name": "pluffie/md-babel.nvim",
+    "url": "https://codeberg.org/pluffie/md-babel.nvim",
+    "description": "Run code chunks from Markdown files, like org-babel."
+  },
+  {
     "name": "LoricAndre/OneTerm.nvim",
     "url": "https://github.com/LoricAndre/OneTerm.nvim",
     "description": "Plugin framework for running commands in the terminal."
@@ -4008,6 +4013,11 @@
     "name": "altermo/iedit.nvim",
     "url": "https://github.com/altermo/iedit.nvim",
     "description": "Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way."
+  },
+  {
+    "name": "ptdewey/yankbank-nvim",
+    "url": "https://github.com/ptdewey/yankbank-nvim",
+    "description": "Enable streamlined access to recent yanks and deletions in a quick-access popup menu."
   },
   {
     "name": "numToStr/Comment.nvim",

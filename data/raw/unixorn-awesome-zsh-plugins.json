@@ -4710,11 +4710,11 @@
   {
     "name": "zellij (jaeheonji)",
     "url": "https://github.com/jaeheonji/zsh-zellij-plugin",
-    "description": "Provides an environment that uses zellij. Requires tmux."
+    "description": "Provides an environment that uses zellij. Requires tmux. Deprecated by author, now supported natively."
   },
   {
     "name": "zellij (tranzystorek-io)",
-    "url": "https://github.com/tranzystorek-io/zellij-zsh",
+    "url": "https://codeberg.org/tranzystorekk/zellij.zsh",
     "description": "Provides an environment that autostarts zellij as your terminal's multiplexer."
   },
   {
