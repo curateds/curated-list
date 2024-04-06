@@ -1860,6 +1860,11 @@
     "description": "A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else."
   },
   {
+    "name": "ptdewey/darkearth-nvim",
+    "url": "https://github.com/ptdewey/darkearth-nvim",
+    "description": "A dark and earthy colorscheme supporting Tree-sitter and LSP."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -2818,6 +2823,11 @@
     "name": "pluffie/md-babel.nvim",
     "url": "https://codeberg.org/pluffie/md-babel.nvim",
     "description": "Run code chunks from Markdown files, like org-babel."
+  },
+  {
+    "name": "mistricky/codesnap.nvim",
+    "url": "https://github.com/mistricky/codesnap.nvim",
+    "description": "Snapshot plugin with rich features that can make pretty code snapshots."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",

@@ -1153,6 +1153,11 @@
     "description": "A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated Gtfs Data Manager and GTFS Editor.)"
   },
   {
+    "name": "IBI Data Tools Infra",
+    "url": "https://github.com/cal-itp/ibi-datatools-infra",
+    "description": "A tool to quickly setup and run a local instance of the above IBI Data Tools project."
+  },
+  {
     "name": "GTFS.html",
     "url": "https://gtfs.pleasantprogrammer.com",
     "description": "An entirely browser-based tool to view GTFS feeds. Use it to view routes, stops, timetables, etc."

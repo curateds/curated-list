@@ -1,20 +1,5 @@
 [
   {
-    "name": "Capable",
-    "url": "https://github.com/chrs1885/Capable",
-    "description": "Track accessibility features to improve your app for people with certain disabilities."
-  },
-  {
-    "name": "AlexaSkillsKit",
-    "url": "https://github.com/choefele/AlexaSkillsKit",
-    "description": "Swift library to develop custom Alexa Skills."
-  },
-  {
-    "name": "Abbi",
-    "url": "https://github.com/abbiio/iosdk",
-    "description": "A Simple SDK for developers to manage and maximise conversions of all in-app promotions."
-  },
-  {
     "name": "Aptabase",
     "url": "https://aptabase.com/for-swift",
     "description": "Open Source, Privacy-First and Simple Analytics for Swift Apps."
@@ -48,11 +33,6 @@
     "name": "Instabug",
     "url": "https://instabug.com",
     "description": "In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging."
-  },
-  {
-    "name": "Localytics",
-    "url": "https://www.localytics.com/",
-    "description": "Brings app marketing and analytics together."
   },
   {
     "name": "Matomo",
@@ -168,6 +148,46 @@
     "name": "ZIKRouter",
     "url": "https://github.com/Zuikyo/ZIKRouter",
     "description": "An interface-oriented router for discovering modules and injecting dependencies with protocol in OC & Swift, iOS & macOS. Handles route in a type safe way."
+  },
+  {
+    "name": "Apple's Common App Rejections Styleguide",
+    "url": "https://developer.apple.com/app-store/review/#common-app-rejections",
+    "description": "Highlighted some of the most common issues that cause apps to get rejected."
+  },
+  {
+    "name": "Free App Store Optimization Tool",
+    "url": "https://www.mobileaction.co",
+    "description": "Lets you track your App Store visibility in terms of keywords and competitors."
+  },
+  {
+    "name": "App Release Checklist",
+    "url": "https://github.com/oisin/app-release-checklist/blob/master/checklist.md",
+    "description": "A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are."
+  },
+  {
+    "name": "Harpy",
+    "url": "https://github.com/ArtSabintsev/Harpy",
+    "description": "Notify users when a new version of your iOS app is available, and prompt them with the App Store link."
+  },
+  {
+    "name": "appirater",
+    "url": "https://github.com/arashpayan/appirater",
+    "description": "A utility that reminds your iPhone app's users to review the app."
+  },
+  {
+    "name": "Siren",
+    "url": "https://github.com/ArtSabintsev/Siren",
+    "description": "Notify users when a new version of your app is available and prompt them to upgrade."
+  },
+  {
+    "name": "Appstore Review Guidelines",
+    "url": "https://github.com/aashishtamsya/Appstore-Review-Guidelines",
+    "description": "A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review."
+  },
+  {
+    "name": "AppVersion",
+    "url": "https://github.com/amebalabs/AppVersion",
+    "description": "Keep users on the up-to date version of your App."
   },
   {
     "name": "FocusTvButton",
@@ -368,6 +388,62 @@
     "name": "Web3.swift",
     "url": "https://github.com/Boilertalk/Web3.swift",
     "description": "Web3 library for interacting with the Ethereum blockchain."
+  },
+  {
+    "name": "The Swift Programming Language by Apple",
+    "url": "https://books.apple.com/us/book/swift-programming-language/id881256329"
+  },
+  {
+    "name": "iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass",
+    "url": "https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/"
+  },
+  {
+    "name": "Programming in Objective-C by Stephen G. Kochan",
+    "url": "https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607"
+  },
+  {
+    "name": "The Complete Friday Q & A: Volume 1",
+    "url": "https://www.mikeash.com/book.html"
+  },
+  {
+    "name": "Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch",
+    "url": "https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426"
+  },
+  {
+    "name": "Cocoa Design Patterns",
+    "url": "https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022"
+  },
+  {
+    "name": "Hello Swift! by Tanmay Bakshi with Lynn Beighley",
+    "url": "https://www.manning.com/books/hello-swift"
+  },
+  {
+    "name": "iOS Development with Swift by Craig Grummitt",
+    "url": "https://www.manning.com/books/ios-development-with-swift"
+  },
+  {
+    "name": "Anyone Can Create an App by Wendy L. Wise",
+    "url": "https://www.manning.com/books/anyone-can-create-an-app"
+  },
+  {
+    "name": "Advanced Swift by Chris Eidhof, Ole Begemann, and Airspeed Velocity",
+    "url": "https://www.objc.io/books/advanced-swift/"
+  },
+  {
+    "name": "Functional Swift by Chris Eidhof, Florian Kugler, and Wouter Swierstra",
+    "url": "https://www.objc.io/books/functional-swift/"
+  },
+  {
+    "name": "Core Data by Florian Kugler and Daniel Eggert",
+    "url": "https://www.objc.io/books/core-data/"
+  },
+  {
+    "name": "Classic Computer Science Problems in Swift",
+    "url": "https://www.manning.com/books/classic-computer-science-problems-in-swift"
+  },
+  {
+    "name": "Swift in Depth",
+    "url": "https://www.manning.com/books/swift-in-depth"
   },
   {
     "name": "Awesome Cache",
@@ -598,6 +674,21 @@
     "name": "CoreCharts",
     "url": "https://github.com/cagricolak/CoreCharts",
     "description": "CoreCharts is a simple powerful yet Charts library for apple products."
+  },
+  {
+    "name": "dyci",
+    "url": "https://github.com/DyCI/dyci-main",
+    "description": "Code injection tool."
+  },
+  {
+    "name": "injectionforxcode",
+    "url": "https://github.com/johnno1962/injectionforxcode",
+    "description": "Code injection including Swift."
+  },
+  {
+    "name": "Vaccine",
+    "url": "https://github.com/zenangst/Vaccine",
+    "description": "Vaccine is a framework that aims to make your apps immune to recompile-decease."
   },
   {
     "name": "Bootstrap",
@@ -1737,6 +1828,244 @@
     "name": "Scyther",
     "url": "https://github.com/bstillitano/Scyther",
     "description": "A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more."
+  },
+  {
+    "name": "Swinject",
+    "url": "https://github.com/Swinject/Swinject",
+    "description": "Dependency injection framework for Swift."
+  },
+  {
+    "name": "Reliant",
+    "url": "https://github.com/appfoundry/Reliant",
+    "description": "Nonintrusive Objective-C dependency injection."
+  },
+  {
+    "name": "Kraken",
+    "url": "https://github.com/sabirvirtuoso/Kraken",
+    "description": "A Dependency Injection Container for Swift with easy-to-use syntax."
+  },
+  {
+    "name": "Cleanse",
+    "url": "https://github.com/square/Cleanse",
+    "description": "Lightweight Swift Dependency Injection Framework by Square."
+  },
+  {
+    "name": "Typhoon",
+    "url": "https://github.com/appsquickly/Typhoon",
+    "description": "Powerful dependency injection for Objective-C."
+  },
+  {
+    "name": "Pilgrim",
+    "url": "https://github.com/appsquickly/pilgrim",
+    "description": "Powerful dependency injection Swift (successor to Typhoon)."
+  },
+  {
+    "name": "Perform",
+    "url": "https://github.com/thoughtbot/Perform",
+    "description": "Easy dependency injection for storyboard segues."
+  },
+  {
+    "name": "Alchemic",
+    "url": "https://github.com/drekka/Alchemic",
+    "description": "Advanced, yet simple to use DI framework for Objective-C."
+  },
+  {
+    "name": "Guise",
+    "url": "https://github.com/prosumma/Guise",
+    "description": "An elegant, flexible, type-safe dependency resolution framework for Swift."
+  },
+  {
+    "name": "Weaver",
+    "url": "https://github.com/scribd/Weaver",
+    "description": "A declarative, easy-to-use and safe Dependency Injection framework for Swift."
+  },
+  {
+    "name": "StoryboardBuilder",
+    "url": "https://github.com/hiro-nagami/StoryboardBuilder",
+    "description": "Simple dependency injection for generating views from storyboard."
+  },
+  {
+    "name": "ViperServices",
+    "url": "https://github.com/ladeiko/ViperServices",
+    "description": "Dependency injection container for iOS applications written in Swift. Each service can have boot and shutdown code."
+  },
+  {
+    "name": "DITranquillity",
+    "url": "https://github.com/ivlevAstef/DITranquillity",
+    "description": "Dependency injection framework for iOS applications written in clean Swift."
+  },
+  {
+    "name": "Needle",
+    "url": "https://github.com/uber/needle"
+  },
+  {
+    "name": "Locatable",
+    "url": "https://github.com/vincent-pradeilles/locatable",
+    "description": "A micro-framework that leverages Property Wrappers to implement the Service Locator pattern."
+  },
+  {
+    "name": "CocoaPods",
+    "url": "https://cocoapods.org/",
+    "description": "CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly."
+  },
+  {
+    "name": "Xcode Maven",
+    "url": "http://sap-production.github.io/xcode-maven-plugin/site/",
+    "description": "The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle."
+  },
+  {
+    "name": "Carthage",
+    "url": "https://github.com/Carthage/Carthage",
+    "description": "A simple, decentralized dependency manager for Cocoa."
+  },
+  {
+    "name": "SWM (Swift Modules)",
+    "url": "https://github.com/jankuca/swm",
+    "description": "A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of Xcode."
+  },
+  {
+    "name": "CocoaSeeds",
+    "url": "https://github.com/devxoul/CocoaSeeds",
+    "description": "Git Submodule Alternative for Cocoa."
+  },
+  {
+    "name": "swift-package-manager",
+    "url": "https://github.com/apple/swift-package-manager",
+    "description": "The Package Manager for the Swift Programming Language."
+  },
+  {
+    "name": "punic",
+    "url": "https://github.com/schwa/punic",
+    "description": "Clean room reimplementation of Carthage tool."
+  },
+  {
+    "name": "Rome",
+    "url": "https://github.com/tmspzz/Rome",
+    "description": "A cache tool for Carthage built frameworks."
+  },
+  {
+    "name": "Athena",
+    "url": "https://github.com/yunarta/works-athena-gradle-plugin",
+    "description": "Gradle Plugin to enhance Carthage by uploading the archived frameworks into Maven repository, currently support only Bintray, Artifactory and Mavel local."
+  },
+  {
+    "name": "Accio",
+    "url": "https://github.com/JamitLabs/Accio",
+    "description": "A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage."
+  },
+  {
+    "name": "fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "description": "Connect all iOS deployment tools into one streamlined workflow."
+  },
+  {
+    "name": "deliver",
+    "url": "https://github.com/fastlane/fastlane/tree/master/deliver",
+    "description": "Upload screenshots, metadata and your app to the App Store using a single command."
+  },
+  {
+    "name": "snapshot",
+    "url": "https://github.com/fastlane/fastlane/tree/master/snapshot",
+    "description": "Automate taking localized screenshots of your iOS app on every device."
+  },
+  {
+    "name": "buddybuild",
+    "url": "https://www.buddybuild.com/",
+    "description": "A mobile iteration platform - build, deploy, and collaborate."
+  },
+  {
+    "name": "Bitrise",
+    "url": "https://www.bitrise.io",
+    "description": "Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate."
+  },
+  {
+    "name": "watchbuild",
+    "url": "https://github.com/fastlane/watchbuild",
+    "description": "Get a notification once your iTunes Connect build is finished processing."
+  },
+  {
+    "name": "Crashlytics",
+    "url": "https://firebase.google.com/products/crashlytics/",
+    "description": "A crash reporting and beta testing service."
+  },
+  {
+    "name": "TestFlight Beta Testing",
+    "url": "https://developer.apple.com/testflight/",
+    "description": "The beta testing service hosted on iTunes Connect (requires iOS 8 or later)."
+  },
+  {
+    "name": "AppCenter",
+    "url": "https://appcenter.ms",
+    "description": "Continuously build, test, release, and monitor apps for every platform."
+  },
+  {
+    "name": "boarding",
+    "url": "https://github.com/fastlane/boarding",
+    "description": "Instantly create a simple signup page for TestFlight beta testers."
+  },
+  {
+    "name": "HockeyKit",
+    "url": "https://github.com/bitstadium/HockeyKit",
+    "description": "A software update kit."
+  },
+  {
+    "name": "Rollout.io",
+    "url": "https://rollout.io/",
+    "description": "SDK to patch, fix bugs, modify and manipulate native apps (Obj-c & Swift) in real-time."
+  },
+  {
+    "name": "AppLaunchpad",
+    "url": "https://theapplaunchpad.com/",
+    "description": "Free App Store screenshot builder."
+  },
+  {
+    "name": "LaunchKit",
+    "url": "https://github.com/LaunchKit/LaunchKit",
+    "description": "A set of web-based tools for mobile app developers, now open source!"
+  },
+  {
+    "name": "Instabug",
+    "url": "https://instabug.com",
+    "description": "In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging."
+  },
+  {
+    "name": "Appfigurate",
+    "url": "https://github.com/electricbolt/appfiguratesdk",
+    "description": "Secure runtime configuration for iOS and watchOS, apps and app extensions."
+  },
+  {
+    "name": "ScreenshotFramer",
+    "url": "https://github.com/IdeasOnCanvas/ScreenshotFramer",
+    "description": "With Screenshot Framer you can easily create nice-looking and localized App Store Images."
+  },
+  {
+    "name": "Semaphore",
+    "url": "https://semaphoreci.com/product/ios",
+    "description": "CI/CD service which makes it easy to build, test and deploy applications for any Apple device. iOS support is fully integrated in Semaphore 2.0, so you can use the same powerful CI/CD pipeline features for iOS as you do for Linux-based development."
+  },
+  {
+    "name": "Appcircle.io",
+    "url": "https://appcircle.io"
+  },
+  {
+    "name": "Screenplay",
+    "url": "https://screenplay.dev",
+    "description": "Instant rollbacks and canary deployments for iOS."
+  },
+  {
+    "name": "Codemagic",
+    "url": "https://codemagic.io",
+    "description": "Build, test and deliver iOS apps 20% faster with Codemagic CI/CD."
+  },
+  {
+    "name": "Runway",
+    "url": "https://runway.team",
+    "description": "Easier mobile releases for teams. Integrates across tools (version control, project management, CI, app stores, crash reporting, etc.) to provide a single source of truth for mobile teams to come together around during release cycles. Equal parts automation and collaboration."
+  },
+  {
+    "name": "ios-uploader",
+    "url": "https://github.com/simonnilsson/ios-uploader",
+    "description": "Easy to use, cross-platform tool to upload iOS apps to App Store Connect."
   },
   {
     "name": "SwiftEventBus",
@@ -4652,34 +4981,74 @@
     "description": "A modern Swift web API client built using async/await."
   },
   {
-    "name": "Mail Core 2",
-    "url": "https://github.com/MailCore/mailcore2",
-    "description": "MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP."
+    "name": "AwesomeiOS Weekly",
+    "url": "http://weekly.awesomeios.com",
+    "description": "AwesomeiOS Weekly."
   },
   {
-    "name": "Postal",
-    "url": "https://github.com/snipsco/Postal",
-    "description": "A swift framework providing simple access to common email providers."
+    "name": "iOS Goodies",
+    "url": "https://ios-goodies.com",
+    "description": "Weekly iOS newsletter."
   },
   {
-    "name": "apollo-ios",
-    "url": "https://github.com/apollographql/apollo-ios",
-    "description": "A GraphQL client for iOS."
+    "name": "raywenderlich.com Weekly",
+    "url": "https://www.raywenderlich.com/newsletter",
+    "description": "sign up to receive the latest tutorials from raywenderlich.com each week."
   },
   {
-    "name": "JSONRPCKit",
-    "url": "https://github.com/bricklife/JSONRPCKit",
-    "description": "A JSON-RPC 2.0 library."
+    "name": "iOS Dev Tools Weekly",
+    "url": "https://iosdev.tools",
+    "description": "The greatest iOS development tools, including websites, desktop and mobile apps, and back-end services."
   },
   {
-    "name": "protobuf-swift",
-    "url": "https://github.com/alexeyxo/protobuf-swift",
-    "description": "Google ProtocolBuffers for Apple Swift"
+    "name": "iOS Trivia Weekly",
+    "url": "https://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b",
+    "description": "Three challenging questions about iOS development every Wednesday."
   },
   {
-    "name": "swift-protobuf",
-    "url": "https://github.com/apple/swift-protobuf",
-    "description": "Plugin and runtime library for using protobuf with Swift."
+    "name": "Indie iOS Focus Weekly",
+    "url": "http://indieiosfocus.com/",
+    "description": "Looking for the best iOS dev links, tutorials, & tips beyond the usual news? Curated by Chris Beshore. Published every Thursday."
+  },
+  {
+    "name": "iOS Dev Weekly",
+    "url": "https://iosdevweekly.com/",
+    "description": "Subscribe to a hand-picked round up of the best iOS development links every week. Free."
+  },
+  {
+    "name": "Swift Weekly Brief",
+    "url": "https://swiftweekly.github.io/",
+    "description": "A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday."
+  },
+  {
+    "name": "Server-Side Swift Weekly",
+    "url": "https://www.serverswift.tech",
+    "description": "A weekly newsletter with the best links related to server-side Swift and cross-platform developer tools. Curated by @maxdesiatov"
+  },
+  {
+    "name": "iOS Cookies Newsletter",
+    "url": "https://us11.campaign-archive.com/home/?u=cd1f3ed33c6527331d82107ba&id=532dc7fb64",
+    "description": "A weekly digest of new iOS libraries written in Swift."
+  },
+  {
+    "name": "Swift Developments",
+    "url": "https://andybargh.com/swiftdevelopments/",
+    "description": "A weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, WatchOS and AppleTV apps using Swift."
+  },
+  {
+    "name": "Mobile Developers Cafe",
+    "url": "https://mobiledeveloperscafe.com",
+    "description": "A weekly newsletter for Mobile developers with loads of iOS content."
+  },
+  {
+    "name": "Indie Watch",
+    "url": "https://indie.watch/",
+    "description": "A weekly newsletter featuring the best apps made by indie iOS developers."
+  },
+  {
+    "name": "SwiftLee",
+    "url": "https://www.avanderlee.com/",
+    "description": "A weekly blog about Swift, iOS and Xcode Tips and Tricks."
   },
   {
     "name": "Orbiter",
@@ -4777,11 +5146,6 @@
     "url": "https://www.swrve.com"
   },
   {
-    "name": "DLLocalNotifications",
-    "url": "https://github.com/d7laungani/DLLocalNotifications",
-    "description": "Easily create Local Notifications in swift - Wrapper of UserNotifications Framework."
-  },
-  {
     "name": "Lumos",
     "url": "https://github.com/sushinoya/lumos",
     "description": "A light Swift wrapper around Objective-C Runtime."
@@ -4800,6 +5164,94 @@
     "name": "SmallStrings",
     "url": "https://github.com/EmergeTools/SmallStrings",
     "description": "Reduce localized .strings file sizes by 80%."
+  },
+  {
+    "name": "awesome-awesomeness",
+    "url": "https://github.com/bayandin/awesome-awesomeness"
+  },
+  {
+    "name": "Open Source apps",
+    "url": "https://github.com/dkhamsing/open-source-ios-apps"
+  },
+  {
+    "name": "awsome-ios-animation",
+    "url": "https://github.com/ameizi/awesome-ios-animation",
+    "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries."
+  },
+  {
+    "name": "awesome-gists",
+    "url": "https://github.com/vsouza/awesome-gists#ios",
+    "description": "A list of amazing gists (iOS section)."
+  },
+  {
+    "name": "awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions#ios",
+    "description": "A curated awesome list of lists of interview questions including iOS."
+  },
+  {
+    "name": "iOS-Playbook",
+    "url": "https://github.com/bakkenbaeck/iOS-handbook",
+    "description": "Guidelines and best practices for excellent iOS apps."
+  },
+  {
+    "name": "iOS-Learning-Materials",
+    "url": "https://github.com/jVirus/iOS-Learning-Materials",
+    "description": "Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS."
+  },
+  {
+    "name": "Awesome-iOS-Twitter",
+    "url": "https://github.com/carolanitz/Awesome-iOS-Twitter",
+    "description": "A curated list of awesome iOS Twitter accounts."
+  },
+  {
+    "name": "Marketing for Engineers",
+    "url": "https://github.com/LisaDziuba/Marketing-for-Engineers",
+    "description": "A curated collection of marketing articles & tools to grow your product."
+  },
+  {
+    "name": "Awesome ARKit",
+    "url": "https://github.com/olucurious/Awesome-ARKit",
+    "description": "A curated list of awesome ARKit projects and resources."
+  },
+  {
+    "name": "CocoaConferences",
+    "url": "https://github.com/Lascorbe/CocoaConferences",
+    "description": "List of cocoa conferences for iOS & macOS developers."
+  },
+  {
+    "name": "example-ios-apps",
+    "url": "https://github.com/jogendra/example-ios-apps",
+    "description": "A curated list of Open Source example iOS apps developed in Swift."
+  },
+  {
+    "name": "Curated-Resources-for-Learning-Swift",
+    "url": "https://hackr.io/tutorials/learn-ios-swift",
+    "description": "A curated list of resources recommended by the developers."
+  },
+  {
+    "name": "Awesome list of open source applications for macOS",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "description": "List of awesome open source applications for macOS."
+  },
+  {
+    "name": "Awesome iOS Interview question list",
+    "url": "https://github.com/dashvlas/awesome-ios-interview",
+    "description": "Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way."
+  },
+  {
+    "name": "Top App Developers",
+    "url": "https://github.com/app-developers/top",
+    "description": "A list of top iOS app developers."
+  },
+  {
+    "name": "awesome-ios-developer",
+    "url": "https://github.com/jphong1111/awesome-ios-developer",
+    "description": "Useful knowledges and stuff for ios developer."
+  },
+  {
+    "name": "awesome-ios-books",
+    "url": "https://github.com/bystritskiy/awesome-ios-books",
+    "description": "A list of books for iOS developers."
   },
   {
     "name": "CSwiftV",
@@ -5280,6 +5732,152 @@
     "description": "Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission."
   },
   {
+    "name": "The Ray Wenderlich Podcast",
+    "url": "https://www.raywenderlich.com/podcast"
+  },
+  {
+    "name": "Debug",
+    "url": "https://www.imore.com/debug"
+  },
+  {
+    "name": "App Story",
+    "url": "http://www.appstorypodcast.com"
+  },
+  {
+    "name": "iPhreaks",
+    "url": "https://devchat.tv/iphreaks/"
+  },
+  {
+    "name": "Under the Radar",
+    "url": "https://www.relay.fm/radar"
+  },
+  {
+    "name": "Core Intuition",
+    "url": "http://coreint.org/"
+  },
+  {
+    "name": "Swift Playhouse",
+    "url": "http://www.swiftplayhouse.com/"
+  },
+  {
+    "name": "Release Notes",
+    "url": "https://releasenotes.tv/"
+  },
+  {
+    "name": "More Than Just Code",
+    "url": "https://mtjc.fireside.fm/"
+  },
+  {
+    "name": "Runtime",
+    "url": "https://spec.fm/podcasts/runtime"
+  },
+  {
+    "name": "Consult",
+    "url": "https://consultpodcast.com/#_=_"
+  },
+  {
+    "name": "Swift Unwrapped",
+    "url": "https://spec.fm/podcasts/swift-unwrapped"
+  },
+  {
+    "name": "Fireside Swift",
+    "url": "https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2"
+  },
+  {
+    "name": "Swift by Sundell",
+    "url": "https://www.swiftbysundell.com/podcast/"
+  },
+  {
+    "name": "Stacktrace",
+    "url": "https://stacktracepodcast.fm"
+  },
+  {
+    "name": "crafter",
+    "url": "https://github.com/krzysztofzablocki/crafter",
+    "description": "CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful."
+  },
+  {
+    "name": "liftoff",
+    "url": "https://github.com/liftoffcli/liftoff",
+    "description": "Another CLI for creating iOS projects."
+  },
+  {
+    "name": "amaro",
+    "url": "https://github.com/crushlovely/Amaro",
+    "description": "iOS Boilerplate full of delights."
+  },
+  {
+    "name": "chairs",
+    "url": "https://github.com/orta/chairs",
+    "description": "Swap around your iOS Simulator Documents."
+  },
+  {
+    "name": "SwiftPlate",
+    "url": "https://github.com/JohnSundell/SwiftPlate",
+    "description": "Easily generate cross platform Swift framework projects from the command line."
+  },
+  {
+    "name": "xcproj",
+    "url": "https://github.com/tuist/xcodeproj",
+    "description": "Read and update Xcode projects."
+  },
+  {
+    "name": "Tuist",
+    "url": "https://github.com/tuist/tuist",
+    "description": "A tool to create, maintain and interact with Xcode projects at scale."
+  },
+  {
+    "name": "SwiftKit",
+    "url": "https://github.com/SvenTiigi/SwiftKit",
+    "description": "Start your next Open-Source Swift Framework."
+  },
+  {
+    "name": "swift5-module-template",
+    "url": "https://github.com/fulldecent/swift5-module-template",
+    "description": "A starting point for any Swift 5 module that you want other people to include in their projects."
+  },
+  {
+    "name": "FluidUI",
+    "url": "https://www.fluidui.com"
+  },
+  {
+    "name": "Proto.io",
+    "url": "https://proto.io/"
+  },
+  {
+    "name": "Framer",
+    "url": "https://www.framer.com/"
+  },
+  {
+    "name": "Principle",
+    "url": "https://principleformac.com/"
+  },
+  {
+    "name": "Playgrounds",
+    "url": "https://github.com/krzysztofzablocki/Playgrounds",
+    "description": "Playgrounds for Objective-C for extremely fast prototyping / learning."
+  },
+  {
+    "name": "MMBarricade",
+    "url": "https://github.com/mutualmobile/MMBarricade",
+    "description": "Runtime configurable local server for iOS apps."
+  },
+  {
+    "name": "STV Framework",
+    "url": "http://www.sensiblecocoa.com",
+    "description": "Native visual iOS development."
+  },
+  {
+    "name": "swiftmon",
+    "url": "https://github.com/dimpiax/swiftmon",
+    "description": "swiftmon restarts your swift application in case of any file change."
+  },
+  {
+    "name": "Model2App",
+    "url": "https://github.com/Q-Mobile/Model2App",
+    "description": "Turn your Swift data model into a working CRUD app."
+  },
+  {
     "name": "RxSwift",
     "url": "https://github.com/ReactiveX/RxSwift",
     "description": "Reactive Programming in Swift."
@@ -5530,6 +6128,41 @@
     "name": "Tokamak",
     "url": "https://github.com/MaxDesiatov/Tokamak",
     "description": "React-like framework providing a declarative API for building native UI components with easy to use one-way data binding."
+  },
+  {
+    "name": "Swift Cheat Sheet",
+    "url": "https://github.com/iwasrobbed/Swift-CheatSheet",
+    "description": "A quick reference cheat sheet for common, high level topics in Swift."
+  },
+  {
+    "name": "Objective-C Cheat Sheet",
+    "url": "https://github.com/iwasrobbed/Objective-C-CheatSheet",
+    "description": "A quick reference cheat sheet for common, high level topics in Objective-C."
+  },
+  {
+    "name": "SwiftSnippets",
+    "url": "https://github.com/onmyway133/SwiftSnippets",
+    "description": "A collection of Swift snippets to be used in Xcode."
+  },
+  {
+    "name": "App Store Checklist",
+    "url": "https://github.com/whitef0x0/app-store-checklist",
+    "description": "A checklist of what to look for before submitting your app to the App Store."
+  },
+  {
+    "name": "whats-new-in-swift-4",
+    "url": "https://github.com/ole/whats-new-in-swift-4",
+    "description": "An Xcode playground showcasing the new features in Swift 4.0."
+  },
+  {
+    "name": "WWDC-Recap",
+    "url": "https://erenkabakci.github.io/WWDC-Recap/",
+    "description": "A collection of session summaries in markdown format, from WWDC 19 & 17."
+  },
+  {
+    "name": "Awesome-ios",
+    "url": "https://kandi.openweaver.com/swift/vsouza/awesome-ios",
+    "description": "A curated list of awesome iOS ecosystem."
   },
   {
     "name": "Reflection",
@@ -6252,6 +6885,349 @@
     "description": "A light-weight server-side service framework written in the Swift programming language."
   },
   {
+    "name": "NY Times - Objective C Style Guide",
+    "url": "https://github.com/NYTimes/objective-c-style-guide",
+    "description": "Objective C Style Guide - The Objective-C Style Guide used by The New York Times."
+  },
+  {
+    "name": "raywenderlich Style Guide",
+    "url": "https://github.com/raywenderlich/objective-c-style-guide",
+    "description": "A style guide that outlines the coding conventions for raywenderlich.com."
+  },
+  {
+    "name": "GitHub Objective-C Style Guide",
+    "url": "https://github.com/github/objective-c-style-guide",
+    "description": "Style guide & coding conventions for Objective-C projects."
+  },
+  {
+    "name": "Objective-C Coding Convention and Best Practices",
+    "url": "https://gist.github.com/soffes/812796",
+    "description": "Gist with coding conventions."
+  },
+  {
+    "name": "Swift Style Guide by @raywenderlich",
+    "url": "https://github.com/raywenderlich/swift-style-guide",
+    "description": "The official Swift style guide for raywenderlich.com."
+  },
+  {
+    "name": "Spotify Objective-C Coding Style",
+    "url": "https://github.com/spotify/ios-style",
+    "description": "Guidelines for iOS development in use at Spotify."
+  },
+  {
+    "name": "GitHub - Style guide & coding conventions for Swift projects",
+    "url": "https://github.com/github/swift-style-guide",
+    "description": "Style guide & coding conventions for Swift projects - A guide to our Swift style and conventions by @github."
+  },
+  {
+    "name": "Futurice iOS Good Practices",
+    "url": "https://github.com/futurice/ios-good-practices",
+    "description": "iOS starting guide and good practices suggestions by @futurice."
+  },
+  {
+    "name": "SlideShare Swift Style Guide",
+    "url": "https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md",
+    "description": "SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift."
+  },
+  {
+    "name": "Prolific Interactive Style Guide",
+    "url": "https://github.com/prolificinteractive/swift-style-guide",
+    "description": "A style guide for Swift."
+  },
+  {
+    "name": "Swift Style Guide by LinkedIn",
+    "url": "https://github.com/linkedin/swift-style-guide",
+    "description": "LinkedIn's Official Swift Style Guide."
+  },
+  {
+    "name": "Kiwi",
+    "url": "https://github.com/kiwi-bdd/Kiwi",
+    "description": "A behavior-driven development library for iOS development."
+  },
+  {
+    "name": "Specta",
+    "url": "https://github.com/specta/specta",
+    "description": "A light-weight TDD / BDD framework for Objective-C & Cocoa."
+  },
+  {
+    "name": "Quick",
+    "url": "https://github.com/Quick/Quick",
+    "description": "A behavior-driven development framework for Swift and Objective-C."
+  },
+  {
+    "name": "XcodeCoverage",
+    "url": "https://github.com/jonreid/XcodeCoverage",
+    "description": "Code coverage for Xcode projects."
+  },
+  {
+    "name": "OHHTTPStubs",
+    "url": "https://github.com/AliSoftware/OHHTTPStubs",
+    "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!"
+  },
+  {
+    "name": "Dixie",
+    "url": "https://github.com/Skyscanner/Dixie",
+    "description": "Dixie is an open source Objective-C testing framework for altering object behaviours."
+  },
+  {
+    "name": "gh-unit",
+    "url": "https://github.com/gh-unit/gh-unit",
+    "description": "Test Framework for Objective-C."
+  },
+  {
+    "name": "Nimble",
+    "url": "https://github.com/Quick/Nimble",
+    "description": "A Matcher Framework for Swift and Objective-C"
+  },
+  {
+    "name": "Sleipnir",
+    "url": "https://github.com/railsware/Sleipnir",
+    "description": "BDD-style framework for Swift."
+  },
+  {
+    "name": "SwiftCheck",
+    "url": "https://github.com/typelift/SwiftCheck",
+    "description": "QuickCheck for Swift."
+  },
+  {
+    "name": "Spry",
+    "url": "https://github.com/Quick/Spry",
+    "description": "A Mac and iOS Playgrounds Unit Testing library based on Nimble."
+  },
+  {
+    "name": "swift-corelibs-xctest",
+    "url": "https://github.com/apple/swift-corelibs-xctest",
+    "description": "The XCTest Project, A Swift core library for providing unit test support."
+  },
+  {
+    "name": "PlaygroundTDD",
+    "url": "https://github.com/WhiskerzAB/PlaygroundTDD",
+    "description": "Small library to easily run your tests directly within a Playground."
+  },
+  {
+    "name": "Switchboard",
+    "url": "https://github.com/KeepSafe/Switchboard",
+    "description": "Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users."
+  },
+  {
+    "name": "SkyLab",
+    "url": "https://github.com/mattt/SkyLab",
+    "description": "Multivariate & A/B Testing for iOS and Mac."
+  },
+  {
+    "name": "MSActiveConfig",
+    "url": "https://github.com/mindsnacks/MSActiveConfig",
+    "description": "Remote configuration and A/B Testing framework for iOS."
+  },
+  {
+    "name": "ABKit",
+    "url": "https://github.com/recruit-mp/ABKit",
+    "description": "AB testing framework for iOS."
+  },
+  {
+    "name": "appium",
+    "url": "http://appium.io/",
+    "description": "Appium is an open source test automation framework for use with native and hybrid mobile apps."
+  },
+  {
+    "name": "robotframework-appiumlibrary",
+    "url": "https://github.com/serhatbolsu/robotframework-appiumlibrary",
+    "description": "AppiumLibrary is an appium testing library for RobotFramework."
+  },
+  {
+    "name": "Cucumber",
+    "url": "https://cucumber.io/",
+    "description": "Behavior driver development for iOS."
+  },
+  {
+    "name": "Kif",
+    "url": "https://github.com/kif-framework/KIF",
+    "description": "An iOS Functional Testing Framework."
+  },
+  {
+    "name": "Subliminal",
+    "url": "https://github.com/inkling/Subliminal",
+    "description": "An understated approach to iOS integration testing."
+  },
+  {
+    "name": "ios-driver",
+    "url": "http://ios-driver.github.io/ios-driver/index.html",
+    "description": "Test any iOS native, hybrid, or mobile web application using Selenium / WebDriver."
+  },
+  {
+    "name": "Remote",
+    "url": "https://github.com/johnno1962/Remote",
+    "description": "Control your iPhone from inside Xcode for end-to-end testing."
+  },
+  {
+    "name": "LayoutTest-iOS",
+    "url": "https://github.com/linkedin/LayoutTest-iOS",
+    "description": "Write unit tests which test the layout of a view in multiple configurations."
+  },
+  {
+    "name": "EarlGrey",
+    "url": "https://github.com/google/EarlGrey",
+    "description": "🍵 iOS UI Automation Test Framework."
+  },
+  {
+    "name": "UI Testing Cheat Sheet",
+    "url": "https://github.com/joemasilotti/UI-Testing-Cheat-Sheet",
+    "description": "How do I test this with UI Testing?"
+  },
+  {
+    "name": "Bluepill",
+    "url": "https://github.com/linkedin/bluepill",
+    "description": "Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine."
+  },
+  {
+    "name": "Flawless App",
+    "url": "https://flawlessapp.io/",
+    "description": "tool for visual quality check of mobile app in a real-time. It compares initial design with the actual implementation right inside iOS simulator."
+  },
+  {
+    "name": "TouchVisualizer",
+    "url": "https://github.com/morizotter/TouchVisualizer",
+    "description": "Lightweight touch visualization library in Swift. A single line of code and visualize your touches!"
+  },
+  {
+    "name": "UITestHelper",
+    "url": "https://github.com/evermeer/UITestHelper",
+    "description": "UITest helper library for creating readable and maintainable tests."
+  },
+  {
+    "name": "ViewInspector",
+    "url": "https://github.com/nalexn/ViewInspector",
+    "description": "Runtime inspection and unit testing of SwiftUI views"
+  },
+  {
+    "name": "AutoMate",
+    "url": "https://github.com/PGSSoft/AutoMate",
+    "description": "XCTest extensions for writing UI automation tests."
+  },
+  {
+    "name": "Marathon Runner",
+    "url": "https://github.com/MarathonLabs/marathon",
+    "description": "Fast, platform-independent test runner focused on performance and stability execute tests."
+  },
+  {
+    "name": "ETTrace",
+    "url": "https://github.com/EmergeTools/ETTrace",
+    "description": "Locally measure performance of your app, without Xcode or Instruments."
+  },
+  {
+    "name": "NaughtyKeyboard",
+    "url": "https://github.com/Palleas/NaughtyKeyboard",
+    "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device."
+  },
+  {
+    "name": "Fakery",
+    "url": "https://github.com/vadymmarkov/Fakery",
+    "description": "Swift fake data generator."
+  },
+  {
+    "name": "DVR",
+    "url": "https://github.com/venmo/DVR",
+    "description": "Network testing for Swift."
+  },
+  {
+    "name": "Cuckoo",
+    "url": "https://github.com/Brightify/Cuckoo",
+    "description": "First boilerplate-free mocking framework for Swift."
+  },
+  {
+    "name": "Vinyl",
+    "url": "https://github.com/Velhotes/Vinyl",
+    "description": "Network testing à la VCR in Swift."
+  },
+  {
+    "name": "Mockit",
+    "url": "https://github.com/sabirvirtuoso/Mockit",
+    "description": "A simple mocking framework for Swift, inspired by the famous Mockito for Java."
+  },
+  {
+    "name": "Cribble",
+    "url": "https://github.com/maxsokolov/Cribble",
+    "description": "Swifty tool for visual testing iPhone and iPad apps."
+  },
+  {
+    "name": "second_curtain",
+    "url": "https://github.com/ashfurrow/second_curtain",
+    "description": "Upload failing iOS snapshot tests cases to S3."
+  },
+  {
+    "name": "trainer",
+    "url": "https://github.com/fastlane-community/trainer",
+    "description": "Convert xcodebuild plist files to JUnit reports."
+  },
+  {
+    "name": "Buildasaur",
+    "url": "https://github.com/buildasaurs/Buildasaur",
+    "description": "Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes."
+  },
+  {
+    "name": "Kakapo",
+    "url": "https://github.com/devlucky/Kakapo",
+    "description": "Dynamically Mock server behaviors and responses in Swift."
+  },
+  {
+    "name": "AcceptanceMark",
+    "url": "https://github.com/bizz84/AcceptanceMark"
+  },
+  {
+    "name": "MetovaTestKit",
+    "url": "https://github.com/metova/MetovaTestKit",
+    "description": "A collection of testing utilities to turn crashing test suites into failing test suites."
+  },
+  {
+    "name": "MirrorDiffKit",
+    "url": "https://github.com/Kuniwak/MirrorDiffKit",
+    "description": "Pretty diff between any structs or classes."
+  },
+  {
+    "name": "SnappyTestCase",
+    "url": "https://github.com/tooploox/SnappyTestCase",
+    "description": "iOS Simulator type agnostic snapshot testing, built on top of the FBSnapshotTestCase."
+  },
+  {
+    "name": "XCTestExtensions",
+    "url": "https://github.com/shindyu/XCTestExtensions",
+    "description": "XCTestExtensions is a Swift extension that provides convenient assertions for writing Unit Test."
+  },
+  {
+    "name": "OCMock",
+    "url": "https://ocmock.org/",
+    "description": "Mock objects for Objective-C."
+  },
+  {
+    "name": "Mockingjay",
+    "url": "https://github.com/kylef/Mockingjay",
+    "description": "An elegant library for stubbing HTTP requests with ease in Swift."
+  },
+  {
+    "name": "PinpointKit",
+    "url": "https://github.com/Lickability/PinpointKit",
+    "description": "Let your testers and users send feedback with annotated screenshots and logs using a simple gesture."
+  },
+  {
+    "name": "iOS Snapshot Test Case",
+    "url": "https://github.com/uber/ios-snapshot-test-case"
+  },
+  {
+    "name": "DataFixture",
+    "url": "https://github.com/andreadelfante/DataFixture",
+    "description": "Creation of data model easily, with no headache."
+  },
+  {
+    "name": "SnapshotTesting",
+    "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "description": "Delightful Swift snapshot testing."
+  },
+  {
+    "name": "Mockingbird",
+    "url": "https://github.com/Farfetch/mockingbird",
+    "description": "Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases."
+  },
+  {
     "name": "Twitter Text Obj",
     "url": "https://github.com/twitter/twitter-text",
     "description": "An Objective-C implementation of Twitter's text processing library."
@@ -6668,294 +7644,6 @@
     "name": "Money",
     "url": "https://github.com/Flight-School/Money",
     "description": "A precise, type-safe representation of a monetary amount in a given currency."
-  },
-  {
-    "name": "Kiwi",
-    "url": "https://github.com/kiwi-bdd/Kiwi",
-    "description": "A behavior-driven development library for iOS development."
-  },
-  {
-    "name": "Specta",
-    "url": "https://github.com/specta/specta",
-    "description": "A light-weight TDD / BDD framework for Objective-C & Cocoa."
-  },
-  {
-    "name": "Quick",
-    "url": "https://github.com/Quick/Quick",
-    "description": "A behavior-driven development framework for Swift and Objective-C."
-  },
-  {
-    "name": "XcodeCoverage",
-    "url": "https://github.com/jonreid/XcodeCoverage",
-    "description": "Code coverage for Xcode projects."
-  },
-  {
-    "name": "OHHTTPStubs",
-    "url": "https://github.com/AliSoftware/OHHTTPStubs",
-    "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!"
-  },
-  {
-    "name": "Dixie",
-    "url": "https://github.com/Skyscanner/Dixie",
-    "description": "Dixie is an open source Objective-C testing framework for altering object behaviours."
-  },
-  {
-    "name": "gh-unit",
-    "url": "https://github.com/gh-unit/gh-unit",
-    "description": "Test Framework for Objective-C."
-  },
-  {
-    "name": "Nimble",
-    "url": "https://github.com/Quick/Nimble",
-    "description": "A Matcher Framework for Swift and Objective-C"
-  },
-  {
-    "name": "Sleipnir",
-    "url": "https://github.com/railsware/Sleipnir",
-    "description": "BDD-style framework for Swift."
-  },
-  {
-    "name": "SwiftCheck",
-    "url": "https://github.com/typelift/SwiftCheck",
-    "description": "QuickCheck for Swift."
-  },
-  {
-    "name": "Spry",
-    "url": "https://github.com/Quick/Spry",
-    "description": "A Mac and iOS Playgrounds Unit Testing library based on Nimble."
-  },
-  {
-    "name": "swift-corelibs-xctest",
-    "url": "https://github.com/apple/swift-corelibs-xctest",
-    "description": "The XCTest Project, A Swift core library for providing unit test support."
-  },
-  {
-    "name": "PlaygroundTDD",
-    "url": "https://github.com/WhiskerzAB/PlaygroundTDD",
-    "description": "Small library to easily run your tests directly within a Playground."
-  },
-  {
-    "name": "Switchboard",
-    "url": "https://github.com/KeepSafe/Switchboard",
-    "description": "Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users."
-  },
-  {
-    "name": "SkyLab",
-    "url": "https://github.com/mattt/SkyLab",
-    "description": "Multivariate & A/B Testing for iOS and Mac."
-  },
-  {
-    "name": "MSActiveConfig",
-    "url": "https://github.com/mindsnacks/MSActiveConfig",
-    "description": "Remote configuration and A/B Testing framework for iOS."
-  },
-  {
-    "name": "ABKit",
-    "url": "https://github.com/recruit-mp/ABKit",
-    "description": "AB testing framework for iOS."
-  },
-  {
-    "name": "appium",
-    "url": "http://appium.io/",
-    "description": "Appium is an open source test automation framework for use with native and hybrid mobile apps."
-  },
-  {
-    "name": "robotframework-appiumlibrary",
-    "url": "https://github.com/serhatbolsu/robotframework-appiumlibrary",
-    "description": "AppiumLibrary is an appium testing library for RobotFramework."
-  },
-  {
-    "name": "Cucumber",
-    "url": "https://cucumber.io/",
-    "description": "Behavior driver development for iOS."
-  },
-  {
-    "name": "Kif",
-    "url": "https://github.com/kif-framework/KIF",
-    "description": "An iOS Functional Testing Framework."
-  },
-  {
-    "name": "Subliminal",
-    "url": "https://github.com/inkling/Subliminal",
-    "description": "An understated approach to iOS integration testing."
-  },
-  {
-    "name": "ios-driver",
-    "url": "http://ios-driver.github.io/ios-driver/index.html",
-    "description": "Test any iOS native, hybrid, or mobile web application using Selenium / WebDriver."
-  },
-  {
-    "name": "Remote",
-    "url": "https://github.com/johnno1962/Remote",
-    "description": "Control your iPhone from inside Xcode for end-to-end testing."
-  },
-  {
-    "name": "LayoutTest-iOS",
-    "url": "https://github.com/linkedin/LayoutTest-iOS",
-    "description": "Write unit tests which test the layout of a view in multiple configurations."
-  },
-  {
-    "name": "EarlGrey",
-    "url": "https://github.com/google/EarlGrey",
-    "description": "🍵 iOS UI Automation Test Framework."
-  },
-  {
-    "name": "UI Testing Cheat Sheet",
-    "url": "https://github.com/joemasilotti/UI-Testing-Cheat-Sheet",
-    "description": "How do I test this with UI Testing?"
-  },
-  {
-    "name": "Bluepill",
-    "url": "https://github.com/linkedin/bluepill",
-    "description": "Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine."
-  },
-  {
-    "name": "Flawless App",
-    "url": "https://flawlessapp.io/",
-    "description": "tool for visual quality check of mobile app in a real-time. It compares initial design with the actual implementation right inside iOS simulator."
-  },
-  {
-    "name": "TouchVisualizer",
-    "url": "https://github.com/morizotter/TouchVisualizer",
-    "description": "Lightweight touch visualization library in Swift. A single line of code and visualize your touches!"
-  },
-  {
-    "name": "UITestHelper",
-    "url": "https://github.com/evermeer/UITestHelper",
-    "description": "UITest helper library for creating readable and maintainable tests."
-  },
-  {
-    "name": "ViewInspector",
-    "url": "https://github.com/nalexn/ViewInspector",
-    "description": "Runtime inspection and unit testing of SwiftUI views"
-  },
-  {
-    "name": "AutoMate",
-    "url": "https://github.com/PGSSoft/AutoMate",
-    "description": "XCTest extensions for writing UI automation tests."
-  },
-  {
-    "name": "Marathon Runner",
-    "url": "https://github.com/MarathonLabs/marathon",
-    "description": "Fast, platform-independent test runner focused on performance and stability execute tests."
-  },
-  {
-    "name": "ETTrace",
-    "url": "https://github.com/EmergeTools/ETTrace",
-    "description": "Locally measure performance of your app, without Xcode or Instruments."
-  },
-  {
-    "name": "NaughtyKeyboard",
-    "url": "https://github.com/Palleas/NaughtyKeyboard",
-    "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device."
-  },
-  {
-    "name": "Fakery",
-    "url": "https://github.com/vadymmarkov/Fakery",
-    "description": "Swift fake data generator."
-  },
-  {
-    "name": "DVR",
-    "url": "https://github.com/venmo/DVR",
-    "description": "Network testing for Swift."
-  },
-  {
-    "name": "Cuckoo",
-    "url": "https://github.com/Brightify/Cuckoo",
-    "description": "First boilerplate-free mocking framework for Swift."
-  },
-  {
-    "name": "Vinyl",
-    "url": "https://github.com/Velhotes/Vinyl",
-    "description": "Network testing à la VCR in Swift."
-  },
-  {
-    "name": "Mockit",
-    "url": "https://github.com/sabirvirtuoso/Mockit",
-    "description": "A simple mocking framework for Swift, inspired by the famous Mockito for Java."
-  },
-  {
-    "name": "Cribble",
-    "url": "https://github.com/maxsokolov/Cribble",
-    "description": "Swifty tool for visual testing iPhone and iPad apps."
-  },
-  {
-    "name": "second_curtain",
-    "url": "https://github.com/ashfurrow/second_curtain",
-    "description": "Upload failing iOS snapshot tests cases to S3."
-  },
-  {
-    "name": "trainer",
-    "url": "https://github.com/fastlane-community/trainer",
-    "description": "Convert xcodebuild plist files to JUnit reports."
-  },
-  {
-    "name": "Buildasaur",
-    "url": "https://github.com/buildasaurs/Buildasaur",
-    "description": "Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes."
-  },
-  {
-    "name": "Kakapo",
-    "url": "https://github.com/devlucky/Kakapo",
-    "description": "Dynamically Mock server behaviors and responses in Swift."
-  },
-  {
-    "name": "AcceptanceMark",
-    "url": "https://github.com/bizz84/AcceptanceMark"
-  },
-  {
-    "name": "MetovaTestKit",
-    "url": "https://github.com/metova/MetovaTestKit",
-    "description": "A collection of testing utilities to turn crashing test suites into failing test suites."
-  },
-  {
-    "name": "MirrorDiffKit",
-    "url": "https://github.com/Kuniwak/MirrorDiffKit",
-    "description": "Pretty diff between any structs or classes."
-  },
-  {
-    "name": "SnappyTestCase",
-    "url": "https://github.com/tooploox/SnappyTestCase",
-    "description": "iOS Simulator type agnostic snapshot testing, built on top of the FBSnapshotTestCase."
-  },
-  {
-    "name": "XCTestExtensions",
-    "url": "https://github.com/shindyu/XCTestExtensions",
-    "description": "XCTestExtensions is a Swift extension that provides convenient assertions for writing Unit Test."
-  },
-  {
-    "name": "OCMock",
-    "url": "https://ocmock.org/",
-    "description": "Mock objects for Objective-C."
-  },
-  {
-    "name": "Mockingjay",
-    "url": "https://github.com/kylef/Mockingjay",
-    "description": "An elegant library for stubbing HTTP requests with ease in Swift."
-  },
-  {
-    "name": "PinpointKit",
-    "url": "https://github.com/Lickability/PinpointKit",
-    "description": "Let your testers and users send feedback with annotated screenshots and logs using a simple gesture."
-  },
-  {
-    "name": "iOS Snapshot Test Case",
-    "url": "https://github.com/uber/ios-snapshot-test-case"
-  },
-  {
-    "name": "DataFixture",
-    "url": "https://github.com/andreadelfante/DataFixture",
-    "description": "Creation of data model easily, with no headache."
-  },
-  {
-    "name": "SnapshotTesting",
-    "url": "https://github.com/pointfreeco/swift-snapshot-testing",
-    "description": "Delightful Swift snapshot testing."
-  },
-  {
-    "name": "Mockingbird",
-    "url": "https://github.com/Farfetch/mockingbird",
-    "description": "Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases."
   },
   {
     "name": "Motif",
@@ -11728,6 +12416,90 @@
     "description": "SwiftUI library for a walkthrough or onboarding flow with tap actions."
   },
   {
+    "name": "BGR",
+    "url": "https://bgr.com/ios-7/"
+  },
+  {
+    "name": "iMore",
+    "url": "https://www.imore.com/"
+  },
+  {
+    "name": "Lifehacker",
+    "url": "https://lifehacker.com/tag/ios"
+  },
+  {
+    "name": "NSHipster",
+    "url": "https://nshipster.com"
+  },
+  {
+    "name": "Objc.io",
+    "url": "https://www.objc.io/"
+  },
+  {
+    "name": "ASCIIwwdc",
+    "url": "https://asciiwwdc.com/"
+  },
+  {
+    "name": "Natasha The Robot",
+    "url": "https://www.natashatherobot.com/"
+  },
+  {
+    "name": "Apple's Swift Blog",
+    "url": "https://developer.apple.com/swift/blog/"
+  },
+  {
+    "name": "iOS Programming Subreddit",
+    "url": "https://www.reddit.com/r/iOSProgramming/"
+  },
+  {
+    "name": "iOS8-day-by-day",
+    "url": "https://github.com/ScottLogic/iOS8-day-by-day"
+  },
+  {
+    "name": "iOScreator",
+    "url": "https://www.ioscreator.com/"
+  },
+  {
+    "name": "Mathew Sanders",
+    "url": "http://mathewsanders.com/"
+  },
+  {
+    "name": "iOS Dev Nuggets",
+    "url": "http://hboon.com/iosdevnuggets/"
+  },
+  {
+    "name": "iOS Developer and Designer interview",
+    "url": "https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions",
+    "description": "A small guide to help those looking to hire a developer or designer for iOS work."
+  },
+  {
+    "name": "iOS9-day-by-day",
+    "url": "https://github.com/ScottLogic/iOS9-day-by-day"
+  },
+  {
+    "name": "Code Facebook",
+    "url": "https://engineering.fb.com/category/ios/"
+  },
+  {
+    "name": "Feeds for iOS Developer",
+    "url": "https://github.com/rgnlax/Feeds-for-iOS-Developer",
+    "description": "The list of RSS feeds for iOS developers."
+  },
+  {
+    "name": "Cocoa Controls",
+    "url": "https://www.cocoacontrols.com/",
+    "description": "Open source UI components for iOS and macOS."
+  },
+  {
+    "name": "Ohmyswift",
+    "url": "https://www.ohmyswift.com/blog/"
+  },
+  {
+    "name": "Point Free",
+    "url": "https://www.pointfree.co/",
+    "description": "A video series exploring functional programming and Swift."
+  },
+  {
     "name": "SocketRocket",
     "url": "https://github.com/facebook/SocketRocket",
     "description": "A conforming Objective-C WebSocket client library."
@@ -11771,101 +12543,6 @@
     "name": "DNWebSocket",
     "url": "https://github.com/GlebRadchenko/DNWebSocket",
     "description": "Object-Oriented, Swift-style WebSocket Library (RFC 6455) for Swift-compatible Platforms."
-  },
-  {
-    "name": "crafter",
-    "url": "https://github.com/krzysztofzablocki/crafter",
-    "description": "CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful."
-  },
-  {
-    "name": "liftoff",
-    "url": "https://github.com/liftoffcli/liftoff",
-    "description": "Another CLI for creating iOS projects."
-  },
-  {
-    "name": "amaro",
-    "url": "https://github.com/crushlovely/Amaro",
-    "description": "iOS Boilerplate full of delights."
-  },
-  {
-    "name": "chairs",
-    "url": "https://github.com/orta/chairs",
-    "description": "Swap around your iOS Simulator Documents."
-  },
-  {
-    "name": "SwiftPlate",
-    "url": "https://github.com/JohnSundell/SwiftPlate",
-    "description": "Easily generate cross platform Swift framework projects from the command line."
-  },
-  {
-    "name": "xcproj",
-    "url": "https://github.com/tuist/xcodeproj",
-    "description": "Read and update Xcode projects."
-  },
-  {
-    "name": "Tuist",
-    "url": "https://github.com/tuist/tuist",
-    "description": "A tool to create, maintain and interact with Xcode projects at scale."
-  },
-  {
-    "name": "SwiftKit",
-    "url": "https://github.com/SvenTiigi/SwiftKit",
-    "description": "Start your next Open-Source Swift Framework."
-  },
-  {
-    "name": "swift5-module-template",
-    "url": "https://github.com/fulldecent/swift5-module-template",
-    "description": "A starting point for any Swift 5 module that you want other people to include in their projects."
-  },
-  {
-    "name": "CocoaPods",
-    "url": "https://cocoapods.org/",
-    "description": "CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly."
-  },
-  {
-    "name": "Xcode Maven",
-    "url": "http://sap-production.github.io/xcode-maven-plugin/site/",
-    "description": "The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle."
-  },
-  {
-    "name": "Carthage",
-    "url": "https://github.com/Carthage/Carthage",
-    "description": "A simple, decentralized dependency manager for Cocoa."
-  },
-  {
-    "name": "SWM (Swift Modules)",
-    "url": "https://github.com/jankuca/swm",
-    "description": "A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of Xcode."
-  },
-  {
-    "name": "CocoaSeeds",
-    "url": "https://github.com/devxoul/CocoaSeeds",
-    "description": "Git Submodule Alternative for Cocoa."
-  },
-  {
-    "name": "swift-package-manager",
-    "url": "https://github.com/apple/swift-package-manager",
-    "description": "The Package Manager for the Swift Programming Language."
-  },
-  {
-    "name": "punic",
-    "url": "https://github.com/schwa/punic",
-    "description": "Clean room reimplementation of Carthage tool."
-  },
-  {
-    "name": "Rome",
-    "url": "https://github.com/tmspzz/Rome",
-    "description": "A cache tool for Carthage built frameworks."
-  },
-  {
-    "name": "Athena",
-    "url": "https://github.com/yunarta/works-athena-gradle-plugin",
-    "description": "Gradle Plugin to enhance Carthage by uploading the archived frameworks into Maven repository, currently support only Bintray, Artifactory and Mavel local."
-  },
-  {
-    "name": "Accio",
-    "url": "https://github.com/JamitLabs/Accio",
-    "description": "A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage."
   },
   {
     "name": "Shark",
@@ -12277,272 +12954,139 @@
     "description": "🏈 Cache CocoaPods for faster rebuild and indexing Xcode project."
   },
   {
-    "name": "Playgrounds",
-    "url": "https://github.com/krzysztofzablocki/Playgrounds",
-    "description": "Playgrounds for Objective-C for extremely fast prototyping / learning."
+    "name": "AppCoda",
+    "url": "https://www.appcoda.com/"
   },
   {
-    "name": "MMBarricade",
-    "url": "https://github.com/mutualmobile/MMBarricade",
-    "description": "Runtime configurable local server for iOS apps."
+    "name": "Tutorials Point",
+    "url": "https://www.tutorialspoint.com/ios/index.htm"
   },
   {
-    "name": "STV Framework",
-    "url": "http://www.sensiblecocoa.com",
-    "description": "Native visual iOS development."
+    "name": "Code with Chris",
+    "url": "https://codewithchris.com/"
   },
   {
-    "name": "swiftmon",
-    "url": "https://github.com/dimpiax/swiftmon",
-    "description": "swiftmon restarts your swift application in case of any file change."
+    "name": "Cocoa with Love",
+    "url": "http://www.cocoawithlove.com/"
   },
   {
-    "name": "Model2App",
-    "url": "https://github.com/Q-Mobile/Model2App",
-    "description": "Turn your Swift data model into a working CRUD app."
+    "name": "Brian Advent youtube channel",
+    "url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos",
+    "description": "Swift tutorials Youtube Channel."
   },
   {
-    "name": "dyci",
-    "url": "https://github.com/DyCI/dyci-main",
-    "description": "Code injection tool."
+    "name": "raywenderlich.com",
+    "url": "https://www.raywenderlich.com/ios",
+    "description": "Tutorials for developers and gamers."
   },
   {
-    "name": "injectionforxcode",
-    "url": "https://github.com/johnno1962/injectionforxcode",
-    "description": "Code injection including Swift."
+    "name": "Mike Ash",
+    "url": "https://www.mikeash.com/pyblog/"
   },
   {
-    "name": "Vaccine",
-    "url": "https://github.com/zenangst/Vaccine",
-    "description": "Vaccine is a framework that aims to make your apps immune to recompile-decease."
+    "name": "Big Nerd Ranch",
+    "url": "https://www.bignerdranch.com/blog/category/ios/"
   },
   {
-    "name": "Swinject",
-    "url": "https://github.com/Swinject/Swinject",
-    "description": "Dependency injection framework for Swift."
+    "name": "Tuts+",
+    "url": "https://code.tutsplus.com/categories/ios-sdk"
   },
   {
-    "name": "Reliant",
-    "url": "https://github.com/appfoundry/Reliant",
-    "description": "Nonintrusive Objective-C dependency injection."
+    "name": "Thinkster",
+    "url": "https://thinkster.io/a-better-way-to-learn-swift"
   },
   {
-    "name": "Kraken",
-    "url": "https://github.com/sabirvirtuoso/Kraken",
-    "description": "A Dependency Injection Container for Swift with easy-to-use syntax."
+    "name": "Swift Education",
+    "url": "https://github.com/swifteducation",
+    "description": "A community of educators sharing materials for teaching Swift and app development."
   },
   {
-    "name": "Cleanse",
-    "url": "https://github.com/square/Cleanse",
-    "description": "Lightweight Swift Dependency Injection Framework by Square."
+    "name": "Cocoa Dev Central",
+    "url": "http://cocoadevcentral.com"
   },
   {
-    "name": "Typhoon",
-    "url": "https://github.com/appsquickly/Typhoon",
-    "description": "Powerful dependency injection for Objective-C."
+    "name": "Use Your Loaf",
+    "url": "https://useyourloaf.com/"
   },
   {
-    "name": "Pilgrim",
-    "url": "https://github.com/appsquickly/pilgrim",
-    "description": "Powerful dependency injection Swift (successor to Typhoon)."
+    "name": "Swift Tutorials by Jameson Quave",
+    "url": "https://jamesonquave.com/blog/tutorials/"
   },
   {
-    "name": "Perform",
-    "url": "https://github.com/thoughtbot/Perform",
-    "description": "Easy dependency injection for storyboard segues."
+    "name": "Awesome-Swift-Education",
+    "url": "https://github.com/hsavit1/Awesome-Swift-Education",
+    "description": "All of the resources for Learning About Swift."
   },
   {
-    "name": "Alchemic",
-    "url": "https://github.com/drekka/Alchemic",
-    "description": "Advanced, yet simple to use DI framework for Objective-C."
+    "name": "Awesome-Swift-Playgrounds",
+    "url": "https://github.com/uraimo/Awesome-Swift-Playgrounds",
+    "description": "A List of Awesome Swift Playgrounds!"
   },
   {
-    "name": "Guise",
-    "url": "https://github.com/prosumma/Guise",
-    "description": "An elegant, flexible, type-safe dependency resolution framework for Swift."
+    "name": "learn-swift",
+    "url": "https://github.com/nettlep/learn-swift",
+    "description": "Learn Apple's Swift programming language interactively through these playgrounds."
   },
   {
-    "name": "Weaver",
-    "url": "https://github.com/scribd/Weaver",
-    "description": "A declarative, easy-to-use and safe Dependency Injection framework for Swift."
+    "name": "SwiftUI Tutorials",
+    "url": "https://JaneshSwift.com",
+    "description": "Learn SwiftUI & Swift for FREE."
   },
   {
-    "name": "StoryboardBuilder",
-    "url": "https://github.com/hiro-nagami/StoryboardBuilder",
-    "description": "Simple dependency injection for generating views from storyboard."
+    "name": "Treehouse's iOS Courses and Workshops",
+    "url": "https://teamtreehouse.com/library/topic:ios",
+    "description": "Topics for beginner and advanced developers in both Objective-C and Swift."
   },
   {
-    "name": "ViperServices",
-    "url": "https://github.com/ladeiko/ViperServices",
-    "description": "Dependency injection container for iOS applications written in Swift. Each service can have boot and shutdown code."
+    "name": "The Swift Summary Book",
+    "url": "https://github.com/jakarmy/swift-summary",
+    "description": "A summary of Apple's Swift language written on Playgrounds."
   },
   {
-    "name": "DITranquillity",
-    "url": "https://github.com/ivlevAstef/DITranquillity",
-    "description": "Dependency injection framework for iOS applications written in clean Swift."
+    "name": "Hacking With Swift",
+    "url": "https://www.hackingwithswift.com",
+    "description": "Learn to code iPhone and iPad apps with 3 Swift tutorials."
   },
   {
-    "name": "Needle",
-    "url": "https://github.com/uber/needle"
+    "name": "Realm Academy",
+    "url": "https://academy.realm.io/"
   },
   {
-    "name": "Locatable",
-    "url": "https://github.com/vincent-pradeilles/locatable",
-    "description": "A micro-framework that leverages Property Wrappers to implement the Service Locator pattern."
+    "name": "LearnAppMaking",
+    "url": "https://learnappmaking.com",
+    "description": "LearnAppMaking helps app developers to build, launch and market iOS apps."
   },
   {
-    "name": "fastlane",
-    "url": "https://github.com/fastlane/fastlane",
-    "description": "Connect all iOS deployment tools into one streamlined workflow."
+    "name": "iOS Development with Swift in Motion ",
+    "url": "https://www.manning.com/livevideo/ios-development-with-swift-lv",
+    "description": "This live video course locks in the language fundamentals and then offers interesting examples and exercises to build and practice your knowledge and skills."
   },
   {
-    "name": "deliver",
-    "url": "https://github.com/fastlane/fastlane/tree/master/deliver",
-    "description": "Upload screenshots, metadata and your app to the App Store using a single command."
+    "name": "Conferences.digital",
+    "url": "https://github.com/zagahr/Conferences.digital",
+    "description": "Watch conference videos in a native macOS app."
   },
   {
-    "name": "snapshot",
-    "url": "https://github.com/fastlane/fastlane/tree/master/snapshot",
-    "description": "Automate taking localized screenshots of your iOS app on every device."
+    "name": "DaddyCoding",
+    "url": "https://daddycoding.com/",
+    "description": "iOS Tutorials ranging from beginners to advance."
   },
   {
-    "name": "buddybuild",
-    "url": "https://www.buddybuild.com/",
-    "description": "A mobile iteration platform - build, deploy, and collaborate."
+    "name": "Learn Swift",
+    "url": "https://blog.coursesity.com/best-swift-tutorials/",
+    "description": "Learn Swift - curated list of the top online Swift tutorials and courses."
   },
   {
-    "name": "Bitrise",
-    "url": "https://www.bitrise.io",
-    "description": "Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate."
+    "name": "iOS UI Design Kit",
+    "url": "https://www.invisionapp.com/inside-design/design-resources/tethr/"
   },
   {
-    "name": "watchbuild",
-    "url": "https://github.com/fastlane/watchbuild",
-    "description": "Get a notification once your iTunes Connect build is finished processing."
+    "name": "iOS Design Guidelines",
+    "url": "https://ivomynttinen.com/blog/ios-design-guidelines"
   },
   {
-    "name": "Crashlytics",
-    "url": "https://firebase.google.com/products/crashlytics/",
-    "description": "A crash reporting and beta testing service."
-  },
-  {
-    "name": "TestFlight Beta Testing",
-    "url": "https://developer.apple.com/testflight/",
-    "description": "The beta testing service hosted on iTunes Connect (requires iOS 8 or later)."
-  },
-  {
-    "name": "AppCenter",
-    "url": "https://appcenter.ms",
-    "description": "Continuously build, test, release, and monitor apps for every platform."
-  },
-  {
-    "name": "boarding",
-    "url": "https://github.com/fastlane/boarding",
-    "description": "Instantly create a simple signup page for TestFlight beta testers."
-  },
-  {
-    "name": "HockeyKit",
-    "url": "https://github.com/bitstadium/HockeyKit",
-    "description": "A software update kit."
-  },
-  {
-    "name": "Rollout.io",
-    "url": "https://rollout.io/",
-    "description": "SDK to patch, fix bugs, modify and manipulate native apps (Obj-c & Swift) in real-time."
-  },
-  {
-    "name": "AppLaunchpad",
-    "url": "https://theapplaunchpad.com/",
-    "description": "Free App Store screenshot builder."
-  },
-  {
-    "name": "LaunchKit",
-    "url": "https://github.com/LaunchKit/LaunchKit",
-    "description": "A set of web-based tools for mobile app developers, now open source!"
-  },
-  {
-    "name": "Instabug",
-    "url": "https://instabug.com",
-    "description": "In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging."
-  },
-  {
-    "name": "Appfigurate",
-    "url": "https://github.com/electricbolt/appfiguratesdk",
-    "description": "Secure runtime configuration for iOS and watchOS, apps and app extensions."
-  },
-  {
-    "name": "ScreenshotFramer",
-    "url": "https://github.com/IdeasOnCanvas/ScreenshotFramer",
-    "description": "With Screenshot Framer you can easily create nice-looking and localized App Store Images."
-  },
-  {
-    "name": "Semaphore",
-    "url": "https://semaphoreci.com/product/ios",
-    "description": "CI/CD service which makes it easy to build, test and deploy applications for any Apple device. iOS support is fully integrated in Semaphore 2.0, so you can use the same powerful CI/CD pipeline features for iOS as you do for Linux-based development."
-  },
-  {
-    "name": "Appcircle.io",
-    "url": "https://appcircle.io"
-  },
-  {
-    "name": "Screenplay",
-    "url": "https://screenplay.dev",
-    "description": "Instant rollbacks and canary deployments for iOS."
-  },
-  {
-    "name": "Codemagic",
-    "url": "https://codemagic.io",
-    "description": "Build, test and deliver iOS apps 20% faster with Codemagic CI/CD."
-  },
-  {
-    "name": "Runway",
-    "url": "https://runway.team",
-    "description": "Easier mobile releases for teams. Integrates across tools (version control, project management, CI, app stores, crash reporting, etc.) to provide a single source of truth for mobile teams to come together around during release cycles. Equal parts automation and collaboration."
-  },
-  {
-    "name": "ios-uploader",
-    "url": "https://github.com/simonnilsson/ios-uploader",
-    "description": "Easy to use, cross-platform tool to upload iOS apps to App Store Connect."
-  },
-  {
-    "name": "Apple's Common App Rejections Styleguide",
-    "url": "https://developer.apple.com/app-store/review/#common-app-rejections",
-    "description": "Highlighted some of the most common issues that cause apps to get rejected."
-  },
-  {
-    "name": "Free App Store Optimization Tool",
-    "url": "https://www.mobileaction.co",
-    "description": "Lets you track your App Store visibility in terms of keywords and competitors."
-  },
-  {
-    "name": "App Release Checklist",
-    "url": "https://github.com/oisin/app-release-checklist/blob/master/checklist.md",
-    "description": "A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are."
-  },
-  {
-    "name": "Harpy",
-    "url": "https://github.com/ArtSabintsev/Harpy",
-    "description": "Notify users when a new version of your iOS app is available, and prompt them with the App Store link."
-  },
-  {
-    "name": "appirater",
-    "url": "https://github.com/arashpayan/appirater",
-    "description": "A utility that reminds your iPhone app's users to review the app."
-  },
-  {
-    "name": "Siren",
-    "url": "https://github.com/ArtSabintsev/Siren",
-    "description": "Notify users when a new version of your app is available and prompt them to upgrade."
-  },
-  {
-    "name": "Appstore Review Guidelines",
-    "url": "https://github.com/aashishtamsya/Appstore-Review-Guidelines",
-    "description": "A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review."
-  },
-  {
-    "name": "AppVersion",
-    "url": "https://github.com/amebalabs/AppVersion",
-    "description": "Keep users on the up-to date version of your App."
+    "name": "iOS 11 iPhone GUI from Design at Meta",
+    "url": "https://design.facebook.com/toolsandresources/ios-11-iphone-gui/"
   },
   {
     "name": "CleanClosureXcode",
@@ -12708,693 +13252,5 @@
     "name": "Swift Macros 🚀",
     "url": "https://github.com/krzysztofzablocki/Swift-Macros",
     "description": "A curated list of community-created Macros and associated learning resources."
-  },
-  {
-    "name": "Swift Cheat Sheet",
-    "url": "https://github.com/iwasrobbed/Swift-CheatSheet",
-    "description": "A quick reference cheat sheet for common, high level topics in Swift."
-  },
-  {
-    "name": "Objective-C Cheat Sheet",
-    "url": "https://github.com/iwasrobbed/Objective-C-CheatSheet",
-    "description": "A quick reference cheat sheet for common, high level topics in Objective-C."
-  },
-  {
-    "name": "SwiftSnippets",
-    "url": "https://github.com/onmyway133/SwiftSnippets",
-    "description": "A collection of Swift snippets to be used in Xcode."
-  },
-  {
-    "name": "App Store Checklist",
-    "url": "https://github.com/whitef0x0/app-store-checklist",
-    "description": "A checklist of what to look for before submitting your app to the App Store."
-  },
-  {
-    "name": "whats-new-in-swift-4",
-    "url": "https://github.com/ole/whats-new-in-swift-4",
-    "description": "An Xcode playground showcasing the new features in Swift 4.0."
-  },
-  {
-    "name": "WWDC-Recap",
-    "url": "https://erenkabakci.github.io/WWDC-Recap/",
-    "description": "A collection of session summaries in markdown format, from WWDC 19 & 17."
-  },
-  {
-    "name": "Awesome-ios",
-    "url": "https://kandi.openweaver.com/swift/vsouza/awesome-ios",
-    "description": "A curated list of awesome iOS ecosystem."
-  },
-  {
-    "name": "NY Times - Objective C Style Guide",
-    "url": "https://github.com/NYTimes/objective-c-style-guide",
-    "description": "Objective C Style Guide - The Objective-C Style Guide used by The New York Times."
-  },
-  {
-    "name": "raywenderlich Style Guide",
-    "url": "https://github.com/raywenderlich/objective-c-style-guide",
-    "description": "A style guide that outlines the coding conventions for raywenderlich.com."
-  },
-  {
-    "name": "GitHub Objective-C Style Guide",
-    "url": "https://github.com/github/objective-c-style-guide",
-    "description": "Style guide & coding conventions for Objective-C projects."
-  },
-  {
-    "name": "Objective-C Coding Convention and Best Practices",
-    "url": "https://gist.github.com/soffes/812796",
-    "description": "Gist with coding conventions."
-  },
-  {
-    "name": "Swift Style Guide by @raywenderlich",
-    "url": "https://github.com/raywenderlich/swift-style-guide",
-    "description": "The official Swift style guide for raywenderlich.com."
-  },
-  {
-    "name": "Spotify Objective-C Coding Style",
-    "url": "https://github.com/spotify/ios-style",
-    "description": "Guidelines for iOS development in use at Spotify."
-  },
-  {
-    "name": "GitHub - Style guide & coding conventions for Swift projects",
-    "url": "https://github.com/github/swift-style-guide",
-    "description": "Style guide & coding conventions for Swift projects - A guide to our Swift style and conventions by @github."
-  },
-  {
-    "name": "Futurice iOS Good Practices",
-    "url": "https://github.com/futurice/ios-good-practices",
-    "description": "iOS starting guide and good practices suggestions by @futurice."
-  },
-  {
-    "name": "SlideShare Swift Style Guide",
-    "url": "https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md",
-    "description": "SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift."
-  },
-  {
-    "name": "Prolific Interactive Style Guide",
-    "url": "https://github.com/prolificinteractive/swift-style-guide",
-    "description": "A style guide for Swift."
-  },
-  {
-    "name": "Swift Style Guide by LinkedIn",
-    "url": "https://github.com/linkedin/swift-style-guide",
-    "description": "LinkedIn's Official Swift Style Guide."
-  },
-  {
-    "name": "BGR",
-    "url": "https://bgr.com/ios-7/"
-  },
-  {
-    "name": "iMore",
-    "url": "https://www.imore.com/"
-  },
-  {
-    "name": "Lifehacker",
-    "url": "https://lifehacker.com/tag/ios"
-  },
-  {
-    "name": "NSHipster",
-    "url": "https://nshipster.com"
-  },
-  {
-    "name": "Objc.io",
-    "url": "https://www.objc.io/"
-  },
-  {
-    "name": "ASCIIwwdc",
-    "url": "https://asciiwwdc.com/"
-  },
-  {
-    "name": "Natasha The Robot",
-    "url": "https://www.natashatherobot.com/"
-  },
-  {
-    "name": "Apple's Swift Blog",
-    "url": "https://developer.apple.com/swift/blog/"
-  },
-  {
-    "name": "iOS Programming Subreddit",
-    "url": "https://www.reddit.com/r/iOSProgramming/"
-  },
-  {
-    "name": "iOS8-day-by-day",
-    "url": "https://github.com/ScottLogic/iOS8-day-by-day"
-  },
-  {
-    "name": "iOScreator",
-    "url": "https://www.ioscreator.com/"
-  },
-  {
-    "name": "Mathew Sanders",
-    "url": "http://mathewsanders.com/"
-  },
-  {
-    "name": "iOS Dev Nuggets",
-    "url": "http://hboon.com/iosdevnuggets/"
-  },
-  {
-    "name": "iOS Developer and Designer interview",
-    "url": "https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions",
-    "description": "A small guide to help those looking to hire a developer or designer for iOS work."
-  },
-  {
-    "name": "iOS9-day-by-day",
-    "url": "https://github.com/ScottLogic/iOS9-day-by-day"
-  },
-  {
-    "name": "Code Facebook",
-    "url": "https://engineering.fb.com/category/ios/"
-  },
-  {
-    "name": "Feeds for iOS Developer",
-    "url": "https://github.com/rgnlax/Feeds-for-iOS-Developer",
-    "description": "The list of RSS feeds for iOS developers."
-  },
-  {
-    "name": "Cocoa Controls",
-    "url": "https://www.cocoacontrols.com/",
-    "description": "Open source UI components for iOS and macOS."
-  },
-  {
-    "name": "Ohmyswift",
-    "url": "https://www.ohmyswift.com/blog/"
-  },
-  {
-    "name": "Point Free",
-    "url": "https://www.pointfree.co/",
-    "description": "A video series exploring functional programming and Swift."
-  },
-  {
-    "name": "iOS Fonts",
-    "url": "http://iosfonts.com/"
-  },
-  {
-    "name": "UIAppearance list",
-    "url": "https://gist.github.com/mattt/5135521"
-  },
-  {
-    "name": "\"iOS\" on Stackoverflow",
-    "url": "https://stackoverflow.com/questions/tagged/ios"
-  },
-  {
-    "name": "AppCoda",
-    "url": "https://www.appcoda.com/"
-  },
-  {
-    "name": "Tutorials Point",
-    "url": "https://www.tutorialspoint.com/ios/index.htm"
-  },
-  {
-    "name": "Code with Chris",
-    "url": "https://codewithchris.com/"
-  },
-  {
-    "name": "Cocoa with Love",
-    "url": "http://www.cocoawithlove.com/"
-  },
-  {
-    "name": "Brian Advent youtube channel",
-    "url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos",
-    "description": "Swift tutorials Youtube Channel."
-  },
-  {
-    "name": "raywenderlich.com",
-    "url": "https://www.raywenderlich.com/ios",
-    "description": "Tutorials for developers and gamers."
-  },
-  {
-    "name": "Mike Ash",
-    "url": "https://www.mikeash.com/pyblog/"
-  },
-  {
-    "name": "Big Nerd Ranch",
-    "url": "https://www.bignerdranch.com/blog/category/ios/"
-  },
-  {
-    "name": "Tuts+",
-    "url": "https://code.tutsplus.com/categories/ios-sdk"
-  },
-  {
-    "name": "Thinkster",
-    "url": "https://thinkster.io/a-better-way-to-learn-swift"
-  },
-  {
-    "name": "Swift Education",
-    "url": "https://github.com/swifteducation",
-    "description": "A community of educators sharing materials for teaching Swift and app development."
-  },
-  {
-    "name": "Cocoa Dev Central",
-    "url": "http://cocoadevcentral.com"
-  },
-  {
-    "name": "Use Your Loaf",
-    "url": "https://useyourloaf.com/"
-  },
-  {
-    "name": "Swift Tutorials by Jameson Quave",
-    "url": "https://jamesonquave.com/blog/tutorials/"
-  },
-  {
-    "name": "Awesome-Swift-Education",
-    "url": "https://github.com/hsavit1/Awesome-Swift-Education",
-    "description": "All of the resources for Learning About Swift."
-  },
-  {
-    "name": "Awesome-Swift-Playgrounds",
-    "url": "https://github.com/uraimo/Awesome-Swift-Playgrounds",
-    "description": "A List of Awesome Swift Playgrounds!"
-  },
-  {
-    "name": "learn-swift",
-    "url": "https://github.com/nettlep/learn-swift",
-    "description": "Learn Apple's Swift programming language interactively through these playgrounds."
-  },
-  {
-    "name": "SwiftUI Tutorials",
-    "url": "https://JaneshSwift.com",
-    "description": "Learn SwiftUI & Swift for FREE."
-  },
-  {
-    "name": "Treehouse's iOS Courses and Workshops",
-    "url": "https://teamtreehouse.com/library/topic:ios",
-    "description": "Topics for beginner and advanced developers in both Objective-C and Swift."
-  },
-  {
-    "name": "The Swift Summary Book",
-    "url": "https://github.com/jakarmy/swift-summary",
-    "description": "A summary of Apple's Swift language written on Playgrounds."
-  },
-  {
-    "name": "Hacking With Swift",
-    "url": "https://www.hackingwithswift.com",
-    "description": "Learn to code iPhone and iPad apps with 3 Swift tutorials."
-  },
-  {
-    "name": "Realm Academy",
-    "url": "https://academy.realm.io/"
-  },
-  {
-    "name": "LearnAppMaking",
-    "url": "https://learnappmaking.com",
-    "description": "LearnAppMaking helps app developers to build, launch and market iOS apps."
-  },
-  {
-    "name": "iOS Development with Swift in Motion ",
-    "url": "https://www.manning.com/livevideo/ios-development-with-swift-lv",
-    "description": "This live video course locks in the language fundamentals and then offers interesting examples and exercises to build and practice your knowledge and skills."
-  },
-  {
-    "name": "Conferences.digital",
-    "url": "https://github.com/zagahr/Conferences.digital",
-    "description": "Watch conference videos in a native macOS app."
-  },
-  {
-    "name": "DaddyCoding",
-    "url": "https://daddycoding.com/",
-    "description": "iOS Tutorials ranging from beginners to advance."
-  },
-  {
-    "name": "Learn Swift",
-    "url": "https://blog.coursesity.com/best-swift-tutorials/",
-    "description": "Learn Swift - curated list of the top online Swift tutorials and courses."
-  },
-  {
-    "name": "iOS UI Design Kit",
-    "url": "https://www.invisionapp.com/inside-design/design-resources/tethr/"
-  },
-  {
-    "name": "iOS Design Guidelines",
-    "url": "https://ivomynttinen.com/blog/ios-design-guidelines"
-  },
-  {
-    "name": "iOS 11 iPhone GUI from Design at Meta",
-    "url": "https://design.facebook.com/toolsandresources/ios-11-iphone-gui/"
-  },
-  {
-    "name": "FluidUI",
-    "url": "https://www.fluidui.com"
-  },
-  {
-    "name": "Proto.io",
-    "url": "https://proto.io/"
-  },
-  {
-    "name": "Framer",
-    "url": "https://www.framer.com/"
-  },
-  {
-    "name": "Principle",
-    "url": "https://principleformac.com/"
-  },
-  {
-    "name": "AwesomeiOS Weekly",
-    "url": "http://weekly.awesomeios.com",
-    "description": "AwesomeiOS Weekly."
-  },
-  {
-    "name": "iOS Goodies",
-    "url": "https://ios-goodies.com",
-    "description": "Weekly iOS newsletter."
-  },
-  {
-    "name": "raywenderlich.com Weekly",
-    "url": "https://www.raywenderlich.com/newsletter",
-    "description": "sign up to receive the latest tutorials from raywenderlich.com each week."
-  },
-  {
-    "name": "iOS Dev Tools Weekly",
-    "url": "https://iosdev.tools",
-    "description": "The greatest iOS development tools, including websites, desktop and mobile apps, and back-end services."
-  },
-  {
-    "name": "iOS Trivia Weekly",
-    "url": "https://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b",
-    "description": "Three challenging questions about iOS development every Wednesday."
-  },
-  {
-    "name": "Indie iOS Focus Weekly",
-    "url": "http://indieiosfocus.com/",
-    "description": "Looking for the best iOS dev links, tutorials, & tips beyond the usual news? Curated by Chris Beshore. Published every Thursday."
-  },
-  {
-    "name": "iOS Dev Weekly",
-    "url": "https://iosdevweekly.com/",
-    "description": "Subscribe to a hand-picked round up of the best iOS development links every week. Free."
-  },
-  {
-    "name": "Swift Weekly Brief",
-    "url": "https://swiftweekly.github.io/",
-    "description": "A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday."
-  },
-  {
-    "name": "Server-Side Swift Weekly",
-    "url": "https://www.serverswift.tech",
-    "description": "A weekly newsletter with the best links related to server-side Swift and cross-platform developer tools. Curated by @maxdesiatov"
-  },
-  {
-    "name": "iOS Cookies Newsletter",
-    "url": "https://us11.campaign-archive.com/home/?u=cd1f3ed33c6527331d82107ba&id=532dc7fb64",
-    "description": "A weekly digest of new iOS libraries written in Swift."
-  },
-  {
-    "name": "Swift Developments",
-    "url": "https://andybargh.com/swiftdevelopments/",
-    "description": "A weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, WatchOS and AppleTV apps using Swift."
-  },
-  {
-    "name": "Mobile Developers Cafe",
-    "url": "https://mobiledeveloperscafe.com",
-    "description": "A weekly newsletter for Mobile developers with loads of iOS content."
-  },
-  {
-    "name": "Indie Watch",
-    "url": "https://indie.watch/",
-    "description": "A weekly newsletter featuring the best apps made by indie iOS developers."
-  },
-  {
-    "name": "SwiftLee",
-    "url": "https://www.avanderlee.com/",
-    "description": "A weekly blog about Swift, iOS and Xcode Tips and Tricks."
-  },
-  {
-    "name": "iOS App Development",
-    "url": "https://medium.com/ios-os-x-development",
-    "description": "Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone."
-  },
-  {
-    "name": "Swift Programming",
-    "url": "https://medium.com/swift-programming",
-    "description": "The Swift Programming Language."
-  },
-  {
-    "name": "Flawless App",
-    "url": "https://medium.com/flawless-app-stories",
-    "description": "Development & design & marketing tips for iOS developers."
-  },
-  {
-    "name": "The Ray Wenderlich Podcast",
-    "url": "https://www.raywenderlich.com/podcast"
-  },
-  {
-    "name": "Debug",
-    "url": "https://www.imore.com/debug"
-  },
-  {
-    "name": "App Story",
-    "url": "http://www.appstorypodcast.com"
-  },
-  {
-    "name": "iPhreaks",
-    "url": "https://devchat.tv/iphreaks/"
-  },
-  {
-    "name": "Under the Radar",
-    "url": "https://www.relay.fm/radar"
-  },
-  {
-    "name": "Core Intuition",
-    "url": "http://coreint.org/"
-  },
-  {
-    "name": "Swift Playhouse",
-    "url": "http://www.swiftplayhouse.com/"
-  },
-  {
-    "name": "Release Notes",
-    "url": "https://releasenotes.tv/"
-  },
-  {
-    "name": "More Than Just Code",
-    "url": "https://mtjc.fireside.fm/"
-  },
-  {
-    "name": "Runtime",
-    "url": "https://spec.fm/podcasts/runtime"
-  },
-  {
-    "name": "Consult",
-    "url": "https://consultpodcast.com/#_=_"
-  },
-  {
-    "name": "Swift Unwrapped",
-    "url": "https://spec.fm/podcasts/swift-unwrapped"
-  },
-  {
-    "name": "Fireside Swift",
-    "url": "https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2"
-  },
-  {
-    "name": "Swift by Sundell",
-    "url": "https://www.swiftbysundell.com/podcast/"
-  },
-  {
-    "name": "Stacktrace",
-    "url": "https://stacktracepodcast.fm"
-  },
-  {
-    "name": "The Swift Programming Language by Apple",
-    "url": "https://books.apple.com/us/book/swift-programming-language/id881256329"
-  },
-  {
-    "name": "iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass",
-    "url": "https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/"
-  },
-  {
-    "name": "Programming in Objective-C by Stephen G. Kochan",
-    "url": "https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607"
-  },
-  {
-    "name": "The Complete Friday Q & A: Volume 1",
-    "url": "https://www.mikeash.com/book.html"
-  },
-  {
-    "name": "Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch",
-    "url": "https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426"
-  },
-  {
-    "name": "Cocoa Design Patterns",
-    "url": "https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022"
-  },
-  {
-    "name": "Hello Swift! by Tanmay Bakshi with Lynn Beighley",
-    "url": "https://www.manning.com/books/hello-swift"
-  },
-  {
-    "name": "iOS Development with Swift by Craig Grummitt",
-    "url": "https://www.manning.com/books/ios-development-with-swift"
-  },
-  {
-    "name": "Anyone Can Create an App by Wendy L. Wise",
-    "url": "https://www.manning.com/books/anyone-can-create-an-app"
-  },
-  {
-    "name": "Advanced Swift by Chris Eidhof, Ole Begemann, and Airspeed Velocity",
-    "url": "https://www.objc.io/books/advanced-swift/"
-  },
-  {
-    "name": "Functional Swift by Chris Eidhof, Florian Kugler, and Wouter Swierstra",
-    "url": "https://www.objc.io/books/functional-swift/"
-  },
-  {
-    "name": "Core Data by Florian Kugler and Daniel Eggert",
-    "url": "https://www.objc.io/books/core-data/"
-  },
-  {
-    "name": "Classic Computer Science Problems in Swift",
-    "url": "https://www.manning.com/books/classic-computer-science-problems-in-swift"
-  },
-  {
-    "name": "Swift in Depth",
-    "url": "https://www.manning.com/books/swift-in-depth"
-  },
-  {
-    "name": "awesome-awesomeness",
-    "url": "https://github.com/bayandin/awesome-awesomeness"
-  },
-  {
-    "name": "Open Source apps",
-    "url": "https://github.com/dkhamsing/open-source-ios-apps"
-  },
-  {
-    "name": "@matteocrippa",
-    "url": "https://github.com/matteocrippa/awesome-swift",
-    "description": "A collaborative list of awesome swift resources."
-  },
-  {
-    "name": "@matteocrippa",
-    "url": "https://github.com/matteocrippa/awesome-swift",
-    "description": "A collaborative list of awesome swift resources."
-  },
-  {
-    "name": "@Wolg",
-    "url": "https://github.com/Wolg/awesome-swift",
-    "description": "A curated list of awesome Swift frameworks, libraries and software."
-  },
-  {
-    "name": "Awesome-Swift-Education",
-    "url": "https://github.com/hsavit1/Awesome-Swift-Education",
-    "description": "All of the resources for Learning About Swift."
-  },
-  {
-    "name": "awesome watchkit apps",
-    "url": "https://github.com/sanketfirodiya/sample-watchkit-apps"
-  },
-  {
-    "name": "iOS Learning Resources",
-    "url": "https://github.com/sanketfirodiya/iOS-learning-resources"
-  },
-  {
-    "name": "@ameizi",
-    "url": "https://github.com/ameizi/awesome-ios-animation",
-    "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries."
-  },
-  {
-    "name": "@ameizi",
-    "url": "https://github.com/ameizi/awesome-ios-animation",
-    "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries."
-  },
-  {
-    "name": "@jzau",
-    "url": "https://github.com/jzau/awesome-ios-animation",
-    "description": "Collection of Animation projects."
-  },
-  {
-    "name": "awesome-ios-chart",
-    "url": "https://github.com/ameizi/awesome-ios-chart",
-    "description": "A curated list of awesome iOS chart libraries, including Objective-C and Swift."
-  },
-  {
-    "name": "awesome-gists",
-    "url": "https://github.com/vsouza/awesome-gists#ios",
-    "description": "A list of amazing gists (iOS section)."
-  },
-  {
-    "name": "awesome-ios-ui",
-    "url": "https://github.com/cjwirth/awesome-ios-ui",
-    "description": "A curated list of awesome iOS UI/UX libraries."
-  },
-  {
-    "name": "Awesome-Server-Side-Swift/TheList",
-    "url": "https://github.com/Awesome-Server-Side-Swift/TheList",
-    "description": "A list of Awesome Server Side Swift 3 projects."
-  },
-  {
-    "name": "awesome-interview-questions",
-    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions#ios",
-    "description": "A curated awesome list of lists of interview questions including iOS."
-  },
-  {
-    "name": "iOS-Playbook",
-    "url": "https://github.com/bakkenbaeck/iOS-handbook",
-    "description": "Guidelines and best practices for excellent iOS apps."
-  },
-  {
-    "name": "iOS-Learning-Materials",
-    "url": "https://github.com/jVirus/iOS-Learning-Materials",
-    "description": "Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS."
-  },
-  {
-    "name": "Awesome-iOS-Twitter",
-    "url": "https://github.com/carolanitz/Awesome-iOS-Twitter",
-    "description": "A curated list of awesome iOS Twitter accounts."
-  },
-  {
-    "name": "Marketing for Engineers",
-    "url": "https://github.com/LisaDziuba/Marketing-for-Engineers",
-    "description": "A curated collection of marketing articles & tools to grow your product."
-  },
-  {
-    "name": "Awesome ARKit",
-    "url": "https://github.com/olucurious/Awesome-ARKit",
-    "description": "A curated list of awesome ARKit projects and resources."
-  },
-  {
-    "name": "CocoaConferences",
-    "url": "https://github.com/Lascorbe/CocoaConferences",
-    "description": "List of cocoa conferences for iOS & macOS developers."
-  },
-  {
-    "name": "example-ios-apps",
-    "url": "https://github.com/jogendra/example-ios-apps",
-    "description": "A curated list of Open Source example iOS apps developed in Swift."
-  },
-  {
-    "name": "Curated-Resources-for-Learning-Swift",
-    "url": "https://hackr.io/tutorials/learn-ios-swift",
-    "description": "A curated list of resources recommended by the developers."
-  },
-  {
-    "name": "ClassicProblemSolvingAndDataStructuresInSwift",
-    "url": "https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift",
-    "description": "Collection of popular algorithms, data structure and problem solving in Swift 4."
-  },
-  {
-    "name": "Awesome list of open source applications for macOS",
-    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
-    "description": "List of awesome open source applications for macOS."
-  },
-  {
-    "name": "Awesome iOS Interview question list",
-    "url": "https://github.com/dashvlas/awesome-ios-interview",
-    "description": "Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way."
-  },
-  {
-    "name": "Top App Developers",
-    "url": "https://github.com/app-developers/top",
-    "description": "A list of top iOS app developers."
-  },
-  {
-    "name": "awesome-ios-developer",
-    "url": "https://github.com/jphong1111/awesome-ios-developer",
-    "description": "Useful knowledges and stuff for ios developer."
-  },
-  {
-    "name": "awesome-ios-books",
-    "url": "https://github.com/bystritskiy/awesome-ios-books",
-    "description": "A list of books for iOS developers."
-  },
-  {
-    "name": "See the guide",
-    "url": "https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md"
   }
 ]
