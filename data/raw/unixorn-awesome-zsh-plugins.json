@@ -134,10 +134,6 @@
     "url": "https://github.com/jandamm/zgenom"
   },
   {
-    "name": "ZI",
-    "url": "https://github.com/z-shell/zi"
-  },
-  {
     "name": "zilsh",
     "url": "https://github.com/zilsh/zilsh"
   },
@@ -1408,6 +1404,11 @@
     "name": "diractions",
     "url": "https://github.com/AdrieanKhisbe/diractions",
     "description": "Allow you to map a short logical/mnemonic name to directories to quickly access them, or perform actions in them."
+  },
+  {
+    "name": "dirbrowse",
+    "url": "https://github.com/giovannilupi/dirbrowse/",
+    "description": "Customized version of the dirbrowse plugin in oh-my-zsh."
   },
   {
     "name": "dircolors-solarized (joel-porquet)",
@@ -4273,6 +4274,11 @@
     "description": "Automagically updates homebrew plugins. Allows enabling/disabling notice during startup and alias setup."
   },
   {
+    "name": "touchplus",
+    "url": "https://github.com/raisedadead/zsh-touchplus",
+    "description": "Create files with touch including the path."
+  },
+  {
     "name": "traista",
     "url": "https://github.com/exaluc/traista",
     "description": "Includes git status decorations and color-coded exit status of the last command run. Better with dark terminal themes."
@@ -5018,9 +5024,9 @@
     "description": "Completions for viasite-ansible/ansible-server."
   },
   {
-    "name": "antibody-completion",
+    "name": "antibody",
     "url": "https://github.com/sinetoami/antibody-completion",
-    "description": "This plugin provides completion for Antibody plugin manager."
+    "description": "This plugin provides completion for the Antibody plugin manager."
   },
   {
     "name": "appspec",
@@ -5031,6 +5037,11 @@
     "name": "argc-completions",
     "url": "https://github.com/sigoden/argc-completions",
     "description": "Uses argc and jq to add ZSH tab completions."
+  },
+  {
+    "name": "audogombleed.sh",
+    "url": "https://github.com/i-love-coffee-i-love-tea/audogombleed.sh",
+    "description": "Makes it easy to generate completion files using a declarative syntax, quickly and without coding."
   },
   {
     "name": "autopkg-zsh-completion",
@@ -9506,14 +9517,14 @@
     "description": "A risto inspired ZSH theme with a lolcat like rainbow effect."
   },
   {
+    "name": "river-dreams",
+    "url": "https://github.com/skippyr/river-dreams",
+    "description": "Includes decorators for git information, machine's IP address, time, disk usage on /, current Python venv, current directory, root status, and the last command's exit status."
+  },
+  {
     "name": "river",
     "url": "https://github.com/revir/river-zsh-config",
     "description": "Dark theme with git information."
-  },
-  {
-    "name": "river_dreams",
-    "url": "https://github.com/skippyr/river_dreams",
-    "description": "Includes decorators for git information, machine's IP address, time, disk usage on /, current Python venv, current directory, root status, and the last command's exit status."
   },
   {
     "name": "riverside",

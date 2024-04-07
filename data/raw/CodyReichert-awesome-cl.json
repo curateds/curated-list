@@ -100,6 +100,11 @@
     "description": "A real-time sound processing and playback system. zlib."
   },
   {
+    "name": "easy-audio",
+    "url": "https://github.com/shamazmazum/easy-audio",
+    "description": "a collection of audio decoders and metadata readers."
+  },
+  {
     "name": "ASDF",
     "url": "https://common-lisp.net/project/asdf/",
     "description": "Another System Definition Facility; a build system for Common Lisp. Expat. Quicklisp (see library manager) uses ASDF under the hood."
@@ -371,11 +376,6 @@
     "description": "an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. GPL3."
   },
   {
-    "name": "facts",
-    "url": "https://github.com/cl-facts/facts",
-    "description": "an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC)."
-  },
-  {
     "name": "postmodern",
     "url": "http://marijnhaverbeke.nl/postmodern/",
     "description": "A library for interacting with PostgreSQL. zlib."
@@ -535,6 +535,11 @@
     "description": "Common Lisp algorithms collection for competitive programming. Public domain, CCO or MIT."
   },
   {
+    "name": "nonempty",
+    "url": "https://github.com/fosskers/cl-nonempty",
+    "description": "Non-empty collections for Common Lisp.  LGPL3."
+  },
+  {
     "name": "access",
     "url": "https://github.com/AccelerationNet/access/",
     "description": "Consistent and nested access to most common data structures. BSD_3Clause."
@@ -653,6 +658,10 @@
     "name": "py4cl",
     "url": "https://github.com/bendudson/py4cl",
     "description": "A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. MIT."
+  },
+  {
+    "name": "py4cl2",
+    "url": "https://github.com/digikar99/py4cl2"
   },
   {
     "name": "py4cl2-cffi",
@@ -881,7 +890,7 @@
   },
   {
     "name": "nodgui",
-    "url": "https://notabug.org/cage/nodgui",
+    "url": "https://codeberg.org/cage/nodgui",
     "description": "Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. LLGPL."
   },
   {
@@ -991,6 +1000,16 @@
     "name": "SBCL-GOODIES",
     "url": "https://github.com/sionescu/sbcl-goodies",
     "description": "Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. MIT."
+  },
+  {
+    "name": "Nightly Windows builds of SBCL",
+    "url": "https://github.com/olnw/sbcl-builds",
+    "description": "Nightly builds of SBCL using MSYS2 UCRT64. See also Roswell's SBCL MSI builds."
+  },
+  {
+    "name": "sbcl-wiki",
+    "url": "https://github.com/guicho271828/sbcl-wiki/wiki",
+    "description": "an open wiki to document SBCL's internals."
   },
   {
     "name": "CCL",
@@ -1222,16 +1241,6 @@
     "description": "A compatibility layer that rectifies many absent or incorrect MOP features. Expat."
   },
   {
-    "name": "defclass-std",
-    "url": "https://github.com/EuAndreh/defclass-std",
-    "description": "a shortcut macro to write DEFCLASS forms quickly. LLGPL."
-  },
-  {
-    "name": "nclasses",
-    "url": "https://github.com/atlas-engineer/nclasses",
-    "description": "Syntactic sugar for class and generic function declarations. Fork of hu.dwim.defclass-star. Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. BSD."
-  },
-  {
     "name": "specialization-store",
     "url": "https://github.com/markcox80/specialization-store/",
     "description": "generic functions based on types. Simplified BSD License variant."
@@ -1265,6 +1274,16 @@
     "name": "polymorphic functions",
     "url": "https://github.com/digikar99/polymorphic-functions",
     "description": "A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). MIT."
+  },
+  {
+    "name": "defclass-std",
+    "url": "https://github.com/EuAndreh/defclass-std",
+    "description": "a shortcut macro to write DEFCLASS forms quickly. LLGPL."
+  },
+  {
+    "name": "nclasses",
+    "url": "https://github.com/atlas-engineer/nclasses",
+    "description": "Syntactic sugar for class and generic function declarations. Fork of hu.dwim.defclass-star. Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. BSD."
   },
   {
     "name": "slot-extra-options",
@@ -1406,6 +1425,11 @@
     "description": "a collection of macros for easy inclusion of type declarations for arguments in lambda lists. GNU GPL3"
   },
   {
+    "name": "algebraic-data-types",
+    "url": "https://github.com/stylewarning/cl-algebraic-data-type",
+    "description": "defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. BSD_3Clause."
+  },
+  {
     "name": "typo",
     "url": "https://github.com/marcoheisig/Typo/",
     "description": "A portable type inference library for Common Lisp. MIT."
@@ -1427,6 +1451,10 @@
   {
     "name": "Proofpad",
     "url": "https://github.com/calebegg/proof-pad/"
+  },
+  {
+    "name": "ACL2-kernel",
+    "url": "https://github.com/tani/acl2-kernel"
   },
   {
     "name": "ACL2 Sedan",
@@ -1737,6 +1765,11 @@
     "description": "a new and experimental alternative to Quicklisp, built on tools from the world of containers. MIT."
   },
   {
+    "name": "trivial-system-loader",
+    "url": "https://github.com/atgreen/trivial-system-loader",
+    "description": "A system installation/loading abstraction for Common Lisp."
+  },
+  {
     "name": "redist",
     "url": "https://github.com/shirakumo/redist",
     "description": "facilities to produce Quicklisp distributions."
@@ -1790,6 +1823,11 @@
     "name": "alien-works-delivery",
     "url": "https://github.com/borodust/alien-works-delivery",
     "description": "WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too."
+  },
+  {
+    "name": "cl-nix-lite",
+    "url": "https://github.com/hraban/cl-nix-lite",
+    "description": "Common Lisp module for Nix, without Quicklisp. AGPL-3.0"
   },
   {
     "name": "asdf-sbcl",
@@ -2007,6 +2045,11 @@
     "description": "A jQuery-like HTML/DOM manipulation library. zlib."
   },
   {
+    "name": "scrapycl",
+    "url": "https://40ants.com/scrapycl/",
+    "description": "web scraping framework for writing crawlers in Common Lisp. Unlicense."
+  },
+  {
     "name": "spinneret",
     "url": "https://github.com/ruricolist/spinneret",
     "description": "Common Lisp HTML5 generator. Expat."
@@ -2158,6 +2201,11 @@
     "name": "cl-aws-runtime-test",
     "url": "https://github.com/y2q-actionman/cl-aws-custom-runtime-test",
     "description": "An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL."
+  },
+  {
+    "name": "40ants/ci",
+    "url": "https://github.com/40ants/ci/",
+    "description": "Highly opionated Github Actions workflow builder for Common Lisp projects."
   },
   {
     "name": "Platform.sh",
@@ -2503,10 +2551,6 @@
     "description": "Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. GNU GPL3."
   },
   {
-    "name": "linear-programming",
-    "url": "https://neil-lindquist.github.io/linear-programming/"
-  },
-  {
     "name": "avm",
     "url": "https://github.com/takagi/avm",
     "description": "Efficient and expressive arrayed vector math library with multi-threading and CUDA support. MIT."
@@ -2535,6 +2579,15 @@
     "name": "origin",
     "url": "https://github.com/mfiano/origin",
     "description": "A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping & intersections. MIT."
+  },
+  {
+    "name": "linear-programming",
+    "url": "https://neil-lindquist.github.io/linear-programming/"
+  },
+  {
+    "name": "shop3",
+    "url": "https://github.com/shop-planner/shop3",
+    "description": "a Hierarchical Task Network (HTN) AI planner. Mozilla Public License."
   },
   {
     "name": "magicl",
@@ -2876,14 +2929,19 @@
     "description": "A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git."
   },
   {
-    "name": "cl-devel2",
-    "url": "https://hub.docker.com/r/eshamster/cl-devel2/",
-    "description": "a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime."
-  },
-  {
     "name": "Emacs4CL",
     "url": "https://github.com/susam/emacs4cl",
     "description": "A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file."
+  },
+  {
+    "name": "plain-common-lisp",
+    "url": "https://github.com/pascalcombier/plain-common-lisp/",
+    "description": "A trivial way to get a native Common Lisp environment on Windows."
+  },
+  {
+    "name": "cl-devel2",
+    "url": "https://hub.docker.com/r/eshamster/cl-devel2/",
+    "description": "a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime."
   },
   {
     "name": "slime-star",
@@ -3081,6 +3139,11 @@
     "description": "Packrat parser. Expat."
   },
   {
+    "name": "alexa",
+    "url": "https://github.com/quil-lang/alexa",
+    "description": "A Lexical Analyzer Generator. BSD_3Clause."
+  },
+  {
     "name": "cl-yacc",
     "url": "https://github.com/jech/cl-yacc",
     "description": "a LALR(1) parser generator. MIT."
@@ -3101,14 +3164,19 @@
     "description": "a library for parsing sequences such as strings and lists using parsing expression grammars. Inspired by Esrap. GPL2."
   },
   {
-    "name": "texp",
-    "url": "https://github.com/eugeneia/texp/",
-    "description": "A DSL to generate TeX. AGPL-3.0."
-  },
-  {
     "name": "lisp-binary",
     "url": "https://github.com/j3pic/lisp-binary",
     "description": "A library to easily read and write complex binary formats. GPL3."
+  },
+  {
+    "name": "uclp",
+    "url": "https://github.com/ravi-delia/uclp",
+    "description": "An experimental implementation of parsing expression grammars (PEGs, a la Janet) in Common Lisp. MIT."
+  },
+  {
+    "name": "texp",
+    "url": "https://github.com/eugeneia/texp/",
+    "description": "A DSL to generate TeX. AGPL-3.0."
   },
   {
     "name": "montezuma",
@@ -3194,6 +3262,11 @@
     "name": "cl-coveralls",
     "url": "https://github.com/fukamachi/cl-coveralls",
     "description": "a helper"
+  },
+  {
+    "name": "CheckL",
+    "url": "https://github.com/rpav/CheckL/",
+    "description": "Why write programs in Common Lisp but tests like Java? Meet CheckL!"
   },
   {
     "name": "testieren",
@@ -3433,7 +3506,7 @@
   {
     "name": "Codex",
     "url": "https://github.com/CommonDoc/codex",
-    "description": "A beautiful"
+    "description": "A beautiful documentation system for Common Lisp. MIT."
   },
   {
     "name": "QBook",
@@ -3665,6 +3738,11 @@
     "description": "A simple chart drawing library written completely in Common Lisp. Also includes a backend to Google's chart service. BSD-like."
   },
   {
+    "name": "cl-text-plot",
+    "url": "https://github.com/moneylobster/cl-text-plot/",
+    "description": "Plot with text in Common Lisp. No licence specified."
+  },
+  {
     "name": "cl-spark",
     "url": "https://github.com/tkych/cl-spark",
     "description": "sparkline strings for the console: (spark '(1 1 2 3 5 8)) => \"▁▁▂▃▅▇\". MIT."
@@ -3732,6 +3810,16 @@
     "name": "Buildnode",
     "url": "https://github.com/AccelerationNet/buildnode",
     "description": "A common lisp library to ease interaction with CXML-dom, such as building Excel spreadsheets. BSD."
+  },
+  {
+    "name": "lisp-xl",
+    "url": "https://github.com/defunkydrummer/lisp-xl",
+    "description": "Common Lisp Microsoft XLSX (Microsoft Excel) loader for arbitrarily-sized / big-size files. MIT."
+  },
+  {
+    "name": "xlsx",
+    "url": "https://gitlab.common-lisp.net/cungil/xlsx",
+    "description": "a basic reader for Excel files."
   },
   {
     "name": "babel",

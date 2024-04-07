@@ -1565,6 +1565,11 @@
     "description": "C++ Benchmarking Framework. [Apache2]"
   },
   {
+    "name": "cpp-dump",
+    "url": "https://github.com/philip82148/cpp-dump",
+    "description": "A C++ library for debugging purposes that can print any variable, even user-defined types. [MIT]"
+  },
+  {
     "name": "CppUTest",
     "url": "https://github.com/cpputest/cpputest",
     "description": "Unit testing and mocking framework for C/C++. [BSD-3-clause]"
