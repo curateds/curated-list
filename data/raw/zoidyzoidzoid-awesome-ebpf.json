@@ -497,6 +497,11 @@
     "description": "Learn eBPF by examples - Start with eBPF basics and progress to advanced topics using 20+ hands-on tutorials and examples. Covers performance, networking, and security with libbpf and CO-RE. Available in Chinese and English."
   },
   {
+    "name": "Catch Performance Regressions in eBPF",
+    "url": "https://bencher.dev/docs/explanation/talks/#linuxcon-2023-12-may-23",
+    "description": "A step-by-step guide to benchmarking both the client and kernel eBPF code written in Rust."
+  },
+  {
     "name": "linux/samples/bpf/",
     "url": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/samples/bpf",
     "description": "In the kernel tree: some sample eBPF programs."

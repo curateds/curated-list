@@ -2099,6 +2099,11 @@
     "description": "Replace your local installation of Node, Go, ... with project-specific docker containers. By @EnvCLI"
   },
   {
+    "name": "ESP32 Linux - Docker builder",
+    "url": "https://github.com/hpsaturn/esp32s3-linux",
+    "description": "Docker builder - Container solution to compile Linux and develop it for ESP32 microcontrollers - By @Hpsaturn"
+  },
+  {
     "name": "footloose",
     "url": "https://github.com/weaveworks/footloose",
     "description": "Spin containers that look like Virtual Machines - By @dlespiau"

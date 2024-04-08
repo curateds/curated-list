@@ -310,6 +310,11 @@
     "description": "A linter/fixer to check for and fix antipatterns in Nix code."
   },
   {
+    "name": "attic",
+    "url": "https://github.com/zhaofengli/attic",
+    "description": "Multi-tenant Nix Binary Cache."
+  },
+  {
     "name": "Arion",
     "url": "https://github.com/hercules-ci/arion",
     "description": "Run docker-compose with help from Nix/NixOS."

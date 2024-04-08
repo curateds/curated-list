@@ -265,6 +265,11 @@
     "description": "A callback plugin that allow to execute end-to-end tests on playbooks with a Pythonic testing and CI/CD approach to detect regressions."
   },
   {
+    "name": "aar-doc - Automated Ansible Role Documentation",
+    "url": "https://github.com/telekom-mms/Automated-Ansible-Role-Documentation",
+    "description": "Automated Ansible Role Documentation - Generate documentation automatically from an Ansible role's metadata."
+  },
+  {
     "name": "antsichaut",
     "url": "https://github.com/ansible-community/antsichaut",
     "description": "automate the filling of a changelog.yaml used by antsibull-changelog."
