@@ -665,6 +665,11 @@
     "description": "Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security."
   },
   {
+    "name": "nix-topology",
+    "url": "https://github.com/oddlama/nix-topology",
+    "description": "Generate infrastructure and network diagrams directly from your NixOS configuration."
+  },
+  {
     "name": "NixOS Configuration Editor",
     "url": "https://github.com/vlinkz/nixos-conf-editor",
     "description": "Graphical editor for NixOS configuration. Desktop app in Rust and GTK."

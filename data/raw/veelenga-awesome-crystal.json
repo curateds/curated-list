@@ -1074,6 +1074,11 @@
     "description": "SHAInet (Neural Network in pure crystal)"
   },
   {
+    "name": "cr-cmark-gfm",
+    "url": "https://github.com/amauryt/cr-cmark-gfm",
+    "description": "Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown"
+  },
+  {
     "name": "markd",
     "url": "https://github.com/icyleaf/markd",
     "description": "Yet another markdown parser built for speed, Compliant to CommonMark specification"

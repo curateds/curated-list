@@ -1984,6 +1984,11 @@
     "description": "Useful methods for work with colors."
   },
   {
+    "name": "Unicolour",
+    "url": "https://github.com/waacton/Unicolour",
+    "description": "Colour conversion, interpolation, and comparison for .NET."
+  },
+  {
     "name": "Wix Toolset",
     "url": "https://wixtoolset.org/",
     "description": "The most powerful set of tools available to create your Windows installation experience"
@@ -2710,6 +2715,16 @@
     "name": "dotnet-exec",
     "url": "https://github.com/WeihanLi/dotnet-exec",
     "description": "A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method."
+  },
+  {
+    "name": "HiveMQtt",
+    "url": "https://github.com/hivemq/hivemq-mqtt-client-dotnet",
+    "description": "The HiveMQ C# MQTT client for .NET"
+  },
+  {
+    "name": "MQTTNet",
+    "url": "https://github.com/dotnet/MQTTnet",
+    "description": "A high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker)."
   },
   {
     "name": "Community Toolkit",
@@ -4323,6 +4338,11 @@
     "name": "dotnet-console-games",
     "url": "https://github.com/dotnet/dotnet-console-games",
     "description": "Game examples implemented in .NET console applications."
+  },
+  {
+    "name": "extra-awesome-dotnet",
+    "url": "https://github.com/ara3d/extra-awesome-dotnet",
+    "description": "Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks!"
   },
   {
     "name": "Discover .NET",

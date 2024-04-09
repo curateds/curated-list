@@ -897,6 +897,11 @@
     "description": "A reinforcement learning library."
   },
   {
+    "name": "stable-baselines3",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
+    "description": "PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms."
+  },
+  {
     "name": "haskell-ml",
     "url": "https://github.com/ajtulloch/haskell-ml",
     "description": "Haskell implementations of various ML algorithms. [Deprecated]"
@@ -2829,6 +2834,10 @@
     "name": "Transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models."
+  },
+  {
+    "name": "XAD",
+    "url": "https://pypi.org/project/xad/"
   },
   {
     "name": "Aim",

@@ -637,6 +637,16 @@
     "description": "A post that compares Polars syntax to SQL by @bfeif."
   },
   {
+    "name": "Pandas vs. Polars — Time to Switch?",
+    "url": "https://towardsdatascience.com/pandas-vs-polars-time-to-switch-932d62e7e829",
+    "description": "A blog post that compares Polars to Pandas in a series of 4 benchmarks performed on a csv file with 11 million rows by @daradecic."
+  },
+  {
+    "name": "How to JOIN datasets in Polars … compared to Pandas",
+    "url": "https://www.confessionsofadataguy.com/how-to-join-datasets-in-polars-compared-to-pandas/",
+    "description": "A blog post compares dataframe joins in Polars vs Pandas by @danielbeach."
+  },
+  {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
     "url": "https://www.youtube.com/watch?v=kVy3-gMdViM",
     "description": "Introduction to Polars by databricks."
@@ -760,6 +770,11 @@
     "name": "Polars and time zones: everything you need to know | PyData Global 2023",
     "url": "https://www.youtube.com/watch?v=DFQFAwt_0VY",
     "description": "A video that  shows how to use Polars effectively for time series analysis involving different time zones by @MarcoGorelli."
+  },
+  {
+    "name": "Polars is the Pandas killer | PyData Tel Aviv 2024",
+    "url": "https://www.youtube.com/watch?v=sepiszMSvBs",
+    "description": "A video that  shows how Polars is competing head to head with scale, speed and ease of use for dataframe solution in python by Igor Mintz."
   },
   {
     "name": "pola-rs (@pola-rs)",
