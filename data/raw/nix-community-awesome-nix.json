@@ -50,6 +50,11 @@
     "description": "An unofficial and opinionated NixOS & Flakes book for beginners."
   },
   {
+    "name": "NixOS Asia Tutorial Series",
+    "url": "https://nixos.asia/en/tutorial",
+    "description": "A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc."
+  },
+  {
     "name": "Tour of Nix",
     "url": "https://nixcloud.io/tour",
     "description": "An online interactive tutorial on Nix language constructs."
@@ -138,6 +143,11 @@
     "name": "Colmena",
     "url": "https://github.com/zhaofengli/colmena",
     "description": "A simple, stateless NixOS deployment tool modeled after NixOps and morph."
+  },
+  {
+    "name": "comin",
+    "url": "https://github.com/nlewo/comin",
+    "description": "A deployment tool to continuously pull from Git repositories."
   },
   {
     "name": "deploy-rs",
@@ -403,6 +413,11 @@
     "name": "nix-direnv",
     "url": "https://github.com/nix-community/nix-direnv",
     "description": "A fast loader and flake-compliant configuration for the direnv environment auto-loader."
+  },
+  {
+    "name": "nix-health",
+    "url": "https://github.com/juspay/nix-health",
+    "description": "A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their flake.nix."
   },
   {
     "name": "nix-update",
@@ -741,6 +756,10 @@
     "name": "NixCon",
     "url": "https://nixcon.org/",
     "description": "The annual community conference for contributors and users of Nix and NixOS."
+  },
+  {
+    "name": "Wiki (Official)",
+    "url": "https://wiki.nixos.org"
   },
   {
     "name": "Wiki (Unofficial)",

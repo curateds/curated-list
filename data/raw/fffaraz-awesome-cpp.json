@@ -1400,6 +1400,11 @@
     "description": "C++11 wrapper for the LMDB embedded database library. [PublicDomain]"
   },
   {
+    "name": "mgclient",
+    "url": "https://github.com/memgraph/mgclient",
+    "description": "C/C++ Memgraph Client. [Apache2]"
+  },
+  {
     "name": "MongoDB C Driver",
     "url": "https://github.com/mongodb/mongo-c-driver",
     "description": "MongoDB client library for C. [Apache2]"

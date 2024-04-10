@@ -520,6 +520,11 @@
     "description": "Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)."
   },
   {
+    "name": "tRPC",
+    "url": "https://github.com/trpc/trpc",
+    "description": "End-to-end typesafe APIs."
+  },
+  {
     "name": "Cro",
     "url": "http://cro.services/",
     "description": "Libraries for creating reactive distributed systems using Perl 6."
@@ -780,6 +785,11 @@
     "description": "Modern HTTP reverse proxy with lightweight API management."
   },
   {
+    "name": "Pingora",
+    "url": "https://github.com/cloudflare/pingora",
+    "description": "A library for building fast, reliable and evolvable network services."
+  },
+  {
     "name": "Skipper",
     "url": "https://github.com/zalando/skipper",
     "description": "HTTP router useful for decoupling routing from service logic."
@@ -933,6 +943,11 @@
     "name": "Serf",
     "url": "https://www.serf.io/",
     "description": "Decentralized solution for cluster membership, failure detection and orchestration."
+  },
+  {
+    "name": "Valkey",
+    "url": "https://github.com/valkey-io/valkey",
+    "description": "A new project to resume development on the formerly open-source Redis project."
   },
   {
     "name": "Zenoh",

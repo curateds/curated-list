@@ -278,6 +278,11 @@
     "description": "Useful Python notebooks ordered by book chapter by @jeroenjanssens."
   },
   {
+    "name": "Python-Polars-Tips-and-Tricks",
+    "url": "https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks",
+    "description": "Collection of source code demonstrating tips and tricks in Polars by @StuffbyYuki."
+  },
+  {
     "name": "Using the Polars DataFrame Library",
     "url": "https://www.codemag.com/Article/2212051/Using-the-Polars-DataFrame-Library",
     "description": "A blog post by Wei-Meng Lee to discover the basics of Polars and how it can be used in place of Pandas."
@@ -647,6 +652,11 @@
     "description": "A blog post compares dataframe joins in Polars vs Pandas by @danielbeach."
   },
   {
+    "name": "DuckDB vs Polars - Which One Is Faster?",
+    "url": "https://medium.com/@yukithejapanese/duckdb-vs-polars-which-one-is-faster-61e73a7680e0",
+    "description": "Which One Is Faster? - An unofficial benchmark on DuckDB and Polars by @StuffbyYuki."
+  },
+  {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
     "url": "https://www.youtube.com/watch?v=kVy3-gMdViM",
     "description": "Introduction to Polars by databricks."
@@ -775,6 +785,11 @@
     "name": "Polars is the Pandas killer | PyData Tel Aviv 2024",
     "url": "https://www.youtube.com/watch?v=sepiszMSvBs",
     "description": "A video that  shows how Polars is competing head to head with scale, speed and ease of use for dataframe solution in python by Igor Mintz."
+  },
+  {
+    "name": "Polars-Cookbook in Python",
+    "url": "https://github.com/PacktPublishing/Polars-Cookbook",
+    "description": "Polars cookbook with organized by Python notebooks and chapter by @StuffbyYuki."
   },
   {
     "name": "pola-rs (@pola-rs)",
