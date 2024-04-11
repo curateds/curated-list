@@ -1591,34 +1591,9 @@
     "description": "⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax."
   },
   {
-    "name": "Xniffer",
-    "url": "https://github.com/xmartlabs/Xniffer",
-    "description": "A swift network profiler built on top of URLSession."
-  },
-  {
-    "name": "Netfox",
-    "url": "https://github.com/kasketis/netfox",
-    "description": "A lightweight, one line setup, iOS / macOS network debugging library!"
-  },
-  {
-    "name": "PonyDebugger",
-    "url": "https://github.com/square/PonyDebugger",
-    "description": "Remote network and data debugging for your native iOS app using Chrome Developer Tools."
-  },
-  {
-    "name": "DBDebugToolkit",
-    "url": "https://github.com/dbukowski/DBDebugToolkit",
-    "description": "Set of easy to use debugging tools for iOS developers & QA engineers."
-  },
-  {
-    "name": "Flex",
-    "url": "https://github.com/Flipboard/FLEX",
-    "description": "An in-app debugging and exploration tool for iOS."
-  },
-  {
-    "name": "chisel",
-    "url": "https://github.com/facebook/chisel",
-    "description": "Collection of LLDB commands to assist debugging iOS apps."
+    "name": "AEConsole",
+    "url": "https://github.com/tadija/AEConsole",
+    "description": "Customizable Console UI overlay with debug log on top of your iOS App."
   },
   {
     "name": "Alpha",
@@ -1626,19 +1601,34 @@
     "description": "Next generation debugging framework for iOS."
   },
   {
-    "name": "AEConsole",
-    "url": "https://github.com/tadija/AEConsole",
-    "description": "Customizable Console UI overlay with debug log on top of your iOS App."
+    "name": "AppSpector",
+    "url": "https://appspector.com",
+    "description": "Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location."
   },
   {
-    "name": "GodEye",
-    "url": "https://github.com/zixun/GodEye",
-    "description": "Automatically display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift."
+    "name": "Atlantis",
+    "url": "https://github.com/ProxymanApp/atlantis",
+    "description": "A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app."
   },
   {
-    "name": "NetworkEye",
-    "url": "https://github.com/coderyi/NetworkEye",
-    "description": "a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request."
+    "name": "chisel",
+    "url": "https://github.com/facebook/chisel",
+    "description": "Collection of LLDB commands to assist debugging iOS apps."
+  },
+  {
+    "name": "DBDebugToolkit",
+    "url": "https://github.com/dbukowski/DBDebugToolkit",
+    "description": "Set of easy to use debugging tools for iOS developers & QA engineers."
+  },
+  {
+    "name": "DebugSwift",
+    "url": "https://github.com/DebugSwift/DebugSwift",
+    "description": "A comprehensive toolkit designed to simplify and enhance the debugging process for iOS applications."
+  },
+  {
+    "name": "DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "description": "A full-featured iOS App development assistant，30+ tools included. You deserve it."
   },
   {
     "name": "Dotzu",
@@ -1646,9 +1636,19 @@
     "description": "iOS app debugger while using the app. Crash report, logs, network."
   },
   {
-    "name": "Hyperion",
-    "url": "https://github.com/willowtreeapps/Hyperion-iOS",
-    "description": "In-app design review tool to inspect measurements, attributes, and animations."
+    "name": "Droar",
+    "url": "https://github.com/myriadmobile/Droar",
+    "description": "Droar is a modular, single-line installation debugging window."
+  },
+  {
+    "name": "Flex",
+    "url": "https://github.com/Flipboard/FLEX",
+    "description": "An in-app debugging and exploration tool for iOS."
+  },
+  {
+    "name": "GodEye",
+    "url": "https://github.com/zixun/GodEye",
+    "description": "Automatically display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift."
   },
   {
     "name": "Httper-iOS",
@@ -1656,24 +1656,9 @@
     "description": "App for developers to test REST API."
   },
   {
-    "name": "Droar",
-    "url": "https://github.com/myriadmobile/Droar",
-    "description": "Droar is a modular, single-line installation debugging window."
-  },
-  {
-    "name": "Wormholy",
-    "url": "https://github.com/pmusolino/Wormholy",
-    "description": "iOS network debugging, like a wizard."
-  },
-  {
-    "name": "AppSpector",
-    "url": "https://appspector.com",
-    "description": "Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location."
-  },
-  {
-    "name": "Woodpecker",
-    "url": "http://www.woodpeck.cn",
-    "description": "View sandbox files, UserDefaults, network request from Mac."
+    "name": "Hyperion",
+    "url": "https://github.com/willowtreeapps/Hyperion-iOS",
+    "description": "In-app design review tool to inspect measurements, attributes, and animations."
   },
   {
     "name": "LayoutInspector",
@@ -1686,19 +1671,9 @@
     "description": "Profiling / Debugging assist tools for iOS, include tools: UITimeProfiler, Memory Allocations, Living ObjC Objects Sniffer, Network Transaction Waterfall, etc."
   },
   {
-    "name": "Playbook",
-    "url": "https://github.com/playbook-ui/playbook-ios",
-    "description": "A library for isolated developing UI components and automatically snapshots of them."
-  },
-  {
-    "name": "DoraemonKit",
-    "url": "https://github.com/didi/DoraemonKit",
-    "description": "A full-featured iOS App development assistant，30+ tools included. You deserve it."
-  },
-  {
-    "name": "Atlantis",
-    "url": "https://github.com/ProxymanApp/atlantis",
-    "description": "A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app."
+    "name": "Netfox",
+    "url": "https://github.com/kasketis/netfox",
+    "description": "A lightweight, one line setup, iOS / macOS network debugging library!"
   },
   {
     "name": "NetShears",
@@ -1706,9 +1681,39 @@
     "description": "Allows developers to intercept and monitor HTTP/HTTPS requests and responses. It also could be configured to show gRPC calls."
   },
   {
+    "name": "NetworkEye",
+    "url": "https://github.com/coderyi/NetworkEye",
+    "description": "a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request."
+  },
+  {
+    "name": "PonyDebugger",
+    "url": "https://github.com/square/PonyDebugger",
+    "description": "Remote network and data debugging for your native iOS app using Chrome Developer Tools."
+  },
+  {
+    "name": "Playbook",
+    "url": "https://github.com/playbook-ui/playbook-ios",
+    "description": "A library for isolated developing UI components and automatically snapshots of them."
+  },
+  {
     "name": "Scyther",
     "url": "https://github.com/bstillitano/Scyther",
     "description": "A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more."
+  },
+  {
+    "name": "Wormholy",
+    "url": "https://github.com/pmusolino/Wormholy",
+    "description": "iOS network debugging, like a wizard."
+  },
+  {
+    "name": "Xniffer",
+    "url": "https://github.com/xmartlabs/Xniffer",
+    "description": "A swift network profiler built on top of URLSession."
+  },
+  {
+    "name": "Woodpecker",
+    "url": "http://www.woodpeck.cn",
+    "description": "View sandbox files, UserDefaults, network request from Mac."
   },
   {
     "name": "Swinject",

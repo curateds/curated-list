@@ -355,6 +355,11 @@
     "description": "Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime."
   },
   {
+    "name": "no_implicit_optional",
+    "url": "https://github.com/hauntsaninja/no_implicit_optional",
+    "description": "A codemod to make your implicit optional type hints PEP 484 compliant."
+  },
+  {
     "name": "pyannotate",
     "url": "https://github.com/dropbox/pyannotate",
     "description": "Insert annotations into your source code based on call arguments and return types observed at runtime."

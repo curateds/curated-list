@@ -2903,6 +2903,11 @@
     "description": "Nature Chemistry, 2020. [All Versions]. [Preprint]. This paper shows how the Chemputer synthesis robot can be programmed to perform many different reactions, including solid-phase peptide synthesis, iterative cross-coupling and accessing reactive, unstable diazirines in a single, unified system with high yields and purity."
   },
   {
+    "name": "An autonomous portable platform for universal chemical synthesis",
+    "url": "https://www.nature.com/articles/s41557-022-01016-w",
+    "description": "Nature Chemistry, 2022. [All Versions]. [Preprint]. This paper presents a portable suitcase-sized chemical synthesis platform containing all the modules required for synthesis and purification. The system uses a chemical programming language coupled to a digital reactor generator to produce reactors and executable protocols based on text-based literature syntheses. Simultaneously, the platform generates a reaction pressure fingerprint, used to monitor processes within the reactors and remotely perform a protocol quality control."
+  },
+  {
     "name": "An integrated self-optimizing programmable chemical synthesis and reaction engine",
     "url": "https://www.nature.com/articles/s41467-024-45444-3",
     "description": "Nature Communications, 2024. [All Versions]. This paper presents a dynamically programmable system capable of making, optimizing, and discovering new molecules which utilizes seven sensors that continuously monitor the reaction. By developing a dynamic programming language, the work demonstrates the 10-fold scale-up of a highly exothermic oxidation reaction, end point detection, as well as detecting critical hardware failures."

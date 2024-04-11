@@ -4680,6 +4680,11 @@
     "description": "Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level)."
   },
   {
+    "name": "m15a/flake-awesome-neovim-plugins",
+    "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+    "description": "Nix flake that provides Awesome Neovim plugins collection as Nix packages."
+  },
+  {
     "name": "tokiory/neovim-boilerplate",
     "url": "https://github.com/tokiory/neovim-boilerplate",
     "description": "Starter boilerplate for making new configurations."

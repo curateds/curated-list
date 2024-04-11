@@ -465,14 +465,9 @@
     "description": "Required visit for MonoGame / FNA / XNA developers."
   },
   {
-    "name": "3D Game Engine Programming",
-    "url": "https://www.3dgep.com",
-    "description": "Helping you build your dream game engine."
-  },
-  {
-    "name": "3D Game Engine Programming",
-    "url": "https://www.3dgep.com",
-    "description": "Helping you build your dream game engine."
+    "name": "How to Become a Game Engine Developer",
+    "url": "https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer",
+    "description": "Starting point on game engine development."
   },
   {
     "name": "How to Become a Game Engine Developer",
@@ -508,6 +503,16 @@
     "name": "Ubisoft Technology",
     "url": "https://www.ubisoft.com/en-us/company/how-we-make-games/technology",
     "description": "Learn about in-house tech including the Anvil and Snowdrop engines."
+  },
+  {
+    "name": "3D Game Engine Programming",
+    "url": "https://www.3dgep.com",
+    "description": "Topics including graphics, physics, AI, I/O and template programming."
+  },
+  {
+    "name": "3D Game Engine Programming",
+    "url": "https://www.3dgep.com",
+    "description": "Topics including graphics, physics, AI, I/O and template programming."
   },
   {
     "name": "Awesome Gamedev",
@@ -1747,7 +1752,7 @@
   {
     "name": "GTK",
     "url": "https://gitlab.gnome.org/GNOME/gtk/",
-    "description": "GIMP Toolkit, a multi-platform toolkit for creating guis. [Website]"
+    "description": "GIMP Toolkit, a multi-platform toolkit for creating guis."
   },
   {
     "name": "GuiLite",
@@ -2378,6 +2383,56 @@
     "name": "Flame",
     "url": "https://github.com/flame-engine/flame",
     "description": "Minimalist Flutter based 2D game engine. [Awesome | Examples | Tutorials | Website]"
+  },
+  {
+    "name": "Awesome F#",
+    "url": "https://github.com/fsprojects/awesome-fsharp",
+    "description": "Curated list of frameworks, libraries, software and resources."
+  },
+  {
+    "name": "F#",
+    "url": "https://fsharp.org",
+    "description": "Functional-first language for .NET, prioritizing expressive code and parallelism."
+  },
+  {
+    "name": "FSound",
+    "url": "https://github.com/albertp007/FSound",
+    "description": "Sound processing library."
+  },
+  {
+    "name": "FSound",
+    "url": "https://github.com/albertp007/FSound",
+    "description": "Sound processing library."
+  },
+  {
+    "name": "Garnet",
+    "url": "https://github.com/bcarruthers/garnet",
+    "description": "Game composition library with ECS and actor-like messaging features."
+  },
+  {
+    "name": "Garnet",
+    "url": "https://github.com/bcarruthers/garnet",
+    "description": "Game composition library with ECS and actor-like messaging features."
+  },
+  {
+    "name": "Nu Game Engine",
+    "url": "https://github.com/bryanedds/Nu",
+    "description": "Cross-platform game engine built in the functional style."
+  },
+  {
+    "name": "Nu Game Engine",
+    "url": "https://github.com/bryanedds/Nu",
+    "description": "Cross-platform game engine built in the functional style."
+  },
+  {
+    "name": "Fabulous",
+    "url": "https://github.com/fabulous-dev/Fabulous",
+    "description": "Declarative UI framework for cross-platform apps."
+  },
+  {
+    "name": "Fabulous",
+    "url": "https://github.com/fabulous-dev/Fabulous",
+    "description": "Declarative UI framework for cross-platform apps."
   },
   {
     "name": "Awesome Go",
@@ -3723,6 +3778,11 @@
     "name": "Goblin Physics",
     "url": "https://github.com/chandlerprall/GoblinPhysics",
     "description": "3D physics engine written from the ground up in JavaScript. [Demos]"
+  },
+  {
+    "name": "JoltPhysics.js",
+    "url": "https://github.com/jrouwe/JoltPhysics.js",
+    "description": "Port of Jolt Physics to JavaScript (as WebAssembly). [Demos]"
   },
   {
     "name": "Matter.js",

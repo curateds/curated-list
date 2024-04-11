@@ -52,36 +52,6 @@
     "url": "https://github.com/howtographql/howtographql"
   },
   {
-    "name": "create-react-app",
-    "url": "https://github.com/facebook/create-react-app",
-    "description": "Set up a modern Web app by running one command"
-  },
-  {
-    "name": "vite",
-    "url": "https://github.com/vitejs/vite",
-    "description": "Next Generation Frontend Tooling"
-  },
-  {
-    "name": "million",
-    "url": "https://github.com/aidenybai/million",
-    "description": "An extremely fast and lightweight optimizing compiler"
-  },
-  {
-    "name": "reactotron",
-    "url": "https://github.com/skellock/reactotron",
-    "description": "A desktop app for inspecting your React and React Native projects"
-  },
-  {
-    "name": "eslint-plugin-react",
-    "url": "https://github.com/yannickcr/eslint-plugin-react",
-    "description": "React specific linting rules for ESLint"
-  },
-  {
-    "name": "why-did-you-render",
-    "url": "https://github.com/welldone-software/why-did-you-render",
-    "description": "Monkey patches React to notify you about avoidable re-renders"
-  },
-  {
     "name": "next",
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework"
@@ -252,6 +222,41 @@
     "description": "Type-safe router with built-in caching & URL state management"
   },
   {
+    "name": "create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "description": "Set up a modern Web app by running one command"
+  },
+  {
+    "name": "vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Next Generation Frontend Tooling"
+  },
+  {
+    "name": "parcel",
+    "url": "https://github.com/parcel-bundler/parcel",
+    "description": "The zero configuration build tool for the web"
+  },
+  {
+    "name": "million",
+    "url": "https://github.com/aidenybai/million",
+    "description": "An extremely fast and lightweight optimizing compiler"
+  },
+  {
+    "name": "reactotron",
+    "url": "https://github.com/skellock/reactotron",
+    "description": "A desktop app for inspecting your React and React Native projects"
+  },
+  {
+    "name": "eslint-plugin-react",
+    "url": "https://github.com/yannickcr/eslint-plugin-react",
+    "description": "React specific linting rules for ESLint"
+  },
+  {
+    "name": "why-did-you-render",
+    "url": "https://github.com/welldone-software/why-did-you-render",
+    "description": "Monkey patches React to notify you about avoidable re-renders"
+  },
+  {
     "name": "preact",
     "url": "https://github.com/preactjs/preact",
     "description": "Fast React alternative with the same modern API"
@@ -393,6 +398,11 @@
     "name": "react-cosmos",
     "url": "https://github.com/react-cosmos/react-cosmos",
     "description": "Dev tool for creating reusable React components"
+  },
+  {
+    "name": "bit",
+    "url": "https://github.com/teambit/bit",
+    "description": "A build system for development of composable software"
   },
   {
     "name": "react-hook-form",
@@ -573,6 +583,11 @@
     "name": "overreacted",
     "url": "https://github.com/gaearon/overreacted.io",
     "description": "Personal blog by Dan Abramov"
+  },
+  {
+    "name": "wave",
+    "url": "https://github.com/wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows"
   },
   {
     "name": "React Native Official Website",

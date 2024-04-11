@@ -580,11 +580,6 @@
     "description": "A library to obtain program options via conventional methods such as command line and config file. [Boost] website"
   },
   {
-    "name": "Clara",
-    "url": "https://github.com/catchorg/Clara",
-    "description": "A simple to use, composable, command line parser for C++ 11 and beyond. [Boost]"
-  },
-  {
     "name": "cli",
     "url": "https://github.com/daniele77/cli",
     "description": "A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). [Boost]"
@@ -1648,6 +1643,11 @@
     "name": "ig-debugheap",
     "url": "https://github.com/deplinenoise/ig-debugheap",
     "description": "Multiplatform debug heap useful for tracking down memory errors. [BSD]"
+  },
+  {
+    "name": "libassert",
+    "url": "https://github.com/jeremy-rifkin/libassert",
+    "description": "The most over-engineered C++ assertion library. [MIT]"
   },
   {
     "name": "libtap",

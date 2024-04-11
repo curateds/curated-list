@@ -1510,6 +1510,11 @@
     "description": "Object schema validation."
   },
   {
+    "name": "zod",
+    "url": "https://github.com/colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference."
+  },
+  {
     "name": "remark",
     "url": "https://github.com/remarkjs/remark",
     "description": "Markdown processor powered by plugins."
