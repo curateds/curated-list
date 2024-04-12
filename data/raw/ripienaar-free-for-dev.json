@@ -1617,6 +1617,11 @@
     "url": "https://appinvento.io/"
   },
   {
+    "name": "Cody AI",
+    "url": "https://sourcegraph.com/cody",
+    "description": "Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b) each month."
+  },
+  {
     "name": "DhiWise",
     "url": "https://www.dhiwise.com/"
   },
@@ -1794,10 +1799,6 @@
   {
     "name": "searchcode.com",
     "url": "https://searchcode.com/"
-  },
-  {
-    "name": "sourcegraph.com",
-    "url": "https://about.sourcegraph.com/"
   },
   {
     "name": "tickgit.com",
@@ -2524,6 +2525,11 @@
     "name": "httpSMS",
     "url": "https://httpsms.com",
     "description": "Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month."
+  },
+  {
+    "name": "EMQX Serverless",
+    "url": "https://www.emqx.com/en/cloud/serverless-mqtt",
+    "description": "Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required)."
   },
   {
     "name": "bugfender.com",
@@ -4061,6 +4067,10 @@
   {
     "name": "outsystems.com",
     "url": "https://www.outsystems.com/"
+  },
+  {
+    "name": "UI Bakery",
+    "url": "https://uibakery.io"
   },
   {
     "name": "Alwaysdata",
@@ -5866,6 +5876,10 @@
   {
     "name": "Google Analytics",
     "url": "https://analytics.google.com/"
+  },
+  {
+    "name": "MetricsWave",
+    "url": "https://metricswave.com"
   },
   {
     "name": "Expensify",

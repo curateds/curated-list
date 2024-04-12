@@ -238,6 +238,11 @@
     "description": "A plugin for using Glide image manipulation library."
   },
   {
+    "name": "QrCodePlugin",
+    "url": "https://github.com/dereuromark/cakephp-qrcode/",
+    "description": "Easily render SVG/PNG QR Codes for your app."
+  },
+  {
     "name": "Capcake",
     "url": "https://github.com/jadb/capcake",
     "description": "Deploy CakePHP applications using Capistrano."
