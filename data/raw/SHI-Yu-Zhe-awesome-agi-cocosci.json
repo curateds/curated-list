@@ -2923,6 +2923,11 @@
     "description": "Nature, 2020. [All Versions]. [Preprint]. This work uses a mobile robot to search for improved photocatalysts for hydrogen production from water. The robot operated autonomously over eight days, performing 688 experiments within a ten-variable experimental space, driven by a batched Bayesian search algorithm. This autonomous search identified photocatalyst mixtures that were six times more active than the initial formulations, selecting beneficial components and deselecting negative ones."
   },
   {
+    "name": "An autonomous laboratory for the accelerated synthesis of novel materials",
+    "url": "https://www.nature.com/articles/s41586-023-06734-w",
+    "description": "Nature, 2023. [All Versions]. This paper introduces the A-Lab, an autonomous laboratory for the solid-state synthesis of inorganic powders. This platform uses computations, historical data from the literature, machine learning (ML) and active learning to plan and interpret the outcomes of experiments performed using robotics. Over 17 days of continuous operation, the A-Lab realized 41 novel compounds from a set of 58 targets including a variety of oxides and phosphates that were identified using large-scale ab initio phase-stability data from the Materials Project and Google DeepMind."
+  },
+  {
     "name": "The Internet of Things comes to the lab",
     "url": "https://www.nature.com/articles/542125a",
     "description": "Nature, 2017. [All Versions]. The emergence of connected instruments and equipment promises to untether researchers from the laboratory --- letting them fine-tune experiments and analyse data remotely."

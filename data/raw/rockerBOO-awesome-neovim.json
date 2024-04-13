@@ -1165,9 +1165,9 @@
     "description": "Small yet powerful project (and session) manager."
   },
   {
-    "name": "shaeinst/penvim",
-    "url": "https://github.com/shaeinst/penvim",
-    "description": "Project's Root Directory and Documents Indentation detector with project based config loader."
+    "name": "Abstract-IDE/penvim",
+    "url": "https://github.com/Abstract-IDE/penvim",
+    "description": "Project's root directory and documents Indentation detector with project based config loader."
   },
   {
     "name": "windwp/nvim-projectconfig",
@@ -4203,11 +4203,6 @@
     "name": "Darazaki/indent-o-matic",
     "url": "https://github.com/Darazaki/indent-o-matic",
     "description": "Dumb automatic fast indentation detection written in Lua."
-  },
-  {
-    "name": "Abstract-IDE/penvim",
-    "url": "https://github.com/Abstract-IDE/penvim",
-    "description": "Project's root directory and documents Indentation detector with project based config loader."
   },
   {
     "name": "yaocccc/nvim-hlchunk",

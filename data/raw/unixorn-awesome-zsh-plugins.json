@@ -5689,11 +5689,6 @@
     "description": "Completions for pipenv."
   },
   {
-    "name": "pks-autocomplete",
-    "url": "https://github.com/tybritten/pks-zsh-autocomplete-plugin",
-    "description": "Adds completions for Pivotal's PKS CLI"
-  },
-  {
     "name": "pmy",
     "url": "https://github.com/relastle/pmy",
     "description": "General purpose context-aware ZSH completion engine powered by fzf."
@@ -10898,7 +10893,12 @@
     "description": "Helps you install plugins for oh-my-zsh by typing oh-plugin install repository_address."
   },
   {
-    "name": "ShellSpec",
+    "name": "shell-color-prompt-tool",
+    "url": "https://github.com/kyletimmermans/shell-color-prompt-tool",
+    "description": "Helps you create a custom prompt for ZSH or bash."
+  },
+  {
+    "name": "shellSpec",
     "url": "https://github.com/shellspec/shellspec",
     "description": "A full-featured BDD unit testing framework for dash, bash, ksh, ZSH and all POSIX shells."
   },

@@ -2351,10 +2351,6 @@
     "url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
-    "name": "rust-lang/rls-vscode",
-    "url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust"
-  },
-  {
     "name": "Bencher",
     "url": "https://github.com/bencherdev/bencher",
     "description": "A suite of continuous benchmarking tools designed to catch performance regressions in CI"
@@ -2452,6 +2448,10 @@
   {
     "name": "GoogleTest Rust",
     "url": "https://crates.io/crates/googletest"
+  },
+  {
+    "name": "rlt",
+    "url": "https://github.com/wfxr/rlt"
   },
   {
     "name": "rstest",
@@ -3462,16 +3462,16 @@
     "url": "https://github.com/djduque/pgfplots"
   },
   {
-    "name": "igiagkiozis/plotly",
-    "url": "https://github.com/igiagkiozis/plotly"
-  },
-  {
     "name": "mazznoer/colorgrad-rs",
     "url": "https://github.com/mazznoer/colorgrad-rs"
   },
   {
     "name": "milliams/plotlib",
     "url": "https://github.com/milliams/plotlib"
+  },
+  {
+    "name": "plotly",
+    "url": "https://github.com/plotly/plotly.rs"
   },
   {
     "name": "plotters",
@@ -3570,10 +3570,6 @@
   {
     "name": "jimmycuadra/rust-etcd",
     "url": "https://github.com/jimmycuadra/rust-etcd"
-  },
-  {
-    "name": "lodrem/etcd-rs",
-    "url": "https://github.com/lodrem/etcd-rs"
   },
   {
     "name": "vhbit/sherwood",

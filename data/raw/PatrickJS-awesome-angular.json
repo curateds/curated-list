@@ -1895,9 +1895,19 @@
     "description": "Lightweight and simple carousel with no dependencies."
   },
   {
+    "name": "@davidlj95/ngx-meta",
+    "url": "https://ngx-meta.dev",
+    "description": "Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀"
+  },
+  {
     "name": "@ngx-context",
     "url": "https://github.com/ng-turkey/ngx-context",
     "description": "Angular Context: Easy property binding for router outlet and nested component trees.."
+  },
+  {
+    "name": "@ngx-meta/core",
+    "url": "https://github.com/fulls1z3/ngx-meta",
+    "description": "Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3"
   },
   {
     "name": "Angular SizeObserver",
@@ -1961,11 +1971,6 @@
     "name": "ngx-linkifyjs",
     "url": "https://github.com/AnthonyNahas/ngx-linkifyjs",
     "description": "Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML  tags via linkifyjs"
-  },
-  {
-    "name": "ngx-meta",
-    "url": "https://github.com/fulls1z3/ngx-meta",
-    "description": "Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3"
   },
   {
     "name": "ngx-wheel",
