@@ -1035,11 +1035,6 @@
     "description": "Feed reader for your email accounts. (Source Code) LGPL-2.1 PHP"
   },
   {
-    "name": "MailCare",
-    "url": "https://mailcare.io",
-    "description": "Open source disposable email address service. (Source Code) MIT PHP"
-  },
-  {
     "name": "Roundcube",
     "url": "https://roundcube.net",
     "description": "Browser-based IMAP client with an application-like user interface. (Source Code) GPL-3.0 PHP/deb"
@@ -1555,6 +1550,16 @@
     "description": "A feature-rich event management system, made @ CERN, the place where the Web was born. (Demo, Source Code) MIT Python"
   },
   {
+    "name": "motion.tools (Antragsgrün)",
+    "url": "https://motion.tools/",
+    "description": "A web tool for managing motions and amendments for (political) conventions. (Demo, Source Code) AGPL-3.0 PHP/Docker"
+  },
+  {
+    "name": "motion.tools (Antragsgrün)",
+    "url": "https://motion.tools/",
+    "description": "A web tool for managing motions and amendments for (political) conventions. (Demo, Source Code) AGPL-3.0 PHP/Docker"
+  },
+  {
     "name": "OpenSlides",
     "url": "https://openslides.com/",
     "description": "A web based presentation and assembly system for managing and projecting agenda, motions and elections of an assembly. (Demo, Source Code) MIT Docker"
@@ -1905,6 +1910,11 @@
     "description": "Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features. (Source Code) Apache-2.0 Python"
   },
   {
+    "name": "OpenSign",
+    "url": "https://www.opensignlabs.com",
+    "description": "Free, open source & self-hosted document signing software (alternative to DocuSign). (Source Code) AGPL-3.0 Nodejs/Docker"
+  },
+  {
     "name": "Paperless-ngx",
     "url": "https://docs.paperless-ngx.com/",
     "description": "Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). (Demo, Source Code) GPL-3.0 Python/Docker"
@@ -2033,6 +2043,11 @@
     "name": "Drupal Commerce",
     "url": "https://drupalcommerce.org",
     "description": "Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. (Source Code) GPL-2.0 PHP"
+  },
+  {
+    "name": "Litecart",
+    "url": "https://github.com/shurco/litecart",
+    "description": "Shopping cart in 1 file (with support for payment by card or cryptocurrency). MIT Go/Docker"
   },
   {
     "name": "Magento Open Source",
@@ -5343,11 +5358,6 @@
     "name": "Bugzilla",
     "url": "https://www.bugzilla.org/",
     "description": "General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. (Source Code) MPL-2.0 Perl"
-  },
-  {
-    "name": "Erxes",
-    "url": "https://erxes.io/install/",
-    "description": "Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. (Source Code) GPL-3.0 Docker"
   },
   {
     "name": "FreeScout",

@@ -3390,6 +3390,11 @@
     "description": "Enables poetry $PATH and autocompletions."
   },
   {
+    "name": "portal",
+    "url": "https://github.com/anasouardini/portal/",
+    "description": "A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using fzf."
+  },
+  {
     "name": "posh-git-bash",
     "url": "https://github.com/lyze/posh-git-sh",
     "description": "Adds git status in your prompt."
@@ -4217,11 +4222,6 @@
     "name": "tmux-auto-title",
     "url": "https://github.com/mbenford/zsh-tmux-auto-title",
     "description": "Automatically sets the title of windows/panes as the current foreground command."
-  },
-  {
-    "name": "tmux-multisession",
-    "url": "https://github.com/nichus/zsh-tmux-multisession",
-    "description": "Plugin for tmux to support multiple sessions on a single server process."
   },
   {
     "name": "tmux-rename",
@@ -10154,6 +10154,11 @@
     "name": "tarcadia",
     "url": "https://github.com/Tarcadia/tarcadia-zsh-theme",
     "description": "Based on jonathan. Includes decorators for current directory and git status."
+  },
+  {
+    "name": "tcr",
+    "url": "https://github.com/tulioribeiro/zsh-tcr-theme",
+    "description": "Minimalist theme, shows decorators for current directory, git status information & nvm version."
   },
   {
     "name": "temeraf",

@@ -120,6 +120,11 @@
     "description": "MicroPython driver for the Texas Instruments TAS2505 Digital Input Class-D Speaker Amplifier."
   },
   {
+    "name": "yx5300",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/yx5300.py",
+    "description": "MP3 player that can be controlled via a serial interface."
+  },
+  {
     "name": "micropython-utelegram",
     "url": "https://github.com/jordiprats/micropython-utelegram",
     "description": "Telegram API wrapper for MicroPython."
@@ -695,11 +700,6 @@
     "description": "Using MQTT to Publish/Subscribe to Adafruit IO. MicroPython/CircuitPython implementation on ESP8266/ESP32."
   },
   {
-    "name": "MicropythonCayenneMQTTClient",
-    "url": "https://github.com/uraich/MicropythonCayenneMQTTClient",
-    "description": "A port of the Python Cayenne MQTT Client to MicroPython."
-  },
-  {
     "name": "mqtt_upython",
     "url": "https://github.com/matbgn/mqtt_upython",
     "description": "MQTT Client using MicroPython on ESP8266."
@@ -1230,6 +1230,11 @@
     "description": "MicroPython Display Driver for WaveShare 2.9inch e-Paper Display (B)."
   },
   {
+    "name": "uc8151_micropython",
+    "url": "https://github.com/antirez/uc8151_micropython",
+    "description": "UC8151 / IL0373 MicroPython e-paper display driver with support for greyscales and fast updates."
+  },
+  {
     "name": "micropython-font-to-py",
     "url": "https://github.com/peterhinch/micropython-font-to-py",
     "description": "A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode."
@@ -1325,6 +1330,11 @@
     "description": "Derived from nano-gui and supporting the same displays and hosts, this provides for user input via push buttons or a navigation joystick and an optional rotary encoder."
   },
   {
+    "name": "micropython-touch",
+    "url": "https://github.com/peterhinch/micropython-touch",
+    "description": "Derived from nano-gui and supporting the same displays and hosts, this offers touch input. Supports various touch controllers."
+  },
+  {
     "name": "TFT-GUI",
     "url": "https://github.com/peterhinch/micropython-tft-gui",
     "description": "A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller."
@@ -1393,6 +1403,11 @@
     "name": "micropython-i2c-lcd",
     "url": "https://github.com/brainelectronics/micropython-i2c-lcd",
     "description": "MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C."
+  },
+  {
+    "name": "micropython_i2c_lcd",
+    "url": "https://github.com/Thomascountz/micropython_i2c_lcd",
+    "description": "MicroPython library for interacting with HD44780-based LCD displays through a PCF8574 I/O expander. It offers a high-level API for LCD control, including text display, cursor manipulation, and backlight settings, while also providing lower-level access to the GPIO operations on the PCF8574."
   },
   {
     "name": "micropython-lcd-AQM1248A",
@@ -1618,6 +1633,11 @@
     "name": "MatrixDisplay",
     "url": "https://github.com/octaprog7/MatrixDisplay",
     "description": "MicroPython module for work with MAX7219 LED matrix 8x8 display."
+  },
+  {
+    "name": "LED_panel_upy",
+    "url": "https://github.com/CatMeowByte/LED_panel_upy",
+    "description": "MicroPython driver module for Panel P10 32x16 Matrix display and its variants."
   },
   {
     "name": "LKM1638",
@@ -1865,6 +1885,11 @@
     "description": "MicroPython library for PCF8591 8-bit ADC/DAC."
   },
   {
+    "name": "hx710",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py",
+    "description": "MicroPython driver for the HX710."
+  },
+  {
     "name": "micropython-mcp4725",
     "url": "https://github.com/wayoda/micropython-mcp4725",
     "description": "Driver for the MCP4725 I2C DAC."
@@ -1953,6 +1978,11 @@
     "name": "micropython-tca9548a",
     "url": "https://github.com/mcauser/micropython-tca9548a",
     "description": "MicroPython examples using TCA9548A I2C multiplexer."
+  },
+  {
+    "name": "tca9548a",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/tca9548a.py",
+    "description": "MicroPython driver for the TCA9548A I2C multiplexer."
   },
   {
     "name": "micropython-ad840x",
@@ -2073,11 +2103,6 @@
     "name": "Signal_Generators",
     "url": "https://github.com/Wei1234c/Signal_Generators",
     "description": "Signal generators (AD9833, AD9834, AD9850, ADF4351) toolbox."
-  },
-  {
-    "name": "ad9850_signalgen",
-    "url": "https://github.com/brenn/ad9850_signalgen",
-    "description": "MicroPython library for AD9850 synthesizer."
   },
   {
     "name": "pico-wave-vibration-generator",
@@ -2460,6 +2485,11 @@
     "description": "A MAX30102 driver ported to MicroPython. It should also work for MAX30105."
   },
   {
+    "name": "max30102",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/max30102.py",
+    "description": "MicroPython driver for the MAX30102, with heartbeat detection and BPM measurement."
+  },
+  {
     "name": "micropython-ov2640",
     "url": "https://github.com/namato/micropython-ov2640",
     "description": "MicroPython class for OV2640 camera."
@@ -2493,6 +2523,11 @@
     "name": "MQTT-Cam",
     "url": "https://github.com/jono-allen/MQTT-Cam",
     "description": "ESP32-CAM MicroPython MQTT AWS S3 Uploader."
+  },
+  {
+    "name": "huskylib",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py",
+    "description": "MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition."
   },
   {
     "name": "micropython-tcs34725",
@@ -2615,6 +2650,11 @@
     "description": "A MicroPython library for the Garmin Lidar Lite v3HP."
   },
   {
+    "name": "vl53l1x",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vl53l1x.py",
+    "description": "MicroPython driver for the VL53L1X ToF sensor."
+  },
+  {
     "name": "micropython-hcsr04",
     "url": "https://github.com/rsc1975/micropython-hcsr04",
     "description": "Driver for HC-SR04 ultrasonic distance sensors."
@@ -2718,6 +2758,11 @@
     "name": "MicroPython_HTS221",
     "url": "https://github.com/jposada202020/MicroPython_HTS221",
     "description": "MicroPython Driver for the HTS221 Humidity Sensor."
+  },
+  {
+    "name": "ld2410",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/ld2410.py",
+    "description": "24GHz human presence sensing module, capable of detecting moving and stationary targets, and providing an approximate range."
   },
   {
     "name": "MicroPython-SI1145",
@@ -2943,6 +2988,11 @@
     "name": "MicroPython_VCNL4010",
     "url": "https://github.com/jposada202020/MicroPython_VCNL4010",
     "description": "MicroPython Driver for the Vishay VCNL4010 Proximity and Ambient Light Sensor."
+  },
+  {
+    "name": "apds9960",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/apds9960.py",
+    "description": "MicroPython Driver for the APDS9960, with simple gesture detection."
   },
   {
     "name": "micropython-geiger",
@@ -3297,7 +3347,7 @@
   {
     "name": "Schedule",
     "url": "https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md",
-    "description": "A scheduler for uasyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set."
+    "description": "A scheduler for asyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set."
   },
   {
     "name": "micropython-aioschedule",
@@ -3460,7 +3510,7 @@
     "description": "Regular meetup at CCHS in Melbourne, Australia."
   },
   {
-    "name": "uasyncio",
+    "name": "asyncio",
     "url": "https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md",
     "description": "Write asynchronous code which interfaces to hardware devices."
   },
@@ -3668,6 +3718,11 @@
     "name": "Asynchronous monitor",
     "url": "https://github.com/peterhinch/micropython-monitor",
     "description": "Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code."
+  },
+  {
+    "name": "micropython-builder",
+    "url": "https://github.com/jonahbron/micropython-builder",
+    "description": "Tool for building and flashing a custom MicroPython firmware."
   },
   {
     "name": "BIPES",

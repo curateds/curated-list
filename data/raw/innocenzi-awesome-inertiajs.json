@@ -53,7 +53,7 @@
   },
   {
     "name": "ASP.NET Core",
-    "url": "https://github.com/Nothing-Works/inertia-aspnetcore"
+    "url": "https://github.com/kapi2289/InertiaCore"
   },
   {
     "name": "CakePHP",
@@ -168,6 +168,11 @@
     "name": "Breeze React",
     "url": "https://github.com/lucky-media/breeze-react",
     "description": "Laravel Breeze fork with Tailwind CSS, Inertia.js and React."
+  },
+  {
+    "name": "Laravel Jetstream React",
+    "url": "https://github.com/ozziexsh/laravel-jetstream-react",
+    "description": "Converts the official Laravel Jetstream Inertia.js starter kit to React."
   },
   {
     "name": "Page loader",
