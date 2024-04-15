@@ -1300,6 +1300,11 @@
     "description": "Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched."
   },
   {
+    "name": "moyiz/command-and-cursor.nvim",
+    "url": "https://github.com/moyiz/command-and-cursor.nvim",
+    "description": "Highlight cursor and visual selections when entering command mode."
+  },
+  {
     "name": "sontungexpt/witch",
     "url": "https://github.com/sontungexpt/witch",
     "description": "The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users."
@@ -2850,9 +2855,9 @@
     "description": "Functions for interacting with Wezterm."
   },
   {
-    "name": "akinsho/nvim-toggleterm.lua",
-    "url": "https://github.com/akinsho/nvim-toggleterm.lua",
-    "description": "A Neovim Lua plugin to help easily manage multiple terminal windows."
+    "name": "akinsho/toggleterm.nvim",
+    "url": "https://github.com/akinsho/toggleterm.nvim",
+    "description": "Easily manage multiple terminal windows."
   },
   {
     "name": "norcalli/nvim-terminal.lua",
@@ -3398,6 +3403,11 @@
     "name": "isak102/telescope-git-file-history.nvim",
     "url": "https://github.com/isak102/telescope-git-file-history.nvim",
     "description": "Open/preview contents of the current file at a specific commit, without using git checkout."
+  },
+  {
+    "name": "moyiz/git-dev.nvim",
+    "url": "https://github.com/moyiz/git-dev.nvim",
+    "description": "Open remote git repositories in the comfort of Neovim."
   },
   {
     "name": "pwntester/octo.nvim",

@@ -5,6 +5,11 @@
     "description": "Explanation of the principles of load testing and practical examples for how to do it with k6."
   },
   {
+    "name": "k6 OSS workshop",
+    "url": "https://github.com/grafana/k6-oss-workshop",
+    "description": "A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app."
+  },
+  {
     "name": "Beginner's guide to load testing with k6",
     "url": "https://link.medium.com/npI9sjDyyjb",
     "description": "Introductory guide in several parts, helping you get started with k6."
@@ -207,6 +212,11 @@
     "name": "k6 examples",
     "url": "https://k6.io/docs/examples/",
     "description": "A list of common examples on the k6 documentation."
+  },
+  {
+    "name": "k6 QuickPizza examples",
+    "url": "https://github.com/grafana/quickpizza",
+    "description": "Web application used for demos and workshops with multiple k6 examples."
   },
   {
     "name": "k6-template-es6",

@@ -1,28 +1,18 @@
 [
   {
-    "name": "Open Music",
-    "url": "https://github.com/openmusic-project/OM6",
-    "description": "a visual programming, computer-aided composition environment. GPL3."
-  },
-  {
     "name": "OM7",
     "url": "https://github.com/openmusic-project/om7",
     "description": "a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. GPL3."
   },
   {
+    "name": "rq",
+    "url": "https://github.com/openmusic-project/RQ",
+    "description": "a library for rhythm transcription in OpenMusic (version 6.10 and later). demo video. GPL3."
+  },
+  {
     "name": "Incudine",
     "url": "http://incudine.sourceforge.net/",
     "description": "Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly."
-  },
-  {
-    "name": "cl-collider",
-    "url": "https://github.com/byulparan/cl-collider",
-    "description": "A"
-  },
-  {
-    "name": "csound",
-    "url": "https://github.com/csound/csound",
-    "description": "A sound and music computing system. Includes CFFI and FFI interfaces for Common Lisp."
   },
   {
     "name": "CLM",
@@ -35,14 +25,13 @@
     "description": "a fork of CLM5 with modern Lisp (ASDF, cffi…). BSD_3Clause."
   },
   {
-    "name": "cl-patterns",
-    "url": "https://github.com/defaultxr/cl-patterns",
-    "description": "a system for composing music via Lisp code, heavily inspired by SuperCollider’s patterns system, with aims to implement much of it, but in a more robust, expressive, consistent, reflective, and lispy way. Audio output through SuperCollider, with preliminary support for Incudine, and MIDI through ALSA."
+    "name": "Slippery Chicken",
+    "url": "https://github.com/mdedwards/slippery-chicken/",
+    "description": "Algorithmic composition library which outputs Midi, Common Music Notation, pdf-score via Lilypond and sound via Common Lisp Music. GPL3."
   },
   {
-    "name": "cl-openal",
-    "url": "https://github.com/zkat/cl-openal",
-    "description": "bindings for the OpenAL audio library. Public domain."
+    "name": "https://michael-edwards.org/sc/",
+    "url": "https://michael-edwards.org/sc/"
   },
   {
     "name": "Common Music",
@@ -50,24 +39,14 @@
     "description": "the repository of an"
   },
   {
-    "name": "Slippery Chicken",
-    "url": "https://github.com/mdedwards/slippery-chicken/",
-    "description": "Algorithmic composition library which outputs Midi, Common Music Notation, pdf-score via Lilypond and sound via Common Lisp Music. GPL3."
-  },
-  {
-    "name": "Common Music Notation",
-    "url": "https://ccrma.stanford.edu/software/cmn/",
-    "description": "Common Music Notation (CMN) provides a package of functions to hierarchically describe a musical score. Public domain."
-  },
-  {
     "name": "cm-incudine",
     "url": "https://github.com/ormf/cm-incudine",
     "description": "extends Common Music 2 with realtime capabilities. GPL2."
   },
   {
-    "name": "Mégra",
-    "url": "https://github.com/the-drunk-coder/megra",
-    "description": "A mini-language to make music with variable-order markov chains and some other stochastic shenanigans. GPL3."
+    "name": "cl-patterns",
+    "url": "https://github.com/defaultxr/cl-patterns",
+    "description": "a system for composing music via Lisp code, heavily inspired by SuperCollider’s patterns system, with aims to implement much of it, but in a more robust, expressive, consistent, reflective, and lispy way. Audio output through SuperCollider, with preliminary support for Incudine, and MIDI through ALSA."
   },
   {
     "name": "Music",
@@ -75,9 +54,18 @@
     "description": "A framework for musical expression in Lisp with a focus on music theory (built from scratch, unrelated to Common Music)."
   },
   {
-    "name": "rq",
-    "url": "https://github.com/openmusic-project/RQ",
-    "description": "A library for rhythm transcription in OpenMusic (version 6.10 and later). demo video. GPL3."
+    "name": "Harmony",
+    "url": "https://shirakumo.github.io/harmony",
+    "description": "A real-time sound processing and playback system. zlib."
+  },
+  {
+    "name": "cl-mixed",
+    "url": "https://github.com/Shirakumo/cl-mixed"
+  },
+  {
+    "name": "easy-audio",
+    "url": "https://github.com/shamazmazum/easy-audio",
+    "description": "a collection of audio decoders and metadata readers."
   },
   {
     "name": "scheduler",
@@ -85,9 +73,9 @@
     "description": "The time based musical event scheduler for Common Lisp. Apache2.0."
   },
   {
-    "name": "mixalot",
-    "url": "https://github.com/ahefner/mixalot",
-    "description": "Loosely-coupled collection of audio libraries for mp3, ogg vorbis, flac. Used for the Shuffletron music player. MIT."
+    "name": "Common Music Notation",
+    "url": "https://ccrma.stanford.edu/software/cmn/",
+    "description": "Common Music Notation (CMN) provides a package of functions to hierarchically describe a musical score. Public domain."
   },
   {
     "name": "osc",
@@ -95,14 +83,23 @@
     "description": "an implementation of the Open Sound Protocol. LGPL2.1."
   },
   {
-    "name": "Harmony",
-    "url": "https://shirakumo.github.io/harmony",
-    "description": "A real-time sound processing and playback system. zlib."
+    "name": "cl-mpg123",
+    "url": "https://github.com/Shirakumo/cl-mpg123"
   },
   {
-    "name": "easy-audio",
-    "url": "https://github.com/shamazmazum/easy-audio",
-    "description": "a collection of audio decoders and metadata readers."
+    "name": "csound",
+    "url": "https://github.com/csound/csound",
+    "description": "A sound and music computing system. Includes CFFI and FFI interfaces for Common Lisp."
+  },
+  {
+    "name": "cl-collider",
+    "url": "https://github.com/byulparan/cl-collider",
+    "description": "A SuperCollider client for CommonLisp. With a tutorial and live coding demos. Public domain."
+  },
+  {
+    "name": "cl-openal",
+    "url": "https://github.com/zkat/cl-openal",
+    "description": "bindings for the OpenAL audio library. Public domain."
   },
   {
     "name": "ASDF",
@@ -2208,6 +2205,11 @@
     "description": "Highly opionated Github Actions workflow builder for Common Lisp projects."
   },
   {
+    "name": "make-common-lisp-program",
+    "url": "https://github.com/melusina-org/make-common-lisp-program/",
+    "description": "GitHub action to build an executable Common Lisp program on Ubuntu, MacOS and Windows. MIT."
+  },
+  {
     "name": "Platform.sh",
     "url": "https://platform.sh/blog/2019/lisp/"
   },
@@ -3353,6 +3355,11 @@
     "description": "A development library for manipulating date and time information in a semi-standard manner. 3-clause BSD."
   },
   {
+    "name": "fuzzy-dates",
+    "url": "https://github.com/Shinmera/fuzzy-dates",
+    "description": "A library to fuzzily parse date and time strings. Zlib."
+  },
+  {
     "name": "cl-date-time-parser",
     "url": "https://github.com/tkych/cl-date-time-parser",
     "description": "Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. MIT."
@@ -3495,13 +3502,13 @@
     "description": "Exploratory"
   },
   {
-    "name": "40ants fork",
+    "name": "40ants/doc",
     "url": "https://github.com/40ants/doc"
   },
   {
-    "name": "Declt",
-    "url": "https://github.com/didierverna/declt",
-    "description": "Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD."
+    "name": "sphinxcontrib-cldomain",
+    "url": "https://sphinxcontrib-cldomain.russellsim.org/",
+    "description": "Extending Sphinx to cover Common Lisp. To build documentation with"
   },
   {
     "name": "Codex",
@@ -3514,9 +3521,9 @@
     "description": "generates HTML (or LaTeX) formatted code listings of Common Lisp source files. BSD_3Clause."
   },
   {
-    "name": "sphinxcontrib-cldomain",
-    "url": "https://sphinxcontrib-cldomain.russellsim.org/",
-    "description": "Extending Sphinx to cover Common Lisp. To build documentation with"
+    "name": "Declt",
+    "url": "https://github.com/didierverna/declt",
+    "description": "Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD."
   },
   {
     "name": "cl-bibtex",

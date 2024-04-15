@@ -955,6 +955,11 @@
     "description": "Optimized primitives for collective multi-GPU communication. [BSD]"
   },
   {
+    "name": "Neco",
+    "url": "https://github.com/tidwall/neco",
+    "description": "Concurrency library for C (coroutines). [MIT]"
+  },
+  {
     "name": "OpenCL",
     "url": "https://www.khronos.org/opencl/",
     "description": "The open standard for parallel programming of heterogeneous systems."
@@ -4608,7 +4613,7 @@
     "description": "This Qt lib is based off of the C++ VerbalExpressions library. [MIT]"
   },
   {
-    "name": "RaipdFuzz",
+    "name": "RapidFuzz",
     "url": "https://github.com/rapidfuzz/rapidfuzz-cpp",
     "description": "Rapid fuzzy string matching in C++ using the Levenshtein Distance. [MIT] website"
   },

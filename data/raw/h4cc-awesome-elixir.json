@@ -595,6 +595,11 @@
     "description": "Beaver is a LLVM/MLIR Toolkit in Elixir and Zig."
   },
   {
+    "name": "ExLLama",
+    "url": "https://github.com/noizu-labs-ml/ex_llama",
+    "description": "LlamaCpp Nif Extensions for Elixir/Erlang."
+  },
+  {
     "name": "Exnn",
     "url": "https://github.com/zampino/exnn",
     "description": "Evolutive Neural Networks framework à la G.Sher written in Elixir. (Docs)."
