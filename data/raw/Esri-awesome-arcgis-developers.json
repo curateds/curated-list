@@ -605,6 +605,11 @@
     "description": "Generate and download random GeoJSON quickly for testing."
   },
   {
+    "name": "reducegeojson",
+    "url": "https://github.com/radical-data/reducegeojson",
+    "description": "A tool to reduce the file size of GeoJSON files for web optimisation."
+  },
+  {
     "name": "histogrand",
     "url": "https://github.com/hhkaos/histogrand",
     "description": "Random value generator according to customized histograms."

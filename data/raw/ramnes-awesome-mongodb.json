@@ -132,6 +132,11 @@
     "description": "Free and self-paced MongoDB courses for beginners"
   },
   {
+    "name": "ballerina-mongodb",
+    "url": "https://github.com/ballerina-platform/module-ballerinax-mongodb",
+    "description": "Official Ballerina driver"
+  },
+  {
     "name": "mongo-c-driver",
     "url": "https://github.com/mongodb/mongo-c-driver",
     "description": "Official C driver"
