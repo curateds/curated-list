@@ -90,6 +90,11 @@
     "description": "ESLint configuration for awesome projects."
   },
   {
+    "name": "clean-typescript",
+    "url": "https://github.com/cunarist/eslint-config-clean-typescript",
+    "description": "Enforce classic JavaScript featuress in TypeScript codebase by banning excessive keywords."
+  },
+  {
     "name": "ES",
     "url": "https://github.com/thenativeweb/eslint-config-es",
     "description": "Shareable config for very strict code."
@@ -745,6 +750,11 @@
     "name": "padding",
     "url": "https://github.com/mu-io/eslint-plugin-padding",
     "description": "Allows/disallows padding between statements."
+  },
+  {
+    "name": "paths",
+    "url": "https://github.com/vitonsky/eslint-plugin-paths",
+    "description": "Use paths from tsconfig/jsconfig and auto fix relative paths to aliases."
   },
   {
     "name": "AVA",

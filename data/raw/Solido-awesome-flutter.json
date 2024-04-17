@@ -35,11 +35,6 @@
     "description": "Very original content and tutorials by Brian Armstrong"
   },
   {
-    "name": "Iirokrankka.com",
-    "url": "https://iirokrankka.com/",
-    "description": "Articles and tutorials and anything related by Iiro Krankka."
-  },
-  {
     "name": "Norbert",
     "url": "https://medium.com/@norbertkozsir",
     "description": "In depth articles, features and app creation by Norbert515"
@@ -58,6 +53,16 @@
     "name": "Awesome Flutter tips",
     "url": "https://github.com/erluxman/awesomefluttertips/",
     "description": "Tips to help developers increase productivity by erluxman."
+  },
+  {
+    "name": "Flutter4Fun",
+    "url": "http://flutter4fun.com",
+    "description": "UI Challenge implementation blog by Iman Khoshabi."
+  },
+  {
+    "name": "Flutter Stack Weekly",
+    "url": "https://blog.canopas.com/tagged/canopas-flutter-weekly",
+    "description": "Weekly newsletter on new development and updates curated by Jimmy Sanghani"
   },
   {
     "name": "Animated Chat",
@@ -215,11 +220,6 @@
     "description": "showcasing Flutter components, with side-by-side source code view, by X-Wei"
   },
   {
-    "name": "StaggeredGridView",
-    "url": "https://github.com/letsar/flutter_staggered_grid_view",
-    "description": "GridView with tiles of variable sizes by Romain Rastel"
-  },
-  {
     "name": "Facebook Reactions",
     "url": "https://github.com/duytq94/facebook-reaction-animation",
     "description": "Facebook reactions widget by Duy Tran"
@@ -230,23 +230,9 @@
     "description": "Highly configurable Snackbar by Andre Haueisen"
   },
   {
-    "name": "Typeahead",
-    "url": "https://github.com/AbdulRahmanAlHamali/flutter_typeahead",
-    "description": "Display overlay suggestions to users as they type by Abdul Rahman Al Hamali"
-  },
-  {
-    "name": "Pin Code",
-    "url": "https://github.com/LiewJunTung/pin_code_text_field",
-    "description": "Animated & customisable Pin code for login and OTP by Liew Jun Tung"
-  },
-  {
     "name": "Liquid Pull To Refresh",
     "url": "https://github.com/aagarwal1012/Liquid-Pull-To-Refresh",
     "description": "A beautiful and custom refresh indicator by Ayush Agarwal."
-  },
-  {
-    "name": "Slide Container",
-    "url": "https://pub.dev/packages/slide_container"
   },
   {
     "name": "Direct Select",
@@ -300,7 +286,7 @@
   {
     "name": "Timeline Tile",
     "url": "https://github.com/JHBitencourt/timeline_tile",
-    "description": "A tile to help build beautiful and customisable timelines by Julio Bitencourt."
+    "description": "Tile to help build beautiful and customisable timelines by Julio Bitencourt."
   },
   {
     "name": "Rounded Loading Button",
@@ -308,24 +294,44 @@
     "description": "Button with a loading indicator, complete with success and error animations by Chris Edgington"
   },
   {
-    "name": "PlutoGrid",
-    "url": "https://github.com/bosskmk/pluto_grid",
-    "description": "Web and desktop datagrid that can be controlled by the keyboard by bosskmk."
-  },
-  {
     "name": "Flyer Chat",
     "url": "https://github.com/flyerhq/flutter_chat_ui",
     "description": "Community-driven chat UI implementation by the Flyer Chat team"
   },
   {
-    "name": "smooth_page_indicator",
+    "name": "Smooth Page Indicator",
     "url": "https://github.com/Milad-Akarie/smooth_page_indicator",
     "description": "Customizable animated page indicator with a set of built-in effects. Milad Akarie"
   },
   {
-    "name": "Sticky Header",
-    "url": "https://github.com/letsar/flutter_sticky_header",
-    "description": "Sliver based sticky headers by Romain Rastel"
+    "name": "Super List",
+    "url": "https://github.com/superlistapp/super_sliver_list",
+    "description": "Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by Matej Knopp"
+  },
+  {
+    "name": "Reorderables",
+    "url": "https://github.com/hanshengchiu/reorderables",
+    "description": "Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by Hansheng Chiu."
+  },
+  {
+    "name": "Liquid Pull To Refresh",
+    "url": "https://github.com/aagarwal1012/Liquid-Pull-To-Refresh",
+    "description": "A beautiful and custom refresh indicator by Ayush Agarwal."
+  },
+  {
+    "name": "PlutoGrid",
+    "url": "https://github.com/bosskmk/pluto_grid",
+    "description": "Web and desktop datagrid that can be controlled by the keyboard by bosskmk."
+  },
+  {
+    "name": "Typeahead",
+    "url": "https://github.com/AbdulRahmanAlHamali/flutter_typeahead",
+    "description": "Display overlay suggestions to users as they type by Abdul Rahman Al Hamali"
+  },
+  {
+    "name": "StaggeredGridView",
+    "url": "https://github.com/letsar/flutter_staggered_grid_view",
+    "description": "GridView with tiles of variable sizes by Romain Rastel"
   },
   {
     "name": "Sticky Headers",
@@ -378,34 +384,24 @@
     "description": "A material design slider and range slider, horizontal and vertical, with RTL support by Ali-Azmoud"
   },
   {
-    "name": "Reorderables",
-    "url": "https://github.com/hanshengchiu/reorderables",
-    "description": "Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by Hansheng Chiu."
-  },
-  {
-    "name": "Liquid Pull To Refresh",
-    "url": "https://github.com/aagarwal1012/Liquid-Pull-To-Refresh",
-    "description": "A beautiful and custom refresh indicator by Ayush Agarwal."
-  },
-  {
     "name": "Offline",
     "url": "https://github.com/jogboms/flutter_offline",
     "description": "Tidy utility to handle offline/online connectivity by Jeremiah Ogbomo."
   },
   {
-    "name": "Scroll To Index",
-    "url": "https://github.com/quire-io/scroll-to-index",
-    "description": "Scroll to specified child element with given index for SliverList/ListView by Jerry Chen."
-  },
-  {
-    "name": "In View Notifier List",
-    "url": "https://github.com/rvamsikrishna/inview_notifier_list",
-    "description": "ListView that notify when widgets are on screen within a provided area by Vamsi Krishna."
-  },
-  {
     "name": "ShowCaseView",
     "url": "https://github.com/simformsolutions/flutter_showcaseview",
     "description": "Way to showcase your app features on iOS and Android by Simform"
+  },
+  {
+    "name": "Mix",
+    "url": "https://github.com/leoafarias/mix",
+    "description": "An expressive way to effortlessly build design systems by Leo Farias."
+  },
+  {
+    "name": "Blurhash",
+    "url": "https://github.com/fluttercommunity/flutter_blurhash",
+    "description": "Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by Robert Felker"
   },
   {
     "name": "Slidable",
@@ -466,11 +462,6 @@
     "name": "Time Planner",
     "url": "https://github.com/Jamalianpour/time_planner",
     "description": "A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by Mohammad Jamalianpour"
-  },
-  {
-    "name": "Flutter Login",
-    "url": "https://github.com/NearHuscarl/flutter_login",
-    "description": "Login widget with slick animation from start to finish by NearHuscarl"
   },
   {
     "name": "Dynamic Widget",
@@ -693,6 +684,11 @@
     "description": "Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by CaiJingLong and Alex Li."
   },
   {
+    "name": "Audio Players Plugin",
+    "url": "https://github.com/luanpotter/audioplayers",
+    "description": "Play multiple audio files simultaneously (Android/iOS) by Luan Nico."
+  },
+  {
     "name": "Flutter Audio Recorder",
     "url": "https://github.com/shadow-app/flutter_audio_recorder",
     "description": "Provides full controls and access to recording details such as level metering by Wenyan Li."
@@ -755,11 +751,6 @@
     "name": "Secure Storage",
     "url": "https://github.com/mogol/flutter_secure_storage",
     "description": "Keychain and Keystore storage by German Saprykin"
-  },
-  {
-    "name": "Streaming Shared Preferences",
-    "url": "https://github.com/roughike/streaming_shared_preferences",
-    "description": "Reactive key-value store, shared preferences with Streams by Iiro Krankka"
   },
   {
     "name": "Admob",
@@ -947,11 +938,6 @@
     "description": "A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by Baseflow"
   },
   {
-    "name": "WidgetKit",
-    "url": "https://github.com/fasky-software/flutter_widgetkit",
-    "description": "A plugins which allows you to create a Widget-Extention for iOS by Thomas Leiter"
-  },
-  {
     "name": "Live Activities",
     "url": "https://github.com/istornz/live_activities",
     "description": "A plugin to use iOS live activities & Dynamic Island features by Dimitri Dessus"
@@ -1007,11 +993,6 @@
     "description": "Collection of packages that help implement the BLoC design pattern by Felix Angelov"
   },
   {
-    "name": "MobX",
-    "url": "https://github.com/mobxjs/mobx.dart",
-    "description": "Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land."
-  },
-  {
     "name": "Provider",
     "url": "https://github.com/rrousselGit/provider",
     "description": "State-management library for Flutter by Remi Rousselet"
@@ -1027,9 +1008,14 @@
     "description": "Contextless, State-management & navigation by Jonny Borges"
   },
   {
-    "name": "Binder",
-    "url": "https://github.com/letsar/binder",
-    "description": "A lightweight, yet powerful way to bind your application state with your business logic, by Romain Rastel."
+    "name": "MobX",
+    "url": "https://github.com/mobxjs/mobx.dart",
+    "description": "Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land."
+  },
+  {
+    "name": "Signals",
+    "url": "https://github.com/rodydavis/signals.dart",
+    "description": "Reactive programming made simple. Port of Signals pattern by Rody Davis"
   },
   {
     "name": "Redux.dart",
@@ -1254,6 +1240,11 @@
     "name": "Taskist",
     "url": "https://github.com/huextrat/Taskist",
     "description": "Taskist is a ToDo List app for Task Management by Hugo EXTRAT"
+  },
+  {
+    "name": "Linwood Butterfly",
+    "url": "https://github.com/LinwoodCloud/Butterfly",
+    "description": "Powerful note taking app and an alternative to OneNote by CodeDoctorDE"
   },
   {
     "name": "Trinity Orientation @ Univ Toronto",

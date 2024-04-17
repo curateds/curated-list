@@ -107,7 +107,7 @@
   {
     "name": "nix-installer",
     "url": "https://github.com/DeterminateSystems/nix-installer",
-    "description": "Opinonated alternative to the official Nix install scripts."
+    "description": "Opinionated alternative to the official Nix install scripts."
   },
   {
     "name": "nix-installer-scripts",
@@ -683,6 +683,11 @@
     "name": "nix-topology",
     "url": "https://github.com/oddlama/nix-topology",
     "description": "Generate infrastructure and network diagrams directly from your NixOS configuration."
+  },
+  {
+    "name": "impermanence",
+    "url": "https://github.com/nix-community/impermanence",
+    "description": "Lets you choose what files and directories you want to keep between reboots."
   },
   {
     "name": "NixOS Configuration Editor",
