@@ -167,11 +167,6 @@
     "description": "Popular JavaScript tweening library that integrates easily with PlayCanvas."
   },
   {
-    "name": "PlayBuild",
-    "url": "https://github.com/wearekuva/playbuild",
-    "description": "An integrated bundler and package manager with support for TypeScript & JSX."
-  },
-  {
     "name": "Solar Tools",
     "url": "https://solargames.io/tools/",
     "description": "A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc."
@@ -180,6 +175,11 @@
     "name": "Sublime Completions",
     "url": "https://github.com/playcanvas/sublime-completions",
     "description": "Sublime Text Autocompletion for the PlayCanvas API."
+  },
+  {
+    "name": "VS Code Extension",
+    "url": "https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas",
+    "description": "VS Code Extension that can be used instead of the built-in Code Editor."
   },
   {
     "name": "After the Flood",
