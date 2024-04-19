@@ -331,41 +331,11 @@
   },
   {
     "name": "GitHub",
-    "url": "https://github.com/",
-    "description": "Development environments hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month."
-  },
-  {
-    "name": "CI/CD",
-    "url": "https://github.com/features/actions"
-  },
-  {
-    "name": "Codespaces",
-    "url": "https://github.com/codespaces",
-    "description": "Development environments hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month."
-  },
-  {
-    "name": "Static Website Hosting",
-    "url": "https://pages.github.com"
-  },
-  {
-    "name": "Package Hosting & Container Registry",
-    "url": "https://github.com/features/packages"
-  },
-  {
-    "name": "GitHub Copilot",
-    "url": "https://github.com/features/copilot"
+    "url": "https://github.com/"
   },
   {
     "name": "gitlab.com",
     "url": "https://about.gitlab.com/"
-  },
-  {
-    "name": "CI/CD",
-    "url": "https://about.gitlab.com/product/continuous-integration"
-  },
-  {
-    "name": "GitLab Pages",
-    "url": "https://about.gitlab.com/product/pages"
   },
   {
     "name": "framagit.org",
@@ -1851,10 +1821,6 @@
     "url": "https://buildkite.com"
   },
   {
-    "name": "Test Analytics",
-    "url": "https://buildkite.com/test-analytics"
-  },
-  {
     "name": "bytebase.com",
     "url": "https://www.bytebase.com/"
   },
@@ -2029,6 +1995,10 @@
     "description": "holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month."
   },
   {
+    "name": "Requestly",
+    "url": "https://requestly.com/"
+  },
+  {
     "name": "seotest.me",
     "url": "https://seotest.me/"
   },
@@ -2082,11 +2052,6 @@
     "name": "webhook-test.com",
     "url": "https://webhook-test.com",
     "description": "Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations."
-  },
-  {
-    "name": "welltested.ai",
-    "url": "https://welltested.ai",
-    "description": "Generate unit and integration tests using AI for mobile languages like Flutter within minutes. Free forever for developers."
   },
   {
     "name": "aikido.dev",
@@ -3325,7 +3290,8 @@
   },
   {
     "name": "Zoho",
-    "url": "https://www.zoho.com"
+    "url": "https://www.zoho.com",
+    "description": "Email Marketing"
   },
   {
     "name": "Email",
@@ -3385,27 +3351,28 @@
   },
   {
     "name": "Campaigns",
-    "url": "https://zoho.com/campaigns"
+    "url": "https://zoho.com/campaigns",
+    "description": "Email Marketing"
   },
   {
     "name": "Forms",
-    "url": "https://zoho.com/forms"
+    "url": "https://zoho.com/forms",
+    "description": "Form Creator"
   },
   {
     "name": "Sign",
-    "url": "https://zoho.com/sign"
+    "url": "https://zoho.com/sign",
+    "description": "Paperless Signatures"
   },
   {
     "name": "Surveys",
-    "url": "https://zoho.com/surveys"
+    "url": "https://zoho.com/surveys",
+    "description": "Online Surveys"
   },
   {
     "name": "Bookings",
-    "url": "https://zoho.com/bookings"
-  },
-  {
-    "name": "Analytics",
-    "url": "https://zoho.com/analytics"
+    "url": "https://zoho.com/bookings",
+    "description": "Appointment Scheduling"
   },
   {
     "name": "ConfigCat",
@@ -3474,18 +3441,7 @@
   },
   {
     "name": "Bunny",
-    "url": "https://bunny.net",
-    "description": "All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!"
-  },
-  {
-    "name": "Bunny Fonts",
-    "url": "https://fonts.bunny.net/",
-    "description": "All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!"
-  },
-  {
-    "name": "Bunny DNS",
-    "url": "https://bunny.net/dns/",
-    "description": "DNS hosting, 20 million free queries"
+    "url": "https://fonts.bunny.net"
   },
   {
     "name": "FontsKey",
@@ -3761,14 +3717,6 @@
   {
     "name": "Gcore",
     "url": "https://gcorelabs.com/"
-  },
-  {
-    "name": "CDN",
-    "url": "https://gcorelabs.com/cdn/"
-  },
-  {
-    "name": "DNS Hosting",
-    "url": "https://gcorelabs.com/dns/"
   },
   {
     "name": "LightCDN",
@@ -4526,10 +4474,6 @@
   {
     "name": "segment.com",
     "url": "https://segment.com/"
-  },
-  {
-    "name": "STUN",
-    "url": "https://en.wikipedia.org/wiki/STUN"
   },
   {
     "name": "Tailscale",
@@ -5814,16 +5758,6 @@
     "description": "Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft."
   },
   {
-    "name": "Desktop",
-    "url": "https://code.visualstudio.com",
-    "description": "(Windows, macOS and Linux)."
-  },
-  {
-    "name": "Online",
-    "url": "https://vscode.dev",
-    "description": "(Browser)"
-  },
-  {
     "name": "Visual Studio Community",
     "url": "https://visualstudio.microsoft.com/vs/community/"
   },
@@ -6634,6 +6568,10 @@
   {
     "name": "Microsoft 365 Developer Program",
     "url": "https://developer.microsoft.com/microsoft-365/dev-program"
+  },
+  {
+    "name": "Pyrexp",
+    "url": "https://pythonium.net/regex"
   },
   {
     "name": "RedHat for Developers",

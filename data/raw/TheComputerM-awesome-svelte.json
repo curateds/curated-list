@@ -289,6 +289,11 @@
     "description": "Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces."
   },
   {
+    "name": "Svelte UX",
+    "url": "https://github.com/techniq/svelte-ux",
+    "description": "Large collection of components, actions, stores, and utilities to build highly interactive applications"
+  },
+  {
     "name": "STDF",
     "url": "https://stdf.design",
     "description": "Mobile web component library based on Svelte and Tailwind."
@@ -442,6 +447,11 @@
     "name": "Layer Cake",
     "url": "https://github.com/mhkeller/layercake",
     "description": "A framework for mostly-reusable graphics with svelte"
+  },
+  {
+    "name": "LayerChart",
+    "url": "https://github.com/techniq/layerchart",
+    "description": "Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake"
   },
   {
     "name": "svelte-tree-viewer",
