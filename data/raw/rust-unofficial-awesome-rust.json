@@ -3711,7 +3711,8 @@
   },
   {
     "name": "orm",
-    "url": "https://crates.io/keywords/orm"
+    "url": "https://crates.io/keywords/orm",
+    "description": "⛵ A lightweight ORM library for Rust"
   },
   {
     "name": "Brendonovich/prisma-client-rust",
@@ -3724,6 +3725,11 @@
   {
     "name": "ivanceras/rustorm",
     "url": "https://github.com/ivanceras/rustorm"
+  },
+  {
+    "name": "njord-rs/njord",
+    "url": "https://github.com/njord-rs/njord",
+    "description": "⛵ A lightweight ORM library for Rust"
   },
   {
     "name": "rbatis/rbatis",

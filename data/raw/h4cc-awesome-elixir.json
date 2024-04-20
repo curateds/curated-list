@@ -495,6 +495,11 @@
     "description": "Cryptocurrecy trading platform / trading bot with admin panel."
   },
   {
+    "name": "Lynx",
+    "url": "https://github.com/clivern/lynx",
+    "description": "A Fast, Secure and Reliable Terraform Backend, Set up in Minutes."
+  },
+  {
     "name": "majremind",
     "url": "https://bitbucket.org/Anwen/majremind",
     "description": "A self-maintained database of your updated server which tells you which one needs to be updated."
@@ -597,7 +602,7 @@
   {
     "name": "ExLLama",
     "url": "https://github.com/noizu-labs-ml/ex_llama",
-    "description": "LlamaCpp Nif Extensions for Elixir/Erlang."
+    "description": "LlamaCpp Nif Extensions for Elixir/Erlang. (Docs)."
   },
   {
     "name": "Exnn",
@@ -607,7 +612,7 @@
   {
     "name": "GenAI",
     "url": "https://github.com/noizu-labs-ml/genai",
-    "description": "An extensible Generative AI Completion API Wrapper with basic chat completion with tool use support provided for Gemini, Anthropic, OpenAI, and Mistral models."
+    "description": "An extensible Generative AI Completion API Wrapper with basic chat completion with tool use support provided for Gemini, Anthropic, OpenAI, and Mistral models. (Docs)."
   },
   {
     "name": "m2cgen",
@@ -622,7 +627,7 @@
   {
     "name": "Noizu-OpenAi",
     "url": "https://github.com/noizu-labs/elixir-openai",
-    "description": "An Elixir Api for the OpenAI Library."
+    "description": "An Elixir Api for the OpenAI Library. (Docs)."
   },
   {
     "name": "Nx",
@@ -643,6 +648,11 @@
     "name": "Synapses",
     "url": "https://mrdimosthenis.github.io/Synapses/?elixir",
     "description": "A lightweight library for neural networks."
+  },
+  {
+    "name": "Weaviate",
+    "url": "https://github.com/noizu-labs-ml/elixir-weaviate",
+    "description": "Weaviate client and macros for declaring records. (Docs)."
   },
   {
     "name": "erlaudio",

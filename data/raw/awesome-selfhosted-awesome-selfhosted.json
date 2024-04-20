@@ -510,6 +510,11 @@
     "description": "Self-hosted bookmark service with unique design and simple installation with Docker. MIT Docker"
   },
   {
+    "name": "Readeck",
+    "url": "https://readeck.org/en/",
+    "description": "Readeck is a simple web application that lets you save the precious readable content of web pages you like and want to keep forever. See it as a bookmark manager and a read later tool. (Source Code, Clients) AGPL-3.0 Go/Docker"
+  },
+  {
     "name": "Servas",
     "url": "https://github.com/beromir/Servas",
     "description": "A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. (Clients) GPL-3.0 Docker/Nodejs/PHP"
@@ -561,8 +566,8 @@
   },
   {
     "name": "Manage My Damn Life",
-    "url": "https://intri.in/manage-my-damn-life/",
-    "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. (Source Code) GPL-3.0 Nodejs/Docker"
+    "url": "https://github.com/intri-in/manage-my-damn-life-nextjs",
+    "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. GPL-3.0 Nodejs/Docker"
   },
   {
     "name": "Radicale",
@@ -971,7 +976,7 @@
   },
   {
     "name": "Slimta",
-    "url": "https://www.slimta.org",
+    "url": "https://slimta.github.io/",
     "description": "Mail Transfer Library built on Python. (Source Code) MIT Python"
   },
   {
@@ -3030,6 +3035,11 @@
     "description": "RosarioSIS, free Student Information System for school management. (Demo, Source Code) GPL-2.0 PHP"
   },
   {
+    "name": "Schoco",
+    "url": "https://github.com/PhiTux/schoco",
+    "description": "Online IDE for learning Java programming at school, including automatic JUnit tests. Designed to give coding homework/assignments. MIT Docker"
+  },
+  {
     "name": "CNCjs",
     "url": "https://cnc.js.org/",
     "description": "A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. (Source Code) MIT Nodejs"
@@ -3203,6 +3213,11 @@
     "name": "mStream",
     "url": "https://mstream.io/",
     "description": "Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. (Source Code) GPL-2.0 Nodejs"
+  },
+  {
+    "name": "multi-scrobbler",
+    "url": "https://foxxmd.github.io/multi-scrobbler",
+    "description": "Scrobble plays from multiple sources to multiple scrobbling services. (Source Code) MIT Nodejs/Docker"
   },
   {
     "name": "musikcube",
@@ -3490,6 +3505,11 @@
     "description": "Create avatars using the Avataaars library (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
   },
   {
+    "name": "Digitranscode",
+    "url": "https://ladigitale.dev/digitranscode",
+    "description": "Convert audio files and videos directly in the browser (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
+  },
+  {
     "name": "Digiview",
     "url": "https://ladigitale.dev/digiview/",
     "description": "View YouTube videos in a distraction-free interface (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs/PHP"
@@ -3563,6 +3583,11 @@
     "name": "Habitica",
     "url": "https://habitica.com/",
     "description": "Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. (Source Code) GPL-3.0/CC-BY-SA-3.0 Nodejs/Docker"
+  },
+  {
+    "name": "HortusFox",
+    "url": "https://hortusfox.github.io",
+    "description": "A collaborative plant management system. (Source Code) MIT PHP/Docker"
   },
   {
     "name": "IconCaptcha",
@@ -5167,7 +5192,7 @@
   {
     "name": "rgit",
     "url": "https://github.com/w4/rgit",
-    "description": "An ultra-fast & lightweight cgit clone. (Demo) WTFPL Rust/Docker"
+    "description": "An ultra-fast & lightweight cgit clone. WTFPL Rust/Docker"
   },
   {
     "name": "RhodeCode",

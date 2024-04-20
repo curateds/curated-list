@@ -32,6 +32,10 @@
     "url": "https://github.com/angular/angular"
   },
   {
+    "name": "Future Site",
+    "url": "https://angular.dev"
+  },
+  {
     "name": "#angular",
     "url": "https://twitter.com/hashtag/angular"
   },
@@ -445,6 +449,10 @@
     "url": "https://www.npmjs.com/package/scuri"
   },
   {
+    "name": "Angular Testing Library",
+    "url": "https://testing-library.com/docs/angular-testing-library/intro/"
+  },
+  {
     "name": "Official Documentation",
     "url": "https://angular.io/guide/aot-compiler"
   },
@@ -517,6 +525,11 @@
   {
     "name": "Angular Webpack + rxjs + modules",
     "url": "https://github.com/jorgeas80/angular2-webpack-toh"
+  },
+  {
+    "name": "Angular Builders",
+    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack",
+    "description": "custom webpack"
   },
   {
     "name": "Introduction",
@@ -626,21 +639,6 @@
     "description": "Angular 2: Getting Started"
   },
   {
-    "name": "Channel9 - The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries",
-    "url": "https://channel9.msdn.com/Events/Build/2015/3-644",
-    "description": "The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries"
-  },
-  {
-    "name": "Channel9 - Creating Cross-Platform Apps with Angular 2",
-    "url": "https://channel9.msdn.com/Events/Build/2016/T627",
-    "description": "Creating Cross-Platform Apps with Angular 2"
-  },
-  {
-    "name": "Code School - Accelerating Through Angular 2",
-    "url": "https://www.codeschool.com/courses/accelerating-through-angular",
-    "description": "Accelerating Through Angular 2"
-  },
-  {
     "name": "Angular Pro Screencast",
     "url": "https://www.youtube.com/playlist?list=PLLf-VBOaoVk1E9fTBZdq1CfnRa2TtL_Kb"
   },
@@ -659,10 +657,6 @@
   {
     "name": "Angular 4 Master Class: Beginner to Advanced",
     "url": "https://www.udemy.com/angular-crash-course-for-beginners"
-  },
-  {
-    "name": "List of over 140 Angular Courses (free and paid) at Classpert",
-    "url": "https://classpert.com/angularjs"
   },
   {
     "name": "Official Angular style guide",
@@ -1387,7 +1381,8 @@
   },
   {
     "name": "angular2-fontawesome",
-    "url": "https://github.com/travelist/angular2-fontawesome"
+    "url": "https://github.com/travelist/angular2-fontawesome",
+    "description": "Angular2 Components and Directives for FontAwesome."
   },
   {
     "name": "ng2-fontawesome",
@@ -1395,7 +1390,23 @@
   },
   {
     "name": "ngx-icon-blur",
-    "url": "https://github.com/wadie/ngx-icon-blur"
+    "url": "https://github.com/wadie/ngx-icon-blur",
+    "description": "An Angular component that can be used to create a frosted glass effect for icons."
+  },
+  {
+    "name": "ng-icons",
+    "url": "https://github.com/ng-icons/ng-icons",
+    "description": "The ultimate icon library for Angular."
+  },
+  {
+    "name": "primeicons",
+    "url": "https://github.com/primefaces/primeicons",
+    "description": "PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek."
+  },
+  {
+    "name": "angular-svg-icon",
+    "url": "https://github.com/czeckd/angular-svg-icon",
+    "description": "Angular component and service for inlining SVGs allowing them to be easily styled with CSS."
   },
   {
     "name": "@ctrl/ngx-rightclick",
@@ -1745,6 +1756,11 @@
     "url": "https://www.npmjs.com/package/ng-lazy-load-component"
   },
   {
+    "name": "AgnosUI",
+    "url": "https://amadeusitgroup.github.io/AgnosUI/latest/",
+    "description": "Highly configurable headless framework agnostic component library"
+  },
+  {
     "name": "@angular-material-extensions/contacts",
     "url": "https://github.com/angular-material-extensions/contacts",
     "description": "Angular Library to manage contacts and users with a material design"
@@ -1835,6 +1851,11 @@
     "name": "Flowbite",
     "url": "https://flowbite.com/docs/getting-started/angular/",
     "description": "Open-source UI components built with Tailwind CSS with support for Angular."
+  },
+  {
+    "name": "David UI Angular",
+    "url": "https://github.com/david-ui-org/david-ui-angular",
+    "description": "Components library for enterprise-level projects based on Tailwind CSS and Angular."
   },
   {
     "name": "angular-shepherd",
