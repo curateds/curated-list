@@ -791,7 +791,7 @@
   },
   {
     "name": "Charts",
-    "url": "https://github.com/danielgindi/Charts",
+    "url": "https://github.com/ChartsOrg/Charts",
     "description": "Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart)."
   },
   {
@@ -1673,6 +1673,11 @@
     "name": "When",
     "url": "https://github.com/vadymmarkov/When",
     "description": "A lightweight implementation of Promises."
+  },
+  {
+    "name": "ExtendedAttributes",
+    "url": "https://github.com/sindresorhus/ExtendedAttributes",
+    "description": "Manage extended attributes for files and folders."
   },
   {
     "name": "FileKit",
@@ -3756,7 +3761,7 @@
   },
   {
     "name": "CFNotify",
-    "url": "https://github.com/JT501/CFNotify",
+    "url": "https://github.com/JT501/SwiftNotify",
     "description": "A customizable framework to create draggable alert views."
   },
   {
@@ -4338,6 +4343,11 @@
     "name": "PolioPager",
     "url": "https://github.com/YuigaWada/PolioPager",
     "description": "A flexible TabBarController with search tab like SNKRS."
+  },
+  {
+    "name": "SwiftUIMaterialTabs",
+    "url": "https://github.com/SwiftKickMobile/SwiftUIMaterialTabs",
+    "description": "Material 3-style tabs and Sticky Headers rolled into one SwiftUI library"
   },
   {
     "name": "TabBar",
