@@ -208,9 +208,9 @@
     "description": "Common Lisp UUID library with zero dependencies. MIT."
   },
   {
-    "name": "bitcoin-rpc",
-    "url": "https://codeberg.org/kilianmh/bitcoin-rpc/",
-    "description": "a (hopefully) complete Bitcoin RPC client. AGPL-3.0"
+    "name": "bitcoin-core-rpc",
+    "url": "https://codeberg.org/kilianmh/bitcoin-core-rpc/",
+    "description": "a (hopefully) complete Bitcoin Core RPC client. AGPL-3.0+"
   },
   {
     "name": "bp",

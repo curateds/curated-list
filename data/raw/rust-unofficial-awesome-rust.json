@@ -17,7 +17,7 @@
   },
   {
     "name": "datafusion",
-    "url": "https://github.com/apache/arrow-datafusion"
+    "url": "https://github.com/apache/datafusion"
   },
   {
     "name": "defguard",
@@ -1038,6 +1038,11 @@
   {
     "name": "ObserverWard",
     "url": "https://github.com/0x727/ObserverWard"
+  },
+  {
+    "name": "Raspirus",
+    "url": "https://github.com/Raspirus/Raspirus",
+    "description": "User- and resources-friendly signatures-based malware scanner"
   },
   {
     "name": "ripasso",
@@ -4813,6 +4818,11 @@
     "url": "https://github.com/pulldown-cmark/pulldown-cmark"
   },
   {
+    "name": "insomnimus/tidier",
+    "url": "https://github.com/insomnimus/tidier",
+    "description": "A library to format HTML, XHTML and XML documents."
+  },
+  {
     "name": "owlmafia/rust_android_ios",
     "url": "https://github.com/owlmafia/rust_android_ios"
   },
@@ -4903,10 +4913,6 @@
   {
     "name": "candrew/netsim",
     "url": "https://github.com/canndrew/netsim"
-  },
-  {
-    "name": "jesusprubio/online",
-    "url": "https://github.com/jesusprubio/online"
   },
   {
     "name": "actix/actix",

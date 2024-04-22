@@ -156,7 +156,7 @@
   },
   {
     "name": "Jexer",
-    "url": "https://gitlab.com/klamonte/jexer",
+    "url": "https://gitlab.com/AutumnMeowMeow/jexer",
     "description": "Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like Turbo Vision."
   },
   {
@@ -1755,6 +1755,11 @@
     "description": "Apache Qpid makes messaging tools that speak AMQP and support many languages and platforms."
   },
   {
+    "name": "AutoMQ",
+    "url": "https://github.com/AutoMQ/automq-for-kafka",
+    "description": "AutoMQ is a cloud-native, serverless reinvented Kafka that is easily scalable, manage-less and cost-effective."
+  },
+  {
     "name": "Deezpatch",
     "url": "https://github.com/joel-jeremy/deezpatch",
     "description": "Simple, lightweight, and performant dispatch library for decoupling messages (requests and events) and message handlers."
@@ -2366,7 +2371,7 @@
   },
   {
     "name": "Dynamic Jasper",
-    "url": "http://dynamicjasper.com",
+    "url": "https://intive-fdv.github.io/DynamicJasper/",
     "description": "Abstraction layer to JasperReports. (LGPL-3.0-only)"
   },
   {
@@ -3733,16 +3738,20 @@
     "url": "https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997"
   },
   {
+    "name": "Head First Java (3rd Edition)",
+    "url": "https://www.oreilly.com/library/view/head-first-java/9781492091646/"
+  },
+  {
     "name": "Java Concurrency in Practice",
     "url": "https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601"
   },
   {
-    "name": "Thinking in Java",
-    "url": "https://www.amazon.com/Thinking-Java-Edition-Bruce-Eckel/dp/0131872486"
+    "name": "The Well-Grounded Java Developer (2nd Edition)",
+    "url": "https://www.manning.com/books/the-well-grounded-java-developer-second-edition"
   },
   {
-    "name": "Head First Java (3rd Edition)",
-    "url": "https://www.oreilly.com/library/view/head-first-java/9781492091646/"
+    "name": "Thinking in Java",
+    "url": "https://www.amazon.com/Thinking-Java-Edition-Bruce-Eckel/dp/0131872486"
   },
   {
     "name": "140 Second Ducklings",
