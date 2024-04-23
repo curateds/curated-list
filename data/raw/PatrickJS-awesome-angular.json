@@ -76,10 +76,6 @@
     "url": "https://angularbuddies.slack.com/messages/ng-2/"
   },
   {
-    "name": "#angular2 Slack Channel",
-    "url": "https://dartlang.slack.com/messages/angular2"
-  },
-  {
     "name": "Programming Community Curated Resources for Learning Angular",
     "url": "https://hackr.io/tutorials/learn-angular"
   },
@@ -332,6 +328,63 @@
     "url": "https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md"
   },
   {
+    "name": "angular",
+    "url": "https://blog.angular.io/",
+    "description": "Official Angular blog"
+  },
+  {
+    "name": "modern-angular",
+    "url": "https://modernangular.com/",
+    "description": "Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts."
+  },
+  {
+    "name": "angularexperts",
+    "url": "https://angularexperts.io/blog",
+    "description": "Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!"
+  },
+  {
+    "name": "angular-university",
+    "url": "https://blog.angular-university.io/",
+    "description": "Learn and Keep Up with the Angular Ecosystem"
+  },
+  {
+    "name": "justangular",
+    "url": "https://justangular.com/",
+    "description": "Shares the newest and most important updates about Angular, along with useful tips and tricks."
+  },
+  {
+    "name": "Netanel Basal",
+    "url": "https://medium.com/@netbasal"
+  },
+  {
+    "name": "Tim Deschryver",
+    "url": "https://timdeschryver.dev/"
+  },
+  {
+    "name": "Chau Tran",
+    "url": "https://nartc.me/"
+  },
+  {
+    "name": "Minko Gechev",
+    "url": "https://blog.mgechev.com/"
+  },
+  {
+    "name": "Matthieu Riegler",
+    "url": "https://riegler.fr/"
+  },
+  {
+    "name": "Thomas Laforge",
+    "url": "https://medium.com/@thomas.laforge"
+  },
+  {
+    "name": "Rainer Hahnekamp",
+    "url": "https://medium.com/@rainer-hahnekamp"
+  },
+  {
+    "name": "Evgeniy OZ",
+    "url": "https://medium.com/@eugeniyoz"
+  },
+  {
     "name": "Angular Universal Repository (GitHub)",
     "url": "https://github.com/angular/universal"
   },
@@ -340,53 +393,23 @@
     "url": "https://snipcart.com/blog/angular-seo-universal-server-side-rendering"
   },
   {
-    "name": "ng-web-apis/universal — an opensource set of native API fallbacks and stubs",
-    "url": "https://github.com/ng-web-apis/universal"
+    "name": "ng-web-apis",
+    "url": "https://github.com/taiga-family/ng-web-apis",
+    "description": "A set of common utils for consuming Web APIs with Angular"
   },
   {
-    "name": "Guide to Angular Universal - a comprehensive guide how to sharpen your Universal Skills",
-    "url": "https://www.newline.co/courses/newline-guide-to-angular-universal",
-    "description": "a comprehensive guide how to sharpen your Universal Skills"
+    "name": "ssr",
+    "url": "https://angular.dev/guide/ssr#enable-server-side-rendering",
+    "description": "Documentation for the new ssr package built into the framework."
   },
   {
     "name": "Official Angular Material Design (GitHub)",
     "url": "https://github.com/angular/material2"
   },
   {
-    "name": "md2",
-    "url": "https://www.npmjs.com/package/md2"
-  },
-  {
-    "name": "ng2-material",
-    "url": "https://www.npmjs.com/package/ng2-material"
-  },
-  {
-    "name": "angular2-mdl",
-    "url": "https://www.npmjs.com/package/angular2-mdl"
-  },
-  {
-    "name": "mdl-ext",
-    "url": "https://www.npmjs.com/package/mdl-ext"
-  },
-  {
-    "name": "ng2-materialize",
-    "url": "https://github.com/sherweb/ng2-materialize"
-  },
-  {
-    "name": "Material Light",
-    "url": "https://github.com/YagoLopez/material-light"
-  },
-  {
-    "name": "Blox Material",
-    "url": "https://github.com/src-zone/material"
-  },
-  {
-    "name": "Material Web Components",
-    "url": "https://trimox.github.io/angular-mdc-web"
-  },
-  {
     "name": "MDBootstrap",
-    "url": "https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design"
+    "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
+    "description": "Angular 16 & Bootstrap 5 & Material Design 2.0 UI KIT"
   },
   {
     "name": "Official Angular Cheatsheet",
@@ -421,28 +444,109 @@
     "url": "https://www.interviewbit.com/angular-cheat-sheet/"
   },
   {
-    "name": "Testing Http services in Angular 2 with Jasmine",
-    "url": "https://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/"
-  },
-  {
-    "name": "Testing UI Components with the TestComponentBuilder",
-    "url": "https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/"
-  },
-  {
-    "name": "Marble testing for RxJS observables in Angular",
-    "url": "https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/"
-  },
-  {
     "name": "Testing Angular – A Guide to Robust Angular Applications",
-    "url": "https://testing-angular.com"
+    "url": "https://testing-angular.com",
+    "description": "A Guide to Robust Angular Applications. A free online book and e-book."
   },
   {
     "name": "Auto-create and -update tests tool",
-    "url": "https://www.npmjs.com/package/scuri"
+    "url": "https://www.npmjs.com/package/scuri",
+    "description": "Automate Angular unit test and boilerplate with this schematic."
   },
   {
     "name": "Angular Testing Library",
-    "url": "https://testing-library.com/docs/angular-testing-library/intro/"
+    "url": "https://testing-library.com/docs/angular-testing-library/intro/",
+    "description": "Angular Testing Library builds on top of DOM Testing Library by adding APIs for working with Angular components."
+  },
+  {
+    "name": "ng-mocks",
+    "url": "https://github.com/help-me-mom/ng-mocks",
+    "description": "Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup"
+  },
+  {
+    "name": "auto-spies",
+    "url": "https://github.com/hirezio/auto-spies",
+    "description": "Create automatic spies from classes"
+  },
+  {
+    "name": "@angular/cdk/testing",
+    "url": "https://material.angular.io/cdk/test-harnesses/overview",
+    "description": "@angular/cdk/testing provides infrastructure to help with testing Angular components."
+  },
+  {
+    "name": "cypress",
+    "url": "https://www.cypress.io/",
+    "description": "End to End and Component Testing for Angular."
+  },
+  {
+    "name": "jasmine",
+    "url": "https://jasmine.github.io/",
+    "description": "Simple JavaScript testing"
+  },
+  {
+    "name": "jest",
+    "url": "https://jestjs.io/",
+    "description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity."
+  },
+  {
+    "name": "jest-preset-angular",
+    "url": "https://github.com/thymikee/jest-preset-angular",
+    "description": "Jest configuration preset for Angular projects."
+  },
+  {
+    "name": "jest-preview",
+    "url": "https://github.com/nvh95/jest-preview",
+    "description": "Debug your Jest tests. Effortlessly."
+  },
+  {
+    "name": "playwright-ct-angular",
+    "url": "https://github.com/sand4rt/playwright-ct-angular",
+    "description": "Playwright Angular component testing."
+  },
+  {
+    "name": "spectacular",
+    "url": "https://github.com/ngworker/ngworker/tree/main/packages/spectacular",
+    "description": "Spectacular offers test harnesses for Angular applications and libraries."
+  },
+  {
+    "name": "spectator",
+    "url": "https://github.com/ngneat/spectator",
+    "description": "A Powerful Tool to Simplify Your Angular Tests"
+  },
+  {
+    "name": "testcafe",
+    "url": "https://testcafe.io/",
+    "description": "TestCafe is a user-friendly end-to-end testing solution. Free and open-source test runner. Powerful desktop app."
+  },
+  {
+    "name": "webdriverio",
+    "url": "https://github.com/webdriverio/webdriverio",
+    "description": "Next-gen browser and mobile automation test framework for Node.js"
+  },
+  {
+    "name": "angular-tour-of-heroes-jest-100-coverage",
+    "url": "https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage",
+    "description": "100% unit testing coverage of the popular Angular demo app - Tour of Heroes."
+  },
+  {
+    "name": "how-do-i-test",
+    "url": "https://github.com/rainerhahnekamp/how-do-i-test",
+    "description": "Repository representing different testing use cases for Angular and Spring."
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLu062eICIOdGAJ4AgTzHI6EokHnB90bRJ",
+    "description": "How do I Test? playlist."
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/watch?v=emnwsVy8wRs",
+    "description": "Angular Unit Testing Made Easy"
+  },
+  {
+    "name": "Tim Deschryver Blog",
+    "url": "https://timdeschryver.dev/blog/testing-an-ngrx-project",
+    "description": "Testing an NgRx project"
   },
   {
     "name": "Official web page",
@@ -496,59 +600,59 @@
     "description": "custom webpack"
   },
   {
-    "name": "Egghead.io - Angular",
-    "url": "https://egghead.io/browse/frameworks/angular",
-    "description": "Angular"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@procademy",
+    "description": "Procademy"
   },
   {
-    "name": "Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store",
-    "url": "https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs",
-    "description": "Build Redux Style Applications with Angular2, RxJS, and ngrx/store"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@MonsterlessonsAcademy",
+    "description": "Monsterlessons Academy"
   },
   {
-    "name": "udemy - Introduction to Angular 2",
-    "url": "https://www.udemy.com/introduction-to-angular2/",
-    "description": "Introduction to Angular 2"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@JoshuaMorony",
+    "description": "Joshua Morony"
   },
   {
-    "name": "udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide",
-    "url": "https://www.udemy.com/angular-2-tutorial-for-beginners/",
-    "description": "Angular 2 with TypeScript for Beginners: The Pragmatic Guide"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@NihiraTechiees",
+    "description": "Nihira Techiees"
   },
   {
-    "name": "udemy - The Complete Guide to Angular 2",
-    "url": "https://www.udemy.com/the-complete-guide-to-angular-2/",
-    "description": "The Complete Guide to Angular 2"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@AngularUniversity",
+    "description": "Angular University"
   },
   {
-    "name": "Pluralsight - Angular 2: First Look",
-    "url": "https://www.pluralsight.com/courses/angular-2-first-look",
-    "description": "Angular 2: First Look"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@RainerHahnekamp",
+    "description": "Rainer Hahnekamp"
   },
   {
-    "name": "Pluralsight - Angular 2: Getting Started",
-    "url": "https://www.pluralsight.com/courses/angular-2-getting-started-update",
-    "description": "Angular 2: Getting Started"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@CodeShotsWithProfanis",
+    "description": "Code Shots With Profanis"
   },
   {
-    "name": "Angular Pro Screencast",
-    "url": "https://www.youtube.com/playlist?list=PLLf-VBOaoVk1E9fTBZdq1CfnRa2TtL_Kb"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@deborah_kurata",
+    "description": "Deborah Kurata"
   },
   {
-    "name": "Angular typed Store",
-    "url": "https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@BrandonRobertsDev",
+    "description": "BrandonRobertsDev"
   },
   {
-    "name": "Angular advanced tips and tricks",
-    "url": "https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@DecodedFrontend",
+    "description": "Decoded Frontend"
   },
   {
-    "name": "Angular Fullstack JavaScript Channel",
-    "url": "https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw"
-  },
-  {
-    "name": "Angular 4 Master Class: Beginner to Advanced",
-    "url": "https://www.udemy.com/angular-crash-course-for-beginners"
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@galaxies_dev",
+    "description": "Galaxies_dev"
   },
   {
     "name": "Official Angular style guide",
@@ -557,50 +661,6 @@
   {
     "name": "Shared TSLint & codelyzer rules by fulls1z3",
     "url": "https://github.com/ng-seed/angular-tslint-rules"
-  },
-  {
-    "name": "Keynote – Brad Green, Igor Minar and Jules Kremer",
-    "url": "https://www.youtube.com/watch?v=UxjgUjVpe24"
-  },
-  {
-    "name": "Testing strategies with Angular 2 – Julie Ralph",
-    "url": "https://www.youtube.com/watch?v=C0F2E-PRm44"
-  },
-  {
-    "name": "Building native mobile apps with Angular 2 0 and NativeScript​ - Sebastian Witalec",
-    "url": "https://www.youtube.com/watch?v=4SbiiyRSIwo",
-    "description": "Sebastian Witalec"
-  },
-  {
-    "name": "Angular 2 Data Flow – Jeff Cross, Rob Wormald and Alex Rickabaugh",
-    "url": "https://www.youtube.com/watch?v=bVI5gGTEQ_U"
-  },
-  {
-    "name": "Iterative version upgrade strategies for large Angular applications – Jen Bourey",
-    "url": "https://www.youtube.com/watch?v=8tGcdaItj0I"
-  },
-  {
-    "name": "Debugging Angular 2 Apps with Batarangle – Yuri Takhteyev and Igor Krivanov",
-    "url": "https://www.youtube.com/watch?v=cAC4d3KIQcM"
-  },
-  {
-    "name": "Building apps with Firebase and Angular 2 - Sara Robinson",
-    "url": "https://www.youtube.com/watch?v=RD0xYicNcaY",
-    "description": "Sara Robinson"
-  },
-  {
-    "name": "Better concepts, less code in Angular 2 - Victor Savkin and Tobias Bosch",
-    "url": "https://www.youtube.com/watch?v=4YmnbGoh49U",
-    "description": "Victor Savkin and Tobias Bosch"
-  },
-  {
-    "name": "Modularity and Packaging for Angular2 Applications – Pawel Kozlowski",
-    "url": "https://www.youtube.com/watch?v=9odY9Rh5kTQ"
-  },
-  {
-    "name": "Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein",
-    "url": "https://www.youtube.com/watch?v=3FT0BqYASCo",
-    "description": "Uri Goldshtein"
   },
   {
     "name": "ng-book 2",
@@ -664,142 +724,24 @@
     "url": "https://workshops.de/seminare-schulungen-kurse/angular-typescript/"
   },
   {
-    "name": "Dependency Injection in Angular 1 and Angular 2",
-    "url": "https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18"
+    "name": "Angular Start",
+    "url": "https://angularstart.com/",
+    "description": "Learn to build professional-grade Angular v17 applications using new features with modern best practices"
   },
   {
-    "name": "Dependency Injection in Angular 1 and Angular 2",
-    "url": "https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18"
+    "name": "Angular Training",
+    "url": "https://www.angulartraining.com/",
+    "description": "The Angular Coach"
   },
   {
-    "name": "Writing Angular in Typescript",
-    "url": "https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8"
+    "name": "Angular University",
+    "url": "https://angular-university.io/",
+    "description": "Learn And Keep Up With The Angular Ecosystem"
   },
   {
-    "name": "Angular Template Syntax",
-    "url": "https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a"
-  },
-  {
-    "name": "The Core Concepts of Angular 2",
-    "url": "https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04"
-  },
-  {
-    "name": "Two Phases of Angular 2 Applications",
-    "url": "https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be"
-  },
-  {
-    "name": "Change Detection in Angular 2",
-    "url": "https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c"
-  },
-  {
-    "name": "Better Support For Functional Programming In",
-    "url": "https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in"
-  },
-  {
-    "name": "Angular 2 Bits Unified Dependency Injection",
-    "url": "https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection"
-  },
-  {
-    "name": "Angular 2 Router",
-    "url": "https://vsavkin.com/angular-2-router-d9e30599f9ea"
-  },
-  {
-    "name": "Developing a tabs component in Angular 2",
-    "url": "https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html",
-    "description": "Part 1"
-  },
-  {
-    "name": "Developing a tabs component in Angular 2",
-    "url": "https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html"
-  },
-  {
-    "name": "Developing a zippy component in Angular 2",
-    "url": "https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html"
-  },
-  {
-    "name": "Resolving Service Dependencies in Angular 2",
-    "url": "https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html"
-  },
-  {
-    "name": "Forward references in Angular 2",
-    "url": "https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html"
-  },
-  {
-    "name": "Host and Visibility in Angular 2's Dependency Injection",
-    "url": "https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html"
-  },
-  {
-    "name": "Dependency Injection in Angular 2",
-    "url": "https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html"
-  },
-  {
-    "name": "Routing in Angular 2 Deprecated",
-    "url": "https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html"
-  },
-  {
-    "name": "Routing in Angular 2 Revisited",
-    "url": "https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html"
-  },
-  {
-    "name": "Angular 2 Template Syntax Demystified - Part 1",
-    "url": "https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html",
-    "description": "Part 1"
-  },
-  {
-    "name": "View Encapsulation in Angular 2",
-    "url": "https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html"
-  },
-  {
-    "name": "Styling Angular 2 components",
-    "url": "https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html"
-  },
-  {
-    "name": "Even better ES5 code for Angular 2",
-    "url": "https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html"
-  },
-  {
-    "name": "Writing Angular 2 code in ES5",
-    "url": "https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html"
-  },
-  {
-    "name": "The difference between Annotations and Decorators",
-    "url": "https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html"
-  },
-  {
-    "name": "Debugging Angular 2 Applications",
-    "url": "https://www.pluralsight.com/guides/debugging-angular-2-applications"
-  },
-  {
-    "name": "Debugging Angular 2 Applications",
-    "url": "https://www.pluralsight.com/guides/debugging-angular-2-applications"
-  },
-  {
-    "name": "Web Workers in Angular 2.0",
-    "url": "https://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0"
-  },
-  {
-    "name": "Web Workers in Angular 2.0",
-    "url": "https://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0"
-  },
-  {
-    "name": "Creating a Virtualized Grid",
-    "url": "https://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0"
-  },
-  {
-    "name": "Socket.io with Observables",
-    "url": "https://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0"
-  },
-  {
-    "name": "Change Detection",
-    "url": "https://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0"
-  },
-  {
-    "name": "Angular 4 with server side rendering (aka Angular Universal)",
-    "url": "https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0"
-  },
-  {
-    "name": "Angular 4 with server side rendering (aka Angular Universal)",
-    "url": "https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0"
+    "name": "Ultimate Courses",
+    "url": "https://ultimatecourses.com/courses/angular",
+    "description": "Everything you need to"
   },
   {
     "name": "GraphQL + Angular",
@@ -877,56 +819,89 @@
     "description": "Angular SDK from Cloudinary."
   },
   {
-    "name": "segal-decorators",
-    "url": "https://github.com/danrevah/segal-decorators"
+    "name": "ngx-admin",
+    "url": "https://github.com/akveo/ngx-admin",
+    "description": "Customizable admin dashboard template based on Angular 10+"
   },
   {
-    "name": "ng-portal",
-    "url": "https://github.com/nigrosimone/ng-portal"
+    "name": "ng-matero",
+    "url": "https://github.com/ng-matero/ng-matero",
+    "description": "Angular Material admin dashboard template."
   },
   {
-    "name": "ng-lock",
-    "url": "https://www.npmjs.com/package/ng-lock"
+    "name": "coreui-free-angular-admin-template",
+    "url": "https://github.com/coreui/coreui-free-angular-admin-template",
+    "description": "CoreUI Angular is free Angular 17 admin template based on Bootstrap 5"
   },
   {
-    "name": "NG-Dashboard",
-    "url": "https://github.com/YagoLopez/ng-dashboard",
-    "description": "Dashboard for Angular 4+. UI Components based on Material Light. Chart Component based on MetricsGraficsJS. Map Directive based on LeafletJS. DEMO ONLINE"
+    "name": "sakai-ng",
+    "url": "https://github.com/primefaces/sakai-ng",
+    "description": "Free Angular Admin Template by PrimeNG"
   },
   {
-    "name": "HowToKeepAngularDeploymentSizeSmall",
-    "url": "https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall",
-    "description": "A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small"
+    "name": "angular-template-for-threejs",
+    "url": "https://github.com/makimenko/angular-template-for-threejs",
+    "description": "Angular Template For Three.js"
   },
   {
-    "name": "Angular Material Dashboard",
-    "url": "https://github.com/flatlogic/angular-material-dashboard",
-    "description": "Responsive Angular admin dashboard with material design based on Angular Material."
+    "name": "lemon-mart",
+    "url": "https://github.com/duluca/lemon-mart",
+    "description": "Angular Template App with a Router-first architecture"
   },
   {
-    "name": "fuel-ui",
-    "url": "https://github.com/FuelInteractive/fuel-ui"
+    "name": "devextreme-angular-template",
+    "url": "https://github.com/DevExpress/devextreme-angular-template",
+    "description": "Responsive Application Layout Templates​ based on DevExtreme Angular Components"
   },
   {
-    "name": "ngx-filter-pipe",
-    "url": "https://github.com/VadimDez/ngx-filter-pipe"
+    "name": "QuickApp",
+    "url": "https://github.com/emonney/QuickApp",
+    "description": "ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development."
   },
   {
-    "name": "ngx-pipes",
-    "url": "https://github.com/danrevah/ngx-pipes"
+    "name": "angular-template-for-threejs",
+    "url": "https://github.com/makimenko/angular-template-for-threejs",
+    "description": "Angular Template For Three.js"
   },
   {
-    "name": "ngx-order-pipe",
-    "url": "https://github.com/VadimDez/ngx-order-pipe",
-    "description": "sort collection by a field"
+    "name": "material-pro-angular-lite",
+    "url": "https://github.com/wrappixel/material-pro-angular-lite",
+    "description": "MaterialPro Angular Lite is high quality free angular material template / theme from WrapPixel. You can download and use for Personal as well as Commercial Projects."
   },
   {
-    "name": "angular2-camelcase",
-    "url": "https://github.com/previousdeveloper/angular2-camelcase"
+    "name": "Angular-V17-Template",
+    "url": "https://github.com/GabrielToth/Angular-V17-Template",
+    "description": "A template designed for Angular 17 that emphasizes clean code practices and test-friendly development."
   },
   {
-    "name": "ng-generic-pipe",
-    "url": "https://github.com/nigrosimone/ng-generic-pipe"
+    "name": "angular-quickstart",
+    "url": "https://github.com/netlify-templates/angular-quickstart",
+    "description": "A bare-bones Angular template to get you deployed to Netlify fast!"
+  },
+  {
+    "name": "sap-fiori-templates",
+    "url": "https://github.com/meta-d/sap-fiori-templates",
+    "description": "SAP BTP & Fiori App templates implemented with third-party frontend frameworks such as React, Vue, and Angular."
+  },
+  {
+    "name": "template-angular",
+    "url": "https://github.com/phaserjs/template-angular",
+    "description": "Phaser 3 TypeScript project template that uses the Angular framework and Vite for bundling."
+  },
+  {
+    "name": "angular-nest",
+    "url": "https://github.com/mugifly/angular-nest",
+    "description": "Simple web app template with Angular v17 + NestJS v9 + ng-openapi-gen."
+  },
+  {
+    "name": "gradient-able-free-admin-template",
+    "url": "https://github.com/codedthemes/gradient-able-free-admin-template",
+    "description": "Gradient able free bootstrap, angular, react admin template"
+  },
+  {
+    "name": "angular-ngrx-frontend",
+    "url": "https://github.com/tarlepp/angular-ngrx-frontend",
+    "description": "Angular NgRx powered frontend template for Symfony (or similar) backend."
   },
   {
     "name": "TheVelourFog/slush-angular2",
@@ -965,18 +940,6 @@
     "url": "https://github.com/ngx-rocket/core"
   },
   {
-    "name": "dart-lang/stagehand",
-    "url": "https://github.com/dart-lang/stagehand"
-  },
-  {
-    "name": "dart-lang/stagehand",
-    "url": "https://github.com/dart-lang/stagehand"
-  },
-  {
-    "name": "dart-lang/stagehand",
-    "url": "https://github.com/dart-lang/stagehand"
-  },
-  {
     "name": "ScaffoldHub.io",
     "url": "https://scaffoldhub.io"
   },
@@ -1002,15 +965,13 @@
   },
   {
     "name": "Compodoc",
-    "url": "https://github.com/compodoc/compodoc"
+    "url": "https://github.com/compodoc/compodoc",
+    "description": "The missing documentation tool for your Angular application"
   },
   {
-    "name": "NgModule-Viz",
-    "url": "https://github.com/politie/ngmodule-viz"
-  },
-  {
-    "name": "ng-app-counter",
-    "url": "https://github.com/Jamaks/ng-app-counter"
+    "name": "ng-doc",
+    "url": "https://github.com/ng-doc/ng-doc",
+    "description": "The documentation engine for Angular projects"
   },
   {
     "name": "StackBlitz",
@@ -1113,30 +1074,6 @@
     "description": "An Angular Typing Animation Library."
   },
   {
-    "name": "casl-angular",
-    "url": "https://github.com/stalniy/casl/tree/master/packages/casl-angular",
-    "description": "Module which integrates isomorphic  permissions management library CASL with Angular2+"
-  },
-  {
-    "name": "ng2-permission",
-    "url": "https://github.com/JavadRasouli/ng2-permission",
-    "description": "Fully featured permission based access control for your angular 4+ applications. This module inspired from angular-permission."
-  },
-  {
-    "name": "ngx-auth-firebaseui",
-    "url": "https://github.com/AnthonyNahas/ngx-auth-firebaseui",
-    "description": "Angular Material UI component for firebase authentication"
-  },
-  {
-    "name": "ngx-auth",
-    "url": "https://github.com/fulls1z3/ngx-auth"
-  },
-  {
-    "name": "ngx-permissions",
-    "url": "https://github.com/AlexKhymenko/ngx-permissions",
-    "description": "Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)"
-  },
-  {
     "name": "angular-calendar",
     "url": "https://github.com/mattlewis92/angular-calendar",
     "description": "A flexible calendar component for angular 6.0+ that can display events on a month, week or day view."
@@ -1162,16 +1099,6 @@
     "description": "A powerful and performant Angular year calendar library built with ❤️"
   },
   {
-    "name": "@ctrl/ngx-chartjs",
-    "url": "https://github.com/TypeCtrl/ngx-chartjs",
-    "description": "Functional Chart.js wrapper for Angular"
-  },
-  {
-    "name": "dl-chart",
-    "url": "https://github.com/Chtau/dlChart",
-    "description": "Simple and lightweight Chart library without extern Dependencies"
-  },
-  {
     "name": "ng2-charts",
     "url": "https://github.com/valor-software/ng2-charts"
   },
@@ -1181,19 +1108,39 @@
     "description": "Declarative Charting Framework for Angular2 and beyond!"
   },
   {
-    "name": "ngx-f2",
-    "url": "https://github.com/hamdiwanis/ngx-f2",
-    "description": "Angular2+ wrapper for antv f2 mobile oriented charts"
-  },
-  {
-    "name": "ngx-trend",
-    "url": "https://github.com/scttcper/ngx-trend",
-    "description": "📈 Simple, elegant spark lines for Angular"
-  },
-  {
     "name": "ng-apexcharts",
     "url": "https://github.com/apexcharts/ng-apexcharts",
     "description": "Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+."
+  },
+  {
+    "name": "ng-chartist",
+    "url": "https://github.com/willsoto/ng-chartist",
+    "description": "Angular component for Chartist.js"
+  },
+  {
+    "name": "org-chart",
+    "url": "https://github.com/bumbeishvili/org-chart",
+    "description": "Highly customizable org chart. Integrations available for Angular, React, and Vue."
+  },
+  {
+    "name": "ag-charts",
+    "url": "https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular",
+    "description": "Fully-featured and highly customizable JavaScript charting library."
+  },
+  {
+    "name": "systelab-charts",
+    "url": "https://github.com/systelab/systelab-charts",
+    "description": "Systelab Angular Chart services"
+  },
+  {
+    "name": "ngx-gantt",
+    "url": "https://github.com/worktile/ngx-gantt",
+    "description": "A modern and powerful gantt chart component for Angular"
+  },
+  {
+    "name": "carbon-charts",
+    "url": "https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular",
+    "description": "Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library."
   },
   {
     "name": "ng2-dragula",
@@ -1291,26 +1238,12 @@
     "description": "Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object."
   },
   {
-    "name": "@ctrl/ngx-droppable",
-    "url": "https://github.com/typectrl/ngx-droppable",
-    "description": "Give file dropping ability to any element or component"
-  },
-  {
-    "name": "file-droppa",
-    "url": "https://github.com/chenyukunJoshHub/fileDroppa"
-  },
-  {
     "name": "ng2-file-upload",
     "url": "https://github.com/valor-software/ng2-file-upload"
   },
   {
     "name": "ngx-awesome-uploader",
     "url": "https://www.npmjs.com/package/ngx-awesome-uploader"
-  },
-  {
-    "name": "ngx-dropzone",
-    "url": "https://github.com/peterfreeman/ngx-dropzone",
-    "description": "Highly customizable component to handle file drops and selection."
   },
   {
     "name": "ngx-flow",
@@ -1397,29 +1330,24 @@
     "description": "Angular component and service for inlining SVGs allowing them to be easily styled with CSS."
   },
   {
-    "name": "@ctrl/ngx-rightclick",
-    "url": "https://github.com/TypeCtrl/ngx-rightclick",
-    "description": "Context Menu Service for Angular"
-  },
-  {
-    "name": "angular-clickable-click",
-    "url": "https://github.com/DanielKucal/angular-clickable-click",
-    "description": "Sets pointer cursor on elements using  standard (click) output and allows to disable such events"
-  },
-  {
-    "name": "angular-esc",
-    "url": "https://github.com/DanielKucal/angular-esc",
-    "description": "Adds (esc) output fired by the Escape key"
-  },
-  {
-    "name": "ngx-konami",
-    "url": "https://github.com/lauthieb/ngx-konami",
-    "description": "Simple directive to add easter eggs in Angular 2+ applications"
-  },
-  {
     "name": "ngx-focus-control",
     "url": "https://github.com/Raiper34/ngx-focus-control",
     "description": "Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility"
+  },
+  {
+    "name": "angular2-hotkeys",
+    "url": "https://github.com/brtnshrdr/angular2-hotkeys",
+    "description": "Keyboard shortcuts for Angular 2 apps"
+  },
+  {
+    "name": "virtual-keyboard-javascript",
+    "url": "https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io",
+    "description": "Virtual Keyboard for Javascript, React, Angular, Vue"
+  },
+  {
+    "name": "angular-touch-keyboard",
+    "url": "https://github.com/mohsen77sk/angular-touch-keyboard",
+    "description": "Virtual Keyboard for Angular applications."
   },
   {
     "name": "@robingenz/ngx-infinite-scroll",
@@ -1434,9 +1362,9 @@
     "url": "https://github.com/bertrandg/angular-split"
   },
   {
-    "name": "angular2-infinite-scroll",
-    "url": "https://www.npmjs.com/package/angular2-infinite-scroll",
-    "description": "An Infinite Scroll Directive for Angular2 (based on Observables)"
+    "name": "ngx-infinite-scroll",
+    "url": "https://github.com/orizens/ngx-infinite-scroll",
+    "description": "Infinite Scroll Directive for Angular"
   },
   {
     "name": "egjs-infinitegrid",
@@ -1444,71 +1372,14 @@
     "description": "Arrange infinite card elements according to various layout types like masonry for Angular."
   },
   {
-    "name": "ng2-card",
-    "url": "https://github.com/c-bata/ng2-card",
-    "description": "Card view component for Angular2"
-  },
-  {
-    "name": "ng2-fullpage",
-    "url": "https://github.com/meiblorn/ngx-fullpage"
-  },
-  {
-    "name": "ng2-sheet",
-    "url": "https://github.com/lexikteam/ng2-sheet"
-  },
-  {
-    "name": "ng2-swipeable-card",
-    "url": "https://github.com/JayKan/ng2-swipeable-card",
-    "description": "Swipeable card component for Angular2"
-  },
-  {
     "name": "ngx-scrolltop",
     "url": "https://github.com/bartholomej/ngx-scrolltop",
     "description": "Lightweight, Material Design inspired button for scroll-to-top of the page. 🔼 No dependencies. Pure Angular! (Compatibility: Angular 9, Ivy, Universal, ng add)"
   },
   {
-    "name": "od-virtualscroll",
-    "url": "https://github.com/dinony/od-virtualscroll"
-  },
-  {
-    "name": "@kken94/ngx-progress",
-    "url": "https://github.com/kKen94/ngx-progress"
-  },
-  {
-    "name": "angular-epic-spinners",
-    "url": "https://github.com/hackafro/angular-epic-spinners"
-  },
-  {
-    "name": "angular2-busy",
-    "url": "https://github.com/devyumao/angular2-busy"
-  },
-  {
     "name": "angular2-promise-buttons",
     "url": "https://github.com/johannesjo/angular2-promise-buttons",
     "description": "Loading buttons for Angular 2 by @johannesjo"
-  },
-  {
-    "name": "isLoading? service",
-    "url": "https://gitlab.com/service-work/is-loading",
-    "description": "A simple and flexible loading indicator service for Angular apps."
-  },
-  {
-    "name": "ng-spinners",
-    "url": "https://github.com/JoshK2/ng-spinners",
-    "description": "Amazing collection of pure CSS angular spinners components."
-  },
-  {
-    "name": "ng2-progress-bar",
-    "url": "https://github.com/pleerock/ngx-progress-bar"
-  },
-  {
-    "name": "ngx-config",
-    "url": "https://github.com/fulls1z3/ngx-config",
-    "description": "Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3"
-  },
-  {
-    "name": "ngx-img-fallback",
-    "url": "https://github.com/VadimDez/ngx-img-fallback"
   },
   {
     "name": "ngx-progressbar",
@@ -1521,12 +1392,14 @@
     "description": "Highly customizable lazy loader for Angular components."
   },
   {
-    "name": "angular-cesium",
-    "url": "https://github.com/TGFTech/angular-cesium"
+    "name": "ng-lazy-load-component",
+    "url": "https://github.com/nigrosimone/ng-lazy-load-component",
+    "description": "Lazy load Angular component into HTML template without routing."
   },
   {
-    "name": "angular2-google-maps",
-    "url": "https://github.com/SebastianM/angular-google-maps"
+    "name": "angular-cesium",
+    "url": "https://github.com/TGFTech/angular-cesium",
+    "description": "Creating map based web apps using Cesium and Angular"
   },
   {
     "name": "ngx-mapbox-gl",
@@ -1534,23 +1407,59 @@
     "description": "Angular binding of mapbox-gl-js"
   },
   {
-    "name": "ng-snotify",
-    "url": "https://github.com/artemsky/ng-snotify/",
-    "description": "Angular 4 Notification Center"
+    "name": "ng-maps",
+    "url": "https://github.com/ng-maps/ng-maps",
+    "description": "Modular map components for angular"
   },
   {
-    "name": "ng2-sweetalert2",
-    "url": "https://github.com/seiyria/ng2-sweetalert2"
+    "name": "ngx-leaflet",
+    "url": "https://github.com/bluehalo/ngx-leaflet",
+    "description": "Core Leaflet package for Angular.io"
   },
   {
-    "name": "ngx-popper",
-    "url": "https://github.com/MrFrankel/ngx-popper",
-    "description": "Tooltip managment, wrapper for popper.js(https://popper.js.org/)"
+    "name": "ngx-maplibre-gl",
+    "url": "https://github.com/maplibre/ngx-maplibre-gl",
+    "description": "Angular binding of maplibre-gl"
+  },
+  {
+    "name": "@angular/google-maps",
+    "url": "https://github.com/angular/components/blob/main/src/google-maps/README.md",
+    "description": "This component provides a Google Maps Angular component that implements the Google Maps JavaScript API."
+  },
+  {
+    "name": "ngx-sweetalert2",
+    "url": "https://github.com/sweetalert2/ngx-sweetalert2",
+    "description": "Declarative, reactive, and template-driven SweetAlert2 integration for Angular."
   },
   {
     "name": "ngx-toastr",
     "url": "https://github.com/scttcper/ngx-toastr",
     "description": "Notifications/Toastr"
+  },
+  {
+    "name": "hot-toast",
+    "url": "https://github.com/ngxpert/hot-toast",
+    "description": "Smoking hot toast notifications for Angular."
+  },
+  {
+    "name": "ngx-sonner",
+    "url": "https://github.com/tutkli/ngx-sonner",
+    "description": "An opinionated toast component for Angular. A port of @emilkowalski's sonner."
+  },
+  {
+    "name": "ngx-awesome-popup",
+    "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
+    "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
+  },
+  {
+    "name": "angular-bootstrap-toast-service",
+    "url": "https://github.com/svierk/angular-bootstrap-toast-service",
+    "description": "Angular project for sending Bootstrap based toast notifications including Vercel deployment."
+  },
+  {
+    "name": "angular2-notifications",
+    "url": "https://github.com/flauc/angular2-notifications",
+    "description": "A light and easy to use notifications library for Angular."
   },
   {
     "name": "angular2-jwt",
@@ -1614,28 +1523,8 @@
   },
   {
     "name": "ag-grid",
-    "url": "https://www.ag-grid.com/"
-  },
-  {
-    "name": "ng2-handsontable",
-    "url": "https://github.com/valor-software/ng2-handsontable"
-  },
-  {
-    "name": "ng2-smart-table",
-    "url": "https://github.com/akveo/ng2-smart-table"
-  },
-  {
-    "name": "ng2-table",
-    "url": "https://github.com/valor-software/ng2-table"
-  },
-  {
-    "name": "ngfb-sortable-table",
-    "url": "https://github.com/NodeArt/Angular-Firebase-Sortable-Table",
-    "description": "Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools."
-  },
-  {
-    "name": "ngx-datatable",
-    "url": "https://github.com/swimlane/ngx-datatable"
+    "url": "https://www.ag-grid.com/",
+    "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript."
   },
   {
     "name": "ignite-ui-angular's grid",
@@ -1643,13 +1532,24 @@
     "description": "The data grid, tree grid, hierarchical grid in Ignite UI for Angular provide excel-style filtering, live-data, sorting, draggable row and other toolbar."
   },
   {
-    "name": "@ngx-kit/sula",
-    "url": "https://github.com/ngx-kit/sula",
-    "description": "Set of themed components for Angular."
+    "name": "sheetjs",
+    "url": "https://docs.sheetjs.com/docs/demos/frontend/angular",
+    "description": "SheetJS is a JavaScript library for reading and writing data from spreadsheets."
   },
   {
-    "name": "Axponents: of Accessible Web Components (Dylan Barrell)",
-    "url": "https://github.com/dylanb/Axponents/tree/master/angular2"
+    "name": "ngx-easy-table",
+    "url": "https://github.com/ssuperczynski/ngx-easy-table",
+    "description": "The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!"
+  },
+  {
+    "name": "active-table",
+    "url": "https://github.com/OvidijusParsiunas/active-table",
+    "description": "Framework agnostic table component for editable data experience."
+  },
+  {
+    "name": "jsgrids",
+    "url": "https://github.com/statico/jsgrids",
+    "description": "A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries here."
   },
   {
     "name": "Dev Extreme",
@@ -1657,24 +1557,14 @@
     "description": "Feature-Complete 65+ Angular Component Suite"
   },
   {
-    "name": "Element Angular",
-    "url": "https://github.com/ElemeFE/element-angular",
-    "description": "Element Design components built on top of Angular 2"
-  },
-  {
-    "name": "Essential JS 2 for Angular by Syncfusion",
-    "url": "https://www.syncfusion.com/angular-ui-components",
-    "description": "Over 60 high-performance, lightweight, modular, and responsive UI components for Angular."
-  },
-  {
-    "name": "ExtAngular",
-    "url": "https://www.sencha.com/products/extangular/",
-    "description": "Sencha ExtAngular Pre-built UI Components"
+    "name": "Syncfusion",
+    "url": "https://www.syncfusion.com/angular-components",
+    "description": "The Complete Angular Components Library."
   },
   {
     "name": "Nebular",
     "url": "https://github.com/akveo/nebular",
-    "description": "set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications"
+    "description": "Customizable Angular UI Library based on Eva Design System"
   },
   {
     "name": "NG ZORRO MOBILE",
@@ -1687,42 +1577,14 @@
     "description": "An enterprise-class UI components based on Ant Design and Angular."
   },
   {
-    "name": "ng-lightning",
-    "url": "https://github.com/ng-lightning/ng-lightning"
-  },
-  {
-    "name": "ng-metro4",
-    "url": "https://github.com/morrisjdev/ng-metro4",
-    "description": "Angular implementation of UI framework Metro4"
-  },
-  {
-    "name": "ng-sq-ui",
-    "url": "https://github.com/SQ-UI/ng-sq-ui",
-    "description": "Simple Quality UI kit for Angular. Build by developers for developers!"
-  },
-  {
-    "name": "ngSemantic",
-    "url": "https://github.com/vladotesanovic/ngSemantic",
-    "description": "UI components based on Semantic UI"
-  },
-  {
-    "name": "ngx-qrcode2",
-    "url": "https://github.com/techiediaries/ngx-qrcode",
-    "description": "An Angular 4+ Component library for Generating QR (Quick Response ) Codes"
-  },
-  {
     "name": "ngx-ui",
     "url": "https://github.com/swimlane/ngx-ui",
     "description": "Style and Component Library for Angular2 and beyond!"
   },
   {
     "name": "prime-ng",
-    "url": "https://www.primefaces.org/primeng/"
-  },
-  {
-    "name": "vmware clarity",
-    "url": "https://github.com/vmware/clarity",
-    "description": "Mostly a CSS only framework but some components are ported to Angular 2"
+    "url": "https://github.com/primefaces/primeng",
+    "description": "The Most Complete Angular UI Component Library"
   },
   {
     "name": "Wijmo 5",
@@ -1733,10 +1595,6 @@
     "name": "Taiga UI",
     "url": "https://taiga-ui.dev/",
     "description": "powerful set of open source components for Angular!"
-  },
-  {
-    "name": "NgLazyLoadComponent",
-    "url": "https://www.npmjs.com/package/ng-lazy-load-component"
   },
   {
     "name": "AgnosUI",
@@ -1793,17 +1651,8 @@
     "description": "UI Platform built on @angular/material 2.0"
   },
   {
-    "name": "@firebaseui/ng-bootstrap",
-    "url": "https://github.com/firebaseui/ng-bootstrap",
-    "description": "Angular Bootstrap UI library for firebase authentication powered by @ng-bootstrap"
-  },
-  {
     "name": "angular-bootstrap-md",
     "url": "https://mdbootstrap.com/docs/angular/"
-  },
-  {
-    "name": "fuel-ui",
-    "url": "https://github.com/FuelInteractive/fuel-ui"
   },
   {
     "name": "ng-bootstrap",
@@ -1813,22 +1662,6 @@
   {
     "name": "ng2-bootstrap",
     "url": "https://github.com/valor-software/ngx-bootstrap"
-  },
-  {
-    "name": "ng2-bs",
-    "url": "https://github.com/pkozlowski-opensource/ng2-bs"
-  },
-  {
-    "name": "ng2-modal",
-    "url": "https://github.com/pleerock/ngx-modal"
-  },
-  {
-    "name": "ng2-paginator",
-    "url": "https://github.com/pleerock/ngx-paginator"
-  },
-  {
-    "name": "ng2-tabs",
-    "url": "https://github.com/pleerock/ngx-tabs"
   },
   {
     "name": "Flowbite",
@@ -1842,23 +1675,23 @@
   },
   {
     "name": "angular-shepherd",
-    "url": "https://github.com/shipshapecode/angular-shepherd",
+    "url": "https://github.com/shepherd-pro/angular-shepherd",
     "description": "Angular 7 Service wrapping the site tour library Shepherd"
-  },
-  {
-    "name": "ng2-archwizard",
-    "url": "https://github.com/madoar/ng2-archwizard",
-    "description": "Wizard component for Angular 2"
-  },
-  {
-    "name": "ngx-app-tour",
-    "url": "https://github.com/hamdiwanis/ngx-app-tour",
-    "description": "Angular2+ plugin for building a tour, showcase or a walkthrough for your app"
   },
   {
     "name": "Zoom Image Library",
     "url": "https://willnguyen1312.github.io/zoom-image",
     "description": "A little yet powerful framework agnostic headless-library to zoom image on the web"
+  },
+  {
+    "name": "skyux",
+    "url": "https://github.com/blackbaud/skyux",
+    "description": "SKY UX components for Angular"
+  },
+  {
+    "name": "ngx-ui-tour",
+    "url": "https://github.com/hakimio/ngx-ui-tour",
+    "description": "ngx-ui-tour is a UI tour library inspired by angular-ui-tour."
   },
   {
     "name": "egjs-flicking",
@@ -1896,57 +1729,9 @@
     "description": "Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀"
   },
   {
-    "name": "@ngx-context",
-    "url": "https://github.com/ng-turkey/ngx-context",
-    "description": "Angular Context: Easy property binding for router outlet and nested component trees.."
-  },
-  {
-    "name": "@ngx-meta/core",
-    "url": "https://github.com/fulls1z3/ngx-meta",
-    "description": "Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3"
-  },
-  {
-    "name": "Angular SizeObserver",
-    "url": "https://gitlab.com/service-work/size-observer",
-    "description": "style DOM elements based on their display size (rather than browser screen size)."
-  },
-  {
-    "name": "angular2-simple-countdown",
-    "url": "https://github.com/previousdeveloper/angular2-simple-countdown",
-    "description": "a simple countdown angular2 directive with multiple language"
-  },
-  {
-    "name": "ng-chat",
-    "url": "https://github.com/rpaschoal/ng-chat",
-    "description": "A simple facebook/linkedin lookalike chat module for Angular applications"
-  },
-  {
-    "name": "ng-google-sheets-db",
-    "url": "https://github.com/FranzDiebold/ng-google-sheets-db-library"
-  },
-  {
-    "name": "ng-katex",
-    "url": "https://github.com/garciparedes/ng-katex"
-  },
-  {
-    "name": "ng-wormhole",
-    "url": "https://github.com/topaxi/ng-wormhole",
-    "description": "Render components somewhere else in the DOM"
-  },
-  {
     "name": "ng2-adsense",
     "url": "https://github.com/scttcper/ng2-adsense",
     "description": "Easy AdSense for Angular Applications"
-  },
-  {
-    "name": "ngx-avatar",
-    "url": "https://github.com/HaithemMosbahi/ngx-avatar",
-    "description": "Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user."
-  },
-  {
-    "name": "ngx-cdmon",
-    "url": "https://www.npmjs.com/package/ngx-cdmon",
-    "description": "Library for monitoring Angular change detection performance."
   },
   {
     "name": "ngx-countdown",
@@ -1957,21 +1742,6 @@
     "name": "@ngneat/transloco",
     "url": "https://github.com/ngneat/transloco",
     "description": "🚀 😍 The internationalization (i18n) library for Angular"
-  },
-  {
-    "name": "ngx-i18n-router",
-    "url": "https://github.com/fulls1z3/ngx-i18n-router",
-    "description": "Route internationalization utility for Angular by @fulls1z3"
-  },
-  {
-    "name": "ngx-linkifyjs",
-    "url": "https://github.com/AnthonyNahas/ngx-linkifyjs",
-    "description": "Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML  tags via linkifyjs"
-  },
-  {
-    "name": "ngx-wheel",
-    "url": "https://github.com/Sayegh7/ngx-wheel",
-    "description": "Angular prize winning wheel component!"
   },
   {
     "name": "@tolgee/ngx",
@@ -1994,9 +1764,16 @@
     "description": "Angular global trackBy property directive with strict type checking."
   },
   {
-    "name": "ngx-observers",
-    "url": "https://github.com/Raiper34/ngx-observers",
-    "description": "Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element."
+    "name": "ng-portal",
+    "url": "https://github.com/nigrosimone/ng-portal"
+  },
+  {
+    "name": "ng-lock",
+    "url": "https://www.npmjs.com/package/ng-lock"
+  },
+  {
+    "name": "ng-generic-pipe",
+    "url": "https://github.com/nigrosimone/ng-generic-pipe"
   },
   {
     "name": "scully",
@@ -2217,67 +1994,46 @@
   },
   {
     "name": "Ionic Framework",
-    "url": "https://ionicframework.com"
+    "url": "https://ionicframework.com",
+    "description": "Official Website for Ionic Framework"
   },
   {
-    "name": "Ionic Documentation",
-    "url": "https://ionicframework.com/docs/"
+    "name": "(Github) Ionic Framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "description": "Github Repo of Ionic Framework"
   },
   {
-    "name": "Ionic 2 Repository (GitHub)",
-    "url": "https://github.com//ionic-team/ionic"
+    "name": "Ionic Academy",
+    "url": "https://ionicacademy.com/",
+    "description": "The fastest way to learn Ionic."
   },
   {
-    "name": "Ionic 2 Awesome",
-    "url": "https://github.com/candelibas/awesome-ionic"
+    "name": "Elite Ionic",
+    "url": "https://eliteionic.com/",
+    "description": "Advanced training for Angular developers who want to create NEXT LEVEL native web applications."
   },
   {
-    "name": "Cordova Framework",
-    "url": "https://cordova.apache.org/"
+    "name": "Ionic Themes",
+    "url": "https://ionicthemes.com/tutorials",
+    "description": "Tutorials and templates."
   },
   {
-    "name": "Cordova Documentation",
-    "url": "https://cordova.apache.org/docs/en/latest/"
-  },
-  {
-    "name": "Angular 2 Seed CLI Admin (Template)",
-    "url": "https://github.com/jvitor83/angular-pwa-seed"
+    "name": "Ionic Start",
+    "url": "https://ionicstart.com/",
+    "description": "Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular"
   },
   {
     "name": "Dart",
-    "url": "https://www.dartlang.org/"
-  },
-  {
-    "name": "Dartpad",
-    "url": "https://dartpad.dartlang.org/"
+    "url": "https://dart.dev/"
   },
   {
     "name": "Dart Organization (GitHub)",
     "url": "https://github.com/dart-lang"
   },
   {
-    "name": "Pub",
-    "url": "https://pub.dartlang.org/"
-  },
-  {
-    "name": "Dart Slack Channel",
-    "url": "https://dartlang-slack.herokuapp.com/"
-  },
-  {
-    "name": "Angular 2 Dart Quickstart",
-    "url": "https://github.com/andresaraujo/ng2_dart_quickstart"
-  },
-  {
-    "name": "Hackernews App",
-    "url": "https://github.com/andresaraujo/ng2_hackernews"
-  },
-  {
-    "name": "Router Demo",
-    "url": "https://github.com/andresaraujo/ng2_dart_router_demo"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
+    "name": "angulardart-community",
+    "url": "https://github.com/angulardart-community/website",
+    "description": "The next-generation AngularDart documentation website."
   },
   {
     "name": "Traceur Repository (GitHub)",
@@ -2290,62 +2046,6 @@
   {
     "name": "{{ add_your_repo }}",
     "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "Babel",
-    "url": "https://babeljs.io/"
-  },
-  {
-    "name": "REPL",
-    "url": "https://babeljs.io/repl/"
-  },
-  {
-    "name": "Babel Repository (GitHub)",
-    "url": "https://github.com/babel/babel"
-  },
-  {
-    "name": "Plunker: Angular 2 + Babel",
-    "url": "https://plnkr.co/edit/PxCzCu?p=preview"
-  },
-  {
-    "name": "babel-angular2-app",
-    "url": "https://github.com/shuhei/babel-angular2-app"
-  },
-  {
-    "name": "angular2-fullstack-starter",
-    "url": "https://github.com/jgodi/angular2-fullstack-starter"
-  },
-  {
-    "name": "angular2-es6-starter",
-    "url": "https://github.com/blacksonic/angular2-babel-esnext-starter"
-  },
-  {
-    "name": "angular-babel-seed",
-    "url": "https://github.com/rbnlffl/angular-babel-seed"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "angular2-es6-todomvc",
-    "url": "https://github.com/blacksonic/angular2-esnext-todomvc"
-  },
-  {
-    "name": "ng1-ng2-webpack-lazy-uirouter",
-    "url": "https://github.com/swimlane/ng1-ng4-webpack-lazy-uirouter"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "babel-preset-angular2",
-    "url": "https://github.com/shuhei/babel-preset-angular2"
-  },
-  {
-    "name": "babel-plugin-type-assertion",
-    "url": "https://github.com/shuhei/babel-plugin-type-assertion"
   },
   {
     "name": "{{ help_add_resources }}",
@@ -2400,56 +2100,6 @@
     "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
   },
   {
-    "name": "Haxe.org",
-    "url": "https://haxe.org"
-  },
-  {
-    "name": "Haxe on Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Haxe"
-  },
-  {
-    "name": "Haxe Playground ",
-    "url": "https://try.haxe.org/"
-  },
-  {
-    "name": "Haxe compiler targets",
-    "url": "https://haxe.org/documentation/introduction/compiler-targets.html"
-  },
-  {
-    "name": "Haxe discussion group",
-    "url": "https://groups.google.com/forum/#!forum/haxelang",
-    "description": "community"
-  },
-  {
-    "name": "Haxe: working with JavaScript libraries",
-    "url": "https://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/"
-  },
-  {
-    "name": "Learn haxe in Y minutes",
-    "url": "https://learnxinyminutes.com/docs/haxe/"
-  },
-  {
-    "name": "A success story for Haxe",
-    "url": "https://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe",
-    "description": "about porting JavaScript to haxe targeting both JavaScript and C# \"without interrupting the development of actual game by the rest of the team!\", \"AWESOME BONUS\", \"there are only benefits\""
-  },
-  {
-    "name": "News And Information For Haxe Developers",
-    "url": "https://haxe.io/"
-  },
-  {
-    "name": "{{ help_add_resources }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "angular2haxe",
-    "url": "https://github.com/nweedon/angular2haxe"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
     "name": "{{ help_add_resources }}",
     "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
   },
@@ -2485,40 +2135,93 @@
     "description": "Lewis Ardern speaking at OWASP London 2017."
   },
   {
-    "name": "Angular 2 with OpenID Connect Implicit Flow from Damien Bowden",
-    "url": "https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/"
+    "name": "casl-angular",
+    "url": "https://github.com/stalniy/casl/tree/master/packages/casl-angular",
+    "description": "Module which integrates isomorphic  permissions management library CASL with Angular2+"
   },
   {
-    "name": "Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl",
-    "url": "https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack"
+    "name": "ngx-auth-firebaseui",
+    "url": "https://github.com/AnthonyNahas/ngx-auth-firebaseui",
+    "description": "Angular Material UI component for firebase authentication"
   },
   {
-    "name": "Angular 2 OAuth2 OIDC from Manfred Steyer",
-    "url": "https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx"
+    "name": "ngx-permissions",
+    "url": "https://github.com/AlexKhymenko/ngx-permissions",
+    "description": "Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)"
   },
   {
-    "name": "Angular 2 authentication sample from auth0-blog",
-    "url": "https://github.com/auth0-blog/angular2-authentication-sample"
+    "name": "angular-auth-oidc-client",
+    "url": "https://github.com/damienbod/angular-auth-oidc-client",
+    "description": "npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow"
   },
   {
-    "name": "Comprehensive Introduction to @ngrx/store",
-    "url": "https://gist.github.com/btroncone/a6e4347326749f938510"
+    "name": "angularx-social-login",
+    "url": "https://github.com/abacritt/angularx-social-login",
+    "description": "Social login and authentication module for Angular 17"
   },
   {
-    "name": "Adding Redux With NgRx/store and Angular2 - Part 1",
-    "url": "https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular-2-part-1/",
-    "description": "Part 1"
+    "name": "ms-identity-javascript-angular-tutorial",
+    "url": "https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial",
+    "description": "A chapterwise tutorial that will take you through the fundamentals of modern authentication with Microsoft identity platform using MSAL Angular v2."
   },
   {
-    "name": "Adding Redux with NgRx/store to Angular2 – Part 2 (Testing\nReducers)",
-    "url": "https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/"
+    "name": "angular2-jwt",
+    "url": "https://github.com/auth0/angular2-jwt",
+    "description": "Helper library for handling JWTs in Angular apps"
   },
   {
-    "name": "Making chained API Calls using @ngrx/Effects",
-    "url": "https://gist.github.com/peterbsmith2/ce94c0a5ddceb99bab24a761731d1f07"
+    "name": "auth0-angular",
+    "url": "https://github.com/auth0/auth0-angular",
+    "description": "Auth0 SDK for Angular Single Page Applications"
   },
   {
-    "name": "Authentication in Angular with NGRX",
-    "url": "https://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx"
+    "name": "ng-universal",
+    "url": "https://github.com/nestjs/ng-universal",
+    "description": "Angular Universal module for Nest framework (node.js)"
+  },
+  {
+    "name": "angularfire",
+    "url": "https://github.com/angular/angularfire",
+    "description": "Angular + Firebase"
+  },
+  {
+    "name": "supabase",
+    "url": "https://supabase.com/docs/guides/getting-started/tutorials/with-angular",
+    "description": "Build a User Management App with Angular."
+  },
+  {
+    "name": "fingerprint",
+    "url": "https://dev.fingerprint.com/docs/angular",
+    "description": "The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application."
+  },
+  {
+    "name": "amplify",
+    "url": "https://docs.amplify.aws/angular/",
+    "description": "AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more."
+  },
+  {
+    "name": "ngrx",
+    "url": "https://ngrx.io/",
+    "description": "Reactive State for Angular"
+  },
+  {
+    "name": "ngrx-course",
+    "url": "https://github.com/angular-university/ngrx-course",
+    "description": "Angular University Complete Guide"
+  },
+  {
+    "name": "ngrx-store-localstorage",
+    "url": "https://github.com/btroncone/ngrx-store-localstorage",
+    "description": "Simple syncing between @ngrx store and local storage"
+  },
+  {
+    "name": "Tim Deschryver Blog",
+    "url": "https://timdeschryver.dev/blog?q=NgRx",
+    "description": "Excellent NgRx articles from a core maintainer."
+  },
+  {
+    "name": "angular-ngrx-nx-realworld-example-app",
+    "url": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
+    "description": "Real world application built with Angular 17, NgRx 17, nrwl/nx 17"
   }
 ]

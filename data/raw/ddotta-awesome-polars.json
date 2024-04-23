@@ -146,6 +146,11 @@
     "description": "A collection of Python Polars plugins and functions for market data processing by @ngriffiths13."
   },
   {
+    "name": "polars-candle",
+    "url": "https://github.com/wdoppenberg/polars-candle",
+    "description": "Python package for for running candle ML models on Polars DataFrames by @wdoppenberg."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."
@@ -655,6 +660,11 @@
     "name": "DuckDB vs Polars - Which One Is Faster?",
     "url": "https://medium.com/@yukithejapanese/duckdb-vs-polars-which-one-is-faster-61e73a7680e0",
     "description": "Which One Is Faster? - An unofficial benchmark on DuckDB and Polars by @StuffbyYuki."
+  },
+  {
+    "name": "Pandas vs Polars? Bid Adieu to Pandas and Switch To Polars!",
+    "url": "https://towardsai.net/p/machine-learning/pandas-vs-polars-bid-adieu-to-pandas-and-switch-to-polars?amp=1",
+    "description": "An article that compares Polars to Pandas with a dataset of 1.2 GB. Code used is available on Github here."
   },
   {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",

@@ -245,6 +245,11 @@
     "description": "Redux framework for easy use with SwiftUI."
   },
   {
+    "name": "SimplexArchitecture",
+    "url": "https://github.com/Ryu0118/swiftui-simplex-architecture",
+    "description": "A Simple architecture that decouples state changes from SwiftUI's View"
+  },
+  {
     "name": "Spin",
     "url": "https://github.com/Spinners/Spin.Swift",
     "description": "Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine."
@@ -398,6 +403,11 @@
     "name": "SwiftLCS",
     "url": "https://github.com/Frugghi/SwiftLCS",
     "description": "implementation of the longest common subsequence (LCS) algorithm."
+  },
+  {
+    "name": "Aptabase",
+    "url": "https://github.com/aptabase/aptabase",
+    "description": "Open Source, Privacy-First and Simple Analytics for Swift Apps."
   },
   {
     "name": "Tracker Aggregator",
@@ -2173,6 +2183,11 @@
     "name": "FlexLayout",
     "url": "https://github.com/layoutBox/FlexLayout",
     "description": "Nice and clean interface to the highly optimized Facebook yoga Flexbox implementation."
+  },
+  {
+    "name": "FrameLayoutKit",
+    "url": "https://github.com/kennic/FrameLayoutKit",
+    "description": "This framework supports complex layouts, including chaining and nesting layout with simple and intuitive operand & DSL syntax."
   },
   {
     "name": "Grid",
@@ -4173,6 +4188,11 @@
     "name": "PopMenu",
     "url": "https://github.com/CaliCastle/PopMenu",
     "description": "😎 A cool and customizable popup style action sheet for iOS."
+  },
+  {
+    "name": "SegmentIO",
+    "url": "https://github.com/Yalantis/Segmentio",
+    "description": "Animated top/bottom segmented menu for iOS."
   },
   {
     "name": "SideMenu",

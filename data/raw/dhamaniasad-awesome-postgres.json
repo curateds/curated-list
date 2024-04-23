@@ -369,6 +369,16 @@
     "description": "Cyan Audit provides in-database logging of all DML activity on a column-by-column basis."
   },
   {
+    "name": "pg_analytics",
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_analytics",
+    "description": "pg_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases."
+  },
+  {
+    "name": "pg_search",
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_search",
+    "description": "pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search."
+  },
+  {
     "name": "pg_cron",
     "url": "https://github.com/citusdata/pg_cron",
     "description": "Run periodic jobs in PostgreSQL."

@@ -343,10 +343,6 @@
     "url": "https://github.com/nervosnetwork/ckb"
   },
   {
-    "name": "Nimiq",
-    "url": "https://github.com/nimiq/core-rs"
-  },
-  {
     "name": "opensea-rs",
     "url": "https://github.com/gakonst/opensea-rs",
     "description": "Bindings & CLI to the Opensea API and Contracts."
@@ -388,10 +384,6 @@
     "name": "Subspace",
     "url": "https://github.com/subspace/subspace",
     "description": "The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization."
-  },
-  {
-    "name": "Substrate",
-    "url": "https://github.com/paritytech/substrate"
   },
   {
     "name": "Sui",
@@ -1067,10 +1059,6 @@
     "url": "https://github.com/ajeetdsouza/zoxide/"
   },
   {
-    "name": "Alonely0/Voila",
-    "url": "https://github.com/Alonely0/Voila"
-  },
-  {
     "name": "atuin",
     "url": "https://github.com/atuinsh/atuin"
   },
@@ -1346,7 +1334,7 @@
   },
   {
     "name": "vamolessa/pepper",
-    "url": "https://github.com/vamolessa/pepper"
+    "url": "https://git.sr.ht/~lessa/pepper"
   },
   {
     "name": "zed",
@@ -2212,14 +2200,6 @@
     "url": "https://github.com/rust-lang/rustfmt"
   },
   {
-    "name": "Atom",
-    "url": "https://github.blog/2022-06-08-sunsetting-atom/"
-  },
-  {
-    "name": "rust-lang/atom-ide-rust",
-    "url": "https://github.com/rust-lang/atom-ide-rust"
-  },
-  {
     "name": "Eclipse",
     "url": "https://www.eclipse.org/"
   },
@@ -2302,11 +2282,6 @@
     "name": "crates.nvim",
     "url": "https://github.com/Saecki/crates.nvim",
     "description": "plugin that helps to managing crates.io dependencies."
-  },
-  {
-    "name": "rust-tools.nvim",
-    "url": "https://github.com/simrat39/rust-tools.nvim",
-    "description": "Tools for better development in rust using neovim's builtin lsp"
   },
   {
     "name": "rust.vim",
@@ -3121,14 +3096,6 @@
     "url": "https://github.com/rust-lang/flate2-rs"
   },
   {
-    "name": "JeffBelgum/rust-snappy",
-    "url": "https://github.com/JeffBelgum/rust-snappy"
-  },
-  {
-    "name": "JeffBelgum/rust-snappy",
-    "url": "https://github.com/JeffBelgum/rust-snappy"
-  },
-  {
     "name": "alexcrichton/tar-rs",
     "url": "https://github.com/alexcrichton/tar-rs"
   },
@@ -3585,14 +3552,6 @@
     "url": "https://github.com/jimmycuadra/rust-etcd"
   },
   {
-    "name": "vhbit/sherwood",
-    "url": "https://github.com/vhbit/sherwood"
-  },
-  {
-    "name": "vhbit/sherwood",
-    "url": "https://github.com/vhbit/sherwood"
-  },
-  {
     "name": "InfluxDB",
     "url": "https://www.influxdata.com/"
   },
@@ -3864,14 +3823,6 @@
   {
     "name": "kafka-rust/kafka-rust",
     "url": "https://github.com/kafka-rust/kafka-rust"
-  },
-  {
-    "name": "schickling/rust-beanstalkd",
-    "url": "https://github.com/schickling/rust-beanstalkd"
-  },
-  {
-    "name": "schickling/rust-beanstalkd",
-    "url": "https://github.com/schickling/rust-beanstalkd"
   },
   {
     "name": "hyunsik/hdfs-rs",
@@ -4325,14 +4276,6 @@
     "url": "https://github.com/iddm/challonge-rs"
   },
   {
-    "name": "lucidscape/corange-rs",
-    "url": "https://github.com/lucidscape/corange-rs"
-  },
-  {
-    "name": "lucidscape/corange-rs",
-    "url": "https://github.com/lucidscape/corange-rs"
-  },
-  {
     "name": "amethyst/specs",
     "url": "https://github.com/amethyst/specs"
   },
@@ -4551,10 +4494,6 @@
     "url": "https://github.com/kaj/rust-pdf"
   },
   {
-    "name": "WASM-PDF",
-    "url": "https://github.com/jussiniinikoski/wasm-pdf"
-  },
-  {
     "name": "Vulkan",
     "url": "https://www.vulkan.org/"
   },
@@ -4771,10 +4710,6 @@
   {
     "name": "estk/log4rs",
     "url": "https://github.com/estk/log4rs"
-  },
-  {
-    "name": "jesusprubio/leg",
-    "url": "https://github.com/jesusprubio/leg"
   },
   {
     "name": "rbatis/fast_log",
@@ -5444,9 +5379,9 @@
     "url": "https://github.com/meilisearch/MeiliSearch"
   },
   {
-    "name": "pg_bm25",
-    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_bm25",
-    "description": "PostgreSQL extension that enables full text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search."
+    "name": "pg_search",
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_search",
+    "description": "PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search."
   },
   {
     "name": "tantivy",
@@ -5480,10 +5415,6 @@
   {
     "name": "saurvs/hypervisor-rs",
     "url": "https://github.com/saurvs/hypervisor-rs"
-  },
-  {
-    "name": "unicorn-rs/unicorn-rs",
-    "url": "https://github.com/unicorn-rs/unicorn-rs"
   },
   {
     "name": "cargo-web",
@@ -5610,10 +5541,6 @@
   {
     "name": "Nickel",
     "url": "https://github.com/nickel-org/nickel.rs/"
-  },
-  {
-    "name": "Ogeon/rustful",
-    "url": "https://github.com/Ogeon/rustful"
   },
   {
     "name": "poem-web/poem",
