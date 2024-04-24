@@ -84,18 +84,6 @@
     "url": "https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/"
   },
   {
-    "name": "@mhevery",
-    "url": "https://twitter.com/mhevery"
-  },
-  {
-    "name": "@IgorMinar",
-    "url": "https://twitter.com/IgorMinar"
-  },
-  {
-    "name": "@naomitraveller",
-    "url": "https://twitter.com/naomitraveller"
-  },
-  {
     "name": "Minko Gechev",
     "url": "https://twitter.com/mgechev"
   },
@@ -104,28 +92,60 @@
     "url": "https://twitter.com/AlanAgius4"
   },
   {
+    "name": "Matthieu Riegler",
+    "url": "https://twitter.com/jean__meche"
+  },
+  {
+    "name": "Alex Rickabaugh",
+    "url": "https://twitter.com/synalx"
+  },
+  {
+    "name": "Caleb Eggensperger",
+    "url": "https://twitter.com/calebegg"
+  },
+  {
+    "name": "Ciro Nunes",
+    "url": "https://twitter.com/cironunesdev"
+  },
+  {
+    "name": "Kristiyan Kostadinov",
+    "url": "https://twitter.com/_crisbeto"
+  },
+  {
+    "name": "David East",
+    "url": "https://twitter.com/_davideast"
+  },
+  {
+    "name": "Paul Gschwendtner",
+    "url": "https://twitter.com/devversion"
+  },
+  {
     "name": "George Kalpakas",
     "url": "https://twitter.com/gkalpakas"
   },
   {
-    "name": "Stephen Fluin",
-    "url": "https://twitter.com/stephenfluin"
+    "name": "James Daniels",
+    "url": "https://twitter.com/jamesuriah"
+  },
+  {
+    "name": "Joost Koehoorn",
+    "url": "https://twitter.com/devjoost"
+  },
+  {
+    "name": "Mark Pieszak",
+    "url": "https://twitter.com/MarkPieszak"
+  },
+  {
+    "name": "Simona Cotin",
+    "url": "https://twitter.com/simona_cotin"
   },
   {
     "name": "@PatrickJS__",
     "url": "https://twitter.com/PatrickJS__"
   },
   {
-    "name": "@scotups",
-    "url": "https://twitter.com/scotups"
-  },
-  {
     "name": "@pkozlowski_os",
     "url": "https://twitter.com/pkozlowski_os"
-  },
-  {
-    "name": "@teropa",
-    "url": "https://twitter.com/teropa"
   },
   {
     "name": "@eggheadio",
@@ -138,10 +158,6 @@
   {
     "name": "@cedric_exbrayat",
     "url": "https://twitter.com/cedric_exbrayat"
-  },
-  {
-    "name": "@amcdnl",
-    "url": "https://twitter.com/amcdnl"
   },
   {
     "name": "@victorsavkin",
@@ -164,8 +180,8 @@
     "url": "https://twitter.com/maciejtreder"
   },
   {
-    "name": "@codewith_ahsan",
-    "url": "https://twitter.com/codewith_ahsan"
+    "name": "@maartentibau",
+    "url": "https://twitter.com/maartentibau"
   },
   {
     "name": "Jack Franklin",
@@ -238,10 +254,6 @@
   {
     "name": "Raúl Jiménez",
     "url": "https://twitter.com/elecash/"
-  },
-  {
-    "name": "Ciro Nunes",
-    "url": "https://twitter.com/cironunesdev/"
   },
   {
     "name": "Maxim Salnikov",
@@ -324,6 +336,10 @@
     "url": "https://twitter.com/laforge_toma"
   },
   {
+    "name": "@codewith_ahsan",
+    "url": "https://twitter.com/codewith_ahsan"
+  },
+  {
     "name": "{{ add_expert }}",
     "url": "https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md"
   },
@@ -401,6 +417,11 @@
     "name": "ssr",
     "url": "https://angular.dev/guide/ssr#enable-server-side-rendering",
     "description": "Documentation for the new ssr package built into the framework."
+  },
+  {
+    "name": "angular-prerender",
+    "url": "https://github.com/chrisguttandin/angular-prerender",
+    "description": "A command line tool to prerender Angular Apps."
   },
   {
     "name": "Official Angular Material Design (GitHub)",
@@ -744,6 +765,11 @@
     "description": "Everything you need to"
   },
   {
+    "name": "Angular Academy",
+    "url": "https://www.angularacademy.ca/",
+    "description": "World-class instructor-led live online Angular courses!"
+  },
+  {
     "name": "GraphQL + Angular",
     "url": "https://github.com/apollographql/apollo-angular",
     "description": "Caching GraphQL client for Angular and every GraphQL server"
@@ -817,6 +843,36 @@
     "name": "cloudinary",
     "url": "https://cloudinary.com/documentation/angular_integration",
     "description": "Angular SDK from Cloudinary."
+  },
+  {
+    "name": "angular-sdk",
+    "url": "https://github.com/descope/angular-sdk",
+    "description": "Angular library used to integrate with Descope."
+  },
+  {
+    "name": "angular-electron",
+    "url": "https://github.com/maximegris/angular-electron",
+    "description": "Ultra-fast bootstrapping with Angular and Electron"
+  },
+  {
+    "name": "Postcat",
+    "url": "https://github.com/Postcatlab/postcat",
+    "description": "A lightweight, extensible API tool based on Angular and Electron."
+  },
+  {
+    "name": "angulardart-community",
+    "url": "https://github.com/angulardart-community/website",
+    "description": "The next-generation AngularDart documentation website."
+  },
+  {
+    "name": "NativeScript",
+    "url": "https://docs.nativescript.org",
+    "description": "NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience."
+  },
+  {
+    "name": "Bit",
+    "url": "https://bit.dev/docs/angular-introduction/",
+    "description": "Leverage Bit to build composable software."
   },
   {
     "name": "ngx-admin",
@@ -904,60 +960,59 @@
     "description": "Angular NgRx powered frontend template for Symfony (or similar) backend."
   },
   {
-    "name": "TheVelourFog/slush-angular2",
-    "url": "https://github.com/RyanMetin/slush-angular2"
+    "name": "Threejs",
+    "url": "https://github.com/JohnnyDevNull/ng-three-template",
+    "description": "New Three.js starter app"
   },
   {
-    "name": "TheVelourFog/slush-angular2",
-    "url": "https://github.com/RyanMetin/slush-angular2"
+    "name": "teleport-code-generators",
+    "url": "https://github.com/teleporthq/teleport-code-generators",
+    "description": "A collection of code generators for modern JavaScript applications"
   },
   {
-    "name": "TheVelourFog/slush-angular2",
-    "url": "https://github.com/RyanMetin/slush-angular2"
+    "name": "teleport-code-generators",
+    "url": "https://github.com/teleporthq/teleport-code-generators",
+    "description": "A collection of code generators for modern JavaScript applications"
   },
   {
-    "name": "swirlycheetah/generator-angular2",
-    "url": "https://github.com/chrisdwheatley/generator-angular2"
+    "name": "graphql-code-generator",
+    "url": "https://github.com/dotansimha/graphql-code-generator",
+    "description": "A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins."
   },
   {
-    "name": "swirlycheetah/generator-angular2",
-    "url": "https://github.com/chrisdwheatley/generator-angular2"
+    "name": "nx",
+    "url": "https://nx.dev/nx-api/angular",
+    "description": "The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces."
   },
   {
-    "name": "ngx-rocket/generator-ngx-rocket",
-    "url": "https://github.com/ngx-rocket/generator-ngx-rocket"
+    "name": "workik",
+    "url": "https://workik.com/angular-code-generator",
+    "description": "AI Angular code generator that supports all Angular frameworks and libraries."
   },
   {
-    "name": "ngx-rocket/generator-ngx-rocket",
-    "url": "https://github.com/ngx-rocket/generator-ngx-rocket"
+    "name": "generator-jhipster-ionic",
+    "url": "https://github.com/jhipster/generator-jhipster-ionic",
+    "description": "You can use it to generate an Ionic app that talks to a JHipster backend."
   },
   {
-    "name": "ngx-rocket/cli",
-    "url": "https://github.com/ngx-rocket/cli"
-  },
-  {
-    "name": "ngx-rocket/core",
-    "url": "https://github.com/ngx-rocket/core"
-  },
-  {
-    "name": "ScaffoldHub.io",
-    "url": "https://scaffoldhub.io"
-  },
-  {
-    "name": "ScaffoldHub.io",
-    "url": "https://scaffoldhub.io"
+    "name": "angularx-qrcode",
+    "url": "https://github.com/cordobo/angularx-qrcode",
+    "description": "A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library"
   },
   {
     "name": "Bootify.io",
-    "url": "https://bootify.io"
+    "url": "https://bootify.io",
+    "description": "Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality"
   },
   {
     "name": "Bootify.io",
-    "url": "https://bootify.io"
+    "url": "https://bootify.io",
+    "description": "Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality"
   },
   {
     "name": "JHipster",
-    "url": "https://www.jhipster.tech"
+    "url": "https://www.jhipster.tech",
+    "description": "Open source app generator for Spring Boot and Angular"
   },
   {
     "name": "Storybook",
@@ -972,6 +1027,11 @@
     "name": "ng-doc",
     "url": "https://github.com/ng-doc/ng-doc",
     "description": "The documentation engine for Angular projects"
+  },
+  {
+    "name": "docgeni",
+    "url": "https://github.com/docgeni/docgeni",
+    "description": "A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs."
   },
   {
     "name": "StackBlitz",
@@ -1017,26 +1077,6 @@
     "name": "Angular 17 Snippets",
     "url": "https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode",
     "description": "258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)"
-  },
-  {
-    "name": "Cypress",
-    "url": "https://github.com/briebug/cypress-schematic"
-  },
-  {
-    "name": "Jest",
-    "url": "https://github.com/briebug/jest-schematic"
-  },
-  {
-    "name": "Prettier",
-    "url": "https://github.com/schuchard/prettier-schematic"
-  },
-  {
-    "name": "Tailwind CSS",
-    "url": "https://github.com/ngneat/tailwind"
-  },
-  {
-    "name": "Threejs",
-    "url": "https://github.com/JohnnyDevNull/ng-three-template"
   },
   {
     "name": "tsparticles",
@@ -1522,6 +1562,16 @@
     "description": "Declarative, incremental state management library"
   },
   {
+    "name": "ngx-signal-state",
+    "url": "https://github.com/simplifiedcourses/ngx-signal-state",
+    "description": "Opinionated simple state management for Angular"
+  },
+  {
+    "name": "mini-rx-store",
+    "url": "https://github.com/spierala/mini-rx-store",
+    "description": "MiniRx is the reactive state management platform."
+  },
+  {
     "name": "ag-grid",
     "url": "https://www.ag-grid.com/",
     "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript."
@@ -1776,40 +1826,6 @@
     "url": "https://github.com/nigrosimone/ng-generic-pipe"
   },
   {
-    "name": "scully",
-    "url": "https://github.com/scullyio/scully",
-    "description": "Scully is a static site generator for Angular projects looking to embrace the Jamstack."
-  },
-  {
-    "name": "Guide to Angular Universal - a comprehensive guide how to sharpen your Universal Skills",
-    "url": "https://www.newline.co/courses/newline-guide-to-angular-universal",
-    "description": "a comprehensive guide how to sharpen your Universal Skills"
-  },
-  {
-    "name": "Universal Angular 2 Repository (GitHub)",
-    "url": "https://github.com/angular/universal"
-  },
-  {
-    "name": "universal-starter",
-    "url": "https://github.com/angular/universal-starter",
-    "description": "Angular 2 Universal starter kit by @Angular-Class"
-  },
-  {
-    "name": "ng-seed/universal",
-    "url": "https://github.com/ng-seed/universal",
-    "description": "Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3"
-  },
-  {
-    "name": "angular-universal",
-    "url": "https://github.com/enten/angular-universal",
-    "description": "Fast, Unopinionated, Minimalist starter kit for Angular Universal 100% powered by Angular CLI"
-  },
-  {
-    "name": "angular-universal-heroku-starter",
-    "url": "https://github.com/Alex61NN5/angular-universal-heroku-starter",
-    "description": "Angular 7 Universal Starter Kit with Server-Side Rendering (SSR) and easy deployment to Heroku"
-  },
-  {
     "name": "TypeScript",
     "url": "https://www.typescriptlang.org/"
   },
@@ -1826,171 +1842,69 @@
     "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
   },
   {
-    "name": "Angular Seed",
-    "url": "https://mgechev.github.io/angular-seed/"
+    "name": "typehero",
+    "url": "https://github.com/typehero/typehero",
+    "description": "Connect, collaborate, and grow with a community of TypeScript developers."
   },
   {
-    "name": "ng2-play",
-    "url": "https://github.com/pkozlowski-opensource/ng2-play"
+    "name": "type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "description": "Collection of TypeScript type challenges with online judge."
   },
   {
-    "name": "Angular Lab",
-    "url": "https://github.com/rolandjitsu/angular-lab"
+    "name": "typescript-challenges",
+    "url": "https://github.com/psmyrdek/typescript-challenges",
+    "description": "A set of challenges helping you understand TypeScript"
   },
   {
-    "name": "Angular 2 Samples",
-    "url": "https://github.com/thelgevold/angular-2-samples"
+    "name": "Sheriff",
+    "url": "https://github.com/softarc-consulting/sheriff",
+    "description": "Lightweight Modularity for TypeScript Projects"
   },
   {
-    "name": "Todo app with Firebase, OAuth, and Immutable",
-    "url": "https://github.com/r-park/todo-angular-firebase"
+    "name": "Total Typescript Book",
+    "url": "https://github.com/total-typescript/total-typescript-book",
+    "description": "The companion repo for the upcoming Total TypeScript book."
   },
   {
-    "name": "Spring Boot and Angular2 tutorial",
-    "url": "https://github.com/springboot-angular2-tutorial/angular2-app"
+    "name": "ts-essentials",
+    "url": "https://github.com/ts-essentials/ts-essentials",
+    "description": "All essential TypeScript types in one place"
   },
   {
-    "name": "Angular 2 Goldilocks seed",
-    "url": "https://github.com/ColinEberhardt/angular2-goldilocks-seed",
-    "description": "A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!"
+    "name": "trpc",
+    "url": "https://github.com/trpc/trpc",
+    "description": "Move Fast and Break Nothing. End-to-end typesafe APIs made easy."
   },
   {
-    "name": "Angular 2 Starter",
-    "url": "https://github.com/antonybudianto/angular-starter",
-    "description": "Simple Angular 2 Starter with Gulp workflow and Travis CI"
+    "name": "quicktype",
+    "url": "https://github.com/glideapps/quicktype",
+    "description": "Generate types and converters from JSON, Schema, and GraphQL."
   },
   {
-    "name": "Angular 2 Leaflet Starter",
-    "url": "https://github.com/haoliangyu/ngx-leaflet-starter",
-    "description": "A map application starter based on Angular 2 and Leaflet"
+    "name": "ts-pattern",
+    "url": "https://github.com/gvergnaud/ts-pattern",
+    "description": "The exhaustive Pattern Matching library for TypeScript, with smart type inference."
   },
   {
-    "name": "Angular 2 MapboxGL Starter",
-    "url": "https://github.com/haoliangyu/ngx-mapboxgl-starter",
-    "description": "Another map application starter based on Angular 2 and MapboxGL JS"
+    "name": "ngx-mf",
+    "url": "https://github.com/iamguid/ngx-mf",
+    "description": "Bind your model types to angular FormGroup type"
   },
   {
-    "name": "Angular 2 reconnecting websockets quickstart",
-    "url": "https://github.com/mkusz/ng2_websockets_quickstart",
-    "description": "Simple counter using 2-way or 1-way reconnecting websockets communication"
+    "name": "superstruct",
+    "url": "https://github.com/ianstormtaylor/superstruct",
+    "description": "A simple and composable way to validate data in JavaScript (and TypeScript)."
   },
   {
-    "name": "ng2-start",
-    "url": "https://github.com/cebor/ng2-start",
-    "description": "Minimal setup to start creating an angular2 application"
+    "name": "typebox",
+    "url": "https://github.com/sinclairzx81/typebox",
+    "description": "Json Schema Type Builder with Static Type Resolution for TypeScript."
   },
   {
-    "name": "ng-kitchen-sink",
-    "url": "https://github.com/born2net/Angular-kitchen-sink",
-    "description": "The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular"
-  },
-  {
-    "name": "ng-skeleton",
-    "url": "https://github.com/born2net/ng-skeleton",
-    "description": "The ultimate Angular seed with ngrx, bootstrap and two factor auth"
-  },
-  {
-    "name": "angular2-demo",
-    "url": "https://github.com/amcdnl/angular2-demo"
-  },
-  {
-    "name": "Angular 2 Dashboard Starter",
-    "url": "https://github.com/hasanhameed07/angular2-dashboard-starter",
-    "description": "Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme."
-  },
-  {
-    "name": "ngx-admin",
-    "url": "https://github.com/akveo/ngx-admin",
-    "description": "Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)"
-  },
-  {
-    "name": "Angular 2 full code coverage",
-    "url": "https://github.com/danday74/angular2-coverage",
-    "description": "Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit"
-  },
-  {
-    "name": "Angular 2 webpack",
-    "url": "https://github.com/michaelbazos/angular2-starter",
-    "description": "Tour of Heroes official typescript tutorial built with webpack"
-  },
-  {
-    "name": "ng2-boiler",
-    "url": "https://github.com/amcdnl/ng2-boiler",
-    "description": "A bare-bones simple starter with Angular2, TypeScript and Webpack configured."
-  },
-  {
-    "name": "Angular Webpack Starter",
-    "url": "https://github.com/antonybudianto/angular-webpack-starter",
-    "description": "Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking"
-  },
-  {
-    "name": "Reaper",
-    "url": "https://github.com/Xamber/Reaper",
-    "description": "Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies"
-  },
-  {
-    "name": "famn",
-    "url": "https://github.com/implustech/famn",
-    "description": "Angular 2 + FeathersJS application framework for both client and server side"
-  },
-  {
-    "name": "Angular NPM Module Seed",
-    "url": "https://github.com/davguij/angular-npm-module-seed",
-    "description": "Starting point for developing Angular modules and publishing them on NPM."
-  },
-  {
-    "name": "Angular2 D3v4 Seed",
-    "url": "https://github.com/gp187/angular2-d3v4-graph",
-    "description": "Angular2 D3v4 implementation of charts, graphs, area and view porting seed project"
-  },
-  {
-    "name": "ng-seed/spa",
-    "url": "https://github.com/ng-seed/spa",
-    "description": "Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3"
-  },
-  {
-    "name": "Reboard",
-    "url": "https://github.com/ksiabani/reboard",
-    "description": "Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)"
-  },
-  {
-    "name": "Angular5 + Redux + Graphql + MySQL quickstart",
-    "url": "https://github.com/rafaesc/fullstack-graphql-angular",
-    "description": "Simple Fullstack GraphQL Application with Angular CLI + Redux + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL)."
-  },
-  {
-    "name": "Angular5 + Firebase + Structure",
-    "url": "https://github.com/naologic/angular5-starter",
-    "description": "Angular 5 + Firebase + a very good router/module structure to make it your own so easy"
-  },
-  {
-    "name": "angular-app-example",
-    "url": "https://github.com/daixianceng/angular-app-example",
-    "description": "Angular latest + material + sass themes + more beautiful features, a dashboard app example"
-  },
-  {
-    "name": "NG-MATERO",
-    "url": "https://github.com/ng-matero/ng-matero",
-    "description": "This Ng-Matero is an Angular admin templete made with Material componnets."
-  },
-  {
-    "name": "TinkoffCreditSystems/angular-open-source-starter",
-    "url": "https://github.com/TinkoffCreditSystems/angular-open-source-starter",
-    "description": "a starter project for creating open-source libraries for Angular"
-  },
-  {
-    "name": "truonghungit/angular-starter",
-    "url": "https://github.com/truonghungit/angular-starter",
-    "description": "😍 A complete Angular 10, NgRx, Angular CLI & Angular Material starter project"
-  },
-  {
-    "name": "Eoapi",
-    "url": "https://github.com/eolinker/eoapi",
-    "description": "A lightweight, extensible API tool based on Angular and Electron"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md"
+    "name": "zod",
+    "url": "https://github.com/colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference."
   },
   {
     "name": "Ionic Framework",
@@ -2023,116 +1937,29 @@
     "description": "Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular"
   },
   {
-    "name": "Dart",
-    "url": "https://dart.dev/"
-  },
-  {
-    "name": "Dart Organization (GitHub)",
-    "url": "https://github.com/dart-lang"
-  },
-  {
-    "name": "angulardart-community",
-    "url": "https://github.com/angulardart-community/website",
-    "description": "The next-generation AngularDart documentation website."
-  },
-  {
-    "name": "Traceur Repository (GitHub)",
-    "url": "https://github.com/google/traceur-compiler"
-  },
-  {
-    "name": "GitHub: Angular2 ES6 Seed (Evan Plaice)",
-    "url": "https://github.com/evanplaice/angular2-es6-seed/"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "{{ help_add_resources }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "Angular Meteor",
-    "url": "https://angular-meteor.com/"
-  },
-  {
-    "name": "Angular 2 Meteor",
-    "url": "https://www.angular-meteor.com/angular2"
-  },
-  {
-    "name": "Angular2 Meteor Seed",
-    "url": "https://github.com/KyneSilverhide/angular2-meteor-seed"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "NativeScript",
-    "url": "https://www.nativescript.org/"
-  },
-  {
-    "name": "Using NativeScript",
-    "url": "https://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0"
-  },
-  {
-    "name": "sample-Angular2",
-    "url": "https://github.com/NativeScript/sample-Angular2"
-  },
-  {
-    "name": "angular2-seed-advanced",
-    "url": "https://github.com/NathanWalker/angular-seed-advanced"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "React Native",
-    "url": "https://facebook.github.io/react-native/"
-  },
-  {
-    "name": "Angular 2 React Native Renderer (GitHub)",
-    "url": "https://github.com/angular/react-native-renderer"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "{{ help_add_resources }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "play-angular2",
-    "url": "https://github.com/gdi2290/play-angular2"
-  },
-  {
-    "name": "{{ add_your_repo }}",
-    "url": "https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md"
-  },
-  {
-    "name": "Bit",
-    "url": "https://github.com/teambit/bit"
-  },
-  {
-    "name": "Bit-Javascript",
-    "url": "https://github.com/teambit/bit-javascript"
-  },
-  {
-    "name": "bitsrc",
-    "url": "https://bitsrc.io/",
-    "description": "Free community hub for sharing, managing and finding open source components."
-  },
-  {
     "name": "Angular.io Security Guide",
     "url": "https://angular.io/guide/security",
-    "description": "brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy."
+    "description": "Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy."
   },
   {
-    "name": "Slides",
-    "url": "https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf",
-    "description": "Lewis Ardern speaking at OWASP London 2017."
+    "name": "Socket",
+    "url": "https://socket.dev/",
+    "description": "Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies."
+  },
+  {
+    "name": "Synk",
+    "url": "https://snyk.io/",
+    "description": "Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines."
+  },
+  {
+    "name": "Github",
+    "url": "https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning",
+    "description": "Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos."
+  },
+  {
+    "name": "Github Skills",
+    "url": "https://skills.github.com/",
+    "description": "Guided interactive tutorials for Code Security and analysis are available."
   },
   {
     "name": "casl-angular",
@@ -2223,5 +2050,43 @@
     "name": "angular-ngrx-nx-realworld-example-app",
     "url": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
     "description": "Real world application built with Angular 17, NgRx 17, nrwl/nx 17"
+  },
+  {
+    "name": "aws amplify",
+    "url": "https://docs.amplify.aws/angular/"
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com/solutions/angular"
+  },
+  {
+    "name": "Firebase Hosting",
+    "url": "https://firebase.google.com/docs/hosting",
+    "description": "Angular Fire can help the process in deploying to Firebase Hosting."
+  },
+  {
+    "name": "Netlify",
+    "url": "https://docs.netlify.com/frameworks/angular/",
+    "description": "Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality."
+  },
+  {
+    "name": "angular-cli-ghpages",
+    "url": "https://github.com/angular-schule/angular-cli-ghpages",
+    "description": "SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages."
+  },
+  {
+    "name": "angular update guide",
+    "url": "https://update.angular.io/",
+    "description": "Interactive guide to help you migrate from one version of Angular to another."
+  },
+  {
+    "name": "ng update",
+    "url": "https://angular.dev/cli/update",
+    "description": "Use the CLI to update your project or try new Angular features by adding the --next flag."
+  },
+  {
+    "name": "migrations",
+    "url": "https://angular.dev/reference/migrations",
+    "description": "Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics."
   }
 ]
