@@ -991,7 +991,7 @@
   {
     "name": "sbcl-librarian",
     "url": "https://github.com/quil-lang/sbcl-librarian",
-    "description": "Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. Blog post. Full example."
+    "description": "Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. Blog post. Tutorial."
   },
   {
     "name": "SBCL-GOODIES",
@@ -1002,11 +1002,6 @@
     "name": "Nightly Windows builds of SBCL",
     "url": "https://github.com/olnw/sbcl-builds",
     "description": "Nightly builds of SBCL using MSYS2 UCRT64. See also Roswell's SBCL MSI builds."
-  },
-  {
-    "name": "sbcl-wiki",
-    "url": "https://github.com/guicho271828/sbcl-wiki/wiki",
-    "description": "an open wiki to document SBCL's internals."
   },
   {
     "name": "CCL",
@@ -1541,6 +1536,15 @@
     "name": "Programming Algorithms in Lisp",
     "url": "https://link.springer.com/book/10.1007/978-1-4842-6428-7",
     "description": "Updated version of \"Programming Algorithms\"; A comprehensive guide to writing efficient programs with data structures and algorithms in Lisp."
+  },
+  {
+    "name": "SBCL internals",
+    "url": "https://simonsafar.com/2020/sbcl/"
+  },
+  {
+    "name": "sbcl-wiki",
+    "url": "https://github.com/guicho271828/sbcl-wiki/wiki",
+    "description": "an open wiki to document SBCL's internals."
   },
   {
     "name": "Codewars",
@@ -3025,6 +3029,10 @@
   {
     "name": "opengl frontend",
     "url": "https://github.com/pupcraft/lem-opengl"
+  },
+  {
+    "name": "Lem on the cloud",
+    "url": "https://www.youtube.com/watch?v=IMN7feOQOak"
   },
   {
     "name": "SLIMA",

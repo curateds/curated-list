@@ -415,11 +415,6 @@
     "description": "Fully featured Lua replacement for GitHub/copilot.vim."
   },
   {
-    "name": "Exafunction/codeium.nvim",
-    "url": "https://github.com/Exafunction/codeium.nvim",
-    "description": "Free, ultrafast Copilot alternative."
-  },
-  {
     "name": "Robitx/gp.nvim",
     "url": "https://github.com/Robitx/gp.nvim",
     "description": "ChatGPT like sessions and instructable text/code operations in your favorite editor."
@@ -473,6 +468,11 @@
     "name": "simplegpt.nvim",
     "url": "https://github.com/you-n-g/simplegpt.nvim",
     "description": "Provide a simple yet flexible way to construct and send questions to ChatGPT."
+  },
+  {
+    "name": "Exafunction/codeium.nvim",
+    "url": "https://github.com/Exafunction/codeium.nvim",
+    "description": "Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter."
   },
   {
     "name": "Julian/lean.nvim",
@@ -1400,9 +1400,9 @@
     "description": "A colorscheme with handcrafted support for LSP, Tree-sitter."
   },
   {
-    "name": "jim-at-jibba/ariake-vim-colors",
-    "url": "https://github.com/jim-at-jibba/ariake-vim-colors",
-    "description": "A port of the great Atom theme. Dark and light with Tree-sitter support."
+    "name": "jim-at-jibba/ariake.nvim",
+    "url": "https://github.com/jim-at-jibba/ariake.nvim",
+    "description": "A port of the great Atom theme. Beautiful, dark colour scheme."
   },
   {
     "name": "Th3Whit3Wolf/onebuddy",

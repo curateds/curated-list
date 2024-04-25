@@ -111,7 +111,7 @@
   {
     "name": "Browsertrix Crawler",
     "url": "https://github.com/webrecorder/browsertrix-crawler",
-    "description": "A Chrome based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container."
+    "description": "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. (Stable)"
   },
   {
     "name": "Brozzler",
@@ -278,11 +278,6 @@
     "description": "Browser extension for Firefox and Chrome which lets you archive web pages you visit. (In Development)"
   },
   {
-    "name": "Webrecorder",
-    "url": "https://webrecorder.io/",
-    "description": "Create high-fidelity, interactive recordings of any web site you browse. (Stable)"
-  },
-  {
     "name": "Wget",
     "url": "http://www.gnu.org/software/wget/",
     "description": "An open source file retrieval utility that of version 1.14 supports writing warcs. (Stable)"
@@ -308,9 +303,9 @@
     "description": "The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. (Stable)"
   },
   {
-    "name": "PyWb",
-    "url": "https://github.com/ikreymer/pywb",
-    "description": "A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. (Stable)"
+    "name": "PYWB",
+    "url": "https://github.com/webrecorder/pywb",
+    "description": "A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. (Stable)"
   },
   {
     "name": "Reconstructive",
@@ -318,9 +313,9 @@
     "description": "Reconstructive is a ServiceWorker module for client-side reconstruction of composite mementos by rerouting resource requests to corresponding archived copies (JavaScript)."
   },
   {
-    "name": "ReplayWeb.Page",
+    "name": "ReplayWeb.page",
     "url": "https://replayweb.page/",
-    "description": "A browser-based, fully client-side replay engine for both local and remote WARC files."
+    "description": "A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. (Stable)"
   },
   {
     "name": "warc2html",
@@ -765,9 +760,9 @@
     "url": "https://twitter.com/hashtag/webarchivewednesday"
   },
   {
-    "name": "Browsertrix Cloud",
-    "url": "https://browsertrix.cloud/",
-    "description": "From Webrecorder, source available at https://github.com/webrecorder/browsertrix-cloud."
+    "name": "Browsertrix",
+    "url": "https://browsertrix.com/",
+    "description": "From Webrecorder, source available at https://github.com/webrecorder/browsertrix."
   },
   {
     "name": "Conifer",
