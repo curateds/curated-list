@@ -1299,6 +1299,11 @@
     "description": "Wikipedia. Wikipedia encyclopedia entry on Domain Engineering."
   },
   {
+    "name": "Domain Specific Languages",
+    "url": "https://martinfowler.com/books/dsl.html",
+    "description": "Pearson Education, 2010. [All Versions]. [Author's DSL Guide]. When carefully selected and used, Domain-Specific Languages (DSLs) may simplify complex code, promote effective communication with customers, improve productivity, and unclog development bottlenecks. In Domain-Specific Languages, noted software development expert Martin Fowler first provides the information software professionals need to decide if and when to utilize DSLs. Then, where DSLs prove suitable, Fowler presents effective techniques for building them, and guides software engineers in choosing the right approaches for their applications."
+  },
+  {
     "name": "Epigrams on programming",
     "url": "https://dl.acm.org/doi/pdf/10.1145/947955.1083808",
     "description": "ACM SIGPLAN Notices, 1982. [All Versions]."
@@ -2808,86 +2813,6 @@
     "description": "PLoS Biology, 2017. [All Versions]. [Nature Methods Correspondence]. [EDA Website]. The EDA is a web-based tool that guides the in vivo researcher through the experimental design and analysis process, providing automated feedback on the proposed design and generating a graphical summary that aids communication with colleagues, funders, regulatory authorities, and the wider scientific community."
   },
   {
-    "name": "Human–machine collaboration for improving semiconductor process development",
-    "url": "https://www.nature.com/articles/s41586-023-05773-7",
-    "description": "Nature, 2023. [All Versions]. [Nature News]."
-  },
-  {
-    "name": "A foundation model for generalizable disease detection from retinal images",
-    "url": "https://www.nature.com/articles/s41586-023-06555-x",
-    "description": "Nature, 2023. [All Versions]."
-  },
-  {
-    "name": "Accurate medium-range global weather forecasting with 3D neural networks",
-    "url": "https://www.nature.com/articles/s41586-023-06185-3",
-    "description": "Nature, 2023. [All Versions]."
-  },
-  {
-    "name": "Learning skillful medium-range global weather forecasting",
-    "url": "https://www.science.org/doi/10.1126/science.adi2336",
-    "description": "Science, 2023. [All Versions]."
-  },
-  {
-    "name": "Skilful nowcasting of extreme precipitation with NowcastNet",
-    "url": "https://www.nature.com/articles/s41586-023-06184-4",
-    "description": "Nature, 2023. [All Versions]."
-  },
-  {
-    "name": "ChipNeMo: Domain-Adapted LLMs for Chip Design",
-    "url": "https://arxiv.org/abs/2311.00176",
-    "description": "2023. [All Versions]."
-  },
-  {
-    "name": "Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence",
-    "url": "https://www.nature.com/articles/s41467-021-22048-9",
-    "description": "Nature Communications, 2021. [All Versions]."
-  },
-  {
-    "name": "Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2016239118",
-    "description": "Proceedings of the National Academy of Sciences, 2021. [All Versions]."
-  },
-  {
-    "name": "Comparability of automated human induced pluripotent stem cell culture: a pilot study",
-    "url": "https://link.springer.com/article/10.1007/s00449-016-1659-9",
-    "description": "Bioprocess and Biosystems Engineering, 2016. [All Versions]."
-  },
-  {
-    "name": "ChemCrow: Augmenting large-language models with chemistry tools",
-    "url": "https://openreview.net/forum?id=wdGIL6lx3l",
-    "description": "NeurIPS AI for Science Workshop, 2023. [All Versions]. [Preprint]."
-  },
-  {
-    "name": "Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory",
-    "url": "https://ieeexplore.ieee.org/abstract/document/10059206",
-    "description": "IEEE Transactions on Knowledge and Data Engineering, 2023. [All Versions]."
-  },
-  {
-    "name": "LEGAL-BERT: The Muppets straight out of Law School",
-    "url": "https://aclanthology.org/2020.findings-emnlp.261/",
-    "description": "EMNLP'20, 2020. [All Versions]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts."
-  },
-  {
-    "name": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
-    "url": "https://academic.oup.com/bioinformatics/article/36/4/1234/5566506",
-    "description": "Bioinformatics, 2020. [All Versions]. Answering medical questions, identifying relevant clinical trials, and diagnosing diseases based on symptoms, making medical information more accessible to the general public."
-  },
-  {
-    "name": "Finbert: A pre-trained financial language representation model for financial text mining",
-    "url": "https://dl.acm.org/doi/abs/10.5555/3491440.3492062",
-    "description": "IJCAI'20, 2020. [All Versions]. Predicting stock market trends, analyzing financial documents, and generating summaries of economic news articles, helping to disseminate financial knowledge."
-  },
-  {
-    "name": "SciBERT: A Pretrained Language Model for Scientific Text",
-    "url": "https://aclanthology.org/D19-1371/",
-    "description": "EMNLP'19, 2019. [All Versions]. Searching and synthesizing scientific literature, aiding researchers in hypothesis generation, and assisting with experimental design, making scientific knowledge more accessible."
-  },
-  {
-    "name": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
-    "url": "https://aclanthology.org/2020.findings-emnlp.139/",
-    "description": "EMNLP'20, 2020. [All Versions]. Completing code, generating programming documentation, and providing technical support, making programming knowledge more accessible to non-experts."
-  },
-  {
     "name": "Reconfigurable system for automated optimization of diverse chemical reactions",
     "url": "https://www.science.org/doi/full/10.1126/science.aat0650",
     "description": "Science, 2018. [All Versions]. [Preprint]. This paper describes a plug-and-play, continuous-flow chemical synthesis system that mitigates this challenge with an integrated combination of hardware, software, and analytics. The system software controls the user-selected reagents and unit operations (reactors and separators), processes reaction analytics (high-performance liquid chromatography, mass spectrometry, vibrational spectroscopy), and conducts automated optimizations."
@@ -2976,6 +2901,86 @@
     "name": "Scientific discovery in the age of artificial intelligence",
     "url": "https://www.nature.com/articles/s41586-023-06221-2",
     "description": "Nature, 2023. [All Versions]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency."
+  },
+  {
+    "name": "Human–machine collaboration for improving semiconductor process development",
+    "url": "https://www.nature.com/articles/s41586-023-05773-7",
+    "description": "Nature, 2023. [All Versions]. [Nature News]."
+  },
+  {
+    "name": "A foundation model for generalizable disease detection from retinal images",
+    "url": "https://www.nature.com/articles/s41586-023-06555-x",
+    "description": "Nature, 2023. [All Versions]."
+  },
+  {
+    "name": "Accurate medium-range global weather forecasting with 3D neural networks",
+    "url": "https://www.nature.com/articles/s41586-023-06185-3",
+    "description": "Nature, 2023. [All Versions]."
+  },
+  {
+    "name": "Learning skillful medium-range global weather forecasting",
+    "url": "https://www.science.org/doi/10.1126/science.adi2336",
+    "description": "Science, 2023. [All Versions]."
+  },
+  {
+    "name": "Skilful nowcasting of extreme precipitation with NowcastNet",
+    "url": "https://www.nature.com/articles/s41586-023-06184-4",
+    "description": "Nature, 2023. [All Versions]."
+  },
+  {
+    "name": "ChipNeMo: Domain-Adapted LLMs for Chip Design",
+    "url": "https://arxiv.org/abs/2311.00176",
+    "description": "2023. [All Versions]."
+  },
+  {
+    "name": "Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence",
+    "url": "https://www.nature.com/articles/s41467-021-22048-9",
+    "description": "Nature Communications, 2021. [All Versions]."
+  },
+  {
+    "name": "Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2016239118",
+    "description": "Proceedings of the National Academy of Sciences, 2021. [All Versions]."
+  },
+  {
+    "name": "Comparability of automated human induced pluripotent stem cell culture: a pilot study",
+    "url": "https://link.springer.com/article/10.1007/s00449-016-1659-9",
+    "description": "Bioprocess and Biosystems Engineering, 2016. [All Versions]."
+  },
+  {
+    "name": "ChemCrow: Augmenting large-language models with chemistry tools",
+    "url": "https://openreview.net/forum?id=wdGIL6lx3l",
+    "description": "NeurIPS AI for Science Workshop, 2023. [All Versions]. [Preprint]."
+  },
+  {
+    "name": "Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10059206",
+    "description": "IEEE Transactions on Knowledge and Data Engineering, 2023. [All Versions]."
+  },
+  {
+    "name": "LEGAL-BERT: The Muppets straight out of Law School",
+    "url": "https://aclanthology.org/2020.findings-emnlp.261/",
+    "description": "EMNLP'20, 2020. [All Versions]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts."
+  },
+  {
+    "name": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+    "url": "https://academic.oup.com/bioinformatics/article/36/4/1234/5566506",
+    "description": "Bioinformatics, 2020. [All Versions]. Answering medical questions, identifying relevant clinical trials, and diagnosing diseases based on symptoms, making medical information more accessible to the general public."
+  },
+  {
+    "name": "Finbert: A pre-trained financial language representation model for financial text mining",
+    "url": "https://dl.acm.org/doi/abs/10.5555/3491440.3492062",
+    "description": "IJCAI'20, 2020. [All Versions]. Predicting stock market trends, analyzing financial documents, and generating summaries of economic news articles, helping to disseminate financial knowledge."
+  },
+  {
+    "name": "SciBERT: A Pretrained Language Model for Scientific Text",
+    "url": "https://aclanthology.org/D19-1371/",
+    "description": "EMNLP'19, 2019. [All Versions]. Searching and synthesizing scientific literature, aiding researchers in hypothesis generation, and assisting with experimental design, making scientific knowledge more accessible."
+  },
+  {
+    "name": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+    "url": "https://aclanthology.org/2020.findings-emnlp.139/",
+    "description": "EMNLP'20, 2020. [All Versions]. Completing code, generating programming documentation, and providing technical support, making programming knowledge more accessible to non-experts."
   },
   {
     "name": "Theory of Mind",

@@ -56,10 +56,6 @@
     "url": "https://www.reddit.com/r/Angular2/"
   },
   {
-    "name": "Angular Group on Facebook",
-    "url": "https://www.facebook.com/groups/angular2/"
-  },
-  {
     "name": "AngularAir",
     "url": "https://angularair.com/"
   },
@@ -82,6 +78,16 @@
   {
     "name": "Top rated Angular stackoverflow questions Dashboard",
     "url": "https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/"
+  },
+  {
+    "name": "angular-logos",
+    "url": "https://github.com/maartentibau/angular-logos",
+    "description": "Repo is dedicated to collecting all the different kinds of Angular badges and logos."
+  },
+  {
+    "name": "madewithangular",
+    "url": "https://github.com/madewithangular/madewithangular.github.io",
+    "description": "A showcase of web apps built with Angular."
   },
   {
     "name": "Minko Gechev",
@@ -364,6 +370,11 @@
     "description": "Learn and Keep Up with the Angular Ecosystem"
   },
   {
+    "name": "simplified courses",
+    "url": "https://blog.simplified.courses/",
+    "description": "Blog articles written with love, just for you!"
+  },
+  {
     "name": "justangular",
     "url": "https://justangular.com/",
     "description": "Shares the newest and most important updates about Angular, along with useful tips and tricks."
@@ -583,97 +594,116 @@
     "description": "Hooks for the Angular CLI to customize the build"
   },
   {
-    "name": "Official web page",
+    "name": "Webpack",
     "url": "https://webpack.js.org"
   },
   {
-    "name": "Angular Webpack Starter from PatrickJS",
-    "url": "https://github.com/gdi2290/angular-starter"
+    "name": "ESBuild",
+    "url": "https://esbuild.github.io/"
   },
   {
-    "name": "Angular Webpack from preboot",
-    "url": "https://github.com/preboot/angular-webpack"
-  },
-  {
-    "name": "Angular Nightly Webpack Starter",
-    "url": "https://github.com/qdouble/angular-webpack2-starter"
-  },
-  {
-    "name": "Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden",
-    "url": "https://github.com/damienbod/AngularWebpackVisualStudio"
-  },
-  {
-    "name": "Angular Typescript Webpack from schempy",
-    "url": "https://github.com/schempy/angular2-typescript-webpack"
-  },
-  {
-    "name": "Angular Webpack Tour of Heroes from michaelbazos",
-    "url": "https://github.com/michaelbazos/angular-starter",
-    "description": "Tour of Heroes official typescript tutorial built with webpack"
-  },
-  {
-    "name": "Angular Webpack + rxjs + modules",
-    "url": "https://github.com/jorgeas80/angular2-webpack-toh"
+    "name": "Nx",
+    "url": "https://github.com/nrwl/nx",
+    "description": "Smart Monorepos · Fast CI"
   },
   {
     "name": "Angular Builders",
+    "url": "https://github.com/just-jeb/angular-builders",
+    "description": "This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade."
+  },
+  {
+    "name": "Jest Builder",
+    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/jest",
+    "description": "Jest builder for Angular build facade"
+  },
+  {
+    "name": "Custom Webpack",
     "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack",
     "description": "custom webpack"
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@procademy",
-    "description": "Procademy"
+    "name": "Custom ESBuild",
+    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild",
+    "description": "Allows custom esbuild configuration."
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@MonsterlessonsAcademy",
-    "description": "Monsterlessons Academy"
+    "name": "Bazel",
+    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/bazel",
+    "description": "Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc."
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@JoshuaMorony",
-    "description": "Joshua Morony"
+    "name": "Timestamp",
+    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp",
+    "description": "This is explained in this article."
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@NihiraTechiees",
-    "description": "Nihira Techiees"
+    "name": "ngx-build-plus",
+    "url": "https://github.com/manfredsteyer/ngx-build-plus",
+    "description": "Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements."
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@AngularUniversity",
-    "description": "Angular University"
+    "name": "ng-process-env",
+    "url": "https://github.com/danduh/ng-process-env",
+    "description": "Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant environment.ts file."
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@RainerHahnekamp",
-    "description": "Rainer Hahnekamp"
+    "name": "ngx-electronify",
+    "url": "https://github.com/bampakoa/ngx-electronify",
+    "description": "Angular CLI builder that runs your application in the desktop using Electron."
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@CodeShotsWithProfanis",
-    "description": "Code Shots With Profanis"
+    "name": "dotenv-run",
+    "url": "https://github.com/chihab/dotenv-run",
+    "description": "Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos."
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@deborah_kurata",
-    "description": "Deborah Kurata"
+    "name": "ng-packagr",
+    "url": "https://github.com/ng-packagr/ng-packagr",
+    "description": "Compile and package Angular libraries in Angular Package Format (APF)."
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@BrandonRobertsDev",
-    "description": "BrandonRobertsDev"
+    "name": "Procademy",
+    "url": "https://www.youtube.com/@procademy"
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@DecodedFrontend",
-    "description": "Decoded Frontend"
+    "name": "Monsterlessons Academy",
+    "url": "https://www.youtube.com/@MonsterlessonsAcademy"
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/@galaxies_dev",
-    "description": "Galaxies_dev"
+    "name": "Joshua Morony",
+    "url": "https://www.youtube.com/@JoshuaMorony"
+  },
+  {
+    "name": "Nihira Techiees",
+    "url": "https://www.youtube.com/@NihiraTechiees"
+  },
+  {
+    "name": "Angular University",
+    "url": "https://www.youtube.com/@AngularUniversity"
+  },
+  {
+    "name": "Rainer Hahnekamp",
+    "url": "https://www.youtube.com/@RainerHahnekamp"
+  },
+  {
+    "name": "Code Shots With Profanis",
+    "url": "https://www.youtube.com/@CodeShotsWithProfanis"
+  },
+  {
+    "name": "Deborah Kurata",
+    "url": "https://www.youtube.com/@deborah_kurata"
+  },
+  {
+    "name": "BrandonRobertsDev",
+    "url": "https://www.youtube.com/@BrandonRobertsDev"
+  },
+  {
+    "name": "Decoded Frontend",
+    "url": "https://www.youtube.com/@DecodedFrontend"
+  },
+  {
+    "name": "Galaxies_dev",
+    "url": "https://www.youtube.com/@galaxies_dev"
   },
   {
     "name": "Official Angular style guide",
@@ -745,6 +775,11 @@
     "url": "https://workshops.de/seminare-schulungen-kurse/angular-typescript/"
   },
   {
+    "name": "Simplified Courses",
+    "url": "https://www.simplified.courses/angular-training",
+    "description": "Angular Training by Expert Brecht Billiet!"
+  },
+  {
     "name": "Angular Start",
     "url": "https://angularstart.com/",
     "description": "Learn to build professional-grade Angular v17 applications using new features with modern best practices"
@@ -768,6 +803,11 @@
     "name": "Angular Academy",
     "url": "https://www.angularacademy.ca/",
     "description": "World-class instructor-led live online Angular courses!"
+  },
+  {
+    "name": "Simplified Courses",
+    "url": "https://www.simplified.courses/angular-training",
+    "description": "Angular Training by Expert Brecht Billiet!"
   },
   {
     "name": "GraphQL + Angular",
@@ -1824,6 +1864,31 @@
   {
     "name": "ng-generic-pipe",
     "url": "https://github.com/nigrosimone/ng-generic-pipe"
+  },
+  {
+    "name": "rxjs",
+    "url": "https://rxjs.dev/",
+    "description": "Reactive Extensions Library for JavaScript"
+  },
+  {
+    "name": "learn-rxjs",
+    "url": "https://github.com/btroncone/learn-rxjs",
+    "description": "Clear examples, explanations, and resources for RxJS"
+  },
+  {
+    "name": "rxjs-course",
+    "url": "https://github.com/angular-university/rxjs-course",
+    "description": "RxJs course from Angular University"
+  },
+  {
+    "name": "redux-observable",
+    "url": "https://github.com/redux-observable/redux-observable",
+    "description": "RxJS middleware for action side effects in Redux using \"Epics\"."
+  },
+  {
+    "name": "rxjs-challenge",
+    "url": "https://github.com/AngularWave/rxjs-challenge",
+    "description": "A set of little RxJS puzzles to practice your Observable skills."
   },
   {
     "name": "TypeScript",

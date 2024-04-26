@@ -180,8 +180,8 @@
     "description": "Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP."
   },
   {
-    "name": "junnplus/nvim-lsp-setup",
-    "url": "https://github.com/Junnplus/nvim-lsp-setup",
+    "name": "junnplus/lsp-setup.nvim",
+    "url": "https://github.com/junnplus/lsp-setup.nvim",
     "description": "A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers."
   },
   {
@@ -605,8 +605,8 @@
     "description": "Utils to work with YAML files."
   },
   {
-    "name": "NTBBloodbath/rest.nvim",
-    "url": "https://github.com/NTBBloodbath/rest.nvim",
+    "name": "rest-nvim/rest.nvim",
+    "url": "https://github.com/rest-nvim/rest.nvim",
     "description": "A fast Neovim HTTP client written in Lua."
   },
   {
@@ -685,8 +685,8 @@
     "description": "Simplify creating and following markdown links."
   },
   {
-    "name": "NFrid/markdown-togglecheck",
-    "url": "https://github.com/NFrid/markdown-togglecheck",
+    "name": "nfrid/markdown-togglecheck",
+    "url": "https://github.com/nfrid/markdown-togglecheck",
     "description": "Simple Neovim plugin for toggling check boxes using Treesitter."
   },
   {
@@ -975,8 +975,8 @@
     "description": "Multiple replacements through interactive UI."
   },
   {
-    "name": "windwp/nvim-spectre",
-    "url": "https://github.com/windwp/nvim-spectre",
+    "name": "nvim-pack/nvim-spectre",
+    "url": "https://github.com/nvim-pack/nvim-spectre",
     "description": "Search and replace panel."
   },
   {
@@ -1065,8 +1065,8 @@
     "description": "Telescope plugin for better rg flags in live_grep."
   },
   {
-    "name": "kyazdani42/nvim-tree.lua",
-    "url": "https://github.com/kyazdani42/nvim-tree.lua",
+    "name": "nvim-tree/nvim-tree.lua",
+    "url": "https://github.com/nvim-tree/nvim-tree.lua",
     "description": "A simple and fast file explorer tree."
   },
   {
@@ -1205,8 +1205,8 @@
     "description": "Manage workspace directories."
   },
   {
-    "name": "gnikdroy/projections.nvim",
-    "url": "https://github.com/gnikdroy/projections.nvim",
+    "name": "GnikDroy/projections.nvim",
+    "url": "https://github.com/GnikDroy/projections.nvim",
     "description": "Tiny project + session manager."
   },
   {
@@ -1245,8 +1245,8 @@
     "description": "An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline."
   },
   {
-    "name": "xiyaowong/nvim-transparent",
-    "url": "https://github.com/xiyaowong/nvim-transparent",
+    "name": "xiyaowong/transparent.nvim",
+    "url": "https://github.com/xiyaowong/transparent.nvim",
     "description": "Make your Neovim transparent."
   },
   {
@@ -1315,8 +1315,8 @@
     "description": "The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users."
   },
   {
-    "name": "shaeinst/roshnivim-cs",
-    "url": "https://github.com/shaeinst/roshnivim-cs",
+    "name": "Abstract-IDE/Abstract-cs",
+    "url": "https://github.com/Abstract-IDE/Abstract-cs",
     "description": "Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support."
   },
   {
@@ -1365,8 +1365,8 @@
     "description": "A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins."
   },
   {
-    "name": "crispybaccoon/evergarden",
-    "url": "https://github.com/crispybaccoon/evergarden",
+    "name": "comfysage/evergarden",
+    "url": "https://github.com/comfysage/evergarden",
     "description": "A comfy Neovim colorscheme for cozy morning coding."
   },
   {
@@ -1475,8 +1475,8 @@
     "description": "Warm colorscheme written in Lua with support for various terminal emulators."
   },
   {
-    "name": "RRethy/nvim-base16",
-    "url": "https://github.com/RRethy/nvim-base16",
+    "name": "RRethy/base16-nvim",
+    "url": "https://github.com/RRethy/base16-nvim",
     "description": "Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups."
   },
   {
@@ -1560,8 +1560,8 @@
     "description": "Dracula colorscheme for neovim written in Lua."
   },
   {
-    "name": "yashguptaz/calvera-dark.nvim",
-    "url": "https://github.com/yashguptaz/calvera-dark.nvim",
+    "name": "niyabits/calvera-dark.nvim",
+    "url": "https://github.com/niyabits/calvera-dark.nvim",
     "description": "A port of VSCode Calvara Dark Theme to Neovim with Tree-sitter and many other plugins support."
   },
   {
@@ -1620,8 +1620,8 @@
     "description": "A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time."
   },
   {
-    "name": "Everblush/everblush.nvim",
-    "url": "https://github.com/Everblush/everblush.nvim",
+    "name": "Everblush/nvim",
+    "url": "https://github.com/Everblush/nvim",
     "description": "A dark, vibrant and beautiful colorscheme written in Lua."
   },
   {
@@ -1716,7 +1716,7 @@
   },
   {
     "name": "Yazeed1s/minimal.nvim",
-    "url": "https://github.com/yazeed1s/minimal.nvim",
+    "url": "https://github.com/Yazeed1s/minimal.nvim",
     "description": "Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro."
   },
   {
@@ -1735,8 +1735,8 @@
     "description": "Neovim port of poimandres VSCode theme with Tree-sitter support, written in Lua."
   },
   {
-    "name": "kvrohit/mellow.nvim",
-    "url": "https://github.com/kvrohit/mellow.nvim",
+    "name": "mellow-theme/mellow.nvim",
+    "url": "https://github.com/mellow-theme/mellow.nvim",
     "description": "A soothing dark color scheme with tree-sitter support."
   },
   {
@@ -1746,7 +1746,7 @@
   },
   {
     "name": "Yazeed1s/oh-lucy.nvim",
-    "url": "https://github.com/yazeed1s/oh-lucy.nvim",
+    "url": "https://github.com/Yazeed1s/oh-lucy.nvim",
     "description": "Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode."
   },
   {
@@ -1760,8 +1760,8 @@
     "description": "Neon Genesis Evangelion but for Vimmers."
   },
   {
-    "name": "maxmx03/FluoroMachine.nvim",
-    "url": "https://github.com/maxmx03/FluoroMachine.nvim",
+    "name": "maxmx03/fluoromachine.nvim",
+    "url": "https://github.com/maxmx03/fluoromachine.nvim",
     "description": "Synthwave x Fluoromachine port."
   },
   {
@@ -1775,8 +1775,8 @@
     "description": "Theming using pywal, with a Base16 twist."
   },
   {
-    "name": "sekke276/dark_flat.nvim",
-    "url": "https://github.com/sekke276/dark_flat.nvim",
+    "name": "uncleTen276/dark_flat.nvim",
+    "url": "https://github.com/uncleTen276/dark_flat.nvim",
     "description": "A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support."
   },
   {
@@ -1875,6 +1875,11 @@
     "description": "A dark and earthy colorscheme supporting Tree-sitter and LSP."
   },
   {
+    "name": "uloco/bluloco.nvim",
+    "url": "https://github.com/uloco/bluloco.nvim",
+    "description": "A dark and earthy colorscheme supporting Tree-sitter and LSP."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -1931,7 +1936,7 @@
   },
   {
     "name": "ThemerCorp/themer.lua",
-    "url": "https://github.com/themercorp/themer.lua",
+    "url": "https://github.com/ThemerCorp/themer.lua",
     "description": "A simple highlighter plugin for neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty)."
   },
   {
@@ -2080,8 +2085,8 @@
     "description": "Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile."
   },
   {
-    "name": "zeioth/heirline-components.nvim",
-    "url": "https://github.com/zeioth/heirline-components.nvim",
+    "name": "Zeioth/heirline-components.nvim",
+    "url": "https://github.com/Zeioth/heirline-components.nvim",
     "description": "30+ Heirline.nvim components you can use out of the box to create your perfect user interface."
   },
   {
@@ -2245,8 +2250,8 @@
     "description": "The start screen that gets you to your projects blazingly fast."
   },
   {
-    "name": "kyazdani42/nvim-web-devicons",
-    "url": "https://github.com/kyazdani42/nvim-web-devicons",
+    "name": "nvim-tree/nvim-web-devicons",
+    "url": "https://github.com/nvim-tree/nvim-web-devicons",
     "description": "A Lua fork of vim-devicons."
   },
   {
@@ -2270,8 +2275,8 @@
     "description": "A cross platform terminal image viewer. Works on macOS and Linux."
   },
   {
-    "name": "hakonharnes/img-clip.nvim",
-    "url": "https://github.com/hakonharnes/img-clip.nvim",
+    "name": "HakonHarnes/img-clip.nvim",
+    "url": "https://github.com/HakonHarnes/img-clip.nvim",
     "description": "Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst."
   },
   {
@@ -2370,8 +2375,8 @@
     "description": "Orgmode clone written in Lua (Neovim >= 0.5)."
   },
   {
-    "name": "NFrid/due.nvim",
-    "url": "https://github.com/NFrid/due.nvim",
+    "name": "nfrid/due.nvim",
+    "url": "https://github.com/nfrid/due.nvim",
     "description": "Displays due for a date string as a virtual text."
   },
   {
@@ -2390,8 +2395,8 @@
     "description": "A Neovim (lua) plugin for working with a text-based, markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim."
   },
   {
-    "name": "mickael-menu/zk-nvim",
-    "url": "https://github.com/mickael-menu/zk-nvim",
+    "name": "zk-org/zk-nvim",
+    "url": "https://github.com/zk-org/zk-nvim",
     "description": "Neovim extension for zk, a plain text note-taking assistant."
   },
   {
@@ -2415,13 +2420,13 @@
     "description": "Manage your bibliography from within your favourite editor."
   },
   {
-    "name": "ostralyan/scribe.nvim",
-    "url": "https://github.com/ostralyan/scribe.nvim",
+    "name": "Ostralyan/scribe.nvim",
+    "url": "https://github.com/Ostralyan/scribe.nvim",
     "description": "Take notes, easily."
   },
   {
-    "name": "phaazon/mind.nvim",
-    "url": "https://github.com/phaazon/mind.nvim",
+    "name": "hadronized/mind.nvim",
+    "url": "https://github.com/hadronized/mind.nvim",
     "description": "The power of trees at your fingertips."
   },
   {
@@ -2965,8 +2970,8 @@
     "description": "A UI for nvim-dap."
   },
   {
-    "name": "Pocco81/DAPInstall.nvim",
-    "url": "https://github.com/Pocco81/DAPInstall.nvim",
+    "name": "pocco81/dap-buddy.nvim",
+    "url": "https://github.com/pocco81/dap-buddy.nvim",
     "description": "Manage several debuggers for nvim-dap."
   },
   {
@@ -3038,6 +3043,11 @@
     "name": "OscarCreator/rsync.nvim",
     "url": "https://github.com/OscarCreator/rsync.nvim",
     "description": "Automatically sync up/down project to a remote with rsync."
+  },
+  {
+    "name": "sachinsenal0x64/hot.nvim",
+    "url": "https://github.com/sachinsenal0x64/hot.nvim",
+    "description": "A hot reloader that works with any programming language."
   },
   {
     "name": "David-Kunz/jester",
@@ -3115,8 +3125,8 @@
     "description": "Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies."
   },
   {
-    "name": "hkupty/iron.nvim",
-    "url": "https://github.com/hkupty/iron.nvim",
+    "name": "Vigemus/iron.nvim",
+    "url": "https://github.com/Vigemus/iron.nvim",
     "description": "Interactive REPLs of over 30 languages embedded."
   },
   {
@@ -3270,8 +3280,8 @@
     "description": "Create animations."
   },
   {
-    "name": "NFrid/treesitter-utils",
-    "url": "https://github.com/NFrid/treesitter-utils",
+    "name": "nfrid/treesitter-utils",
+    "url": "https://github.com/nfrid/treesitter-utils",
     "description": "Some useful Treesitter methods."
   },
   {
@@ -3681,7 +3691,7 @@
   },
   {
     "name": "nkakouros-original/scrollofffraction.nvim",
-    "url": "https://github.com/nkakouros/scrollofffraction.nvim",
+    "url": "https://github.com/nkakouros-original/scrollofffraction.nvim",
     "description": "Scrolloff as a fraction of the window height."
   },
   {
@@ -3765,18 +3775,18 @@
     "description": "Does the opposite of join-line (J) for arguments, powered by Tree-sitter."
   },
   {
-    "name": "Pocco81/TrueZen.nvim",
-    "url": "https://github.com/Pocco81/TrueZen.nvim",
+    "name": "pocco81/true-zen.nvim",
+    "url": "https://github.com/pocco81/true-zen.nvim",
     "description": "Clean and elegant distraction-free writing."
   },
   {
-    "name": "Pocco81/HighStr.nvim",
-    "url": "https://github.com/Pocco81/HighStr.nvim",
+    "name": "pocco81/high-str.nvim",
+    "url": "https://github.com/pocco81/high-str.nvim",
     "description": "Highlight visual selections like in a normal document editor!"
   },
   {
-    "name": "Pocco81/AutoSave.nvim",
-    "url": "https://github.com/Pocco81/AutoSave.nvim",
+    "name": "pocco81/auto-save.nvim",
+    "url": "https://github.com/pocco81/auto-save.nvim",
     "description": "Save your work before the world collapses or you type :qa!"
   },
   {
@@ -3795,8 +3805,8 @@
     "description": "Distraction-free coding."
   },
   {
-    "name": "haringsrob/nvim_context_vt",
-    "url": "https://github.com/haringsrob/nvim_context_vt",
+    "name": "andersevenrud/nvim_context_vt",
+    "url": "https://github.com/andersevenrud/nvim_context_vt",
     "description": "Shows virtual text of the current context."
   },
   {
@@ -4000,8 +4010,8 @@
     "description": "A substitute of vim's :substitute that uses Lua patterns instead of vim regex. Supports incremental preview."
   },
   {
-    "name": "ckolkey/ts-node-action",
-    "url": "https://github.com/ckolkey/ts-node-action",
+    "name": "CKolkey/ts-node-action",
+    "url": "https://github.com/CKolkey/ts-node-action",
     "description": "A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text."
   },
   {
@@ -4340,8 +4350,8 @@
     "description": "Rearrange your windows with ease."
   },
   {
-    "name": "beauwilliams/focus.nvim",
-    "url": "https://github.com/beauwilliams/focus.nvim",
+    "name": "nvim-focus/focus.nvim",
+    "url": "https://github.com/nvim-focus/focus.nvim",
     "description": "Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids."
   },
   {
@@ -4380,8 +4390,8 @@
     "description": "Smart, seamless, directional navigation and resizing of splits."
   },
   {
-    "name": "altermo/nxwm",
-    "url": "https://github.com/altermo/nxwm",
+    "name": "altermo/nwm",
+    "url": "https://github.com/altermo/nwm",
     "description": "X11 window manager."
   },
   {
