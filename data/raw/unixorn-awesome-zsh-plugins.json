@@ -7542,6 +7542,11 @@
     "description": "Minimalistic theme, that supports really, really, long branch names, without severely truncating the prompt. The theme is inspired by the jonathan theme and the robby russel theme. Includes decorators for current directory, git information and the exit status of the last command run."
   },
   {
+    "name": "greenclean",
+    "url": "https://github.com/dmicha16/greenclean",
+    "description": "Fork of akz92/clean with a bit more green and permanent clock on the right."
+  },
+  {
     "name": "griffin",
     "url": "https://github.com/GriffinLedingham/griffin.zsh-theme",
     "description": "Minimalist, includes git status decorations."
