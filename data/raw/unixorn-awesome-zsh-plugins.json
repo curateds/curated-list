@@ -761,6 +761,11 @@
     "description": "Automatically switches to the node version specified in a given directory."
   },
   {
+    "name": "auto-venv",
+    "url": "https://github.com/Skylor-Tang/auto-venv",
+    "description": "Automatically activates the Python virtual environment in the current directory or its parent directories."
+  },
+  {
     "name": "autocomplete",
     "url": "https://github.com/marlonrichert/zsh-autocomplete",
     "description": "Automatically lists completions as you type and provides intuitive keybindings for selecting and inserting them."
@@ -3392,7 +3397,7 @@
   {
     "name": "portal",
     "url": "https://github.com/anasouardini/portal/",
-    "description": "A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using fzf."
+    "description": "A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using fzf. Heavily inspired by Z."
   },
   {
     "name": "posh-git-bash",
@@ -3403,6 +3408,11 @@
     "name": "ppsmon",
     "url": "https://github.com/mzpqnxow/ppsmon",
     "description": "Reads /sys/class/net/$interface/ to keep track of packet transmission rates. It stores the current rate to a file in the RAM backed filesystem where it can be easily accessed for display in a shell-prompt. Linux-only due to use of /sys."
+  },
+  {
+    "name": "pwp",
+    "url": "https://github.com/ttkalcevic/pwp",
+    "description": "Provides a convenient way to display the present working path in the terminal prompt and lists the current working directory along with its parent directories. Additionally, it includes a custom command .. to navigate to parent directories easily."
   },
   {
     "name": "pr-cwd",
@@ -3610,14 +3620,19 @@
     "description": "Displays random quotes or facts."
   },
   {
+    "name": "ranger (niziL)",
+    "url": "https://github.com/NiziL/ranger.plugin.zsh",
+    "description": "provide prompt element for ranger. Shows current RANGER_LEVEL, displaying nothing when the environment variable is unset, something when it is equals to 1, and something else when it is greater than 1."
+  },
+  {
+    "name": "ranger (rc2dev)",
+    "url": "https://github.com/rc2dev/ranger-zshz",
+    "description": "Integrates zsh-z into ranger."
+  },
+  {
     "name": "ranger-autojump",
     "url": "https://github.com/fdw/ranger-autojump",
     "description": "Adds autojump support to the ranger console file manager."
-  },
-  {
-    "name": "ranger",
-    "url": "https://github.com/rc2dev/ranger-zshz",
-    "description": "Integrates zsh-z into ranger."
   },
   {
     "name": "raspberryPi4Temperature",
@@ -4407,6 +4422,11 @@
     "name": "venv-wrapper",
     "url": "https://github.com/glostis/venv-wrapper",
     "description": "Provides ZSH functions to ease the management of your virtual environments using venv."
+  },
+  {
+    "name": "venv",
+    "url": "https://github.com/lucasheartcliff/venv",
+    "description": "Run 'source venv/bin/activate' automatically every time there's a path venv/bin/activate file in the directory."
   },
   {
     "name": "vi-increment",
@@ -5489,6 +5509,10 @@
     "description": "Completions for keybase."
   },
   {
+    "name": "kind",
+    "url": "https://github.com/TomerFi/zsh-kind"
+  },
+  {
     "name": "kitty",
     "url": "https://github.com/redxtech/zsh-kitty",
     "description": "Completions for kitty terminal emulator."
@@ -5627,6 +5651,11 @@
     "name": "nx",
     "url": "https://github.com/jscutlery/nx-completion",
     "description": "Completions for nx. Requires jq."
+  },
+  {
+    "name": "oh-my-update",
+    "url": "https://github.com/utox39/oh-my-update",
+    "description": "Updates plugins in oh-my-zsh."
   },
   {
     "name": "okta",

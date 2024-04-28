@@ -90,6 +90,11 @@
     "description": "A showcase of web apps built with Angular."
   },
   {
+    "name": "angular.love",
+    "url": "https://angular.love/",
+    "description": "Polish community for Angular fans"
+  },
+  {
     "name": "Minko Gechev",
     "url": "https://twitter.com/mgechev"
   },
@@ -342,12 +347,8 @@
     "url": "https://twitter.com/laforge_toma"
   },
   {
-    "name": "@codewith_ahsan",
+    "name": "codewith_ahsan",
     "url": "https://twitter.com/codewith_ahsan"
-  },
-  {
-    "name": "{{ add_expert }}",
-    "url": "https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md"
   },
   {
     "name": "angular",
@@ -378,6 +379,11 @@
     "name": "justangular",
     "url": "https://justangular.com/",
     "description": "Shares the newest and most important updates about Angular, along with useful tips and tricks."
+  },
+  {
+    "name": "angular.love",
+    "url": "https://angular.love/",
+    "description": "(Polish) Excellent up-to-date resource for Angular"
   },
   {
     "name": "Netanel Basal",
@@ -435,6 +441,11 @@
     "description": "A command line tool to prerender Angular Apps."
   },
   {
+    "name": "analogjs",
+    "url": "https://analogjs.org/",
+    "description": "Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications."
+  },
+  {
     "name": "Official Angular Material Design (GitHub)",
     "url": "https://github.com/angular/material2"
   },
@@ -448,32 +459,24 @@
     "url": "https://angular.io/guide/cheatsheet"
   },
   {
-    "name": "Dart API Cheatsheet",
-    "url": "https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3"
-  },
-  {
-    "name": "Angular Dart cheatsheet",
-    "url": "https://github.com/andresaraujo/angular2_cheatsheet_dart"
-  },
-  {
-    "name": "Angular Performance Checklist",
-    "url": "https://github.com/mgechev/angular-performance-checklist"
-  },
-  {
     "name": "List of 100 Angular Interview questions and answers",
     "url": "https://github.com/sudheerj/angular-interview-questions"
-  },
-  {
-    "name": "Angular References",
-    "url": "https://ngrefs.com"
   },
   {
     "name": "Angular Developer Roadmap",
     "url": "https://roadmap.sh/angular"
   },
   {
-    "name": "Angular Cheetsheet",
+    "name": "Interviewbit Angular Cheatsheet",
     "url": "https://www.interviewbit.com/angular-cheat-sheet/"
+  },
+  {
+    "name": "Angular Checklist",
+    "url": "https://github.com/typebytes/angular-checklist"
+  },
+  {
+    "name": "ZeroToMastery Angular Cheatsheet",
+    "url": "https://zerotomastery.io/cheatsheets/angular-cheat-sheet/"
   },
   {
     "name": "Testing Angular – A Guide to Robust Angular Applications",
@@ -1459,7 +1462,7 @@
   {
     "name": "angular2-promise-buttons",
     "url": "https://github.com/johannesjo/angular2-promise-buttons",
-    "description": "Loading buttons for Angular 2 by @johannesjo"
+    "description": "Loading buttons for Angular 2 by @johannesjo."
   },
   {
     "name": "ngx-progressbar",
@@ -1477,29 +1480,34 @@
     "description": "Lazy load Angular component into HTML template without routing."
   },
   {
+    "name": "ngx-loading-bar",
+    "url": "https://github.com/aitboudad/ngx-loading-bar",
+    "description": "Automatic page loading / progress bar for Angular."
+  },
+  {
     "name": "angular-cesium",
     "url": "https://github.com/TGFTech/angular-cesium",
-    "description": "Creating map based web apps using Cesium and Angular"
+    "description": "Creating map based web apps using Cesium and Angular."
   },
   {
     "name": "ngx-mapbox-gl",
     "url": "https://github.com/Wykks/ngx-mapbox-gl",
-    "description": "Angular binding of mapbox-gl-js"
+    "description": "Angular binding of mapbox-gl-js."
   },
   {
     "name": "ng-maps",
     "url": "https://github.com/ng-maps/ng-maps",
-    "description": "Modular map components for angular"
+    "description": "Modular map components for angular."
   },
   {
     "name": "ngx-leaflet",
     "url": "https://github.com/bluehalo/ngx-leaflet",
-    "description": "Core Leaflet package for Angular.io"
+    "description": "Core Leaflet package for Angular.io."
   },
   {
     "name": "ngx-maplibre-gl",
     "url": "https://github.com/maplibre/ngx-maplibre-gl",
-    "description": "Angular binding of maplibre-gl"
+    "description": "Angular binding of maplibre-gl."
   },
   {
     "name": "@angular/google-maps",
@@ -1514,7 +1522,7 @@
   {
     "name": "ngx-toastr",
     "url": "https://github.com/scttcper/ngx-toastr",
-    "description": "Notifications/Toastr"
+    "description": "Notifications/Toastr."
   },
   {
     "name": "hot-toast",
@@ -1544,12 +1552,12 @@
   {
     "name": "angular2-jwt",
     "url": "https://github.com/auth0/angular2-jwt",
-    "description": "Library for sending authenticated HTTP requests and decoding JWTs"
+    "description": "Library for sending authenticated HTTP requests and decoding JWTs."
   },
   {
     "name": "universal-model-angular",
     "url": "https://github.com/universal-model/universal-model-angular",
-    "description": "Store and state management for Angular"
+    "description": "Store and state management for Angular."
   },
   {
     "name": "ng-http-caching",
@@ -1559,7 +1567,7 @@
   {
     "name": "akita",
     "url": "https://github.com/salesforce/akita",
-    "description": "A Reactive State Management Tailored-Made for JS Applications"
+    "description": "A Reactive State Management Tailored-Made for JS Applications."
   },
   {
     "name": "ng-simple-state",
@@ -1579,7 +1587,7 @@
   {
     "name": "ngrx",
     "url": "https://github.com/ngrx/platform",
-    "description": "Reactive State for Angular"
+    "description": "Reactive State for Angular."
   },
   {
     "name": "rx-angular",
@@ -1599,12 +1607,12 @@
   {
     "name": "state-adapt",
     "url": "https://github.com/state-adapt/state-adapt",
-    "description": "Declarative, incremental state management library"
+    "description": "Declarative, incremental state management library."
   },
   {
     "name": "ngx-signal-state",
     "url": "https://github.com/simplifiedcourses/ngx-signal-state",
-    "description": "Opinionated simple state management for Angular"
+    "description": "Opinionated simple state management for Angular."
   },
   {
     "name": "mini-rx-store",
@@ -1644,7 +1652,7 @@
   {
     "name": "Dev Extreme",
     "url": "https://js.devexpress.com/Overview/Angular/",
-    "description": "Feature-Complete 65+ Angular Component Suite"
+    "description": "Feature-Complete 65+ Angular Component Suite."
   },
   {
     "name": "Syncfusion",
@@ -1654,7 +1662,7 @@
   {
     "name": "Nebular",
     "url": "https://github.com/akveo/nebular",
-    "description": "Customizable Angular UI Library based on Eva Design System"
+    "description": "Customizable Angular UI Library based on Eva Design System."
   },
   {
     "name": "NG ZORRO MOBILE",
@@ -1674,22 +1682,22 @@
   {
     "name": "prime-ng",
     "url": "https://github.com/primefaces/primeng",
-    "description": "The Most Complete Angular UI Component Library"
+    "description": "The Most Complete Angular UI Component Library."
   },
   {
     "name": "Wijmo 5",
     "url": "http://wijmo.com/products/wijmo-5/",
-    "description": "Set of UI components for Angular2"
+    "description": "Set of UI components for Angular2."
   },
   {
     "name": "Taiga UI",
     "url": "https://taiga-ui.dev/",
-    "description": "powerful set of open source components for Angular!"
+    "description": "Powerful set of open source components for Angular!"
   },
   {
     "name": "AgnosUI",
     "url": "https://amadeusitgroup.github.io/AgnosUI/latest/",
-    "description": "Highly configurable headless framework agnostic component library"
+    "description": "Highly configurable headless framework agnostic component library."
   },
   {
     "name": "@angular-material-extensions/contacts",
@@ -1868,12 +1876,12 @@
   {
     "name": "rxjs",
     "url": "https://rxjs.dev/",
-    "description": "Reactive Extensions Library for JavaScript"
+    "description": "Reactive Extensions Library for JavaScript."
   },
   {
     "name": "learn-rxjs",
     "url": "https://github.com/btroncone/learn-rxjs",
-    "description": "Clear examples, explanations, and resources for RxJS"
+    "description": "Clear examples, explanations, and resources for RxJS."
   },
   {
     "name": "rxjs-course",
@@ -1892,19 +1900,23 @@
   },
   {
     "name": "TypeScript",
-    "url": "https://www.typescriptlang.org/"
+    "url": "https://www.typescriptlang.org/",
+    "description": "Official Website for TypeScript."
   },
   {
     "name": "REPL",
-    "url": "https://www.typescriptlang.org/play/"
+    "url": "https://www.typescriptlang.org/play/",
+    "description": "Official TypeScript REPL that runs entirely in your browser."
   },
   {
     "name": "TypeScript Repository (GitHub)",
-    "url": "https://github.com/Microsoft/TypeScript"
+    "url": "https://github.com/Microsoft/TypeScript",
+    "description": "Official GitHub Repo for TypeScript."
   },
   {
     "name": "DefinitelyTyped Repository (GitHub)",
-    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions."
   },
   {
     "name": "typehero",
@@ -1924,7 +1936,7 @@
   {
     "name": "Sheriff",
     "url": "https://github.com/softarc-consulting/sheriff",
-    "description": "Lightweight Modularity for TypeScript Projects"
+    "description": "Lightweight Modularity for TypeScript Projects."
   },
   {
     "name": "Total Typescript Book",
@@ -1934,7 +1946,7 @@
   {
     "name": "ts-essentials",
     "url": "https://github.com/ts-essentials/ts-essentials",
-    "description": "All essential TypeScript types in one place"
+    "description": "All essential TypeScript types in one place."
   },
   {
     "name": "trpc",
@@ -1954,7 +1966,7 @@
   {
     "name": "ngx-mf",
     "url": "https://github.com/iamguid/ngx-mf",
-    "description": "Bind your model types to angular FormGroup type"
+    "description": "Bind your model types to angular FormGroup type."
   },
   {
     "name": "superstruct",
@@ -1974,12 +1986,12 @@
   {
     "name": "Ionic Framework",
     "url": "https://ionicframework.com",
-    "description": "Official Website for Ionic Framework"
+    "description": "Official Website for Ionic Framework."
   },
   {
     "name": "(Github) Ionic Framework",
     "url": "https://github.com/ionic-team/ionic-framework",
-    "description": "Github Repo of Ionic Framework"
+    "description": "Github Repo of Ionic Framework."
   },
   {
     "name": "Ionic Academy",
@@ -1999,7 +2011,7 @@
   {
     "name": "Ionic Start",
     "url": "https://ionicstart.com/",
-    "description": "Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular"
+    "description": "Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular."
   },
   {
     "name": "Angular.io Security Guide",
@@ -2029,52 +2041,52 @@
   {
     "name": "casl-angular",
     "url": "https://github.com/stalniy/casl/tree/master/packages/casl-angular",
-    "description": "Module which integrates isomorphic  permissions management library CASL with Angular2+"
+    "description": "Module which integrates isomorphic  permissions management library CASL with Angular2+."
   },
   {
     "name": "ngx-auth-firebaseui",
     "url": "https://github.com/AnthonyNahas/ngx-auth-firebaseui",
-    "description": "Angular Material UI component for firebase authentication"
+    "description": "Angular Material UI component for firebase authentication."
   },
   {
     "name": "ngx-permissions",
     "url": "https://github.com/AlexKhymenko/ngx-permissions",
-    "description": "Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)"
+    "description": "Permission and roles based access control for your angular applications(AOT, lazy modules compatible)."
   },
   {
     "name": "angular-auth-oidc-client",
     "url": "https://github.com/damienbod/angular-auth-oidc-client",
-    "description": "npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow"
+    "description": "npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow."
   },
   {
     "name": "angularx-social-login",
     "url": "https://github.com/abacritt/angularx-social-login",
-    "description": "Social login and authentication module for Angular 17"
+    "description": "Social login and authentication module for Angular 17."
   },
   {
     "name": "ms-identity-javascript-angular-tutorial",
     "url": "https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial",
-    "description": "A chapterwise tutorial that will take you through the fundamentals of modern authentication with Microsoft identity platform using MSAL Angular v2."
+    "description": "A chapterwise tutorial that will take you through the fundamentals of modern authentication with Microsoft identity platform using MSAL Angular."
   },
   {
     "name": "angular2-jwt",
     "url": "https://github.com/auth0/angular2-jwt",
-    "description": "Helper library for handling JWTs in Angular apps"
+    "description": "Helper library for handling JWTs in Angular apps."
   },
   {
     "name": "auth0-angular",
     "url": "https://github.com/auth0/auth0-angular",
-    "description": "Auth0 SDK for Angular Single Page Applications"
+    "description": "Auth0 SDK for Angular Single Page Applications."
   },
   {
     "name": "ng-universal",
     "url": "https://github.com/nestjs/ng-universal",
-    "description": "Angular Universal module for Nest framework (node.js)"
+    "description": "Angular Universal module for Nest framework (Node.js)."
   },
   {
     "name": "angularfire",
     "url": "https://github.com/angular/angularfire",
-    "description": "Angular + Firebase"
+    "description": "Angular + Firebase."
   },
   {
     "name": "supabase",
@@ -2094,17 +2106,17 @@
   {
     "name": "ngrx",
     "url": "https://ngrx.io/",
-    "description": "Reactive State for Angular"
+    "description": "Reactive State for Angular."
   },
   {
     "name": "ngrx-course",
     "url": "https://github.com/angular-university/ngrx-course",
-    "description": "Angular University Complete Guide"
+    "description": "Angular University Complete Guide."
   },
   {
     "name": "ngrx-store-localstorage",
     "url": "https://github.com/btroncone/ngrx-store-localstorage",
-    "description": "Simple syncing between @ngrx store and local storage"
+    "description": "Simple syncing between @ngrx store and local storage."
   },
   {
     "name": "Tim Deschryver Blog",

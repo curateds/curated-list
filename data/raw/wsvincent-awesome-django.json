@@ -80,6 +80,11 @@
     "description": "Generic drag-and-drop ordering for objects in the Django admin interface."
   },
   {
+    "name": "django-unfold",
+    "url": "https://github.com/unfoldadmin/django-unfold",
+    "description": "Modern Django admin theme for seamless interface development"
+  },
+  {
     "name": "django-rest-framework",
     "url": "https://github.com/encode/django-rest-framework",
     "description": "Web APIs for Django."
@@ -195,6 +200,11 @@
     "description": "Django application to simplify migration management and changes in states of db scheme."
   },
   {
+    "name": "django-migration-zero",
+    "url": "https://github.com/ambient-innovation/django-migration-zero/",
+    "description": "Holistic implementation of \"migration zero\" pattern for Django covering local changes and in-production database adjustments."
+  },
+  {
     "name": "django-typer",
     "url": "https://github.com/bckohan/django-typer",
     "description": "Write Django management commands using the Typer CLI library."
@@ -243,6 +253,11 @@
     "name": "django-classy-settings",
     "url": "https://github.com/funkybob/django-classy-settings",
     "description": "Class based settings to keep your environments in order, with easy access to typed environment variables."
+  },
+  {
+    "name": "django-content-settings",
+    "url": "https://django-content-settings.readthedocs.io/en/latest/",
+    "description": "easily create and manage editable typed variables directly from the Django admin panel."
   },
   {
     "name": "wagtail",
@@ -503,6 +518,11 @@
     "name": "django-mixin",
     "url": "https://github.com/adinhodovic/django-mixin",
     "description": "Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django."
+  },
+  {
+    "name": "django-pony-express",
+    "url": "https://github.com/edoburu/django-any-urlfield",
+    "description": "Class-based emails including a test suite for Django."
   },
   {
     "name": "django-any-urlfield",

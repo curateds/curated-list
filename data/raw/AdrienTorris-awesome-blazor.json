@@ -84,11 +84,6 @@
     "description": ".NET 6 planning process."
   },
   {
-    "name": "30 seconds of Blazor",
-    "url": "https://www.30secondsofblazor.net/",
-    "description": "Collection of useful snippets, inspired by the popular 30 seconds of JavaScript and React."
-  },
-  {
     "name": "BitPlatform Templates",
     "url": "https://github.com/bitfoundation/bitplatform",
     "description": "- Solution templates using .Net MAUI and Blazor with out-of-the-box best practices enabling fast and high-quality cross-platform development for web, android, iOS, and Windows with native beautiful Blazor components. The projects created by these templates contain everything required for developing real-world applications, including (but not limited to) CI/CD pipelines, Infra as Code for Azure, localization, multi-mode development (Blazor Server/WASM/Hybrid), builtin bullet proof exception handling, etc. Read more."
@@ -226,11 +221,6 @@
     "name": "Blazor + Electron",
     "url": "https://aka.ms/blazorelectron",
     "description": "Host Razor Components inside an Electron shell. This allows for modern, high-performance cross-platform desktop apps built with .NET and web technologies."
-  },
-  {
-    "name": "Blazor + WebWindow",
-    "url": "https://aka.ms/webwindow",
-    "description": "WebWindow is like Electron, but without bundling Node.js or Chromium, and without most of the APIs. WebWindow source code. Blazor + WebWindow sample here."
   },
   {
     "name": "Photino",
@@ -757,6 +747,11 @@
     "description": "DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component."
   },
   {
+    "name": "EfCoreNexus",
+    "url": "https://github.com/thliborius/EfCoreNexus",
+    "description": "EfCoreNexus helps integrating the entity framework core into your blazor app. Via reflection it adds your entitiy classes automatically and provides you with basic crud functionality."
+  },
+  {
     "name": "Grid.Blazor",
     "url": "https://github.com/gustavnavar/Grid.Blazor",
     "description": "Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others (Demo)."
@@ -1274,9 +1269,34 @@
     "description": "Try .NET provides developers and content authors with tools to create interactive experiences."
   },
   {
+    "name": "ASP.NET Community Standup: Fluent UI Blazor",
+    "url": "https://www.youtube.com/watch?v=1fveBAi6Q7I&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3",
+    "description": "April 23, 2024 - The Fluent UI Blazor library provides a set of Blazor components which are used to build applications that have a Fluent design (i.e. have the look and feel or modern Microsoft applications). Join Vincent and Denis to learn the fundamentals and building blocks of the library and demonstrate how to quickly incorporate it into your Blazor projects. Learn the basics of setting up the environment, use the interactive components, and change the styling of your application with Fluent UI design tokens."
+  },
+  {
+    "name": "Understand the Next Phase of Web Development",
+    "url": "https://www.youtube.com/watch?v=p9taQkF24Fs",
+    "description": "April 23, 2024 - Talk by Steve Sanderson at the NDC London 2024. It’s 2024, and the web continues to dominate the software landscape. Innovation proceeds in all directions, with new frameworks, build systems, and architectural patterns emerging at pace. But where are we all heading? Is there a pattern? What’s the next big phase? In this demo-centric talk we’ll look at the common trends across web frameworks: disruptive new features that are showing up across technologies and changing how web apps are built. We’ll dig into live code examples in Next.js (React), SvelteKit, Blazor, Astro, and more. We’ll see how these and others are setting a similar path for the next phase of web technology – and how you could implement the same features yourself without any framework. Finally, we’ll catch up on the state of WebAssembly and try out WASI preview 2 – the upcoming reinvention of WASI. Will it achieve the dream of seamless interop across all languages, operating systems, and CPU architectures? Will it become the standard for server-side cloud programming? Let’s build something with it."
+  },
+  {
+    "name": "ASP.NET Community Standup: Blazor Hybrid + Web in .NET 9",
+    "url": "https://www.youtube.com/watch?v=hrXAkNsjaoI&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=9",
+    "description": "April 9, 2024 - Learn how improvements coming to .NET 9 will make it easier to integrate Blazor Web and Blazor Hybrid."
+  },
+  {
+    "name": "ASP.NET Community Standup - Modern Blazor Auth with OIDC",
+    "url": "https://www.youtube.com/watch?v=PPX-yEXfnPM&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t",
+    "description": "Modern Blazor Auth with OIDC -  February 13, 2024 - See how to connect a Blazor app to Microsoft Entra using OIDC and the BFF pattern."
+  },
+  {
+    "name": ".NET Data Community Standup - Database concurrency and EF Core: ASP.NET and Blazor - Episode 2",
+    "url": "https://www.youtube.com/watch?v=xVyYrtetDeA&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t",
+    "description": "Database concurrency and EF Core: ASP.NET and Blazor - Episode 2 - January 24, 2024 - In the last episode, we dug deep into the underpinnings of optimistic concurrency handling in EF Core. In this episode, we continue that journey to cover disconnected scenarios. That is, where the entity travels to a client and then back to the server before being updated in the database. We’ll look at the different patterns for doing updates like this in ASP.NET Core and Blazor apps and see how concurrency tokens work with each of these. We’ll also look at how ExecuteUpdate can be used with concurrency tokens, and take a look at ETag concurrency in Azure Cosmos DB."
+  },
+  {
     "name": "ASP.NET Community Standup - Blazor Experiments + eShop Q&A",
     "url": "https://www.youtube.com/watch?v=fkDSaIti_KU",
-    "description": "Blazor Experiments + eShop Q&A - December 12, 2023 - In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App. Community links."
+    "description": "Blazor Experiments + eShop Q&A -  December 12, 2023 - In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App. Community links."
   },
   {
     "name": ".NET Conf: Integrating Blazor with existing .NET web apps",
