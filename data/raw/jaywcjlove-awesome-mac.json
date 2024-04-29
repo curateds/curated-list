@@ -2599,6 +2599,11 @@
     "description": "Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen."
   },
   {
+    "name": "Aiko",
+    "url": "https://sindresorhus.com/aiko",
+    "description": "High-quality on-device transcription."
+  },
+  {
     "name": "Ardour",
     "url": "https://ardour.org/",
     "description": "Cross-platform audio software for multi-track recording and editing."
@@ -4278,6 +4283,11 @@
     "name": "Grayscale Mode",
     "url": "https://github.com/rkbhochalya/grayscale-mode",
     "description": "An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G)."
+  },
+  {
+    "name": "Hyperduck",
+    "url": "https://sindresorhus.com/hyperduck",
+    "description": "Receive links from your iOS & visionOS devices."
   },
   {
     "name": "KeyCastr",
