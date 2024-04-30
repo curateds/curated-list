@@ -435,9 +435,19 @@
     "description": "Vectorized board game environments for RL with an AlphaZero example."
   },
   {
+    "name": "EasyDeL",
+    "url": "https://github.com/erfanzar/EasyDeL",
+    "description": "EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX"
+  },
+  {
     "name": "XLB",
     "url": "https://github.com/Autodesk/XLB",
     "description": "A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning."
+  },
+  {
+    "name": "dynamiqs",
+    "url": "https://github.com/dynamiqs/dynamiqs",
+    "description": "High-performance and differentiable simulations of quantum systems with JAX."
   },
   {
     "name": "Fourier Feature Networks",

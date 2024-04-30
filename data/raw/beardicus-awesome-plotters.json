@@ -55,6 +55,10 @@
     "description": "A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board."
   },
   {
+    "name": "NextDraw",
+    "url": "https://store.bantamtools.com/collections/bantam-tools-nextdraw"
+  },
+  {
     "name": "grblShield",
     "url": "https://github.com/synthetos/grblShield",
     "description": "All the stepper motor control hardware needed to turn an Arduino into a G-code-based motion controller using the grbl firmware. (adafruit)"
@@ -672,6 +676,14 @@
     "url": "https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html"
   },
   {
+    "name": "Buildlog.net Atari 1020 Plotter Retrofit",
+    "url": "https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/"
+  },
+  {
+    "name": "Texas Instruments HX-1000 Plotter Photos",
+    "url": "http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html"
+  },
+  {
     "name": "Apple Color Plotter User's Manual",
     "url": "https://archive.org/details/AppleColorPlotter"
   },
@@ -682,6 +694,10 @@
   {
     "name": "Atari 1020 Color Printer Field Service Manual (1983)",
     "url": "https://archive.org/details/atari1020colorprinterfieldservicemanualrev.011983atari"
+  },
+  {
+    "name": "CalComp Artisan Plus 1023/1025/1026 User's Guide (1990)",
+    "url": "https://archive.org/details/calcomp-artisan-plus-1023-1025-1026-users-guide"
   },
   {
     "name": "Programming CalComp Pen Plotters (1968)",
@@ -728,6 +744,10 @@
     "url": "https://www.manualslib.com/manual/464167/Gerber-Signmaker-Ivb.html"
   },
   {
+    "name": "Graphtec Pen Plotter MP303 Series Service Manual (2004)",
+    "url": "https://archive.org/details/manualzilla-id-5807113"
+  },
+  {
     "name": "Houston Instrument DMP-160 Plotter Operation Manual",
     "url": "https://archive.org/details/houston-instrument-dmp-160-series-plotters-operation-manual"
   },
@@ -752,6 +772,10 @@
     "url": "https://archive.org/details/hi-stand-assembly-procedure-dmp-50-series-plotter"
   },
   {
+    "name": "Houston Instrument DMP-60 Series Plotters Operation Manual (1990)",
+    "url": "https://archive.org/details/houston-instruments-dmp-60-manual"
+  },
+  {
     "name": "HP 7470A Interconnection Guide",
     "url": "https://archive.org/details/manualzilla-id-7029812"
   },
@@ -768,6 +792,10 @@
     "url": "https://archive.org/details/7570adraftproplotterhardwaresupportmanual0757090000201pagesdec86"
   },
   {
+    "name": "HP 7580B Drafting Plotter Service Manual (1986)",
+    "url": "https://archive.org/details/hp-7580-b-plotter-service-manual"
+  },
+  {
     "name": "HP 7585B Drafting Plotter Service Manual (1983)",
     "url": "https://archive.org/details/bitsavers_hpplotter0_18190273"
   },
@@ -780,8 +808,16 @@
     "url": "https://archive.org/details/draftproprogrammersreference0757090001387pagessep86"
   },
   {
+    "name": "Mutoh ET202 Scriber (German)",
+    "url": "https://archive.org/details/mutoh-et202-leichtgemacht"
+  },
+  {
     "name": "Olivetti PL10 Microplotter User Guide (1983)",
     "url": "https://archive.org/details/olivettipl10microplotter"
+  },
+  {
+    "name": "Olivetti P6060 Programming Manual (1979) (Italian)",
+    "url": "https://archive.org/details/olivettip6060prestazionigrafiche"
   },
   {
     "name": "Philips X-Y Flat Bed Recorder PM 8120 (1971)",
@@ -840,12 +876,24 @@
     "url": "https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf"
   },
   {
+    "name": "Roland XY Plotter DXY-1350A DXY-1150A User's Manual (1997)",
+    "url": "https://archive.org/details/manualzilla-id-5691908"
+  },
+  {
     "name": "Rotring Tubular Plotter Points Practical Tips and Information",
     "url": "https://archive.org/details/rotingtubularplotterpointprakticaltipsandinformation"
   },
   {
     "name": "Rotring NC-scriber CS 50 Operating Instructions (1989)",
     "url": "https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions"
+  },
+  {
+    "name": "SEGA SP-400 Operation Manual",
+    "url": "https://archive.org/details/sega-sp-400"
+  },
+  {
+    "name": "Sekonic SPL-450+/SPL-455 User Manual (1990) (German)",
+    "url": "https://archive.org/details/sekonicspl450spl455"
   },
   {
     "name": "Siemens C1613 Plotter Manual (German)",
@@ -860,12 +908,20 @@
     "url": "https://pzwiki.wdka.nl/mediadesign/File:Taxan_kpl710_x-y_plotter.pdf"
   },
   {
+    "name": "Tectronix 4662 Interactive Digital Plotter User Manual (1976)",
+    "url": "https://archive.org/details/bitsavers_tektronix42InteractiveDigitalPlotterUserManualNov1_40423494"
+  },
+  {
     "name": "Tectronix HC100 Instruction Manual (1987)",
     "url": "https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/"
   },
   {
     "name": "Panasonic RK-P400C 4-Color Graphic Penwriter Manual",
     "url": "https://archive.org/details/panasonic-rk-p-400-c-manual"
+  },
+  {
+    "name": "Panasonic Penwriter Manual Excerpt: RS232 Protocol Section",
+    "url": "https://archive.org/details/panasonicpenwriterprotocol"
   },
   {
     "name": "[Unknown Brand] LP 2002 Photo Plotter Attachment Operating Manual (German)",
@@ -962,6 +1018,14 @@
   {
     "name": "Sweet-P Plotter Brochure and Price List",
     "url": "https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854"
+  },
+  {
+    "name": "IEEE Electronic Systems News Autumn (1985)",
+    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111"
+  },
+  {
+    "name": "Apple II Business Graphics Film (1982)",
+    "url": "https://archive.org/details/apple-ii-business-graphics"
   },
   {
     "name": "PlotterArt Subreddit",

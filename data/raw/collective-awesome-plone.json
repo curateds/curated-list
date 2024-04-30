@@ -325,6 +325,11 @@
     "description": "Graceful E-mail Obfuscation for Plone."
   },
   {
+    "name": "collective.contactformprotection",
+    "url": "https://github.com/collective/collective.contactformprotection",
+    "description": "Disables the default contact-info form or protect it with plone.formwidget.[h|re]captcha."
+  },
+  {
     "name": "bda.plone.gtm",
     "url": "https://github.com/bluedynamics/bda.plone.gtm",
     "description": "Google Tag Manager Integration."
