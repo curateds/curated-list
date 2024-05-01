@@ -607,6 +607,21 @@
     "description": "Next-gen browser and mobile automation test framework for Node.js"
   },
   {
+    "name": "cypress-harness",
+    "url": "https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness",
+    "description": "This library provides Cypress support to Component Test Harnesses."
+  },
+  {
+    "name": "swc-angular",
+    "url": "https://github.com/jscutlery/devkit/tree/main/packages/swc-angular",
+    "description": "This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest."
+  },
+  {
+    "name": "swc-angular-plugin",
+    "url": "https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin",
+    "description": "SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin."
+  },
+  {
     "name": "angular-tour-of-heroes-jest-100-coverage",
     "url": "https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage",
     "description": "100% unit testing coverage of the popular Angular demo app - Tour of Heroes."
@@ -1382,54 +1397,89 @@
     "description": "Angular7+ wrapper for flow.js for file upload"
   },
   {
-    "name": "@ctrl/ngx-emoji-mart",
-    "url": "https://github.com/TypeCtrl/ngx-emoji-mart",
-    "description": "Customizable Slack-like emoji picker for Angular"
-  },
-  {
-    "name": "angular-imask",
-    "url": "https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask",
-    "description": "Angular 4+ input mask"
-  },
-  {
-    "name": "angular2-multiselect-dropdown",
-    "url": "https://github.com/CuppaLabs/angular2-multiselect-dropdown",
-    "description": "Angular 2 multiselect dropdown component for web applications"
-  },
-  {
-    "name": "angular2-text-mask",
-    "url": "https://github.com/text-mask/text-mask",
-    "description": "Angular 2 input mask directive"
-  },
-  {
-    "name": "ng-select",
-    "url": "https://github.com/ng-select/ng-select",
-    "description": "All in One UI Select, Multiselect and Autocomplete"
+    "name": "ngx-emoji-mart",
+    "url": "https://github.com/scttcper/ngx-emoji-mart",
+    "description": "Customizable Slack-like emoji picker for Angular."
   },
   {
     "name": "ngx-color",
     "url": "https://github.com/scttcper/ngx-color",
-    "description": "🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more"
+    "description": "🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more."
   },
   {
-    "name": "ngx-flag-picker",
-    "url": "https://github.com/iamartyom/ngx-flag-picker",
-    "description": "😻 Customizable Angular component which containing a dropdown with country flags"
+    "name": "ngx-colors",
+    "url": "https://github.com/KroneCorylus/ngx-colors",
+    "description": "Simple yet elegant Material color picker for Angular."
+  },
+  {
+    "name": "ngx-color-picker",
+    "url": "https://github.com/zefoy/ngx-color-picker",
+    "description": "Color picker widget for the Angular."
+  },
+  {
+    "name": "angular-colorful",
+    "url": "https://github.com/ngx-eco/angular-colorful",
+    "description": "A tiny color picker component for modern Angular apps."
+  },
+  {
+    "name": "angular-imask",
+    "url": "https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask",
+    "description": "Angular input mask."
+  },
+  {
+    "name": "ngx-mask",
+    "url": "https://github.com/JsDaddy/ngx-mask",
+    "description": "Angular Plugin to make masks on form fields and html elements."
+  },
+  {
+    "name": "maskito",
+    "url": "https://github.com/taiga-family/maskito",
+    "description": "Collection of libraries to create an input mask which ensures that user types value according to predefined format."
+  },
+  {
+    "name": "angular2-multiselect-dropdown",
+    "url": "https://github.com/CuppaLabs/angular2-multiselect-dropdown",
+    "description": "Angular multiselect dropdown component for web applications."
+  },
+  {
+    "name": "ng-select",
+    "url": "https://github.com/ng-select/ng-select",
+    "description": "All in One UI Select, Multiselect and Autocomplete."
+  },
+  {
+    "name": "ngx-numeric-range-form-field",
+    "url": "https://github.com/dineeek/ngx-numeric-range-form-field",
+    "description": "Angular Material UI numeric range input form field. It is based on control value accessor."
+  },
+  {
+    "name": "file-input-accessor",
+    "url": "https://github.com/jwelker110/file-input-accessor",
+    "description": "Angular directive that provides file input functionality in Angular forms."
+  },
+  {
+    "name": "ngx-formcontrol-errors",
+    "url": "https://github.com/dgonzalez870/ngx-formcontrol-errors",
+    "description": "A directive for showing errors in Angular form controls."
+  },
+  {
+    "name": "error-tailor",
+    "url": "https://github.com/ngneat/error-tailor",
+    "description": "Making sure your tailor-made error solution is seamless!"
   },
   {
     "name": "ngx-formly",
     "url": "https://github.com/ngx-formly/ngx-formly",
-    "description": "JSON powered / Dynamic forms for Angular"
+    "description": "JSON powered / Dynamic forms for Angular."
   },
   {
     "name": "formio",
     "url": "https://github.com/formio/angular",
-    "description": "JSON powered forms for Angular"
+    "description": "JSON powered forms for Angular."
   },
   {
     "name": "ng-dynamic-forms",
     "url": "https://github.com/udos86/ng-dynamic-forms",
-    "description": "Rapid form development library for Angular"
+    "description": "Rapid form development library for Angular."
   },
   {
     "name": "angular2-fontawesome",
@@ -1910,15 +1960,33 @@
   },
   {
     "name": "ng-portal",
-    "url": "https://github.com/nigrosimone/ng-portal"
+    "url": "https://github.com/nigrosimone/ng-portal",
+    "description": "Component property connection in Angular application."
   },
   {
     "name": "ng-lock",
-    "url": "https://www.npmjs.com/package/ng-lock"
+    "url": "https://www.npmjs.com/package/ng-lock",
+    "description": "Angular decorator for lock a function and user interface while a task running."
   },
   {
     "name": "ng-generic-pipe",
-    "url": "https://github.com/nigrosimone/ng-generic-pipe"
+    "url": "https://github.com/nigrosimone/ng-generic-pipe",
+    "description": "Generic pipe for Angular application."
+  },
+  {
+    "name": "rx-computed",
+    "url": "https://github.com/jscutlery/devkit/tree/main/packages/rx-computed",
+    "description": "The async RxJS-based version of signals' computed()."
+  },
+  {
+    "name": "microwave",
+    "url": "https://github.com/jscutlery/devkit/tree/main/packages/microwave",
+    "description": "Optimize Angular change detection effortlessly."
+  },
+  {
+    "name": "convoyr",
+    "url": "https://github.com/jscutlery/convoyr",
+    "description": "Modular HTTP extensions for Angular."
   },
   {
     "name": "rxjs",
@@ -1944,6 +2012,11 @@
     "name": "rxjs-challenge",
     "url": "https://github.com/AngularWave/rxjs-challenge",
     "description": "A set of little RxJS puzzles to practice your Observable skills."
+  },
+  {
+    "name": "operators",
+    "url": "https://github.com/jscutlery/devkit/tree/main/packages/operators",
+    "description": "This package regroups a couple of RxJS operators meant to simplify some common patterns."
   },
   {
     "name": "TypeScript",
@@ -2174,6 +2247,21 @@
     "name": "angular-ngrx-nx-realworld-example-app",
     "url": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
     "description": "Real world application built with Angular 17, NgRx 17, nrwl/nx 17"
+  },
+  {
+    "name": "ngrx-toolkit",
+    "url": "https://github.com/angular-architects/ngrx-toolkit",
+    "description": "Various Extensions for the NgRx Signal Store"
+  },
+  {
+    "name": "ngrx-traits",
+    "url": "https://github.com/gabrielguerrero/ngrx-traits",
+    "description": "NGRX Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app."
+  },
+  {
+    "name": "ngrx-addons",
+    "url": "https://github.com/Michsior14/ngrx-addons",
+    "description": "A collection of @ngrx addons, including state persistence."
   },
   {
     "name": "aws amplify",

@@ -3185,6 +3185,11 @@
     "description": "Like dispatch.vim but using overseer.nvim."
   },
   {
+    "name": "speelbarrow/spLauncher.nvim",
+    "url": "https://github.com/speelbarrow/spLauncher.nvim",
+    "description": "For launching tasks, I guess."
+  },
+  {
     "name": "folke/neodev.nvim",
     "url": "https://github.com/folke/neodev.nvim",
     "description": "Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API."
@@ -3693,6 +3698,11 @@
     "name": "nkakouros-original/scrollofffraction.nvim",
     "url": "https://github.com/nkakouros-original/scrollofffraction.nvim",
     "description": "Scrolloff as a fraction of the window height."
+  },
+  {
+    "name": "niuiic/scroll.nvim",
+    "url": "https://github.com/niuiic/scroll.nvim",
+    "description": "Smooth scrolling, custom smooth strategy."
   },
   {
     "name": "Xuyuanp/scrollbar.nvim",

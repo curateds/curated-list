@@ -5109,6 +5109,11 @@
     "description": "A LR parser with better error correction"
   },
   {
+    "name": "tree-sitter/tree-sitter",
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "description": "A parser generator tool and an incremental parsing library geared towards programming tools"
+  },
+  {
     "name": "alvaroparker/libfprint-rs",
     "url": "https://github.com/alvaroparker/libfprint-rs",
     "description": "Libfprint-rs provides a wrapper around the Linux libfprint library."
