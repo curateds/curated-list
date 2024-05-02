@@ -730,6 +730,11 @@
     "description": "Easily insert and edit markdown tables with a live preview and useful helpers."
   },
   {
+    "name": "MeanderingProgrammer/markdown.nvim",
+    "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
+    "description": "Improve viewing markdown files directly."
+  },
+  {
     "name": "gbprod/phpactor.nvim",
     "url": "https://github.com/gbprod/phpactor.nvim",
     "description": "Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features."
@@ -3458,6 +3463,11 @@
     "name": "rawnly/gist.nvim",
     "url": "https://github.com/rawnly/gist.nvim",
     "description": "Create a GitHub Gist from the current file (powered by gh)."
+  },
+  {
+    "name": "tris203/precognition.nvim",
+    "url": "https://github.com/tris203/precognition.nvim",
+    "description": "Precognition uses virtual text and gutter signs to show available motions."
   },
   {
     "name": "smoka7/hop.nvim",

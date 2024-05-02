@@ -6,8 +6,8 @@
   },
   {
     "name": "Visual JSON",
-    "url": "https://apps.apple.com/us/app/visual-json/id488709442?mt=12",
-    "description": "simple JSON pretty-viewer for Mac OS X."
+    "url": "https://github.com/youknowone/VisualJSON",
+    "description": "simple JSON pretty-viewer for Mac OS X. (inactive)"
   },
   {
     "name": "JSONExport",
@@ -265,11 +265,6 @@
     "description": "World countries."
   },
   {
-    "name": "vat-rates",
-    "url": "http://jsonvat.com/",
-    "description": "VAT rates for all EU countries."
-  },
-  {
     "name": "MTG JSON",
     "url": "https://mtgjson.com/",
     "description": "Up to date Magic the Gathering card data."
@@ -426,7 +421,7 @@
   },
   {
     "name": "NDJSON",
-    "url": "https://ndjson.org/",
+    "url": "https://github.com/ndjson/ndjson-spec",
     "description": "a standard for delimiting JSON in stream protocols."
   },
   {
@@ -889,11 +884,6 @@
     "description": "Simple HTTP proxy that enables cross-domain requests to any JSON API."
   },
   {
-    "name": "Myjson",
-    "url": "http://myjson.com/",
-    "description": "A simple store for your web or mobile app."
-  },
-  {
     "name": "Telize",
     "url": "https://www.telize.com/",
     "description": "JSON IP and GeoIP REST API."
@@ -1114,7 +1104,7 @@
   },
   {
     "name": "deepjson",
-    "url": "http://deepjson.jacoborus.codes/",
+    "url": "https://www.npmjs.com/package/deepjson/",
     "description": "A better way to load big json config files. (node.js)"
   },
   {

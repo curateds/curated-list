@@ -466,6 +466,11 @@
     "description": "Streaming SQL database powered by Timely Dataflow 💲"
   },
   {
+    "name": "native_db",
+    "url": "https://github.com/vincent-herlemont/native_db",
+    "description": "Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly"
+  },
+  {
     "name": "Neon",
     "url": "https://github.com/neondatabase/neon"
   },
@@ -946,6 +951,11 @@
   {
     "name": "pier-cli/pier",
     "url": "https://github.com/pier-cli/pier"
+  },
+  {
+    "name": "ShadoySV/work-break",
+    "url": "https://github.com/ShadoySV/work-break",
+    "description": "Work and rest time balancer taking into account your current and today strain"
   },
   {
     "name": "yashs662/rust_kanban",

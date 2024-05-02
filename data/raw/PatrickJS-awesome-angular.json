@@ -95,6 +95,11 @@
     "description": "Polish community for Angular fans"
   },
   {
+    "name": "angular hub",
+    "url": "https://github.com/angular-sanctuary/angular-hub",
+    "description": "Curated list of Angular events and communities"
+  },
+  {
     "name": "angular addicts",
     "url": "https://www.angularaddicts.com/"
   },
@@ -1289,6 +1294,11 @@
     "description": "Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library."
   },
   {
+    "name": "dag",
+    "url": "https://github.com/ngneat/dag",
+    "description": "An Angular service for managing directed acyclic graphs."
+  },
+  {
     "name": "ng2-dragula",
     "url": "https://github.com/valor-software/ng2-dragula",
     "description": "Drag and Drop so simple it hurts!"
@@ -1482,6 +1492,11 @@
     "description": "Rapid form development library for Angular."
   },
   {
+    "name": "reactive-forms",
+    "url": "https://github.com/ngneat/reactive-forms",
+    "description": "(Angular Reactive) Forms with Benefits."
+  },
+  {
     "name": "angular2-fontawesome",
     "url": "https://github.com/travelist/angular2-fontawesome",
     "description": "Angular2 Components and Directives for FontAwesome."
@@ -1511,6 +1526,11 @@
     "description": "Angular component and service for inlining SVGs allowing them to be easily styled with CSS."
   },
   {
+    "name": "svg-icon",
+    "url": "https://github.com/ngneat/svg-icon",
+    "description": "A lightweight library that makes it easier to use SVG icons in your Angular Application."
+  },
+  {
     "name": "ngx-focus-control",
     "url": "https://github.com/Raiper34/ngx-focus-control",
     "description": "Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility"
@@ -1529,6 +1549,11 @@
     "name": "angular-touch-keyboard",
     "url": "https://github.com/mohsen77sk/angular-touch-keyboard",
     "description": "Virtual Keyboard for Angular applications."
+  },
+  {
+    "name": "hotkeys",
+    "url": "https://github.com/ngneat/hotkeys",
+    "description": "A declarative library for handling hotkeys in Angular applications."
   },
   {
     "name": "@robingenz/ngx-infinite-scroll",
@@ -1558,6 +1583,11 @@
     "description": "Lightweight, Material Design inspired button for scroll-to-top of the page. 🔼 No dependencies. Pure Angular! (Compatibility: Angular 9, Ivy, Universal, ng add)"
   },
   {
+    "name": "overview",
+    "url": "https://github.com/ngneat/overview",
+    "description": "A collection of tools to make your Angular views more modular, scalable, and maintainable."
+  },
+  {
     "name": "angular2-promise-buttons",
     "url": "https://github.com/johannesjo/angular2-promise-buttons",
     "description": "Loading buttons for Angular 2 by @johannesjo."
@@ -1581,6 +1611,11 @@
     "name": "ngx-loading-bar",
     "url": "https://github.com/aitboudad/ngx-loading-bar",
     "description": "Automatic page loading / progress bar for Angular."
+  },
+  {
+    "name": "content-loader",
+    "url": "https://github.com/ngneat/content-loader",
+    "description": "SVG component to create placeholder loading, like Facebook cards loading."
   },
   {
     "name": "angular-cesium",
@@ -1989,6 +2024,31 @@
     "description": "Modular HTTP extensions for Angular."
   },
   {
+    "name": "dialog",
+    "url": "https://github.com/ngneat/dialog",
+    "description": "A simple to use, highly customizable, and powerful modal."
+  },
+  {
+    "name": "edit-in-place",
+    "url": "https://github.com/ngneat/edit-in-place",
+    "description": "A flexible and unopinionated edit in place library."
+  },
+  {
+    "name": "falso",
+    "url": "https://github.com/ngneat/falso",
+    "description": "All the Fake Data for All Your Real Needs"
+  },
+  {
+    "name": "cashew",
+    "url": "https://github.com/ngneat/cashew",
+    "description": "A flexible and straightforward library that caches HTTP requests in Angular."
+  },
+  {
+    "name": "helipopper",
+    "url": "https://github.com/ngneat/helipopper",
+    "description": "A Powerful Tooltip and Popover for Angular Applications."
+  },
+  {
     "name": "rxjs",
     "url": "https://rxjs.dev/",
     "description": "Reactive Extensions Library for JavaScript."
@@ -2017,6 +2077,16 @@
     "name": "operators",
     "url": "https://github.com/jscutlery/devkit/tree/main/packages/operators",
     "description": "This package regroups a couple of RxJS operators meant to simplify some common patterns."
+  },
+  {
+    "name": "until-destroy",
+    "url": "https://github.com/ngneat/until-destroy",
+    "description": "RxJS operator that unsubscribe from observables on destroy."
+  },
+  {
+    "name": "effects",
+    "url": "https://github.com/ngneat/effects",
+    "description": "A framework-agnostic RxJS effects implementation."
   },
   {
     "name": "TypeScript",

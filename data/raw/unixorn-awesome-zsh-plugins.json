@@ -2071,7 +2071,12 @@
     "description": "Adds short aliases for the git-lfs commands."
   },
   {
-    "name": "git-plugin",
+    "name": "git-plugin (dark-kitt)",
+    "url": "https://github.com/dark-kitt/zsh-git-plugin",
+    "description": "git integration that displays the current directory and git branch."
+  },
+  {
+    "name": "git-plugin (rcruzper)",
     "url": "https://github.com/rcruzper/zsh-git-plugin",
     "description": "Adds some functions for git."
   },
@@ -3089,6 +3094,11 @@
     "name": "npms",
     "url": "https://github.com/torifat/npms",
     "description": "Utility powered by fzf for using npm scripts interactively. Requires fzf and jq."
+  },
+  {
+    "name": "nvim-appname",
+    "url": "https://github.com/mehalter/zsh-nvim-appname",
+    "description": "Maintain multiple Neovim configurations with NVIM_APPNAME with full tab completion of available flags, available neovim applications, and neovim arguments/flags. Requires neovim v0.9+"
   },
   {
     "name": "nvim-switcher",
@@ -6125,6 +6135,11 @@
     "name": "almel",
     "url": "https://github.com/Ryooooooga/almel",
     "description": "Inspired by agnoster, written in Rust. Includes git status, user@host, last command exit status and working directory decorations"
+  },
+  {
+    "name": "aloy",
+    "url": "https://github.com/karetsu/aloy",
+    "description": "Fork of @elenapan's lena ZSH theme. extended to give a little more information in it. It also includes the 'magic enter' from subnixr's minimal where hitting enter without any further commands prints out some useful ls, git and current working directory information."
   },
   {
     "name": "alp",
