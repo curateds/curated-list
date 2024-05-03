@@ -32,6 +32,11 @@
     "url": "https://github.com/doprz/dipc"
   },
   {
+    "name": "EasyTier",
+    "url": "https://github.com/KKRainbow/EasyTier",
+    "description": "A simple, full-featured and decentralized mesh VPN with WireGuard support."
+  },
+  {
     "name": "Factotum",
     "url": "https://github.com/snowplow/factotum"
   },
@@ -1944,6 +1949,11 @@
   {
     "name": "rust-lang-nursery/docker-rust",
     "url": "https://github.com/rust-lang/docker-rust"
+  },
+  {
+    "name": "Stavrospanakakis/is_ready",
+    "url": "https://github.com/Stavrospanakakis/is_ready",
+    "description": "Wait for multiple services to become available"
   },
   {
     "name": "emk/heroku-buildpack-rust",

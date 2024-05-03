@@ -889,6 +889,11 @@
     "description": "Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy."
   },
   {
+    "name": "open-appsec",
+    "url": "https://github.com/openappsec/openappsec",
+    "description": "open-appsec is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs."
+  },
+  {
     "name": "Spyse",
     "url": "https://spyse.com/",
     "description": "Spyse is an OSINT search engine that provides fresh data about the entire web. All the data is stored in its own DB for instant access and interconnected with each other for flexible search."
@@ -972,6 +977,11 @@
     "name": "CakeFuzzer",
     "url": "https://github.com/Zigrin-Security/CakeFuzzer",
     "description": "The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points."
+  },
+  {
+    "name": "Artemis",
+    "url": "https://github.com/CERT-Polska/Artemis/",
+    "description": "A modular vulnerability scanner with automatic report generation capabilities."
   },
   {
     "name": "Sqreen",
@@ -1386,6 +1396,11 @@
     "name": "Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities",
     "url": "https://www.nodejs-security.com/book/path-traversal",
     "description": "Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities."
+  },
+  {
+    "name": "Grokking Web Application Security",
+    "url": "https://www.manning.com/books/grokking-web-application-security",
+    "description": "A book about building web apps that are ready for and resilient to any attack."
   },
   {
     "name": "Android Security Awesome",

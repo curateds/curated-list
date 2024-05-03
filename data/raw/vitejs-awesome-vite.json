@@ -59,11 +59,6 @@
     "description": "Scaffolding your project choosing between different templates."
   },
   {
-    "name": "vite-vanilla-tailwind-v3",
-    "url": "https://github.com/huibizhang/template-vite-vanilla-tailwind-v3",
-    "description": "Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in."
-  },
-  {
     "name": "vite-vanilla-ts-lib-starter",
     "url": "https://github.com/kbysiec/vite-vanilla-ts-lib-starter",
     "description": "Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged."
@@ -77,11 +72,6 @@
     "name": "vite-tailwind-stimulus-starter",
     "url": "https://github.com/jeremyfrank/vite-tailwind-stimulus-starter",
     "description": "Starter template for Tailwind CSS and Stimulus controllers."
-  },
-  {
-    "name": "docker-vitejs-tailwind-handlebars",
-    "url": "https://github.com/dendrofen/docker-vitejs-tailwind-handlebars",
-    "description": "Starter template for TailwindCSS and Handlebars (Docker Compose)."
   },
   {
     "name": "vite-phaser-ts",
@@ -149,26 +139,6 @@
     "description": "Options-oriented crud framework, developing crud as fast as lightning."
   },
   {
-    "name": "vivu",
-    "url": "https://github.com/logustra/vivu",
-    "description": "Opinionated scalable vue boilerplate."
-  },
-  {
-    "name": "vite-tauri-template",
-    "url": "https://github.com/yooneskh/vite-tauri-template",
-    "description": "Tauri + Vite + Vue 3 + Vuetify 3 desktop app template."
-  },
-  {
-    "name": "vue-vite-h5",
-    "url": "https://github.com/LZHD/vue-vite-h5",
-    "description": "Use Vue3, TypeScript and Vant to develop mobile applications."
-  },
-  {
-    "name": "Vitesome",
-    "url": "https://github.com/alvarosaburido/vitesome",
-    "description": "Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify."
-  },
-  {
     "name": "vitesse-lite",
     "url": "https://github.com/antfu/vitesse-lite",
     "description": "Lightweight version of Vitesse."
@@ -179,79 +149,14 @@
     "description": "WebExtension Vite Starter Template."
   },
   {
-    "name": "vite-ts-vue3-todo",
-    "url": "https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup",
-    "description": "Vue3 + TS + Vue-Router4 + Pinia2 template."
-  },
-  {
     "name": "naive-ui-dashboard-template",
     "url": "https://github.com/Innei/naive-ui-dashboard-template",
     "description": "UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI."
   },
   {
-    "name": "vitailse",
-    "url": "https://github.com/zynth17/vitailse",
-    "description": "Like Vitesse but with Tailwind CSS."
-  },
-  {
-    "name": "vitespa",
-    "url": "https://github.com/ctholho/vitespa",
-    "description": "Vitesse-based SPA without SSG."
-  },
-  {
-    "name": "vite-quasar-starter",
-    "url": "https://github.com/fyeeme/vite-quasar",
-    "description": "Vite 2.x + Vue 3.x + quasar 2.x starter."
-  },
-  {
-    "name": "vue3-mobile-template",
-    "url": "https://github.com/parajs/vue3-mobile-template",
-    "description": "Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template."
-  },
-  {
-    "name": "vue3-template",
-    "url": "https://github.com/lecoueyl/vue3-template",
-    "description": "Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify."
-  },
-  {
-    "name": "Modern Vue",
-    "url": "https://github.com/byoungd/modern-vue-template",
-    "description": "Modern Vue stack 2022."
-  },
-  {
-    "name": "Vitecamp",
-    "url": "https://github.com/nekobc1998923/vitecamp",
-    "description": "Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing."
-  },
-  {
-    "name": "vite-vue3-typescript-webcomponent",
-    "url": "https://github.com/skysign/vite-vue3-typescript-webcomponent",
-    "description": "Vue 3 / Typescript / boiler plate to develop Web Component."
-  },
-  {
-    "name": "vite-vue-ts-storybook",
-    "url": "https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook",
-    "description": "Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier."
-  },
-  {
-    "name": "vite-vue-tailwind-v3",
-    "url": "https://github.com/huibizhang/template-vite-vue-tailwind-v3",
-    "description": "Starter template for Vue3 + TailwindCSS and prettier-plugin-tailwindcss build-in."
-  },
-  {
-    "name": "vite-vue-ts-tailwind-v3",
-    "url": "https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3",
-    "description": "Starter template for Vue3 + Typescript + TailwindCSS and prettier-plugin-tailwindcss build-in."
-  },
-  {
     "name": "Vitawind Creator",
     "url": "https://vitawind.vercel.app/scaffolding/creator/",
     "description": "Create TailwindCSS project rapidly."
-  },
-  {
-    "name": "vue3-ts-vite-vitest-todo",
-    "url": "https://github.com/hefengxian/vue3-ts-vite-vitest-todo",
-    "description": "Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX."
   },
   {
     "name": "vue3-tailwind3-website-starter",
@@ -274,26 +179,6 @@
     "description": "Admin template, based on Vue 3 + Element-plus."
   },
   {
-    "name": "vivu-npm",
-    "url": "https://github.com/logustra/vivu-npm",
-    "description": "Starter template to build component library."
-  },
-  {
-    "name": "vue3-pc-template",
-    "url": "https://github.com/parajs/vue3-pc-template",
-    "description": "Vite + ElementPlus + Vue3 + TS + Vue-Router4 + Vuex4 + Vue-use + Vue-i18n PC Template."
-  },
-  {
-    "name": "ViTauri",
-    "url": "https://github.com/NicolaSpadari/vitauri",
-    "description": "Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports."
-  },
-  {
-    "name": "vue-hbs-admin",
-    "url": "https://github.com/developer-plus/vue-hbs-admin",
-    "description": "Admin starter template based on Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Unocss + Ant-design-vue + Auto imports."
-  },
-  {
     "name": "vite-vue-proste",
     "url": "https://github.com/xyhxx/vite-vue-proste",
     "description": "Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + project presets."
@@ -309,29 +194,9 @@
     "description": "Vite5 + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template."
   },
   {
-    "name": "vue3-powerbuild",
-    "url": "https://github.com/UIC-Group/vue3-powerbuild",
-    "description": "Vue 3 + TypeScript + Tailwind CSS + Vite + Storybook + ESLint + Prettier."
-  },
-  {
-    "name": "vue-ts-starter",
-    "url": "https://github.com/yugasun/vue-ts-starter",
-    "description": "Vue3 + TypeScript + Vite + Pinia."
-  },
-  {
-    "name": "vitequality",
-    "url": "https://github.com/cstuncsik/vitequality",
-    "description": "Vue 3 + Typescript + Vue Router + Pinia + Eslint + Jest + Cypress."
-  },
-  {
     "name": "vue-vite-tw-ts",
     "url": "https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts",
     "description": "Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router."
-  },
-  {
-    "name": "vite-vue-box",
-    "url": "https://github.com/NelsonYong/vite-vue-box",
-    "description": "Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint."
   },
   {
     "name": "vite-vue-js-starter-template",
@@ -339,79 +204,14 @@
     "description": "Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template."
   },
   {
-    "name": "vite-vue3-bootstrap-ts-vitest-starter",
-    "url": "https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter",
-    "description": "Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest."
-  },
-  {
     "name": "vue-xs-admin",
     "url": "https://github.com/jsxiaosi/vue-xs-admin",
     "description": "Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter."
   },
   {
-    "name": "vue-component-template",
-    "url": "https://github.com/houtaroy/vue-component-template",
-    "description": "Vue 3, TSX, ESLint, Prettier."
-  },
-  {
-    "name": "ionic-vue-vite",
-    "url": "https://github.com/reslear/ionic-vue-vite",
-    "description": "Vue 3 + Vue Router + Vite + Ionic."
-  },
-  {
-    "name": "ionic-vue-pnpm-monorepo",
-    "url": "https://github.com/reslear/ionic-vue-pnpm-monorepo",
-    "description": "Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo."
-  },
-  {
-    "name": "ionic-vue-pnpm-express-monorepo",
-    "url": "https://github.com/reslear/ionic-vue-pnpm-express-monorepo",
-    "description": "Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo."
-  },
-  {
-    "name": "ionic-vue-capacitor",
-    "url": "https://github.com/reslear/ionic-vue-capacitor",
-    "description": "Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo."
-  },
-  {
-    "name": "ultimate-vite-ts-less-template",
-    "url": "https://github.com/alireza0sfr/vue3-vite-ts-base",
-    "description": "Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files."
-  },
-  {
-    "name": "vite-vue-h5-app",
-    "url": "https://github.com/l-x-f/vite-vue-h5-app",
-    "description": "Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications."
-  },
-  {
     "name": "vulcan",
     "url": "https://github.com/pengzhanbo/vulcan",
     "description": "The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest&Cypress, Pinia, APIs&Mock, ESLint, Prettier, auto-importing."
-  },
-  {
-    "name": "vite-plugin-ssr-vue3-ts-compositionAPI-i18n-fetchData",
-    "url": "https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3",
-    "description": "Vue3 + Typescript + CompositionAPI + i18n + fetchData."
-  },
-  {
-    "name": "vite-plugin-vue-sfc-in-js",
-    "url": "https://github.com/iosamuel/vite-plugin-vue-sfc-in-js",
-    "description": "Vue SFC syntax in JS files, allows to create multiple components in a single .js file."
-  },
-  {
-    "name": "vite-vue-lib-template",
-    "url": "https://github.com/ehsan-shv/vite-vue-lib-template",
-    "description": "Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript."
-  },
-  {
-    "name": "vite-plugin-style-vw-loader",
-    "url": "https://github.com/gitboyzcf/vite-plugin-style-vw-loader",
-    "description": "A loader that can convert the style px in the vue tag to vw."
-  },
-  {
-    "name": "vue3-ts-pinia-vant",
-    "url": "https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant",
-    "description": "Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project."
   },
   {
     "name": "antdv-pro",
@@ -449,14 +249,14 @@
     "description": "Auto bundle Vue/sfc styles into JavaScript."
   },
   {
+    "name": "celeris-web",
+    "url": "https://github.com/kirklin/celeris-web",
+    "description": "Template based on Vite + Vue3 + TypeScript + Vue-Router + Pinia + Unocss + Naive UI + pnpm Monorepo."
+  },
+  {
     "name": "vite-vue2-windicss-starter",
     "url": "https://github.com/lstoeferle/vite-vue2-windicss-starter",
     "description": "Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript."
-  },
-  {
-    "name": "vite-ts-vue2-todo",
-    "url": "https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts",
-    "description": "Vue2 + ts + Vue-Router3 + Pinia1 + Composition API."
   },
   {
     "name": "vite-vue2-ts-starter",
@@ -469,34 +269,14 @@
     "description": "It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates."
   },
   {
-    "name": "vite-vue2-ts-template-starter",
-    "url": "https://github.com/Luncode/vite-vue2-ts-template-starter",
-    "description": "Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template."
-  },
-  {
     "name": "vitify-admin",
     "url": "https://github.com/kingyue737/vitify-admin",
     "description": "Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components."
   },
   {
-    "name": "vite-vue2-js-starter-template",
-    "url": "https://github.com/ElanYoung/vite-vue2-js-starter-template",
-    "description": "Vite + Vue2 + JavaScript + Vue Router + Vuex + Axios + Less + ESLint + Stylelint + Prettier Simple Template."
-  },
-  {
     "name": "Vitamin",
     "url": "https://github.com/wtchnm/Vitamin",
     "description": "React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI."
-  },
-  {
-    "name": "vite-reactts-eslint-prettier",
-    "url": "https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier",
-    "description": "React, TypeScript, ESlint, Prettier, Pre-commit."
-  },
-  {
-    "name": "react-vite-admin",
-    "url": "https://github.com/ychengcloud/react-vite-admin",
-    "description": "React, Recoil, React Query, React Hooks, TypeScript, Axios."
   },
   {
     "name": "vite-template-react",
@@ -519,64 +299,9 @@
     "description": "React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier."
   },
   {
-    "name": "Tropical",
-    "url": "https://github.com/bensmithett/tropical",
-    "description": "React, Storybook, MDX, Fela, SSR prerendering, and islands architecture."
-  },
-  {
-    "name": "vite-reactts18-chakra-jest-husky",
-    "url": "https://github.com/The24thDS/vite-reactts18-chakra-jest-husky",
-    "description": "React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky."
-  },
-  {
-    "name": "react-ts-vite-template",
-    "url": "https://github.com/fabien-ml/react-ts-vite-template",
-    "description": "React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky."
-  },
-  {
-    "name": "vite-reactts-tailwind-rtk-eslint",
-    "url": "https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint",
-    "description": "React, TypeScript, Tailwind CSS, Redux Toolkit, eslint."
-  },
-  {
-    "name": "vite-react-tailwind-template",
-    "url": "https://github.com/Innei/vite-react-tailwind-template",
-    "description": "React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm."
-  },
-  {
-    "name": "stravital",
-    "url": "https://github.com/rizkimcitra/stravital",
-    "description": "TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS."
-  },
-  {
     "name": "vite-react-ts-tailwind-firebase-starter",
     "url": "https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter",
     "description": "Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint."
-  },
-  {
-    "name": "vite-react-ts-starter",
-    "url": "https://github.com/uchihamalolan/vite-react-ts",
-    "description": "React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits."
-  },
-  {
-    "name": "vital",
-    "url": "https://github.com/jvidalv/vital",
-    "description": "React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint."
-  },
-  {
-    "name": "vite-react-ts-ghactions-template",
-    "url": "https://github.com/pchmn/vite-react-ts-ghactions-template",
-    "description": "React, TypeScript, Vitest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint."
-  },
-  {
-    "name": "vite-react-tailwind-v3",
-    "url": "https://github.com/huibizhang/template-vite-react-tailwind-v3",
-    "description": "Starter template for React + TailwindCSS and prettier-plugin-tailwindcss build-in."
-  },
-  {
-    "name": "vite-react-ts-tailwind-v3",
-    "url": "https://github.com/huibizhang/template-vite-react-ts-tailwind-v3",
-    "description": "Starter template for React + Typescript + TailwindCSS and prettier-plugin-tailwindcss build-in."
   },
   {
     "name": "create-react-app-vite",
@@ -584,19 +309,9 @@
     "description": "React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions."
   },
   {
-    "name": "vite-react-starter",
-    "url": "https://github.com/fabgrel10/vite-react-starter",
-    "description": "React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library."
-  },
-  {
     "name": "chrome-extension-boilerplate-react-vite",
     "url": "https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite",
     "description": "React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3."
-  },
-  {
-    "name": "vite-ant-design-pro",
-    "url": "https://github.com/1247748612/vite-ant-design-pro",
-    "description": "React + antd + ProComponents + ReactQuery + ReactRouter6."
   },
   {
     "name": "vite-rtk-query",
@@ -614,19 +329,9 @@
     "description": "React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more."
   },
   {
-    "name": "vite-react-ts-minimal-template",
-    "url": "https://github.com/alessandropisu/vite-react-ts-minimal-template",
-    "description": "React + TypeScript + Airbnb ESLint + Prettier + Husky."
-  },
-  {
     "name": "react-vite-ssr",
     "url": "https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr",
     "description": "Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint."
-  },
-  {
-    "name": "Viact",
-    "url": "https://github.com/MR-Mostafa/Viact",
-    "description": "React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more."
   },
   {
     "name": "Viterts",
@@ -639,11 +344,6 @@
     "description": "React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting."
   },
   {
-    "name": "VRTTV",
-    "url": "https://github.com/Drumpy/vrttv-boilerplate",
-    "description": "React + TypeScript + TailwindCSS + ESLint + Prettier + Husky + Conventional Commits + Gitmoji + GitHub Actions + Vercel Deploy."
-  },
-  {
     "name": "React Starter Kit",
     "url": "https://github.com/kriasoft/react-starter-kit",
     "description": "Jamstack, React, React Router, Material UI, Firebase Auth, TypeScript, ESLint, Prettier, Jest, GitHub Actions."
@@ -652,11 +352,6 @@
     "name": "vite-mern-template",
     "url": "https://github.com/apicgg/vite-mern-template",
     "description": "React 18 + TypeScript + Vite + Redux Toolkit + ESLint + React Router DOM + Axios + React Icons + React Toastify + Express + Mongoose."
-  },
-  {
-    "name": "react-pipeline",
-    "url": "https://github.com/maifeeulasad/react-pipeline",
-    "description": "React 18 + TS + AntD + GitHub Pages + Tailwind + Sass + React Router DOM + ESLint."
   },
   {
     "name": "Varsarr",
@@ -679,16 +374,6 @@
     "description": "React18 + TypeScript + react-router-dom + Zustand + ESlint + Prettier + Stylelint + Husky + Docker, and APIs auto importing."
   },
   {
-    "name": "vite-reactts18-eslint-tailwindcss",
-    "url": "https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss",
-    "description": "React 18 + TypeScript + ESLint + TailwindCSS."
-  },
-  {
-    "name": "vite-plugin-react-views",
-    "url": "https://github.com/KAROTT7/vite-plugin-react-views",
-    "description": "Create routes automatically based on File System."
-  },
-  {
     "name": "react-vite-template",
     "url": "https://github.com/985563349/react-vite-template",
     "description": "A react project template."
@@ -704,19 +389,9 @@
     "description": "React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier."
   },
   {
-    "name": "leo-react-app",
-    "url": "https://github.com/Leo-Henrique/leo-react-app",
-    "description": "React + SASS | Template for React applications with SASS boilerplate for consistent interfaces."
-  },
-  {
     "name": "template-vite-react-ts-tailwind",
     "url": "https://github.com/RoyRao2333/template-vite-react-ts-tailwind",
     "description": "React + TypeScript + Tailwind CSS + Eslint + Prettier."
-  },
-  {
-    "name": "vite-react-ts-tailwind-template",
-    "url": "https://github.com/nrabhiram/vite-react-ts-tailwind-template",
-    "description": "React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules."
   },
   {
     "name": "vite-react-ts-template",
@@ -737,11 +412,6 @@
     "name": "vite-tinybase-ts-react",
     "url": "https://github.com/tinyplex/vite-tinybase-ts-react",
     "description": "Starter template for TinyBase, TypeScript, and React."
-  },
-  {
-    "name": "vite-react_best_practices-template",
-    "url": "https://github.com/CodelyTV/vite-react_best_practices-template",
-    "description": "Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting."
   },
   {
     "name": "vite-react-ssr-boost-template",
@@ -834,14 +504,14 @@
     "description": "Starter template with React, TypeScript, Framer Motion, Tailwind CSS, ESLint, and Prettier."
   },
   {
+    "name": "vite-jsx-remove-attributes",
+    "url": "https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes",
+    "description": "Remove the data-testid (configurable) from production builds."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
-  },
-  {
-    "name": "sttv",
-    "url": "https://github.com/srmullen/sttv",
-    "description": "Svelte, Tailwind CSS, TypeScript."
   },
   {
     "name": "svelte-vite-ssr",
@@ -857,11 +527,6 @@
     "name": "vite-svelte-flow-template",
     "url": "https://github.com/xyflow/vite-svelte-flow-template",
     "description": "Svelte Flow starter template."
-  },
-  {
-    "name": "vite-solid",
-    "url": "https://github.com/andreecy/vite-solid",
-    "description": "Vite + Solid starter template."
   },
   {
     "name": "vitesse-solid",
@@ -887,11 +552,6 @@
     "name": "electron-vite-boilerplate",
     "url": "https://github.com/electron-vite/electron-vite-boilerplate",
     "description": "Support SerialPort, SQLite3 and node C/C++ addons."
-  },
-  {
-    "name": "electron-vite-quick-start",
-    "url": "https://github.com/yingpengsha/electron-vite-quick-start",
-    "description": "Full stack uses Vite to run Electron application, including main process."
   },
   {
     "name": "electron-vite-template",
@@ -922,16 +582,6 @@
     "name": "vite-reactts-electron-starter",
     "url": "https://github.com/maxstue/vite-reactts-electron-starter",
     "description": "React, Tailwind CSS, TypeScript and Electron."
-  },
-  {
-    "name": "Vitectron",
-    "url": "https://github.com/hyroge/vitectron",
-    "description": "TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x."
-  },
-  {
-    "name": "vite-plugin-electron-renderer",
-    "url": "https://github.com/electron-vite/vite-plugin-electron-renderer",
-    "description": "Support use Node.js API in Electron-Renderer."
   },
   {
     "name": "electron-vue-template",
@@ -969,34 +619,9 @@
     "description": "Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI."
   },
   {
-    "name": "vite-elm-spa",
-    "url": "https://github.com/lindsaykwardell/vite-elm-spa",
-    "description": "An unopinionated template for building Elm single page applications."
-  },
-  {
-    "name": "vite-petite-vue-starter",
-    "url": "https://github.com/misitebao/vite-petite-vue-starter",
-    "description": "Starter template."
-  },
-  {
-    "name": "vite-vanjs-js",
-    "url": "https://github.com/yahia-berashish/vite-vanjs-js",
-    "description": "VanJS and VanX with vanilla JavaScript."
-  },
-  {
-    "name": "vite-vanjs-ts",
-    "url": "https://github.com/yahia-berashish/vite-vanjs-ts",
-    "description": "VanJS and VanX with TypeScript."
-  },
-  {
     "name": "github-action-template",
     "url": "https://github.com/hywax/github-action-template",
     "description": "Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits."
-  },
-  {
-    "name": "P5.js Starter Template",
-    "url": "https://github.com/makinteract/p5js-vite",
-    "description": "Templates for creating P5.js sketches."
   },
   {
     "name": "vit-singlefile-gzip",
@@ -1012,11 +637,6 @@
     "name": "chrome-ext-template-preact-windi-vite",
     "url": "https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite",
     "description": "Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3."
-  },
-  {
-    "name": "vite-vanilla-ts-knockout",
-    "url": "https://github.com/zeekrey/vite-vanilla-ts-knockout",
-    "description": "Starter template for Knockout.js, TypeScript."
   },
   {
     "name": "vite-vue3-chrome-extension-v3",
@@ -1047,11 +667,6 @@
     "name": "vite-plugin-cesium",
     "url": "https://github.com/nshen/vite-plugin-cesium",
     "description": "Integration with Cesium library."
-  },
-  {
-    "name": "vite-plugin-mpa",
-    "url": "https://github.com/IndexXuan/vite-plugin-mpa",
-    "description": "Out-of-box multi-page application (MPA) integration."
   },
   {
     "name": "vite-plugin-linter",
@@ -1094,11 +709,6 @@
     "description": "This is a plugin that automatically creates a type file when using the CSS module type-safely."
   },
   {
-    "name": "vite-plugin-simple-gql",
-    "url": "https://github.com/alansikora/vite-plugin-simple-gql",
-    "description": "Easily import .graphql and .gql files."
-  },
-  {
     "name": "vite-plugin-ali-oss",
     "url": "https://github.com/xiaweiss/vite-plugin-ali-oss",
     "description": "Upload the production files bundled in the project to Ali OSS, except for HTML."
@@ -1114,11 +724,6 @@
     "description": "Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files."
   },
   {
-    "name": "vite-plugin-resolve",
-    "url": "https://github.com/vite-plugin/vite-plugin-resolve",
-    "description": "Custom resolve module content."
-  },
-  {
     "name": "vite-plugin-electron",
     "url": "https://github.com/electron-vite/vite-plugin-electron",
     "description": "Integrate Vite and Electron."
@@ -1127,26 +732,6 @@
     "name": "vite-plugin-optimizer",
     "url": "https://github.com/vite-plugin/vite-plugin-optimizer",
     "description": "Manually Pre-Bundling."
-  },
-  {
-    "name": "vite-plugin-dynamic-import",
-    "url": "https://github.com/vite-plugin/vite-plugin-dynamic-import",
-    "description": "Enhance Vite builtin dynamic import."
-  },
-  {
-    "name": "vite-plugin-esmodule",
-    "url": "https://github.com/vite-plugin/vite-plugin-esmodule",
-    "description": "Build ES module to CommonJs module for Node.js."
-  },
-  {
-    "name": "vite-plugin-dynamic-import-module",
-    "url": "https://github.com/Dunqing/vite-plugin-dynamic-import-module",
-    "description": "Support for dynamic import module with variables."
-  },
-  {
-    "name": "vite-plugin-mp",
-    "url": "https://github.com/zhuweiyou/vite-plugin-mp",
-    "description": "Configure multi-pages applications and code splitting."
   },
   {
     "name": "vite-plugin-babel-compiler",
@@ -1162,11 +747,6 @@
     "name": "vite-plugin-mpa-plus",
     "url": "https://github.com/yzydeveloper/vite-plugin-mpa-plus",
     "description": "More flexible MPA (multi-page application) supports html templates, path rewriting."
-  },
-  {
-    "name": "vite-plugin-tencent-oss",
-    "url": "https://github.com/taosiqi/vite-plugin-tencent-oss",
-    "description": "Upload the production files bundled in the project to Tencent OSS, except for HTML."
   },
   {
     "name": "vite-plugin-multi-pages",
@@ -1194,44 +774,14 @@
     "description": "Resolves dependencies independently from CDN providers using import maps and es-module-shims."
   },
   {
-    "name": "vite-plugin-print-urls",
-    "url": "https://github.com/yzydeveloper/vite-plugin-print-urls",
-    "description": "Vite hmr and page reload will print server urls."
-  },
-  {
     "name": "vite-plugin-env-switch",
     "url": "https://github.com/PengBoUESTC/vite-plugin-env-switch",
     "description": "Switch project env and restart vite server without command line operation."
   },
   {
-    "name": "vite-plugin-msg-log",
-    "url": "https://github.com/PengBoUESTC/vite-plugin-msg-log",
-    "description": "Log the msg you want to confirm frequently (like env info) when HMR."
-  },
-  {
-    "name": "vite-plugin-bullet-msg",
-    "url": "https://github.com/PengBoUESTC/vite-plugin-bullet-msg",
-    "description": "Get the target strings in you source code and show them in browser(or handle them yourself)."
-  },
-  {
     "name": "vite-plugin-virtual-mpa",
     "url": "https://github.com/emosheeep/vite-plugin-virtual-mpa",
     "description": "Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template."
-  },
-  {
-    "name": "tailwindcss-vite-plugin",
-    "url": "https://github.com/await-ovo/tailwindcss-webpack-plugin",
-    "description": "Tailwind CSS integration."
-  },
-  {
-    "name": "vite-plugin-assemblyscript-asc",
-    "url": "https://github.com/krymel/vite-plugin-assemblyscript-asc",
-    "description": "AssemblyScript integration with full support for HMR, ESM import bindings, and source maps."
-  },
-  {
-    "name": "vite-plugin-qiniu-oss",
-    "url": "https://github.com/th-come/vite-plugin-qiniu-oss",
-    "description": "Upload the production files bundled in the project to qiniu OSS, except for HTML."
   },
   {
     "name": "vite-plugin-stylelint",
@@ -1247,21 +797,6 @@
     "name": "vite-plugin-graphql-server",
     "url": "https://github.com/mammadataei/vite-plugin-graphql-server",
     "description": "Bootstrap a local GraphQL server for testing and documentaion."
-  },
-  {
-    "name": "vite-plugin-multiple",
-    "url": "https://github.com/vite-plugin/vite-plugin-multiple",
-    "description": "Allow multiple Vite to run simultaneously."
-  },
-  {
-    "name": "vite-plugin-target",
-    "url": "https://github.com/vite-plugin/vite-plugin-target",
-    "description": "Electron, Node.js, etc."
-  },
-  {
-    "name": "vite-plugin-gitlab-flow",
-    "url": "https://github.com/taosiqi/vite-plugin-gitlab-flow",
-    "description": "View the deployment information for the code in the console."
   },
   {
     "name": "unplugin-fonts",
@@ -1289,21 +824,6 @@
     "description": "Pack your SVG files in one spritemap file and use them with <svg>/<img> and directly in your CSS."
   },
   {
-    "name": "vite-plugin-remix",
-    "url": "https://github.com/yracnet/vite-plugin-remix",
-    "description": "Seamless integration of the Remix/Remixjs framework."
-  },
-  {
-    "name": "vite-plugin-json-server",
-    "url": "https://github.com/yracnet/vite-plugin-json-server",
-    "description": "A seamless integration of JSON Server library."
-  },
-  {
-    "name": "vite-plugin-react-mpa",
-    "url": "https://github.com/dingff/vite-plugin-react-mpa",
-    "description": "An out-of-the-box MPA."
-  },
-  {
     "name": "vite-plugin-auto-mpa-html",
     "url": "https://github.com/iamspark1e/vite-plugin-auto-mpa-html",
     "description": "A file directory-based automated multi-page build plugin that supports HTML templates using EJS."
@@ -1322,11 +842,6 @@
     "name": "@builder.io/partytown",
     "url": "https://github.com/BuilderIO/partytown",
     "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker."
-  },
-  {
-    "name": "vite-plugin-meta-env",
-    "url": "https://github.com/wei-design/vite-plugin-meta-env",
-    "description": "Define dynamic env variables in import.meta.env."
   },
   {
     "name": "vite-plugin-dynamic-proxy",
@@ -1384,11 +899,6 @@
     "description": "Access thousands of icons as components."
   },
   {
-    "name": "vite-plugin-rsw",
-    "url": "https://github.com/lencx/vite-plugin-rsw",
-    "description": "Load rust-compiled (wasm-pack) WebAssembly packages."
-  },
-  {
     "name": "vite-imagetools",
     "url": "https://github.com/JonasKruckenberg/vite-imagetools",
     "description": "Load and transform images using url query parameters."
@@ -1397,26 +907,6 @@
     "name": "vite-plugin-radar",
     "url": "https://github.com/stafyniaksacha/vite-plugin-radar",
     "description": "All in one analytics loader (with 7+ providers supported)."
-  },
-  {
-    "name": "vite-plugin-monaco-editor",
-    "url": "https://github.com/vdesjs/vite-plugin-monaco-editor",
-    "description": "Monaco Editor integration."
-  },
-  {
-    "name": "vite-plugin-image-presets",
-    "url": "https://github.com/ElMassimo/vite-plugin-image-presets",
-    "description": "Define presets to automatically create and optimize responsive images."
-  },
-  {
-    "name": "vite-plugin-import-rewriter",
-    "url": "https://github.com/yuexiaoliang/vite-plugin-import-rewriter",
-    "description": "Rewriter the import based on conditions."
-  },
-  {
-    "name": "vite-plugin-xml-loader",
-    "url": "https://github.com/lorenzoc25/vite-plugin-xml-loader",
-    "description": "Loads xml file as JSON."
   },
   {
     "name": "vite-plugin-glsl",
@@ -1434,29 +924,9 @@
     "description": "Loads and transform markdown files using the unified ecosystem."
   },
   {
-    "name": "vite-plugin-gltf",
-    "url": "https://github.com/nytimes/rd-bundler-3d-plugins",
-    "description": "Load, transform, optimize, and compress glTF 3D files."
-  },
-  {
-    "name": "vite-plugin-importmap",
-    "url": "https://github.com/yuexiaoliang/vite-plugin-importmap",
-    "description": "I call this SASS at the code level."
-  },
-  {
-    "name": "vite-plugin-thumbhash",
-    "url": "https://github.com/cijiugechu/vite-plugin-thumbhash",
-    "description": "Load and transform images using ThumbHash."
-  },
-  {
     "name": "vite-plugin-php",
     "url": "https://github.com/donnikitos/vite-plugin-php",
     "description": "Load and process PHP-entry files instead of default index.html."
-  },
-  {
-    "name": "unplugin-vue-images",
-    "url": "https://github.com/vtrbo/unplugin-vue-images",
-    "description": "Use the image resource as a component."
   },
   {
     "name": "vite-plugin-lqip",
@@ -1477,16 +947,6 @@
     "name": "vite-awesome-svg-loader",
     "url": "https://github.com/matafokka/vite-awesome-svg-loader",
     "description": "Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites."
-  },
-  {
-    "name": "vite-plugin-importer",
-    "url": "https://github.com/ajuner/vite-plugin-importer",
-    "description": "Integration for babel-plugin-import."
-  },
-  {
-    "name": "vite-plugin-banner",
-    "url": "https://github.com/chengpeiquan/vite-plugin-banner",
-    "description": "Adds a banner to the top of each generated chunk."
   },
   {
     "name": "rollup-plugin-critical",
@@ -1514,26 +974,6 @@
     "description": "Copy files and folders."
   },
   {
-    "name": "vite-plugin-copy-files",
-    "url": "https://github.com/mistjs/vite-plugin-copy-files",
-    "description": "Move files to the location of the corresponding package directory."
-  },
-  {
-    "name": "vite-plugin-progress",
-    "url": "https://github.com/jeddygong/vite-plugin-progress",
-    "description": "Display with progress bar when building."
-  },
-  {
-    "name": "vite-plugin-importus",
-    "url": "https://github.com/Geocld/vite-plugin-importus",
-    "description": "Modularly import plugin, compatible with antd, lodash, material-ui and so on."
-  },
-  {
-    "name": "vite-plugin-build",
-    "url": "https://github.com/samonxian/vite-plugin-build",
-    "description": "Transform the whole folder in library mode."
-  },
-  {
     "name": "vite-plugin-zip-file",
     "url": "https://github.com/Ssis53/vite-plugin-zip",
     "description": "Compress files or folders into zip."
@@ -1547,11 +987,6 @@
     "name": "vite-plugin-cp",
     "url": "https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp",
     "description": "Copy files after building bundles."
-  },
-  {
-    "name": "unplugin-compression",
-    "url": "https://github.com/KeJunMao/unplugin-compression",
-    "description": "Compress dist to zip, tar, taz."
   },
   {
     "name": "unplugin-imagemin",
@@ -1569,19 +1004,9 @@
     "description": "Generate unbundled code for use with native ESM or other bundlers."
   },
   {
-    "name": "vite-plugin-clean",
-    "url": "https://github.com/z-ti/vite-plugin-clean",
-    "description": "Remove or Clean your build folder(s)."
-  },
-  {
     "name": "vite-plugin-css-injected-by-js",
     "url": "https://github.com/marco-prontera/vite-plugin-css-injected-by-js",
     "description": "Takes the CSS and adds it to the page through the JS."
-  },
-  {
-    "name": "vite-plugin-copy-dts",
-    "url": "https://github.com/biggerstar/vite-plugin-copy-dts",
-    "description": "Merge declare module and declare global to target d.ts."
   },
   {
     "name": "unplugin-zip-pack",
@@ -1644,29 +1069,9 @@
     "description": "Process HTML files with Handlebars."
   },
   {
-    "name": "vite-plugin-html-config",
-    "url": "https://github.com/ahwgs/vite-plugin-html-config",
-    "description": "HTML tag configuration, such as script link style meta favicon and more."
-  },
-  {
-    "name": "vite-plugin-html-template",
-    "url": "https://github.com/IndexXuan/vite-plugin-html-template",
-    "description": "HTML template, like html-webpack-plugin for Webpack."
-  },
-  {
     "name": "vite-plugin-virtual-html",
     "url": "https://github.com/Windson1806/vite-plugin-virtual-html",
     "description": "Make Vite MPA consistent with @vue/cli."
-  },
-  {
-    "name": "vite-plugin-require-context",
-    "url": "https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context",
-    "description": "Supports require.context."
-  },
-  {
-    "name": "vite-plugin-commonjs",
-    "url": "https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs",
-    "description": "Support CommonJS to ESM."
   },
   {
     "name": "vite-plugin-content",
@@ -1689,21 +1094,6 @@
     "description": "Share node_modules in monorepos."
   },
   {
-    "name": "vite-plugin-require-transform",
-    "url": "https://github.com/WarrenJones/vite-plugin-require-transform",
-    "description": "Converts the code from require syntax to import."
-  },
-  {
-    "name": "vite-plugin-twig",
-    "url": "https://github.com/fiadone/vite-plugin-twig",
-    "description": "Twig template engine support."
-  },
-  {
-    "name": "vite-plugin-stache",
-    "url": "https://github.com/pYr0x/vite-plugin-stache",
-    "description": "CanJS's template engine. Transforms stache files and template strings."
-  },
-  {
     "name": "vite-plugin-pug-transformer",
     "url": "https://github.com/TheSeally/vite-plugin-pug-transformer",
     "description": "Pug template engine support."
@@ -1714,34 +1104,9 @@
     "description": "Inject environment variables into the import.meta.env object after building the application instead of statically replacing it during production."
   },
   {
-    "name": "vite-plugin-load-css-module",
-    "url": "https://github.com/jsonz1993/vite-plugin-load-css-module",
-    "description": "Support custom regexp of css modules and use vite internal css plugin, not just .module.xxx."
-  },
-  {
-    "name": "vite-plugin-remain-exports",
-    "url": "https://github.com/coconilu/vite-plugin-remain-exports",
-    "description": "Remaining exports from the entry file that imported by html."
-  },
-  {
-    "name": "vite-plugin-unocss-to-uni",
-    "url": "https://github.com/zguolee/vite-plugin-unocss-to-uni",
-    "description": "UnoCSS in uni-app."
-  },
-  {
     "name": "@modyfi/vite-plugin-yaml",
     "url": "https://github.com/Modyfi/vite-plugin-yaml",
     "description": "Transform YAML files to ESM with schema validation and error reporting."
-  },
-  {
-    "name": "vite-plugin-head",
-    "url": "https://github.com/KesionX/vite-plugin-head",
-    "description": "Modify, add, delete Metadata in the head element."
-  },
-  {
-    "name": "vite-plugin-html-env",
-    "url": "https://github.com/lxs24sxl/vite-plugin-html-env",
-    "description": "Injection of environment variables in index.html."
   },
   {
     "name": "vite-plugin-html-inject",
@@ -1752,11 +1117,6 @@
     "name": "unplugin-inject-preload",
     "url": "https://github.com/Applelo/unplugin-inject-preload",
     "description": "Inject <link rel=\"preload\"> to your index.html based on your build assets."
-  },
-  {
-    "name": "vite-plugin-document",
-    "url": "https://github.com/JiangWeixian/vite-plugin-document",
-    "description": "Use Document.tsx as html template."
   },
   {
     "name": "@vituum/vite-plugin-handlebars",
@@ -1799,11 +1159,6 @@
     "description": "Juice support, transforms .css to inline styles in .html."
   },
   {
-    "name": "vite-plugin-setting-css-module",
-    "url": "https://github.com/ProgrameBoy/vite-plugin-setting-css-module",
-    "description": "Implementing CSS-Modules with vite modularity rules. Don't need create xxx.module.css."
-  },
-  {
     "name": "vite-plugin-version-mark",
     "url": "https://github.com/ZhongxuYang/vite-plugin-version-mark",
     "description": "Automatically use package version / git commit / custom to be inserted into your project as a unique identifier for the project version."
@@ -1817,16 +1172,6 @@
     "name": "vite-plugin-optimize-css-modules",
     "url": "https://github.com/Simonwep/vite-plugin-optimize-css-modules",
     "description": "Generate the smallest possible CSS-Classes when CSS-Modules are used."
-  },
-  {
-    "name": "Vite-plugin-haxe",
-    "url": "https://github.com/ciscoheat/vite-plugin-haxe",
-    "description": "Use Haxe when targeting JS, transforming .hxml."
-  },
-  {
-    "name": "vite-plugin-leader-line",
-    "url": "https://github.com/yehan68/vite-plugin-leader-line",
-    "description": "Add default export to leader-line."
   },
   {
     "name": "vite-plugin-generate-html",
@@ -1847,11 +1192,6 @@
     "name": "vite-plugin-typescript-transform",
     "url": "https://github.com/herberttn/vite-plugin-typescript-transform",
     "description": "Applies the TypeScript compiler during Vite's transform build phase."
-  },
-  {
-    "name": "vite-plugin-console-line",
-    "url": "https://github.com/lq9958/vite-plugin-console-line",
-    "description": "Add console.log() file location and line number infomation in browser's console."
   },
   {
     "name": "vite-plugin-public-typescript",
@@ -1889,19 +1229,9 @@
     "description": "Support for TypeScript's path mapping."
   },
   {
-    "name": "vite-plugin-theme",
-    "url": "https://github.com/anncwb/vite-plugin-theme",
-    "description": "Dynamically changing the theme color."
-  },
-  {
     "name": "vite-aliases",
     "url": "https://github.com/subwaytime/vite-aliases",
     "description": "Alias auto-generation based on project structure."
-  },
-  {
-    "name": "vite-plugin-imp",
-    "url": "https://github.com/onebay/vite-plugin-imp",
-    "description": "Import library component styles on demand, make your app slimmer."
   },
   {
     "name": "vite-plugin-mkcert",
@@ -1912,11 +1242,6 @@
     "name": "vite-plugin-vconsole",
     "url": "https://github.com/vadxq/vite-plugin-vconsole",
     "description": "Help developers use vconsole to facilitate mobile development and debugging."
-  },
-  {
-    "name": "vite-plugin-externals",
-    "url": "https://github.com/crcong/vite-plugin-externals",
-    "description": "Exclude dependencies from the output bundles."
   },
   {
     "name": "vite-plugin-mock-server",
@@ -1959,11 +1284,6 @@
     "description": "Inspect the intermediate state of Vite plugins."
   },
   {
-    "name": "@zougt/vite-plugin-theme-preprocessor",
-    "url": "https://github.com/GitOfZGT/vite-plugin-theme-preprocessor",
-    "description": "Easily implementing dynamic themes based on LESS or SASS."
-  },
-  {
     "name": "vite-plugin-remove-console",
     "url": "https://github.com/xiaoxian521/vite-plugin-remove-console",
     "description": "A vite plugin that deletes console.log in the production environment."
@@ -1984,11 +1304,6 @@
     "description": "Resolve all resource files dynamic publicPath."
   },
   {
-    "name": "vite-plugin-redirect",
-    "url": "https://github.com/ebeloded/vite-plugin-redirect",
-    "description": "Redirect server requests."
-  },
-  {
     "name": "vite-plugin-live-reload",
     "url": "https://github.com/arnoson/vite-plugin-live-reload",
     "description": "Live reloading."
@@ -1997,11 +1312,6 @@
     "name": "vite-plugin-simple-vconsole",
     "url": "https://github.com/venojs/vite-plugin-simple-vconsole",
     "description": "A debug console view inside your app to make mobile debugging easier, for both SPA and MPA."
-  },
-  {
-    "name": "vite-plugin-file-mock",
-    "url": "https://github.com/venojs/vite-plugin-file-mock",
-    "description": "File system based local mock plugin."
   },
   {
     "name": "vite-plugin-qrcode",
@@ -2017,11 +1327,6 @@
     "name": "vite-plugin-web-update-notification",
     "url": "https://github.com/GreatAuk/plugin-web-update-notification",
     "description": "Detect webpage updates and notify user to reload. support vite and umijs."
-  },
-  {
-    "name": "vite-plugin-autogeneration-import-file",
-    "url": "https://github.com/yuntian001/vite-plugin-autogeneration-import-file",
-    "description": "Automatically generates import file."
   },
   {
     "name": "vite-plugin-browserslist-useragent",
@@ -2044,29 +1349,14 @@
     "description": "Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the text/javascript MIME type to module MIME type."
   },
   {
-    "name": "vite-plugin-patch-env",
-    "url": "https://github.com/KeJunMao/vite-plugin-patch-env",
-    "description": "Patch environment variables from the system into Vite."
-  },
-  {
     "name": "vite-plugin-conditional-compile",
     "url": "https://github.com/KeJunMao/vite-plugin-conditional-compile",
     "description": "Conditional compilation syntax based on environment variables."
   },
   {
-    "name": "vite-plugin-debug",
-    "url": "https://github.com/hu3dao/vite-plugin-debug",
-    "description": "Base on specific url parameters dynamically enables mobile web page debugging."
-  },
-  {
     "name": "vite-plugin-mock-dev-server",
     "url": "https://github.com/pengzhanbo/vite-plugin-mock-dev-server",
     "description": "Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR."
-  },
-  {
-    "name": "vite-plugin-externals-extension",
-    "url": "https://github.com/XiSenao/vite-plugin-externals-extension",
-    "description": "External links plugin which supports ESM and UMD."
   },
   {
     "name": "vite-plugin-api",
@@ -2092,11 +1382,6 @@
     "name": "vite-plugin-image-placeholder",
     "url": "https://github.com/pengzhanbo/vite-plugin-image-placeholder",
     "description": "Generate placeholder images by path matches."
-  },
-  {
-    "name": "vite-plugin-isomorphic-import",
-    "url": "https://github.com/LyzSg/vite-plugin-isomorphic-import",
-    "description": "Allows you to configure whether to import modules on the server-side or client-side."
   },
   {
     "name": "vite-plugin-find-image-duplicates",
@@ -2184,9 +1469,9 @@
     "description": "Automatically generates sidebar and nav configurations by scanning directories, based on VitePress."
   },
   {
-    "name": "mocha-vite-puppeteer",
-    "url": "https://github.com/larsthorup/mocha-vite-puppeteer",
-    "description": "Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher."
+    "name": "vite-plugin-pretty-module-classnames",
+    "url": "https://github.com/teplostanski/vite-plugin-pretty-module-classnames",
+    "description": "Adds the filename without the -module suffix to the class names of CSS modules."
   },
   {
     "name": "vitest",
@@ -2202,11 +1487,6 @@
     "name": "cypress-vite",
     "url": "https://github.com/mammadataei/cypress-vite",
     "description": "Run Cypress specs using Vite."
-  },
-  {
-    "name": "vitest-preview",
-    "url": "https://github.com/nvh95/vitest-preview",
-    "description": "Visual debugging experience for Vitest."
   },
   {
     "name": "vite-plugin-doctest",
@@ -2369,11 +1649,6 @@
     "description": "Official React support that uses SWC."
   },
   {
-    "name": "vite-preset-react",
-    "url": "https://github.com/puruvj/vite-preset-react",
-    "description": "All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod."
-  },
-  {
     "name": "generouted",
     "url": "https://github.com/oedotme/generouted",
     "description": "Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more."
@@ -2397,16 +1672,6 @@
     "name": "vite-plugin-react-pages",
     "url": "https://github.com/vitejs/vite-plugin-react-pages",
     "description": "A Vite framework for building React app."
-  },
-  {
-    "name": "@vitjs/vit",
-    "url": "https://github.com/vitjs/vit",
-    "description": "React application framework inspired by UmiJS."
-  },
-  {
-    "name": "vite-plugin-react-inspector",
-    "url": "https://github.com/sudongyuer/vite-plugin-react-inspector",
-    "description": "Jump to local IDE source code while click the element of browser."
   },
   {
     "name": "vite-plugin-react-click-to-component",
@@ -2439,11 +1704,6 @@
     "description": "Provides JSX transformation for Solid."
   },
   {
-    "name": "vite-plugin-solid-markdown",
-    "url": "https://github.com/xbmlz/vite-plugin-solid-markdown",
-    "description": "Compile markdown files to Solid components."
-  },
-  {
     "name": "vite-plugin-solid-svg",
     "url": "https://github.com/jfgodoy/vite-plugin-solid-svg",
     "description": "Import SVG files as Solid.js Components."
@@ -2459,11 +1719,6 @@
     "description": "A plugin that enables you to compile an Elm module."
   },
   {
-    "name": "@nxext/angular-vite",
-    "url": "https://github.com/nxext/nxext-experimental/tree/main/packages/angular/vite",
-    "description": "A plugin that uses SWC to compile Angular modules."
-  },
-  {
     "name": "vite-plugin-fastify",
     "url": "https://github.com/Vanilla-IceCream/vite-plugin-fastify",
     "description": "Fastify plugin for Vite with Hot-module Replacement."
@@ -2477,11 +1732,6 @@
     "name": "electron-vite",
     "url": "https://github.com/alex8088/electron-vite",
     "description": "An Electron CLI integrated with Vite."
-  },
-  {
-    "name": "vite-plugin-electron-config",
-    "url": "https://github.com/alex8088/vite-plugin-electron-config",
-    "description": "Electron plugin for Vite, support for main process, renderer process and preload script."
   },
   {
     "name": "Vite Rollup Plugins",
@@ -2623,11 +1873,6 @@
     "url": "https://github.com/rollup/awesome"
   },
   {
-    "name": "vite-ssr",
-    "url": "https://github.com/frandiox/vite-ssr",
-    "description": "Simplified Server Side Rendering with an SPA-like developer experience."
-  },
-  {
     "name": "Vike",
     "url": "https://github.com/vikejs/vike",
     "description": "Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin."
@@ -2663,16 +1908,6 @@
     "description": "The Full Stack JavaScript SDK. Allows adding SSR to a Vite app."
   },
   {
-    "name": "vitedge",
-    "url": "https://github.com/frandiox/vitedge",
-    "description": "Edge-side rendering with fullstack utilities."
-  },
-  {
-    "name": "vitext",
-    "url": "https://github.com/aslemammad/vitext",
-    "description": "The Next.js like React framework for better User & Developer experience."
-  },
-  {
     "name": "Rakkas",
     "url": "https://github.com/rakkasjs/rakkasjs",
     "description": "React framework inspired by Next.js and SvelteKit."
@@ -2691,11 +1926,6 @@
     "name": "vite-plugin-vercel",
     "url": "https://github.com/magne4000/vite-plugin-vercel",
     "description": "Vercel adapter."
-  },
-  {
-    "name": "AEM Vite",
-    "url": "https://github.com/aem-vite/aem-vite",
-    "description": "Integration for Adobe Experience Manager and AEM SDK."
   },
   {
     "name": "Craft Vite",
@@ -2733,11 +1963,6 @@
     "description": "Integration for the Laravel framework."
   },
   {
-    "name": "Laravel Livewire Plugin",
-    "url": "https://github.com/def-studio/vite-livewire-plugin",
-    "description": "Enable hot reloading of Laravel Livewire components without losing state."
-  },
-  {
     "name": "Laravel Vite Plugin",
     "url": "https://github.com/laravel/vite-plugin",
     "description": "Laravel official plugin for Vite."
@@ -2763,19 +1988,9 @@
     "description": "Integration for TYPO3 CMS."
   },
   {
-    "name": "vite-go",
-    "url": "https://github.com/torenware/vite-go",
-    "description": "Integration for Golang web apps."
-  },
-  {
     "name": "create-rust-app",
     "url": "https://github.com/Wulf/create-rust-app",
     "description": "Integration for Rust web apps."
-  },
-  {
-    "name": "Vitewind",
-    "url": "https://github.com/chkilel/vitewind-theme",
-    "description": "Integration for OctoberCMS."
   },
   {
     "name": "Vite Bundle",
@@ -2786,16 +2001,6 @@
     "name": "vite-plugin-shopify",
     "url": "https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify",
     "description": "Integration for Shopify themes."
-  },
-  {
-    "name": "codeigniter-vite",
-    "url": "https://github.com/firtadokei/codeigniter-vitejs",
-    "description": "Integration for CodeIgniter."
-  },
-  {
-    "name": "ddev-viteserve",
-    "url": "https://github.com/torenware/ddev-viteserve",
-    "description": "Add-on for running Vite in the PHP-oriented dev environment DDEV."
   },
   {
     "name": "vite-express",
@@ -2823,21 +2028,6 @@
     "description": "Support for Twig with includes/embeds and Drupal specific twig features."
   },
   {
-    "name": "vue-cli-plugin-vite",
-    "url": "https://github.com/IndexXuan/vue-cli-plugin-vite",
-    "description": "Use Vite on Vue CLI with minimize codebase modifications."
-  },
-  {
-    "name": "webpack-to-vite",
-    "url": "https://github.com/originjs/webpack-to-vite",
-    "description": "Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly."
-  },
-  {
-    "name": "CRA migration guide",
-    "url": "https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md",
-    "description": "A step-by-step guide for migrating a project from Create React App."
-  },
-  {
     "name": "Viject",
     "url": "https://github.com/bhbs/viject",
     "description": "One-shot migration tool from Create React App."
@@ -2848,19 +2038,9 @@
     "description": "Static Site Generator powered by Vite and Vue."
   },
   {
-    "name": "TroisJS",
-    "url": "https://github.com/troisjs/trois",
-    "description": "Three.js integration with Vite and Vue 3."
-  },
-  {
     "name": "Slidev",
     "url": "https://github.com/slidevjs/slidev",
     "description": "Presentation Slides for Developers."
-  },
-  {
-    "name": "îles",
-    "url": "https://github.com/ElMassimo/iles",
-    "description": "Islands of Interactivity with Vue3, multi-framework."
   },
   {
     "name": "Astro",
@@ -2913,16 +2093,6 @@
     "description": "Todo app with routing and state management."
   },
   {
-    "name": "npmview",
-    "url": "https://github.com/pd4d10/npmview",
-    "description": "A web application to view npm package files."
-  },
-  {
-    "name": "Layoutit Grid",
-    "url": "https://github.com/Leniolabs/layoutit-grid",
-    "description": "Interactive CSS Grid layout generator."
-  },
-  {
     "name": "aitrack.work",
     "url": "https://aitrack.work",
     "description": "A task-based time tracker for everyday use."
@@ -2943,24 +2113,9 @@
     "description": "This is yet another device frameset component for React."
   },
   {
-    "name": "vite-vue3-lowcode",
-    "url": "https://github.com/buqiyuan/vite-vue3-lowcode",
-    "description": "Low code platform using Vue 3 + TypeScript + Composition API."
-  },
-  {
-    "name": "Context Note",
-    "url": "https://github.com/betterRunner/context-note",
-    "description": "A note-taking chrome extension built by Vue3 & Vite."
-  },
-  {
     "name": "Preview.js",
     "url": "https://previewjs.com",
     "description": "An IDE extension to instantly preview React, Vue 2 and Vue 3 components."
-  },
-  {
-    "name": "react-keyboard-navigator",
-    "url": "https://github.com/zheeeng/react-keyboard-navigator",
-    "description": "A suite of React components and hook for selecting from sibling components through the keyboard."
   },
   {
     "name": "pointer-lock-movement",

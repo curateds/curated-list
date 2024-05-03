@@ -245,6 +245,11 @@
     "description": "Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager."
   },
   {
+    "name": "nh",
+    "url": "https://github.com/viperML/nh",
+    "description": "Better output for nix nixos-rebuild and home-manger CLI using nvd and nix-output-monitor."
+  },
+  {
     "name": "nixfmt",
     "url": "https://github.com/serokell/nixfmt",
     "description": "A formatter for Nix code, intended to easily apply a uniform style."

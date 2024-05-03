@@ -1598,8 +1598,8 @@
     "description": "Nanoscopic progress bar, featuring realistic trickle animations."
   },
   {
-    "name": "@dotglitch/ngx-lazy-loader",
-    "url": "https://github.com/knackstedt/ngx-lazy-loader",
+    "name": "dotglitch-ngx",
+    "url": "https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader",
     "description": "Highly customizable lazy loader for Angular components."
   },
   {
@@ -1616,6 +1616,41 @@
     "name": "content-loader",
     "url": "https://github.com/ngneat/content-loader",
     "description": "SVG component to create placeholder loading, like Facebook cards loading."
+  },
+  {
+    "name": "ngx-loading",
+    "url": "https://github.com/zak-c/ngx-loading",
+    "description": "A loading spinner for Angular applications."
+  },
+  {
+    "name": "ng-block-ui",
+    "url": "https://github.com/kuuurt13/ng-block-ui",
+    "description": "Block UI Loader/Spinner for Angular."
+  },
+  {
+    "name": "ngx-spinner",
+    "url": "https://github.com/napster2210/ngx-spinner",
+    "description": "A library for loading spinner for Angular."
+  },
+  {
+    "name": "angular-busy",
+    "url": "https://github.com/tiberiuzuld/angular-busy",
+    "description": "Show busy/loading indicators on any element during a promise/Observable."
+  },
+  {
+    "name": "angular-loaders",
+    "url": "https://github.com/pjlamb12/angular-loaders",
+    "description": "Angular loader components"
+  },
+  {
+    "name": "ngx-loader-indicator",
+    "url": "https://github.com/jsdaddy/ngx-loader-indicator",
+    "description": "Awesome loader for Angular applications. No wrappers only your elements."
+  },
+  {
+    "name": "ngx-skeleton-loader",
+    "url": "https://github.com/willmendesneto/ngx-skeleton-loader",
+    "description": "Make beautiful, animated loading skeletons that automatically adapt to your Angular apps."
   },
   {
     "name": "angular-cesium",
@@ -1683,19 +1718,9 @@
     "description": "A light and easy to use notifications library for Angular."
   },
   {
-    "name": "angular2-jwt",
-    "url": "https://github.com/auth0/angular2-jwt",
-    "description": "Library for sending authenticated HTTP requests and decoding JWTs."
-  },
-  {
     "name": "universal-model-angular",
     "url": "https://github.com/universal-model/universal-model-angular",
     "description": "Store and state management for Angular."
-  },
-  {
-    "name": "ng-http-caching",
-    "url": "https://github.com/nigrosimone/ng-http-caching",
-    "description": "Cache for HTTP requests in Angular application."
   },
   {
     "name": "akita",
@@ -1793,6 +1818,11 @@
     "description": "The Complete Angular Components Library."
   },
   {
+    "name": "ej2-angular-ui-components",
+    "url": "https://github.com/syncfusion/ej2-angular-ui-components",
+    "description": "Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need."
+  },
+  {
     "name": "Nebular",
     "url": "https://github.com/akveo/nebular",
     "description": "Customizable Angular UI Library based on Eva Design System."
@@ -1831,6 +1861,56 @@
     "name": "AgnosUI",
     "url": "https://amadeusitgroup.github.io/AgnosUI/latest/",
     "description": "Highly configurable headless framework agnostic component library."
+  },
+  {
+    "name": "ng-devui",
+    "url": "https://github.com/DevCloudFE/ng-devui",
+    "description": "Angular UI Component Library based on DevUI Design."
+  },
+  {
+    "name": "ng-aquila",
+    "url": "https://github.com/allianz/ng-aquila",
+    "description": "Aquila is an open-source component library provided by the Allianz Global Digital Factory (GDF). We use this library internally with Allianz branding. Here we provide a white label variant of these components."
+  },
+  {
+    "name": "enterprise-ng",
+    "url": "https://github.com/infor-design/enterprise-ng",
+    "description": "Angular wrappers for IDS Enterprise components."
+  },
+  {
+    "name": "oblique",
+    "url": "https://github.com/oblique-bit/oblique",
+    "description": "An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components."
+  },
+  {
+    "name": "fundamental-ngx",
+    "url": "https://github.com/SAP/fundamental-ngx",
+    "description": "Fundamental Library for Angular is SAP Design System Angular component library."
+  },
+  {
+    "name": "designsystem",
+    "url": "https://github.com/kirbydesign/designsystem",
+    "description": "Kirby Design System is a UX Component library implementing the Kirby Design Philosophy."
+  },
+  {
+    "name": "sbb-angular",
+    "url": "https://github.com/sbb-design-systems/sbb-angular",
+    "description": "Angular Library for SBB"
+  },
+  {
+    "name": "ui",
+    "url": "https://github.com/alauda/ui",
+    "description": "Enterprise level Angular UI framework from Alauda Frontend Team."
+  },
+  {
+    "name": "ngx-tethys",
+    "url": "https://github.com/atinc/ngx-tethys",
+    "description": "Fast and reliable Tethys Design components for Angular."
+  },
+  {
+    "name": "antwerp-ui_angular",
+    "url": "https://github.com/digipolisantwerp/antwerp-ui_angular",
+    "description": "Antwerp UI is a component interface library for building user interfaces and responsive web apps."
   },
   {
     "name": "Covalent",
@@ -1890,7 +1970,7 @@
     "description": "Angular 4 directives for Bootstrap 4 by the ui-bootstrap team"
   },
   {
-    "name": "ng2-bootstrap",
+    "name": "ngx-bootstrap",
     "url": "https://github.com/valor-software/ngx-bootstrap"
   },
   {
@@ -2019,11 +2099,6 @@
     "description": "Optimize Angular change detection effortlessly."
   },
   {
-    "name": "convoyr",
-    "url": "https://github.com/jscutlery/convoyr",
-    "description": "Modular HTTP extensions for Angular."
-  },
-  {
     "name": "dialog",
     "url": "https://github.com/ngneat/dialog",
     "description": "A simple to use, highly customizable, and powerful modal."
@@ -2037,11 +2112,6 @@
     "name": "falso",
     "url": "https://github.com/ngneat/falso",
     "description": "All the Fake Data for All Your Real Needs"
-  },
-  {
-    "name": "cashew",
-    "url": "https://github.com/ngneat/cashew",
-    "description": "A flexible and straightforward library that caches HTTP requests in Angular."
   },
   {
     "name": "helipopper",
@@ -2204,6 +2274,46 @@
     "description": "Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular."
   },
   {
+    "name": "angular2-jwt",
+    "url": "https://github.com/auth0/angular2-jwt",
+    "description": "Library for sending authenticated HTTP requests and decoding JWTs."
+  },
+  {
+    "name": "ng-http-caching",
+    "url": "https://github.com/nigrosimone/ng-http-caching",
+    "description": "Cache for HTTP requests in Angular application."
+  },
+  {
+    "name": "cashew",
+    "url": "https://github.com/ngneat/cashew",
+    "description": "A flexible and straightforward library that caches HTTP requests in Angular."
+  },
+  {
+    "name": "convoyr",
+    "url": "https://github.com/jscutlery/convoyr",
+    "description": "Modular HTTP extensions for Angular."
+  },
+  {
+    "name": "angular-http-cache-interceptor",
+    "url": "https://github.com/patrikx3/angular-http-cache-interceptor",
+    "description": "Angular HTTP cache interceptor"
+  },
+  {
+    "name": "apollo-angular",
+    "url": "https://github.com/kamilkisiela/apollo-angular",
+    "description": "A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server."
+  },
+  {
+    "name": "ngx-awesome-uploader",
+    "url": "https://github.com/vugar005/ngx-awesome-uploader",
+    "description": "Angular Library for uploading files with many features."
+  },
+  {
+    "name": "ngx-uploadx",
+    "url": "https://github.com/kukhariev/ngx-uploadx",
+    "description": "Angular Resumable Upload Module."
+  },
+  {
     "name": "Angular.io Security Guide",
     "url": "https://angular.io/guide/security",
     "description": "Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy."
@@ -2306,17 +2416,7 @@
   {
     "name": "ngrx-store-localstorage",
     "url": "https://github.com/btroncone/ngrx-store-localstorage",
-    "description": "Simple syncing between @ngrx store and local storage."
-  },
-  {
-    "name": "Tim Deschryver Blog",
-    "url": "https://timdeschryver.dev/blog?q=NgRx",
-    "description": "Excellent NgRx articles from a core maintainer."
-  },
-  {
-    "name": "angular-ngrx-nx-realworld-example-app",
-    "url": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
-    "description": "Real world application built with Angular 17, NgRx 17, nrwl/nx 17"
+    "description": "Simple syncing between @ngrx/store and local storage."
   },
   {
     "name": "ngrx-toolkit",
@@ -2326,12 +2426,52 @@
   {
     "name": "ngrx-traits",
     "url": "https://github.com/gabrielguerrero/ngrx-traits",
-    "description": "NGRX Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app."
+    "description": "NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app."
   },
   {
     "name": "ngrx-addons",
     "url": "https://github.com/Michsior14/ngrx-addons",
-    "description": "A collection of @ngrx addons, including state persistence."
+    "description": "A collection of NgRx addons, including state persistence."
+  },
+  {
+    "name": "ngrx-store-storagesync",
+    "url": "https://github.com/larscom/ngrx-store-storagesync",
+    "description": "Highly configurable state sync library between localStorage/sessionStorage and @ngrx/store."
+  },
+  {
+    "name": "ngrx-wieder",
+    "url": "https://github.com/nilsmehlhorn/ngrx-wieder",
+    "description": "Lightweight undo-redo for Angular with NgRx & Immer.js."
+  },
+  {
+    "name": "ngrx-immer",
+    "url": "https://github.com/timdeschryver/ngrx-immer",
+    "description": "Immer wrappers around NgRx methods createReducer, on, and ComponentStore."
+  },
+  {
+    "name": "ngrx-rtk-query",
+    "url": "https://github.com/SaulMoro/ngrx-rtk-query",
+    "description": "Make RTK Query with Hooks works in Angular Applications."
+  },
+  {
+    "name": "ngrx-action-bundles",
+    "url": "https://github.com/IliaIdakiev/ngrx-action-bundles",
+    "description": "This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications."
+  },
+  {
+    "name": "platform",
+    "url": "https://github.com/trellisorg/platform",
+    "description": "The Trellis Open Source Repo contains projects and tools, some of which Trellis uses internally, but has opened sourced for the community to use."
+  },
+  {
+    "name": "Tim Deschryver Blog",
+    "url": "https://timdeschryver.dev/blog?q=NgRx",
+    "description": "Excellent NgRx articles from a core maintainer."
+  },
+  {
+    "name": "angular-ngrx-nx-realworld-example-app",
+    "url": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
+    "description": "Real world application built with Angular 17, NgRx 17, & Nx 17."
   },
   {
     "name": "aws amplify",

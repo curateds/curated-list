@@ -25,9 +25,19 @@
     "description": "Quickly build RESTful APIs."
   },
   {
+    "name": "APIFlask",
+    "url": "https://github.com/apiflask/apiflask",
+    "description": "Integrates marshmallow for validation and serialization, and for OpenAPI generation with Swagger UI."
+  },
+  {
     "name": "Connexion",
     "url": "https://connexion.readthedocs.io",
     "description": "Open source, OpenAPI-based, REST framework built on top of Flask."
+  },
+  {
+    "name": "Flasgger",
+    "url": "https://github.com/flasgger/flasgger",
+    "description": "OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files."
   },
   {
     "name": "Flask-Rebar",
@@ -40,9 +50,9 @@
     "description": "Community-driven fork of Flask-RESTPlus that makes it easy to build and document RESTful APIs with Flask."
   },
   {
-    "name": "Flask-APISpec",
-    "url": "https://flask-apispec.readthedocs.io/",
-    "description": "Auto-documenting REST APIs."
+    "name": "flask-smorest",
+    "url": "https://github.com/marshmallow-code/flask-smorest/",
+    "description": "Marshmallow's official Flask REST integration. Uses marshmallow models for request/response validation and serialization, and generates OpenAPI with Swagger UI."
   },
   {
     "name": "SAFRS: Python OpenAPI & JSON:API Framework",
@@ -151,7 +161,7 @@
   },
   {
     "name": "Flask-MongoEngine",
-    "url": "https://flask-mongoengine.readthedocs.io",
+    "url": "https://flask-mongoengine-3.readthedocs.io",
     "description": "Bridges Flask and MongoEngine for working with MongoDB."
   },
   {
@@ -296,7 +306,7 @@
   },
   {
     "name": "Flask-Talisman",
-    "url": "https://github.com/GoogleCloudPlatform/flask-talisman",
+    "url": "https://github.com/wntrblm/flask-talisman",
     "description": "HTTPS and security headers."
   },
   {
@@ -311,7 +321,7 @@
   },
   {
     "name": "Flask-RQ",
-    "url": "https://github.com/mattupstate/flask-rq",
+    "url": "https://github.com/pallets-eco/flask-rq",
     "description": "RQ (Redis Queue) integration."
   },
   {

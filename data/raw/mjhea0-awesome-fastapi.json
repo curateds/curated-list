@@ -75,6 +75,11 @@
     "description": "Account management, authentication, authorization."
   },
   {
+    "name": "Edgy ORM",
+    "url": "https://github.com/tarsil/edgy",
+    "description": "Complex databases made simple."
+  },
+  {
     "name": "FastAPI SQLAlchemy",
     "url": "https://github.com/mfreeborn/fastapi-sqlalchemy",
     "description": "Simple integration between FastAPI and SQLAlchemy."
@@ -110,7 +115,7 @@
   },
   {
     "name": "FastAPI Example",
-    "url": "https://collerek.github.io/ormar/fastapi/",
+    "url": "https://collerek.github.io/ormar/latest/fastapi/",
     "description": "Using FastAPI with ormar."
   },
   {
@@ -152,6 +157,11 @@
     "description": "Tortoise ORM migrations tools."
   },
   {
+    "name": "Saffier ORM",
+    "url": "https://github.com/tarsil/saffier",
+    "description": "The only Python ORM you will ever need."
+  },
+  {
     "name": "SQLModel",
     "url": "https://sqlmodel.tiangolo.com/",
     "description": "SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects."
@@ -168,7 +178,7 @@
   },
   {
     "name": "Beanie",
-    "url": "https://github.com/roman-right/beanie",
+    "url": "https://github.com/BeanieODM/beanie",
     "description": "Asynchronous Python ODM for MongoDB, based on Motor and Pydantic, which supports data and schema migrations out of the box."
   },
   {
@@ -215,6 +225,11 @@
     "name": "FastAPI Client Generator",
     "url": "https://github.com/dmontagu/fastapi_client",
     "description": "Generate a mypy- and IDE-friendly API client from an OpenAPI spec."
+  },
+  {
+    "name": "FastAPI Cruddy Framework",
+    "url": "https://github.com/mdconaway/fastapi-cruddy-framework",
+    "description": "A companion library to FastAPI designed to bring the development productivity of Ruby on Rails, Ember.js or Sails.js to the FastAPI ecosystem."
   },
   {
     "name": "FastAPI MVC",
@@ -272,6 +287,11 @@
     "description": "Adds integration of the Chameleon template language to FastAPI."
   },
   {
+    "name": "FastAPI CloudEvents",
+    "url": "https://github.com/sasha-tkachev/fastapi-cloudevents",
+    "description": "CloudEvents integration for FastAPI."
+  },
+  {
     "name": "FastAPI Contrib",
     "url": "https://github.com/identixone/fastapi_contrib",
     "description": "Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware."
@@ -298,7 +318,7 @@
   },
   {
     "name": "FastAPI Lazy",
-    "url": "https://github.com/yezz123/fastapi-lazy",
+    "url": "https://github.com/yezz123/fastango",
     "description": "Lazy package to start your project using FastAPI."
   },
   {
@@ -471,38 +491,8 @@
   },
   {
     "name": "FastAPI for Flask Users",
-    "url": "https://amitness.com/2020/06/fastapi-vs-flask/",
+    "url": "https://amitness.com/posts/fastapi-vs-flask",
     "description": "Learn FastAPI with a side-by-side code comparison to Flask."
-  },
-  {
-    "name": "FastAPI Microservice Patterns",
-    "url": "https://python.plainenglish.io/fastapi-microservice-patterns-3052c1241019",
-    "description": "Blog post series with exemplary implementations of microservice patterns."
-  },
-  {
-    "name": "Local Development Environment",
-    "url": "https://python.plainenglish.io/fastapi-microservice-patterns-local-development-environment-12182e786f1c",
-    "description": "Skaffold, docker, kubectl and minikube in a nutshell."
-  },
-  {
-    "name": "Service discovery in Container Orchestration Platforms",
-    "url": "https://python.plainenglish.io/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8",
-    "description": "Enabling FastAPI service communication in Kubernetes explained."
-  },
-  {
-    "name": "Asynchronous Communication",
-    "url": "https://python.plainenglish.io/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8",
-    "description": "Enabling loosely coupled services with messaging."
-  },
-  {
-    "name": "Application Monitoring",
-    "url": "https://python.plainenglish.io/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a",
-    "description": "Application metric monitoring with Prometheus and Grafana."
-  },
-  {
-    "name": "Serverless Deployment",
-    "url": "https://python.plainenglish.io/fastapi-microservice-serverless-deployment-41a6d21e5cb3",
-    "description": "About the current status of the compatibility between FastAPI and Kubernetes-native FaaS platforms."
   },
   {
     "name": "Getting started with GraphQL in Python with FastAPI and Ariadne",
@@ -682,7 +672,7 @@
   },
   {
     "name": "Full Stack FastAPI and PostgreSQL - Base Project Generator",
-    "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+    "url": "https://github.com/tiangolo/full-stack-fastapi-template",
     "description": "Base Project Generator - Full stack, modern web application generator, which includes FastAPI, PostgreSQL, Docker, Celery, Vue frontend, automatic HTTPS and more (developed by the creator of FastAPI, Sebastián Ramírez)."
   },
   {
@@ -754,6 +744,11 @@
     "name": "fastapi-starter-project",
     "url": "https://github.com/mirzadelic/fastapi-starter-project",
     "description": "A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI."
+  },
+  {
+    "name": "Full Stack FastAPI and MongoDB - Base Project Generator",
+    "url": "https://github.com/mongodb-labs/full-stack-fastapi-mongodb",
+    "description": "Base Project Generator - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more."
   },
   {
     "name": "inboard",
