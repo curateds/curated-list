@@ -733,6 +733,14 @@
     "description": "Compile and package Angular libraries in Angular Package Format (APF)."
   },
   {
+    "name": "Angular",
+    "url": "https://www.youtube.com/@Angular"
+  },
+  {
+    "name": "NG CONF",
+    "url": "https://www.youtube.com/@ngconfonline"
+  },
+  {
     "name": "Procademy",
     "url": "https://www.youtube.com/@procademy"
   },
@@ -775,6 +783,50 @@
   {
     "name": "Galaxies_dev",
     "url": "https://www.youtube.com/@galaxies_dev"
+  },
+  {
+    "name": "Zoaib Khan",
+    "url": "https://www.youtube.com/@ZoaibKhan"
+  },
+  {
+    "name": "AyyazTech",
+    "url": "https://www.youtube.com/@AyyazTech"
+  },
+  {
+    "name": "NivekDev",
+    "url": "https://www.youtube.com/@nivekDev"
+  },
+  {
+    "name": "LeelaWebDev",
+    "url": "https://www.youtube.com/@LeelaWebDev"
+  },
+  {
+    "name": "WebTechTalk",
+    "url": "https://www.youtube.com/@WebTechTalk"
+  },
+  {
+    "name": "Babatunde Lamidi",
+    "url": "https://www.youtube.com/@babatundelmd"
+  },
+  {
+    "name": "CodingWithSai",
+    "url": "https://www.youtube.com/@codingwithsaik"
+  },
+  {
+    "name": "UXTrendz",
+    "url": "https://www.youtube.com/@uxtrendz"
+  },
+  {
+    "name": "TechStackNation",
+    "url": "https://www.youtube.com/@techstacknation"
+  },
+  {
+    "name": "Angular Love",
+    "url": "https://www.youtube.com/@angularlove"
+  },
+  {
+    "name": "NG NEWS",
+    "url": "https://www.youtube.com/@ng-news"
   },
   {
     "name": "Official Angular style guide",
@@ -2049,19 +2101,9 @@
     "description": "Simple, easy and performance countdown for angular"
   },
   {
-    "name": "@ngneat/transloco",
-    "url": "https://github.com/ngneat/transloco",
-    "description": "🚀 😍 The internationalization (i18n) library for Angular"
-  },
-  {
-    "name": "@tolgee/ngx",
-    "url": "https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee",
-    "description": "Web-based localization tool enabling users to translate directly in the Angular app they develop."
-  },
-  {
     "name": "xng-breadcrumb",
     "url": "https://github.com/udayvunnam/xng-breadcrumb",
-    "description": "Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond."
+    "description": "Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond."
   },
   {
     "name": "ng-let",
@@ -2510,5 +2552,65 @@
     "name": "migrations",
     "url": "https://angular.dev/reference/migrations",
     "description": "Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics."
+  },
+  {
+    "name": "transloco",
+    "url": "https://github.com/ngneat/transloco",
+    "description": "🚀 😍 The internationalization (i18n) library for Angular."
+  },
+  {
+    "name": "ngx-tolgee",
+    "url": "https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee",
+    "description": "Web-based localization tool enabling users to translate directly in the Angular app they develop."
+  },
+  {
+    "name": "localess",
+    "url": "https://github.com/Lessify/localess",
+    "description": "Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster."
+  },
+  {
+    "name": "typesafe-i18n",
+    "url": "https://github.com/ivanhofer/typesafe-i18n",
+    "description": "A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects."
+  },
+  {
+    "name": "angular-l10n",
+    "url": "https://github.com/robisim74/angular-l10n",
+    "description": "Angular library to translate texts, dates and numbers."
+  },
+  {
+    "name": "I18N",
+    "url": "https://github.com/soluling/I18N",
+    "description": "Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi."
+  },
+  {
+    "name": "ng-extract-i18n-merge",
+    "url": "https://github.com/daniel-sc/ng-extract-i18n-merge",
+    "description": "Extract and merge i18n xliff translation files for angular projects."
+  },
+  {
+    "name": "ng-translate",
+    "url": "https://github.com/doorgets/ng-translate",
+    "description": "Angular 2 translation module i18n (internationalization) from JSON file with pluralization (Zero value state included)."
+  },
+  {
+    "name": "ngxe",
+    "url": "https://github.com/navix/ngxe",
+    "description": "Angular 11.1+ JSON Translations Editor."
+  },
+  {
+    "name": "ngx-translate",
+    "url": "https://github.com/ngx-translate/core",
+    "description": "The internationalization (i18n) library for Angular."
+  },
+  {
+    "name": "ngx-translate-module-loader",
+    "url": "https://github.com/larscom/ngx-translate-module-loader",
+    "description": "Highly configurable and flexible translations loader for @ngx-translate/core"
+  },
+  {
+    "name": "ngx-translate-multi-http-loader",
+    "url": "https://github.com/rbalet/ngx-translate-multi-http-loader",
+    "description": "A loader for ngx-translate that loads translations with http calls."
   }
 ]
