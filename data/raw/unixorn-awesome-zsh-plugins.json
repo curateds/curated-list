@@ -1196,6 +1196,11 @@
     "description": "Forked from ohmyzsh/ohmyzsh/plugins/colored-man-pages. Colorizes man output."
   },
   {
+    "name": "color-logging",
+    "url": "https://github.com/p1r473/zsh-color-logging",
+    "description": "provides a really easy to use logging library with notifications for pushbullet and pushover, colorizes tools like cat and ls and provides a color library."
+  },
+  {
     "name": "colored-man-pages",
     "url": "https://github.com/ael-code/zsh-colored-man-pages",
     "description": "Colorize man pages."
@@ -4987,6 +4992,11 @@
     "name": "zshmarks",
     "url": "https://github.com/jocelynmallon/zshmarks",
     "description": "A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for oh-my-zsh."
+  },
+  {
+    "name": "zshrc-sync",
+    "url": "https://github.com/Skylor-Tang/zshrc-sync",
+    "description": "Detects changes to .zshrc and pushes them to github when zsh exits."
   },
   {
     "name": "zshrc",

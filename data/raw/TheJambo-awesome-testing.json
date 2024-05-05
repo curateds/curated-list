@@ -10,6 +10,11 @@
     "description": "This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues."
   },
   {
+    "name": "Zato API Test",
+    "url": "https://zato.io/en/docs/3.2/api-testing/index.html",
+    "description": "API testing in pure English. No programming needed. Implemented and extendable in Python."
+  },
+  {
     "name": "GoodLooks",
     "url": "https://github.com/dashcamio/goodlooks",
     "description": "Visually validate Playwright tests using AI vision instead of flaky selectors."

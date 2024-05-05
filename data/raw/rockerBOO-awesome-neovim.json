@@ -3040,6 +3040,11 @@
     "description": "Pretty quickfix/location view with consistent path-shorten and folding."
   },
   {
+    "name": "niuiic/quickfix.nvim",
+    "url": "https://github.com/niuiic/quickfix.nvim",
+    "description": "Extended functionality for quickfix, including store, restore, make, remove, etc."
+  },
+  {
     "name": "coffebar/transfer.nvim",
     "url": "https://github.com/coffebar/transfer.nvim",
     "description": "Sync and diff with remote server using rsync and OpenSSH."
