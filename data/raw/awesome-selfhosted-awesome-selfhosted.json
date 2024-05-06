@@ -381,8 +381,8 @@
   },
   {
     "name": "Dotclear",
-    "url": "https://dotclear.org/",
-    "description": "Take control over your blog. (Source Code) GPL-2.0 PHP"
+    "url": "https://git.dotclear.org/dev/dotclear",
+    "description": "Take control over your blog. GPL-2.0 PHP"
   },
   {
     "name": "FlatPress",
@@ -1016,7 +1016,7 @@
   },
   {
     "name": "phpList",
-    "url": "https://phplist.org",
+    "url": "https://www.phplist.org",
     "description": "Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. (Source Code) AGPL-3.0 PHP"
   },
   {
@@ -3510,6 +3510,11 @@
     "description": "Create avatars using the Avataaars library (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
   },
   {
+    "name": "Digimerge",
+    "url": "https://ladigitale.dev/digimerge/",
+    "description": "Assemble audio and video files directly in your browser (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
+  },
+  {
     "name": "Digitranscode",
     "url": "https://ladigitale.dev/digitranscode",
     "description": "Convert audio files and videos directly in the browser (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs"
@@ -3903,6 +3908,11 @@
     "name": "OctoBot",
     "url": "https://www.octobot.cloud/",
     "description": "Open-source cryptocurrency trading bot. (Source Code) GPL-3.0 Python/Docker"
+  },
+  {
+    "name": "Ocular",
+    "url": "https://github.com/simonwep/ocular",
+    "description": "Simplistic and straight-forward budgeting app to track your budget across months and years. (Demo) MIT Docker"
   },
   {
     "name": "OnTrack",
@@ -5178,11 +5188,6 @@
     "name": "Phorge",
     "url": "https://we.phorge.it/",
     "description": "Phorge is an open source, community driven platform for collaborating, managing, organizing and reviewing software development projects. (Source Code) Apache-2.0 PHP"
-  },
-  {
-    "name": "Phproject",
-    "url": "https://www.phproject.org/",
-    "description": "High performance full-featured project management system. (Source Code) GPL-3.0 PHP"
   },
   {
     "name": "Plane",

@@ -1129,6 +1129,16 @@
     "description": "A hyperparameter optimization framework."
   },
   {
+    "name": "pymoo",
+    "url": "https://github.com/anyoptimization/pymoo",
+    "description": "Multi-objective Optimization in Python."
+  },
+  {
+    "name": "pycma",
+    "url": "https://github.com/CMA-ES/pycma?tab=readme-ov-file",
+    "description": "Python implementation of CMA-ES."
+  },
+  {
     "name": "Spearmint",
     "url": "https://github.com/HIPS/Spearmint",
     "description": "Bayesian optimization."

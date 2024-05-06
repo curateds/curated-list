@@ -1781,6 +1781,11 @@
     "description": "Add an indicator in the prompt that you're in a directory with a firebase.json file (aka \"firebase project\")."
   },
   {
+    "name": "firmine",
+    "url": "https://github.com/GNUWood/firmine",
+    "description": "Includes decorators for user@hostname, date & time, current directory and Kaomoji icons for last command exit status."
+  },
+  {
     "name": "fixnumpad-osx",
     "url": "https://github.com/zackintosh/fixnumpad-osx.plugin.zsh/blob/master/fixnumpad-osx.plugin.zsh",
     "description": "Enables numpad keys of Apple keyboards to be recognized in ZSH."
@@ -2604,6 +2609,11 @@
     "name": "kitsunebook",
     "url": "https://github.com/d12frosted/kitsunebook.plugin.zsh",
     "description": "KitsuneBook plugin for oh-my-zsh."
+  },
+  {
+    "name": "kiwi",
+    "url": "https://github.com/fruitydog/kiwi.zsh-theme",
+    "description": "Dog-themed, includes git status and last command exit status decorators."
   },
   {
     "name": "konsole-theme-changer",
@@ -5945,6 +5955,11 @@
     "name": "zargparse",
     "url": "https://github.com/ctil/zargparse",
     "description": "Pass it a script that uses argparse and it will write a ZSH completion to your current directory."
+  },
+  {
+    "name": "zoxide",
+    "url": "https://github.com/jnooree/zoxide-zsh-completion",
+    "description": "Tab completions for zoxide."
   },
   {
     "name": "021011",

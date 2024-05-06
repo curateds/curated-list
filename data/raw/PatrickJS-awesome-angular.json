@@ -382,7 +382,7 @@
   {
     "name": "angular",
     "url": "https://blog.angular.io/",
-    "description": "Official Angular blog"
+    "description": "Official Angular blog."
   },
   {
     "name": "modern-angular",
@@ -397,7 +397,7 @@
   {
     "name": "angular-university",
     "url": "https://blog.angular-university.io/",
-    "description": "Learn and Keep Up with the Angular Ecosystem"
+    "description": "Learn and Keep Up with the Angular Ecosystem."
   },
   {
     "name": "simplified courses",
@@ -412,7 +412,7 @@
   {
     "name": "angular.love",
     "url": "https://angular.love/",
-    "description": "(Polish) Excellent up-to-date resource for Angular"
+    "description": "(Polish) Excellent up-to-date resource for Angular."
   },
   {
     "name": "angular in depth",
@@ -481,12 +481,12 @@
   {
     "name": "ng-web-apis",
     "url": "https://github.com/taiga-family/ng-web-apis",
-    "description": "A set of common utils for consuming Web APIs with Angular"
+    "description": "A set of common utils for consuming Web APIs with Angular."
   },
   {
     "name": "ssr",
     "url": "https://angular.dev/guide/ssr#enable-server-side-rendering",
-    "description": "Documentation for the new ssr package built into the framework."
+    "description": "Documentation for the new SSR package built into the framework."
   },
   {
     "name": "angular-prerender",
@@ -505,7 +505,7 @@
   {
     "name": "MDBootstrap",
     "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
-    "description": "Angular 16 & Bootstrap 5 & Material Design 2.0 UI KIT"
+    "description": "Angular 16 & Bootstrap 5 & Material Design 2.0 UI KIT."
   },
   {
     "name": "Official Angular Cheatsheet",
@@ -549,12 +549,12 @@
   {
     "name": "ng-mocks",
     "url": "https://github.com/help-me-mom/ng-mocks",
-    "description": "Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup"
+    "description": "Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup."
   },
   {
     "name": "auto-spies",
     "url": "https://github.com/hirezio/auto-spies",
-    "description": "Create automatic spies from classes"
+    "description": "Create automatic spies from classes."
   },
   {
     "name": "@angular/cdk/testing",
@@ -569,7 +569,7 @@
   {
     "name": "jasmine",
     "url": "https://jasmine.github.io/",
-    "description": "Simple JavaScript testing"
+    "description": "Simple JavaScript testing."
   },
   {
     "name": "jest",
@@ -599,7 +599,7 @@
   {
     "name": "spectator",
     "url": "https://github.com/ngneat/spectator",
-    "description": "A Powerful Tool to Simplify Your Angular Tests"
+    "description": "A Powerful Tool to Simplify Your Angular Tests."
   },
   {
     "name": "testcafe",
@@ -609,7 +609,7 @@
   {
     "name": "webdriverio",
     "url": "https://github.com/webdriverio/webdriverio",
-    "description": "Next-gen browser and mobile automation test framework for Node.js"
+    "description": "Next-gen browser and mobile automation test framework for Node.js."
   },
   {
     "name": "cypress-harness",
@@ -644,12 +644,12 @@
   {
     "name": "YouTube",
     "url": "https://www.youtube.com/watch?v=emnwsVy8wRs",
-    "description": "Angular Unit Testing Made Easy"
+    "description": "Angular Unit Testing Made Easy."
   },
   {
     "name": "Tim Deschryver Blog",
     "url": "https://timdeschryver.dev/blog/testing-an-ngrx-project",
-    "description": "Testing an NgRx project"
+    "description": "Testing an NgRx project."
   },
   {
     "name": "Official web page",
@@ -685,17 +685,15 @@
   {
     "name": "Jest Builder",
     "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/jest",
-    "description": "Jest builder for Angular build facade"
+    "description": "Jest builder for Angular build facade."
   },
   {
     "name": "Custom Webpack",
-    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack",
-    "description": "custom webpack"
+    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack"
   },
   {
     "name": "Custom ESBuild",
-    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild",
-    "description": "Allows custom esbuild configuration."
+    "url": "https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild"
   },
   {
     "name": "Bazel",
@@ -905,7 +903,7 @@
   {
     "name": "Angular Start",
     "url": "https://angularstart.com/",
-    "description": "Learn to build professional-grade Angular v17 applications using new features with modern best practices"
+    "description": "Learn to build professional-grade Angular v17 applications using new features with modern best practices."
   },
   {
     "name": "Angular Training",
@@ -915,7 +913,7 @@
   {
     "name": "Angular University",
     "url": "https://angular-university.io/",
-    "description": "Learn And Keep Up With The Angular Ecosystem"
+    "description": "Learn And Keep Up With The Angular Ecosystem."
   },
   {
     "name": "Ultimate Courses",
@@ -933,24 +931,24 @@
     "description": "Angular Training by Expert Brecht Billiet!"
   },
   {
-    "name": "GraphQL + Angular",
+    "name": "apollo-angular",
     "url": "https://github.com/apollographql/apollo-angular",
-    "description": "Caching GraphQL client for Angular and every GraphQL server"
+    "description": "Caching GraphQL client for Angular and every GraphQL server."
   },
   {
     "name": "ckeditor5-angular",
     "url": "https://github.com/ckeditor/ckeditor5-angular",
-    "description": "An official CKEditor 5 rich text editor component for Angular 2+"
+    "description": "An official CKEditor 5 rich text editor component for Angular 2+."
   },
   {
     "name": "ckeditor4-angular",
     "url": "https://github.com/ckeditor/ckeditor4-angular",
-    "description": "An official CKEditor 4 rich text editor component for Angular 2+"
+    "description": "An official CKEditor 4 rich text editor component for Angular 2+."
   },
   {
     "name": "TailwindCSS + Angular",
     "url": "https://tailwindcss.com/docs/guides/angular",
-    "description": "Integrate Angular app with Tailwind"
+    "description": "Integrate Angular app with Tailwind."
   },
   {
     "name": "Sentry",
@@ -1015,7 +1013,7 @@
   {
     "name": "angular-electron",
     "url": "https://github.com/maximegris/angular-electron",
-    "description": "Ultra-fast bootstrapping with Angular and Electron"
+    "description": "Ultra-fast bootstrapping with Angular and Electron."
   },
   {
     "name": "Postcat",
@@ -1040,7 +1038,7 @@
   {
     "name": "ngx-admin",
     "url": "https://github.com/akveo/ngx-admin",
-    "description": "Customizable admin dashboard template based on Angular 10+"
+    "description": "Customizable admin dashboard template based on Angular 10+."
   },
   {
     "name": "ng-matero",
@@ -1050,37 +1048,32 @@
   {
     "name": "coreui-free-angular-admin-template",
     "url": "https://github.com/coreui/coreui-free-angular-admin-template",
-    "description": "CoreUI Angular is free Angular 17 admin template based on Bootstrap 5"
+    "description": "CoreUI Angular is free Angular 17 admin template based on Bootstrap 5."
   },
   {
     "name": "sakai-ng",
     "url": "https://github.com/primefaces/sakai-ng",
-    "description": "Free Angular Admin Template by PrimeNG"
+    "description": "Free Angular Admin Template by PrimeNG."
   },
   {
     "name": "angular-template-for-threejs",
     "url": "https://github.com/makimenko/angular-template-for-threejs",
-    "description": "Angular Template For Three.js"
+    "description": "Angular Template For Three.js."
   },
   {
     "name": "lemon-mart",
     "url": "https://github.com/duluca/lemon-mart",
-    "description": "Angular Template App with a Router-first architecture"
+    "description": "Angular Template App with a Router-first architecture."
   },
   {
     "name": "devextreme-angular-template",
     "url": "https://github.com/DevExpress/devextreme-angular-template",
-    "description": "Responsive Application Layout Templates​ based on DevExtreme Angular Components"
+    "description": "Responsive Application Layout Templates​ based on DevExtreme Angular Components."
   },
   {
     "name": "QuickApp",
     "url": "https://github.com/emonney/QuickApp",
     "description": "ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development."
-  },
-  {
-    "name": "angular-template-for-threejs",
-    "url": "https://github.com/makimenko/angular-template-for-threejs",
-    "description": "Angular Template For Three.js"
   },
   {
     "name": "material-pro-angular-lite",
@@ -1115,7 +1108,7 @@
   {
     "name": "gradient-able-free-admin-template",
     "url": "https://github.com/codedthemes/gradient-able-free-admin-template",
-    "description": "Gradient able free bootstrap, angular, react admin template"
+    "description": "Gradient able free bootstrap, angular, react admin template."
   },
   {
     "name": "angular-ngrx-frontend",
@@ -1125,17 +1118,17 @@
   {
     "name": "Threejs",
     "url": "https://github.com/JohnnyDevNull/ng-three-template",
-    "description": "New Three.js starter app"
+    "description": "New Three.js starter app."
   },
   {
     "name": "teleport-code-generators",
     "url": "https://github.com/teleporthq/teleport-code-generators",
-    "description": "A collection of code generators for modern JavaScript applications"
+    "description": "A collection of code generators for modern JavaScript applications."
   },
   {
     "name": "teleport-code-generators",
     "url": "https://github.com/teleporthq/teleport-code-generators",
-    "description": "A collection of code generators for modern JavaScript applications"
+    "description": "A collection of code generators for modern JavaScript applications."
   },
   {
     "name": "graphql-code-generator",
@@ -1160,22 +1153,22 @@
   {
     "name": "angularx-qrcode",
     "url": "https://github.com/cordobo/angularx-qrcode",
-    "description": "A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library"
+    "description": "A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library."
   },
   {
     "name": "Bootify.io",
     "url": "https://bootify.io",
-    "description": "Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality"
+    "description": "Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality."
   },
   {
     "name": "Bootify.io",
     "url": "https://bootify.io",
-    "description": "Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality"
+    "description": "Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality."
   },
   {
     "name": "JHipster",
     "url": "https://www.jhipster.tech",
-    "description": "Open source app generator for Spring Boot and Angular"
+    "description": "Open source app generator for Spring Boot and Angular."
   },
   {
     "name": "Storybook",
@@ -1184,12 +1177,12 @@
   {
     "name": "Compodoc",
     "url": "https://github.com/compodoc/compodoc",
-    "description": "The missing documentation tool for your Angular application"
+    "description": "The missing documentation tool for your Angular application."
   },
   {
     "name": "ng-doc",
     "url": "https://github.com/ng-doc/ng-doc",
-    "description": "The documentation engine for Angular projects"
+    "description": "The documentation engine for Angular projects."
   },
   {
     "name": "docgeni",
@@ -1199,7 +1192,7 @@
   {
     "name": "StackBlitz",
     "url": "https://stackblitz.com",
-    "description": "Instant Dev Environments"
+    "description": "Instant Dev Environments."
   },
   {
     "name": "CodeSandbox",
@@ -1239,7 +1232,7 @@
   {
     "name": "Angular 17 Snippets",
     "url": "https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode",
-    "description": "258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)"
+    "description": "258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)."
   },
   {
     "name": "tsparticles",
@@ -1249,7 +1242,7 @@
   {
     "name": "ngx-confetti-explosion",
     "url": "https://github.com/ChellappanRajan/ngx-confetti-explosion",
-    "description": "Confetti in Angular"
+    "description": "Confetti in Angular."
   },
   {
     "name": "angular-animations",
@@ -1284,12 +1277,12 @@
   {
     "name": "angular-calendar-scheduler",
     "url": "https://github.com/michelebombardi/angular-calendar-scheduler",
-    "description": "A scheduler view component for angular-calendar"
+    "description": "A scheduler view component for angular."
   },
   {
     "name": "ng-fullcalendar",
     "url": "https://github.com/ng-fullcalendar/ng-fullcalendar",
-    "description": "Fullcalendar module for Angular"
+    "description": "Fullcalendar module for Angular."
   },
   {
     "name": "fullcalendar-angular",
@@ -1299,11 +1292,12 @@
   {
     "name": "angular-year-calendar",
     "url": "https://github.com/IOMechs/angular-year-calendar",
-    "description": "A powerful and performant Angular year calendar library built with ❤️"
+    "description": "A powerful and performant Angular year calendar library built with ❤️."
   },
   {
     "name": "ng2-charts",
-    "url": "https://github.com/valor-software/ng2-charts"
+    "url": "https://github.com/valor-software/ng2-charts",
+    "description": "Beautiful charts for Angular2 based on Chart.js."
   },
   {
     "name": "ngx-charts",
@@ -1318,7 +1312,7 @@
   {
     "name": "ng-chartist",
     "url": "https://github.com/willsoto/ng-chartist",
-    "description": "Angular component for Chartist.js"
+    "description": "Angular component for Chartist.js."
   },
   {
     "name": "org-chart",
@@ -1333,12 +1327,12 @@
   {
     "name": "systelab-charts",
     "url": "https://github.com/systelab/systelab-charts",
-    "description": "Systelab Angular Chart services"
+    "description": "Systelab Angular Chart services."
   },
   {
     "name": "ngx-gantt",
     "url": "https://github.com/worktile/ngx-gantt",
-    "description": "A modern and powerful gantt chart component for Angular"
+    "description": "A modern and powerful gantt chart component for Angular."
   },
   {
     "name": "carbon-charts",
@@ -1358,7 +1352,7 @@
   {
     "name": "ngx-drag-drop",
     "url": "https://github.com/reppners/ngx-drag-drop",
-    "description": "Angular directives using the native HTML Drag And Drop API"
+    "description": "Angular directives using the native HTML Drag And Drop API."
   },
   {
     "name": "ngx-dropzone",
@@ -1368,7 +1362,7 @@
   {
     "name": "ng-dnd",
     "url": "https://github.com/ng-dnd/ng-dnd",
-    "description": "Drag and Drop for Angular"
+    "description": "Drag and Drop for Angular."
   },
   {
     "name": "ngx-file-drag-drop",
@@ -1447,7 +1441,8 @@
   },
   {
     "name": "ng2-file-upload",
-    "url": "https://github.com/valor-software/ng2-file-upload"
+    "url": "https://github.com/valor-software/ng2-file-upload",
+    "description": "Easy to use file upload directives."
   },
   {
     "name": "ngx-awesome-uploader",
@@ -1457,6 +1452,16 @@
     "name": "ngx-flow",
     "url": "https://github.com/flowjs/ngx-flow",
     "description": "Angular7+ wrapper for flow.js for file upload"
+  },
+  {
+    "name": "ngx-awesome-uploader",
+    "url": "https://github.com/vugar005/ngx-awesome-uploader",
+    "description": "Angular Library for uploading files with many features."
+  },
+  {
+    "name": "ngx-uploadx",
+    "url": "https://github.com/kukhariev/ngx-uploadx",
+    "description": "Angular Resumable Upload Module."
   },
   {
     "name": "ngx-emoji-mart",
@@ -1609,15 +1614,18 @@
   },
   {
     "name": "@robingenz/ngx-infinite-scroll",
-    "url": "https://github.com/robingenz/ngx-infinite-scroll"
+    "url": "https://github.com/robingenz/ngx-infinite-scroll",
+    "description": "Simple Angular directive for infinite scrolling."
   },
   {
     "name": "angular-fullpage",
-    "url": "https://github.com/alvarotrigo/angular-fullpage"
+    "url": "https://github.com/alvarotrigo/angular-fullpage",
+    "description": "Official component for fullPage.js, a fullscreen scrolling library."
   },
   {
     "name": "angular-split",
-    "url": "https://github.com/bertrandg/angular-split"
+    "url": "https://github.com/bertrandg/angular-split",
+    "description": "Angular split component."
   },
   {
     "name": "ngx-infinite-scroll",
@@ -1632,7 +1640,7 @@
   {
     "name": "ngx-scrolltop",
     "url": "https://github.com/bartholomej/ngx-scrolltop",
-    "description": "Lightweight, Material Design inspired button for scroll-to-top of the page. 🔼 No dependencies. Pure Angular! (Compatibility: Angular 9, Ivy, Universal, ng add)"
+    "description": "Lightweight, Material Design inspired button for scroll-to-top of the page. 🔼 No dependencies. Pure Angular! (Compatibility: Angular 9, Ivy, Universal, ng add)."
   },
   {
     "name": "overview",
@@ -1692,7 +1700,7 @@
   {
     "name": "angular-loaders",
     "url": "https://github.com/pjlamb12/angular-loaders",
-    "description": "Angular loader components"
+    "description": "Angular loader components."
   },
   {
     "name": "ngx-loader-indicator",
@@ -1735,6 +1743,26 @@
     "description": "This component provides a Google Maps Angular component that implements the Google Maps JavaScript API."
   },
   {
+    "name": "ngx-awesome-popup",
+    "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
+    "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
+  },
+  {
+    "name": "dialog",
+    "url": "https://github.com/ngneat/dialog",
+    "description": "A simple to use, highly customizable, and powerful modal."
+  },
+  {
+    "name": "ngx-modal-ease",
+    "url": "https://github.com/GreenFlag31/modal-library",
+    "description": "ngx-modal-ease is a versatile Angular library providing a lightweight, simple, and performant modal."
+  },
+  {
+    "name": "ngx-smart-modal",
+    "url": "https://github.com/maximelafarie/ngx-smart-modal",
+    "description": "Modal/Dialog component crafted for Angular (Ivy-compatible)."
+  },
+  {
     "name": "ngx-sweetalert2",
     "url": "https://github.com/sweetalert2/ngx-sweetalert2",
     "description": "Declarative, reactive, and template-driven SweetAlert2 integration for Angular."
@@ -1753,11 +1781,6 @@
     "name": "ngx-sonner",
     "url": "https://github.com/tutkli/ngx-sonner",
     "description": "An opinionated toast component for Angular. A port of @emilkowalski's sonner."
-  },
-  {
-    "name": "ngx-awesome-popup",
-    "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
-    "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
   },
   {
     "name": "angular-bootstrap-toast-service",
@@ -1965,6 +1988,16 @@
     "description": "Antwerp UI is a component interface library for building user interfaces and responsive web apps."
   },
   {
+    "name": "ng-clarity",
+    "url": "https://github.com/vmware-clarity/ng-clarity",
+    "description": "Clarity Angular is a scalable, accessible, customizable, open-source design system built for Angular."
+  },
+  {
+    "name": "ngx-semantic",
+    "url": "https://github.com/ngx-semantic/ngx-semantic",
+    "description": "A new take on an Angular implementation for Semantic UI."
+  },
+  {
     "name": "Covalent",
     "url": "https://github.com/Teradata/covalent/",
     "description": "Teradata UI Platform built on Angular Material."
@@ -2014,16 +2047,18 @@
   },
   {
     "name": "angular-bootstrap-md",
-    "url": "https://mdbootstrap.com/docs/angular/"
+    "url": "https://mdbootstrap.com/docs/angular/",
+    "description": "Material Design"
   },
   {
     "name": "ng-bootstrap",
     "url": "https://ng-bootstrap.github.io",
-    "description": "Angular 4 directives for Bootstrap 4 by the ui-bootstrap team"
+    "description": "Angular widgets built from the ground up using only Bootstrap 5 CSS with APIs designed for the Angular ecosystem."
   },
   {
     "name": "ngx-bootstrap",
-    "url": "https://github.com/valor-software/ngx-bootstrap"
+    "url": "https://github.com/valor-software/ngx-bootstrap",
+    "description": "Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)."
   },
   {
     "name": "Flowbite",
@@ -2036,19 +2071,24 @@
     "description": "Components library for enterprise-level projects based on Tailwind CSS and Angular."
   },
   {
+    "name": "ngx-vflow",
+    "url": "https://github.com/artem-mangilev/ngx-vflow",
+    "description": "An open source library to build node-based UI with Angular."
+  },
+  {
     "name": "angular-shepherd",
     "url": "https://github.com/shepherd-pro/angular-shepherd",
-    "description": "Angular 7 Service wrapping the site tour library Shepherd"
+    "description": "Angular 7 Service wrapping the site tour library Shepherd."
   },
   {
     "name": "Zoom Image Library",
     "url": "https://willnguyen1312.github.io/zoom-image",
-    "description": "A little yet powerful framework agnostic headless-library to zoom image on the web"
+    "description": "A little yet powerful framework agnostic headless-library to zoom image on the web."
   },
   {
     "name": "skyux",
     "url": "https://github.com/blackbaud/skyux",
-    "description": "SKY UX components for Angular"
+    "description": "SKY UX components for Angular."
   },
   {
     "name": "ngx-ui-tour",
@@ -2093,12 +2133,12 @@
   {
     "name": "ng2-adsense",
     "url": "https://github.com/scttcper/ng2-adsense",
-    "description": "Easy AdSense for Angular Applications"
+    "description": "Easy AdSense for Angular Applications."
   },
   {
     "name": "ngx-countdown",
     "url": "https://github.com/cipchk/ngx-countdown",
-    "description": "Simple, easy and performance countdown for angular"
+    "description": "Simple, easy and performant countdown."
   },
   {
     "name": "xng-breadcrumb",
@@ -2141,11 +2181,6 @@
     "description": "Optimize Angular change detection effortlessly."
   },
   {
-    "name": "dialog",
-    "url": "https://github.com/ngneat/dialog",
-    "description": "A simple to use, highly customizable, and powerful modal."
-  },
-  {
     "name": "edit-in-place",
     "url": "https://github.com/ngneat/edit-in-place",
     "description": "A flexible and unopinionated edit in place library."
@@ -2153,7 +2188,7 @@
   {
     "name": "falso",
     "url": "https://github.com/ngneat/falso",
-    "description": "All the Fake Data for All Your Real Needs"
+    "description": "All the Fake Data for All Your Real Needs."
   },
   {
     "name": "helipopper",
@@ -2233,7 +2268,7 @@
   {
     "name": "typescript-challenges",
     "url": "https://github.com/psmyrdek/typescript-challenges",
-    "description": "A set of challenges helping you understand TypeScript"
+    "description": "A set of challenges helping you understand TypeScript."
   },
   {
     "name": "Sheriff",
@@ -2338,22 +2373,12 @@
   {
     "name": "angular-http-cache-interceptor",
     "url": "https://github.com/patrikx3/angular-http-cache-interceptor",
-    "description": "Angular HTTP cache interceptor"
+    "description": "Angular HTTP cache interceptor."
   },
   {
     "name": "apollo-angular",
     "url": "https://github.com/kamilkisiela/apollo-angular",
     "description": "A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server."
-  },
-  {
-    "name": "ngx-awesome-uploader",
-    "url": "https://github.com/vugar005/ngx-awesome-uploader",
-    "description": "Angular Library for uploading files with many features."
-  },
-  {
-    "name": "ngx-uploadx",
-    "url": "https://github.com/kukhariev/ngx-uploadx",
-    "description": "Angular Resumable Upload Module."
   },
   {
     "name": "Angular.io Security Guide",
@@ -2388,7 +2413,7 @@
   {
     "name": "ngx-auth-firebaseui",
     "url": "https://github.com/AnthonyNahas/ngx-auth-firebaseui",
-    "description": "Angular Material UI component for firebase authentication."
+    "description": "Angular Material UI component for Firebase authentication."
   },
   {
     "name": "ngx-permissions",
@@ -2398,7 +2423,7 @@
   {
     "name": "angular-auth-oidc-client",
     "url": "https://github.com/damienbod/angular-auth-oidc-client",
-    "description": "npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow."
+    "description": "NPM package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow."
   },
   {
     "name": "angularx-social-login",
@@ -2463,7 +2488,7 @@
   {
     "name": "ngrx-toolkit",
     "url": "https://github.com/angular-architects/ngrx-toolkit",
-    "description": "Various Extensions for the NgRx Signal Store"
+    "description": "Various Extensions for the NgRx Signal Store."
   },
   {
     "name": "ngrx-traits",
@@ -2525,8 +2550,7 @@
   },
   {
     "name": "Firebase Hosting",
-    "url": "https://firebase.google.com/docs/hosting",
-    "description": "Angular Fire can help the process in deploying to Firebase Hosting."
+    "url": "https://firebase.google.com/docs/hosting"
   },
   {
     "name": "Netlify",
@@ -2606,7 +2630,7 @@
   {
     "name": "ngx-translate-module-loader",
     "url": "https://github.com/larscom/ngx-translate-module-loader",
-    "description": "Highly configurable and flexible translations loader for @ngx-translate/core"
+    "description": "Highly configurable and flexible translations loader for @ngx-translate/core."
   },
   {
     "name": "ngx-translate-multi-http-loader",

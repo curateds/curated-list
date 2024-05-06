@@ -3218,6 +3218,11 @@
     "description": "Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution."
   },
   {
+    "name": "starlet",
+    "url": "https://github.com/1set/starlet",
+    "description": "Go wrapper for starlark-go that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions."
+  },
+  {
     "name": "tengo",
     "url": "https://github.com/d5/tengo",
     "description": "Bytecode compiled script language for Go."

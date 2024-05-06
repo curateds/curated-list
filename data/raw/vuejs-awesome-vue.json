@@ -9923,6 +9923,11 @@
     "description": "Fully styled and customizable components for Vue 3."
   },
   {
+    "name": "Shadcn UI",
+    "url": "https://github.com/radix-vue/shadcn-vue",
+    "description": "An unofficial, community-led Vue port of shadcn/ui (re-usable components built with Radix Vue and Tailwind CSS)."
+  },
+  {
     "name": "Framework7-Vue",
     "url": "https://github.com/framework7io/framework7",
     "description": "Build full-featured iOS & Android apps using Framework7 & Vue."
@@ -9961,6 +9966,11 @@
     "name": "Vue Native",
     "url": "https://github.com/GeekyAnts/vue-native-core",
     "description": "Build cross platform native mobile apps using JavaScript"
+  },
+  {
+    "name": "uni-app",
+    "url": "https://github.com/dcloudio/uni-app",
+    "description": "A cross-platform framework using Vue.js"
   },
   {
     "name": "mint-ui",
@@ -10229,6 +10239,11 @@
     "description": "An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. Live demo"
   },
   {
+    "name": "vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ Live demo"
+  },
+  {
     "name": "Nuxt.js",
     "url": "https://github.com/nuxt/nuxt.js",
     "description": "Versatile Vue.js Framework."
@@ -10282,6 +10297,11 @@
     "name": "îles",
     "url": "https://github.com/ElMassimo/iles",
     "description": "Islands of interactivity, the joyful site generator"
+  },
+  {
+    "name": "VitePress",
+    "url": "https://github.com/vuejs/vitepress",
+    "description": "Vite & Vue powered static site generator."
   },
   {
     "name": "app-framework",
@@ -10988,6 +11008,11 @@
     "name": "v-route-generate",
     "url": "https://github.com/weiquanju/v-route-generate",
     "description": "A tool to generate routes for vue-router 4.x."
+  },
+  {
+    "name": "kitbag/router",
+    "url": "https://github.com/kitbagjs/router",
+    "description": "A type safe router for vuejs"
   },
   {
     "name": "vue-lazyload",
@@ -13597,6 +13622,11 @@
     "description": "Collect feedback with screenshot and technical data and post them to an API like bruit.io."
   },
   {
+    "name": "devtools-next",
+    "url": "https://github.com/vuejs/devtools-next",
+    "description": "The next iteration of Vue DevTools."
+  },
+  {
     "name": "vue-markdown-loader",
     "url": "https://github.com/QingWei-Li/vue-markdown-loader",
     "description": "Convert Markdown file to Vue Component."
@@ -14206,6 +14236,11 @@
     "name": "Vutron",
     "url": "https://github.com/jooy2/vutron",
     "description": "Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript."
+  },
+  {
+    "name": "electron-vite-vue",
+    "url": "https://github.com/electron-vite/electron-vite-vue",
+    "description": "Really simple Electron + Vite + Vue boilerplate."
   },
   {
     "name": "vue-generator",
