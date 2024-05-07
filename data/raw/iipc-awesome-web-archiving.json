@@ -482,6 +482,11 @@
     "description": "WARC deduplication tool (and WARC library) written in Rust. (In Development)"
   },
   {
+    "name": "warc-safe",
+    "url": "https://github.com/natliblux/warc-safe",
+    "description": "Automatic detection of viruses and NSFW content in WARC files."
+  },
+  {
     "name": "WarcPartitioner",
     "url": "https://github.com/helgeho/WarcPartitioner",
     "description": "Partition (W)ARC Files by MIME Type and Year. (Stable)"

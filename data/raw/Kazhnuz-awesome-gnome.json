@@ -315,6 +315,11 @@
     "description": "Image converter and manipulator (ImageMagick frontend)."
   },
   {
+    "name": "Mingle",
+    "url": "https://github.com/halfmexican/mingle",
+    "description": "Application to combine emojis using Google's Emoji Kitchen."
+  },
+  {
     "name": "Plots",
     "url": "https://apps.gnome.org/app/com.github.alexhuntley.Plots/",
     "description": "Simple graph plotting."
@@ -413,6 +418,11 @@
     "name": "Ptyxis",
     "url": "https://gitlab.gnome.org/chergert/ptyxis",
     "description": "Terminal with first-class support for containers."
+  },
+  {
+    "name": "Damask",
+    "url": "https://gitlab.gnome.org/subpop/damask",
+    "description": "Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc)."
   },
   {
     "name": "Dialect",

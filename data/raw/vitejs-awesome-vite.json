@@ -164,9 +164,9 @@
     "description": "Vue3 / Vite / TailwindCSS website starter template, with guides on each page."
   },
   {
-    "name": "vite-boot",
-    "url": "https://github.com/kirklin/vite-boot",
-    "description": "Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template."
+    "name": "boot-vue",
+    "url": "https://github.com/kirklin/boot-vue",
+    "description": "Starter template with TypeScript + UnoCSS + DaisyUI + Vue Router + Pinia."
   },
   {
     "name": "Vue Naive",
@@ -855,7 +855,7 @@
   },
   {
     "name": "remix-development-tools",
-    "url": "https://github.com/Code-Forge-Net/Remix-Dev-Tools",
+    "url": "https://github.com/forge42dev/Remix-Dev-Tools",
     "description": "Plugin for Remix.run development tools."
   },
   {
@@ -1222,6 +1222,11 @@
     "name": "@tomjs/vite-plugin-iconify",
     "url": "https://github.com/tomjs/vite-plugin-iconify",
     "description": "Inject the global variable IconifyProviders into index.html for iconify, and support local area network and custom url."
+  },
+  {
+    "name": "vite-plugin-icons-spritesheet",
+    "url": "https://github.com/forge42dev/vite-plugin-icons-spritesheet",
+    "description": "Generate a spritesheet and TypeScript types from SVG icons by listening to the icons folder changes."
   },
   {
     "name": "vite-tsconfig-paths",
