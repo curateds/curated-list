@@ -92,12 +92,12 @@
   {
     "name": "angular.love",
     "url": "https://angular.love/",
-    "description": "Polish community for Angular fans"
+    "description": "Polish community for Angular fans."
   },
   {
     "name": "angular hub",
     "url": "https://github.com/angular-sanctuary/angular-hub",
-    "description": "Curated list of Angular events and communities"
+    "description": "Curated list of Angular events and communities."
   },
   {
     "name": "angular addicts",
@@ -140,44 +140,44 @@
     "url": "https://twitter.com/synalx"
   },
   {
-    "name": "Caleb Eggensperger",
-    "url": "https://twitter.com/calebegg"
-  },
-  {
-    "name": "Ciro Nunes",
-    "url": "https://twitter.com/cironunesdev"
-  },
-  {
     "name": "Kristiyan Kostadinov",
     "url": "https://twitter.com/_crisbeto"
-  },
-  {
-    "name": "David East",
-    "url": "https://twitter.com/_davideast"
   },
   {
     "name": "Paul Gschwendtner",
     "url": "https://twitter.com/devversion"
   },
   {
-    "name": "George Kalpakas",
-    "url": "https://twitter.com/gkalpakas"
-  },
-  {
-    "name": "James Daniels",
-    "url": "https://twitter.com/jamesuriah"
-  },
-  {
     "name": "Joost Koehoorn",
     "url": "https://twitter.com/devjoost"
   },
   {
-    "name": "Mark Pieszak",
-    "url": "https://twitter.com/MarkPieszak"
-  },
-  {
     "name": "Simona Cotin",
     "url": "https://twitter.com/simona_cotin"
+  },
+  {
+    "name": "Jessica Janiuk",
+    "url": "https://mastodon.social/@jessicajaniuk"
+  },
+  {
+    "name": "Doug Parker",
+    "url": "https://mastodon.social/@develwithoutacause@techhub.social"
+  },
+  {
+    "name": "Emma Twersky",
+    "url": "https://twitter.com/twerske"
+  },
+  {
+    "name": "Mark Thompson",
+    "url": "https://twitter.com/marktechson"
+  },
+  {
+    "name": "Pawel Kozlowski",
+    "url": "https://twitter.com/pkozlowski_os"
+  },
+  {
+    "name": "Dylan Hunn",
+    "url": "https://twitter.com/dylhunn"
   },
   {
     "name": "@PatrickJS__",
@@ -471,34 +471,6 @@
     "url": "https://medium.com/@eugeniyoz"
   },
   {
-    "name": "Angular Universal Repository (GitHub)",
-    "url": "https://github.com/angular/universal"
-  },
-  {
-    "name": "SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial",
-    "url": "https://snipcart.com/blog/angular-seo-universal-server-side-rendering"
-  },
-  {
-    "name": "ng-web-apis",
-    "url": "https://github.com/taiga-family/ng-web-apis",
-    "description": "A set of common utils for consuming Web APIs with Angular."
-  },
-  {
-    "name": "ssr",
-    "url": "https://angular.dev/guide/ssr#enable-server-side-rendering",
-    "description": "Documentation for the new SSR package built into the framework."
-  },
-  {
-    "name": "angular-prerender",
-    "url": "https://github.com/chrisguttandin/angular-prerender",
-    "description": "A command line tool to prerender Angular Apps."
-  },
-  {
-    "name": "analogjs",
-    "url": "https://analogjs.org/",
-    "description": "Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications."
-  },
-  {
     "name": "Official Angular Material Design (GitHub)",
     "url": "https://github.com/angular/material2"
   },
@@ -662,7 +634,7 @@
   {
     "name": "ng-cli-hooks",
     "url": "https://github.com/smartin85/ng-cli-hooks",
-    "description": "Hooks for the Angular CLI to customize the build"
+    "description": "Hooks for the Angular CLI to customize the build."
   },
   {
     "name": "Webpack",
@@ -675,7 +647,7 @@
   {
     "name": "Nx",
     "url": "https://github.com/nrwl/nx",
-    "description": "Smart Monorepos · Fast CI"
+    "description": "Smart Monorepos · Fast CI."
   },
   {
     "name": "Angular Builders",
@@ -836,48 +808,58 @@
   },
   {
     "name": "ng-book 2",
-    "url": "https://www.ng-book.com/2/"
+    "url": "https://www.ng-book.com/2/",
+    "description": "fullstack.io"
   },
   {
     "name": "Become a ninja with Angular 2",
-    "url": "https://books.ninja-squad.com/angular"
+    "url": "https://books.ninja-squad.com/angular",
+    "description": "Ninja Squad"
   },
   {
     "name": "Angular Development with TypeScript",
-    "url": "https://www.manning.com/books/angular-2-development-with-typescript"
+    "url": "https://www.manning.com/books/angular-2-development-with-typescript",
+    "description": "Manning Publications"
   },
   {
     "name": "Angular in Action",
-    "url": "https://www.manning.com/books/angular-in-action"
+    "url": "https://www.manning.com/books/angular-in-action",
+    "description": "Manning Publications"
   },
   {
     "name": "Practical Angular 2",
-    "url": "https://leanpub.com/practical-angular-2"
+    "url": "https://leanpub.com/practical-angular-2",
+    "description": "Leanpub"
   },
   {
     "name": "Switching to Angular 2",
-    "url": "https://www.packtpub.com/product/switching-to-angular-2/9781785886201"
+    "url": "https://www.packtpub.com/product/switching-to-angular-2/9781785886201",
+    "description": "Packt Publishing"
   },
   {
     "name": "Testing Angular Applications",
-    "url": "https://www.manning.com/books/testing-angular-applications"
+    "url": "https://www.manning.com/books/testing-angular-applications",
+    "description": "Manning Publications"
   },
   {
     "name": "Angular-Buch (German)",
-    "url": "https://angular-buch.com/"
+    "url": "https://angular-buch.com/",
+    "description": "dpunkt.verlag"
   },
   {
     "name": "Build a Full-Stack Web Application Using Angular & Firebase",
-    "url": "https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase"
+    "url": "https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase",
+    "description": "Ankit Sharma"
   },
   {
     "name": "Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises",
     "url": "https://codewithahsan.dev/ng-book",
-    "description": "80+ Recipes to enhance your Angular skills for enterprises Packt Publishing"
+    "description": "80+ Recipes to enhance your Angular skills for enterprises - Packt Publishing"
   },
   {
     "name": "Build a Frontend Web Framework (From Scratch)",
-    "url": "https://www.manning.com/books/build-a-frontend-web-framework-from-scratch"
+    "url": "https://www.manning.com/books/build-a-frontend-web-framework-from-scratch",
+    "description": "Manning Publications"
   },
   {
     "name": "Angular Boot Camp",
@@ -994,11 +976,6 @@
     "name": "Genesis Foundation",
     "url": "https://learn.genesis.global/docs/previous/web/integrations/angular/",
     "description": "Genesis is a low-code platform designed specifically for the financial markets."
-  },
-  {
-    "name": "ngx-google-analytics",
-    "url": "https://github.com/hakimio/ngx-google-analytics",
-    "description": "A simple Google analytics integration for Angular apps."
   },
   {
     "name": "cloudinary",
@@ -1451,7 +1428,7 @@
   {
     "name": "ngx-flow",
     "url": "https://github.com/flowjs/ngx-flow",
-    "description": "Angular7+ wrapper for flow.js for file upload"
+    "description": "Angular7+ wrapper for flow.js for file upload."
   },
   {
     "name": "ngx-awesome-uploader",
@@ -1590,17 +1567,17 @@
   {
     "name": "ngx-focus-control",
     "url": "https://github.com/Raiper34/ngx-focus-control",
-    "description": "Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility"
+    "description": "Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility."
   },
   {
     "name": "angular2-hotkeys",
     "url": "https://github.com/brtnshrdr/angular2-hotkeys",
-    "description": "Keyboard shortcuts for Angular 2 apps"
+    "description": "Keyboard shortcuts for Angular 2 apps."
   },
   {
     "name": "virtual-keyboard-javascript",
     "url": "https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io",
-    "description": "Virtual Keyboard for Javascript, React, Angular, Vue"
+    "description": "Virtual Keyboard for Javascript, React, Angular, & Vue."
   },
   {
     "name": "angular-touch-keyboard",
@@ -1630,7 +1607,7 @@
   {
     "name": "ngx-infinite-scroll",
     "url": "https://github.com/orizens/ngx-infinite-scroll",
-    "description": "Infinite Scroll Directive for Angular"
+    "description": "Infinite Scroll Directive for Angular."
   },
   {
     "name": "egjs-infinitegrid",
@@ -1880,7 +1857,7 @@
   {
     "name": "jsgrids",
     "url": "https://github.com/statico/jsgrids",
-    "description": "A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries here."
+    "description": "A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo."
   },
   {
     "name": "Dev Extreme",
@@ -1970,7 +1947,7 @@
   {
     "name": "sbb-angular",
     "url": "https://github.com/sbb-design-systems/sbb-angular",
-    "description": "Angular Library for SBB"
+    "description": "Angular Library for SBB."
   },
   {
     "name": "ui",
@@ -2124,16 +2101,6 @@
     "name": "ngx-json-viewer",
     "url": "https://github.com/hivivo/ngx-json-viewer",
     "description": "JSON formatter and viewer in HTML for Angular."
-  },
-  {
-    "name": "@davidlj95/ngx-meta",
-    "url": "https://ngx-meta.dev",
-    "description": "Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀"
-  },
-  {
-    "name": "ng2-adsense",
-    "url": "https://github.com/scttcper/ng2-adsense",
-    "description": "Easy AdSense for Angular Applications."
   },
   {
     "name": "ngx-countdown",
@@ -2541,6 +2508,41 @@
     "description": "Real world application built with Angular 17, NgRx 17, & Nx 17."
   },
   {
+    "name": "Heap",
+    "url": "https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular",
+    "description": "Heap is the only digital insights platform that gives you complete understanding of your customers’ digital journeys, so you can quickly improve conversion, retention, and customer delight."
+  },
+  {
+    "name": "ngx-tableau",
+    "url": "https://www.npmjs.com/package/ngx-tableau",
+    "description": "ngx-tableau is an Angular module that allows you to embed a Tableau report in an Angular webapp."
+  },
+  {
+    "name": "ngx-google-analytics",
+    "url": "https://github.com/hakimio/ngx-google-analytics",
+    "description": "A simple Google analytics integration for Angular apps."
+  },
+  {
+    "name": "ng2-adsense",
+    "url": "https://github.com/scttcper/ng2-adsense",
+    "description": "Angular Adsense Component."
+  },
+  {
+    "name": "ngx-matomo-client",
+    "url": "https://github.com/EmmanuelRoux/ngx-matomo-client",
+    "description": "Matomo analytics client for Angular applications."
+  },
+  {
+    "name": "angulartics2",
+    "url": "https://github.com/angulartics/angulartics2",
+    "description": "Vendor-agnostic analytics for Angular2 applications."
+  },
+  {
+    "name": "angular-google-tag-manager",
+    "url": "https://github.com/mzuccaroli/angular-google-tag-manager",
+    "description": "A service library for integrate google tag manager in your angular project."
+  },
+  {
     "name": "aws amplify",
     "url": "https://docs.amplify.aws/angular/"
   },
@@ -2561,6 +2563,64 @@
     "name": "angular-cli-ghpages",
     "url": "https://github.com/angular-schule/angular-cli-ghpages",
     "description": "SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages."
+  },
+  {
+    "name": "@davidlj95/ngx-meta",
+    "url": "https://ngx-meta.dev",
+    "description": "Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀"
+  },
+  {
+    "name": "ngaox",
+    "url": "https://www.npmjs.com/package/@ngaox/seo",
+    "description": "Take Your Angular App Development to the Next Level with Ngaox: Seamless Content Integration, SVG Icon Optimization & Inlining, Advanced SEO & Social-Media Management, and More."
+  },
+  {
+    "name": "ngx-seo",
+    "url": "https://github.com/avivharuzi/ngx-seo",
+    "description": "Update SEO title and meta tags easily in Angular apps."
+  },
+  {
+    "name": "seo-analyzer",
+    "url": "https://github.com/maddevsio/seo-analyzer",
+    "description": "The library for analyze a HTML file to show all of the SEO defects."
+  },
+  {
+    "name": "ngx-seo",
+    "url": "https://github.com/samvloeberghs/kwerri-oss/tree/main",
+    "description": "Kwerri OSS: samvloeberghs.be + ngx-seo."
+  },
+  {
+    "name": "angular-react-seo",
+    "url": "https://github.com/ganatan/angular-react-seo",
+    "description": "Angular 17 & React 18 Examples SEO (Search engine optimization)."
+  },
+  {
+    "name": "Angular Universal Repository (GitHub)",
+    "url": "https://github.com/angular/universal"
+  },
+  {
+    "name": "SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial",
+    "url": "https://snipcart.com/blog/angular-seo-universal-server-side-rendering"
+  },
+  {
+    "name": "ng-web-apis",
+    "url": "https://github.com/taiga-family/ng-web-apis",
+    "description": "A set of common utils for consuming Web APIs with Angular."
+  },
+  {
+    "name": "ssr",
+    "url": "https://angular.dev/guide/ssr#enable-server-side-rendering",
+    "description": "Documentation for the new SSR package built into the framework."
+  },
+  {
+    "name": "angular-prerender",
+    "url": "https://github.com/chrisguttandin/angular-prerender",
+    "description": "A command line tool to prerender Angular Apps."
+  },
+  {
+    "name": "analogjs",
+    "url": "https://analogjs.org/",
+    "description": "Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications."
   },
   {
     "name": "angular update guide",

@@ -3253,6 +3253,11 @@
     "description": "🖖 Best practices for building RealWorld with Vue3"
   },
   {
+    "name": "slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "description": "Presentation Slides for Developers"
+  },
+  {
     "name": "Wijmo",
     "url": "http://wijmo.com/products/wijmo-5/",
     "description": "A collection of UI controls with VueJS support."
@@ -7054,6 +7059,11 @@
     "description": "Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering."
   },
   {
+    "name": "vue-flow",
+    "url": "https://github.com/bcakmakoglu/vue-flow",
+    "description": "Interactive, customizeabe, graph & flowchart editor for Vue3"
+  },
+  {
     "name": "vue-social-sharing",
     "url": "https://github.com/nicolasbeauvais/vue-social-sharing",
     "description": "A renderless Vue.js component for sharing links to social networks, compatible with SSR"
@@ -7122,6 +7132,11 @@
     "name": "vue3-qr-reader",
     "url": "https://github.com/HJ29/vue3-qr-reader",
     "description": "A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility."
+  },
+  {
+    "name": "qrcode.vue",
+    "url": "https://github.com/scopewu/qrcode.vue",
+    "description": "A Vue.js component to generate qrcode. Supports both Vue 2 and Vue 3."
   },
   {
     "name": "vue-fuse",
@@ -8936,6 +8951,11 @@
     "name": "vue-img-cutter",
     "url": "https://github.com/acccccccb/vue-img-cutter",
     "description": "A vue plugin for image cutting tool,it's very convenient to use."
+  },
+  {
+    "name": "vue-picture-cropper",
+    "url": "https://github.com/chengpeiquan/vue-picture-cropper",
+    "description": "A simple and easy-to-use picture cropping component for Vue 3."
   },
   {
     "name": "vue-cloudinary",
@@ -11343,6 +11363,10 @@
     "url": "https://github.com/Applelo/blottie"
   },
   {
+    "name": "vue-countup-v3",
+    "url": "https://github.com/jizai1125/vue-countup-v3"
+  },
+  {
     "name": "vue-head",
     "url": "https://github.com/ktquez/vue-head",
     "description": "Manage the meta information of the head tag, a simple and easy way."
@@ -11599,11 +11623,18 @@
   },
   {
     "name": "TresJs",
-    "url": "https://github.com/tresjs/tres"
+    "url": "https://github.com/tresjs/tres",
+    "description": "Declarative ThreeJS using Vue Components"
   },
   {
     "name": "Cientos",
-    "url": "https://github.com/Tresjs/cientos"
+    "url": "https://github.com/Tresjs/cientos",
+    "description": "Collection of useful helpers and fully functional, ready-made abstractions for TresJs"
+  },
+  {
+    "name": "trois",
+    "url": "https://github.com/troisjs/trois",
+    "description": "✨ ThreeJS + VueJS 3 + ViteJS ⚡"
   },
   {
     "name": "vue-fullscreen",
@@ -11724,6 +11755,11 @@
     "name": "fontawesome-autogen",
     "url": "https://github.com/GTANAdam/fontawesome-autogen",
     "description": "Automatically detect and import fontawesome icons used in your webapp."
+  },
+  {
+    "name": "vue-macros",
+    "url": "https://vue-macros.dev",
+    "description": "Explore and extend more macros and syntax sugar to Vue."
   },
   {
     "name": "vue-typed",
@@ -12119,6 +12155,11 @@
     "name": "vue-catch-hrefs",
     "url": "https://github.com/Tahul/vue-catch-hrefs",
     "description": "Catch clicks on hrefs links (in v-html) and route them to vue-router."
+  },
+  {
+    "name": "mitt",
+    "url": "https://github.com/developit/mitt",
+    "description": "🥊 Tiny 200 byte functional event emitter / pubsub."
   },
   {
     "name": "vue-localstorage",
@@ -13632,6 +13673,11 @@
     "description": "The next iteration of Vue DevTools."
   },
   {
+    "name": "vite-plugin-vue-inspector",
+    "url": "https://github.com/webfansplz/vite-plugin-vue-inspector",
+    "description": "jump to editor source code while click the element of browser automatically."
+  },
+  {
     "name": "vue-markdown-loader",
     "url": "https://github.com/QingWei-Li/vue-markdown-loader",
     "description": "Convert Markdown file to Vue Component."
@@ -13766,6 +13812,11 @@
     "description": "Unit testing Vux with chai."
   },
   {
+    "name": "vitest",
+    "url": "https://github.com/vitest-dev/vitest",
+    "description": "Next generation testing framework powered by Vite."
+  },
+  {
     "name": "vue-node",
     "url": "https://github.com/knpwrs/vue-node",
     "description": "Load vue components in node."
@@ -13868,6 +13919,11 @@
     "name": "Kate Syntax Files",
     "url": "https://github.com/mtorromeo/kate-syntax-files",
     "description": "Syntax files (modified or original) for katepart (kate, kwrite, kdevelop)."
+  },
+  {
+    "name": "Vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!"
   },
   {
     "name": "vue-cli",
