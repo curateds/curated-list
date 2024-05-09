@@ -10332,6 +10332,10 @@
     "description": "Validate Golang request data with simple rules. Highly inspired by Laravel's request validation."
   },
   {
+    "name": "hvalid",
+    "url": "https://github.com/lyonnee/hvalid"
+  },
+  {
     "name": "jio",
     "url": "https://github.com/faceair/jio",
     "description": "jio is a json schema validator similar to joi."

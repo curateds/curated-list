@@ -439,6 +439,10 @@
     "url": "https://blogs.halodoc.io/tag/angular-2-2/"
   },
   {
+    "name": "marmicode",
+    "url": "https://marmicode.io/learn/everything"
+  },
+  {
     "name": "Netanel Basal",
     "url": "https://medium.com/@netbasal"
   },
@@ -913,6 +917,10 @@
     "description": "Angular Training by Expert Brecht Billiet!"
   },
   {
+    "name": "Marmicode",
+    "url": "https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085"
+  },
+  {
     "name": "apollo-angular",
     "url": "https://github.com/apollographql/apollo-angular",
     "description": "Caching GraphQL client for Angular and every GraphQL server."
@@ -1270,6 +1278,51 @@
     "name": "angular-year-calendar",
     "url": "https://github.com/IOMechs/angular-year-calendar",
     "description": "A powerful and performant Angular year calendar library built with ❤️."
+  },
+  {
+    "name": "ngu-carousel",
+    "url": "https://github.com/uiuniversal/ngu-carousel",
+    "description": "Angular Universal carousel."
+  },
+  {
+    "name": "ngx-slider",
+    "url": "https://github.com/angular-slider/ngx-slider",
+    "description": "Self-contained, mobile friendly slider component for Angular based on angularjs-slider."
+  },
+  {
+    "name": "ngx-gallery",
+    "url": "https://github.com/MurhafSousli/ngx-gallery",
+    "description": "Angular Gallery, Carousel and Lightbox."
+  },
+  {
+    "name": "ng-image-slider",
+    "url": "https://github.com/sanjayV/ng-image-slider",
+    "description": "Angular Image Slider with Lightbox."
+  },
+  {
+    "name": "ngx-slick-carousel",
+    "url": "https://github.com/leo6104/ngx-slick-carousel",
+    "description": "Angular 17+ wrapper for slick plugin."
+  },
+  {
+    "name": "ngx-splide",
+    "url": "https://github.com/JustCommunication-ru/ngx-splide",
+    "description": "Splide.js integration to Angular."
+  },
+  {
+    "name": "ngx-owl-carousel-o",
+    "url": "https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o",
+    "description": "owl-carousel for Angular >=6."
+  },
+  {
+    "name": "angular2-image-gallery",
+    "url": "https://github.com/BenjaminBrandmeier/angular2-image-gallery",
+    "description": "Image Gallery built with Angular 17+, node.js and GraphicsMagick."
+  },
+  {
+    "name": "egjs-flicking",
+    "url": "https://naver.github.io/egjs-flicking/docs/quick-start",
+    "description": "Flicking Angular Quick Start"
   },
   {
     "name": "ng2-charts",
@@ -1720,6 +1773,41 @@
     "description": "This component provides a Google Maps Angular component that implements the Google Maps JavaScript API."
   },
   {
+    "name": "rx-angular",
+    "url": "https://github.com/rx-angular/rx-angular",
+    "description": "RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience."
+  },
+  {
+    "name": "trellisorg platform",
+    "url": "https://github.com/trellisorg/platform",
+    "description": "The Trellis Open Source Repo contains projects and tools, some of which Trellis uses internally, but has opened sourced for the community to use."
+  },
+  {
+    "name": "ng-web-apis",
+    "url": "https://github.com/taiga-family/ng-web-apis",
+    "description": "A set of common utils for consuming Web APIs with Angular."
+  },
+  {
+    "name": "daffodil",
+    "url": "https://github.com/graycoreio/daffodil",
+    "description": "Angular Ecommerce PWA Framework."
+  },
+  {
+    "name": "ngworker",
+    "url": "https://github.com/ngworker/ngworker",
+    "description": "Monorepo for the @ngworker NPM organization. Packages for Angular applications and testing."
+  },
+  {
+    "name": "myndpm",
+    "url": "https://github.com/myndpm/open-source",
+    "description": "Open Source Angular Libraries contributed by @myndpm."
+  },
+  {
+    "name": "jscutlery devkit",
+    "url": "https://github.com/jscutlery/devkit",
+    "description": "Tools that make Angular developer's life easier."
+  },
+  {
     "name": "ngx-awesome-popup",
     "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
     "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
@@ -1798,11 +1886,6 @@
     "name": "ngrx",
     "url": "https://github.com/ngrx/platform",
     "description": "Reactive State for Angular."
-  },
-  {
-    "name": "rx-angular",
-    "url": "https://github.com/rx-angular/rx-angular",
-    "description": "RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience."
   },
   {
     "name": "query",
@@ -2493,11 +2576,6 @@
     "description": "This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications."
   },
   {
-    "name": "platform",
-    "url": "https://github.com/trellisorg/platform",
-    "description": "The Trellis Open Source Repo contains projects and tools, some of which Trellis uses internally, but has opened sourced for the community to use."
-  },
-  {
     "name": "Tim Deschryver Blog",
     "url": "https://timdeschryver.dev/blog?q=NgRx",
     "description": "Excellent NgRx articles from a core maintainer."
@@ -2601,11 +2679,6 @@
   {
     "name": "SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial",
     "url": "https://snipcart.com/blog/angular-seo-universal-server-side-rendering"
-  },
-  {
-    "name": "ng-web-apis",
-    "url": "https://github.com/taiga-family/ng-web-apis",
-    "description": "A set of common utils for consuming Web APIs with Angular."
   },
   {
     "name": "ssr",

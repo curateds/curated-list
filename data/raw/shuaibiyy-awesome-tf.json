@@ -1701,6 +1701,11 @@
     "description": "OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud."
   },
   {
+    "name": "Firefly",
+    "url": "https://www.firefly.ai/",
+    "description": "Alternative to Terraform Cloud by leveraging your CI tool. Firefly platform also scans your cloud to asses the IaC coverage & drift detection. 💲"
+  },
+  {
     "name": "Scalr",
     "url": "https://www.scalr.com/",
     "description": "Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. 💲"

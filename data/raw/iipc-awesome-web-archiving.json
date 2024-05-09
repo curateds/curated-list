@@ -523,8 +523,13 @@
   },
   {
     "name": "Jwat",
-    "url": "https://sbforge.org/display/JWAT/JWAT",
-    "description": "Libraries and tools for reading/writing/validating WARC/ARC/GZIP files (Java). (Stable)"
+    "url": "https://github.com/netarchivesuite/jwat",
+    "description": "Libraries for reading/writing/validating WARC/ARC/GZIP files (Java). (Stable)"
+  },
+  {
+    "name": "Jwat-Tools",
+    "url": "https://github.com/netarchivesuite/jwat-tools",
+    "description": "Tools for reading/writing/validating WARC/ARC/GZIP files (Java). (Stable)"
   },
   {
     "name": "node-warc",
