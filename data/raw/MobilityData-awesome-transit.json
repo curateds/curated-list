@@ -261,6 +261,11 @@
     "description": "Software powering CityBikes for worldwide bikeshare system info"
   },
   {
+    "name": "Simple Transit Api",
+    "url": "https://github.com/ioTransit/simple-transit-api",
+    "description": "A simple way to get started with a GTFS api in Golang."
+  },
+  {
     "name": "TransitClock",
     "url": "https://thetransitclock.github.io/",
     "description": "Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.  Formerly known as \"Transitime\"."
@@ -551,6 +556,11 @@
     "description": "Web application for animation and visualization of GTFS data using gtfspy."
   },
   {
+    "name": "gtfs-to-geojson",
+    "url": "https://www.transit.chat/gtfs-to-geojson",
+    "description": "A simple online converter for gtfs to geojson with a list of feeds."
+  },
+  {
     "name": "gtfs-visualizations",
     "url": "https://github.com/cmichi/gtfs-visualizations",
     "description": "Open-source NodeJS application for visualizing the routes of GTFS datasets."
@@ -579,6 +589,16 @@
     "name": "SEPTA Rail OTP Report",
     "url": "https://apps.phor.net/septa/",
     "description": "An online on-time performance reporing & drill down tool using GTFS."
+  },
+  {
+    "name": "Simple Transit Map",
+    "url": "https://transit.chat/simple-transit-map",
+    "description": "An online exmple of how to host and update a webmap with your gtfs on Github"
+  },
+  {
+    "name": "Simple Transit Site",
+    "url": "https://transit.chat/simple-transit-site",
+    "description": "An online exmple of how to create a transit website all from your gtfs on Github"
   },
   {
     "name": "TNExT",
@@ -1019,6 +1039,11 @@
     "description": "A Java tool for synchronizing data in GTFS format with OpenStreetMap.org."
   },
   {
+    "name": "gtfs-parser",
+    "url": "https://github.com/ioTransit/gtfs-parser",
+    "description": "The GTFS-PARSER library is a library to allow javascript to parse gtfs and create geojson on client or server."
+  },
+  {
     "name": "gtfs-service-area",
     "url": "https://github.com/cal-itp/gtfs-service-area",
     "description": "Compute a transit service area from static GTFS. Results are output as single-layer .geojson files. Dockerized version of gtfs-to-geojson."
@@ -1246,6 +1271,11 @@
     "name": "transitr",
     "url": "https://github.com/tmelliott/transitr",
     "description": "An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs"
+  },
+  {
+    "name": "transit-intensity",
+    "url": "https://github.com/ioTransit/transit-intensity",
+    "description": "A simple project for measuring transit intensity written in Go."
   },
   {
     "name": "Busbuzzard",

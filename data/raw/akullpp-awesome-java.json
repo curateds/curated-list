@@ -1900,6 +1900,11 @@
     "description": "Wrapper for the IP2Location.io Geolocation API and the IP2WHOIS domain WHOIS API."
   },
   {
+    "name": "ISBN core",
+    "url": "https://github.com/ladutsko/isbn-core",
+    "description": "A small library that contains a representation object of ISBN-10 and ISBN-13 and tools to parse, validate and format one."
+  },
+  {
     "name": "J2ObjC",
     "url": "https://github.com/google/j2objc",
     "description": "Java-to-Objective-C translator for porting Android libraries to iOS."

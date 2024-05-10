@@ -866,6 +866,11 @@
     "description": "Manning Publications"
   },
   {
+    "name": "Modern Angular (FREE EBOOK)",
+    "url": "https://www.angulararchitects.io/en/ebooks/modern-angular/?book",
+    "description": "Manfred Steyer"
+  },
+  {
     "name": "Angular Boot Camp",
     "url": "https://angularbootcamp.com"
   },
@@ -1911,6 +1916,36 @@
     "name": "mini-rx-store",
     "url": "https://github.com/spierala/mini-rx-store",
     "description": "MiniRx is the reactive state management platform."
+  },
+  {
+    "name": "ngx-reactive-storage",
+    "url": "https://github.com/e-oz/ngx-reactive-storage",
+    "description": "Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables."
+  },
+  {
+    "name": "ng2-webstorage",
+    "url": "https://github.com/PillowPillow/ng2-webstorage",
+    "description": "LocalStorage and SessionStorage manager."
+  },
+  {
+    "name": "ngx-indexed-db",
+    "url": "https://github.com/assuncaocharles/ngx-indexed-db",
+    "description": "Wraps IndexedDB in an Angular service."
+  },
+  {
+    "name": "angular-async-local-storage",
+    "url": "https://github.com/cyrilletuzi/angular-async-local-storage",
+    "description": "Efficient client-side storage for Angular: simple API + performance + Observables + validation."
+  },
+  {
+    "name": "ng-web-apis/storage",
+    "url": "https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md",
+    "description": "This is a library to use Web Storage API with Angular."
+  },
+  {
+    "name": "ngx-odm",
+    "url": "https://github.com/voznik/ngx-odm",
+    "description": "Angular 14+ wrapper for RxDB."
   },
   {
     "name": "ag-grid",

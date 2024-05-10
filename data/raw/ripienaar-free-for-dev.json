@@ -762,6 +762,11 @@
     "url": "https://www.mailboxvalidator.com"
   },
   {
+    "name": "Market Data API",
+    "url": "https://www.marketdata.app",
+    "description": "Provides real-time and historical financial data for stocks, options, mutual funds, and more. The Free Forever API tier allows for 100 daily API requests at no charge."
+  },
+  {
     "name": "Meteosource Weather API",
     "url": "https://www.meteosource.com/"
   },
@@ -1907,6 +1912,11 @@
     "name": "microtica.com",
     "url": "https://microtica.com/",
     "description": "Startup environments with ready-made infrastructure components, deploy apps on AWS for free, and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 monthly deployments."
+  },
+  {
+    "name": "Nx Cloud",
+    "url": "https://nx.dev/ci",
+    "description": "Nx Cloud speeds up your monorepos on CI with features such as remote caching, distribution of tasks across machines and even automated splitting of your e2e test runs. It comes with a free plan for up to 30 contributors with generous 150k credits included."
   },
   {
     "name": "Applitools.com",
@@ -4909,6 +4919,10 @@
   {
     "name": "Imgbot",
     "url": "https://github.com/marketplace/imgbot"
+  },
+  {
+    "name": "ImgBB",
+    "url": "https://imgbb.com/"
   },
   {
     "name": "imgen",
