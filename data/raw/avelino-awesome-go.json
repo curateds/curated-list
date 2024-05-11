@@ -899,6 +899,11 @@
     "description": "Simple, useful and opinionated config loader."
   },
   {
+    "name": "bcl",
+    "url": "https://github.com/wkhere/bcl",
+    "description": "BCL is a configuration language similar to HCL."
+  },
+  {
     "name": "cleanenv",
     "url": "https://github.com/ilyakaznacheev/cleanenv",
     "description": "Minimalistic configuration reader (from files, ENV, and wherever you want)."
@@ -1197,6 +1202,11 @@
     "name": "go-fuzz-action",
     "url": "https://github.com/jidicula/go-fuzz-action",
     "description": "Use Go 1.18's built-in fuzz testing in GitHub Actions."
+  },
+  {
+    "name": "go-semver-release",
+    "url": "https://github.com/s0ders/go-semver-release",
+    "description": "Automate the semantic versioning of Git repositories."
   },
   {
     "name": "go-test-coverage",
@@ -10420,6 +10430,11 @@
     "description": "Go bindings for FFmpeg av* libraries."
   },
   {
+    "name": "go-astiav",
+    "url": "https://github.com/asticode/go-astiav",
+    "description": "Better C bindings for ffmpeg in GO."
+  },
+  {
     "name": "go-astisub",
     "url": "https://github.com/asticode/go-astisub",
     "description": "Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.)."
@@ -11457,14 +11472,9 @@
     "description": "Visualize call graph of your Go program using dot format."
   },
   {
-    "name": "go-james",
-    "url": "https://github.com/pieterclaerhout/go-james",
-    "description": "Go project skeleton creator, builds and tests your projects without the manual setup."
-  },
-  {
-    "name": "go-pkg-complete",
-    "url": "https://github.com/skelterjohn/go-pkg-complete",
-    "description": "Bash completion for go and wgo."
+    "name": "go-size-analyzer",
+    "url": "https://github.com/Zxilly/go-size-analyzer",
+    "description": "Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build."
   },
   {
     "name": "go-swagger",

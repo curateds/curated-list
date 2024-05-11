@@ -1094,14 +1094,14 @@
     "description": "Tensorboard for PyTorch (and chainer, mxnet, numpy, ...)."
   },
   {
-    "name": "mxboard",
-    "url": "https://github.com/awslabs/mxboard",
-    "description": "Logging MXNet data for visualization in TensorBoard."
-  },
-  {
     "name": "gplearn",
     "url": "https://github.com/trevorstephens/gplearn",
     "description": "Genetic Programming in Python."
+  },
+  {
+    "name": "PyGAD",
+    "url": "https://github.com/ahmedfgad/GeneticAlgorithmPython",
+    "description": "Genetic Algorithm in Python."
   },
   {
     "name": "DEAP",
