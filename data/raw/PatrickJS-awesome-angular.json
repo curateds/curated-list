@@ -1,13 +1,5 @@
 [
   {
-    "name": "Angular Challenges",
-    "url": "https://angular-challenges.vercel.app/"
-  },
-  {
-    "name": "Angular Challenges",
-    "url": "https://angular-challenges.vercel.app/"
-  },
-  {
     "name": "Site",
     "url": "https://angular.io"
   },
@@ -1225,6 +1217,25 @@
     "description": "258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)."
   },
   {
+    "name": "angular-fundamental-lessons",
+    "url": "https://github.com/MarkTechson/angular-fundamentals-lessons"
+  },
+  {
+    "name": "Angular Challenges",
+    "url": "https://angular-challenges.vercel.app/",
+    "description": "This repository gathers 50 challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills."
+  },
+  {
+    "name": "Codelabs",
+    "url": "https://codelabs.developers.google.com/?text=angular",
+    "description": "Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application."
+  },
+  {
+    "name": "rxjs-fruits",
+    "url": "https://www.rxjs-fruits.com/subscribe",
+    "description": "Interactive lessons covering a range of operators in RxJS."
+  },
+  {
     "name": "tsparticles",
     "url": "https://github.com/tsparticles/angular/#readme",
     "description": "A component to easily add Particles animations to your Angular application."
@@ -2256,6 +2267,11 @@
     "description": "Generic pipe for Angular application."
   },
   {
+    "name": "safe-pipe",
+    "url": "https://github.com/embarq/safe-pipe",
+    "description": "Angular pipe for sanitizing your unsafe content."
+  },
+  {
     "name": "rx-computed",
     "url": "https://github.com/jscutlery/devkit/tree/main/packages/rx-computed",
     "description": "The async RxJS-based version of signals' computed()."
@@ -2279,6 +2295,36 @@
     "name": "helipopper",
     "url": "https://github.com/ngneat/helipopper",
     "description": "A Powerful Tooltip and Popover for Angular Applications."
+  },
+  {
+    "name": "popover",
+    "url": "https://github.com/ncstate-sat/popover",
+    "description": "Popover component for Angular."
+  },
+  {
+    "name": "ngx-device-detector",
+    "url": "https://github.com/AhsanAyaz/ngx-device-detector",
+    "description": "An Angular v7+ library to detect the device, OS, and browser details."
+  },
+  {
+    "name": "ngx-feature-toggle",
+    "url": "https://github.com/willmendesneto/ngx-feature-toggle",
+    "description": "Your module to handle with feature toggles in Angular applications easier."
+  },
+  {
+    "name": "runtime-config-loader",
+    "url": "https://github.com/pjlamb12/runtime-config-loader",
+    "description": "This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration."
+  },
+  {
+    "name": "ng-polymorpheus",
+    "url": "https://github.com/taiga-family/ng-polymorpheus",
+    "description": "Polymorpheus is a tiny library for polymorphic templates in Angular."
+  },
+  {
+    "name": "ngx-dynamic-hooks",
+    "url": "https://github.com/MTobisch/ngx-dynamic-hooks",
+    "description": "Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM."
   },
   {
     "name": "rxjs",
