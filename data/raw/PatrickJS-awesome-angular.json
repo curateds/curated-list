@@ -2367,6 +2367,51 @@
     "description": "A framework-agnostic RxJS effects implementation."
   },
   {
+    "name": "ngx-observable-lifecycle",
+    "url": "https://github.com/cloudnc/ngx-observable-lifecycle",
+    "description": "Library for observing the lifecycle of an (ivy compiled) angular component."
+  },
+  {
+    "name": "rx-sandbox",
+    "url": "https://github.com/kwonoj/rx-sandbox",
+    "description": "Marble diagram DSL based test suite for RxJS."
+  },
+  {
+    "name": "observer-spy",
+    "url": "https://github.com/hirezio/observer-spy",
+    "description": "This library makes RxJS Observables testing easy!"
+  },
+  {
+    "name": "ngx-operators",
+    "url": "https://github.com/nilsmehlhorn/ngx-operators",
+    "description": "RxJS operators for Angular."
+  },
+  {
+    "name": "rxjs-toolbox",
+    "url": "https://github.com/kievsash/rxjs-toolbox",
+    "description": "Set of custom operators and handy factory functions for RxJS."
+  },
+  {
+    "name": "subscribable-things",
+    "url": "https://github.com/chrisguttandin/subscribable-things",
+    "description": "A collection of reactive wrappers for various browser APIs."
+  },
+  {
+    "name": "ngx-rxjs-zone-scheduler",
+    "url": "https://github.com/ftischler/ngx-rxjs-zone-scheduler",
+    "description": "A library for Angular providing rxjs schedulers to run some kind of work inside or outside of NgZone."
+  },
+  {
+    "name": "rxjs-broker",
+    "url": "https://github.com/chrisguttandin/rxjs-broker",
+    "description": "An RxJS message broker for WebRTC DataChannels and WebSockets."
+  },
+  {
+    "name": "rxjs-insights",
+    "url": "https://github.com/ksz-ksz/rxjs-insights",
+    "description": "See through the observables."
+  },
+  {
     "name": "TypeScript",
     "url": "https://www.typescriptlang.org/",
     "description": "Official Website for TypeScript."

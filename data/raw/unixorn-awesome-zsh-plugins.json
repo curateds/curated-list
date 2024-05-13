@@ -996,6 +996,11 @@
     "description": "A plugin for managing git branches."
   },
   {
+    "name": "brave",
+    "url": "https://github.com/troykelly/oh-my-zsh-brave",
+    "description": "Manages Brave profiles. With this plugin, you can start the Brave Browser with a specific user profile by using the brave command followed by the profile's name. The plugin also implements autocompletion for the profile names so you won't have to type the entire profile name manually."
+  },
+  {
     "name": "brew (rhuang2014)",
     "url": "https://github.com/rhuang2014/brew",
     "description": "Standalone plugin for the Homebrew Package Manager."
@@ -1686,7 +1691,12 @@
     "description": "A zle widget that allows you to write custom expanders and select them with fzf."
   },
   {
-    "name": "explain-shell",
+    "name": "explain-shell (brokentoaster)",
+    "url": "https://github.com/brokentoaster/zsh-explainshell",
+    "description": "Uses lynx to look up the current command line on explainshell.com."
+  },
+  {
+    "name": "explain-shell (gmatheu)",
     "url": "https://github.com/gmatheu/shell-plugins",
     "description": "Opens commands on explainshell.com."
   },
@@ -1787,7 +1797,7 @@
   },
   {
     "name": "fixnumpad-osx",
-    "url": "https://github.com/zackintosh/fixnumpad-osx.plugin.zsh/blob/master/fixnumpad-osx.plugin.zsh",
+    "url": "https://github.com/zackintosh/fixnumpad-osx.plugin.zsh",
     "description": "Enables numpad keys of Apple keyboards to be recognized in ZSH."
   },
   {
@@ -2222,7 +2232,7 @@
   },
   {
     "name": "goenv (cda0)",
-    "url": "https://github.com/CDA0/zsh-goenv/blob/master/zsh-goenv.plugin.zsh",
+    "url": "https://github.com/CDA0/zsh-goenv/",
     "description": "Plugin for installing, updating and loading goenv."
   },
   {
@@ -3150,6 +3160,11 @@
     "description": "Turn your terminal into the matrix."
   },
   {
+    "name": "ollama",
+    "url": "https://github.com/plutowang/zsh-ollama-command",
+    "description": "Integrates the OLLAMA AI model with fzf to provide intelligent command suggestions based on user input requirements."
+  },
+  {
     "name": "omz-full-autoupdate",
     "url": "https://github.com/Pilaton/OhMyZsh-full-autoupdate",
     "description": "Automatically update oh-my-zsh plugins and themes."
@@ -3661,7 +3676,7 @@
   },
   {
     "name": "raspberryPi4Temperature",
-    "url": "https://github.com/KidesLeo/RaspberryPi4TemperaturePromptPlugin/blob/main/RaspberryPi4TemperaturePromptPlugin.zsh",
+    "url": "https://github.com/KidesLeo/RaspberryPi4TemperaturePromptPlugin",
     "description": "Puts the Raspberry Pi temperature into a spaceship prompt segment"
   },
   {
@@ -3753,6 +3768,11 @@
     "name": "rockz",
     "url": "https://github.com/aperezdc/rockz",
     "description": "Lua + LuaRocks virtual environment manager based upon VirtualZ."
+  },
+  {
+    "name": "ros2-env",
+    "url": "https://github.com/Butakus/ros2-env",
+    "description": "Manage ROS 2 environment and workspaces."
   },
   {
     "name": "run-scripts",
@@ -5897,6 +5917,11 @@
     "description": "Key bindings to complete words from your tmux pane."
   },
   {
+    "name": "tofu",
+    "url": "https://github.com/marknefedov/oh-my-zsh-tofu",
+    "description": "Autoloads tab completions for tofu."
+  },
+  {
     "name": "tugboat",
     "url": "https://github.com/DimitriSteyaert/Zsh-tugboat",
     "description": "Adds autocompletion for tugboat command."
@@ -6660,6 +6685,11 @@
     "name": "calma",
     "url": "https://github.com/luislve17/calma",
     "description": "Minimalist theme that works well on dark backgrounds. Includes decorators for truncated current directory, git information, time, and for the exit status of last command."
+  },
+  {
+    "name": "candy-fantasy",
+    "url": "https://github.com/fffelix-huang/candy-fantasy",
+    "description": "Modified version of Candy Kingdowmtheme."
   },
   {
     "name": "candy-light",

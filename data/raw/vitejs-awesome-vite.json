@@ -509,6 +509,11 @@
     "description": "Remove the data-testid (configurable) from production builds."
   },
   {
+    "name": "React Tanning",
+    "url": "https://github.com/padunk/react-tanning",
+    "description": "Starter template with React + Vite + TypeScript + TanStack + Tailwind."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -2033,6 +2038,11 @@
     "description": "Support for Twig with includes/embeds and Drupal specific twig features."
   },
   {
+    "name": "PHP-Vite",
+    "url": "https://github.com/mindplay-dk/php-vite",
+    "description": "Integration for PHP, Composer package, no framework dependencies."
+  },
+  {
     "name": "Viject",
     "url": "https://github.com/bhbs/viject",
     "description": "One-shot migration tool from Create React App."
@@ -2131,5 +2141,10 @@
     "name": "vite-run",
     "url": "https://github.com/biggerstar/vite-run",
     "description": "Multiple configuration execution support for vite, freely combining configurations like stacked blocks."
+  },
+  {
+    "name": "Dataviz Explorer",
+    "url": "https://github.com/fehmisener/dataviz-explorer",
+    "description": "A tool for large CSV, database, and real-time visualization with interactive plots using Highcharts, Chart.js, React, JavaScript, Material UI and GitHub Actions with Coverage Report."
   }
 ]
