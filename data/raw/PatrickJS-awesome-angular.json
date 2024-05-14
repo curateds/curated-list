@@ -467,15 +467,6 @@
     "url": "https://medium.com/@eugeniyoz"
   },
   {
-    "name": "Official Angular Material Design (GitHub)",
-    "url": "https://github.com/angular/material2"
-  },
-  {
-    "name": "MDBootstrap",
-    "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
-    "description": "Angular 16 & Bootstrap 5 & Material Design 2.0 UI KIT."
-  },
-  {
     "name": "Official Angular Cheatsheet",
     "url": "https://angular.io/guide/cheatsheet"
   },
@@ -1824,6 +1815,11 @@
     "description": "Tools that make Angular developer's life easier."
   },
   {
+    "name": "angular components",
+    "url": "https://github.com/angular/components",
+    "description": "Component infrastructure and Material Design components for Angular."
+  },
+  {
     "name": "ngx-awesome-popup",
     "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
     "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
@@ -2104,6 +2100,16 @@
     "description": "A new take on an Angular implementation for Semantic UI."
   },
   {
+    "name": "MDBootstrap",
+    "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
+    "description": "Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation."
+  },
+  {
+    "name": "Angular Material",
+    "url": "https://material.angular.io/",
+    "description": "Material Design components for Angular."
+  },
+  {
     "name": "Covalent",
     "url": "https://github.com/Teradata/covalent/",
     "description": "Teradata UI Platform built on Angular Material."
@@ -2145,11 +2151,6 @@
     "name": "angular material components",
     "url": "https://github.com/h2qutc/angular-material-components",
     "description": "Angular Material Library provide extra components for every project."
-  },
-  {
-    "name": "angular components",
-    "url": "https://github.com/angular/components",
-    "description": "Component infrastructure and Material Design components for Angular."
   },
   {
     "name": "angular-bootstrap-md",

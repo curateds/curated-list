@@ -270,6 +270,11 @@
     "description": "A cross-platform VTuber application with mulitple tracking backends."
   },
   {
+    "name": "Maaack's Game Template",
+    "url": "https://github.com/Maaack/Godot-Game-Template",
+    "description": "Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene."
+  },
+  {
     "name": "bendn's Godot Template",
     "url": "https://github.com/bend-n/godot-template",
     "description": "Game template using the gpm, with itch.io pushing and builds automated. Starter CLI included."
@@ -613,6 +618,21 @@
     "name": "LimboAI",
     "url": "https://github.com/limbonaut/limboai",
     "description": "Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial."
+  },
+  {
+    "name": "Maaack's Game Template Plugin",
+    "url": "https://github.com/Maaack/Godot-Game-Template",
+    "description": "Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene."
+  },
+  {
+    "name": "Maaack's Menus Template",
+    "url": "https://github.com/Maaack/Godot-Menus-Template",
+    "description": "Template with a main menu, options menus, credits, and a scene loader."
+  },
+  {
+    "name": "Maaack's Scene Loader",
+    "url": "https://github.com/Maaack/Godot-Scene-Loader",
+    "description": "Scene loader that includes a loading screen, progress bar, and error handling."
   },
   {
     "name": "AntialiasedLine2D",
