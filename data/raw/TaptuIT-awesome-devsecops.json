@@ -375,6 +375,11 @@
     "description": "OWASP - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities."
   },
   {
+    "name": "Pentest-Ground",
+    "url": "https://pentest-ground.com/",
+    "description": "Pentest-Tools.com - Pentest-Ground is a free playground with deliberately vulnerable web applications and network services."
+  },
+  {
     "name": "Terragoat",
     "url": "https://github.com/bridgecrewio/terragoat",
     "description": "Bridgecrew - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above."
@@ -388,6 +393,11 @@
     "name": "Csper",
     "url": "https://csper.io/report-uri",
     "description": "Csper - A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts."
+  },
+  {
+    "name": "Streamdal",
+    "url": "https://streamdal.com",
+    "description": "Streamdal - Embed privacy controls in your application code to detect and monitor PII as it enters and leaves your systems, preventing it from reaching unintended databases, data streams, or pipelines."
   },
   {
     "name": "Ansible Vault",

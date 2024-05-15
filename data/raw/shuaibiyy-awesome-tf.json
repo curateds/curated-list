@@ -904,6 +904,11 @@
     "description": "Value Provider for Terraform."
   },
   {
+    "name": "terraform-provider-uname",
+    "url": "https://github.com/julienlevasseur/terraform-provider-uname",
+    "description": "Uname Provider for Terraform."
+  },
+  {
     "name": "clarity",
     "url": "https://github.com/xchapter7x/clarity",
     "description": "A declarative test framework for Terraform for unit testing."

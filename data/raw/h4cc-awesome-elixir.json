@@ -3950,6 +3950,11 @@
     "description": "Translates Elixir functions to match specifications for use with ets."
   },
   {
+    "name": "ex_azure_speech",
+    "url": "https://github.com/ex-azure/ex_azure_speech",
+    "description": "An Elixir SDK implementation for the Microsoft Azure Speech Service."
+  },
+  {
     "name": "ex_phone_number",
     "url": "https://github.com/socialpaymentsbv/ex_phone_number",
     "description": "Format, normalize, and validate phone numbers."

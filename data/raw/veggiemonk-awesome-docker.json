@@ -1804,6 +1804,11 @@
     "description": "Java client for the Docker remote API. By @spotify"
   },
   {
+    "name": "docker-controller-bot",
+    "url": "https://github.com/dgongut/docker-controller-bot",
+    "description": "Telegram bot to control docker containers. By @dgongut"
+  },
+  {
     "name": "docker-it-scala",
     "url": "https://github.com/whisklabs/docker-it-scala",
     "description": "Docker integration testing kit with Scala by @whisklabs"
