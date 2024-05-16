@@ -311,7 +311,7 @@
   },
   {
     "name": "Kiomet",
-    "url": "https://kiomet.com",
+    "url": "https://github.com/SoftbearStudios/kiomet",
     "description": "An online real-time strategy game in which you expand your territory by capturing towers."
   },
   {
@@ -393,6 +393,71 @@
     "name": "SandCat",
     "url": "https://github.com/Xu-Mj/sandcat",
     "description": "The software has primarily implemented the basic functionalities of an IM application, which includes a fundamental friend system, one-on-one chat, group chat, and one-on-one audio/video calls. It also supports i18n and currently offers a switch between Chinese and English."
+  },
+  {
+    "name": "PinePods",
+    "url": "https://github.com/madeofpendletonwool/PinePods",
+    "description": "PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it."
+  },
+  {
+    "name": "0721",
+    "url": "https://github.com/langyo/0721",
+    "description": "The engine of image hosting written in Rust."
+  },
+  {
+    "name": "Hikari",
+    "url": "https://github.com/celestia-island/hikari",
+    "description": "The Frontend of Everything."
+  },
+  {
+    "name": "simply-view-image-for-python-debugging",
+    "url": "https://github.com/elazarcoh/simply-view-image-for-python-debugging?tab=readme-ov-file",
+    "description": "Visual studio code extension simply view the image of the image variables when debugging python."
+  },
+  {
+    "name": "Mindsweeper",
+    "url": "https://github.com/AlexBuz/mindsweeper",
+    "description": "A principled take on minesweeper, Live Demo."
+  },
+  {
+    "name": "scap-rs",
+    "url": "https://github.com/emo-crab/scap-rs",
+    "description": "National Vulnerability Database (NVD) implemented by Rust, Live Demo."
+  },
+  {
+    "name": "Sentry Relay",
+    "url": "https://github.com/getsentry/relay",
+    "description": "The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process."
+  },
+  {
+    "name": "Syre",
+    "url": "https://github.com/syre-data/syre",
+    "description": "Scientific data management and insights."
+  },
+  {
+    "name": "candle-wasm-examples",
+    "url": "https://github.com/huggingface/candle",
+    "description": "Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: whisper, LLaMA2, T5, yolo, Segment"
+  },
+  {
+    "name": "chipbox",
+    "url": "https://github.com/chipnertkj/chipbox",
+    "description": "chipbox is an open-source desktop DAW written in Rust."
+  },
+  {
+    "name": "Taxy",
+    "url": "https://github.com/picoHz/taxy/tree/main",
+    "description": "A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust."
+  },
+  {
+    "name": "Proxelar",
+    "url": "https://github.com/emanuele-em/proxelar",
+    "description": "Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic."
+  },
+  {
+    "name": "diff.rs",
+    "url": "https://github.com/xfbs/diff.rs",
+    "description": "Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, Live Demo."
   },
   {
     "name": "Create Yew App",
@@ -844,6 +909,11 @@
     "name": "Sycamore",
     "url": "https://github.com/sycamore-rs/sycamore",
     "description": "A reactive library for creating web apps in Rust and WebAssembly."
+  },
+  {
+    "name": "Leptos",
+    "url": "https://github.com/leptos-rs/leptos",
+    "description": "Build fast web applications with Rust."
   },
   {
     "name": "Awesome Rust and WebAssembly",

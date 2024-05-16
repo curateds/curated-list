@@ -145,6 +145,11 @@
     "description": "Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife."
   },
   {
+    "name": "ClassiCube",
+    "url": "https://github.com/ClassiCube/ClassiCube",
+    "description": "Minecraft Classic compatible client written in C from scratch."
+  },
+  {
     "name": "Doom Legacy",
     "url": "https://sourceforge.net/projects/doomlegacy/",
     "description": "One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc."
@@ -267,12 +272,17 @@
   {
     "name": "2006rebotted",
     "url": "https://github.com/dginovker/2006rebotted",
-    "description": "A 2006 Runescape Emulation Server."
+    "description": "A 2006 RuneScape 2 Emulation Server."
+  },
+  {
+    "name": "2004scape",
+    "url": "https://2004scape.org",
+    "description": "A free & open-source remake of 2004 era RuneScape 2."
   },
   {
     "name": "2009scape",
     "url": "https://2009scape.org",
-    "description": "A free & open-source remake of 2009 era RuneScape."
+    "description": "A free & open-source remake of 2009 era RuneScape 2."
   },
   {
     "name": "FreeSO",
@@ -295,9 +305,19 @@
     "description": "Remake of Jumpgate."
   },
   {
+    "name": "OpenRSC",
+    "url": "https://gitlab.com/open-runescape-classic/core",
+    "description": "Open source accurate RuneScape Classic (2001-2003) game server in Java, based on recorded data and videos."
+  },
+  {
+    "name": "RSC-C",
+    "url": "https://github.com/2003scape/rsc-c",
+    "description": "Rewrite of the RuneScape Classic (2001-2003) game client in portable C."
+  },
+  {
     "name": "RuneLite",
     "url": "https://github.com/runelite/runelite",
-    "description": "Open source old school RuneScape client."
+    "description": "Open source Old School RuneScape (OSRS) client."
   },
   {
     "name": "Ryzom Core",

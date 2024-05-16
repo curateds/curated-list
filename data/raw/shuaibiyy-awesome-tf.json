@@ -1113,6 +1113,11 @@
     "description": "Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple \"staging\" environments. 💀"
   },
   {
+    "name": "library.tf",
+    "url": "https://library.tf",
+    "description": "Library.tf is built and designed to not just provide you with all of the registry information for Terraform and OpenTofu but to provide all of the insights you need to make decisions. Quickly find modules or providers that are supported and maintained and not full of bugs."
+  },
+  {
     "name": "modules.tf-lambda",
     "url": "https://github.com/antonbabenko/modules.tf-lambda",
     "description": "Infrastructure as code generator from visual diagrams created with Cloudcraft.co to Terraform."

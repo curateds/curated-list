@@ -5,14 +5,24 @@
     "description": "Pager Duty - Guidelines to running security training within an organisation."
   },
   {
+    "name": "DevSecOps: Making Security Central To Your DevOps Pipeline",
+    "url": "https://spacelift.io/blog/what-is-devsecops",
+    "description": "Spacelift - An article explains what DevSecOps aims to achieve, why it’s advantageous, and how the DevSecOps lifecycle looks."
+  },
+  {
     "name": "Alice and Bob Learn Application Security",
     "url": "https://www.wiley.com/en-gb/Alice+and+Bob+Learn+Application+Security-p-9781119687405",
     "description": "Tanya Janca - An accessible and thorough resource for anyone seeking to incorporate, from the beginning of the System Development Life Cycle, best security practices in software development."
   },
   {
-    "name": "MyDevSecOps",
-    "url": "https://www.mydevsecops.io/",
-    "description": "Snyk - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps."
+    "name": "DevSecCon",
+    "url": "https://www.devseccon.com/",
+    "description": "Snyk - A community that runs conferences, a blog, a podcast and a Discord dedicated to DevSecOps."
+  },
+  {
+    "name": "TAG Security",
+    "url": "https://tag-security.cncf.io/",
+    "description": "Cloud Native Computing Foundation - TAG Security facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem."
   },
   {
     "name": "AppSec Day",
@@ -221,7 +231,7 @@
   },
   {
     "name": "Snyk Open Source",
-    "url": "https://snyk.io/",
+    "url": "https://snyk.io/product/open-source-security-management/",
     "description": "Snyk - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database."
   },
   {
@@ -280,14 +290,9 @@
     "description": "Stelligent - Scan AWS CloudFormation templates for insecure configuration."
   },
   {
-    "name": "Anchore Engine",
-    "url": "https://anchore.com/opensource/",
-    "description": "Anchore, Inc - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products."
-  },
-  {
     "name": "Clair",
     "url": "https://github.com/quay/clair",
-    "description": "Quay - Scan App Container and Docker containers for publicly disclosed vulnerabilities."
+    "description": "Red Hat - Scan App Container and Docker containers for publicly disclosed vulnerabilities."
   },
   {
     "name": "Dagda",
@@ -298,6 +303,11 @@
     "name": "Docker-Bench-Security",
     "url": "https://github.com/docker/docker-bench-security",
     "description": "Docker - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production."
+  },
+  {
+    "name": "Grype",
+    "url": "https://github.com/anchore/grype/",
+    "description": "Anchore - An easy-to-integrate open source vulnerability scanning tool for container images and filesystems."
   },
   {
     "name": "Hadolint",
@@ -370,6 +380,11 @@
     "description": "OWASP - A web application containing the OWASP Top 10 security vulnerabilities and more."
   },
   {
+    "name": "Kubernetes Goat",
+    "url": "https://github.com/madhuakula/kubernetes-goat",
+    "description": "Madhu Akula - Intentionally vulnerable cluster environment to learn and practice Kubernetes security."
+  },
+  {
     "name": "NodeGoat",
     "url": "https://github.com/OWASP/NodeGoat",
     "description": "OWASP - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities."
@@ -388,6 +403,11 @@
     "name": "Vulnerable Web Apps Directory",
     "url": "https://owasp.org/www-project-vulnerable-web-applications-directory",
     "description": "OWASP - A collection of vulnerable web applications for learning purposes."
+  },
+  {
+    "name": "WrongSecrets",
+    "url": "https://github.com/OWASP/wrongsecrets",
+    "description": "OWASP - Vulnerable app with examples showing how to not use secrets"
   },
   {
     "name": "Csper",
@@ -585,6 +605,11 @@
     "description": "Instrumenta - Create custom tests to scan any configuration file for security flaws."
   },
   {
+    "name": "Selefra",
+    "url": "https://github.com/selefra/selefra",
+    "description": "Selefra - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS."
+  },
+  {
     "name": "Deep Dive",
     "url": "https://discotek.ca/deepdive.xhtml",
     "description": "Discotek.ca - Static analysis for JVM deployment units including Ear, War, Jar and APK."
@@ -650,6 +675,11 @@
     "description": "StepSecurity - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build."
   },
   {
+    "name": "Overlay",
+    "url": "https://github.com/os-scar/overlay",
+    "description": "SCAR - a browser extension helping developers evaluate open source packages before picking them."
+  },
+  {
     "name": "Preflight",
     "url": "https://github.com/spectralops/preflight",
     "description": "Spectral - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent Codecov hack."
@@ -658,6 +688,11 @@
     "name": "Sigstore",
     "url": "https://www.sigstore.dev/",
     "description": "sigstore is a set of free to use and open source tools, including fulcio, cosign and rekor, handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software."
+  },
+  {
+    "name": "Syft",
+    "url": "https://github.com/anchore/syft/",
+    "description": "Anchore - A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems."
   },
   {
     "name": "Awesome Threat Modelling",
@@ -703,6 +738,11 @@
     "name": "Awesome Dynamic Analysis",
     "url": "https://github.com/analysis-tools-dev/dynamic-analysis/",
     "description": "Matthias Endler - A collection of dynamic analysis tools and code quality checkers."
+  },
+  {
+    "name": "Awesome Platform Engineering",
+    "url": "https://github.com/shospodarets/awesome-platform-engineering/",
+    "description": "A curated list of solutions, tools and resources for Platform Engineering"
   },
   {
     "name": "Awesome Static Analysis",

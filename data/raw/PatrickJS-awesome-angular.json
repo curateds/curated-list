@@ -382,7 +382,7 @@
     "description": "Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts."
   },
   {
-    "name": "angularexperts",
+    "name": "angular experts",
     "url": "https://angularexperts.io/blog",
     "description": "Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!"
   },
@@ -397,7 +397,7 @@
     "description": "Blog articles written with love, just for you!"
   },
   {
-    "name": "justangular",
+    "name": "just angular",
     "url": "https://justangular.com/",
     "description": "Shares the newest and most important updates about Angular, along with useful tips and tricks."
   },
@@ -411,11 +411,11 @@
     "url": "https://angularindepth.com/"
   },
   {
-    "name": "angularminds",
+    "name": "angular minds",
     "url": "https://www.angularminds.com/blog"
   },
   {
-    "name": "angulararchitects",
+    "name": "angular architects",
     "url": "https://www.angulararchitects.io/en/blog/"
   },
   {
@@ -463,7 +463,7 @@
     "url": "https://medium.com/@rainer-hahnekamp"
   },
   {
-    "name": "Evgeniy OZ",
+    "name": "Evgeniy Oz",
     "url": "https://medium.com/@eugeniyoz"
   },
   {
@@ -1392,6 +1392,40 @@
     "description": "An Angular service for managing directed acyclic graphs."
   },
   {
+    "name": "ngx-resize-observer",
+    "url": "https://github.com/fidian/ngx-resize-observer",
+    "description": "Angular 8+ module for detecting when elements are resized."
+  },
+  {
+    "name": "ng-resize-observer",
+    "url": "https://github.com/ChristianKohler/ng-resize-observer"
+  },
+  {
+    "name": "ngx-mutation-observer",
+    "url": "https://github.com/fidian/ngx-mutation-observer",
+    "description": "Get Angular 8+ events fired when an element is mutated in the DOM."
+  },
+  {
+    "name": "ngx-visibility",
+    "url": "https://github.com/fidian/ngx-visibility",
+    "description": "Angular module that detects when elements are visible. Uses IntersectionObserver."
+  },
+  {
+    "name": "ng-in-viewport",
+    "url": "https://github.com/k3nsei/ng-in-viewport",
+    "description": "Allows us to check if an element is within the browsers visual viewport."
+  },
+  {
+    "name": "ngx-ui-scroll",
+    "url": "https://github.com/dhilt/ngx-ui-scroll",
+    "description": "Virtual/infinite scroll for Angular."
+  },
+  {
+    "name": "ngx-page-scroll",
+    "url": "https://github.com/Nolanus/ngx-page-scroll",
+    "description": "Animated scrolling functionality for Angular written in pure TypeScript."
+  },
+  {
     "name": "ng2-dragula",
     "url": "https://github.com/valor-software/ng2-dragula",
     "description": "Drag and Drop so simple it hurts!"
@@ -1493,17 +1527,13 @@
   },
   {
     "name": "ngx-awesome-uploader",
-    "url": "https://www.npmjs.com/package/ngx-awesome-uploader"
+    "url": "https://www.npmjs.com/package/ngx-awesome-uploader",
+    "description": "Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper, drag and drop with multi language support."
   },
   {
     "name": "ngx-flow",
     "url": "https://github.com/flowjs/ngx-flow",
     "description": "Angular7+ wrapper for flow.js for file upload."
-  },
-  {
-    "name": "ngx-awesome-uploader",
-    "url": "https://github.com/vugar005/ngx-awesome-uploader",
-    "description": "Angular Library for uploading files with many features."
   },
   {
     "name": "ngx-uploadx",
@@ -2135,10 +2165,6 @@
     "description": "Minimal Design, a set of components for Angular 16+."
   },
   {
-    "name": "angular-material-extensions",
-    "url": "https://github.com/angular-material-extensions"
-  },
-  {
     "name": "angular-material-extensions/google-maps-autocomplete",
     "url": "https://github.com/angular-material-extensions/google-maps-autocomplete",
     "description": "Autocomplete input component and directive for google-maps built with angular material design."
@@ -2711,11 +2737,6 @@
     "name": "ngrx-action-bundles",
     "url": "https://github.com/IliaIdakiev/ngrx-action-bundles",
     "description": "This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications."
-  },
-  {
-    "name": "Tim Deschryver Blog",
-    "url": "https://timdeschryver.dev/blog?q=NgRx",
-    "description": "Excellent NgRx articles from a core maintainer."
   },
   {
     "name": "angular-ngrx-nx-realworld-example-app",
