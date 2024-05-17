@@ -20,6 +20,10 @@
     "url": "https://www.meetup.com/TypeScript-Berlin/"
   },
   {
+    "name": "Prisma Audit Trails",
+    "url": "https://github.com/BemiHQ/bemi-prisma"
+  },
+  {
     "name": "Prisma 2 Scratchpad",
     "url": "https://github.com/ctrlplusb/prisma2-template"
   },
@@ -143,6 +147,11 @@
     "name": "Prismock - Run tests in isolation with an in-memory implementation of Prisma",
     "url": "https://github.com/morintd/prismock",
     "description": "Run tests in isolation with an in-memory implementation of Prisma"
+  },
+  {
+    "name": "prisma-ast - A Builder object to programmatically query and edit your schema.prisma files",
+    "url": "https://github.com/MrLeebo/prisma-ast",
+    "description": "A Builder object to programmatically query and edit your schema.prisma files"
   },
   {
     "name": "Prisma Client Python",

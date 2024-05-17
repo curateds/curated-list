@@ -954,6 +954,11 @@
     "description": "Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites."
   },
   {
+    "name": "vite-plugin-dir2json",
+    "url": "https://github.com/buddywang/vite-plugin-dir2json",
+    "description": "Convert the directory structure into json data containing supported file paths."
+  },
+  {
     "name": "rollup-plugin-critical",
     "url": "https://github.com/nystudio107/rollup-plugin-critical",
     "description": "Generate critical CSS."
@@ -1484,6 +1489,11 @@
     "description": "Adds the filename without the -module suffix to the class names of CSS modules."
   },
   {
+    "name": "vite-plugin-serve-static",
+    "url": "https://github.com/reifiedbeans/vite-plugin-serve-static",
+    "description": "Allows serving arbitrary static files not in the public/ directory."
+  },
+  {
     "name": "vitest",
     "url": "https://github.com/vitest-dev/vitest",
     "description": "A Vite-native test framework."
@@ -1577,6 +1587,11 @@
     "name": "vite-plugin-markdown-mermaid",
     "url": "https://github.com/KermanX/vite-plugin-markdown-mermaid",
     "description": "Load Markdown files, with Mermaid rendering support."
+  },
+  {
+    "name": "vite-plugin-style-vw-loader",
+    "url": "https://github.com/gitboyzcf/vite-plugin-style-vw-loader",
+    "description": "Converting the inline style px to vw."
   },
   {
     "name": "vite-ssg",

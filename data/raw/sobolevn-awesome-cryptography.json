@@ -982,6 +982,11 @@
     "description": "Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption)."
   },
   {
+    "name": "AEADs",
+    "url": "https://github.com/RustCrypto/AEADs",
+    "description": "Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers."
+  },
+  {
     "name": "BLAKE3",
     "url": "https://github.com/BLAKE3-team/BLAKE3",
     "description": "is official Rust and C implementations of the BLAKE3 cryptographic hash function."
@@ -1002,6 +1007,26 @@
     "description": "Fast yet safe mid-level API for ECC, Bulletproofs, and more."
   },
   {
+    "name": "dryoc",
+    "url": "https://github.com/brndnmtthws/dryoc",
+    "description": "A pure-Rust, general purpose crypto library that implements libsodium primitives."
+  },
+  {
+    "name": "elliptic-curves",
+    "url": "https://github.com/RustCrypto/elliptic-curves",
+    "description": "Collection of pure Rust elliptic curve implementations: NIST P-224, P-256, P-384, P-521, secp256k1, SM2."
+  },
+  {
+    "name": "formats",
+    "url": "https://github.com/RustCrypto/formats",
+    "description": "Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX."
+  },
+  {
+    "name": "hashes",
+    "url": "https://github.com/RustCrypto/hashes",
+    "description": "Collection of cryptographic hash functions written in pure Rust."
+  },
+  {
     "name": "mundane",
     "url": "https://github.com/google/mundane",
     "description": "is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant."
@@ -1020,6 +1045,11 @@
     "name": "orion",
     "url": "https://github.com/orion-rs/orion",
     "description": "is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code."
+  },
+  {
+    "name": "password-hashes",
+    "url": "https://github.com/RustCrypto/password-hashes",
+    "description": "Collection of password hashing algorithms, otherwise known as password-based key derivation functions, written in pure Rust."
   },
   {
     "name": "proteus",
@@ -1055,6 +1085,16 @@
     "name": "rustls",
     "url": "https://github.com/ctz/rustls",
     "description": "Rustls is a new, modern TLS library written in Rust."
+  },
+  {
+    "name": "signatures",
+    "url": "https://github.com/RustCrypto/signatures",
+    "description": "Cryptographic signature algorithms: DSA, ECDSA, Ed25519."
+  },
+  {
+    "name": "snow",
+    "url": "https://github.com/mcginty/snow?tab=readme-ov-file",
+    "description": "Pure Rust implementation of Trevor Perrin’s Noise Protocol."
   },
   {
     "name": "sodiumoxide",
