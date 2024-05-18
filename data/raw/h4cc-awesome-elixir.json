@@ -357,7 +357,7 @@
   {
     "name": "ratio",
     "url": "https://github.com/Qqwy/elixir-rational",
-    "description": "Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers."
+    "description": "Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers."
   },
   {
     "name": "red_black_tree",
@@ -1827,7 +1827,7 @@
   {
     "name": "observer_cli",
     "url": "https://github.com/zhongwencool/observer_cli",
-    "description": "Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems."
+    "description": "Visualize Elixir & Erlang nodes on the command line, it aims to help developers debug production systems."
   },
   {
     "name": "quaff",
@@ -2222,7 +2222,7 @@
   {
     "name": "phoenix-chat-example",
     "url": "https://github.com/dwyl/phoenix-chat-example",
-    "description": "A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix 1.5.3."
+    "description": "A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployment. Phoenix 1.5.3."
   },
   {
     "name": "phoenix-ecto-encryption-example",
@@ -5035,6 +5035,11 @@
     "description": "A Heap-based Priority Queue Implementation in Elixir."
   },
   {
+    "name": "honeycomb",
+    "url": "https://github.com/Hentioe/honeycomb",
+    "description": "Another scheduling system, focusing on the collection of results for one-time tasks."
+  },
+  {
     "name": "honeydew",
     "url": "https://github.com/koudelka/honeydew",
     "description": "Honeydew is a worker pool library for Elixir."
@@ -5133,6 +5138,11 @@
     "name": "eliver",
     "url": "https://github.com/glasnoster/eliver",
     "description": "Interactive semantic versioning for Elixir packages."
+  },
+  {
+    "name": "expublish",
+    "url": "https://github.com/tfiedlerdejanze/expublish",
+    "description": "Automates semantic release versioning and best practices for elixir packages."
   },
   {
     "name": "exrm",

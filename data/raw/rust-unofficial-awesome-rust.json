@@ -1324,6 +1324,11 @@
     "url": "https://github.com/BinChengZhao/delicate"
   },
   {
+    "name": "tasklet",
+    "url": "https://github.com/stav121/tasklet",
+    "description": "A task scheduling library written in Rust"
+  },
+  {
     "name": "amp",
     "url": "https://amp.rs"
   },
@@ -3391,6 +3396,11 @@
     "name": "pg_analytics",
     "url": "https://github.com/paradedb/paradedb/tree/dev/pg_analytics",
     "description": "PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases."
+  },
+  {
+    "name": "pg_lakehouse",
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse",
+    "description": "PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg."
   },
   {
     "name": "pola-rs/polars",

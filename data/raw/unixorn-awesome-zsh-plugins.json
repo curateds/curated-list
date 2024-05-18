@@ -1896,8 +1896,13 @@
     "description": "Better handling of passwords using fzf and pass."
   },
   {
-    "name": "fzf-plugin",
+    "name": "fzf-plugin (atlas34)",
     "url": "https://github.com/Atlas34/fzf-plugin",
+    "description": "oh-my-zsh's fzf plugin extracted so it can be used easily with other plugin managers."
+  },
+  {
+    "name": "fzf-plugin (hwk929)",
+    "url": "https://github.com/hwk929/zsh-fzf",
     "description": "oh-my-zsh's fzf plugin extracted so it can be used easily with other plugin managers."
   },
   {
@@ -2374,6 +2379,11 @@
     "name": "hipchat",
     "url": "https://github.com/robertzk/hipchat.zsh",
     "description": "Send hipchat messages from the shell."
+  },
+  {
+    "name": "hist-delete",
+    "url": "https://github.com/p1r473/zsh-hist-delete-fzf/",
+    "description": "Delete history items from zsh's fzf Ctrl+R history search."
   },
   {
     "name": "hist",
@@ -3034,6 +3044,11 @@
     "name": "no-ps2",
     "url": "https://github.com/romkatv/zsh-no-ps2",
     "description": "When this plugin is used, Enter inserts a newline if the typed command is incomplete. No PS2!"
+  },
+  {
+    "name": "nobility",
+    "url": "https://github.com/Twilight4/nobility",
+    "description": "An organized colletion of shell modules designed to streamline your pentesting workflow by leveraging shell integrations such as autocompletion and prefilling, optimizing the productivity of your work and liberatating you from the hassle of juggling notes, endless copying and pasting, and tedious command editing."
   },
   {
     "name": "node-env-installer",
@@ -5319,11 +5334,6 @@
     "description": "Add tab completions for docker and docker-compose."
   },
   {
-    "name": "docker-enter-completion",
-    "url": "https://github.com/primait/docker-enter-completion",
-    "description": "Command completion for docker-enter."
-  },
-  {
     "name": "dotnet",
     "url": "https://github.com/MenkeTechnologies/zsh-dotnet-completion",
     "description": "Dotnet tab completion."
@@ -6712,6 +6722,11 @@
     "description": "Powerline-inspired theme by @celestialorb. Includes git status decorations, Kubernetes cluster information (if any), current AWS profile and region, and  active virtualenv."
   },
   {
+    "name": "cezhanne",
+    "url": "https://github.com/gambardellawill/cezshanne",
+    "description": "Minimalist ZSH theme with git status decorators. Requires a Nerd Font."
+  },
+  {
     "name": "cf-ps1",
     "url": "https://github.com/mdan16/cf-ps1",
     "description": "Displays the current foundation and organization and space of Cloud Foundry in your prompt."
@@ -7479,6 +7494,11 @@
     "name": "gerry",
     "url": "https://github.com/GerryLarios/gerry-prompt",
     "description": "Based on bureau, includes decorations for git status, current time, username, hostname and current directory."
+  },
+  {
+    "name": "get-to-work",
+    "url": "https://github.com/Diogo13Antunes/Get_To_Work",
+    "description": "Minimalistic design, includes decorators for git status, virtual environment and the time."
   },
   {
     "name": "ghoti",

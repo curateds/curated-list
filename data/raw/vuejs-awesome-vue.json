@@ -3263,6 +3263,11 @@
     "description": "High-looking third-party NetEase cloud player, support Windows / macOS / Linux"
   },
   {
+    "name": "douyin",
+    "url": "https://github.com/zyronon/douyin",
+    "description": "Imitate TikTok ，Vue Best practices on Mobile"
+  },
+  {
     "name": "Wijmo",
     "url": "http://wijmo.com/products/wijmo-5/",
     "description": "A collection of UI controls with VueJS support."
@@ -13921,9 +13926,9 @@
     "description": "Vetur support for Ionic Components"
   },
   {
-    "name": "Volar",
-    "url": "https://github.com/johnsoncodehk/volar",
-    "description": "The Fastest Vue Language Support Extension"
+    "name": "Vue - Official (Volar)",
+    "url": "https://github.com/vuejs/language-tools",
+    "description": "Official (Volar) - ⚡The Fastest Vue Language Support Extension"
   },
   {
     "name": "VuePack",
