@@ -2146,6 +2146,11 @@
     "description": "Wraps git-smart-commands to make it compatible with the oh-my-zsh plugins system."
   },
   {
+    "name": "git-status",
+    "url": "https://github.com/AyoubMounim/zsh-git-status/",
+    "description": "Exposes functions with information about the current git repository."
+  },
+  {
     "name": "git-switch-branch-skim",
     "url": "https://github.com/okhiroyuki/zsh-git-switch-branch-skim",
     "description": "Allows you to switch git branches with skim"
@@ -6444,7 +6449,7 @@
   {
     "name": "bedbugs",
     "url": "https://github.com/justino/zsh-theme-bedbugs",
-    "description": "Inspired by Agnoster, this multiline prompt includes git status information, background job count, working directory, user and hostname, Python virtualenv when present, colored return value of last command and root/user sigil."
+    "description": "Inspired by Agnoster, this multiline prompt includes decorators for git status information, background job count, working directory, user and hostname, Python virtualenv when present, colored return value of last command and root/user sigil."
   },
   {
     "name": "beer",
@@ -6455,6 +6460,11 @@
     "name": "bender",
     "url": "https://github.com/specious/bender",
     "description": "Fancy two-line prompt with git integration."
+  },
+  {
+    "name": "berghain",
+    "url": "https://github.com/meshkinyar/berghain.zsh-theme",
+    "description": "Minimalist theme. Includes decorators for the exit code of the last command run and for git status."
   },
   {
     "name": "bernkastel",

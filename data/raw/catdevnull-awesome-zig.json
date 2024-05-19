@@ -783,6 +783,11 @@
     "description": "Zig's Mach-O parser."
   },
   {
+    "name": "weskoerber/mac_address",
+    "url": "https://github.com/weskoerber/mac_address",
+    "description": "A cross-platform library to retrieve the MAC address from your network interfaces without libc."
+  },
+  {
     "name": "marler8997/zigup",
     "url": "https://github.com/marler8997/zigup",
     "description": "Download and manage zig compilers."

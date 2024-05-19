@@ -1194,9 +1194,9 @@
     "description": "Drone is a Continuous Integration platform built on Docker, written in Go."
   },
   {
-    "name": "duci",
-    "url": "https://github.com/duck8823/duci",
-    "description": "A simple ci server no needs domain specific languages."
+    "name": "go-beautiful-html-coverage",
+    "url": "https://github.com/gha-common/go-beautiful-html-coverage",
+    "description": "A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free."
   },
   {
     "name": "go-fuzz-action",
@@ -3236,6 +3236,11 @@
     "name": "tengo",
     "url": "https://github.com/d5/tengo",
     "description": "Bytecode compiled script language for Go."
+  },
+  {
+    "name": "Wa/凹语言",
+    "url": "https://github.com/wa-lang/wa",
+    "description": "The Wa Programming Language embedded in Go."
   },
   {
     "name": "emperror",
@@ -7615,6 +7620,11 @@
     "name": "memguard",
     "url": "https://github.com/awnumar/memguard",
     "description": "A pure Go library for handling sensitive values in memory."
+  },
+  {
+    "name": "multikey",
+    "url": "https://github.com/adrianosela/multikey",
+    "description": "An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm."
   },
   {
     "name": "nacl",

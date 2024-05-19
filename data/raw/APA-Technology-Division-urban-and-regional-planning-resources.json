@@ -15,6 +15,31 @@
     "description": "A dataset intended to provide access to consistent, and nationally available point based structure inventories with attribution to support evaluation of consequences from natural and man-made hazards."
   },
   {
+    "name": "ClimRR",
+    "url": "https://disgeoportal.egs.anl.gov/ClimRR/",
+    "description": "This portal empowers individuals, governments, and organizations to examine simulated future climate conditions at mid- and end-of-century for a range of climate perils."
+  },
+  {
+    "name": "IPCC Atlas",
+    "url": "https://interactive-atlas.ipcc.ch/",
+    "description": "A novel tools & data for flexible spatial and temporal analyses of much of the observed and projected climate change information underpinning the Working Group I contribution to the Sixth Assessment Report, including regional synthesis for Climatic Impact-Drivers (CIDs)."
+  },
+  {
+    "name": "LANDSAT Products",
+    "url": "https://www.usgs.gov/landsat-missions/landsat-us-analysis-ready-data",
+    "description": "Landsat U.S. Analysis Ready Data (ARD) products are consistently processed to the highest scientific standards and level of processing required for direct use in monitoring and assessing landscape change."
+  },
+  {
+    "name": "MACA",
+    "url": "https://climate.northwestknowledge.net/MACA/",
+    "description": "The MACA method is a statistical downscaling method for removing biases from global climate model outputs."
+  },
+  {
+    "name": "National Stormwater Calculator",
+    "url": "https://swcweb.epa.gov/stormwatercalculator/",
+    "description": "An EPA resource including different features and controls for planning, pricing out projects that also shows the outcomes of stormwater retention interventions based on green infrastructure decisions."
+  },
+  {
     "name": "NCCS Data Services",
     "url": "https://www.nccs.nasa.gov/services/climate-data-services",
     "description": "The NASA Center for Climate Simulation houses curated data collections that include atmosphere, ocean, land, and flood data, both current and historical, as well as operational Global Modeling and Assimilation Office (GMAO) weather analysis data and forecasts that are updated four times daily."
@@ -40,29 +65,9 @@
     "description": "Census Tract level temperature data derived from a paper use remotely sensed land surface temperature measurements to explore the distribution of the United States urban heating burden by demographic group."
   },
   {
-    "name": "MACA",
-    "url": "https://climate.northwestknowledge.net/MACA/",
-    "description": "The MACA method is a statistical downscaling method for removing biases from global climate model outputs."
-  },
-  {
-    "name": "IPCC Atlas",
-    "url": "https://interactive-atlas.ipcc.ch/",
-    "description": "A novel tools & data for flexible spatial and temporal analyses of much of the observed and projected climate change information underpinning the Working Group I contribution to the Sixth Assessment Report, including regional synthesis for Climatic Impact-Drivers (CIDs)."
-  },
-  {
     "name": "WUDAPT",
     "url": "https://www.wudapt.org/",
     "description": "This database intends to make accessible coherent and consistent descriptions and information on form and function of urban morphology relevant to climate & environment studies on a worldwide basis."
-  },
-  {
-    "name": "LANDSAT Products",
-    "url": "https://www.usgs.gov/landsat-missions/landsat-us-analysis-ready-data",
-    "description": "Landsat U.S. Analysis Ready Data (ARD) products are consistently processed to the highest scientific standards and level of processing required for direct use in monitoring and assessing landscape change."
-  },
-  {
-    "name": "ClimRR",
-    "url": "https://disgeoportal.egs.anl.gov/ClimRR/",
-    "description": "This portal empowers individuals, governments, and organizations to examine simulated future climate conditions at mid- and end-of-century for a range of climate perils."
   },
   {
     "name": "American Community Survey (ACS)",
@@ -105,6 +110,11 @@
     "description": "The Bureau of Labor Statistics measures and provides access to data on labor market activity, working conditions, price changes, and productivity in the U.S. economy to support public and private decision making."
   },
   {
+    "name": "American Conservation and Stewardship Atlas",
+    "url": "https://www.conservation.gov/pages/atlas-and-data",
+    "description": "An interagency resource intended to help illustrate and document locally led, partnership-driven conservation and restoration work that is underway in communities across America."
+  },
+  {
     "name": "CropScape",
     "url": "https://nassgeodata.gmu.edu/CropScape/",
     "description": "CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States."
@@ -113,6 +123,11 @@
     "name": "EnviroAtlas",
     "url": "https://www.epa.gov/enviroatlas",
     "description": "EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services within the United States."
+  },
+  {
+    "name": "National Biogeographic Map",
+    "url": "https://www.usgs.gov/tools/national-biogeographic-map",
+    "description": "A platform maintained by the United States Geological Survey (USGS) that provides a platform for analysis of questions about what species are where, how well protected they are, how vulnerable they are to stressors, and what management options will have the greatest benefit for conservation of biodiversity.  Additional Links: More Information about the Tool"
   },
   {
     "name": "National Hydrography",
@@ -978,6 +993,11 @@
     "name": "LM Studio",
     "url": "https://lmstudio.ai/",
     "description": "This free for personal use software enables users to download large language models and run them locally within a desktop chat interface."
+  },
+  {
+    "name": "Tune Studio",
+    "url": "https://studio.tune.app/",
+    "description": "Playground for software developers to finetune and deploy large language models."
   },
   {
     "name": "Remi",
