@@ -415,6 +415,11 @@
     "description": "Fully featured Lua replacement for GitHub/copilot.vim."
   },
   {
+    "name": "Aaronik/GPTModels.nvim",
+    "url": "https://github.com/Aaronik/GPTModels.nvim",
+    "description": "GPTModels - a stable, clean, multi model, window based LLM AI tool."
+  },
+  {
     "name": "Robitx/gp.nvim",
     "url": "https://github.com/Robitx/gp.nvim",
     "description": "ChatGPT like sessions and instructable text/code operations in your favorite editor."
@@ -948,6 +953,11 @@
     "name": "fnune/recall.nvim",
     "url": "https://github.com/fnune/recall.nvim",
     "description": "Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability."
+  },
+  {
+    "name": "niuiic/track.nvim",
+    "url": "https://github.com/niuiic/track.nvim",
+    "description": "Enhanced mark with description. Track the thought process of reading source code."
   },
   {
     "name": "kevinhwang91/nvim-hlslens",
@@ -2400,9 +2410,9 @@
     "description": "Google Keep integration."
   },
   {
-    "name": "renerocksai/telekasten.nvim",
-    "url": "https://github.com/renerocksai/telekasten.nvim",
-    "description": "A Neovim (lua) plugin for working with a text-based, markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim."
+    "name": "nvim-telekasten/telekasten.nvim",
+    "url": "https://github.com/nvim-telekasten/telekasten.nvim",
+    "description": "Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim."
   },
   {
     "name": "zk-org/zk-nvim",
@@ -2468,6 +2478,11 @@
     "name": "2KAbhishek/tdo.nvim",
     "url": "https://github.com/2KAbhishek/tdo.nvim",
     "description": "Fast and simple note taking."
+  },
+  {
+    "name": "slugbyte/whip.nvim",
+    "url": "http://github.com/slugbyte/whip.nvim",
+    "description": "A super fast minimal scratchpad management plugin, biew biew biew."
   },
   {
     "name": "gaborvecsei/usage-tracker.nvim",
@@ -2860,6 +2875,11 @@
     "description": "Snapshot plugin with rich features that can make pretty code snapshots."
   },
   {
+    "name": "AlejandroSuero/freeze-code.nvim",
+    "url": "https://github.com/AlejandroSuero/freeze-code.nvim",
+    "description": "Code screenshot plugin that makes use of freeze inside the editor, it lets you copy the generated image to paste it anywhere."
+  },
+  {
     "name": "LoricAndre/OneTerm.nvim",
     "url": "https://github.com/LoricAndre/OneTerm.nvim",
     "description": "Plugin framework for running commands in the terminal."
@@ -2950,8 +2970,8 @@
     "description": "Manage terminal as buffer, multiple terminals support."
   },
   {
-    "name": "RAprogramm/nekifoch",
-    "url": "https://github.com/RAprogramm/nekifoch",
+    "name": "NeViRAIDE/nekifoch.nvim",
+    "url": "https://github.com/NeViRAIDE/nekifoch.nvim",
     "description": "Managing Kitty terminal font settings."
   },
   {

@@ -3445,11 +3445,6 @@
     "description": "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. (Demo, Source Code) AGPL-3.0 Docker/Nodejs"
   },
   {
-    "name": "CapRover",
-    "url": "https://caprover.com/",
-    "description": "Build your own PaaS in a few minutes. (Demo, Source Code) Apache-2.0 Docker/Nodejs"
-  },
-  {
     "name": "Cerbos",
     "url": "https://cerbos.dev",
     "description": "A self-hosted, open source user authorization layer for your applications. (Demo, Source Code) Apache-2.0 Go/deb/Docker/K8S"
@@ -3635,11 +3630,6 @@
     "description": "The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. (Source Code) MIT PHP"
   },
   {
-    "name": "MyPaas",
-    "url": "https://github.com/almarklein/mypaas",
-    "description": "Run your own PaaS using Docker, Traefik, and great monitoring. BSD-2-Clause Python/Docker"
-  },
-  {
     "name": "NATS",
     "url": "https://nats.io/",
     "description": "Publish/Subscribe event bus, durable queues, key-value store, object store, and more. Native multi-tenancy, multiple authentication and authorization mechanisms. Easy to self-host and federate. (Source Code, Clients) Apache-2.0 Go/deb/Docker/K8S"
@@ -3683,11 +3673,6 @@
     "name": "Overseerr",
     "url": "https://overseerr.dev/",
     "description": "Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. (Source Code) MIT Docker"
-  },
-  {
-    "name": "PassCheck",
-    "url": "https://passcheck.anhur.xyz/",
-    "description": "A web application featuring some handy password tools, including a password generator, strength checker and HaveIBeenPwned breach checker. (Source Code) MIT Javascript"
   },
   {
     "name": "penpot",
@@ -3923,11 +3908,6 @@
     "name": "DailyTxT",
     "url": "https://github.com/PhiTux/DailyTxT",
     "description": "Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. MIT Docker"
-  },
-  {
-    "name": "dillinger",
-    "url": "https://dillinger.io/",
-    "description": "The last Markdown editor, ever. (Source Code) MIT Nodejs"
   },
   {
     "name": "Dnote",
@@ -4900,56 +4880,6 @@
     "description": "Yaade is an open-source, self-hosted, collaborative API development environment. (Source Code) MIT Docker"
   },
   {
-    "name": "Appwrite",
-    "url": "https://appwrite.io",
-    "description": "End to end backend server for web, native, and mobile developers 🚀. (Source Code) BSD-3-Clause Docker"
-  },
-  {
-    "name": "CASE",
-    "url": "https://case.app",
-    "description": "Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. (Source Code) MIT Nodejs"
-  },
-  {
-    "name": "Coolify",
-    "url": "https://coolify.io/",
-    "description": "An open-source & self-hostable Heroku / Netlify alternative (and even more). (Source Code) Apache-2.0 Docker"
-  },
-  {
-    "name": "Dokku",
-    "url": "https://dokku.com/",
-    "description": "An open-source PaaS (alternative to Heroku). (Source Code) MIT Docker/Shell/Go/deb"
-  },
-  {
-    "name": "fx",
-    "url": "https://github.com/metrue/fx",
-    "description": "A tool to help you do Function as a Service with painless on your own servers. MIT Go"
-  },
-  {
-    "name": "Kubero",
-    "url": "https://www.kubero.dev/",
-    "description": "A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. (Demo, Source Code) GPL-3.0 K8S/Nodejs/Go"
-  },
-  {
-    "name": "LocalStack",
-    "url": "https://localstack.cloud/",
-    "description": "LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. (Source Code) Apache-2.0 Python/Docker/K8S"
-  },
-  {
-    "name": "Nhost",
-    "url": "https://nhost.io/",
-    "description": "Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. (Source Code) MIT Docker/Nodejs/Go"
-  },
-  {
-    "name": "OpenFaaS",
-    "url": "https://www.openfaas.com/",
-    "description": "Serverless Functions Made Simple for Docker & Kubernetes. (Source Code) MIT Go"
-  },
-  {
-    "name": "Trusted-CGI",
-    "url": "https://github.com/reddec/trusted-cgi",
-    "description": "Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. MIT Go/deb/Docker"
-  },
-  {
     "name": "Atheos",
     "url": "https://www.atheos.io",
     "description": "Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. (Source Code) MIT PHP/Docker"
@@ -5033,6 +4963,16 @@
     "name": "Appsmith",
     "url": "https://www.appsmith.com/",
     "description": "Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. (Source Code) Apache-2.0 Java/Docker/K8S"
+  },
+  {
+    "name": "Appwrite",
+    "url": "https://appwrite.io",
+    "description": "End to end backend server for web, native, and mobile developers 🚀. (Source Code) BSD-3-Clause Docker"
+  },
+  {
+    "name": "CASE",
+    "url": "https://case.app",
+    "description": "Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. (Source Code) MIT Nodejs"
   },
   {
     "name": "Dashpress",

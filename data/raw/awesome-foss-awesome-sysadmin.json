@@ -1075,6 +1075,56 @@
     "description": "Network device configuration management tool. (Source Code) GPL-3.0 PHP"
   },
   {
+    "name": "CapRover",
+    "url": "https://caprover.com/",
+    "description": "Build your own PaaS in a few minutes. (Demo, Source Code) Apache-2.0 Docker/Nodejs"
+  },
+  {
+    "name": "Coolify",
+    "url": "https://coolify.io/",
+    "description": "An open-source & self-hostable Heroku / Netlify alternative (and even more). (Source Code) Apache-2.0 Docker"
+  },
+  {
+    "name": "Dokku",
+    "url": "https://dokku.com/",
+    "description": "An open-source PaaS (alternative to Heroku). (Source Code) MIT Docker/Shell/Go/deb"
+  },
+  {
+    "name": "fx",
+    "url": "https://github.com/metrue/fx",
+    "description": "A tool to help you do Function as a Service with painless on your own servers. MIT Go"
+  },
+  {
+    "name": "Kubero",
+    "url": "https://www.kubero.dev/",
+    "description": "A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. (Demo, Source Code) GPL-3.0 K8S/Nodejs/Go"
+  },
+  {
+    "name": "LocalStack",
+    "url": "https://localstack.cloud/",
+    "description": "LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. (Source Code) Apache-2.0 Python/Docker/K8S"
+  },
+  {
+    "name": "Nhost",
+    "url": "https://nhost.io/",
+    "description": "Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. (Source Code) MIT Docker/Nodejs/Go"
+  },
+  {
+    "name": "OpenFaaS",
+    "url": "https://www.openfaas.com/",
+    "description": "Serverless Functions Made Simple for Docker & Kubernetes. (Source Code) MIT Go"
+  },
+  {
+    "name": "Tau",
+    "url": "https://taubyte.com",
+    "description": "Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. (Source Code) BSD-3-Clause Go/Rust/Docker"
+  },
+  {
+    "name": "Trusted-CGI",
+    "url": "https://github.com/reddec/trusted-cgi",
+    "description": "Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. MIT Go/deb/Docker"
+  },
+  {
     "name": "aptly",
     "url": "https://www.aptly.info/",
     "description": "Swiss army knife for Debian repository management. (Source Code) MIT Go"
@@ -1110,19 +1160,9 @@
     "description": "Fast multi-language queuing/job processing platform. (Source Code) BSD-3-Clause C++"
   },
   {
-    "name": "Kafka",
-    "url": "https://kafka.apache.org",
-    "description": "Extremely high performance publish/subscribe message system. (Source Code) Apache-2.0 Java"
-  },
-  {
     "name": "NSQ",
     "url": "https://nsq.io/",
     "description": "A realtime distributed messaging platform. (Source Code) MPL-2.0 Go"
-  },
-  {
-    "name": "RabbitMQ",
-    "url": "https://www.rabbitmq.com/",
-    "description": "Robust, fully featured, cross distro queuing system. (Source Code) MPL-2.0/Apache-2.0 Erlang"
   },
   {
     "name": "ZeroMQ",
