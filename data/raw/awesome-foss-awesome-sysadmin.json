@@ -345,11 +345,6 @@
     "description": "A template framework for multi-environment BOSH deployments. MIT Perl"
   },
   {
-    "name": "Mina",
-    "url": "http://nadarei.co/mina/",
-    "description": "Really fast deployer and server automation tool (rake based). (Source Code) MIT Ruby"
-  },
-  {
     "name": "munki",
     "url": "https://www.munki.org/munki/",
     "description": "Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. (Source Code) Apache-2.0 Python"
@@ -360,19 +355,9 @@
     "description": "Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. (Source Code) MIT Nodejs"
   },
   {
-    "name": "Vlad the Deployer",
-    "url": "https://github.com/seattlerb/vlad",
-    "description": "Deployment automation (rake based). MIT Ruby"
-  },
-  {
     "name": "Diagrams.net",
     "url": "https://app.diagrams.net/",
     "description": "A.K.A. Draw.io. Easy to use Diagram UI with a plethora of templates. (Source Code) Apache-2.0 JavaScript/Docker"
-  },
-  {
-    "name": "DrawThe.Net",
-    "url": "http://go.drawthe.net/",
-    "description": "Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. (Source Code) MIT JavaScript"
   },
   {
     "name": "Kroki",
@@ -678,11 +663,6 @@
     "name": "Fusion Directory",
     "url": "https://www.fusiondirectory.org",
     "description": "Improve the Management of the services and the company directory based on OpenLDAP. (Source Code) GPL-2.0 PHP"
-  },
-  {
-    "name": "Indieauth",
-    "url": "https://indieauth.com/",
-    "description": "Sign in with your domain name (using the rel-me-auth protocol). (Source Code) Apache-2.0 Ruby"
   },
   {
     "name": "LDAP Account Manager (LAM)",
@@ -1040,6 +1020,11 @@
     "description": "Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. (Source Code) GPL-1.0 Perl"
   },
   {
+    "name": "Wazuh",
+    "url": "https://wazuh.com/",
+    "description": "Unified XDR and SIEM protection for endpoints and cloud workloads. (Source Code) GPL-2.0 C"
+  },
+  {
     "name": "Zabbix",
     "url": "https://www.zabbix.com/",
     "description": "Enterprise-class software for monitoring of networks and applications. (Source Code) GPL-2.0 C"
@@ -1280,11 +1265,6 @@
     "description": "Network utility that combines traceroute and ping. (Source Code) GPL-2.0 C"
   },
   {
-    "name": "perf-tools",
-    "url": "https://github.com/brendangregg/perf-tools",
-    "description": "Performance analysis tools based on Linux perf_events (aka perf) and ftrace. GPL-2.0 Shell"
-  },
-  {
     "name": "Sysdig",
     "url": "https://www.sysdig.com/",
     "description": "Capture system state and activity from a running Linux instance, then save, filter and analyze. (Source Code) Apache-2.0 Docker/Lua/C"
@@ -1420,11 +1400,6 @@
     "description": "Complete IPsec implementation for Linux. (Source Code) GPL-2.0 C"
   },
   {
-    "name": "tinc",
-    "url": "https://www.tinc-vpn.org/",
-    "description": "Distributed p2p VPN. (Source Code) GPL-2.0 C"
-  },
-  {
     "name": "WireGuard",
     "url": "https://www.wireguard.com/",
     "description": "Very fast VPN based on elliptic curve and public key crypto. (Source Code) GPL-2.0 C"
@@ -1448,11 +1423,6 @@
     "name": "HAProxy",
     "url": "https://www.haproxy.org/",
     "description": "Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. (Source Code) GPL-2.0 C"
-  },
-  {
-    "name": "Hiawatha",
-    "url": "https://www.hiawatha-webserver.org/",
-    "description": "An advanced and secure webserver for Unix. (Source Code) GPL-2.0 C"
   },
   {
     "name": "Lighttpd",

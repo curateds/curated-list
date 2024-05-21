@@ -275,6 +275,11 @@
     "description": "Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua."
   },
   {
+    "name": "zeioth/none-ls-autoload.nvim",
+    "url": "https://github.com/zeioth/none-ls-autoload.nvim",
+    "description": "Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources."
+  },
+  {
     "name": "vxpm/ferris.nvim",
     "url": "https://github.com/vxpm/ferris.nvim",
     "description": "Interact with Rust-Analyzer's LSP extensions."
@@ -743,6 +748,11 @@
     "name": "MeanderingProgrammer/markdown.nvim",
     "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
     "description": "Improve viewing markdown files directly."
+  },
+  {
+    "name": "arminveres/md-pdf.nvim",
+    "url": "https://github.com/arminveres/md-pdf.nvim",
+    "description": "Preview markdown files and convert to PDF."
   },
   {
     "name": "gbprod/phpactor.nvim",
@@ -1328,6 +1338,11 @@
     "name": "moyiz/command-and-cursor.nvim",
     "url": "https://github.com/moyiz/command-and-cursor.nvim",
     "description": "Highlight cursor and visual selections when entering command mode."
+  },
+  {
+    "name": "rachartier/tiny-devicons-auto-colors.nvim",
+    "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
+    "description": "Automatically updates nvim-web-devicons colors based on your current colorscheme."
   },
   {
     "name": "sontungexpt/witch",

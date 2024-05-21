@@ -87,6 +87,16 @@
     "description": "This book aims to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules."
   },
   {
+    "name": "Embedded Rust (no_std) on Espressif",
+    "url": "https://docs.esp-rs.org/no_std-training/",
+    "description": "Training for Rust using no_std approach development on ESP32-C3."
+  },
+  {
+    "name": "Embedded Rust (std) on Espressif",
+    "url": "https://docs.esp-rs.org/std-training/",
+    "description": "Training for Rust using std approach development on ESP32-C3 by Ferrous Systems."
+  },
+  {
     "name": "Discovery",
     "url": "https://rust-embedded.github.io/discovery"
   },
@@ -121,11 +131,6 @@
   {
     "name": "Ferrous Systems' Knurling Sessions",
     "url": "https://knurling.ferrous-systems.com/sessions/"
-  },
-  {
-    "name": "Ferrous Systems' Embedded Rust on Espressif",
-    "url": "https://esp-rs.github.io/std-training",
-    "description": "Training Material for learning to use Embedded Rust with the Espressif ESP32-C3."
   },
   {
     "name": "DSP on STM32F407G-DISC1",
@@ -576,6 +581,10 @@
   {
     "name": "esp32c6",
     "url": "https://github.com/esp-rs/esp-pacs/tree/main/esp32c6"
+  },
+  {
+    "name": "esp32h2",
+    "url": "https://github.com/esp-rs/esp-pacs/tree/main/esp32h2"
   },
   {
     "name": "esp32s2",

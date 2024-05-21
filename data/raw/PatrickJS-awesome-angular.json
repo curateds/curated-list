@@ -1596,31 +1596,6 @@
     "description": "Angular Resumable Upload Module."
   },
   {
-    "name": "ngx-emoji-mart",
-    "url": "https://github.com/scttcper/ngx-emoji-mart",
-    "description": "Customizable Slack-like emoji picker for Angular."
-  },
-  {
-    "name": "ngx-color",
-    "url": "https://github.com/scttcper/ngx-color",
-    "description": "🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more."
-  },
-  {
-    "name": "ngx-colors",
-    "url": "https://github.com/KroneCorylus/ngx-colors",
-    "description": "Simple yet elegant Material color picker for Angular."
-  },
-  {
-    "name": "ngx-color-picker",
-    "url": "https://github.com/zefoy/ngx-color-picker",
-    "description": "Color picker widget for the Angular."
-  },
-  {
-    "name": "angular-colorful",
-    "url": "https://github.com/ngx-eco/angular-colorful",
-    "description": "A tiny color picker component for modern Angular apps."
-  },
-  {
     "name": "angular-imask",
     "url": "https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask",
     "description": "Angular input mask."
@@ -1634,6 +1609,71 @@
     "name": "maskito",
     "url": "https://github.com/taiga-family/maskito",
     "description": "Collection of libraries to create an input mask which ensures that user types value according to predefined format."
+  },
+  {
+    "name": "ngx-formly",
+    "url": "https://github.com/ngx-formly/ngx-formly",
+    "description": "JSON powered / Dynamic forms for Angular."
+  },
+  {
+    "name": "formio",
+    "url": "https://github.com/formio/angular",
+    "description": "JSON powered forms for Angular."
+  },
+  {
+    "name": "ng-dynamic-forms",
+    "url": "https://github.com/udos86/ng-dynamic-forms",
+    "description": "Rapid form development library for Angular."
+  },
+  {
+    "name": "fluent-form",
+    "url": "https://github.com/fluent-form/fluent-form",
+    "description": "Building dynamic form in Angular with Fluent API or JSON."
+  },
+  {
+    "name": "reactive-forms",
+    "url": "https://github.com/ngneat/reactive-forms",
+    "description": "(Angular Reactive) Forms with Benefits."
+  },
+  {
+    "name": "ng-signal-forms",
+    "url": "https://github.com/timdeschryver/ng-signal-forms",
+    "description": "Signal powered Angular Forms."
+  },
+  {
+    "name": "ngx-sub-form",
+    "url": "https://github.com/cloudnc/ngx-sub-form",
+    "description": "Utility library for breaking down an Angular form into multiple components."
+  },
+  {
+    "name": "forms-typed",
+    "url": "https://github.com/gparlakov/forms-typed",
+    "description": "Want types in your forms? Want to have nested forms? This is library can help."
+  },
+  {
+    "name": "ngx-emoji-mart",
+    "url": "https://github.com/scttcper/ngx-emoji-mart",
+    "description": "Customizable Slack-like emoji picker."
+  },
+  {
+    "name": "ngx-color",
+    "url": "https://github.com/scttcper/ngx-color",
+    "description": "🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more."
+  },
+  {
+    "name": "ngx-colors",
+    "url": "https://github.com/KroneCorylus/ngx-colors",
+    "description": "Simple yet elegant Material color picker."
+  },
+  {
+    "name": "ngx-color-picker",
+    "url": "https://github.com/zefoy/ngx-color-picker",
+    "description": "Color picker widget."
+  },
+  {
+    "name": "angular-colorful",
+    "url": "https://github.com/ngx-eco/angular-colorful",
+    "description": "A tiny color picker component for modern Angular apps."
   },
   {
     "name": "angular2-multiselect-dropdown",
@@ -1656,6 +1696,31 @@
     "description": "Angular directive that provides file input functionality in Angular forms."
   },
   {
+    "name": "ngx-valdemort",
+    "url": "https://github.com/Ninja-Squad/ngx-valdemort",
+    "description": "Simpler, cleaner Angular validation error messages."
+  },
+  {
+    "name": "ngx-validator",
+    "url": "https://github.com/why520crazy/ngx-validator",
+    "description": "About"
+  },
+  {
+    "name": "validointi",
+    "url": "https://github.com/validointi/validointi",
+    "description": "This is a library to help you validate your template driven forms."
+  },
+  {
+    "name": "ngx-reactive-forms-utils",
+    "url": "https://github.com/pjlamb12/ngx-reactive-forms-utils",
+    "description": "Provides easy validation error display and custom validators."
+  },
+  {
+    "name": "angular-reactive-validation",
+    "url": "https://github.com/davidwalschots/angular-reactive-validation",
+    "description": "Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy."
+  },
+  {
     "name": "ngx-formcontrol-errors",
     "url": "https://github.com/dgonzalez870/ngx-formcontrol-errors",
     "description": "A directive for showing errors in Angular form controls."
@@ -1664,26 +1729,6 @@
     "name": "error-tailor",
     "url": "https://github.com/ngneat/error-tailor",
     "description": "Making sure your tailor-made error solution is seamless!"
-  },
-  {
-    "name": "ngx-formly",
-    "url": "https://github.com/ngx-formly/ngx-formly",
-    "description": "JSON powered / Dynamic forms for Angular."
-  },
-  {
-    "name": "formio",
-    "url": "https://github.com/formio/angular",
-    "description": "JSON powered forms for Angular."
-  },
-  {
-    "name": "ng-dynamic-forms",
-    "url": "https://github.com/udos86/ng-dynamic-forms",
-    "description": "Rapid form development library for Angular."
-  },
-  {
-    "name": "reactive-forms",
-    "url": "https://github.com/ngneat/reactive-forms",
-    "description": "(Angular Reactive) Forms with Benefits."
   },
   {
     "name": "angular2-fontawesome",
@@ -1943,6 +1988,21 @@
     "name": "lithium-angular",
     "url": "https://github.com/lVlyke/lithium-angular",
     "description": "Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components."
+  },
+  {
+    "name": "rxweb",
+    "url": "https://github.com/rxweb/rxweb",
+    "description": "Tons of extensively featured packages for Angular, Vue and React Projects."
+  },
+  {
+    "name": "jsonforms",
+    "url": "https://github.com/eclipsesource/jsonforms",
+    "description": "Customizable JSON Schema-based forms with React, Angular and Vue support out of the box."
+  },
+  {
+    "name": "ngspot",
+    "url": "https://github.com/DmitryEfimenko/ngspot",
+    "description": "Collection of awesome Angular libraries."
   },
   {
     "name": "ngx-awesome-popup",

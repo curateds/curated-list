@@ -507,12 +507,12 @@
   {
     "name": "3D Game Engine Programming",
     "url": "https://www.3dgep.com",
-    "description": "Topics including graphics, physics, AI, I/O and template programming."
+    "description": "Articles on graphics, physics, AI, I/O and more."
   },
   {
     "name": "3D Game Engine Programming",
     "url": "https://www.3dgep.com",
-    "description": "Topics including graphics, physics, AI, I/O and template programming."
+    "description": "Articles on graphics, physics, AI, I/O and more."
   },
   {
     "name": "Awesome Gamedev",
@@ -823,11 +823,6 @@
     "name": "IconFontCppHeaders",
     "url": "https://github.com/juliettef/IconFontCppHeaders",
     "description": "C/C++ headers and C# classes for icon fonts."
-  },
-  {
-    "name": "msdf-c",
-    "url": "https://github.com/solenum/msdf-c",
-    "description": "Multi-channel signed distance field generator."
   },
   {
     "name": "stb_truetype",
@@ -1240,6 +1235,11 @@
     "description": "Text shaping library. Formatted and positioned glyph output."
   },
   {
+    "name": "msdfgen",
+    "url": "https://github.com/Chlumsky/msdfgen",
+    "description": "Multi-channel signed distance field generator."
+  },
+  {
     "name": "Slug",
     "url": "http://sluglibrary.com",
     "description": "High-quality, resolution-independent text and vector graphics for 3D apps."
@@ -1293,6 +1293,11 @@
     "name": "AnKi 3D Engine",
     "url": "https://github.com/godlikepanos/anki-3d-engine",
     "description": "Vulkan backend, modern renderer, scripting, physics and more."
+  },
+  {
+    "name": "Crown Engine",
+    "url": "https://github.com/crownengine/crown",
+    "description": "Data-driven 3D and 2D game engine."
   },
   {
     "name": "Drop Creator",
@@ -1682,7 +1687,7 @@
   {
     "name": "Horde3D",
     "url": "https://github.com/horde3d/Horde3D",
-    "description": "3D rendering and animation engine. [Scene Editor Info]."
+    "description": "3D rendering and animation engine."
   },
   {
     "name": "Intermediate Graphics Library (IGL)",
@@ -2955,6 +2960,11 @@
     "description": "Small JavaScript synthesizer library. [Online Composer]"
   },
   {
+    "name": "SpessaSynth",
+    "url": "https://github.com/spessasus/SpessaSynth",
+    "description": "MIDI player and synthesizer."
+  },
+  {
     "name": "Tone.js",
     "url": "https://github.com/Tonejs/Tone.js",
     "description": "WebAudio framework for creating interactive music in the browser."
@@ -3335,6 +3345,11 @@
     "description": "Makes working with the canvas element easy, part of CreateJS."
   },
   {
+    "name": "Escher.js",
+    "url": "https://github.com/tentone/escher.js",
+    "description": "Interactive 2D graphics canvas framework."
+  },
+  {
     "name": "Fabric.js",
     "url": "https://github.com/fabricjs/fabric.js",
     "description": "Powerful and simple JavaScript canvas library."
@@ -3376,7 +3391,7 @@
   },
   {
     "name": "Stage.js",
-    "url": "https://github.com/shakiba/stage.js",
+    "url": "https://github.com/piqnt/stage.js",
     "description": "2D rendering engine for game development. [Examples]"
   },
   {
@@ -3398,6 +3413,11 @@
     "name": "Babylon.js",
     "url": "https://github.com/BabylonJS/Babylon.js",
     "description": "Powerful web rendering engine. [Extensions | Website]"
+  },
+  {
+    "name": "ClayGL",
+    "url": "https://github.com/pissang/claygl",
+    "description": "WebGL library for scalable Web3D applications."
   },
   {
     "name": "CopperLicht",
@@ -4870,16 +4890,6 @@
     "description": "How to add support for a bloom effect."
   },
   {
-    "name": "Basic GLSL Displacement Shader",
-    "url": "http://benchung.com/basic-glsl-displacement-shader-three-js/",
-    "description": "Basic vertex displacement shader using Three.js."
-  },
-  {
-    "name": "Basic GLSL Displacement Shader",
-    "url": "http://benchung.com/basic-glsl-displacement-shader-three-js/",
-    "description": "Basic vertex displacement shader using Three.js."
-  },
-  {
     "name": "Dithering on the GPU",
     "url": "http://alex-charlton.com/posts/Dithering_on_the_GPU/",
     "description": "Ordered dithering in glsl using 8x8 Bayer Dithering."
@@ -5533,11 +5543,6 @@
     "name": "Melody Loops",
     "url": "https://www.melodyloops.com/music/free/",
     "description": "Nice mix of free and affordable music loops."
-  },
-  {
-    "name": "Royalty Free Music Clips",
-    "url": "https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml",
-    "description": "Huge collection of free and paid royalty free music tracks."
   },
   {
     "name": "Soundimage",

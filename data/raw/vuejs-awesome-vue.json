@@ -1,7 +1,7 @@
 [
   {
-    "name": "Official Guide",
-    "url": "http://vuejs.org/guide/"
+    "name": "Documentation",
+    "url": "https://vuejs.org/"
   },
   {
     "name": "API Reference",
@@ -9,11 +9,11 @@
   },
   {
     "name": "GitHub Repo",
-    "url": "https://github.com/vuejs/vue"
+    "url": "https://github.com/vuejs/"
   },
   {
     "name": "Release Notes",
-    "url": "https://github.com/vuejs/vue/releases"
+    "url": "https://github.com/vuejs/core/releases"
   },
   {
     "name": "Style Guide",
@@ -22,6 +22,14 @@
   {
     "name": "Vue.js News",
     "url": "https://news.vuejs.org/"
+  },
+  {
+    "name": "IDE Language Support",
+    "url": "https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools"
+  },
+  {
+    "name": "Awesome Vite",
+    "url": "https://github.com/vitejs/awesome-vite"
   },
   {
     "name": "Vue.js 資料まとめ(for japanese)",
@@ -11794,6 +11802,16 @@
     "name": "vue-macros",
     "url": "https://vue-macros.dev",
     "description": "Explore and extend more macros and syntax sugar to Vue."
+  },
+  {
+    "name": "unplugin-vue-components",
+    "url": "https://github.com/unplugin/unplugin-vue-components",
+    "description": "📲 On-demand components auto importing for Vue."
+  },
+  {
+    "name": "unplugin-auto-import",
+    "url": "https://github.com/unplugin/unplugin-auto-import",
+    "description": "Auto import Vue APIs on-demand for Vite, Webpack and Rollup."
   },
   {
     "name": "vue-typed",

@@ -1312,7 +1312,7 @@
   {
     "name": "Nitter",
     "url": "https://nitter.net",
-    "description": "A alternative front end to twitter. (Source Code) AGPL-3.0 Nim/Docker"
+    "description": "An alternative front end to twitter. (Source Code) AGPL-3.0 Nim/Docker"
   },
   {
     "name": "NodeBB",
@@ -2027,7 +2027,7 @@
   {
     "name": "CoreShop",
     "url": "https://www.coreshop.org",
-    "description": "CoreShop is a e-commerce plugin for Pimcore. (Source Code) GPL-3.0 PHP"
+    "description": "CoreShop is an e-commerce plugin for Pimcore. (Source Code) GPL-3.0 PHP"
   },
   {
     "name": "Drupal Commerce",
@@ -2432,7 +2432,7 @@
   {
     "name": "Picsur",
     "url": "https://github.com/CaramelFur/Picsur",
-    "description": "A simple imaging hosting playtfom that allows you to easily host, edit, and share images. GPL-3.0 Docker"
+    "description": "A simple imaging hosting platform that allows you to easily host, edit, and share images. GPL-3.0 Docker"
   },
   {
     "name": "PictShare",
@@ -2527,7 +2527,7 @@
   {
     "name": "Filestash",
     "url": "https://www.filestash.app/",
-    "description": "A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . (Demo, Source Code) AGPL-3.0 Docker"
+    "description": "A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive. (Demo, Source Code) AGPL-3.0 Docker"
   },
   {
     "name": "Gossa",
@@ -2737,7 +2737,7 @@
   {
     "name": "webtrees",
     "url": "https://www.webtrees.net",
-    "description": "Webtrees is the web's leading on-line collaborative genealogy application. (Demo, Source Code) GPL-3.0 PHP"
+    "description": "Webtrees is the web's leading online collaborative genealogy application. (Demo, Source Code) GPL-3.0 PHP"
   },
   {
     "name": "Citadel",
@@ -3035,14 +3035,14 @@
     "description": "A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. (Source Code) GPL-3.0 Docker/Python"
   },
   {
+    "name": "Manyfold",
+    "url": "https://manyfold.app",
+    "description": "Digital asset manager for 3d print files; STL, OBJ, 3MF and more. (Source Code) MIT Docker"
+  },
+  {
     "name": "Octoprint",
     "url": "https://octoprint.org/",
     "description": "A snappy web interface for controlling consumer 3D printers. (Source Code) AGPL-3.0 Docker/Python"
-  },
-  {
-    "name": "VanDAM",
-    "url": "https://github.com/Floppy/van_dam",
-    "description": "Digital asset manager for 3d print files; STL, OBJ, 3MF and more. MIT Docker"
   },
   {
     "name": "Bicimon",
@@ -3630,11 +3630,6 @@
     "description": "The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. (Source Code) MIT PHP"
   },
   {
-    "name": "NATS",
-    "url": "https://nats.io/",
-    "description": "Publish/Subscribe event bus, durable queues, key-value store, object store, and more. Native multi-tenancy, multiple authentication and authorization mechanisms. Easy to self-host and federate. (Source Code, Clients) Apache-2.0 Go/deb/Docker/K8S"
-  },
-  {
     "name": "Neko",
     "url": "https://neko.m1k1o.net",
     "description": "A self hosted virtual browser (rabb.it clone) that runs in Docker. (Source Code) Apache-2.0 Docker/Go"
@@ -3647,7 +3642,7 @@
   {
     "name": "Octave Online",
     "url": "https://octave-online.net/",
-    "description": "Infrastracture behind a web UI for GNU Octave (alternative to MATLAB). (Source Code) AGPL-3.0 Docker/Nodejs"
+    "description": "Infrastructure behind a web UI for GNU Octave (alternative to MATLAB). (Source Code) AGPL-3.0 Docker/Nodejs"
   },
   {
     "name": "Ombi",
@@ -3762,7 +3757,7 @@
   {
     "name": "Actual",
     "url": "https://actualbudget.github.io/docs/",
-    "description": "Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. (Source Code) MIT Nodejs/Docker"
+    "description": "Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. (Source Code) MIT Nodejs/Docker"
   },
   {
     "name": "Bigcapital",
@@ -3872,7 +3867,7 @@
   {
     "name": "Ocular",
     "url": "https://github.com/simonwep/ocular",
-    "description": "Simplistic and straight-forward budgeting app to track your budget across months and years. (Demo) MIT Docker"
+    "description": "Simplistic and straightforward budgeting app to track your budget across months and years. (Demo) MIT Docker"
   },
   {
     "name": "OnTrack",
@@ -4298,6 +4293,11 @@
     "name": "Damselfly",
     "url": "https://damselfly.info",
     "description": "Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. (Source Code) GPL-3.0 Docker/C#/.NET"
+  },
+  {
+    "name": "Ente",
+    "url": "https://ente.io/",
+    "description": "An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). (Source Code) AGPL-3.0 Docker/Nodejs/Go"
   },
   {
     "name": "HomeGallery",

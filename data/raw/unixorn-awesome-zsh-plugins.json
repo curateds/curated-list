@@ -1936,11 +1936,6 @@
     "description": "Adds some ZLE widgets for fzf."
   },
   {
-    "name": "fzf-z",
-    "url": "https://github.com/andrewferrier/fzf-z",
-    "description": "Brings together the z plugin and fzf- to allow you to easily browse recently used directories at any point on the command line."
-  },
-  {
     "name": "fzfsh",
     "url": "https://github.com/ethan605/fzfsh",
     "description": "Add fzf plugins for chezmoi, docker, git, kubectl and pass."
