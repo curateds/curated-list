@@ -25,10 +25,6 @@
     "description": "Introduction"
   },
   {
-    "name": "Adding Alternate Media to a Playlist | Apple Developer Documentation",
-    "url": "https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/adding_alternate_media_to_a_playlist"
-  },
-  {
     "name": "Back to Basics: Encoding Definition and Adaptive Bitrate",
     "url": "https://bitmovin.com/encoding-definition-bitrates/?utm_campaign=Newsletter&utm_medium=email&_hsenc=p2ANqtz-8MPFxhR7snQrxPYM7Bl3UTEMgOh5ZXoDQCHjLl9lkskqE0IfBhEuz3us39Br-lvA_CnyNmQl6L5wqO6iKOfAJ8HznenQ&_hsmi=79678208&utm_content=79677632&utm_source=hs_email&hsCtaTracking=b8eb0e0a-f292-435e-8b99-719b75d81412%7C367afa65-d810-4c2e-aa2c-c87e897a8942"
   },
@@ -94,10 +90,6 @@
     "description": "This article explains how HTTP Live Streaming works and demonstrates how to create an HLS player in Android."
   },
   {
-    "name": "Live Playlist (Sliding Window) Construction | Apple Developer Documentation",
-    "url": "https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/live_playlist_sliding_window_construction"
-  },
-  {
     "name": "Low Latency Live Streaming",
     "url": "https://docs.google.com/presentation/d/1ZwqWcweR5SqeMBRmJjSukWaHbpdPy-EPYvJCS23_n3U/edit?usp=sharing",
     "description": "Low Latency Live Streaming Apple LLHLS / CMAF Kevin Staunton-Lambert Solutions Architect R&D (July 2019) @kevleyski www.switch.tv"
@@ -152,10 +144,6 @@
     "description": "NALU, Annex B, and Start Codes"
   },
   {
-    "name": "Video on Demand Playlist Construction | Apple Developer Documentation",
-    "url": "https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/video_on_demand_playlist_construction"
-  },
-  {
     "name": "WebAssembly (Wasm)",
     "url": "https://docs.google.com/presentation/d/1sonEk2neNVBcy8EzieUjWCNzj5SXN7dk-unkR_lpl8k/edit?usp=sharing",
     "description": "WebAssembly (Wasm) On the Edge Kevin Staunton-Lambert Solutions Architect R&D @kevleyski www.switch.tv Wasm)"
@@ -196,12 +184,12 @@
   },
   {
     "name": "matmoi/create-DASH-HLS",
-    "url": "https://github.com/matmoi/create-DASH-HLS",
+    "url": "https://github.com/matmoi/create-DASH-HLS/",
     "description": "A tutorial to generate fMp4 files compatible with dash and HLS - matmoi/create-DASH-HLS"
   },
   {
     "name": "matmoi/create-DASH-HLS",
-    "url": "https://github.com/matmoi/create-DASH-HLS/",
+    "url": "https://github.com/matmoi/create-DASH-HLS",
     "description": "A tutorial to generate fMp4 files compatible with dash and HLS - matmoi/create-DASH-HLS"
   },
   {
@@ -225,49 +213,9 @@
     "description": "2014-06-20 (1st Edition). Bull, David."
   },
   {
-    "name": "Data Broadcasting: Understanding the ATSC Data Broadcast Standard",
-    "url": "https://www.amazon.com/dp/0071375902/",
-    "description": "2001-04-16 (1st Edition). Chernock, Richard; Crinon, Regis; Mick, John."
-  },
-  {
-    "name": "Digital Television: MPEG-1, MPEG-2 and Principles of the DVB System",
-    "url": "https://www.amazon.com/dp/0340691905/",
-    "description": "1997-07-11. Benoit, Herve."
-  },
-  {
-    "name": "Digital Television: Technology and Standards",
-    "url": "https://www.amazon.com/dp/0470147830/",
-    "description": "2007-09-17. Arnold, John; Frater, Michael; Pickering, Mark."
-  },
-  {
-    "name": "Digital Video and HD: Algorithms and Interfaces",
-    "url": "https://www.amazon.com/dp/0123919266/",
-    "description": "2012-02-07 (2nd Edition). Poynton, Charles."
-  },
-  {
     "name": "Fundamentals of Multimedia",
     "url": "https://www.amazon.com/Fundamentals-Multimedia-Texts-Computer-Science/dp/303062126X/",
     "description": "2022-02-17 (3rd Edition). Ze-Nian Li (Author), Mark S. Drew (Author), Jiangchuan Liu."
-  },
-  {
-    "name": "High Efficiency Video Coding (HEVC): Algorithms and Architectures (Integrated Circuits and Systems)",
-    "url": "https://www.amazon.com/gp/product/3319068946/",
-    "description": "2014-09-03. Budagavi, Madhukar; Sze, Vivienne; Sullivan, Gary."
-  },
-  {
-    "name": "High Efficiency Video Coding: Coding Tools and Specification (Signals and Communication Technology)",
-    "url": "https://www.amazon.com/gp/product/3662442752/",
-    "description": "2014-10-08. Wien, Mathias."
-  },
-  {
-    "name": "Introduction to Digital Audio Coding and Standards",
-    "url": "https://www.amazon.com/dp/1402073577/",
-    "description": "2002-12-31. Bosi, Marina; Goldberg, Richard."
-  },
-  {
-    "name": "Producing Streaming Video for Multiple Screen Delivery",
-    "url": "https://www.amazon.com/gp/product/0976259540/",
-    "description": "2013-04-01. Ozer, Jan."
   },
   {
     "name": "The Good Parts of LibVLC",
@@ -275,39 +223,9 @@
     "description": "2022-09-15. Finkel, Martin."
   },
   {
-    "name": "The H.264 Advanced Video Compression Standard",
-    "url": "https://www.amazon.de/-/en/Iain-Richardson/dp/0470516925",
-    "description": "2010-04-23. Richardson, Iain."
-  },
-  {
-    "name": "The MPEG Handbook",
-    "url": "https://www.amazon.com/dp/024080578X/",
-    "description": "2004-11-15 (2nd Edition). Watkinson, John."
-  },
-  {
-    "name": "The MPEG-4 Book",
-    "url": "https://www.amazon.com/MPEG-4-Book-Fernando-Pereira/dp/0130616214/",
-    "description": "2002-07-20. Ebrahimi, Touradj; Pereira, Fernando."
-  },
-  {
-    "name": "Transporting Compressed Digital Video",
-    "url": "https://www.amazon.com/dp/140207011X/",
-    "description": "2002-03-31. Chen, Xuemin."
-  },
-  {
     "name": "Video Compression Handbook",
     "url": "https://www.amazon.com/dp/0134866215/",
     "description": "2018-07-03 (2nd Edition). Beach, Andy; Owen, Aaron."
-  },
-  {
-    "name": "Video Demystified: A Handbook for the Digital Engineer",
-    "url": "https://www.amazon.com/Video-Demystified-Handbook-Digital-Engineer/dp/0750683953",
-    "description": "2007-05-14. Jack, Keith."
-  },
-  {
-    "name": "Video Encoding by the Numbers: Eliminate the Guesswork from your Streaming Video",
-    "url": "https://www.amazon.com/Video-Encoding-Numbers-Eliminate-Guesswork/dp/0998453005/",
-    "description": "2016-12-28. Ozer, Jan."
   },
   {
     "name": "9 Best Home Server Apps to Automate Media Management",
@@ -336,21 +254,6 @@
     "name": "Design of scheduling and rate-adaptation algorithms for adaptive HTTP streaming · dispar.at Blog",
     "url": "https://dispar.at/blog/2017/07/08/design-of-scheduling-and-rate-adaptation-algorithms-for-adaptive-http-streaming/",
     "description": "Design of scheduling and rate-adaptation algorithms for adaptive HTTP streaming - Stephan Hesse"
-  },
-  {
-    "name": "Divide & Encode: How to Encode Videos Blazingly Fast | Part I - Need For Speed",
-    "url": "https://tech.showmax.com/2019/01/divide-encode-1/",
-    "description": "Need For Speed  - Here at Showmax, we’re addicted to speed and performance. In this post, I’ll go through a few techniques we used to improve the speed of our enc..."
-  },
-  {
-    "name": "Divide & Encode: How to Encode Videos Blazingly Fast | Part II - Under The Hood",
-    "url": "https://tech.showmax.com/2019/03/divide-encode-2/",
-    "description": "Under The Hood  - This is the second (and final) part of our blog mini-series about boosting encoding speed. In the first part we wrote about how we managed to ma..."
-  },
-  {
-    "name": "EBU.io - Engineering Blog",
-    "url": "https://ebu.io/blog",
-    "description": "Engineering Blog  -"
   },
   {
     "name": "Extracting contextual information from video assets",
@@ -398,11 +301,6 @@
     "description": "By: Jeff Gong, Software Engineer, jeffgon@twitch.tv Sahil Dhanju, Software Engineer Intern Chih-Chiang Lu, Senior Software Engineer…"
   },
   {
-    "name": "Pushing video bitrate to the limit",
-    "url": "https://tech.showmax.com/2020/06/pushing-video-bitrate-to-the-limit/",
-    "description": "When you subscribe to a VOD service, you expect the best visual quality possible. For our customers across Sub-Saharan Africa, it’s no different..."
-  },
-  {
     "name": "Quantifying packaging overhead",
     "url": "https://mux.com/blog/quantifying-packaging-overhead-2",
     "description": "Mux makes adding video to your app or website as easy as making a single API call. But behind the scenes is a large multistep process to analyze and transform the video into something that can be easily consumed by a device. This process is commonly called a media “pipeline”"
@@ -424,12 +322,12 @@
   },
   {
     "name": "Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming",
-    "url": "https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1560983627&_branch_match_id=670020794794030328",
+    "url": "https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1559724204&_branch_match_id=664738392430917730",
     "description": "In this blog article Jonas Rydholm Birmé describes how he created a server-less just-in-time packaging origin, using AWS ECS Fargate tasks…"
   },
   {
     "name": "Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming",
-    "url": "https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1559724204&_branch_match_id=664738392430917730",
+    "url": "https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca?source=userActivityShare-94bccb50d11-1560983627&_branch_match_id=670020794794030328",
     "description": "In this blog article Jonas Rydholm Birmé describes how he created a server-less just-in-time packaging origin, using AWS ECS Fargate tasks…"
   },
   {
@@ -530,36 +428,6 @@
     "name": "Video Coding Basics - How is this so efficient?",
     "url": "https://youtu.be/LDeL7-49qm4",
     "description": "How is this so efficient?  - An introduction to the basics of video coding"
-  },
-  {
-    "name": "RTC.ON 2023",
-    "url": "https://www.youtube.com/playlist?list=PLSk21zn8fFZBUTg4AbMyVBripi2ldmjpF",
-    "description": "2023 RTC.ON talks & presentations"
-  },
-  {
-    "name": "JanusCon 2019",
-    "url": "https://www.youtube.com/playlist?list=PLkSq48W3Pn8n_PBOIRAiqhcCIsrgydzU_",
-    "description": "2019 JanusCon talks & presentations"
-  },
-  {
-    "name": "CommCon 2023",
-    "url": "https://www.youtube.com/playlist?list=PLvNS4EBAxmJLjMY3NAVoPSmIXWiUjrnKv",
-    "description": "2023 CommCon talks & presentations"
-  },
-  {
-    "name": "CommCon 2021",
-    "url": "https://www.youtube.com/playlist?list=PLvNS4EBAxmJJbvGW-PfXdXOSy9AjHjCLV",
-    "description": "2021 CommCon talks & presentations"
-  },
-  {
-    "name": "CommCon 2020",
-    "url": "https://www.youtube.com/playlist?list=PLvNS4EBAxmJLCLMNqvfe6eTQIWVDAPcP4",
-    "description": "2020 CommCon talks & presentations"
-  },
-  {
-    "name": "CommCon 2019",
-    "url": "https://www.youtube.com/playlist?list=PLvNS4EBAxmJKz6E6PLCqBq0eB-KKB6HR0",
-    "description": "2019 CommCon talks & presentations"
   },
   {
     "name": "507_hls_authoring_for_airplay_2.",
@@ -1142,11 +1010,6 @@
     "description": "OTT/ABR streaming encoder (H264/HEVC) and packager for DASH and HLS - cannonbeach/ott-packager"
   },
   {
-    "name": "cbsinteractive/transcode-orchestrator",
-    "url": "https://github.com/cbsinteractive/transcode-orchestrator",
-    "description": "Agnostic API orchestrating the transcoding of media assets across various cloud providers, previously https://github.com/cbsinteractive/video-transcoding-api - cbsinteractive/transcode-orchestrator"
-  },
-  {
     "name": "chn-lee-yumi/distributed_ffmpeg_transcoding_cluster: 分布式FFMpeg转码集群。A FFMpeg transcoding cluster runs in variable CPUs, including ARM, x86, and others which can run linux. You can use it to run a RaspberryPi cluster.",
     "url": "https://github.com/chn-lee-yumi/distributed_ffmpeg_transcoding_cluster",
     "description": "分布式FFMpeg转码集群。A FFMpeg transcoding cluster runs in variable CPUs, including ARM, x86, and others which can run linux. You can use it to run a RaspberryPi cluster. - chn-lee-yumi/distributed_ffmpeg_..."
@@ -1253,11 +1116,6 @@
     "description": "Quickly transcode a source video to MP4, OGV, and WebM, with scale, bitrate, and screengrab options. - monking/transcode-web-video"
   },
   {
-    "name": "natsuite/NatReader-API",
-    "url": "https://github.com/natsuite/NatReader-API",
-    "description": "NatReader is a cross-platform video decoding API designed for transcoding applications. - natsuite/NatReader-API"
-  },
-  {
     "name": "olaris / olaris-server",
     "url": "https://gitlab.com/olaris/olaris-server",
     "description": "GitLab.com"
@@ -1274,12 +1132,12 @@
   },
   {
     "name": "realeyes-media/demo-encoder",
-    "url": "https://github.com/realeyes-media/demo-encoder",
+    "url": "https://github.com/realeyes-media/demo-encoder/",
     "description": "A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder"
   },
   {
     "name": "realeyes-media/demo-encoder",
-    "url": "https://github.com/realeyes-media/demo-encoder/",
+    "url": "https://github.com/realeyes-media/demo-encoder",
     "description": "A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder"
   },
   {
@@ -1586,10 +1444,6 @@
     "description": "The WAVE (Web Application Video Ecosystem) Project, hosted by the Consumer Technology Association (CTA)®, aims to improve how internet-delivered commercial video is handled on consumer electronics devices and to make it easier for content creators to distribute video to those devices."
   },
   {
-    "name": "DASH Industry Forum | Catalyzing the adoption of MPEG-DASH",
-    "url": "https://dashif.org/software"
-  },
-  {
     "name": "Home | Streaming Video Alliance",
     "url": "https://www.streamingvideoalliance.org/",
     "description": "Making Streaming Video Better Streaming video is exploding in popularity. Consumers are watching more video online across a myriad of devices. But, the streaming experiences, across providers, can be wildly different from each other which ultimately hurts adoption. The problem is a lack of colla ..."
@@ -1649,11 +1503,6 @@
     "name": "adrg/libvlc-go",
     "url": "https://github.com/adrg/libvlc-go",
     "description": "Go bindings for libVLC and high-level media player interface."
-  },
-  {
-    "name": "davidAgo4g/VideoPlayer-iOS",
-    "url": "https://github.com/davidAgo4g/VideoPlayer-iOS",
-    "description": "A library based on FFMPEG to play video files on iOS using OpenGLES and AudioQueue. Build with theos - davidAgo4g/VideoPlayer-iOS"
   },
   {
     "name": "elements/packages/mux-player",
@@ -1860,11 +1709,6 @@
     "description": "Based on FFEngine framework, a rtmp video player for apple iOS devices. - xiewei-wayne/rtmp-video-player-for-ios"
   },
   {
-    "name": "Audio and Video Support",
-    "url": "https://developer.roku.com/docs/specs/streaming.md#AudioandVideoSupport-AdaptiveBitrateFormats",
-    "description": "Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from."
-  },
-  {
     "name": "CCecilia/roku-suite-desktop",
     "url": "https://github.com/CCecilia/roku-suite-desktop",
     "description": "Tool suite for Roku channel development."
@@ -1875,24 +1719,9 @@
     "description": "Emby for Roku."
   },
   {
-    "name": "Playing Video Examples",
-    "url": "https://developer.roku.com/docs/developer-program/core-concepts/playing-videos.md#PlayingVideos-Examples",
-    "description": "Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from."
-  },
-  {
-    "name": "Roku",
-    "url": "https://developer.roku.com/docs/specs/streaming.md",
-    "description": "Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from."
-  },
-  {
     "name": "T-Pham/RokuJSONHelperNode",
     "url": "https://github.com/T-Pham/RokuJSONHelperNode",
     "description": "Roku SceneGraph JSON Helper."
-  },
-  {
-    "name": "Video Node Docs",
-    "url": "https://developer.roku.com/docs/references/scenegraph/media-playback-nodes/video.md",
-    "description": "Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from."
   },
   {
     "name": "XML + Code + Good times = RSG Application",
@@ -2252,11 +2081,6 @@
     "url": "https://github.com/Saurabh702/ffmpeg-scale-benchmark"
   },
   {
-    "name": "TenPennyTV/worker-ffmpeg",
-    "url": "https://github.com/TenPennyTV/worker-ffmpeg",
-    "description": "Worker that is used to transcode video to supported formats and resolutions - TenPennyTV/worker-ffmpeg"
-  },
-  {
     "name": "This gist will generate an Intel QSV-enabled FFmpeg build using the open source Intel Media SDK. Testbed used: Ubuntu 18.04LTS. A fallback is also provided for the intel vaapi driver where needed.",
     "url": "https://gist.github.com/SeanMollet/0eed16e80630ab67532890a9d42132af",
     "description": "This gist will generate an Intel QSV-enabled FFmpeg build using the open source Intel Media SDK. Testbed used: Ubuntu 18.04LTS. A fallback is also provided for the intel vaapi driver where needed. ..."
@@ -2310,11 +2134,6 @@
     "name": "cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile · master · nvidia / container-images / samples",
     "url": "https://gitlab.com/nvidia/container-images/samples/blob/master/cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile",
     "description": "Sample Dockerfiles for Docker Hub images"
-  },
-  {
-    "name": "dschere/industrial-ffmpeg",
-    "url": "https://github.com/dschere/industrial-ffmpeg",
-    "description": "A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video - dschere/industrial-ffmpeg"
   },
   {
     "name": "ffmprovisr",
@@ -2956,11 +2775,6 @@
     "description": "As a video streaming technician there are a number of tools that you find yourself using on a daily basis. Wouldn’t it be handy if all…"
   },
   {
-    "name": "AKSHAYUBHAT/DeepVideoAnalytics",
-    "url": "https://github.com/AKSHAYUBHAT/DeepVideoAnalytics",
-    "description": "A distributed visual search and visual data analytics platform. - AKSHAYUBHAT/DeepVideoAnalytics"
-  },
-  {
     "name": "Comcast/eel",
     "url": "https://github.com/Comcast/eel",
     "description": "A simple proxy service to forward JSON events and transform or filter them along the way. - Comcast/eel"
@@ -3011,19 +2825,9 @@
     "description": "Contribute to Eyevinn/pseudo-live-playout development by creating an account on GitHub."
   },
   {
-    "name": "Eyevinn/streaming-analyzer",
-    "url": "https://github.com/Eyevinn/streaming-analyzer",
-    "description": "Analyze and visualize HTTP ABR streams."
-  },
-  {
     "name": "Eyevinn/toolbox",
     "url": "https://github.com/Eyevinn/toolbox",
     "description": "A set of Docker containers with Streaming tools."
-  },
-  {
-    "name": "Eyevinn/vod-to-live.js",
-    "url": "https://github.com/Eyevinn/vod-to-live.js",
-    "description": "NPM library for HLS VOD to Live."
   },
   {
     "name": "IENT/YUView",
@@ -3323,10 +3127,6 @@
     "description": "In this post we provide an in-depth first party overview of the complex integration between the KeyOS Platform and the Elemental Media Services via the SPEKE API."
   },
   {
-    "name": "DeployingKeyOSMulti-DRM_withTHEOPLayer_Webinar_Draft1",
-    "url": "https://www.buydrm.com/sites/default/files/pdf/webinar/050217_DeployingKeyOSMulti-DRM_withTHEOPLayer_Webinar.pdf"
-  },
-  {
     "name": "Digital Rights Management (DRM) – Everything you need to know",
     "url": "https://bitmovin.com/digital-rights-management-everything-to-know/"
   },
@@ -3486,31 +3286,6 @@
     "description": "VideoLAN events"
   },
   {
-    "name": "Software Mansion Discord",
-    "url": "https://discord.gg/nEZ8Rusc52",
-    "description": "Discord server where folks from SWM working on multimedia stuff reside."
-  },
-  {
-    "name": "LiveKit Slack",
-    "url": "https://join.slack.com/t/livekit-users/shared_invite/zt-28a400kyd-I0mPVUrxcZ5TEayIvmq9mw",
-    "description": "Slack where folks working on LiveKit reside."
-  },
-  {
-    "name": "Gophers Slack, channel #pion",
-    "url": "https://join.slack.com/t/gophers/shared_invite/zt-2gyed6bva-gl2F32VpT1WZvCpj4e7FtA",
-    "description": "Slack channel where folks working on Pion reside."
-  },
-  {
-    "name": "Video-Dev Slack",
-    "url": "https://www.video-dev.org/",
-    "description": "Slack for video engineers."
-  },
-  {
-    "name": "discuss-webrtc",
-    "url": "https://groups.google.com/g/discuss-webrtc",
-    "description": "Google Group for all webrtc-related questions."
-  },
-  {
     "name": "AWS CloudFront Live failover",
     "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html",
     "description": "You can set up CloudFront with origin failover for scenarios that require high availability. To get started, create an origin group in which you designate a primary origin for CloudFront plus a second origin that CloudFront automatically switches to when the primary origin returns specific HTTP status code failure responses."
@@ -3528,11 +3303,6 @@
     "name": "Edge Computing with Fastly CDN and Varnish VCL for Authenticated Requests - Endertech",
     "url": "https://endertech.com/blog/edge-computing-fastly-cdn-varnish-vcl-authenticated-requests",
     "description": "Endertech  - A brief explanation of how to use Fastly CDN and Varnish with authenticated requests to offload static file serving from the origin and edge caching."
-  },
-  {
-    "name": "How to use DASH and HLS Adaptive Streaming with AWS S3 and Cloudfront",
-    "url": "https://bitmovin.zendesk.com/hc/en-us/articles/115001609634-How-to-use-DASH-and-HLS-Adaptive-Streaming-with-AWS-S3-and-Cloudfront",
-    "description": "Bitmovin integrates DASH and HLS adaptive streaming seamlessly into your AWS workflows. The Bitmovin encoding service could be configured to use an AWS S3 bucket as input and output for your DASH a..."
   },
   {
     "name": "Lambda Edge Tutorial",
@@ -3572,11 +3342,6 @@
     "name": "High Dynamic Range Television and Hybrid Log-Gamma - BBC R&D",
     "url": "https://www.bbc.co.uk/rd/projects/high-dynamic-range",
     "description": "BBC R&D  - BBC R&D HDR project page."
-  },
-  {
-    "name": "Perceptual Quantiser (PQ) to Hybrid Log-Gamma (HLG) Transcoding",
-    "url": "https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_PQ_HLG_Transcode_v2.pdf",
-    "description": "In depth break down on converting from pq to hlg"
   },
   {
     "name": "Use of Look-Up Tables (LUTs) in FFmpeg",

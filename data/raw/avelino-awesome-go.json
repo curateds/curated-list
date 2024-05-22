@@ -1908,6 +1908,11 @@
     "description": "High-performance embedded Object Database (NoSQL) with Go API."
   },
   {
+    "name": "pebble",
+    "url": "https://github.com/cockroachdb/pebble",
+    "description": "RocksDB/LevelDB inspired key-value database in Go."
+  },
+  {
     "name": "piladb",
     "url": "https://github.com/fern4lvarez/piladb",
     "description": "Lightweight RESTful database engine based on stack data structures."
@@ -3841,6 +3846,11 @@
     "name": "typeregistry",
     "url": "https://github.com/xiaoxin01/typeregistry",
     "description": "A library to create type dynamically."
+  },
+  {
+    "name": "geoos",
+    "url": "https://github.com/spatial-go/geoos",
+    "description": "A library provides spatial data and geometric algorithms."
   },
   {
     "name": "geoserver",

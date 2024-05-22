@@ -230,9 +230,9 @@
     "description": "Content infrastructure for digital teams."
   },
   {
-    "name": "NetlifyCMS",
-    "url": "https://netlifycms.org/",
-    "description": "open source Git-based CMS."
+    "name": "Decap CMS",
+    "url": "https://decapcms.org/",
+    "description": "Open source Git-based CMS (Formerly known as Netlify CMS)."
   },
   {
     "name": "ButterCMS",
@@ -354,6 +354,10 @@
     "url": "https://clerk.com"
   },
   {
+    "name": "Corbado",
+    "url": "https://www.corbado.com"
+  },
+  {
     "name": "Disqus",
     "url": "https://disqus.com",
     "description": "Global comment system that improves discussion on websites and connects conversations across the web."
@@ -452,6 +456,11 @@
     "name": "Medusa",
     "url": "https://medusajs.com/",
     "description": "Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences."
+  },
+  {
+    "name": "Saleor",
+    "url": "https://saleor.io/",
+    "description": "Saleor is open-source, GraphQL-first, technology agnostic commerce engine."
   },
   {
     "name": "Algolia",
@@ -606,7 +615,7 @@
   {
     "name": "imgix",
     "url": "https://www.imgix.com/",
-    "description": "Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters."
+    "description": "Serverless image delivery and management service. imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters."
   },
   {
     "name": "TwicPics",

@@ -634,6 +634,11 @@
     "description": "M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch."
   },
   {
+    "name": "angular-serve-and-run",
+    "url": "https://github.com/dot-build/angular-serve-and-run",
+    "description": "Serve your Angular CLI project then run a command on top of it."
+  },
+  {
     "name": "Webpack",
     "url": "https://webpack.js.org"
   },
@@ -1019,6 +1024,16 @@
     "description": "Leverage Bit to build composable software."
   },
   {
+    "name": "google-pay-button",
+    "url": "https://github.com/google-pay/google-pay-button",
+    "description": "Google Pay button - React, Angular, and custom element."
+  },
+  {
+    "name": "Partytown",
+    "url": "https://partytown.builder.io/angular",
+    "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker."
+  },
+  {
     "name": "ngx-admin",
     "url": "https://github.com/akveo/ngx-admin",
     "description": "Customizable admin dashboard template based on Angular 10+."
@@ -1224,7 +1239,7 @@
   {
     "name": "Angular Challenges",
     "url": "https://angular-challenges.vercel.app/",
-    "description": "This repository gathers 50 challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills."
+    "description": "This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills."
   },
   {
     "name": "Codelabs",
@@ -1235,6 +1250,16 @@
     "name": "rxjs-fruits",
     "url": "https://www.rxjs-fruits.com/subscribe",
     "description": "Interactive lessons covering a range of operators in RxJS."
+  },
+  {
+    "name": "angular-debugging-challenge",
+    "url": "https://github.com/ppsdang/angular-debugging-challenge",
+    "description": "This repository hosts an Angular-based project designed as a coding and debugging exercise."
+  },
+  {
+    "name": "angular-api-challenge",
+    "url": "https://github.com/ppsdang/angular-api-challenge",
+    "description": "This repository hosts an Angular-based project designed as a api integration exercise."
   },
   {
     "name": "tsparticles",
@@ -1392,6 +1417,11 @@
     "description": "An Angular service for managing directed acyclic graphs."
   },
   {
+    "name": "ngx-simple-charts",
+    "url": "https://github.com/Angular2Guy/ngx-simple-charts",
+    "description": "Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided."
+  },
+  {
     "name": "ngx-date-fns",
     "url": "https://github.com/joanllenas/ngx-date-fns",
     "description": "date-fns pipes for Angular."
@@ -1447,6 +1477,11 @@
     "description": "Angular library containing components used for handling datetime."
   },
   {
+    "name": "time2blocks-ngx",
+    "url": "https://github.com/antonioconselheiro/time2blocks-ngx",
+    "description": "Angular lib to identify which time is associated with a blockchain block in the past (and format it)."
+  },
+  {
     "name": "ngx-resize-observer",
     "url": "https://github.com/fidian/ngx-resize-observer",
     "description": "Angular 8+ module for detecting when elements are resized."
@@ -1479,6 +1514,46 @@
     "name": "ngx-page-scroll",
     "url": "https://github.com/Nolanus/ngx-page-scroll",
     "description": "Animated scrolling functionality for Angular written in pure TypeScript."
+  },
+  {
+    "name": "ngx-dynamic-hooks",
+    "url": "https://github.com/MTobisch/ngx-dynamic-hooks",
+    "description": "Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM."
+  },
+  {
+    "name": "edit-in-place",
+    "url": "https://github.com/ngneat/edit-in-place",
+    "description": "A flexible and unopinionated edit in place library."
+  },
+  {
+    "name": "ng-let",
+    "url": "https://github.com/nigrosimone/ng-let",
+    "description": "Structural directive for sharing data as local variable into html component template."
+  },
+  {
+    "name": "ng-for-track-by-property",
+    "url": "https://github.com/nigrosimone/ng-for-track-by-property",
+    "description": "Angular global trackBy property directive with strict type checking."
+  },
+  {
+    "name": "ng-generic-pipe",
+    "url": "https://github.com/nigrosimone/ng-generic-pipe",
+    "description": "Generic pipe for Angular application."
+  },
+  {
+    "name": "safe-pipe",
+    "url": "https://github.com/embarq/safe-pipe",
+    "description": "Angular pipe for sanitizing your unsafe content."
+  },
+  {
+    "name": "ngxd",
+    "url": "https://github.com/Indigosoft/ngxd",
+    "description": "NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+."
+  },
+  {
+    "name": "ngx-quicklink",
+    "url": "https://github.com/mgechev/ngx-quicklink",
+    "description": "Quicklink prefetching strategy for the Angular router."
   },
   {
     "name": "ng2-dragula",
@@ -1574,6 +1649,11 @@
     "name": "ngx-property-editor",
     "url": "https://github.com/heinerwalter/ngx-property-editor",
     "description": "Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object."
+  },
+  {
+    "name": "ngx-tiptap",
+    "url": "https://github.com/sibiraj-s/ngx-tiptap",
+    "description": "Angular bindings for tiptap v2."
   },
   {
     "name": "ng2-file-upload",
@@ -1696,6 +1776,21 @@
     "description": "Angular directive that provides file input functionality in Angular forms."
   },
   {
+    "name": "ngx-bootstrap-icons-picker",
+    "url": "https://github.com/gdgvda/ngx-bootstrap-icons-picker",
+    "description": "Just a Bootstrap Icons Picker for Angular."
+  },
+  {
+    "name": "ngx-filesaver",
+    "url": "https://github.com/cipchk/ngx-filesaver",
+    "description": "Simple file save with FileSaver.js."
+  },
+  {
+    "name": "angular-star-rating",
+    "url": "https://github.com/BioPhoton/angular-star-rating",
+    "description": "Star Rating Angular Component written in TypeScript, based on CSS-only techniques."
+  },
+  {
     "name": "ngx-valdemort",
     "url": "https://github.com/Ninja-Squad/ngx-valdemort",
     "description": "Simpler, cleaner Angular validation error messages."
@@ -1731,6 +1826,11 @@
     "description": "Making sure your tailor-made error solution is seamless!"
   },
   {
+    "name": "angular-fontawesome",
+    "url": "https://github.com/FortAwesome/angular-fontawesome",
+    "description": "Official Angular component for Font Awesome 5+."
+  },
+  {
     "name": "angular2-fontawesome",
     "url": "https://github.com/travelist/angular2-fontawesome",
     "description": "Angular2 Components and Directives for FontAwesome."
@@ -1763,6 +1863,76 @@
     "name": "svg-icon",
     "url": "https://github.com/ngneat/svg-icon",
     "description": "A lightweight library that makes it easier to use SVG icons in your Angular Application."
+  },
+  {
+    "name": "ng-svg-icon-sprite",
+    "url": "https://github.com/jannicz/ng-svg-icon-sprite",
+    "description": "Angular 16+ package for generating and using inline SVG icons in your project."
+  },
+  {
+    "name": "Angular-Svg-Sprite",
+    "url": "https://github.com/bodnya29179/Angular-Svg-Sprite",
+    "description": "Simplify SVG icon usage in your Angular project! Enhance the flexibility and manageability of your Angular project by using SVG sprites."
+  },
+  {
+    "name": "ng-hero-icons",
+    "url": "https://github.com/dimaslz/ng-heroicons",
+    "description": "Use Heroicons in your Angular application."
+  },
+  {
+    "name": "ionic-angular-collect-icons",
+    "url": "https://github.com/rdlabo-team/ionic-angular-collect-icons",
+    "description": "This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file."
+  },
+  {
+    "name": "ngx-fluent-ui",
+    "url": "https://github.com/bennymeg/ngx-fluent-ui",
+    "description": "Angular & online library for Microsoft Fluent UI icons."
+  },
+  {
+    "name": "angular-remix-icon",
+    "url": "https://github.com/adisreyaj/angular-remix-icon",
+    "description": "Angular wrapper for Remixicon icon library."
+  },
+  {
+    "name": "angular-line-awesome",
+    "url": "https://github.com/marco-martins/angular-line-awesome",
+    "description": "Angular Line Awesome is an Angular component to manage Line Awesome icons."
+  },
+  {
+    "name": "ngx-bootstrap-icons",
+    "url": "https://github.com/avmaisak/ngx-bootstrap-icons",
+    "description": "This Angular module allows you to use the Bootstrap Icons in your Angular application without additional dependencies."
+  },
+  {
+    "name": "ngx-icon",
+    "url": "https://github.com/anedomansky/ngx-icon",
+    "description": "An Angular component for displaying SVG icons."
+  },
+  {
+    "name": "angular-feather",
+    "url": "https://github.com/michaelbazos/angular-feather",
+    "description": "This package allows you to use Feather Icons in your Angular applications."
+  },
+  {
+    "name": "angular-tabler-icons",
+    "url": "https://github.com/pierreavn/angular-tabler-icons",
+    "description": "This package allows you to use the Tabler Icons in your Angular applications."
+  },
+  {
+    "name": "icon-lib-builder",
+    "url": "https://github.com/dimaslz/icon-lib-builder",
+    "description": "Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon."
+  },
+  {
+    "name": "svg-icons-builder",
+    "url": "https://github.com/angular-extensions/svg-icons-builder",
+    "description": "Angular builder to build svg-icons using svg-to-ts."
+  },
+  {
+    "name": "ngx-fast-svg",
+    "url": "https://github.com/push-based/ngx-fast-svg",
+    "description": "SVGs, fast and developer friendly in Angular."
   },
   {
     "name": "ngx-focus-control",
@@ -2005,6 +2175,26 @@
     "description": "Collection of awesome Angular libraries."
   },
   {
+    "name": "ngx-grpc",
+    "url": "https://github.com/smnbbrv/ngx-grpc",
+    "description": "Angular gRPC framework."
+  },
+  {
+    "name": "ts-cacheable",
+    "url": "https://github.com/angelnikolov/ts-cacheable",
+    "description": "A popular platform-agnostic caching library."
+  },
+  {
+    "name": "ngxtension-platform",
+    "url": "https://github.com/ngxtension/ngxtension-platform",
+    "description": "Utilities for Angular."
+  },
+  {
+    "name": "spartan",
+    "url": "https://github.com/goetzrobin/spartan",
+    "description": "Cutting-edge tools powering Angular full-stack development."
+  },
+  {
     "name": "ngx-awesome-popup",
     "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
     "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
@@ -2110,6 +2300,16 @@
     "description": "MiniRx is the reactive state management platform."
   },
   {
+    "name": "ngx-collection",
+    "url": "https://github.com/e-oz/ngx-collection",
+    "description": "Collection State Management Service for Angular."
+  },
+  {
+    "name": "xstate",
+    "url": "https://github.com/statelyai/xstate",
+    "description": "Actor-based state management & orchestration for complex app logic."
+  },
+  {
     "name": "ngx-reactive-storage",
     "url": "https://github.com/e-oz/ngx-reactive-storage",
     "description": "Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables."
@@ -2183,6 +2383,11 @@
     "name": "handsontable",
     "url": "https://handsontable.com/docs/javascript-data-grid/angular-installation/",
     "description": "Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application."
+  },
+  {
+    "name": "ngx-export-as",
+    "url": "https://github.com/wnabil/ngx-export-as",
+    "description": "Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF."
   },
   {
     "name": "Dev Extreme",
@@ -2300,6 +2505,16 @@
     "description": "A new take on an Angular implementation for Semantic UI."
   },
   {
+    "name": "ngx-float-ui",
+    "url": "https://github.com/tonysamperi/ngx-float-ui",
+    "description": "Angular wrapper for the Floating UI library."
+  },
+  {
+    "name": "orchestrator",
+    "url": "https://github.com/orchestratora/orchestrator",
+    "description": "Extensible orchestrator for UI and forms for Angular."
+  },
+  {
     "name": "MDBootstrap",
     "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
     "description": "Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation."
@@ -2396,7 +2611,12 @@
   {
     "name": "ngx-ui-tour",
     "url": "https://github.com/hakimio/ngx-ui-tour",
-    "description": "ngx-ui-tour is a UI tour library inspired by angular-ui-tour."
+    "description": "A UI tour library inspired by angular-ui-tour."
+  },
+  {
+    "name": "ngx-tour-wizard",
+    "url": "https://github.com/tonysamperi/ngx-tour-wizard",
+    "description": "Product Tour Wizard."
   },
   {
     "name": "egjs-flicking",
@@ -2439,16 +2659,6 @@
     "description": "Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond."
   },
   {
-    "name": "ng-let",
-    "url": "https://github.com/nigrosimone/ng-let",
-    "description": "Structural directive for sharing data as local variable into html component template."
-  },
-  {
-    "name": "ng-for-track-by-property",
-    "url": "https://github.com/nigrosimone/ng-for-track-by-property",
-    "description": "Angular global trackBy property directive with strict type checking."
-  },
-  {
     "name": "ng-portal",
     "url": "https://github.com/nigrosimone/ng-portal",
     "description": "Component property connection in Angular application."
@@ -2459,16 +2669,6 @@
     "description": "Angular decorator for lock a function and user interface while a task running."
   },
   {
-    "name": "ng-generic-pipe",
-    "url": "https://github.com/nigrosimone/ng-generic-pipe",
-    "description": "Generic pipe for Angular application."
-  },
-  {
-    "name": "safe-pipe",
-    "url": "https://github.com/embarq/safe-pipe",
-    "description": "Angular pipe for sanitizing your unsafe content."
-  },
-  {
     "name": "rx-computed",
     "url": "https://github.com/jscutlery/devkit/tree/main/packages/rx-computed",
     "description": "The async RxJS-based version of signals' computed()."
@@ -2477,11 +2677,6 @@
     "name": "microwave",
     "url": "https://github.com/jscutlery/devkit/tree/main/packages/microwave",
     "description": "Optimize Angular change detection effortlessly."
-  },
-  {
-    "name": "edit-in-place",
-    "url": "https://github.com/ngneat/edit-in-place",
-    "description": "A flexible and unopinionated edit in place library."
   },
   {
     "name": "falso",
@@ -2519,9 +2714,19 @@
     "description": "Polymorpheus is a tiny library for polymorphic templates in Angular."
   },
   {
-    "name": "ngx-dynamic-hooks",
-    "url": "https://github.com/MTobisch/ngx-dynamic-hooks",
-    "description": "Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM."
+    "name": "ngx-cookieconsent",
+    "url": "https://github.com/tinesoft/ngx-cookieconsent",
+    "description": "Cookie Consent module for Angular."
+  },
+  {
+    "name": "ngx-cookie-service",
+    "url": "https://github.com/stevermeister/ngx-cookie-service",
+    "description": "Angular (4.2+ ...12) service for cookies. Originally based on the ng2-cookies library."
+  },
+  {
+    "name": "gui",
+    "url": "https://github.com/acrodata/gui",
+    "description": "JSON powered GUI for configurable panels."
   },
   {
     "name": "rxjs",
@@ -2607,6 +2812,31 @@
     "name": "rxjs-insights",
     "url": "https://github.com/ksz-ksz/rxjs-insights",
     "description": "See through the observables."
+  },
+  {
+    "name": "rx-sandbox",
+    "url": "https://github.com/kwonoj/rx-sandbox",
+    "description": "Marble diagram DSL based test suite for RxJS."
+  },
+  {
+    "name": "rxjs-toolbox",
+    "url": "https://github.com/kievsash/rxjs-toolbox",
+    "description": "RxJS-toolbox - set of custom operators and handy factory functions for RxJS."
+  },
+  {
+    "name": "ngx-rxjs-zone-scheduler",
+    "url": "https://github.com/ftischler/ngx-rxjs-zone-scheduler",
+    "description": "A library for Angular providing RxJS schedulers to run some kind of work inside or outside of NgZone."
+  },
+  {
+    "name": "observable-webworker",
+    "url": "https://github.com/cloudnc/observable-webworker",
+    "description": "Simplified API for working with Web Workers with RxJS."
+  },
+  {
+    "name": "ng-event-bus",
+    "url": "https://github.com/cristiammercado/ng-event-bus",
+    "description": "RxJS-based message bus service for Angular."
   },
   {
     "name": "TypeScript",
