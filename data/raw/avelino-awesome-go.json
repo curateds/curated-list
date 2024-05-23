@@ -2183,6 +2183,11 @@
     "description": "vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services."
   },
   {
+    "name": "wescale",
+    "url": "https://github.com/wesql/wescale",
+    "description": "WeScale is a database proxy designed to enhance the scalability, performance, security, and resilience of your applications."
+  },
+  {
     "name": "bqb",
     "url": "https://github.com/nullism/bqb",
     "description": "Lightweight and easy to learn query builder."
@@ -4257,6 +4262,11 @@
     "description": "Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi)."
   },
   {
+    "name": "Spot",
+    "url": "https://github/roblillack/spot",
+    "description": "Reactive, cross-platform desktop GUI toolkit."
+  },
+  {
     "name": "ui",
     "url": "https://github.com/andlabs/ui",
     "description": "Platform-native GUI library for Go. Cross platform."
@@ -5150,6 +5160,11 @@
     "name": "slog-multi",
     "url": "https://github.com/samber/slog-multi",
     "description": "Chain of slog.Handler (pipeline, fanout...)."
+  },
+  {
+    "name": "slogor",
+    "url": "https://gitlab.com/greyxor/slogor",
+    "description": "A colorful slog handler."
   },
   {
     "name": "spew",
@@ -8072,11 +8087,6 @@
     "description": "Simple and extensible behavioural testing library for REST based services or HTTP handlers that supports mocking external http calls and rendering of sequence diagrams."
   },
   {
-    "name": "apitest",
-    "url": "https://apitest.dev",
-    "description": "Simple and extensible behavioural testing library for REST based services or HTTP handlers that supports mocking external http calls and rendering of sequence diagrams."
-  },
-  {
     "name": "assert",
     "url": "https://github.com/go-playground/assert",
     "description": "Basic Assertion Library used along side native go testing, with building blocks for custom assertions."
@@ -8337,6 +8347,11 @@
     "description": "Idiomatic testing framework for Behavior Driven Development."
   },
   {
+    "name": "testcerts",
+    "url": "https://github.com/madflojo/testcerts",
+    "description": "Dynamically generate self-signed certificates and certificate authorities within your test functions."
+  },
+  {
     "name": "testcontainers-go",
     "url": "https://github.com/testcontainers/testcontainers-go",
     "description": "A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done."
@@ -8375,11 +8390,6 @@
     "name": "wstest",
     "url": "https://github.com/posener/wstest",
     "description": "Websocket client for unit-testing a websocket http.Handler."
-  },
-  {
-    "name": "counterfeiter",
-    "url": "https://github.com/maxbrunsfeld/counterfeiter",
-    "description": "Tool for generating self-contained mock objects."
   },
   {
     "name": "counterfeiter",
@@ -8467,11 +8477,6 @@
     "description": "Randomized testing system."
   },
   {
-    "name": "go-fuzz",
-    "url": "https://github.com/dvyukov/go-fuzz",
-    "description": "Randomized testing system."
-  },
-  {
     "name": "gofuzz",
     "url": "https://github.com/google/gofuzz",
     "description": "Library for populating go objects with random values."
@@ -8480,11 +8485,6 @@
     "name": "Tavor",
     "url": "https://github.com/zimmski/tavor",
     "description": "Generic fuzzing and delta-debugging framework."
-  },
-  {
-    "name": "cdp",
-    "url": "https://github.com/mafredri/cdp",
-    "description": "Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it."
   },
   {
     "name": "cdp",
@@ -8515,11 +8515,6 @@
     "name": "selenoid",
     "url": "https://github.com/aerokube/selenoid",
     "description": "alternative Selenium hub server that launches browsers within containers."
-  },
-  {
-    "name": "failpoint",
-    "url": "https://github.com/pingcap/failpoint",
-    "description": "An implementation of failpoints for Golang."
   },
   {
     "name": "failpoint",
@@ -8930,6 +8925,11 @@
     "name": "discordgo",
     "url": "https://github.com/bwmarrin/discordgo",
     "description": "Go bindings for the Discord Chat API."
+  },
+  {
+    "name": "disgo",
+    "url": "https://github.com/switchupcb/disgo",
+    "description": "Go API Wrapper for the Discord API."
   },
   {
     "name": "dusupay-sdk-go",
@@ -11817,6 +11817,11 @@
     "description": "Command line tool for managing Docker environments as an easy way."
   },
   {
+    "name": "kubeblocks",
+    "url": "https://github.com/apecloud/kubeblocks",
+    "description": "KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s."
+  },
+  {
     "name": "kubernetes",
     "url": "https://github.com/kubernetes/kubernetes",
     "description": "Container Cluster Manager from Google."
@@ -11895,6 +11900,11 @@
     "name": "PipeCD",
     "url": "https://github.com/pipe-cd/pipecd",
     "description": "A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications."
+  },
+  {
+    "name": "podinfo",
+    "url": "https://github.com/stefanprodan/podinfo",
+    "description": "Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops."
   },
   {
     "name": "Pomerium",

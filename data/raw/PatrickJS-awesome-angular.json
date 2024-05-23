@@ -989,11 +989,6 @@
     "description": "Genesis is a low-code platform designed specifically for the financial markets."
   },
   {
-    "name": "cloudinary",
-    "url": "https://cloudinary.com/documentation/angular_integration",
-    "description": "Angular SDK from Cloudinary."
-  },
-  {
     "name": "angular-sdk",
     "url": "https://github.com/descope/angular-sdk",
     "description": "Angular library used to integrate with Descope."
@@ -1935,6 +1930,41 @@
     "description": "SVGs, fast and developer friendly in Angular."
   },
   {
+    "name": "ngx-img-fallback",
+    "url": "https://github.com/VadimDez/ngx-img-fallback",
+    "description": "Load placeholder image on image error, Angular 5+."
+  },
+  {
+    "name": "ngx-image-zoom",
+    "url": "https://github.com/wittlock/ngx-image-zoom",
+    "description": "Angular component for zoomable images."
+  },
+  {
+    "name": "ngx-image-compress",
+    "url": "https://github.com/dfa1234/ngx-image-compress",
+    "description": "Angular library for uploading and compressing images."
+  },
+  {
+    "name": "ngx-image-cropper",
+    "url": "https://github.com/Mawi137/ngx-image-cropper",
+    "description": "An image cropper for Angular."
+  },
+  {
+    "name": "ng-cloudimage-responsive",
+    "url": "https://github.com/scaleflex/ng-cloudimage-responsive",
+    "description": "Cloudimage responsive plugin will make your website load the exact image size you need depending on your user's screen size."
+  },
+  {
+    "name": "angular-cropperjs",
+    "url": "https://github.com/matheusdavidson/angular-cropperjs",
+    "description": "Cropper.js integration for Angular 6+."
+  },
+  {
+    "name": "cloudinary",
+    "url": "https://cloudinary.com/documentation/angular_integration",
+    "description": "Angular SDK from Cloudinary."
+  },
+  {
     "name": "ngx-focus-control",
     "url": "https://github.com/Raiper34/ngx-focus-control",
     "description": "Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility."
@@ -2801,7 +2831,7 @@
   {
     "name": "ngx-rxjs-zone-scheduler",
     "url": "https://github.com/ftischler/ngx-rxjs-zone-scheduler",
-    "description": "A library for Angular providing rxjs schedulers to run some kind of work inside or outside of NgZone."
+    "description": "A library for Angular providing RxJS schedulers to run some kind of work inside or outside of NgZone."
   },
   {
     "name": "rxjs-broker",
@@ -2812,21 +2842,6 @@
     "name": "rxjs-insights",
     "url": "https://github.com/ksz-ksz/rxjs-insights",
     "description": "See through the observables."
-  },
-  {
-    "name": "rx-sandbox",
-    "url": "https://github.com/kwonoj/rx-sandbox",
-    "description": "Marble diagram DSL based test suite for RxJS."
-  },
-  {
-    "name": "rxjs-toolbox",
-    "url": "https://github.com/kievsash/rxjs-toolbox",
-    "description": "RxJS-toolbox - set of custom operators and handy factory functions for RxJS."
-  },
-  {
-    "name": "ngx-rxjs-zone-scheduler",
-    "url": "https://github.com/ftischler/ngx-rxjs-zone-scheduler",
-    "description": "A library for Angular providing RxJS schedulers to run some kind of work inside or outside of NgZone."
   },
   {
     "name": "observable-webworker",

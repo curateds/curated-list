@@ -320,6 +320,11 @@
     "description": "Garbage collector that stops inactive LSP clients to free RAM."
   },
   {
+    "name": "luckasRanarison/clear-action.nvim",
+    "url": "https://github.com/luckasRanarison/clear-action.nvim",
+    "description": "Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable."
+  },
+  {
     "name": "anott03/nvim-lspinstall",
     "url": "https://github.com/anott03/nvim-lspinstall",
     "description": "Easy to install language servers."
@@ -1915,6 +1920,11 @@
     "description": "A dark and earthy colorscheme supporting Tree-sitter and LSP."
   },
   {
+    "name": "slugbyte/lackluster.nvim",
+    "url": "https://github.com/slugbyte/lackluster.nvim",
+    "description": "A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -3240,6 +3250,11 @@
     "description": "For launching tasks, I guess."
   },
   {
+    "name": "al1-ce/just.nvim",
+    "url": "https://github.com/al1-ce/just.nvim",
+    "description": "Task runner for justfiles."
+  },
+  {
     "name": "folke/neodev.nvim",
     "url": "https://github.com/folke/neodev.nvim",
     "description": "Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API."
@@ -3403,6 +3418,11 @@
     "name": "echasnovski/mini.nvim#mini.diff",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md",
     "description": "Module of mini.nvim to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more."
+  },
+  {
+    "name": "echasnovski/mini.nvim#mini.git",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-git.md",
+    "description": "Module of mini.nvim for enhanced Git integration with current Neovim process. Implements tracking of Git related data, :Git user command, and various helpers to explore Git history."
   },
   {
     "name": "NeogitOrg/neogit",
