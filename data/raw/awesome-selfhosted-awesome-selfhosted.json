@@ -230,11 +230,6 @@
     "description": "Django app which listens for pings and sends alerts when pings are late. (Source Code) BSD-3-Clause Python"
   },
   {
-    "name": "homebank-converter",
-    "url": "https://github.com/Binnette/homebank-converter",
-    "description": "Web app to convert an export bank file to compatible Homebank csv. (Demo) AGPL-3.0 Javascript"
-  },
-  {
     "name": "HRConvert2",
     "url": "https://github.com/zelon88/HRConvert2",
     "description": "Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. GPL-3.0 PHP"
@@ -2777,7 +2772,7 @@
   {
     "name": "EspoCRM",
     "url": "https://www.espocrm.com/",
-    "description": "CRM with a frontend designed as a single page application, and a REST API. (Demo, Source Code) GPL-3.0 PHP"
+    "description": "CRM with a frontend designed as a single page application, and a REST API. (Demo, Source Code) AGPL-3.0 PHP"
   },
   {
     "name": "Group Office",

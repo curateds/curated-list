@@ -1,31 +1,27 @@
 [
   {
     "name": "Site",
-    "url": "https://angular.io"
+    "url": "https://angular.dev"
   },
   {
     "name": "Blog",
-    "url": "https://blog.angular.io"
+    "url": "https://blog.angular.dev/"
   },
   {
     "name": "Documentation",
-    "url": "https://angular.io/docs"
+    "url": "https://angular.dev/overview"
   },
   {
-    "name": "Cheatsheet",
-    "url": "https://angular.io/guide/cheatsheet"
-  },
-  {
-    "name": "Getting Started Guide",
-    "url": "https://angular.io/guide/quickstart"
+    "name": "Getting Started Tutorial",
+    "url": "https://angular.dev/tutorials/learn-angular"
   },
   {
     "name": "GitHub Repo",
     "url": "https://github.com/angular/angular"
   },
   {
-    "name": "Future Site",
-    "url": "https://angular.dev"
+    "name": "Past Documentation Site",
+    "url": "https://v17.angular.io/docs"
   },
   {
     "name": "#angular",
@@ -373,7 +369,7 @@
   },
   {
     "name": "angular",
-    "url": "https://blog.angular.io/",
+    "url": "https://blog.angular.dev/",
     "description": "Official Angular blog."
   },
   {
@@ -467,8 +463,9 @@
     "url": "https://medium.com/@eugeniyoz"
   },
   {
-    "name": "Official Angular Cheatsheet",
-    "url": "https://angular.io/guide/cheatsheet"
+    "name": "Past Angular Cheatsheet",
+    "url": "https://v17.angular.io/guide/cheatsheet",
+    "description": "Note: NEW official docs does not have a cheatsheet."
   },
   {
     "name": "List of 100 Angular Interview questions and answers",
@@ -612,7 +609,7 @@
   },
   {
     "name": "Official web page",
-    "url": "https://cli.angular.io/"
+    "url": "https://angular.dev/tools/cli"
   },
   {
     "name": "Official repository",
@@ -1199,8 +1196,8 @@
   },
   {
     "name": "Angular Dev Tools",
-    "url": "https://angular.io/guide/devtools/",
-    "description": "Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications."
+    "url": "https://angular.dev/tools/devtools",
+    "description": "Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications."
   },
   {
     "name": "Scuri Code",
@@ -2999,9 +2996,9 @@
     "description": "A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server."
   },
   {
-    "name": "Angular.io Security Guide",
-    "url": "https://angular.io/guide/security",
-    "description": "Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy."
+    "name": "Angular Security",
+    "url": "https://angular.dev/best-practices/security",
+    "description": "Best Practices"
   },
   {
     "name": "Socket",
@@ -3044,6 +3041,11 @@
     "description": "NPM package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow."
   },
   {
+    "name": "angular-oauth2-oidc",
+    "url": "https://github.com/manfredsteyer/angular-oauth2-oidc",
+    "description": "Support for OAuth 2 and OpenId Connect (OIDC) in Angular."
+  },
+  {
     "name": "angularx-social-login",
     "url": "https://github.com/abacritt/angularx-social-login",
     "description": "Social login and authentication module for Angular 17."
@@ -3057,6 +3059,11 @@
     "name": "angular2-jwt",
     "url": "https://github.com/auth0/angular2-jwt",
     "description": "Helper library for handling JWTs in Angular apps."
+  },
+  {
+    "name": "keycloak-angular",
+    "url": "https://github.com/mauriciovigolo/keycloak-angular",
+    "description": "Easy Keycloak setup for Angular applications."
   },
   {
     "name": "auth0-angular",
@@ -3193,7 +3200,7 @@
   },
   {
     "name": "Firebase Hosting",
-    "url": "https://firebase.google.com/docs/hosting"
+    "url": "https://firebase.google.com/docs/app-hosting/get-started"
   },
   {
     "name": "Netlify",
@@ -3260,7 +3267,7 @@
   },
   {
     "name": "angular update guide",
-    "url": "https://update.angular.io/",
+    "url": "https://angular.dev/update-guide",
     "description": "Interactive guide to help you migrate from one version of Angular to another."
   },
   {

@@ -553,7 +553,7 @@
     "description": "A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by @hopswork."
   },
   {
-    "name": "Spark vs Polars. Real-life Test Case.",
+    "name": "Spark vs Polars. Real-life Test Case",
     "url": "https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case",
     "description": "A blog post in which the author tests whether Polars is able to handle \"real amounts of data\" and \"really replace some production Spark workloads.\" by @danielbeach. Code used is available on Github here."
   },
@@ -675,6 +675,11 @@
     "name": "Polars vs. SQL: When to Choose Python for Your Data Adventures",
     "url": "https://medium.com/@yunuskaradagg/polars-vs-sql-when-to-choose-python-for-your-data-adventures-a3bb24c93baf",
     "description": "A blog post that explores some common functions and their counterparts in both Polars and SQL by Yunuskaradagg."
+  },
+  {
+    "name": "Age of DataFrames II: Polars Edition",
+    "url": "https://medium.com/datamindedbe/age-of-dataframes-2-polars-edition-83442a06bced",
+    "description": "A blog post that illustrates the features of Polars through the analysis of a tournament from the video game Age of Empires II by [@woutergins]. Source code available here"
   },
   {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
