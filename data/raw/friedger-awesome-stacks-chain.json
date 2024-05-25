@@ -1,38 +1,33 @@
 [
   {
-    "name": "Stacks Wallet for Desktop",
-    "url": "https://www.hiro.so/wallet/install-desktop",
-    "description": "Desktop wallet application for managing STX and stacking individually or in pools."
+    "name": "Asigna",
+    "url": "https://asigna.io/",
+    "description": "Multisig Wallet for Bitcoin, Ordinals, BRC20s, and Stacks."
   },
   {
-    "name": "Stacks Wallet for Web",
-    "url": "https://www.hiro.so/wallet/install-web",
-    "description": "Web wallet for connecting to Stacks web applications."
+    "name": "Leather Wallet",
+    "url": "https://leather.io/install-extension",
+    "description": "Open Source wallet for connecting to Bitcoin and Stacks web applications. Also for desktop."
   },
   {
     "name": "Xverse Wallet",
-    "url": "https://www.secretkeylabs.com/",
-    "description": "Mobile wallet application for managing STX and stacking (not open source)."
+    "url": "https://www.xverse.app/",
+    "description": "Mobile wallet application and browser extension for managing Bitcoin, STX and stacking (partly open source)."
   },
   {
-    "name": "Stacks Explorer",
-    "url": "https://explorer.stacks.co/?chain=mainnet",
+    "name": "Hiro Explorer",
+    "url": "https://explorer.hiro.so/?chain=mainnet",
     "description": "An application for reviewing transactions on the Stacks blockchain."
   },
   {
-    "name": "Boom.money",
-    "url": "https://boom.money",
-    "description": "A web wallet focused on NFTs, and custom tokens."
+    "name": "STX Scan",
+    "url": "https://stxscan.co/",
+    "description": "An explorer for Stacks transactions."
   },
   {
     "name": "Send Many",
     "url": "https://sendstx.com",
-    "description": "An application to send STX to many recipients in one transaction."
-  },
-  {
-    "name": "MIA Block explorer",
-    "url": "http://miamining.com",
-    "description": "A web application to exolore MIA coin transactions for all and personal accounts."
+    "description": "An application to send STX and other tokens to many recipients in one transaction."
   },
   {
     "name": "Speed Spend",
@@ -50,9 +45,19 @@
     "description": "Decentralized community application."
   },
   {
-    "name": "Stacks On Chain",
-    "url": "https://stacksonchain.com",
-    "description": "Chain data analysis tool."
+    "name": "Blocksurvey",
+    "url": "https://blocksurvey.io/",
+    "description": "AI-driven survey platform with focus on data ownership and privacy."
+  },
+  {
+    "name": "MultiSafe",
+    "url": "https://github.com/Trust-Machines/multisafe",
+    "description": "MultiSafe is a shared crypto vault for managing Stacks (STX) and Bitcoin (BTC)."
+  },
+  {
+    "name": "Charisma",
+    "url": "https://github.com/pointblankdev/dungeon-master",
+    "description": "Community-run memecoin DAO on the Stacks blockchain."
   },
   {
     "name": "BNSx",
@@ -90,19 +95,54 @@
     "description": "A service platform for DeFi."
   },
   {
-    "name": "Lydian",
-    "url": "https://app.lydian.xyz",
-    "description": "A decentralised treasury management protocol."
-  },
-  {
     "name": "Arkadiko Protocol",
     "url": "https://github.com/arkadiko-dao/arkadiko",
     "description": "Stable coin (USDA) based on self-repaying loans."
   },
   {
+    "name": "Bitflow",
+    "url": "https://www.bitflow.finance/",
+    "description": "Decentralized Exchange."
+  },
+  {
+    "name": "Velar",
+    "url": "https://www.velar.co/",
+    "description": "Swapping, trading, launching assets on premier Bitcoin L2s."
+  },
+  {
     "name": "Zest Protocol",
     "url": "https://www.zestprotocol.com/",
-    "description": "Decentralized borrowing and lending on Bitcoin. Currently only on Testnet."
+    "description": "Decentralized borrowing and lending on Bitcoin and Stacks."
+  },
+  {
+    "name": "STX20",
+    "url": "https://github.com/fess-v/stx20-standard",
+    "description": "Protocol to create and share digital artifacts on Stacks."
+  },
+  {
+    "name": "STXTools",
+    "url": "https://stxtools.io/",
+    "description": "Charts, transactions, price alerts for DeFi on Stacks."
+  },
+  {
+    "name": "Stacks Pulse",
+    "url": "https://github.com/pradel/stackspulse",
+    "description": "Real-time on-chain Stats for Stacks DeFi."
+  },
+  {
+    "name": "Signal21",
+    "url": "https://signal21.io/",
+    "description": "On-chain analysis for Bitcoin L1, L2 and Dapps."
+  },
+  {
+    "name": "Lydian",
+    "url": "https://app.lydian.xyz",
+    "description": "A decentralised treasury management protocol (discontinued)."
+  },
+  {
+    "name": "CityCoins",
+    "url": "https://minecitycoins.com",
+    "description": "Tokens for cities (winding down)."
   },
   {
     "name": "Stacks Degens",
@@ -120,9 +160,9 @@
     "description": "App to stack Stacks token directly or with a pool."
   },
   {
-    "name": "Friedger pool",
-    "url": "https://pool.friedger.de/",
-    "description": "Community stacking pool with no fees."
+    "name": "Fast pool",
+    "url": "https://fastpool.org/",
+    "description": "Trust minimized stacking pool."
   },
   {
     "name": "PlanBetter pool",
@@ -133,6 +173,16 @@
     "name": "Xverse pool",
     "url": "https://pool.xverse.app/",
     "description": "Stacking pool built into Xverse mobile app."
+  },
+  {
+    "name": "Stacking DAO",
+    "url": "https://www.stackingdao.com/",
+    "description": "Liquid stacking on Stacks."
+  },
+  {
+    "name": "Lisa",
+    "url": "https://app.lisalab.io",
+    "description": "Liquid stacking on Stacks using rebasing."
   },
   {
     "name": "Clarinet",
@@ -245,18 +295,18 @@
     "description": "Conditional fund transfers."
   },
   {
-    "name": "Tofauti",
-    "url": "https://www.tofauti.net",
-    "description": "Collection of resources around NFTs on Stacks."
-  },
-  {
     "name": "This is #1",
     "url": "https://www.thisisnumberone.com",
     "description": "The first professional NFT built on Bitcoin and the Stacks blockchain (contract)."
   },
   {
+    "name": "Smart Contract GPT",
+    "url": "https://github.com/Markeljan/smart-contract-gpt",
+    "description": "Chat bot trained to create SIP-009 contracts."
+  },
+  {
     "name": "Nothing",
-    "url": "https://www.nothingtoken.com/",
+    "url": "https://nothingtoken.xyz/",
     "description": "A fungible token that does nothing (contract)."
   },
   {
@@ -265,14 +315,19 @@
     "description": "Wrapper contracts of PoX for stacking pools."
   },
   {
+    "name": "Stacks Pools",
+    "url": "https://github.com/degen-lab/stacks-pools",
+    "description": "Decentralized Stacking Pool."
+  },
+  {
     "name": "Stacks.js",
     "url": "https://github.com/hirosystems/stacks.js",
     "description": "Monorepo for JavaScript libraries for interacting with the Stacks blockchain."
   },
   {
-    "name": "micro-stacks",
-    "url": "https://github.com/fungible-systems/micro-stacks/",
-    "description": "Monorepo for JavaScript libraries for interacting with the Stacks blockchain."
+    "name": "stacks.rs",
+    "url": "https://github.com/52/stacks.rs",
+    "description": "A Rust toolkit to interact with the Stacks Blockchain."
   },
   {
     "name": "@stacks/cli",

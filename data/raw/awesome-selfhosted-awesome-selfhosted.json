@@ -3415,11 +3415,6 @@
     "description": "Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. (Source Code) GPL-3.0 Nodejs"
   },
   {
-    "name": "Apache Solr",
-    "url": "https://lucene.apache.org/solr/",
-    "description": "Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene. (Source Code) Apache-2.0 Java/Docker/K8S"
-  },
-  {
     "name": "asciinema",
     "url": "https://github.com/asciinema/asciinema-server",
     "description": "Web app for hosting asciicasts. (Demo) Apache-2.0 Elixir/Docker"
@@ -3433,11 +3428,6 @@
     "name": "beelzebub",
     "url": "https://beelzebub-honeypot.com/",
     "description": "Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. (Demo, Source Code) MIT Docker/K8S/Go"
-  },
-  {
-    "name": "Bracket",
-    "url": "https://evroon.github.io/bracket",
-    "description": "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. (Demo, Source Code) AGPL-3.0 Docker/Nodejs"
   },
   {
     "name": "Cerbos",
@@ -4380,6 +4370,11 @@
     "description": "A web application for scheduling meetings and general polling. (Demo) GPL-3.0 Docker/Python"
   },
   {
+    "name": "Bracket",
+    "url": "https://evroon.github.io/bracket",
+    "description": "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. (Demo, Source Code) AGPL-3.0 Docker/Nodejs"
+  },
+  {
     "name": "Christmas Community",
     "url": "https://github.com/Wingysam/Christmas-Community",
     "description": "Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. AGPL-3.0 Docker/Nodejs"
@@ -4633,6 +4628,11 @@
     "name": "Tryton",
     "url": "https://www.tryton.org/",
     "description": "Free open source business solution. (Demo, Source Code) GPL-3.0 Python"
+  },
+  {
+    "name": "Apache Solr",
+    "url": "https://lucene.apache.org/solr/",
+    "description": "Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. (Source Code) Apache-2.0 Java/Docker/K8S"
   },
   {
     "name": "Fess",

@@ -2163,6 +2163,26 @@
     "description": "Hoe is a Rake/RubyGems helper for project Rakefiles."
   },
   {
+    "name": "Gemfast",
+    "url": "https://github.com/gemfast/server",
+    "description": "A drop in replacement for geminabox written in Go."
+  },
+  {
+    "name": "Gem in a box",
+    "url": "https://github.com/geminabox/geminabox",
+    "description": "Really simple rubygem hosting."
+  },
+  {
+    "name": "Gemirro",
+    "url": "https://github.com/PierreRambaud/gemirro",
+    "description": "Gem to automatically make a rubygems mirror."
+  },
+  {
+    "name": "Gemstash",
+    "url": "https://github.com/rubygems/gemstash",
+    "description": "A RubyGems.org cache and private gem server."
+  },
+  {
     "name": "Geocoder",
     "url": "https://github.com/alexreisner/geocoder",
     "description": "A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries."

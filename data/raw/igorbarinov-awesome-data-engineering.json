@@ -455,6 +455,16 @@
     "description": "Sling is CLI data integration tool specialized in moving data between databases, as well as storage systems."
   },
   {
+    "name": "Meltano",
+    "url": "https://meltano.com/",
+    "description": "CLI & code-first ELT."
+  },
+  {
+    "name": "Singer SDK",
+    "url": "https://sdk.meltano.com",
+    "description": "The fastest way to build custom data extractors and loaders compliant with the Singer Spec."
+  },
+  {
     "name": "HDFS",
     "url": "https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html",
     "description": "A distributed file system designed to run on commodity hardware."
