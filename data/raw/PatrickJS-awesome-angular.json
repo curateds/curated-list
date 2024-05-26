@@ -465,7 +465,7 @@
   {
     "name": "Past Angular Cheatsheet",
     "url": "https://v17.angular.io/guide/cheatsheet",
-    "description": "Note: NEW official docs does not have a cheatsheet."
+    "description": "Note: NEW official docs do not have a cheatsheet."
   },
   {
     "name": "List of 100 Angular Interview questions and answers",
@@ -1289,6 +1289,11 @@
     "description": "An Angular Typing Animation Library."
   },
   {
+    "name": "ngx-count-animation",
+    "url": "https://github.com/hm21/ngx-count-animation",
+    "description": "A package that elegantly animates number changes, creating a visually engaging transition from one value to another, perfect for counting or displaying real-time data updates."
+  },
+  {
     "name": "angular-calendar",
     "url": "https://github.com/mattlewis92/angular-calendar",
     "description": "A flexible calendar component for angular 6.0+ that can display events on a month, week or day view."
@@ -1357,6 +1362,11 @@
     "name": "egjs-flicking",
     "url": "https://naver.github.io/egjs-flicking/docs/quick-start",
     "description": "Flicking Angular Quick Start"
+  },
+  {
+    "name": "ngx-drag-scroll",
+    "url": "https://github.com/bfwg/ngx-drag-scroll",
+    "description": "A lightweight responsive Angular carousel library."
   },
   {
     "name": "ng2-charts",
@@ -1496,16 +1506,6 @@
     "name": "ng-in-viewport",
     "url": "https://github.com/k3nsei/ng-in-viewport",
     "description": "Allows us to check if an element is within the browsers visual viewport."
-  },
-  {
-    "name": "ngx-ui-scroll",
-    "url": "https://github.com/dhilt/ngx-ui-scroll",
-    "description": "Virtual/infinite scroll for Angular."
-  },
-  {
-    "name": "ngx-page-scroll",
-    "url": "https://github.com/Nolanus/ngx-page-scroll",
-    "description": "Animated scrolling functionality for Angular written in pure TypeScript."
   },
   {
     "name": "ngx-dynamic-hooks",
@@ -1937,6 +1937,11 @@
     "description": "Angular component for zoomable images."
   },
   {
+    "name": "ngx-image-hero",
+    "url": "https://github.com/hm21/ngx-image-hero",
+    "description": "A package to implement hero animations, allowing users to click on images and smoothly zoom them into a larger, immersive view, enhancing the user experience and interaction with images."
+  },
+  {
     "name": "ngx-image-compress",
     "url": "https://github.com/dfa1234/ngx-image-compress",
     "description": "Angular library for uploading and compressing images."
@@ -1987,34 +1992,14 @@
     "description": "A declarative library for handling hotkeys in Angular applications."
   },
   {
-    "name": "@robingenz/ngx-infinite-scroll",
-    "url": "https://github.com/robingenz/ngx-infinite-scroll",
-    "description": "Simple Angular directive for infinite scrolling."
-  },
-  {
-    "name": "angular-fullpage",
-    "url": "https://github.com/alvarotrigo/angular-fullpage",
-    "description": "Official component for fullPage.js, a fullscreen scrolling library."
-  },
-  {
     "name": "angular-split",
     "url": "https://github.com/bertrandg/angular-split",
     "description": "Angular split component."
   },
   {
-    "name": "ngx-infinite-scroll",
-    "url": "https://github.com/orizens/ngx-infinite-scroll",
-    "description": "Infinite Scroll Directive for Angular."
-  },
-  {
     "name": "egjs-infinitegrid",
     "url": "https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid",
     "description": "Arrange infinite card elements according to various layout types like masonry for Angular."
-  },
-  {
-    "name": "ngx-scrolltop",
-    "url": "https://github.com/bartholomej/ngx-scrolltop",
-    "description": "Lightweight, Material Design inspired button for scroll-to-top of the page. 🔼 No dependencies. Pure Angular! (Compatibility: Angular 9, Ivy, Universal, ng add)."
   },
   {
     "name": "overview",
@@ -2040,11 +2025,6 @@
     "name": "angular-grid-layout",
     "url": "https://github.com/katoid/angular-grid-layout",
     "description": "Responsive grid with draggable and resizable items for Angular applications."
-  },
-  {
-    "name": "lithium-ngx-virtual-scroll",
-    "url": "https://github.com/lVlyke/lithium-ngx-virtual-scroll",
-    "description": "A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching."
   },
   {
     "name": "angular2-promise-buttons",
@@ -2270,6 +2250,56 @@
     "name": "angular2-notifications",
     "url": "https://github.com/flauc/angular2-notifications",
     "description": "A light and easy to use notifications library for Angular."
+  },
+  {
+    "name": "ngx-ui-scroll",
+    "url": "https://github.com/dhilt/ngx-ui-scroll",
+    "description": "Virtual/infinite scroll for Angular."
+  },
+  {
+    "name": "ngx-page-scroll",
+    "url": "https://github.com/Nolanus/ngx-page-scroll",
+    "description": "Animated scrolling functionality for Angular written in pure TypeScript."
+  },
+  {
+    "name": "ngx-infinite-scroll",
+    "url": "https://github.com/orizens/ngx-infinite-scroll",
+    "description": "Infinite Scroll Directive for Angular."
+  },
+  {
+    "name": "ngx-scroll-animations",
+    "url": "https://github.com/hm21/ngx-scroll-animations",
+    "description": "This minimalistic Angular directive, free from external dependencies, empowers you to effortlessly implement CSS animations on elements. These animations trigger when an element comes into view through scrolling on the page. It seamlessly integrates with your choice of CSS animations."
+  },
+  {
+    "name": "lithium-ngx-virtual-scroll",
+    "url": "https://github.com/lVlyke/lithium-ngx-virtual-scroll",
+    "description": "A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching."
+  },
+  {
+    "name": "@robingenz/ngx-infinite-scroll",
+    "url": "https://github.com/robingenz/ngx-infinite-scroll",
+    "description": "Simple Angular directive for infinite scrolling."
+  },
+  {
+    "name": "angular-fullpage",
+    "url": "https://github.com/alvarotrigo/angular-fullpage",
+    "description": "Official component for fullPage.js, a fullscreen scrolling library."
+  },
+  {
+    "name": "ngx-scrolltop",
+    "url": "https://github.com/bartholomej/ngx-scrolltop",
+    "description": "Lightweight, Material Design inspired button for scroll-to-top of the page. 🔼 No dependencies. Pure Angular! (Compatibility: Angular 9, Ivy, Universal, ng add)."
+  },
+  {
+    "name": "OverlayScrollbars",
+    "url": "https://github.com/KingSora/OverlayScrollbars",
+    "description": "A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling."
+  },
+  {
+    "name": "ng-table-virtual-scroll",
+    "url": "https://github.com/diprokon/ng-table-virtual-scroll",
+    "description": "Virtual Scroll for Angular Material Table."
   },
   {
     "name": "universal-model-angular",
@@ -2646,19 +2676,9 @@
     "description": "Product Tour Wizard."
   },
   {
-    "name": "egjs-flicking",
-    "url": "https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking",
-    "description": "It's reliable, flexible and extendable carousel for Angular."
-  },
-  {
     "name": "ng2-pdf-viewer",
     "url": "https://github.com/VadimDez/ng2-pdf-viewer",
     "description": "PDF viewer component."
-  },
-  {
-    "name": "ngu-carousel",
-    "url": "https://github.com/sheikalthaf/ngu-carousel",
-    "description": "Angular Universal carousel."
   },
   {
     "name": "ngx-extended-pdf-viewer",

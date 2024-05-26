@@ -955,6 +955,11 @@
     "description": "A PHP code-quality tool."
   },
   {
+    "name": "PHP AST Viewer",
+    "url": "https://php-ast-viewer.com/",
+    "description": "A tool for viewing the Abstract Syntax Tree of PHP code."
+  },
+  {
     "name": "PHP Magic Number Detector",
     "url": "https://github.com/povils/phpmnd",
     "description": "A library that detects magic numbers in code."
@@ -2016,7 +2021,7 @@
   },
   {
     "name": "JSON Schema",
-    "url": "https://github.com/justinrainbow/json-schema",
+    "url": "https://github.com/jsonrainbow/json-schema",
     "description": "A JSON Schema validation library."
   },
   {

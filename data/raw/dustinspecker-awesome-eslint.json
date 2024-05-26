@@ -584,6 +584,11 @@
     "description": "Enforce good writing style in comments."
   },
   {
+    "name": "eslint-plugin-exception-handling",
+    "url": "https://github.com/Akronae/eslint-plugin-exception-handling",
+    "description": "Lints unhandled functions that might throw errors."
+  },
+  {
     "name": "fp",
     "url": "https://github.com/jfmengels/eslint-plugin-fp",
     "description": "ESLint rules for functional programming."
