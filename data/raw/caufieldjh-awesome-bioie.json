@@ -1,5 +1,25 @@
 [
   {
+    "name": "Large language models in healthcare: A comprehensive benchmark",
+    "url": "http://dx.doi.org/10.1101/2024.04.24.24306315",
+    "description": "a statistical and human evaluation of sixteen different LLMs applied to medical language tasks."
+  },
+  {
+    "name": "Assessing the research landscape and clinical utility of large language models: a scoping review",
+    "url": "https://doi.org/10.1186/s12911-024-02459-6",
+    "description": "a high-level review of LLM applications in medicine as of March 2024."
+  },
+  {
+    "name": "Ethical and regulatory challenges of large language models in medicine",
+    "url": "https://doi.org/10.1016/s2589-7500(24)00061-x",
+    "description": "a review of ethical issues arising from applications of LLMs in biomedicine."
+  },
+  {
+    "name": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜",
+    "url": "http://dx.doi.org/10.1145/3442188.3445922",
+    "description": "a frequently referenced but still relevant work concerning the roles, applications, and risks of language models."
+  },
+  {
     "name": "Biomedical Informatics on the Cloud: A Treasure Hunt for Advancing Cardiovascular Medicine",
     "url": "https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.117.310967",
     "description": "An overview of how BioIE and bioinformatics workflows can be applied to questions in cardiovascular health and medicine research."
@@ -32,26 +52,6 @@
     "name": "Boston Children's Hospital Natural Language Processing Laboratory",
     "url": "http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory",
     "description": "Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project."
-  },
-  {
-    "name": "BD2K",
-    "url": "https://commonfund.nih.gov/bd2k",
-    "description": "The U.S. National Institutes of Health (NIH) funded 13 Centers of Excellence through their Big Data to Knowledge (BD2K) program, several of which developed tools and resources for BioIE."
-  },
-  {
-    "name": "HeartBD2K",
-    "url": "http://www.heartbd2k.org/",
-    "description": "Based at University of California, Los Angeles (UCLA). Led by Dr. Peipei Ping."
-  },
-  {
-    "name": "KnowEng",
-    "url": "https://knoweng.org/about/people/",
-    "description": "Based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han."
-  },
-  {
-    "name": "Mobilize",
-    "url": "http://mobilize.stanford.edu/",
-    "description": "Based at Stanford. Led by Dr. Scott Delp."
   },
   {
     "name": "Brown Center for Biomedical Informatics",
@@ -322,16 +322,6 @@
     "description": "paper - code - An annotation tool designed to have minimal dependencies."
   },
   {
-    "name": "BioASQword2vec",
-    "url": "http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts",
-    "description": "paper - Qord embeddings derived from biomedical text (>10 million PubMed abstracts) using the popular word2vec tool."
-  },
-  {
-    "name": "BioWordVec",
-    "url": "https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647",
-    "description": "paper - code - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH."
-  },
-  {
     "name": "BioBERT",
     "url": "https://github.com/naver/biobert-pretrained",
     "description": "paper - code - A PubMed and PubMed Central-trained version of the BERT language model."
@@ -375,6 +365,20 @@
     "name": "Flair embeddings from PubMed",
     "url": "https://github.com/zalandoresearch/flair/pull/519",
     "description": "A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total."
+  },
+  {
+    "name": "This paper from Hongfang Liu's group at Mayo Clinic",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1532046418301825"
+  },
+  {
+    "name": "BioASQword2vec",
+    "url": "http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts",
+    "description": "paper - Qord embeddings derived from biomedical text (>10 million PubMed abstracts) using the popular word2vec tool."
+  },
+  {
+    "name": "BioWordVec",
+    "url": "https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647",
+    "description": "paper - code - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH."
   },
   {
     "name": "OHSUMED",

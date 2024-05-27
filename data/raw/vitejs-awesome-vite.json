@@ -614,6 +614,11 @@
     "description": "For building Node.js backend or Electron main process."
   },
   {
+    "name": "vite-react-neutralino-template",
+    "url": "https://github.com/Bonnev/vite-react-neutralino-template",
+    "description": "Neutralino + Vite + React template."
+  },
+  {
     "name": "vite-elm-template",
     "url": "https://github.com/lindsaykwardell/vite-elm-template",
     "description": "A default template for building Elm applications."
@@ -682,11 +687,6 @@
     "name": "vite-plugin-checker",
     "url": "https://github.com/fi3ework/vite-plugin-checker",
     "description": "Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint."
-  },
-  {
-    "name": "@nabla/vite-plugin-eslint",
-    "url": "https://github.com/nabla/vite-plugin-eslint",
-    "description": "Runs ESLint asynchronously in a worker to keep HMR fast."
   },
   {
     "name": "vite-plugin-tauri",
@@ -897,6 +897,11 @@
     "name": "vite-plugin-mpg",
     "url": "https://github.com/just-ads/vite-plugin-multi-page",
     "description": "Simple configuration of multi page applications."
+  },
+  {
+    "name": "vite-plugin-pagefind",
+    "url": "https://github.com/Hugos68/vite-plugin-pagefind",
+    "description": "Integrate pagefind search."
   },
   {
     "name": "unplugin-icons",
@@ -2106,6 +2111,11 @@
     "name": "Compiiile",
     "url": "https://github.com/AlbanCrepel/compiiile",
     "description": "Preview or host folders containing Markdown files with full-text search and presentation slides."
+  },
+  {
+    "name": "Gracile",
+    "url": "https://github.com/gracile-web/gracile",
+    "description": "A meta-framework powered by Lit SSR."
   },
   {
     "name": "Icônes",

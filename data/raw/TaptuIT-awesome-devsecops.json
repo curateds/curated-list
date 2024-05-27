@@ -370,6 +370,11 @@
     "description": "Bridgecrew - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above."
   },
   {
+    "name": "CI/CD Goat",
+    "url": "https://github.com/cider-security-research/cicd-goat",
+    "description": "Cider Security - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges."
+  },
+  {
     "name": "Damn Vulnerable Web App",
     "url": "http://www.dvwa.co.uk/",
     "description": "Ryan Dewhurst - A web application that provides a safe environment to understand and exploit common web vulnerabilities."

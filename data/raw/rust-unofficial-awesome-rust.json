@@ -757,6 +757,11 @@
     "url": "https://github.com/maras-archive/rsnake"
   },
   {
+    "name": "mcthesw/game-save-manager",
+    "url": "https://github.com/mcthesw/game-save-manager",
+    "description": "A user-friendly tool for managing game saves"
+  },
+  {
     "name": "mtkennerly/ludusavi",
     "url": "https://github.com/mtkennerly/ludusavi"
   },
@@ -3081,6 +3086,11 @@
   {
     "name": "redox-os/termion",
     "url": "https://github.com/redox-os/termion"
+  },
+  {
+    "name": "ruterm",
+    "url": "https://crates.io/crates/ruterm",
+    "description": "tiny & simple library for working with TTY"
   },
   {
     "name": "gchp/rustbox",

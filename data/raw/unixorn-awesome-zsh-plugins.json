@@ -2601,6 +2601,11 @@
     "description": "Interactively build jq expressions. Also supports gojq. Requires fzf."
   },
   {
+    "name": "jrgit",
+    "url": "https://github.com/jrocha-dev/ohmyzsh-plugin-jrgit",
+    "description": "Provides a suite of functions to streamline the Git user experience. It includes features for installing and configuring Git, handling large files with Git LFS, improving diff outputs, and managing credentials and keys securely."
+  },
+  {
     "name": "jvm",
     "url": "https://github.com/mgryszko/jvm",
     "description": "Allows selection of JDK on macOS."
@@ -4144,9 +4149,14 @@
     "description": "Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset."
   },
   {
-    "name": "tab-title",
+    "name": "tab-title (p1r473)",
+    "url": "https://github.com/p1r473/tab-title/",
+    "description": "Rename tmux and screen panes and windows."
+  },
+  {
+    "name": "tab-title (trystan2k)",
     "url": "https://github.com/trystan2k/zsh-tab-title",
-    "description": "Set the terminal tab title according to current directory or running process. Forked from termsupport.zsh"
+    "description": "Set the terminal tab title according to current directory or running process. Forked from termsupport.zsh."
   },
   {
     "name": "tailf",

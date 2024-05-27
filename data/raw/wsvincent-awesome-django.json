@@ -445,11 +445,6 @@
     "description": "Powerful filters based on Django QuerySets."
   },
   {
-    "name": "django-guardian",
-    "url": "https://github.com/django-guardian/django-guardian",
-    "description": "Per object permissions in Django."
-  },
-  {
     "name": "django-sql-explorer",
     "url": "https://github.com/groveco/django-sql-explorer",
     "description": "Share data via SQL queries."
@@ -628,6 +623,21 @@
     "name": "pyinstrument",
     "url": "https://github.com/joerick/pyinstrument",
     "description": "Call stack profiler for Python, Django, Flask, FastAPI."
+  },
+  {
+    "name": "django-role-permissions",
+    "url": "https://github.com/vintasoftware/django-role-permissions",
+    "description": "Django app for role-based permissions management."
+  },
+  {
+    "name": "django-guardian",
+    "url": "https://github.com/django-guardian/django-guardian",
+    "description": "Per object permissions in Django."
+  },
+  {
+    "name": "django-rules",
+    "url": "https://github.com/dfunckt/django-rules",
+    "description": "A tiny but powerful app providing object-level permissions, built from the ground up for Django."
   },
   {
     "name": "django-haystack",

@@ -1026,6 +1026,11 @@
     "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker."
   },
   {
+    "name": "ngx-disqus",
+    "url": "https://github.com/MurhafSousli/ngx-disqus",
+    "description": "Disqus for Angular."
+  },
+  {
     "name": "ngx-admin",
     "url": "https://github.com/akveo/ngx-admin",
     "description": "Customizable admin dashboard template based on Angular 10+."
@@ -1548,6 +1553,16 @@
     "description": "Quicklink prefetching strategy for the Angular router."
   },
   {
+    "name": "ngx-highlightjs",
+    "url": "https://github.com/MurhafSousli/ngx-highlightjs",
+    "description": "Instant code highlighting, auto-detect language, super easy to use!"
+  },
+  {
+    "name": "ngx-sharebuttons",
+    "url": "https://github.com/MurhafSousli/ngx-sharebuttons",
+    "description": "Angular share buttons."
+  },
+  {
     "name": "ng2-dragula",
     "url": "https://github.com/valor-software/ng2-dragula",
     "description": "Drag and Drop so simple it hurts!"
@@ -1781,6 +1796,11 @@
     "name": "angular-star-rating",
     "url": "https://github.com/BioPhoton/angular-star-rating",
     "description": "Star Rating Angular Component written in TypeScript, based on CSS-only techniques."
+  },
+  {
+    "name": "ngx-bar-rating",
+    "url": "https://github.com/MurhafSousli/ngx-bar-rating",
+    "description": "Angular Bar Rating."
   },
   {
     "name": "ngx-valdemort",
@@ -2300,6 +2320,11 @@
     "name": "ng-table-virtual-scroll",
     "url": "https://github.com/diprokon/ng-table-virtual-scroll",
     "description": "Virtual Scroll for Angular Material Table."
+  },
+  {
+    "name": "ngx-scrollbar",
+    "url": "https://github.com/MurhafSousli/ngx-scrollbar",
+    "description": "Custom overlay-scrollbars with native scrolling mechanism."
   },
   {
     "name": "universal-model-angular",

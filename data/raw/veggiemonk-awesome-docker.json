@@ -772,6 +772,11 @@
     "description": "oci-runtime-tool is a collection of tools for working with the OCI runtime specification by @opencontainers"
   },
   {
+    "name": "Anchor",
+    "url": "https://github.com/SongStitch/anchor/",
+    "description": "A tool to ensure reproducible builds by pinning dependencies inside your Dockerfiles @SongStitch"
+  },
+  {
     "name": "Anchor Engine",
     "url": "https://github.com/anchore/anchore",
     "description": "Analyze images for CVE vulnerabilities and against custom security policies by @Anchor"
