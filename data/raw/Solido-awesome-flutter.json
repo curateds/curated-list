@@ -803,11 +803,6 @@
     "description": "Liquid Pay App Concept by Long Hoang"
   },
   {
-    "name": "Starter Kit",
-    "url": "https://github.com/KingWu/flutter_starter_kit",
-    "description": "App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by King Wu"
-  },
-  {
     "name": "FlutterFoodybite",
     "url": "https://github.com/JideGuru/FlutterFoodybite",
     "description": "Beautiful food app UI template by JideGuru"
@@ -1001,6 +996,11 @@
     "name": "RiverPod",
     "url": "https://github.com/rrousselGit/river_pod",
     "description": "Provider, but different by Remi Rousselet"
+  },
+  {
+    "name": "Get It",
+    "url": "https://github.com/fluttercommunity/get_it",
+    "description": "Simple direct Service Locator that allows to decouple the interface from a concrete implementation by Thomas Burkhartb"
   },
   {
     "name": "GetX",
@@ -1340,11 +1340,6 @@
     "name": "FVM",
     "url": "https://github.com/leoafarias/fvm",
     "description": "Flutter Version Management: A simple cli to manage Flutter SDK versions."
-  },
-  {
-    "name": "Environment Configuration",
-    "url": "https://github.com/TatsuUkraine/dart_environment_config",
-    "description": "CLI tool to generate .env configurations for application environments by TatsuUkraine"
   },
   {
     "name": "Flutter Flavorizr",

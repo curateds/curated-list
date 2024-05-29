@@ -528,6 +528,11 @@
     "description": "Simple JavaScript testing."
   },
   {
+    "name": "karma-image-snapshot",
+    "url": "https://github.com/maksimr/karma-image-snapshot",
+    "description": "Karma jasmine matcher that performs image comparisons based on jest-image-snapshot for visual regression testing."
+  },
+  {
     "name": "jest",
     "url": "https://jestjs.io/",
     "description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity."
@@ -543,6 +548,21 @@
     "description": "Debug your Jest tests. Effortlessly."
   },
   {
+    "name": "jest-marbles",
+    "url": "https://github.com/just-jeb/jest-marbles",
+    "description": "Helpers library for marbles testing with Jest."
+  },
+  {
+    "name": "jest-codemods",
+    "url": "https://github.com/skovhus/jest-codemods",
+    "description": "Codemods for migrating to Jest."
+  },
+  {
+    "name": "ts-jest",
+    "url": "https://github.com/kulshekhar/ts-jest",
+    "description": "A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript."
+  },
+  {
     "name": "playwright-ct-angular",
     "url": "https://github.com/sand4rt/playwright-ct-angular",
     "description": "Playwright Angular component testing."
@@ -556,6 +576,11 @@
     "name": "spectator",
     "url": "https://github.com/ngneat/spectator",
     "description": "A Powerful Tool to Simplify Your Angular Tests."
+  },
+  {
+    "name": "stryker-js",
+    "url": "https://github.com/stryker-mutator/stryker-js",
+    "description": "Mutation testing for JavaScript and friends."
   },
   {
     "name": "testcafe",
@@ -581,6 +606,21 @@
     "name": "swc-angular-plugin",
     "url": "https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin",
     "description": "SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin."
+  },
+  {
+    "name": "msw",
+    "url": "https://github.com/mswjs/msw",
+    "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
+  },
+  {
+    "name": "ngx-speculoos",
+    "url": "https://github.com/Ninja-Squad/ngx-speculoos",
+    "description": "Simpler, cleaner Angular unit tests."
+  },
+  {
+    "name": "shallow-render",
+    "url": "https://github.com/getsaf/shallow-render",
+    "description": "Angular testing made easy with shallow rendering and easy mocking."
   },
   {
     "name": "angular-tour-of-heroes-jest-100-coverage",
@@ -2270,6 +2310,11 @@
     "name": "angular2-notifications",
     "url": "https://github.com/flauc/angular2-notifications",
     "description": "A light and easy to use notifications library for Angular."
+  },
+  {
+    "name": "OneSignal",
+    "url": "https://documentation.onesignal.com/docs/angular-setup",
+    "description": "With onesignal-ngx, you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app."
   },
   {
     "name": "ngx-ui-scroll",

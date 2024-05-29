@@ -65,8 +65,8 @@
     "description": "Group for discussions, articles and knowledge sharing."
   },
   {
-    "name": "Twitter",
-    "url": "https://twitter.com/search?q=%23GraphQL",
+    "name": "X",
+    "url": "https://x.com/search?q=%23GraphQL",
     "description": "Use the hashtag #graphql."
   },
   {
@@ -81,13 +81,8 @@
   },
   {
     "name": "/r/GraphQL",
-    "url": "https://old.reddit.com/r/graphql/",
+    "url": "https://www.reddit.com/r/graphql/",
     "description": "A Subreddit for interesting and informative GraphQL content and discussions."
-  },
-  {
-    "name": "GraphQL Jobs",
-    "url": "https://graphql.jobs",
-    "description": "A list of GraphQL-based jobs in startups all over the world."
   },
   {
     "name": "Codever",
@@ -340,6 +335,11 @@
     "name": "graphql-helix",
     "url": "https://github.com/contrawork/graphql-helix",
     "description": "A highly evolved GraphQL HTTP Server."
+  },
+  {
+    "name": "pylon",
+    "url": "https://github.com/getcronit/pylon",
+    "description": "Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy."
   },
   {
     "name": "graphql-sequelize",
@@ -762,7 +762,7 @@
   {
     "name": "drupal/graphql",
     "url": "https://www.drupal.org/project/graphql",
-    "description": "Craft and expose a GraphQL schema for Drupal 8+."
+    "description": "Craft and expose a GraphQL schema for Drupal 9 and 10."
   },
   {
     "name": "siler-graphgl",
@@ -1555,11 +1555,6 @@
     "description": "Build and execute GraphQL queries in the terminal."
   },
   {
-    "name": "Graph Proxy",
-    "url": "https://graphproxy.com/",
-    "description": "Graph Proxy detects and displays all GraphQL network traffic."
-  },
-  {
     "name": "Step CI",
     "url": "https://stepci.com",
     "description": "Open-Source API Testing and Monitoring with GraphQL support"
@@ -2240,7 +2235,7 @@
   },
   {
     "name": "GraphQL Roadmap",
-    "url": "https://roadmap.sh/graphql/",
+    "url": "https://roadmap.sh/graphql",
     "description": "Step by step guide to learn GraphQL."
   },
   {

@@ -46,7 +46,7 @@
   },
   {
     "name": "Dumpling",
-    "url": "https://github.com/pingcap/dumpling",
+    "url": "https://github.com/pingcap/tidb/tree/master/dumpling",
     "description": "Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "name": "DM",
-    "url": "https://github.com/pingcap/dm",
+    "url": "https://github.com/pingcap/tiflow",
     "description": "A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables"
   },
   {

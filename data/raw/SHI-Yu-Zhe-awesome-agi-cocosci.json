@@ -1388,11 +1388,6 @@
     "description": "CVPR'23, 2023. [All Versions]. [Website]. [Supplementary Text]. This paper introduces Infinigen, a procedural generator of photorealistic 3D scenes of the natural world. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules, using no external source and allowing infinite variation and composition."
   },
   {
-    "name": "OpenLaw",
-    "url": "https://docs.openlaw.io/",
-    "description": "OpenLaw.io. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation \"smart\" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications."
-  },
-  {
     "name": "PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming",
     "url": "https://proceedings.mlr.press/v130/lew21a.html",
     "description": "ICML'21, 2021. [All Versions]. This work presents PClean, a probabilistic programming language (PPL) for leveraging dataset-specific knowledge to automate Bayesian cleaning, automating Bayesian approaches given the diversity of real-world error patterns and the hardness of inference."
@@ -1411,6 +1406,11 @@
     "name": "A high-level programming language for generative protein design",
     "url": "https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1",
     "description": "2022. [All Versions]. A high-level programming language based on modular building blocks that allows a designer to easily compose a set of desired properties. Along with the programming language, there is an energy-based generative model, built on atomic resolution structure prediction with a language model, that realizes all-atom structure designs that have the programmed properties."
+  },
+  {
+    "name": "OpenLaw",
+    "url": "https://docs.openlaw.io/",
+    "description": "OpenLaw.io. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation \"smart\" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications."
   },
   {
     "name": "pix2code: Generating Code from a Graphical User Interface Screenshot",

@@ -1611,6 +1611,10 @@
     "description": "The original standard for Common Lisp before the ANSI spec."
   },
   {
+    "name": "CLtL2, in PDF format",
+    "url": "https://github.com/mmontone/cltl2-doc"
+  },
+  {
     "name": "Minispec",
     "url": "https://lamberta.github.io/minispec/",
     "description": "A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (such as Alexandria)."
