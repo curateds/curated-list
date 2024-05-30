@@ -2810,11 +2810,6 @@
     "description": "Preview devdocs.io documentations directly in Markdown format."
   },
   {
-    "name": "VidocqH/data-viewer.nvim",
-    "url": "https://github.com/VidocqH/data-viewer.nvim",
-    "description": "Provide a simple table view to inspect data files such as csv, tsv."
-  },
-  {
     "name": "JMarkin/gentags.lua",
     "url": "https://github.com/JMarkin/gentags.lua",
     "description": "Auto generate tag files by ctags."
@@ -2855,11 +2850,6 @@
     "description": "The tags generator/management for old school vimers."
   },
   {
-    "name": "theKnightsOfRohan/csvlens.nvim",
-    "url": "https://github.com/theKnightsOfRohan/csvlens.nvim",
-    "description": "A port of YS-L/csvlens, for easy previewing of tabular data."
-  },
-  {
     "name": "Mr-LLLLL/utilities.nvim",
     "url": "https://github.com/Mr-LLLLL/utilities.nvim",
     "description": "A repository to collect some little utility functions."
@@ -2898,6 +2888,21 @@
     "name": "AlejandroSuero/freeze-code.nvim",
     "url": "https://github.com/AlejandroSuero/freeze-code.nvim",
     "description": "Code screenshot plugin that makes use of freeze inside the editor, it lets you copy the generated image to paste it anywhere."
+  },
+  {
+    "name": "VidocqH/data-viewer.nvim",
+    "url": "https://github.com/VidocqH/data-viewer.nvim",
+    "description": "Provide a simple table view to inspect data files such as csv, tsv."
+  },
+  {
+    "name": "theKnightsOfRohan/csvlens.nvim",
+    "url": "https://github.com/theKnightsOfRohan/csvlens.nvim",
+    "description": "A port of YS-L/csvlens, for easy previewing of tabular data."
+  },
+  {
+    "name": "emmanueltouzery/decisive.nvim",
+    "url": "https://github.com/emmanueltouzery/decisive.nvim",
+    "description": "View and edit CSV files with ease and speed."
   },
   {
     "name": "LoricAndre/OneTerm.nvim",
@@ -3710,9 +3715,9 @@
     "description": "Lua plugin to create key-bindings and watch them with telescope."
   },
   {
-    "name": "slugbyte/unruly-worker",
-    "url": "https://github.com/slugbyte/unruly-worker",
-    "description": "A ridiculously fun alternative keymap for the workman keyboard layout with Neovim features like LSP support, built and configured with Lua."
+    "name": "slugbyte/unruly-worker.nvim",
+    "url": "https://github.com/slugbyte/unruly-worker.nvim",
+    "description": "A ridiculously fun alternative keymap for the workman keyboard layout, with lots of powerful features for working with yank, marks, macros, LSP, and more. Built and configured with Lua."
   },
   {
     "name": "FeiyouG/commander.nvim",

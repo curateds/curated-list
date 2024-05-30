@@ -147,6 +147,11 @@
     "description": "Bring your .bashrc, .vimrc, etc. with you when you SSH."
   },
   {
+    "name": "utility-bash-scripts",
+    "url": "https://github.com/aviaryan/utility-bash-scripts",
+    "description": "Useful bash scripts to do automatable tasks with a single command."
+  },
+  {
     "name": "zoxide",
     "url": "https://github.com/ajeetdsouza/zoxide",
     "description": "A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers."
@@ -264,7 +269,7 @@
   {
     "name": "bash-stack",
     "url": "https://github.com/cgsdev0/bash-stack",
-    "description": "modern web framework in bash."
+    "description": "Modern web framework in bash."
   },
   {
     "name": "Dropbox-Uploader",

@@ -318,11 +318,6 @@
     "description": "a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies."
   },
   {
-    "name": "MaxScale",
-    "url": "https://github.com/mariadb-corporation/MaxScale",
-    "description": "open-source, database-centric proxy."
-  },
-  {
     "name": "Mixer",
     "url": "https://github.com/siddontang/mixer",
     "description": "a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding."
@@ -408,11 +403,6 @@
     "description": "a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies."
   },
   {
-    "name": "openark kit",
-    "url": "http://code.openark.org/forge/openark-kit",
-    "description": "a set of utilities that solve everyday maintenance tasks, which may be complicated or time consuming to do by hand, written in Python."
-  },
-  {
     "name": "Percona Toolkit",
     "url": "https://www.percona.com/software/mysql-tools/percona-toolkit",
     "description": "a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually."
@@ -421,26 +411,6 @@
     "name": "UnDROP",
     "url": "https://bitbucket.org/Marc-T/undrop-for-innodb",
     "description": "a tool to recover data from dropped or corrupted InnoDB tables."
-  },
-  {
-    "name": "FOSDEM",
-    "url": "https://fosdem.org/",
-    "description": "a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers \"MySQL & friends\" room."
-  },
-  {
-    "name": "MySQL Central",
-    "url": "https://www.oracle.com/openworld/mysql/index.html",
-    "description": "Oracle's annual MySQL conference, as part of Oracle Open World."
-  },
-  {
-    "name": "Percona Live",
-    "url": "https://www.percona.com/live/conferences",
-    "description": "MySQL & Openstack focused conference."
-  },
-  {
-    "name": "SCALE",
-    "url": "https://www.socallinuxexpo.org",
-    "description": "A community organized Linux and Open Source conference held annually in Southern California. The local MySQL community runs a track under the name MySQL Community Day."
   },
   {
     "name": "Database Systems Lecture Notes",

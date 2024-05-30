@@ -2766,6 +2766,11 @@
     "description": "JSON formatter and viewer in HTML for Angular."
   },
   {
+    "name": "ngx-diff",
+    "url": "https://github.com/rars/ngx-diff",
+    "description": "Angular component library for displaying diffs of text."
+  },
+  {
     "name": "ngx-countdown",
     "url": "https://github.com/cipchk/ngx-countdown",
     "description": "Simple, easy and performant countdown."
@@ -2844,6 +2849,11 @@
     "name": "gui",
     "url": "https://github.com/acrodata/gui",
     "description": "JSON powered GUI for configurable panels."
+  },
+  {
+    "name": "ng2csv",
+    "url": "https://github.com/rars/ng2csv",
+    "description": "Angular service for saving data to CSV file."
   },
   {
     "name": "rxjs",
@@ -3059,6 +3069,11 @@
     "name": "angular2-jwt",
     "url": "https://github.com/auth0/angular2-jwt",
     "description": "Library for sending authenticated HTTP requests and decoding JWTs."
+  },
+  {
+    "name": "ngx-jwt",
+    "url": "https://github.com/rars/ngx-jwt",
+    "description": "Angular library for injecting JWT tokens to HTTP requests."
   },
   {
     "name": "ng-http-caching",

@@ -330,6 +330,11 @@
     "description": "A Rust toolkit to interact with the Stacks Blockchain."
   },
   {
+    "name": "stacks.py",
+    "url": "https://github.com/rohitverma007/stackspy",
+    "description": "Python Library to interact with the Stacks blockchain."
+  },
+  {
     "name": "@stacks/cli",
     "url": "https://github.com/hirosystems/stacks.js/tree/master/packages/cli",
     "description": "Command line interface for interacting with auth, storage, and transactions."

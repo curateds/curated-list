@@ -1,47 +1,47 @@
 [
   {
     "name": "GNOME Web",
-    "url": "https://apps.gnome.org/app/org.gnome.Epiphany/",
+    "url": "https://apps.gnome.org/Epiphany",
     "description": "Official web browser project of GNOME."
   },
   {
     "name": "Fragments",
-    "url": "https://apps.gnome.org/app/de.haeckerfelix.Fragments/",
+    "url": "https://apps.gnome.org/Fragments",
     "description": "BitTorrent client."
   },
   {
     "name": "Newsflash",
-    "url": "https://apps.gnome.org/app/com.gitlab.newsflash/",
+    "url": "https://apps.gnome.org/NewsFlash",
     "description": "RSS feeds reader."
   },
   {
     "name": "Font Downloader",
-    "url": "https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/",
-    "description": "Install fonts from online sources."
+    "url": "https://flathub.org/apps/org.gustavoperedo.FontDownloader",
+    "description": "Install fonts from online sources"
   },
   {
     "name": "Tangram",
-    "url": "https://apps.gnome.org/app/re.sonny.Tangram/",
+    "url": "https://apps.gnome.org/Tangram",
     "description": "Browser for your pinned tabs."
   },
   {
     "name": "Polari",
-    "url": "https://apps.gnome.org/app/org.gnome.Polari/",
+    "url": "https://apps.gnome.org/Polari",
     "description": "Talk to people on IRC."
   },
   {
     "name": "Warp",
-    "url": "https://apps.gnome.org/app/app.drey.Warp/",
+    "url": "https://apps.gnome.org/Warp",
     "description": "Fast and secure file transfer."
   },
   {
     "name": "Wike",
-    "url": "https://apps.gnome.org/app/com.github.hugolabe.Wike/",
+    "url": "https://apps.gnome.org/Wike",
     "description": "Search and read Wikipedia articles."
   },
   {
     "name": "Geary",
-    "url": "https://wiki.gnome.org/Apps/Geary",
+    "url": "https://gitlab.gnome.org/GNOME/geary",
     "description": "Modern mail client, created originally by Yorba."
   },
   {
@@ -51,17 +51,17 @@
   },
   {
     "name": "Haguichi",
-    "url": "https://www.haguichi.net/",
+    "url": "https://www.haguichi.net",
     "description": "Graphical frontend for Hamachi."
   },
   {
     "name": "Parabolic",
-    "url": "https://github.com/NickvisionApps/Parabolic",
+    "url": "https://flathub.org/apps/org.nickvision.tubeconverter",
     "description": "yt-dlp graphical fronted."
   },
   {
     "name": "Geopard",
-    "url": "https://ranfdev.com/projects/geopard/",
+    "url": "https://ranfdev.com/projects/geopard",
     "description": "Colorful Gemini client."
   },
   {
@@ -71,17 +71,17 @@
   },
   {
     "name": "Dino",
-    "url": "https://dino.im/",
+    "url": "https://dino.im",
     "description": "XMPP Client."
   },
   {
     "name": "Apostrophe",
-    "url": "https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/",
+    "url": "https://apps.gnome.org/Apostrophe",
     "description": "Distraction-free Markdown editor."
   },
   {
     "name": "Citations",
-    "url": "https://apps.gnome.org/app/org.gnome.World.Citations/",
+    "url": "https://apps.gnome.org/Citations",
     "description": "Manage your bibliography."
   },
   {
@@ -91,38 +91,43 @@
   },
   {
     "name": "Paperwork",
-    "url": "https://gitlab.gnome.org/World/OpenPaperwork/paperwork",
+    "url": "https://flathub.org/apps/work.openpaper.Paperwork",
     "description": "Personal document manager for scanned documents and PDFs."
   },
   {
     "name": "Foliate",
-    "url": "https://github.com/johnfactotum/foliate",
+    "url": "https://flathub.org/apps/com.github.johnfactotum.Foliate",
     "description": "Simple and modern eBook reader."
   },
   {
     "name": "Marker",
-    "url": "https://github.com/fabiocolacio/Marker",
+    "url": "https://flathub.org/apps/com.github.fabiocolacio.marker",
     "description": "Markdown editor with an integrated previewer."
   },
   {
     "name": "Paper Clip",
-    "url": "https://github.com/Diego-Ivan/Paper-Clip",
+    "url": "https://flathub.org/apps/io.github.diegoivan.pdf_metadata_editor",
     "description": "PDF metadata editor."
   },
   {
     "name": "RNote",
-    "url": "https://github.com/flxzt/rnote",
+    "url": "https://flathub.org/apps/com.github.flxzt.rnote",
     "description": "Sketch and take handwritten notes."
   },
   {
     "name": "Solanum",
-    "url": "https://apps.gnome.org/app/org.gnome.Solanum/",
+    "url": "https://apps.gnome.org/Solanum",
     "description": "Balance working time and break time."
   },
   {
     "name": "Khronos",
-    "url": "https://apps.gnome.org/app/io.github.lainsce.Khronos/",
+    "url": "https://apps.gnome.org/Khronos",
     "description": "Log the time it took to do tasks."
+  },
+  {
+    "name": "Errands",
+    "url": "https://apps.gnome.org/List",
+    "description": "Todo application for those who prefer simplicity."
   },
   {
     "name": "Endeavour",
@@ -131,78 +136,73 @@
   },
   {
     "name": "GTimeLog",
-    "url": "https://github.com/gtimelog/gtimelog",
+    "url": "https://flathub.org/apps/org.gtimelog.GTimeLog",
     "description": "Simple app for keeping track of time."
   },
   {
     "name": "Gnome Pomodoro",
-    "url": "http://gnomepomodoro.org/",
+    "url": "http://gnomepomodoro.org",
     "description": "Simple pomodoro timer."
   },
   {
     "name": "Timetrack",
-    "url": "https://gitlab.gnome.org/danigm/timetrack",
+    "url": "https://flathub.org/apps/net.danigm.timetrack",
     "description": "Time tracker."
   },
   {
     "name": "Teleprompter",
-    "url": "https://github.com/Nokse22/teleprompter",
+    "url": "https://flathub.org/apps/io.github.nokse22.teleprompter",
     "description": "Simple application to read scrolling text from your screen."
   },
   {
-    "name": "Errands",
-    "url": "https://github.com/mrvladus/Errands",
-    "description": "Todo application for those who prefer simplicity."
-  },
-  {
     "name": "Planify",
-    "url": "https://github.com/alainm23/planify",
+    "url": "https://flathub.org/apps/io.github.alainm23.planify",
     "description": "Project and task manager with Todoist support."
   },
   {
     "name": "Blanket",
-    "url": "https://apps.gnome.org/app/com.rafaelmardojai.Blanket/",
+    "url": "https://apps.gnome.org/Blanket",
     "description": "Listen to different sounds."
   },
   {
     "name": "Health",
-    "url": "https://apps.gnome.org/app/dev.Cogitri.Health/",
+    "url": "https://apps.gnome.org/Health",
     "description": "Health tracking."
   },
   {
     "name": "Shortwave",
-    "url": "https://apps.gnome.org/app/de.haeckerfelix.Shortwave/",
+    "url": "https://apps.gnome.org/Shortwave",
     "description": "Client for web-based radio."
   },
   {
-    "name": "Cozy",
-    "url": "https://apps.gnome.org/app/com.github.geigi.cozy/",
-    "description": "Audiobook player."
-  },
-  {
     "name": "Video Trimer",
-    "url": "https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.VideoTrimmer/",
+    "url": "https://apps.gnome.org/VideoTrimmer",
     "description": "Trim video quickly."
   },
   {
     "name": "Amberol",
-    "url": "https://apps.gnome.org/app/io.bassi.Amberol/",
+    "url": "https://apps.gnome.org/Amberol",
     "description": "Plays music, and nothing else."
   },
   {
     "name": "Mousai",
-    "url": "https://apps.gnome.org/app/io.github.seadve.Mousai/",
+    "url": "https://apps.gnome.org/Mousai",
     "description": "Identify any songs in seconds."
   },
   {
     "name": "Podcasts",
-    "url": "https://apps.gnome.org/app/org.gnome.Podcasts/",
+    "url": "https://apps.gnome.org/Podcasts",
     "description": "Listen to your favourite podcasts."
   },
   {
-    "name": "Zap",
-    "url": "https://apps.gnome.org/app/fr.romainvigier.zap/",
-    "description": "Play sounds from a soundboard."
+    "name": "Decibels",
+    "url": "https://apps.gnome.org/Decibels",
+    "description": "Simple music player with waveform view."
+  },
+  {
+    "name": "Cozy",
+    "url": "https://flathub.org/apps/com.github.geigi.cozy",
+    "description": "Audiobook player."
   },
   {
     "name": "Vocal",
@@ -211,7 +211,7 @@
   },
   {
     "name": "Celluloid",
-    "url": "https://github.com/celluloid-player/celluloid",
+    "url": "https://flathub.org/apps/io.github.celluloid_player.Celluloid",
     "description": "Simple frontend for mpv."
   },
   {
@@ -221,27 +221,27 @@
   },
   {
     "name": "Parlatype",
-    "url": "http://gkarsay.github.io/parlatype/",
+    "url": "http://gkarsay.github.io/parlatype",
     "description": "Audio player specialized for transcription."
   },
   {
     "name": "Easy Effects",
-    "url": "https://github.com/wwmm/easyeffects",
+    "url": "https://flathub.org/apps/com.github.wwmm.easyeffects",
     "description": "Audio effects for PipeWire applications ."
   },
   {
     "name": "Pitivi",
-    "url": "http://www.pitivi.org/",
+    "url": "http://www.pitivi.org",
     "description": "Beautiful and powerful video editor."
   },
   {
     "name": "Spot",
-    "url": "https://github.com/xou816/spot",
+    "url": "https://flathub.org/apps/dev.alextren.Spot",
     "description": "Spotify Client."
   },
   {
     "name": "Clapper",
-    "url": "https://github.com/Rafostar/clapper",
+    "url": "https://rafostar.github.io/clapper",
     "description": "Simple and modern media player."
   },
   {
@@ -250,13 +250,8 @@
     "description": "Application to trim, flip, rotate and crop individual clips."
   },
   {
-    "name": "Decibels",
-    "url": "https://github.com/vixalien/decibels",
-    "description": "Simple music player with waveform view."
-  },
-  {
     "name": "Aviator",
-    "url": "https://github.com/gianni-rosato/aviator",
+    "url": "https://flathub.org/apps/net.natesales.Aviator",
     "description": "Utility for encoding with SVT-AV1 & Opus."
   },
   {
@@ -276,102 +271,102 @@
   },
   {
     "name": "Curtail",
-    "url": "https://flathub.org/apps/details/com.github.huluti.Curtail",
+    "url": "https://apps.gnome.org/en/Curtail",
     "description": "Simple & useful image compressor."
   },
   {
-    "name": "Drawing",
-    "url": "https://apps.gnome.org/app/com.github.maoschanz.drawing/",
-    "description": "Responsive drawing application."
-  },
-  {
     "name": "Identity",
-    "url": "https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.Identity/",
+    "url": "https://apps.gnome.org/Identity",
     "description": "Compare image and video."
   },
   {
+    "name": "Switcheroo",
+    "url": "https://apps.gnome.org/Converter",
+    "description": "Image converter and manipulator (ImageMagick frontend)."
+  },
+  {
+    "name": "Drawing",
+    "url": "https://flathub.org/apps/com.github.maoschanz.drawing",
+    "description": "Responsive drawing application."
+  },
+  {
     "name": "Coulr",
-    "url": "https://github.com/Huluti/Coulr",
+    "url": "https://flathub.org/apps/com.github.huluti.Coulr",
     "description": "Convert between RGB and hexadecimal codes for colours."
   },
   {
     "name": "Color Picker",
-    "url": "https://gitlab.gnome.org/World/gcolor3/",
+    "url": "https://flathub.org/apps/nl.hjdskes.gcolor3",
     "description": "Color picker, working on both X11 and Wayland."
   },
   {
     "name": "GThumb",
-    "url": "https://wiki.gnome.org/Apps/Gthumb",
+    "url": "https://gitlab.gnome.org/GNOME/gthumb",
     "description": "Powerful and advanced application to manage your photos and images."
   },
   {
     "name": "ASCII Draw",
-    "url": "https://github.com/Nokse22/ascii-draw",
+    "url": "https://flathub.org/apps/io.github.nokse22.asciidraw",
     "description": "Draw graphs and more using only characters."
   },
   {
-    "name": "Switcheroo",
-    "url": "https://gitlab.com/adhami3310/Switcheroo",
-    "description": "Image converter and manipulator (ImageMagick frontend)."
-  },
-  {
     "name": "Mingle",
-    "url": "https://github.com/halfmexican/mingle",
+    "url": "https://flathub.org/apps/io.github.halfmexican.Mingle",
     "description": "Application to combine emojis using Google's Emoji Kitchen."
   },
   {
-    "name": "Plots",
-    "url": "https://apps.gnome.org/app/com.github.alexhuntley.Plots/",
-    "description": "Simple graph plotting."
-  },
-  {
     "name": "Graphs",
-    "url": "https://apps.gnome.org/Graphs/",
+    "url": "https://apps.gnome.org/Graphs",
     "description": "Plot and manipulate data."
   },
   {
+    "name": "Plots",
+    "url": "https://flathub.org/apps/com.github.alexhuntley.Plots",
+    "description": "Simple graph plotting."
+  },
+  {
     "name": "Lutris",
-    "url": "https://github.com/lutris/lutris",
+    "url": "https://flathub.org/apps/net.lutris.Lutris",
     "description": "Open Source gaming platform."
   },
   {
     "name": "Cartridges",
-    "url": "https://github.com/kra-mo/cartridges",
+    "url": "https://apps.gnome.org/Cartridges",
     "description": "Game launcher with Steam, Lutris, Heroic, Bottles and itch library import."
   },
   {
     "name": "Pika Backup",
-    "url": "https://apps.gnome.org/app/org.gnome.World.PikaBackup/",
+    "url": "https://apps.gnome.org/PikaBackup",
     "description": "Simple backups based on borg."
   },
   {
     "name": "Déjà Dup Backups",
-    "url": "https://apps.gnome.org/app/org.gnome.DejaDup/",
+    "url": "https://apps.gnome.org/DejaDup",
     "description": "Simple backups tool."
   },
   {
     "name": "GNOME Tweaks",
-    "url": "https://wiki.gnome.org/Apps/Tweaks",
+    "url": "https://gitlab.gnome.org/GNOME/gnome-tweaks",
     "description": "Graphical interface for advanced GNOME settings."
   },
   {
     "name": "Tilix",
-    "url": "https://github.com/gnunn1/terminix/",
+    "url": "https://gnunn1.github.io/tilix-web",
     "description": "Tiling terminal emulator."
   },
   {
     "name": "Menulibre",
-    "url": "https://smdavis.us/projects/menulibre/",
+    "url": "https://smdavis.us/projects/menulibre",
     "description": "Manage your applications categories if you use a traditional application menu like Arc or the Application Menu."
   },
   {
     "name": "HydraPaper",
-    "url": "https://hydrapaper.gabmus.org/",
+    "url": "https://hydrapaper.gabmus.org",
     "description": "Set a different background for each monitor."
   },
   {
     "name": "Dynamic Wallpaper Editor",
-    "url": "https://github.com/maoschanz/dynamic-wallpaper-editor",
+    "url": "https://flathub.org/apps/com.github.maoschanz.DynamicWallpaperEditor",
     "description": "Utility for editing GNOME's XML wallpapers"
   },
   {
@@ -386,37 +381,37 @@
   },
   {
     "name": "AdwSteamGtk",
-    "url": "https://github.com/Foldex/AdwSteamGtk",
+    "url": "https://flathub.org/apps/io.github.Foldex.AdwSteamGtk",
     "description": "Adwaita for Steam skin installer."
   },
   {
     "name": "Flatseal",
-    "url": "https://github.com/tchx84/Flatseal",
+    "url": "https://flathub.org/apps/com.github.tchx84.Flatseal",
     "description": "Flatpak permission manager."
   },
   {
     "name": "Mission Center",
-    "url": "https://missioncenter.io/",
+    "url": "https://missioncenter.io",
     "description": "Monitor your CPU, Memory, Disk, Network and GPU usage."
   },
   {
     "name": "Bottles",
-    "url": "https://github.com/bottlesdevs/Bottles",
+    "url": "https://flathub.org/apps/com.usebottles.bottles",
     "description": "Wine environments manager to run Windows software and games."
   },
   {
     "name": "BoxBuddy",
-    "url": "https://github.com/Dvlv/BoxBuddyRS",
+    "url": "https://flathub.org/apps/io.github.dvlv.boxbuddyrs",
     "description": "Graphical Distrobox manager."
   },
   {
     "name": "Pods",
-    "url": "https://github.com/marhkb/pods",
+    "url": "https://flathub.org/apps/com.github.marhkb.Pods",
     "description": "Podman containers manager."
   },
   {
     "name": "Ptyxis",
-    "url": "https://gitlab.gnome.org/chergert/ptyxis",
+    "url": "https://flathub.org/apps/app.devsuite.Ptyxis",
     "description": "Terminal with first-class support for containers."
   },
   {
@@ -426,42 +421,37 @@
   },
   {
     "name": "Dialect",
-    "url": "https://apps.gnome.org/app/app.drey.Dialect/",
+    "url": "https://apps.gnome.org/Dialect",
     "description": "Translate text."
   },
   {
-    "name": "Markets",
-    "url": "https://apps.gnome.org/app/com.bitstower.Markets/",
-    "description": "Keep track of your investments."
-  },
-  {
     "name": "Audio Sharing",
-    "url": "https://apps.gnome.org/app/de.haeckerfelix.AudioSharing/",
+    "url": "https://apps.gnome.org/AudioSharing",
     "description": "Share your computer audio."
   },
   {
     "name": "Boatswain",
-    "url": "https://apps.gnome.org/app/com.feaneron.Boatswain/",
+    "url": "https://apps.gnome.org/Boatswain",
     "description": "Control your Elgato Stream Decks."
   },
   {
     "name": "Decoder",
-    "url": "https://apps.gnome.org/app/com.belmoussaoui.Decoder/",
+    "url": "https://apps.gnome.org/Decoder",
     "description": "Scan and Generate QR Codes."
   },
   {
     "name": "Junction",
-    "url": "https://apps.gnome.org/app/re.sonny.Junction/",
+    "url": "https://apps.gnome.org/Junction",
     "description": "Junction lets you choose the application to open files and links."
   },
   {
-    "name": "Metronome",
-    "url": "https://apps.gnome.org/app/com.adrienplazas.Metronome/",
-    "description": "Keep the tempo."
+    "name": "Impression",
+    "url": "https://flathub.org/apps/io.gitlab.adhami3310.Impression",
+    "description": "Bootable driver flasher application"
   },
   {
     "name": "Kooha",
-    "url": "https://github.com/SeaDve/Kooha",
+    "url": "https://flathub.org/apps/io.github.seadve.Kooha",
     "description": "Elegantly record your screen."
   },
   {
@@ -476,12 +466,12 @@
   },
   {
     "name": "Detwinner",
-    "url": "https://neatdecisions.com/products/detwinner-linux/",
+    "url": "https://neatdecisions.com/products/detwinner-linux",
     "description": "Simple and fast tool for removing duplicate files."
   },
   {
     "name": "Recipes",
-    "url": "https://gitlab.gnome.org/GNOME/recipes/",
+    "url": "https://gitlab.gnome.org/GNOME/recipes",
     "description": "Cooking application."
   },
   {
@@ -490,58 +480,53 @@
     "description": "Small and highly customizable twin-panel file manager."
   },
   {
-    "name": "Impression",
-    "url": "https://gitlab.com/adhami3310/Impression",
-    "description": "Bootable driver flasher application"
-  },
-  {
     "name": "Lan Mouse",
     "url": "https://github.com/feschber/lan-mouse",
     "description": "Mouse and keyboard sharing software (software KVM switch)."
   },
   {
     "name": "Moussam",
-    "url": "https://github.com/amit9838/mousam",
+    "url": "https://amit9838.github.io/mousam",
     "description": "Weather application with 7 days forecast from Open-Meteo.com."
   },
   {
     "name": "Obfuscate",
-    "url": "https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/",
+    "url": "https://apps.gnome.org/Obfuscate",
     "description": "Censor private information."
   },
   {
     "name": "Metadata Cleaner",
-    "url": "https://apps.gnome.org/app/fr.romainvigier.MetadataCleaner/",
+    "url": "https://apps.gnome.org/MetadataCleaner",
     "description": "View and clean metadata in files."
   },
   {
     "name": "Secrets",
-    "url": "https://apps.gnome.org/app/org.gnome.World.Secrets/",
+    "url": "https://apps.gnome.org/Secrets",
     "description": "Keepass-compatible password manager."
   },
   {
     "name": "Authenticator",
-    "url": "https://apps.gnome.org/app/com.belmoussaoui.Authenticator/",
+    "url": "https://apps.gnome.org/Authenticator",
     "description": "Generate Two-Factor Codes."
   },
   {
     "name": "Collisions",
-    "url": "https://apps.gnome.org/en/app/dev.geopjr.Collision/",
+    "url": "https://apps.gnome.org/Collision",
     "description": "Check hashes for your files."
   },
   {
     "name": "File Shredder",
-    "url": "https://apps.gnome.org/app/com.github.ADBeveridge.Raider/",
+    "url": "https://apps.gnome.org/Raider",
     "description": "Securely delete your files."
   },
   {
     "name": "Key Rack",
-    "url": "https://gitlab.gnome.org/sophie-h/key-rack",
+    "url": "https://flathub.org/apps/app.drey.KeyRack",
     "description": "Tool that allows to view and edit keys, like passwords or tokens, stored by apps."
   },
   {
     "name": "GNOME Builder",
-    "url": "https://apps.gnome.org/app/org.gnome.Builder/",
+    "url": "https://apps.gnome.org/Builder",
     "description": "Official IDE for creating GNOME applications."
   },
   {
@@ -551,42 +536,57 @@
   },
   {
     "name": "Webfont Kit Generator",
-    "url": "https://apps.gnome.org/app/com.rafaelmardojai.WebfontKitGenerator/",
+    "url": "https://apps.gnome.org/WebfontKitGenerator",
     "description": "Create @font-face kits easily."
   },
   {
     "name": "Commit",
-    "url": "https://apps.gnome.org/app/re.sonny.Commit/",
+    "url": "https://apps.gnome.org/Commit",
     "description": "Commit message editor."
   },
   {
     "name": "Workbench",
-    "url": "https://apps.gnome.org/app/re.sonny.Workbench/",
+    "url": "https://apps.gnome.org/Workbench",
     "description": "Learn and prototype with GNOME technologies."
   },
   {
     "name": "Lorem",
-    "url": "https://apps.gnome.org/app/org.gnome.design.Lorem/",
+    "url": "https://apps.gnome.org/Lorem",
     "description": "Generate placeholder text."
   },
   {
     "name": "Share Preview",
-    "url": "https://apps.gnome.org/app/com.rafaelmardojai.SharePreview/",
+    "url": "https://apps.gnome.org/SharePreview",
     "description": "Test social media cards locally."
   },
   {
     "name": "Text Pieces",
-    "url": "https://apps.gnome.org/app/com.github.liferooter.textpieces/",
+    "url": "https://apps.gnome.org/TextPieces",
     "description": "Transform text without using random websites."
   },
   {
+    "name": "Forge Sparks",
+    "url": "https://flathub.org/apps/com.mardojai.ForgeSparks",
+    "description": "Git forge (GitHub, Gitea, Forgejo) desktop notification application."
+  },
+  {
+    "name": "Biblioteca",
+    "url": "https://apps.gnome.org/en/Biblioteca",
+    "description": "GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support."
+  },
+  {
+    "name": "Hieroglyphic",
+    "url": "https://apps.gnome.org/Hieroglyphic",
+    "description": "Application to search for LaTeX symbols by sketching."
+  },
+  {
     "name": "Sysprof",
-    "url": "https://apps.gnome.org/app/org.gnome.Sysprof/",
+    "url": "https://apps.gnome.org/Sysprof",
     "description": "Profile an application or entire system."
   },
   {
     "name": "DevHelp",
-    "url": "https://apps.gnome.org/app/org.gnome.Devhelp/",
+    "url": "https://apps.gnome.org/Devhelp",
     "description": "Developer tool for browsing and searching API documentation."
   },
   {
@@ -595,58 +595,43 @@
     "description": "HTTP-based APIs test application."
   },
   {
-    "name": "Forge Sparks",
-    "url": "https://github.com/rafaelmardojai/forge-sparks",
-    "description": "Git forge (GitHub, Gitea, Forgejo) desktop notification application."
-  },
-  {
     "name": "Turtle",
     "url": "https://gitlab.gnome.org/philippun1/turtle",
     "description": "Tool to manage Git repositories within Nautilus by providing emblems and context menus."
   },
   {
-    "name": "Biblioteca",
-    "url": "https://github.com/workbenchdev/Biblioteca",
-    "description": "GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support."
-  },
-  {
-    "name": "Hieroglyphic",
-    "url": "https://github.com/FineFindus/Hieroglyphic",
-    "description": "Application to search for LaTeX symbols by sketching."
-  },
-  {
     "name": "App Icon Preview",
-    "url": "https://apps.gnome.org/app/org.gnome.design.AppIconPreview/",
+    "url": "https://flathub.org/apps/org.gnome.design.AppIconPreview",
     "description": "Simple utility to preview icons."
   },
   {
     "name": "Palette",
-    "url": "https://apps.gnome.org/app/org.gnome.design.Palette/",
+    "url": "https://flathub.org/apps/org.gnome.design.Palette",
     "description": "Tool for viewing the GNOME colour palette."
   },
   {
     "name": "Contrast",
-    "url": "https://apps.gnome.org/app/org.gnome.design.Contrast/",
+    "url": "https://flathub.org/apps/org.gnome.design.Contrast",
     "description": "Check the contrast between two colors."
   },
   {
     "name": "Icon Library",
-    "url": "https://apps.gnome.org/app/org.gnome.design.IconLibrary/",
+    "url": "https://flathub.org/apps/org.gnome.design.IconLibrary",
     "description": "Symbolic icons for your apps."
   },
   {
     "name": "Symbolic Preview",
-    "url": "https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/",
+    "url": "https://flathub.org/apps/org.gnome.design.SymbolicPreview",
     "description": "Symbolics Made Easy."
   },
   {
     "name": "Emblem",
-    "url": "https://apps.gnome.org/app/org.gnome.design.Emblem/",
+    "url": "https://apps.gnome.org/Emblem",
     "description": "Generate project avatars."
   },
   {
     "name": "Boxes",
-    "url": "https://apps.gnome.org/en/app/org.gnome.Boxes/",
+    "url": "https://apps.gnome.org/Boxes",
     "description": "View, access, and manage remote and virtual systems."
   },
   {
@@ -656,57 +641,57 @@
   },
   {
     "name": "Dash-to-Dock",
-    "url": "https://extensions.gnome.org/extension/307/dash-to-dock/",
+    "url": "https://extensions.gnome.org/extension/307/dash-to-dock",
     "description": "A fully-featured dock."
   },
   {
     "name": "Dash-to-Panel",
-    "url": "https://extensions.gnome.org/extension/1160/dash-to-panel/",
+    "url": "https://extensions.gnome.org/extension/1160/dash-to-panel",
     "description": "Make your desktop more similar to W7/KDE."
   },
   {
     "name": "Dock-from-Dash",
-    "url": "https://extensions.gnome.org/extension/4703/dock-from-dash/",
+    "url": "https://extensions.gnome.org/extension/4703/dock-from-dash",
     "description": "Simply transform your Dash into a Dock."
   },
   {
     "name": "Just Perfection",
-    "url": "https://extensions.gnome.org/extension/3843/just-perfection/",
+    "url": "https://extensions.gnome.org/extension/3843/just-perfection",
     "description": "Customize GNOME Shell."
   },
   {
     "name": "Custom Hot Corners - Extended",
-    "url": "https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/",
+    "url": "https://extensions.gnome.org/extension/4167/custom-hot-corners-extended",
     "description": "Extended - Customize hot corners."
   },
   {
     "name": "Extensions Sync",
-    "url": "https://extensions.gnome.org/extension/1486/extensions-sync/",
+    "url": "https://extensions.gnome.org/extension/1486/extensions-sync",
     "description": "Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations."
   },
   {
     "name": "Quick Settings Tweaker",
-    "url": "https://extensions.gnome.org/extension/5446/quick-settings-tweaker/",
+    "url": "https://extensions.gnome.org/extension/5446/quick-settings-tweaker",
     "description": "Tweak your quick settings menu."
   },
   {
     "name": "Application Menu",
-    "url": "https://extensions.gnome.org/extension/6/applications-menu/",
+    "url": "https://extensions.gnome.org/extension/6/applications-menu",
     "description": "Category-based menu for applications."
   },
   {
     "name": "Places Indicator",
-    "url": "https://extensions.gnome.org/extension/8/places-status-indicator/",
+    "url": "https://extensions.gnome.org/extension/8/places-status-indicator",
     "description": "Menu that provides fast access to your folders."
   },
   {
     "name": "Arc Menu",
-    "url": "https://extensions.gnome.org/extension/3628/arcmenu/",
+    "url": "https://extensions.gnome.org/extension/3628/arcmenu",
     "description": "Windows7-like application menu inspired by the one in Zorin OS."
   },
   {
     "name": "Fly-Pie",
-    "url": "https://extensions.gnome.org/extension/3433/fly-pie/",
+    "url": "https://extensions.gnome.org/extension/3433/fly-pie",
     "description": "Mouse-based menu."
   },
   {
@@ -715,52 +700,52 @@
   },
   {
     "name": "Caffeine",
-    "url": "https://extensions.gnome.org/extension/517/caffeine/",
+    "url": "https://extensions.gnome.org/extension/517/caffeine",
     "description": "Applet that let you deactivate the GNOME lock screen."
   },
   {
     "name": "Removable Drive Menu",
-    "url": "https://extensions.gnome.org/extension/7/removable-drive-menu/",
+    "url": "https://extensions.gnome.org/extension/7/removable-drive-menu",
     "description": "Status menu to show your removable drives."
   },
   {
     "name": "OpenWeather",
-    "url": "https://extensions.gnome.org/extension/750/openweather/",
+    "url": "https://extensions.gnome.org/extension/750/openweather",
     "description": "Weather applet."
   },
   {
     "name": "Clipboard Indicator",
-    "url": "https://extensions.gnome.org/extension/779/clipboard-indicator/",
+    "url": "https://extensions.gnome.org/extension/779/clipboard-indicator",
     "description": "Simple clipboard applet."
   },
   {
     "name": "Desk Changer",
-    "url": "https://extensions.gnome.org/extension/1131/desk-changer/",
+    "url": "https://extensions.gnome.org/extension/1131/desk-changer",
     "description": "Wallpaper slideshow applet."
   },
   {
     "name": "Emoji Selector",
-    "url": "https://extensions.gnome.org/extension/1162/emoji-selector/",
+    "url": "https://extensions.gnome.org/extension/1162/emoji-selector",
     "description": "Emoji picker applet."
   },
   {
     "name": "Todo.txt",
-    "url": "https://extensions.gnome.org/extension/570/todotxt/",
+    "url": "https://extensions.gnome.org/extension/570/todotxt",
     "description": "Interface for todo.txt."
   },
   {
     "name": "Time ++",
-    "url": "https://extensions.gnome.org/extension/1238/time/",
+    "url": "https://extensions.gnome.org/extension/1238/time",
     "description": "A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock."
   },
   {
     "name": "GSConnect",
-    "url": "https://extensions.gnome.org/extension/1319/gsconnect/",
+    "url": "https://extensions.gnome.org/extension/1319/gsconnect",
     "description": "KDE Connect implementation."
   },
   {
     "name": "KStatusNotifiers/AppIndicator Support",
-    "url": "https://extensions.gnome.org/extension/615/appindicator-support/",
+    "url": "https://extensions.gnome.org/extension/615/appindicator-support",
     "description": "Appindicator systray."
   },
   {
@@ -790,12 +775,12 @@
   },
   {
     "name": "Compiz windows effect",
-    "url": "https://extensions.gnome.org/extension/3210/compiz-windows-effect/",
+    "url": "https://extensions.gnome.org/extension/3210/compiz-windows-effect",
     "description": "Adds wobbly effects to windows."
   },
   {
     "name": "Useless Gaps",
-    "url": "https://extensions.gnome.org/extension/4684/useless-gaps/",
+    "url": "https://extensions.gnome.org/extension/4684/useless-gaps",
     "description": "For aesthetic purposes adds useless gaps around tiled and maximized windows."
   },
   {
@@ -805,7 +790,7 @@
   },
   {
     "name": "Burn My Windows",
-    "url": "https://github.com/Schneegans/Burn-My-Windows/",
+    "url": "https://github.com/Schneegans/Burn-My-Windows",
     "description": "Open/Close your windows with style."
   },
   {
@@ -845,7 +830,7 @@
   },
   {
     "name": "Obsidian",
-    "url": "https://github.com/madmaxms/iconpack-obsidian/",
+    "url": "https://github.com/madmaxms/iconpack-obsidian",
     "description": "Continuation of the famous Faenza theme."
   },
   {
@@ -865,7 +850,7 @@
   },
   {
     "name": "ComixCursors",
-    "url": "https://www.gnome-look.org/p/999996/",
+    "url": "https://www.gnome-look.org/p/999996",
     "description": "X11 mouse theme with a comics feeling."
   },
   {
@@ -905,21 +890,21 @@
   },
   {
     "name": "GNOME News Feed",
-    "url": "https://www.gnome.org/news/",
+    "url": "https://www.gnome.org/news",
     "description": "Official news posts."
   },
   {
     "name": "This Week in GNOME",
-    "url": "https://thisweek.gnome.org/",
+    "url": "https://thisweek.gnome.org",
     "description": "Weekly news from project maintainers from the community."
   },
   {
     "name": "Apps for GNOME",
-    "url": "https://apps.gnome.org/"
+    "url": "https://apps.gnome.org"
   },
   {
     "name": "Planet GNOME",
-    "url": "http://planet.gnome.org/",
+    "url": "http://planet.gnome.org",
     "description": "Federation of GNOME Developers' blogs."
   },
   {
@@ -927,8 +912,12 @@
     "url": "https://discourse.gnome.org"
   },
   {
-    "name": "GNOME Wiki",
-    "url": "https://wiki.gnome.org/"
+    "name": "GNOME Project Handbook",
+    "url": "https://handbook.gnome.org"
+  },
+  {
+    "name": "GNOME Wiki (depreciated)",
+    "url": "https://wiki.gnome.org"
   },
   {
     "name": "#gnome on GIMPNet",
@@ -965,7 +954,7 @@
   },
   {
     "name": "libadwaita",
-    "url": "https://gitlab.gnome.org/GNOME/libadwaita/",
+    "url": "https://gitlab.gnome.org/GNOME/libadwaita",
     "description": "Library that contain official GNOME patterns and widgets (GTK4)"
   },
   {
@@ -975,7 +964,7 @@
   },
   {
     "name": "Relm4",
-    "url": "https://relm4.org/",
+    "url": "https://relm4.org",
     "description": "Building native applications with Rust and GTK4"
   },
   {
@@ -985,12 +974,12 @@
   },
   {
     "name": "GNOME Newcomers Wiki",
-    "url": "https://wiki.gnome.org/Newcomers/",
+    "url": "https://wiki.gnome.org/Newcomers",
     "description": "Perfect place to start contributing to GNOME."
   },
   {
     "name": "GNOME Developer Center",
-    "url": "https://developer.gnome.org/",
+    "url": "https://developer.gnome.org",
     "description": "Contains all the official GNOME documentations."
   },
   {
@@ -1000,22 +989,22 @@
   },
   {
     "name": "Valadoc",
-    "url": "https://valadoc.org/",
+    "url": "https://valadoc.org",
     "description": "Documentation about Vala."
   },
   {
     "name": "GJS Documentation",
-    "url": "https://gjs-docs.gnome.org/",
+    "url": "https://gjs-docs.gnome.org",
     "description": "Documentation for the JavaScript GTK bindings."
   },
   {
     "name": "GJS Guide",
-    "url": "https://gjs.guide/",
+    "url": "https://gjs.guide",
     "description": "Guide for GJS."
   },
   {
     "name": "The Python GTK+ 3 Tutorial",
-    "url": "https://python-gtk-3-tutorial.readthedocs.io/en/latest/",
+    "url": "https://python-gtk-3-tutorial.readthedocs.io/en/latest",
     "description": "Introduction to writing GTK+ 3 applications in Python."
   }
 ]
