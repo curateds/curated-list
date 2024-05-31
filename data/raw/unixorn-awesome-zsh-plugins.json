@@ -1111,6 +1111,11 @@
     "description": "Makes it easier to change directories to directories that are subdirs of a user-defined list of directories. Includes tab-completion, session history and pushd, popd and dirs equivalents."
   },
   {
+    "name": "cdh",
+    "url": "https://github.com/johncassol/cdh",
+    "description": "Allows users to manage and navigate through a history of directories they have visited. It maintains a history file of directories and provides several commands to interact with this history."
+  },
+  {
     "name": "cdhist",
     "url": "https://github.com/joknarf/cdhist",
     "description": "cd history/subdir/locatedir navigation. simple cd history, alias builtin cd to add cd history, rapidily swich to already visited directories, can use locate, mlocate or plocate to rapidly cd to any directory"
@@ -6007,6 +6012,11 @@
     "description": "Tab completions for zoxide."
   },
   {
+    "name": "zpacman",
+    "url": "https://github.com/Yttehs-HDX/zsh-zpacman/",
+    "description": "Add tab completions for zpacman."
+  },
+  {
     "name": "021011",
     "url": "https://github.com/guesswhozzz/021011.zsh-theme",
     "description": "Minimalist. Includes a single git marker for VS Code."
@@ -9445,7 +9455,12 @@
     "description": "Simple, minimalist and configurable shell prompt program in C which can be used to make your prompt the same on any shell. Includes exit code and working directory decorations."
   },
   {
-    "name": "pronto",
+    "name": "pronto (arzezak)",
+    "url": "https://github.com/arzezak/pronto",
+    "description": "A super simple prompt with decorators for the current directory and git information."
+  },
+  {
+    "name": "pronto (jthat)",
     "url": "https://github.com/jthat/zsh-pronto",
     "description": "Simple and fast theme with git decorations and timing information."
   },

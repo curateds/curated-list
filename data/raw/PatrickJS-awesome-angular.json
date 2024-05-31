@@ -427,6 +427,10 @@
     "url": "https://blogs.halodoc.io/tag/angular-2-2/"
   },
   {
+    "name": "ninja-squad",
+    "url": "https://blog.ninja-squad.com/"
+  },
+  {
     "name": "marmicode",
     "url": "https://marmicode.io/learn/everything"
   },
@@ -461,6 +465,14 @@
   {
     "name": "Evgeniy Oz",
     "url": "https://medium.com/@eugeniyoz"
+  },
+  {
+    "name": "Tomas Trajan",
+    "url": "https://tomastrajan.medium.com/"
+  },
+  {
+    "name": "Igor Katsuba",
+    "url": "https://blog.katsuba.dev/"
   },
   {
     "name": "Past Angular Cheatsheet",
@@ -1071,6 +1083,11 @@
     "description": "Disqus for Angular."
   },
   {
+    "name": "ngx-papaparse",
+    "url": "https://github.com/alberthaff/ngx-papaparse",
+    "description": "Papa Parse wrapper."
+  },
+  {
     "name": "ngx-admin",
     "url": "https://github.com/akveo/ngx-admin",
     "description": "Customizable admin dashboard template based on Angular 10+."
@@ -1467,6 +1484,11 @@
     "name": "ngx-simple-charts",
     "url": "https://github.com/Angular2Guy/ngx-simple-charts",
     "description": "Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided."
+  },
+  {
+    "name": "ng-flowchart",
+    "url": "https://github.com/joel-wenzel/ng-flowchart",
+    "description": "A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format."
   },
   {
     "name": "ngx-date-fns",
@@ -2856,6 +2878,16 @@
     "description": "Angular service for saving data to CSV file."
   },
   {
+    "name": "@ui-router/angular",
+    "url": "https://github.com/ui-router/angular",
+    "description": "UI-Router for Angular: State-based routing for Angular."
+  },
+  {
+    "name": "ngx-csv-parser",
+    "url": "https://github.com/tofiqquadri/ngx-csv-parser",
+    "description": "CSV Parser for Angular by Developers Hive."
+  },
+  {
     "name": "rxjs",
     "url": "https://rxjs.dev/",
     "description": "Reactive Extensions Library for JavaScript."
@@ -3099,6 +3131,21 @@
     "name": "apollo-angular",
     "url": "https://github.com/kamilkisiela/apollo-angular",
     "description": "A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server."
+  },
+  {
+    "name": "buoy",
+    "url": "https://github.com/buoy-graphql/buoy",
+    "description": "A GraphQL client for Angular built on top of Apollo."
+  },
+  {
+    "name": "ngx-generic-rest-service",
+    "url": "https://github.com/jm2097/ngx-generic-rest-service",
+    "description": "Wrapper for Angular services."
+  },
+  {
+    "name": "@ngify/http",
+    "url": "https://github.com/ngify/ngify/tree/main/packages/http",
+    "description": "A reactive HTTP client in the form of @angular/common/http, offers the following major features: typed response objects, streamlined error handling, request and response interception."
   },
   {
     "name": "Angular Security",

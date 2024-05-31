@@ -181,6 +181,11 @@
     "url": "https://web.archive.org/web/20201108093425/http://www.cs.cmu.edu/~ralf/files.html"
   },
   {
+    "name": "A look back at memory models in 16-bit MS-DOS",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012",
+    "description": "Raymond Chen's explanation of segmented memory, including near- and far pointers."
+  },
+  {
     "name": "Values for standard video mode",
     "url": "https://web.archive.org/web/20200214123701/http://www.columbia.edu/~em36/wpdos/videomodes.txt",
     "description": "List of all known video modes including BIOS interrupt numbers, text/pixel resolution, number of colors and video memory addresses."
@@ -199,6 +204,11 @@
     "name": "Graphical programming in Assembly (DOS)",
     "url": "http://web.archive.org/web/20201112040702/http://www.wagemakers.be/english/doc/vga",
     "description": "A VGA programming tutorial that also shows the list of video modes (text, CGA, EGA, VGA, SVGA) in a table at the beginning."
+  },
+  {
+    "name": "VGA programming lessons",
+    "url": "http://joco.homeserver.hu/vgalessons/",
+    "description": "VGA programming tutorial series in Pascal and Assembly."
   },
   {
     "name": "DOS Super VGA / VESA programming notes - by Myles",
@@ -281,12 +291,12 @@
   },
   {
     "name": "Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard",
-    "url": "https://fabiensanglard.net/b/gebbwolf3d.pdf",
+    "url": "https://web.archive.org/web/20221226120420/https://fabiensanglard.net/b/gebbwolf3d.pdf",
     "description": "by Fabien Sanglard - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carcmack, Tom Hall and John Romero."
   },
   {
     "name": "Game Engine Black Book: Doom - by Fabien Sanglard",
-    "url": "https://fabiensanglard.net/b/gebbdoom.pdf",
+    "url": "https://web.archive.org/web/20221225164613/https://fabiensanglard.net/b/gebbdoom.pdf",
     "description": "by Fabien Sanglard - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carcmack, Dave Taylor and John Romero."
   },
   {
@@ -296,8 +306,8 @@
   },
   {
     "name": "Michael Abrash's Graphics Programming Black Book Special Edition",
-    "url": "https://web.archive.org/web/20201112020812/http://www.phatcode.net/res/224/files/html/index.html",
-    "description": "Collection of Michael Abrash's Dr. Dobb's Journal graphics programming articles and his work on the graphics subsystem of Quake."
+    "url": "https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919",
+    "description": "Collection of Michael Abrash's Dr. Dobb's Journal graphics programming articles and his work on the graphics subsystem of Quake (mirror)."
   },
   {
     "name": "Tricks of the Game-Programming Gurus - by Andre Lamothe, John Ratcliff and Denise Tyler",
@@ -348,6 +358,21 @@
     "name": "What is DOS Protected Mode? / DOS Extenders- Nostalgia Nerd",
     "url": "https://www.youtube.com/watch?v=XAyQLV5bbb0",
     "description": "Video about how PC memory looks like, conventional memory, extender memory and reasons for the need of DOS Protected Mode Interface (DPMI) and extenders like DOS/4GW."
+  },
+  {
+    "name": "MS-DOS has been Open-Sourced! We Build and Run it! - Dave's Garage",
+    "url": "https://www.youtube.com/watch?v=BR6F0EdyulA",
+    "description": "Dave's Garage - Former Microsoft employee David Plummer tells stories about development of MS-DOS and compiles MS-DOS 4.00 source code which has been open-sourced by Microsoft."
+  },
+  {
+    "name": "MS-DOS",
+    "url": "https://github.com/microsoft/MS-DOS",
+    "description": "GitHub repository of the original source code for MS-DOS v1.25, v2.0 and v4.0, open-sourced by Microsoft."
+  },
+  {
+    "name": "FreeDOS",
+    "url": "https://www.freedos.org/",
+    "description": "FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS."
   },
   {
     "name": "Allegro 4.2",

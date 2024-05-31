@@ -423,6 +423,11 @@
     "description": "Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace."
   },
   {
+    "name": "Delilah: eBPF-offload on Computational Storage",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3592980.3595319",
+    "description": "Delilah is a Computational Storage Processor (CSP) built for eBPF offload to storage devices."
+  },
+  {
     "name": "bcc Reference Guide",
     "url": "https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md",
     "description": "Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring."

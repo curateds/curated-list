@@ -1413,6 +1413,11 @@
     "description": "OpenLaw.io. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation \"smart\" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications."
   },
   {
+    "name": "A Language for Counterfactual Generative Models",
+    "url": "http://proceedings.mlr.press/v139/tavares21a.html",
+    "description": "ICML'21, 2021. [All Versions]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do."
+  },
+  {
     "name": "pix2code: Generating Code from a Graphical User Interface Screenshot",
     "url": "https://dl.acm.org/doi/abs/10.1145/3220134.3220135",
     "description": "ACM SIGCHI Symposium on Engineering Interactive Computing Systems, 2018. [All Versions]. [Code]. [Website]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies)."
@@ -3321,11 +3326,6 @@
     "name": "Inferring causal networks from observations and interventions",
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6",
     "description": "Cognitive Science, 2010. [All Versions]."
-  },
-  {
-    "name": "A Language for Counterfactual Generative Models",
-    "url": "http://proceedings.mlr.press/v139/tavares21a.html",
-    "description": "ICML'21, 2021. [All Versions]."
   },
   {
     "name": "Constraints on Hypothesis Selection in Causal Learning",

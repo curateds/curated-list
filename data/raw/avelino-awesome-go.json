@@ -400,6 +400,11 @@
     "description": "Command line tool to frictionlessly manage project-specific commands."
   },
   {
+    "name": "air",
+    "url": "https://github.com/cosmtrek/air",
+    "description": "Air - Live reload for Go apps."
+  },
+  {
     "name": "anko",
     "url": "https://github.com/GuilhermeCaruso/anko",
     "description": "Simple application watcher for multiple programming languages."
@@ -984,11 +989,6 @@
     "description": "Tiny library for reading configuration from a file and from environment variables (with validation & defaults)."
   },
   {
-    "name": "gcfg",
-    "url": "https://github.com/go-gcfg/gcfg",
-    "description": "read INI-style configuration files into Go structs; supports user-defined types and subsections."
-  },
-  {
     "name": "genv",
     "url": "https://github.com/sakirsensoy/genv",
     "description": "Read environment variables easily with dotenv support."
@@ -997,6 +997,11 @@
     "name": "go-aws-ssm",
     "url": "https://github.com/PaddleHQ/go-aws-ssm",
     "description": "Go package that fetches parameters from AWS System Manager - Parameter Store."
+  },
+  {
+    "name": "go-cfg",
+    "url": "https://github.com/dsbasko/go-cfg",
+    "description": "The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env)."
   },
   {
     "name": "go-conf",
@@ -2118,19 +2123,14 @@
     "description": "Go toolset to handle MySQL protocol and replication."
   },
   {
-    "name": "go-mysql-elasticsearch",
-    "url": "https://github.com/siddontang/go-mysql-elasticsearch",
-    "description": "Sync your MySQL data into Elasticsearch automatically."
+    "name": "gorm-multitenancy",
+    "url": "https://github.com/bartventer/gorm-multitenancy",
+    "description": "Multi-tenancy support for GORM managed databases."
   },
   {
     "name": "hasql",
     "url": "https://golang.yandex/hasql",
     "description": "Library for accessing multi-host SQL database installations."
-  },
-  {
-    "name": "kingshard",
-    "url": "https://github.com/flike/kingshard",
-    "description": "kingshard is a high performance proxy for MySQL powered by Golang."
   },
   {
     "name": "octillery",
@@ -2141,11 +2141,6 @@
     "name": "onedump",
     "url": "https://github.com/liweiyi88/onedump",
     "description": "Database backup from different drivers to different destinations with one command and configuration."
-  },
-  {
-    "name": "orchestrator",
-    "url": "https://github.com/github/orchestrator",
-    "description": "MySQL replication topology manager & visualizer."
   },
   {
     "name": "pg_timetable",
@@ -2791,6 +2786,11 @@
     "name": "emitter-io",
     "url": "https://github.com/emitter-io/emitter",
     "description": "High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love."
+  },
+  {
+    "name": "evans",
+    "url": "https://github.com/ktr0731/evans",
+    "description": "Evans: more expressive universal gRPC client."
   },
   {
     "name": "failured",
@@ -8462,6 +8462,11 @@
     "description": "A simple way to generate mocks for multiple purposes."
   },
   {
+    "name": "moq",
+    "url": "https://github.com/matryer/moq",
+    "description": "Utility that generates a struct from any interface. The struct can be used in test code as a mock of the interface."
+  },
+  {
     "name": "timex",
     "url": "https://github.com/cabify/timex",
     "description": "A test-friendly replacement for the native time package."
@@ -9395,11 +9400,6 @@
     "name": "zooz",
     "url": "https://github.com/gojuno/go-zooz",
     "description": "Go client for the Zooz API."
-  },
-  {
-    "name": "air",
-    "url": "https://github.com/cosmtrek/air",
-    "description": "Air - Live reload for Go apps."
   },
   {
     "name": "apm",
