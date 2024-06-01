@@ -382,7 +382,7 @@
   {
     "name": "Kafka-logger",
     "url": "https://github.com/uber/kafka-logger",
-    "description": "Kafka-winston logger for Node.js from uber."
+    "description": "Kafka-winston logger for Node.js from Uber."
   },
   {
     "name": "AWS Kinesis",
@@ -422,7 +422,7 @@
   {
     "name": "Gobblin",
     "url": "https://github.com/apache/incubator-gobblin",
-    "description": "Universal data ingestion framework for Hadoop from Linkedin."
+    "description": "Universal data ingestion framework for Hadoop from LinkedIn."
   },
   {
     "name": "Nakadi",
@@ -440,7 +440,7 @@
     "description": "Apache Pulsar is an open-source distributed pub-sub messaging system."
   },
   {
-    "name": "AWS Data Wranlger",
+    "name": "AWS Data Wrangler",
     "url": "https://github.com/awslabs/aws-data-wrangler",
     "description": "Utility belt to handle data on AWS."
   },
@@ -492,7 +492,12 @@
   {
     "name": "CEPH",
     "url": "https://ceph.com/",
-    "description": "Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability."
+    "description": "Ceph is a unified, distributed storage system designed for excellent performance, reliability, and scalability."
+  },
+  {
+    "name": "JuiceFS",
+    "url": "https://github.com/juicedata/juicefs",
+    "description": "JuiceFS is a high-performance Cloud-Native file system driven by object storage for large-scale data storage."
   },
   {
     "name": "OrangeFS",
@@ -502,7 +507,7 @@
   {
     "name": "SnackFS",
     "url": "https://github.com/tuplejump/snackfs-release",
-    "description": "SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra."
+    "description": "SnackFS is our bite-sized, lightweight HDFS compatible file system built over Cassandra."
   },
   {
     "name": "GlusterFS",
@@ -647,7 +652,7 @@
   {
     "name": "Zilla",
     "url": "https://github.com/aklivity/zilla",
-    "description": "- An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol."
+    "description": "- An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol."
   },
   {
     "name": "Hadoop MapReduce",
@@ -797,7 +802,7 @@
   {
     "name": "D3Plus",
     "url": "https://d3plus.org",
-    "description": "D3's simplier, easier to use cousin. Mostly predefined templates that you can just plug data in."
+    "description": "D3's simpler, easier to use cousin. Mostly predefined templates that you can just plug data in."
   },
   {
     "name": "SmoothieCharts",
@@ -852,12 +857,12 @@
   {
     "name": "Airflow",
     "url": "https://github.com/apache/airflow",
-    "description": "Airflow is a system to programmaticaly author, schedule and monitor data pipelines."
+    "description": "Airflow is a system to programmatically author, schedule, and monitor data pipelines."
   },
   {
     "name": "Azkaban",
     "url": "https://azkaban.github.io/",
-    "description": "Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows."
+    "description": "Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy-to-use web user interface to maintain and track your workflows."
   },
   {
     "name": "Oozie",
@@ -867,7 +872,7 @@
   {
     "name": "Pinball",
     "url": "https://github.com/pinterest/pinball",
-    "description": "DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs."
+    "description": "DAG based workflow manager. Job flows are defined programmatically in Python. Support output passing between jobs."
   },
   {
     "name": "Dagster",
@@ -937,7 +942,7 @@
   {
     "name": "docker-logstash",
     "url": "https://github.com/pblittle/docker-logstash",
-    "description": "A highly configurable logstash (1.4.4) - docker image running Elasticsearch (1.7.0) - and Kibana (3.1.2)."
+    "description": "A highly configurable Logstash (1.4.4) - Docker image running Elasticsearch (1.7.0) - and Kibana (3.1.2)."
   },
   {
     "name": "elasticsearch-jdbc",
@@ -952,7 +957,7 @@
   {
     "name": "Gockerize",
     "url": "https://github.com/redbooth/gockerize",
-    "description": "Package golang service into minimal docker containers."
+    "description": "Package golang service into minimal Docker containers."
   },
   {
     "name": "Flocker",
@@ -997,12 +1002,12 @@
   {
     "name": "Nomad",
     "url": "https://github.com/hashicorp/nomad",
-    "description": "Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads."
+    "description": "Nomad is a cluster manager, designed for both long-lived services and short-lived batch processing workloads."
   },
   {
     "name": "ImageLayers",
     "url": "https://imagelayers.io/",
-    "description": "Vizualize docker images and the layers that compose them."
+    "description": "Visualize Docker images and the layers that compose them."
   },
   {
     "name": "Twitter Realtime",
@@ -1032,7 +1037,7 @@
   {
     "name": "Wikipedia",
     "url": "https://dumps.wikimedia.org/enwiki/latest/",
-    "description": "Wikipedia's complete copy of all wikis, in the form of wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available."
+    "description": "Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available."
   },
   {
     "name": "Prometheus.io",
@@ -1062,7 +1067,7 @@
   {
     "name": "/r/dataengineering",
     "url": "https://www.reddit.com/r/dataengineering/",
-    "description": "News, tips and background on Data Engineering."
+    "description": "News, tips, and background on Data Engineering."
   },
   {
     "name": "/r/etl",

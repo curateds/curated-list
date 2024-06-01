@@ -1,10 +1,5 @@
 [
   {
-    "name": "SaltStack site",
-    "url": "https://www.saltstack.com/",
-    "description": "Company website."
-  },
-  {
     "name": "Salt Project site",
     "url": "https://saltproject.io/",
     "description": "Salt Project (Salt Open Source) website."
@@ -37,7 +32,7 @@
   {
     "name": "SaltStack Get Started",
     "url": "https://docs.saltproject.io/en/getstarted/",
-    "description": "These tutorials walk you through the basics of getting SaltStack up and running. 💎"
+    "description": "These tutorials walk you through the basics of getting SaltStack up and running."
   },
   {
     "name": "Training and certification",
@@ -57,7 +52,7 @@
   {
     "name": "About SaltStack",
     "url": "http://www.yet.org/2016/09/salt/",
-    "description": "Extensive blogpost with lots of in-depth information. 💎"
+    "description": "Extensive blogpost with lots of in-depth information."
   },
   {
     "name": "A dive into SaltStack",
@@ -442,7 +437,7 @@
   {
     "name": "Prometheus - Auto-deploying Consul and Exporters using Saltstack",
     "url": "https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/",
-    "description": "Auto-deploying Consul and Exporters using Saltstack - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. 💎"
+    "description": "Auto-deploying Consul and Exporters using Saltstack - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux."
   },
   {
     "name": "Network Automation at Scale",

@@ -4734,6 +4734,11 @@
     "description": "Automatically activate a directory's pip environment if pipenv detects the presence of one."
   },
   {
+    "name": "yazi-zoxide",
+    "url": "https://github.com/fdw/yazi-zoxide-zsh",
+    "description": "This plugin for zsh adds just one shortcut, but unfolds the magic of both Zoxide and yazi. Without arguments, y just opens yazi. If you supply an argument that is a directory, yazi is opened in that directory. But if you supply anything else as an argument, zoxide is called with the argument and yazi is opened there."
+  },
+  {
     "name": "yeoman",
     "url": "https://github.com/edouard-lopez/yeoman-zsh-plugin",
     "description": "Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (includes options and command auto-completion)."
@@ -6275,6 +6280,11 @@
     "name": "apollo",
     "url": "https://github.com/mjrafferty/apollo-zsh-theme",
     "description": "A heavily customizable, compatible and performant ZSH theme that uses modules to enable features."
+  },
+  {
+    "name": "appa",
+    "url": "https://github.com/givensuman/appa-zsh-theme",
+    "description": "A tidy little theme based on omz's refined. Requires a Nerd Font."
   },
   {
     "name": "apple (aramirol)",
