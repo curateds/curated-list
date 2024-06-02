@@ -7932,6 +7932,11 @@
     "description": "A realtime distributed messaging platform."
   },
   {
+    "name": "pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "description": "PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more."
+  },
+  {
     "name": "protoxy",
     "url": "https://github.com/camgraff/protoxy",
     "description": "A proxy server that converts JSON request bodies to Protocol Buffers."

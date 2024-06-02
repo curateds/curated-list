@@ -1281,14 +1281,19 @@
     "description": "This plugin tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator to create a completion script."
   },
   {
+    "name": "conda (themysciradata)",
+    "url": "https://github.com/ThemysciraData/conda.plugin.zsh",
+    "description": "Adds function to provide a prompt segment for conda and aliases for some base functions."
+  },
+  {
+    "name": "conda (wardhanisukoco)",
+    "url": "https://github.com/wardhanisukoco/zsh-plugin-conda/",
+    "description": "Automatically loads conda and provides functions for detecting conda versions for use in themes."
+  },
+  {
     "name": "conda-init",
     "url": "https://github.com/commiyou/conda-init-zsh-plugin",
     "description": "Cleans up environment variables so conda doesn't mess up tmux."
-  },
-  {
-    "name": "conda",
-    "url": "https://github.com/ThemysciraData/conda.plugin.zsh",
-    "description": "Adds function to provide a prompt segment for conda and aliases for some base functions."
   },
   {
     "name": "condaenv",
@@ -5917,9 +5922,14 @@
     "description": "Universal completion for Symfony based CLI applications: composer, php-cs-fix, bin/console, artisan, php-cs-fixer and etc. This supports autocompletion for subcommands and GNU-style options (--help)"
   },
   {
-    "name": "tailscale",
+    "name": "tailscale (heroeslament)",
     "url": "https://github.com/HeroesLament/zsh-tailscale-plugin",
     "description": "Tab completion and aliases for tailscale."
+  },
+  {
+    "name": "tailscale (hsrzq)",
+    "url": "https://github.com/hsrzq/PluginForTailscale",
+    "description": "Tab completions for tailscale. Only works on macOS."
   },
   {
     "name": "talosctl",

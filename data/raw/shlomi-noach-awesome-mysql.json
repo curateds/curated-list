@@ -26,7 +26,7 @@
   },
   {
     "name": "MySQLTuner-perl",
-    "url": "http://mysqltuner.com",
+    "url": "https://github.com/major/MySQLTuner-perl",
     "description": "A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability."
   },
   {
@@ -45,13 +45,18 @@
     "description": "a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema."
   },
   {
+    "name": "Wireshark",
+    "url": "https://gitlab.com/wireshark/wireshark/",
+    "description": "a protocol analyzer that can decode the MySQL protocol."
+  },
+  {
     "name": "Dumpling",
     "url": "https://github.com/pingcap/tidb/tree/master/dumpling",
     "description": "Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library"
   },
   {
     "name": "MyDumper",
-    "url": "https://github.com/maxbube/mydumper",
+    "url": "https://github.com/mydumper/mydumper",
     "description": "Logical, parallel backup/dumper tool for MySQL"
   },
   {
@@ -61,7 +66,7 @@
   },
   {
     "name": "Percona Xtrabackup",
-    "url": "http://www.percona.com/doc/percona-xtrabackup",
+    "url": "https://github.com/percona/percona-xtrabackup",
     "description": "an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup."
   },
   {
@@ -81,7 +86,7 @@
   },
   {
     "name": "TPCC-MySQL",
-    "url": "https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql",
+    "url": "https://github.com/Percona-Lab/tpcc-mysql",
     "description": "A port of the popular TPCC benchmark for MySQL."
   },
   {
@@ -165,12 +170,12 @@
   },
   {
     "name": "mysqlclient-python",
-    "url": "https://github.com/PyMySQL/mysqlclient-python",
+    "url": "https://github.com/PyMySQL/mysqlclient",
     "description": "(Old) MySQL database connector for Python."
   },
   {
     "name": "node-mysql",
-    "url": "https://github.com/felixge/node-mysql",
+    "url": "https://github.com/mysqljs/node",
     "description": "A pure Nodejs Javascript client implementing the MySQL protocol."
   },
   {
@@ -280,7 +285,7 @@
   },
   {
     "name": "SQLyog Community edition",
-    "url": "https://github.com/webyog/sqlyog-community/wiki/Downloads",
+    "url": "https://github.com/webyog/sqlyog-community",
     "description": "SQLyog Community edition. For Windows, works fine under wine in Mac and Linux"
   },
   {
@@ -291,6 +296,10 @@
   {
     "name": "OmniDB/OmniDB: Web tool for database management",
     "url": "https://github.com/OmniDB/OmniDB"
+  },
+  {
+    "name": "WebDB",
+    "url": "https://github.com/WebDB-App/app"
   },
   {
     "name": "Galera Cluster",
@@ -304,7 +313,7 @@
   },
   {
     "name": "orchestrator",
-    "url": "https://github.com/github/orchestrator",
+    "url": "https://github.com/openark/orchestrator",
     "description": "MySQL replication topology management and High Availability solution."
   },
   {
@@ -318,18 +327,13 @@
     "description": "a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies."
   },
   {
-    "name": "Mixer",
-    "url": "https://github.com/siddontang/mixer",
-    "description": "a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding."
-  },
-  {
     "name": "MySQL Proxy",
     "url": "https://launchpad.net/mysql-proxy",
     "description": "A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication."
   },
   {
     "name": "ProxySQL",
-    "url": "https://github.com/renecannao/proxysql",
+    "url": "https://github.com/sysown/proxysql",
     "description": "High performance proxy for MySQL."
   },
   {
@@ -394,7 +398,7 @@
   },
   {
     "name": "go-mysql",
-    "url": "https://github.com/siddontang/go-mysql",
+    "url": "https://github.com/go-mysql-org/go-mysql",
     "description": "A pure go library to handle MySQL network protocol and replication."
   },
   {
@@ -409,7 +413,7 @@
   },
   {
     "name": "UnDROP",
-    "url": "https://bitbucket.org/Marc-T/undrop-for-innodb",
+    "url": "https://github.com/twindb/undrop-for-innodb",
     "description": "a tool to recover data from dropped or corrupted InnoDB tables."
   },
   {
