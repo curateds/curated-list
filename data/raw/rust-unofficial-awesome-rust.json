@@ -33,8 +33,7 @@
   },
   {
     "name": "EasyTier",
-    "url": "https://github.com/EasyTier/EasyTier",
-    "description": "A simple, full-featured and decentralized mesh VPN with WireGuard support."
+    "url": "https://github.com/EasyTier/EasyTier"
   },
   {
     "name": "Factotum",
@@ -46,8 +45,7 @@
   },
   {
     "name": "fend",
-    "url": "https://github.com/printfn/fend",
-    "description": "Arbitrary-precision unit-aware calculator"
+    "url": "https://github.com/printfn/fend"
   },
   {
     "name": "Fractalide",
@@ -67,8 +65,7 @@
   },
   {
     "name": "innernet",
-    "url": "https://github.com/tonarino/innernet",
-    "description": "An overlay or private mesh network that uses Wireguard under the hood"
+    "url": "https://github.com/tonarino/innernet"
   },
   {
     "name": "jedisct1/flowgger",
@@ -76,13 +73,11 @@
   },
   {
     "name": "kalker",
-    "url": "https://github.com/PaddiM8/kalker",
-    "description": "A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross-platform + WASM support"
+    "url": "https://github.com/PaddiM8/kalker"
   },
   {
     "name": "kftray",
-    "url": "https://github.com/hcavarsan/kftray",
-    "description": "A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations."
+    "url": "https://github.com/hcavarsan/kftray"
   },
   {
     "name": "kytan",
@@ -122,8 +117,7 @@
   },
   {
     "name": "Rio",
-    "url": "https://github.com/raphamorim/rio",
-    "description": "A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers."
+    "url": "https://github.com/raphamorim/rio"
   },
   {
     "name": "rx",
@@ -135,8 +129,7 @@
   },
   {
     "name": "shoes",
-    "url": "https://github.com/cfal/shoes",
-    "description": "A multi-protocol proxy server"
+    "url": "https://github.com/cfal/shoes"
   },
   {
     "name": "shuttle",
@@ -200,8 +193,7 @@
   },
   {
     "name": "ncspot",
-    "url": "https://github.com/hrkfdn/ncspot",
-    "description": "Cross-platform ncurses Spotify client, inspired by ncmpc and the likes."
+    "url": "https://github.com/hrkfdn/ncspot"
   },
   {
     "name": "Pinepods",
@@ -221,8 +213,7 @@
   },
   {
     "name": "termusic",
-    "url": "https://github.com/tramhao/termusic",
-    "description": "Music Player TUI written"
+    "url": "https://github.com/tramhao/termusic"
   },
   {
     "name": "WhatBPM",
@@ -230,13 +221,11 @@
   },
   {
     "name": "artemis",
-    "url": "https://github.com/paradigmxyz/artemis",
-    "description": "A simple, modular, and fast framework for writing MEV bots."
+    "url": "https://github.com/paradigmxyz/artemis"
   },
   {
     "name": "beerus",
-    "url": "https://github.com/eigerco/beerus",
-    "description": "Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡"
+    "url": "https://github.com/eigerco/beerus"
   },
   {
     "name": "Bitcoin Satoshi's Vision",
@@ -244,8 +233,7 @@
   },
   {
     "name": "cairo",
-    "url": "https://github.com/starkware-libs/cairo",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of StarkNet, a ZK-Rollup using STARK proofs"
+    "url": "https://github.com/starkware-libs/cairo"
   },
   {
     "name": "cairo-vm",
@@ -273,8 +261,7 @@
   },
   {
     "name": "ethabi",
-    "url": "https://github.com/rust-ethereum/ethabi",
-    "description": "Encode and decode smart contract invocations."
+    "url": "https://github.com/rust-ethereum/ethabi"
   },
   {
     "name": "ethaddrgen",
@@ -282,23 +269,19 @@
   },
   {
     "name": "ethers-rs",
-    "url": "https://github.com/gakonst/ethers-rs",
-    "description": "Complete Ethereum & Celo library and wallet implementation."
+    "url": "https://github.com/gakonst/ethers-rs"
   },
   {
     "name": "etk",
-    "url": "https://github.com/quilt/etk",
-    "description": "etk is a collection of tools for writing, reading, and analyzing EVM bytecode."
+    "url": "https://github.com/quilt/etk"
   },
   {
     "name": "Forest",
-    "url": "https://github.com/ChainSafe/forest",
-    "description": "Filecoin implementation"
+    "url": "https://github.com/ChainSafe/forest"
   },
   {
     "name": "Foundry",
-    "url": "https://github.com/foundry-rs/foundry",
-    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development."
+    "url": "https://github.com/foundry-rs/foundry"
   },
   {
     "name": "Grin",
@@ -318,8 +301,7 @@
   },
   {
     "name": "ibc-rs",
-    "url": "https://github.com/informalsystems/hermes",
-    "description": "Implementation of the Interblockchain Communication protocol"
+    "url": "https://github.com/informalsystems/hermes"
   },
   {
     "name": "infincia/bip39-rs",
@@ -339,13 +321,11 @@
   },
   {
     "name": "madara",
-    "url": "https://github.com/keep-starknet-strange/madara",
-    "description": "Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate."
+    "url": "https://github.com/keep-starknet-strange/madara"
   },
   {
     "name": "mev-inspect-rs",
-    "url": "https://github.com/flashbots/mev-inspect-rs",
-    "description": "Ethereum MEV Inspector."
+    "url": "https://github.com/flashbots/mev-inspect-rs"
   },
   {
     "name": "near/nearcore",
@@ -357,8 +337,7 @@
   },
   {
     "name": "opensea-rs",
-    "url": "https://github.com/gakonst/opensea-rs",
-    "description": "Bindings & CLI to the Opensea API and Contracts."
+    "url": "https://github.com/gakonst/opensea-rs"
   },
   {
     "name": "Parity-Bitcoin",
@@ -374,8 +353,7 @@
   },
   {
     "name": "revm",
-    "url": "https://github.com/bluealloy/revm",
-    "description": "Revolutionary Machine (revm) is a fast Ethereum virtual machine."
+    "url": "https://github.com/bluealloy/revm"
   },
   {
     "name": "rust-bitcoin",
@@ -395,8 +373,7 @@
   },
   {
     "name": "Subspace",
-    "url": "https://github.com/subspace/subspace",
-    "description": "The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization."
+    "url": "https://github.com/subspace/subspace"
   },
   {
     "name": "Sui",
@@ -404,13 +381,11 @@
   },
   {
     "name": "svm-rs",
-    "url": "https://github.com/alloy-rs/svm-rs",
-    "description": "Solidity-Compiler Version Manager."
+    "url": "https://github.com/alloy-rs/svm-rs"
   },
   {
     "name": "tendermint-rs",
-    "url": "https://github.com/informalsystems/tendermint-rs",
-    "description": "Tendermint blockchain data structures and clients"
+    "url": "https://github.com/informalsystems/tendermint-rs"
   },
   {
     "name": "wagyu",
@@ -422,23 +397,19 @@
   },
   {
     "name": "Atomic-Server",
-    "url": "https://github.com/atomicdata-dev/atomic-server/",
-    "description": "NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes."
+    "url": "https://github.com/atomicdata-dev/atomic-server/"
   },
   {
     "name": "CozoDB",
-    "url": "https://github.com/cozodb/cozo",
-    "description": "A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast!"
+    "url": "https://github.com/cozodb/cozo"
   },
   {
     "name": "darkbird",
-    "url": "https://github.com/Rustixir/darkbird",
-    "description": "HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia"
+    "url": "https://github.com/Rustixir/darkbird"
   },
   {
     "name": "Databend",
-    "url": "https://github.com/datafuselabs/databend",
-    "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture"
+    "url": "https://github.com/datafuselabs/databend"
   },
   {
     "name": "DB3 Network",
@@ -458,8 +429,7 @@
   },
   {
     "name": "GreptimeDB",
-    "url": "https://github.com/grepTimeTeam/greptimedb/",
-    "description": "An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported."
+    "url": "https://github.com/grepTimeTeam/greptimedb/"
   },
   {
     "name": "indradb",
@@ -475,13 +445,11 @@
   },
   {
     "name": "Materialize",
-    "url": "https://github.com/MaterializeInc/materialize",
-    "description": "Streaming SQL database powered by Timely Dataflow 💲"
+    "url": "https://github.com/MaterializeInc/materialize"
   },
   {
     "name": "native_db",
-    "url": "https://github.com/vincent-herlemont/native_db",
-    "description": "Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly"
+    "url": "https://github.com/vincent-herlemont/native_db"
   },
   {
     "name": "Neon",
@@ -493,8 +461,7 @@
   },
   {
     "name": "ParadeDB",
-    "url": "https://github.com/paradedb/paradedb/",
-    "description": "ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics."
+    "url": "https://github.com/paradedb/paradedb/"
   },
   {
     "name": "ParityDB",
@@ -506,18 +473,15 @@
   },
   {
     "name": "Qdrant",
-    "url": "https://github.com/qdrant/qdrant",
-    "description": "An open source vector similarity search engine with extended filtering support"
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "name": "Qrlew/qrlew",
-    "url": "https://github.com/Qrlew/qrlew",
-    "description": "The SQL-to-SQL Differential Privacy layer"
+    "url": "https://github.com/Qrlew/qrlew"
   },
   {
     "name": "RisingWaveLabs/RisingWave",
-    "url": "https://github.com/RisingWaveLabs/risingwave",
-    "description": "the next-generation streaming database in the cloud"
+    "url": "https://github.com/RisingWaveLabs/risingwave"
   },
   {
     "name": "seppo0010/rsedis",
@@ -541,8 +505,7 @@
   },
   {
     "name": "TerminusDB",
-    "url": "https://github.com/terminusdb/terminusdb-store",
-    "description": "open source graph database and document store"
+    "url": "https://github.com/terminusdb/terminusdb-store"
   },
   {
     "name": "tikv",
@@ -550,8 +513,7 @@
   },
   {
     "name": "USearch",
-    "url": "https://github.com/unum-cloud/usearch",
-    "description": "Similarity Search Engine for Vectors and Strings"
+    "url": "https://github.com/unum-cloud/usearch"
   },
   {
     "name": "vorot93/libmdbx-rs",
@@ -559,8 +521,7 @@
   },
   {
     "name": "WooriDB",
-    "url": "https://github.com/naomijub/wooridb",
-    "description": "General purpose time serial database inspired by Crux and Datomic."
+    "url": "https://github.com/naomijub/wooridb"
   },
   {
     "name": "ColinEberhardt/wasm-rust-chip8",
@@ -612,13 +573,11 @@
   },
   {
     "name": "michelhe/rustboyadvance-ng",
-    "url": "https://github.com/michelhe/rustboyadvance-ng",
-    "description": "RustboyAdvance-ng is a Gameboy Advance emulator with desktop, android and WebAssembly support."
+    "url": "https://github.com/michelhe/rustboyadvance-ng"
   },
   {
     "name": "michelhe/rustboyadvance-ng",
-    "url": "https://github.com/michelhe/rustboyadvance-ng",
-    "description": "RustboyAdvance-ng is a Gameboy Advance emulator with desktop, android and WebAssembly support."
+    "url": "https://github.com/michelhe/rustboyadvance-ng"
   },
   {
     "name": "OpenGMK",
@@ -706,23 +665,19 @@
   },
   {
     "name": "broot",
-    "url": "https://github.com/Canop/broot",
-    "description": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading dystroy.org/broot"
+    "url": "https://github.com/Canop/broot"
   },
   {
     "name": "joshuto",
-    "url": "https://github.com/kamiyaa/joshuto",
-    "description": "ranger-like terminal file manager"
+    "url": "https://github.com/kamiyaa/joshuto"
   },
   {
     "name": "xplr",
-    "url": "https://github.com/sayanarijit/xplr",
-    "description": "A hackable, minimal, fast TUI file explorer"
+    "url": "https://github.com/sayanarijit/xplr"
   },
   {
     "name": "yazi",
-    "url": "https://github.com/sxyazi/yazi",
-    "description": "Blazing fast terminal file manager, based on async I/O."
+    "url": "https://github.com/sxyazi/yazi"
   },
   {
     "name": "chess-tui",
@@ -758,8 +713,7 @@
   },
   {
     "name": "mcthesw/game-save-manager",
-    "url": "https://github.com/mcthesw/game-save-manager",
-    "description": "A user-friendly tool for managing game saves"
+    "url": "https://github.com/mcthesw/game-save-manager"
   },
   {
     "name": "mtkennerly/ludusavi",
@@ -787,8 +741,7 @@
   },
   {
     "name": "thetawavegame/thetawave-legacy",
-    "url": "https://github.com/thetawavegame/thetawave-legacy",
-    "description": "A space shooter game that strives to be an entry point for new game developers to make their first contributions."
+    "url": "https://github.com/thetawavegame/thetawave-legacy"
   },
   {
     "name": "Thinkofname/rust-quake",
@@ -796,8 +749,7 @@
   },
   {
     "name": "ttyperacer/terminal-typeracer",
-    "url": "https://gitlab.com/ttyperacer/terminal-typeracer",
-    "description": "Single player typing test game written for the terminal"
+    "url": "https://gitlab.com/ttyperacer/terminal-typeracer"
   },
   {
     "name": "Veloren",
@@ -809,13 +761,11 @@
   },
   {
     "name": "dps/rust-raytracer",
-    "url": "https://github.com/dps/rust-raytracer",
-    "description": "An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley."
+    "url": "https://github.com/dps/rust-raytracer"
   },
   {
     "name": "flxzt/rnote",
-    "url": "https://github.com/flxzt/rnote",
-    "description": "Sketch and take handwritten notes."
+    "url": "https://github.com/flxzt/rnote"
   },
   {
     "name": "ivanceras/svgbob",
@@ -835,8 +785,7 @@
   },
   {
     "name": "rodrigorc/papercraft",
-    "url": "https://github.com/rodrigorc/papercraft",
-    "description": "A tool to unwrap 3D models and create them in paper with scissors and glue."
+    "url": "https://github.com/rodrigorc/papercraft"
   },
   {
     "name": "rustq/vue-skia",
@@ -877,7 +826,7 @@
   {
     "name": "openobserve",
     "url": "https://github.com/openobserve/openobserve",
-    "description": "10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative."
+    "description": "Elasticsearch/Splunk/Datadog alternative."
   },
   {
     "name": "OpenTelemetry",
@@ -885,13 +834,11 @@
   },
   {
     "name": "Quickwit-oss/quickwit",
-    "url": "https://github.com/quickwit-oss/quickwit",
-    "description": "Cloud-native and highly cost-efficient search engine for log management."
+    "url": "https://github.com/quickwit-oss/quickwit"
   },
   {
     "name": "Scaphandre",
-    "url": "https://github.com/hubblo-org/scaphandre",
-    "description": "A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...)."
+    "url": "https://github.com/hubblo-org/scaphandre"
   },
   {
     "name": "vectordotdev/vector",
@@ -935,13 +882,11 @@
   },
   {
     "name": "ast-grep",
-    "url": "https://github.com/ast-grep/ast-grep",
-    "description": "A CLI tool for code structural search, lint and rewriting."
+    "url": "https://github.com/ast-grep/ast-grep"
   },
   {
     "name": "Bartib",
-    "url": "https://github.com/nikolassv/bartib",
-    "description": "A simple timetracker for the command line"
+    "url": "https://github.com/nikolassv/bartib"
   },
   {
     "name": "espanso",
@@ -953,18 +898,15 @@
   },
   {
     "name": "Furtherance",
-    "url": "https://github.com/lakoliu/Furtherance",
-    "description": "Time tracking app built with GTK4"
+    "url": "https://github.com/lakoliu/Furtherance"
   },
   {
     "name": "illacloud/illa",
-    "url": "https://github.com/illacloud/illa",
-    "description": "Low-code internal tool builder."
+    "url": "https://github.com/illacloud/illa"
   },
   {
     "name": "LLDAP",
-    "url": "https://github.com/lldap/lldap",
-    "description": "Simplified LDAP interface for authentication."
+    "url": "https://github.com/lldap/lldap"
   },
   {
     "name": "pier-cli/pier",
@@ -972,8 +914,7 @@
   },
   {
     "name": "ShadoySV/work-break",
-    "url": "https://github.com/ShadoySV/work-break",
-    "description": "Work and rest time balancer taking into account your current and today strain"
+    "url": "https://github.com/ShadoySV/work-break"
   },
   {
     "name": "yashs662/rust_kanban",
@@ -981,53 +922,44 @@
   },
   {
     "name": "Holo",
-    "url": "https://github.com/holo-routing/holo",
-    "description": "Holo is a suite of routing protocols designed to support high-scale and automation-driven networks"
+    "url": "https://github.com/holo-routing/holo"
   },
   {
     "name": "RustyBGP",
-    "url": "https://github.com/osrg/rustybgp",
-    "description": "BGP"
+    "url": "https://github.com/osrg/rustybgp"
   },
   {
     "name": "AFLplusplus/LibAFL",
     "url": "https://github.com/AFLplusplus/LibAFL",
-    "description": "Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, etc."
+    "description": "Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, etc."
   },
   {
     "name": "arp-scan-rs",
-    "url": "https://github.com/kongbytes/arp-scan-rs",
-    "description": "A minimalistic ARP scan tool for fast local network scans"
+    "url": "https://github.com/kongbytes/arp-scan-rs"
   },
   {
     "name": "cargo-audit",
-    "url": "https://crates.io/crates/cargo-audit",
-    "description": "Audit Cargo.lock for crates with security vulnerabilities"
+    "url": "https://crates.io/crates/cargo-audit"
   },
   {
     "name": "cargo-auditable",
-    "url": "https://crates.io/crates/cargo-auditable",
-    "description": "Make production Rust binaries auditable"
+    "url": "https://crates.io/crates/cargo-auditable"
   },
   {
     "name": "cargo-crev",
-    "url": "https://crates.io/crates/cargo-crev",
-    "description": "A cryptographically verifiable code review system for the cargo package manager."
+    "url": "https://crates.io/crates/cargo-crev"
   },
   {
     "name": "cargo-deny",
-    "url": "https://crates.io/crates/cargo-deny",
-    "description": "Cargo plugin to help you manage large dependency graphs"
+    "url": "https://crates.io/crates/cargo-deny"
   },
   {
     "name": "Cherrybomb",
-    "url": "https://github.com/blst-security/cherrybomb",
-    "description": "Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications."
+    "url": "https://github.com/blst-security/cherrybomb"
   },
   {
     "name": "cotp",
-    "url": "https://github.com/replydev/cotp",
-    "description": "Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
+    "url": "https://github.com/replydev/cotp"
   },
   {
     "name": "entropic-security/xgadget",
@@ -1035,13 +967,11 @@
   },
   {
     "name": "epi052/feroxbuster",
-    "url": "https://github.com/epi052/feroxbuster",
-    "description": "A simple, fast, recursive content discovery tool."
+    "url": "https://github.com/epi052/feroxbuster"
   },
   {
     "name": "Inspektor",
-    "url": "https://github.com/inspektor-dev/inspektor",
-    "description": "A database protocol-aware proxy that is used to enforce access policies 👮"
+    "url": "https://github.com/inspektor-dev/inspektor"
   },
   {
     "name": "kpcyrd/authoscope",
@@ -1065,8 +995,7 @@
   },
   {
     "name": "Raspirus",
-    "url": "https://github.com/Raspirus/Raspirus",
-    "description": "User- and resources-friendly signatures-based malware scanner"
+    "url": "https://github.com/Raspirus/Raspirus"
   },
   {
     "name": "ripasso",
@@ -1078,13 +1007,11 @@
   },
   {
     "name": "Rustodon",
-    "url": "https://github.com/rustodon/rustodon",
-    "description": "A Mastodon-compatible, ActivityPub-speaking server."
+    "url": "https://github.com/rustodon/rustodon"
   },
   {
     "name": "Rustodon",
-    "url": "https://github.com/rustodon/rustodon",
-    "description": "A Mastodon-compatible, ActivityPub-speaking server."
+    "url": "https://github.com/rustodon/rustodon"
   },
   {
     "name": "ajeetdsouza/zoxide",
@@ -1100,8 +1027,7 @@
   },
   {
     "name": "bottom",
-    "url": "https://github.com/ClementTsang/bottom",
-    "description": "Yet another cross-platform graphical process/system monitor."
+    "url": "https://github.com/ClementTsang/bottom"
   },
   {
     "name": "brocode/fblog",
@@ -1109,8 +1035,7 @@
   },
   {
     "name": "bustd",
-    "url": "https://github.com/vrmiguel/bustd",
-    "description": "Lightweight process killer daemon to handle out-of-memory scenarios on Linux."
+    "url": "https://github.com/vrmiguel/bustd"
   },
   {
     "name": "buster/rrun",
@@ -1118,13 +1043,11 @@
   },
   {
     "name": "cantino/mcfly",
-    "url": "https://github.com/cantino/mcfly",
-    "description": "Fly through your shell history. Great Scott!"
+    "url": "https://github.com/cantino/mcfly"
   },
   {
     "name": "crabz",
-    "url": "https://github.com/sstadick/crabz",
-    "description": "Multi-threaded compression and decompression CLI tool"
+    "url": "https://github.com/sstadick/crabz"
   },
   {
     "name": "cristianoliveira/funzzy",
@@ -1156,8 +1079,7 @@
   },
   {
     "name": "gitui",
-    "url": "https://github.com/extrawurst/gitui",
-    "description": "Blazing fast terminal client for git."
+    "url": "https://github.com/extrawurst/gitui"
   },
   {
     "name": "GQL",
@@ -1165,23 +1087,19 @@
   },
   {
     "name": "httm",
-    "url": "https://github.com/kimono-koans/httm",
-    "description": "Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)"
+    "url": "https://github.com/kimono-koans/httm"
   },
   {
     "name": "j0ru/kickoff",
-    "url": "https://github.com/j0ru/kickoff",
-    "description": "Fast and snappy wayland program launcher"
+    "url": "https://github.com/j0ru/kickoff"
   },
   {
     "name": "Kondo",
-    "url": "https://github.com/tbillington/kondo",
-    "description": "CLI & GUI tool for deleting software project artifacts and reclaiming disk space"
+    "url": "https://github.com/tbillington/kondo"
   },
   {
     "name": "LACT",
-    "url": "https://github.com/ilya-zlobintsev/LACT",
-    "description": "Linux AMDGPU Controller"
+    "url": "https://github.com/ilya-zlobintsev/LACT"
   },
   {
     "name": "lodosgroup/lpm",
@@ -1209,8 +1127,7 @@
   },
   {
     "name": "mdgaziur/findex",
-    "url": "https://github.com/mdgaziur/findex",
-    "description": "Findex is a highly customizable application finder using GTK3"
+    "url": "https://github.com/mdgaziur/findex"
   },
   {
     "name": "mitnk/cicada",
@@ -1234,23 +1151,19 @@
   },
   {
     "name": "netscanner",
-    "url": "https://github.com/Chleba/netscanner",
-    "description": "TUI Network Scanner"
+    "url": "https://github.com/Chleba/netscanner"
   },
   {
     "name": "nickgerace/gfold",
-    "url": "https://github.com/nickgerace/gfold",
-    "description": "CLI tool to help keep track of multiple Git repositories"
+    "url": "https://github.com/nickgerace/gfold"
   },
   {
     "name": "nivekuil/rip",
-    "url": "https://github.com/nivekuil/rip",
-    "description": "A safe and ergonomic alternative to rm"
+    "url": "https://github.com/nivekuil/rip"
   },
   {
     "name": "nushell/nushell",
-    "url": "https://github.com/nushell/nushell",
-    "description": "A new type of shell"
+    "url": "https://github.com/nushell/nushell"
   },
   {
     "name": "orhun/kmon",
@@ -1262,8 +1175,7 @@
   },
   {
     "name": "ouch",
-    "url": "https://github.com/ouch-org/ouch",
-    "description": "Painless compression and decompression on the command-line"
+    "url": "https://github.com/ouch-org/ouch"
   },
   {
     "name": "pkolaczk/fclones",
@@ -1283,8 +1195,7 @@
   },
   {
     "name": "qarmin/czkawka",
-    "url": "https://github.com/qarmin/czkawka",
-    "description": "Multi-functional app to find duplicates, empty folders, similar images, etc."
+    "url": "https://github.com/qarmin/czkawka"
   },
   {
     "name": "redox-os/ion",
@@ -1304,13 +1215,11 @@
   },
   {
     "name": "supercilex/fuc",
-    "url": "https://github.com/supercilex/fuc",
-    "description": "Fast cp and rm commands"
+    "url": "https://github.com/supercilex/fuc"
   },
   {
     "name": "trippy",
-    "url": "https://github.com/fujiapple852/trippy",
-    "description": "A network diagnostic tool"
+    "url": "https://github.com/fujiapple852/trippy"
   },
   {
     "name": "uutils/coreutils",
@@ -1338,8 +1247,7 @@
   },
   {
     "name": "tasklet",
-    "url": "https://github.com/stav121/tasklet",
-    "description": "A task scheduling library written in Rust"
+    "url": "https://github.com/stav121/tasklet"
   },
   {
     "name": "amp",
@@ -1383,8 +1291,7 @@
   },
   {
     "name": "ashvardanian/stringzilla",
-    "url": "https://github.com/ashvardanian/StringZilla",
-    "description": "SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON"
+    "url": "https://github.com/ashvardanian/StringZilla"
   },
   {
     "name": "dominikwilkowski/cfonts",
@@ -1404,8 +1311,7 @@
   },
   {
     "name": "Melody",
-    "url": "https://github.com/yoav-lavi/melody",
-    "description": "A language that compiles to regular expressions and aims to be more easily readable and maintainable"
+    "url": "https://github.com/yoav-lavi/melody"
   },
   {
     "name": "phiresky/ripgrep-all",
@@ -1429,8 +1335,7 @@
   },
   {
     "name": "sstadick/hck",
-    "url": "https://github.com/sstadick/hck",
-    "description": "A faster and more featureful drop in replacement for cut"
+    "url": "https://github.com/sstadick/hck"
   },
   {
     "name": "vishaltelangre/ff",
@@ -1482,8 +1387,7 @@
   },
   {
     "name": "mrjackwills/oxker",
-    "url": "https://github.com/mrjackwills/oxker",
-    "description": "A simple tui to view & control docker containers."
+    "url": "https://github.com/mrjackwills/oxker"
   },
   {
     "name": "nix-community/nix-init",
@@ -1507,8 +1411,7 @@
   },
   {
     "name": "rust-parallel",
-    "url": "https://github.com/aaronriekenberg/rust-parallel",
-    "description": "Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs."
+    "url": "https://github.com/aaronriekenberg/rust-parallel"
   },
   {
     "name": "rustdesk/rustdesk",
@@ -1528,8 +1431,7 @@
   },
   {
     "name": "suckit",
-    "url": "https://github.com/Skallwar/suckit",
-    "description": "Recursively visit and download a website's content to your disk."
+    "url": "https://github.com/Skallwar/suckit"
   },
   {
     "name": "tversteeg/emplace",
@@ -1557,13 +1459,11 @@
   },
   {
     "name": "dertuxmalwieder/yaydl",
-    "url": "https://github.com/dertuxmalwieder/yaydl",
-    "description": "A simple video downloader"
+    "url": "https://github.com/dertuxmalwieder/yaydl"
   },
   {
     "name": "gyroflow/gyroflow",
-    "url": "https://github.com/gyroflow/gyroflow",
-    "description": "Video stabilization application using gyroscope data"
+    "url": "https://github.com/gyroflow/gyroflow"
   },
   {
     "name": "harlanc/xiu",
@@ -1587,8 +1487,7 @@
   },
   {
     "name": "kata-containers/kata-containers",
-    "url": "https://github.com/kata-containers/kata-containers",
-    "description": "A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs."
+    "url": "https://github.com/kata-containers/kata-containers"
   },
   {
     "name": "tailhook/vagga",
@@ -1596,8 +1495,7 @@
   },
   {
     "name": "cfal/tobaru",
-    "url": "https://github.com/cfal/tobaru",
-    "description": "Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading."
+    "url": "https://github.com/cfal/tobaru"
   },
   {
     "name": "LemmyNet/lemmy",
@@ -1605,8 +1503,7 @@
   },
   {
     "name": "libreddit",
-    "url": "https://github.com/libreddit/libreddit",
-    "description": "An alternative private front-end to Reddit"
+    "url": "https://github.com/libreddit/libreddit"
   },
   {
     "name": "MASQ-Project/Node",
@@ -1619,13 +1516,11 @@
   },
   {
     "name": "Revolt/backend",
-    "url": "https://github.com/revoltchat/backend",
-    "description": "User-first chat platform built with modern web technologies."
+    "url": "https://github.com/revoltchat/backend"
   },
   {
     "name": "cloudflare/pingora",
-    "url": "https://github.com/cloudflare/pingora",
-    "description": "A library for building fast, reliable and evolvable network services."
+    "url": "https://github.com/cloudflare/pingora"
   },
   {
     "name": "emanuele-em/proxelar",
@@ -1634,7 +1529,7 @@
   {
     "name": "mu-arch/skyfolder",
     "url": "https://github.com/mu-arch/skyfolder",
-    "description": "🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast"
+    "description": "Pretty - Fast"
   },
   {
     "name": "mufeedvh/binserve",
@@ -1698,8 +1593,7 @@
   },
   {
     "name": "datanymizer/datanymizer",
-    "url": "https://github.com/datanymizer/datanymizer",
-    "description": "Powerful database anonymizer with flexible rules"
+    "url": "https://github.com/datanymizer/datanymizer"
   },
   {
     "name": "delta",
@@ -1711,8 +1605,7 @@
   },
   {
     "name": "envio-cli/envio",
-    "url": "https://github.com/envio-cli/envio",
-    "description": "A Modern And Secure CLI Tool For Managing Environment Variables"
+    "url": "https://github.com/envio-cli/envio"
   },
   {
     "name": "frolic",
@@ -1744,8 +1637,7 @@
   },
   {
     "name": "intelli-shell",
-    "url": "https://github.com/lasantosr/intelli-shell",
-    "description": "Bookmark commands with placeholders and search or autocomplete at any time"
+    "url": "https://github.com/lasantosr/intelli-shell"
   },
   {
     "name": "just",
@@ -1785,13 +1677,11 @@
   },
   {
     "name": "Cargo",
-    "url": "https://crates.io/",
-    "description": "A configurable subcommand to simplify testing, building and much more for all combinations of features"
+    "url": "https://crates.io/"
   },
   {
     "name": "cargo-all-features",
-    "url": "https://github.com/frewsxcv/cargo-all-features",
-    "description": "A configurable subcommand to simplify testing, building and much more for all combinations of features"
+    "url": "https://github.com/frewsxcv/cargo-all-features"
   },
   {
     "name": "cargo-benchcmp",
@@ -1915,8 +1805,7 @@
   },
   {
     "name": "Fleet",
-    "url": "https://github.com/dimensionhq/fleet",
-    "description": "The blazing fast build tool for Rust."
+    "url": "https://github.com/dimensionhq/fleet"
   },
   {
     "name": "icepuma/rust-action",
@@ -1956,8 +1845,7 @@
   },
   {
     "name": "emk/rust-musl-builder",
-    "url": "https://github.com/emk/rust-musl-builder",
-    "description": "A tool and pre-built images for caching compiling remote dependencies between Docker builds."
+    "url": "https://github.com/emk/rust-musl-builder"
   },
   {
     "name": "emk/rust-musl-builder",
@@ -1973,8 +1861,7 @@
   },
   {
     "name": "LukeMathWalker/cargo-chef",
-    "url": "https://github.com/LukeMathWalker/cargo-chef",
-    "description": "A tool and pre-built images for caching compiling remote dependencies between Docker builds."
+    "url": "https://github.com/LukeMathWalker/cargo-chef"
   },
   {
     "name": "rust-cross/rust-musl-cross",
@@ -1986,8 +1873,7 @@
   },
   {
     "name": "Stavrospanakakis/is_ready",
-    "url": "https://github.com/Stavrospanakakis/is_ready",
-    "description": "Wait for multiple services to become available"
+    "url": "https://github.com/Stavrospanakakis/is_ready"
   },
   {
     "name": "emk/heroku-buildpack-rust",
@@ -2059,18 +1945,15 @@
   },
   {
     "name": "csbindgen",
-    "url": "https://github.com/Cysharp/csbindgen",
-    "description": "generates C# bindings for Rust source files"
+    "url": "https://github.com/Cysharp/csbindgen"
   },
   {
     "name": "csbindgen",
-    "url": "https://github.com/Cysharp/csbindgen",
-    "description": "generates C# bindings for Rust source files"
+    "url": "https://github.com/Cysharp/csbindgen"
   },
   {
     "name": "dtolnay/cxx",
-    "url": "https://github.com/dtolnay/cxx",
-    "description": "Embed C++ code directly in Rust."
+    "url": "https://github.com/dtolnay/cxx"
   },
   {
     "name": "dtolnay/cxx",
@@ -2078,8 +1961,7 @@
   },
   {
     "name": "rust-cpp",
-    "url": "https://crates.io/crates/cpp",
-    "description": "Embed C++ code directly in Rust."
+    "url": "https://crates.io/crates/cpp"
   },
   {
     "name": "rust-lang/rust-bindgen",
@@ -2155,13 +2037,11 @@
   },
   {
     "name": "infinyon/node-bindgen",
-    "url": "https://github.com/infinyon/node-bindgen",
-    "description": "Easy way to generate nodejs module using Rust"
+    "url": "https://github.com/infinyon/node-bindgen"
   },
   {
     "name": "infinyon/node-bindgen",
-    "url": "https://github.com/infinyon/node-bindgen",
-    "description": "Easy way to generate nodejs module using Rust"
+    "url": "https://github.com/infinyon/node-bindgen"
   },
   {
     "name": "neon-bindings/neon",
@@ -2229,13 +2109,11 @@
   },
   {
     "name": "rhysd/wain",
-    "url": "https://github.com/rhysd/wain",
-    "description": "wain: WebAssembly INterpreter from scratch in Safe Rust with zero dependency"
+    "url": "https://github.com/rhysd/wain"
   },
   {
     "name": "rhysd/wain",
-    "url": "https://github.com/rhysd/wain",
-    "description": "wain: WebAssembly INterpreter from scratch in Safe Rust with zero dependency"
+    "url": "https://github.com/rhysd/wain"
   },
   {
     "name": "rustwasm/wasm-bindgen",
@@ -2267,8 +2145,7 @@
   },
   {
     "name": "Emacs",
-    "url": "https://www.gnu.org/software/emacs/",
-    "description": "Rust development environment for Emacs"
+    "url": "https://www.gnu.org/software/emacs/"
   },
   {
     "name": "emacs-racer",
@@ -2284,8 +2161,7 @@
   },
   {
     "name": "rustic",
-    "url": "https://github.com/brotzeit/rustic",
-    "description": "Rust development environment for Emacs"
+    "url": "https://github.com/brotzeit/rustic"
   },
   {
     "name": "gitpod.io",
@@ -2329,8 +2205,7 @@
   },
   {
     "name": "Vim",
-    "url": "https://vim.sourceforge.io/",
-    "description": "plugin that helps to managing crates.io dependencies."
+    "url": "https://vim.sourceforge.io/"
   },
   {
     "name": "autozimu/LanguageClient-neovim",
@@ -2338,8 +2213,7 @@
   },
   {
     "name": "crates.nvim",
-    "url": "https://github.com/Saecki/crates.nvim",
-    "description": "plugin that helps to managing crates.io dependencies."
+    "url": "https://github.com/Saecki/crates.nvim"
   },
   {
     "name": "rust.vim",
@@ -2364,12 +2238,11 @@
   {
     "name": "Visual Studio Code",
     "url": "https://code.visualstudio.com/",
-    "description": "TOML support in vscode"
+    "description": "Code formatter (Rust) — Opinionated Rust code formatter that autofixes bad syntax (Prettier community plugin)"
   },
   {
     "name": "Better TOML",
-    "url": "https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml",
-    "description": "TOML support in vscode"
+    "url": "https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml"
   },
   {
     "name": "CodeLLDB",
@@ -2390,8 +2263,7 @@
   },
   {
     "name": "Bencher",
-    "url": "https://github.com/bencherdev/bencher",
-    "description": "A suite of continuous benchmarking tools designed to catch performance regressions in CI"
+    "url": "https://github.com/bencherdev/bencher"
   },
   {
     "name": "bheisler/criterion.rs",
@@ -2459,8 +2331,7 @@
   },
   {
     "name": "AlKass/polish",
-    "url": "https://github.com/AlKass/polish",
-    "description": "A cargo extension to simplify running library tests and benches on smartphones and other small processor devices."
+    "url": "https://github.com/AlKass/polish"
   },
   {
     "name": "AlKass/polish",
@@ -2468,8 +2339,7 @@
   },
   {
     "name": "cargo-dinghy",
-    "url": "https://crates.io/crates/cargo-dinghy/",
-    "description": "A cargo extension to simplify running library tests and benches on smartphones and other small processor devices."
+    "url": "https://crates.io/crates/cargo-dinghy/"
   },
   {
     "name": "cucumber",
@@ -2501,8 +2371,7 @@
   },
   {
     "name": "asomers/mockall",
-    "url": "https://github.com/asomers/mockall",
-    "description": "A library providing a simple API for goldenfile testing."
+    "url": "https://github.com/asomers/mockall"
   },
   {
     "name": "asomers/mockall",
@@ -2514,8 +2383,7 @@
   },
   {
     "name": "goldenfile",
-    "url": "https://github.com/calder/rust-goldenfile",
-    "description": "A library providing a simple API for goldenfile testing."
+    "url": "https://github.com/calder/rust-goldenfile"
   },
   {
     "name": "httpmock",
@@ -2539,13 +2407,11 @@
   },
   {
     "name": "cargo-mutants",
-    "url": "https://github.com/sourcefrog/cargo-mutants",
-    "description": "Finds inadequately tested code by injecting mutations, no source changes required."
+    "url": "https://github.com/sourcefrog/cargo-mutants"
   },
   {
     "name": "cargo-mutants",
-    "url": "https://github.com/sourcefrog/cargo-mutants",
-    "description": "Finds inadequately tested code by injecting mutations, no source changes required."
+    "url": "https://github.com/sourcefrog/cargo-mutants"
   },
   {
     "name": "mutagen",
@@ -2609,8 +2475,7 @@
   },
   {
     "name": "burn",
-    "url": "https://github.com/tracel-ai/burn",
-    "description": "A Flexible and Comprehensive Deep Learning Framework."
+    "url": "https://github.com/tracel-ai/burn"
   },
   {
     "name": "coreylowman/dfdx",
@@ -2626,8 +2491,7 @@
   },
   {
     "name": "huggingface/tokenizers",
-    "url": "https://github.com/huggingface/tokenizers",
-    "description": "Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python."
+    "url": "https://github.com/huggingface/tokenizers"
   },
   {
     "name": "LaurentMazare/tch-rs",
@@ -2659,8 +2523,7 @@
   },
   {
     "name": "cds-astro/aladin-lite",
-    "url": "https://github.com/cds-astro/aladin-lite",
-    "description": "Web application for visualizing spatial and planetary image surveys in different projections"
+    "url": "https://github.com/cds-astro/aladin-lite"
   },
   {
     "name": "fitsio",
@@ -2676,8 +2539,7 @@
   },
   {
     "name": "async-std",
-    "url": "https://async.rs/",
-    "description": "Async version of the Rust standard library"
+    "url": "https://async.rs/"
   },
   {
     "name": "dpc/mioco",
@@ -2693,8 +2555,7 @@
   },
   {
     "name": "t3hmrman/async-dropper",
-    "url": "https://github.com/t3hmrman/async-dropper",
-    "description": "Implementation of AsyncDrop"
+    "url": "https://github.com/t3hmrman/async-dropper"
   },
   {
     "name": "TeaEntityLab/fpRust",
@@ -2734,13 +2595,11 @@
   },
   {
     "name": "RustAudio",
-    "url": "https://github.com/RustAudio",
-    "description": "Low-level cross-platform audio I/O library."
+    "url": "https://github.com/RustAudio"
   },
   {
     "name": "RustAudio/cpal",
-    "url": "https://github.com/RustAudio/cpal",
-    "description": "Low-level cross-platform audio I/O library."
+    "url": "https://github.com/RustAudio/cpal"
   },
   {
     "name": "RustAudio/rodio",
@@ -2804,8 +2663,7 @@
   },
   {
     "name": "06chaynes/http-cache",
-    "url": "https://github.com/06chaynes/http-cache",
-    "description": "A caching middleware that follows HTTP caching rules"
+    "url": "https://github.com/06chaynes/http-cache"
   },
   {
     "name": "aisk/rust-memcache",
@@ -2813,8 +2671,7 @@
   },
   {
     "name": "al8n/stretto",
-    "url": "https://github.com/al8n/stretto",
-    "description": "A high performance thread-safe memory-bound cache"
+    "url": "https://github.com/al8n/stretto"
   },
   {
     "name": "jaemk/cached",
@@ -2822,23 +2679,19 @@
   },
   {
     "name": "moka-rs/moka",
-    "url": "https://github.com/moka-rs/moka",
-    "description": "A high performance concurrent caching library inspired by the Caffeine library for Java"
+    "url": "https://github.com/moka-rs/moka"
   },
   {
     "name": "mozilla/sccache",
-    "url": "https://github.com/mozilla/sccache/",
-    "description": "Shared Compilation Cache, great compilation"
+    "url": "https://github.com/mozilla/sccache/"
   },
   {
     "name": "zkat/cacache-rs",
-    "url": "https://github.com/zkat/cacache-rs",
-    "description": "A high-performance, concurrent, content-addressable disk cache, optimized for async APIs"
+    "url": "https://github.com/zkat/cacache-rs"
   },
   {
     "name": "aws",
-    "url": "https://crates.io/keywords/aws",
-    "description": "The new AWS SDK"
+    "url": "https://crates.io/keywords/aws"
   },
   {
     "name": "awslabs/aws-lambda-rust-runtime",
@@ -2846,8 +2699,7 @@
   },
   {
     "name": "awslabs/aws-sdk-rust",
-    "url": "https://github.com/awslabs/aws-sdk-rust",
-    "description": "The new AWS SDK"
+    "url": "https://github.com/awslabs/aws-sdk-rust"
   },
   {
     "name": "rusoto/rusoto",
@@ -2855,23 +2707,19 @@
   },
   {
     "name": "Convey",
-    "url": "https://github.com/bparli/convey",
-    "description": "Layer 4 Load Balancer with dynamic configuration loading."
+    "url": "https://github.com/bparli/convey"
   },
   {
     "name": "Convey",
-    "url": "https://github.com/bparli/convey",
-    "description": "Layer 4 Load Balancer with dynamic configuration loading."
+    "url": "https://github.com/bparli/convey"
   },
   {
     "name": "Qovery/engine",
-    "url": "https://github.com/Qovery/engine",
-    "description": "Abstraction layer library that turns easy application deployment on Cloud providers in just a few minutes"
+    "url": "https://github.com/Qovery/engine"
   },
   {
     "name": "Qovery/engine",
-    "url": "https://github.com/Qovery/engine",
-    "description": "Abstraction layer library that turns easy application deployment on Cloud providers in just a few minutes"
+    "url": "https://github.com/Qovery/engine"
   },
   {
     "name": "clap-rs",
@@ -3047,8 +2895,7 @@
   },
   {
     "name": "cfyzium/bearlibterminal",
-    "url": "https://github.com/nabijaczleweli/BearLibTerminal.rs",
-    "description": "a crossplatform TUI widget library with the goal of providing interactive widgets"
+    "url": "https://github.com/nabijaczleweli/BearLibTerminal.rs"
   },
   {
     "name": "cfyzium/bearlibterminal",
@@ -3064,8 +2911,7 @@
   },
   {
     "name": "ivanceras/titik",
-    "url": "https://github.com/ivanceras/titik",
-    "description": "a crossplatform TUI widget library with the goal of providing interactive widgets"
+    "url": "https://github.com/ivanceras/titik"
   },
   {
     "name": "ihalila/pancurses",
@@ -3093,8 +2939,7 @@
   },
   {
     "name": "ruterm",
-    "url": "https://crates.io/crates/ruterm",
-    "description": "tiny & simple library for working with TTY"
+    "url": "https://crates.io/crates/ruterm"
   },
   {
     "name": "gchp/rustbox",
@@ -3146,13 +2991,11 @@
   },
   {
     "name": "sstadick/gzp",
-    "url": "https://github.com/sstadick/gzp/",
-    "description": "multi-threaded encoding and decoding of deflate formats and snappy"
+    "url": "https://github.com/sstadick/gzp/"
   },
   {
     "name": "sstadick/gzp",
-    "url": "https://github.com/sstadick/gzp/",
-    "description": "multi-threaded encoding and decoding of deflate formats and snappy"
+    "url": "https://github.com/sstadick/gzp/"
   },
   {
     "name": "rust-lang/flate2-rs",
@@ -3300,13 +3143,11 @@
   },
   {
     "name": "softprops/envy",
-    "url": "https://github.com/softprops/envy",
-    "description": "deserialize env vars into typesafe structs"
+    "url": "https://github.com/softprops/envy"
   },
   {
     "name": "arkworks-rs/circom-compat",
-    "url": "https://github.com/arkworks-rs/circom-compat",
-    "description": "Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation."
+    "url": "https://github.com/arkworks-rs/circom-compat"
   },
   {
     "name": "briansmith/ring",
@@ -3354,8 +3195,7 @@
   },
   {
     "name": "iddm/randomorg",
-    "url": "https://github.com/iddm/randomorg",
-    "description": "A random.org client library."
+    "url": "https://github.com/iddm/randomorg"
   },
   {
     "name": "klutzy/suruga",
@@ -3403,8 +3243,7 @@
   },
   {
     "name": "w3f/schnorrkel",
-    "url": "https://github.com/w3f/schnorrkel",
-    "description": "Schnorr VRFs and signatures on the Ristretto group"
+    "url": "https://github.com/w3f/schnorrkel"
   },
   {
     "name": "amv-dev/yata",
@@ -3420,18 +3259,15 @@
   },
   {
     "name": "pg_analytics",
-    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_analytics",
-    "description": "PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases."
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_analytics"
   },
   {
     "name": "pg_lakehouse",
-    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse",
-    "description": "PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg."
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse"
   },
   {
     "name": "pola-rs/polars",
-    "url": "https://github.com/pola-rs/polars",
-    "description": "Fast feature complete DataFrame library"
+    "url": "https://github.com/pola-rs/polars"
   },
   {
     "name": "weld-project/weld",
@@ -3439,8 +3275,7 @@
   },
   {
     "name": "ArroyoSystems/arroyo",
-    "url": "https://github.com/ArroyoSystems/arroyo",
-    "description": "High-performance real-time analytics in Rust and SQL"
+    "url": "https://github.com/ArroyoSystems/arroyo"
   },
   {
     "name": "iggy-rs/iggy",
@@ -3448,13 +3283,11 @@
   },
   {
     "name": "infinyon/fluvio",
-    "url": "https://github.com/infinyon/fluvio",
-    "description": "Programmable data streaming platform"
+    "url": "https://github.com/infinyon/fluvio"
   },
   {
     "name": "ashvardanian/simsimd",
-    "url": "https://github.com/ashvardanian/SimSIMD",
-    "description": "SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON"
+    "url": "https://github.com/ashvardanian/SimSIMD"
   },
   {
     "name": "becheran/grid",
@@ -3514,8 +3347,7 @@
   },
   {
     "name": "blitzarx1/egui_graphs",
-    "url": "https://github.com/blitzarx1/egui_graphs",
-    "description": "[egui_graphs] - Interactive graph visualization widget powered by egui and petgraph."
+    "url": "https://github.com/blitzarx1/egui_graphs"
   },
   {
     "name": "djduque/pgfplots",
@@ -3551,28 +3383,23 @@
   },
   {
     "name": "nosql",
-    "url": "https://crates.io/keywords/nosql",
-    "description": "A Lightweight ArangoDB Object document, relational and graph mapper"
+    "url": "https://crates.io/keywords/nosql"
   },
   {
     "name": "ArangoDB",
-    "url": "https://arangodb.com",
-    "description": "A Lightweight ArangoDB Object document, relational and graph mapper"
+    "url": "https://arangodb.com"
   },
   {
     "name": "Aragog",
-    "url": "https://gitlab.com/qonfucius/aragog",
-    "description": "A Lightweight ArangoDB Object document, relational and graph mapper"
+    "url": "https://gitlab.com/qonfucius/aragog"
   },
   {
     "name": "Arangors",
-    "url": "https://github.com/fMeow/arangors",
-    "description": "An ArangoDB driver"
+    "url": "https://github.com/fMeow/arangors"
   },
   {
     "name": "Cassandra",
-    "url": "https://cassandra.apache.org/_/index.html",
-    "description": "Cassandra protocol implementation."
+    "url": "https://cassandra.apache.org/_/index.html"
   },
   {
     "name": "AlexPikalov/cdrs",
@@ -3580,18 +3407,15 @@
   },
   {
     "name": "krojew/cdrs-tokio",
-    "url": "https://github.com/krojew/cdrs-tokio",
-    "description": "Cassandra protocol implementation."
+    "url": "https://github.com/krojew/cdrs-tokio"
   },
   {
     "name": "cassandra-protocol",
-    "url": "https://crates.io/crates/cassandra-protocol",
-    "description": "Cassandra protocol implementation."
+    "url": "https://crates.io/crates/cassandra-protocol"
   },
   {
     "name": "cdrs-tokio",
-    "url": "https://crates.io/crates/cdrs-tokio",
-    "description": "production-ready async Apache Cassandra driver"
+    "url": "https://crates.io/crates/cdrs-tokio"
   },
   {
     "name": "Metaswitch/cassandra-rs",
@@ -3607,13 +3431,11 @@
   },
   {
     "name": "DynamoDB",
-    "url": "https://aws.amazon.com/dynamodb/",
-    "description": "A library for strongly-typed and convenient interaction with rusoto_dynamodb"
+    "url": "https://aws.amazon.com/dynamodb/"
   },
   {
     "name": "softprops/dynomite",
-    "url": "https://github.com/softprops/dynomite",
-    "description": "A library for strongly-typed and convenient interaction with rusoto_dynamodb"
+    "url": "https://github.com/softprops/dynomite"
   },
   {
     "name": "elasticsearch",
@@ -3677,33 +3499,27 @@
   },
   {
     "name": "PoloDB",
-    "url": "https://www.polodb.org/",
-    "description": "An embedded JSON-based database has API similar to MongoDB."
+    "url": "https://www.polodb.org/"
   },
   {
     "name": "PoloDB",
-    "url": "https://github.com/PoloDB/PoloDB",
-    "description": "An embedded JSON-based database has API similar to MongoDB."
+    "url": "https://github.com/PoloDB/PoloDB"
   },
   {
     "name": "Redb",
-    "url": "https://www.redb.org/",
-    "description": "An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb."
+    "url": "https://www.redb.org/"
   },
   {
     "name": "Redb",
-    "url": "https://github.com/cberner/redb",
-    "description": "An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb."
+    "url": "https://github.com/cberner/redb"
   },
   {
     "name": "redis",
-    "url": "https://crates.io/keywords/redis",
-    "description": "A high level async Redis client for Rust with Tokio."
+    "url": "https://crates.io/keywords/redis"
   },
   {
     "name": "aembke/fred",
-    "url": "https://github.com/aembke/fred.rs",
-    "description": "A high level async Redis client for Rust with Tokio."
+    "url": "https://github.com/aembke/fred.rs"
   },
   {
     "name": "redis-rs",
@@ -3735,8 +3551,7 @@
   },
   {
     "name": "ZooKeeper",
-    "url": "https://zookeeper.apache.org/",
-    "description": "Async Zookeeper client, based on tokio."
+    "url": "https://zookeeper.apache.org/"
   },
   {
     "name": "bonifaido/rust-zookeeper",
@@ -3744,23 +3559,19 @@
   },
   {
     "name": "krojew/rust-zookeeper",
-    "url": "https://github.com/krojew/rust-zookeeper",
-    "description": "Async Zookeeper client, based on tokio."
+    "url": "https://github.com/krojew/rust-zookeeper"
   },
   {
     "name": "ogm",
-    "url": "https://crates.io/keywords/ogm",
-    "description": "A Lightweight ArangoDB Object document, relational and graph mapper"
+    "url": "https://crates.io/keywords/ogm"
   },
   {
     "name": "Aragog",
-    "url": "https://gitlab.com/qonfucius/aragog",
-    "description": "A Lightweight ArangoDB Object document, relational and graph mapper"
+    "url": "https://gitlab.com/qonfucius/aragog"
   },
   {
     "name": "orm",
-    "url": "https://crates.io/keywords/orm",
-    "description": "⛵ A lightweight ORM library for Rust"
+    "url": "https://crates.io/keywords/orm"
   },
   {
     "name": "Brendonovich/prisma-client-rust",
@@ -3776,8 +3587,7 @@
   },
   {
     "name": "njord-rs/njord",
-    "url": "https://github.com/njord-rs/njord",
-    "description": "⛵ A lightweight ORM library for Rust"
+    "url": "https://github.com/njord-rs/njord"
   },
   {
     "name": "rbatis/rbatis",
@@ -3797,28 +3607,23 @@
   },
   {
     "name": "sql",
-    "url": "https://crates.io/keywords/sql",
-    "description": "async PostgreSQL/MySQL/SQLite connection pool with strong typing support"
+    "url": "https://crates.io/keywords/sql"
   },
   {
     "name": "launchbadge/sqlx",
-    "url": "https://github.com/launchbadge/sqlx",
-    "description": "async PostgreSQL/MySQL/SQLite connection pool with strong typing support"
+    "url": "https://github.com/launchbadge/sqlx"
   },
   {
     "name": "launchbadge/sqlx",
-    "url": "https://github.com/launchbadge/sqlx",
-    "description": "async PostgreSQL/MySQL/SQLite connection pool with strong typing support"
+    "url": "https://github.com/launchbadge/sqlx"
   },
   {
     "name": "SeaQL/sea-query",
-    "url": "https://github.com/SeaQL/sea-query",
-    "description": "🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite"
+    "url": "https://github.com/SeaQL/sea-query"
   },
   {
     "name": "SeaQL/sea-schema",
-    "url": "https://github.com/SeaQL/sea-schema",
-    "description": "🌿 SQL schema definition and discovery"
+    "url": "https://github.com/SeaQL/sea-schema"
   },
   {
     "name": "prisma/tiberius",
@@ -3918,13 +3723,11 @@
   },
   {
     "name": "build-trust/ockam",
-    "url": "https://github.com/build-trust/ockam",
-    "description": "End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications"
+    "url": "https://github.com/build-trust/ockam"
   },
   {
     "name": "build-trust/ockam",
-    "url": "https://github.com/build-trust/ockam",
-    "description": "End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications"
+    "url": "https://github.com/build-trust/ockam"
   },
   {
     "name": "serverlesstechnology/cqrs",
@@ -3948,18 +3751,15 @@
   },
   {
     "name": "jdrouet/catapulte",
-    "url": "https://github.com/jdrouet/catapulte",
-    "description": "A microservice to send emails using MRML templates."
+    "url": "https://github.com/jdrouet/catapulte"
   },
   {
     "name": "jdrouet/jolimail",
-    "url": "https://github.com/jdrouet/jolimail",
-    "description": "A web application to build MRML templates."
+    "url": "https://github.com/jdrouet/jolimail"
   },
   {
     "name": "jdrouet/mrml",
-    "url": "https://github.com/jdrouet/mrml",
-    "description": "A library to generate nice email templates working on any mail client."
+    "url": "https://github.com/jdrouet/mrml"
   },
   {
     "name": "lettre/lettre",
@@ -3971,8 +3771,7 @@
   },
   {
     "name": "meli/meli",
-    "url": "https://github.com/meli/meli",
-    "description": "🐝 terminal mail client"
+    "url": "https://github.com/meli/meli"
   },
   {
     "name": "staktrace/mailparse",
@@ -3980,18 +3779,15 @@
   },
   {
     "name": "stalwartlabs/mail-auth",
-    "url": "https://github.com/stalwartlabs/mail-auth",
-    "description": "DKIM, ARC, SPF and DMARC message authentication library"
+    "url": "https://github.com/stalwartlabs/mail-auth"
   },
   {
     "name": "stalwartlabs/mail-parser",
-    "url": "https://github.com/stalwartlabs/mail-parser",
-    "description": "A fast and robust e-mail parsing library with full MIME support"
+    "url": "https://github.com/stalwartlabs/mail-parser"
   },
   {
     "name": "stalwartlabs/mail-send",
-    "url": "https://github.com/stalwartlabs/mail-send",
-    "description": "E-mail builder and SMTP client library with DKIM support"
+    "url": "https://github.com/stalwartlabs/mail-send"
   },
   {
     "name": "tweedegolf/mailcrab",
@@ -4191,13 +3987,11 @@
   },
   {
     "name": "iddm/serde-aux",
-    "url": "https://github.com/iddm/serde-aux/",
-    "description": "additional tools for using with the serde library."
+    "url": "https://github.com/iddm/serde-aux/"
   },
   {
     "name": "iddm/serde-aux",
-    "url": "https://github.com/iddm/serde-aux/",
-    "description": "additional tools for using with the serde library."
+    "url": "https://github.com/iddm/serde-aux/"
   },
   {
     "name": "tamasfe/taplo",
@@ -4257,23 +4051,19 @@
   },
   {
     "name": "Camino",
-    "url": "https://github.com/camino-rs/camino",
-    "description": "Like Rust's std::path::Path, but UTF-8."
+    "url": "https://github.com/camino-rs/camino"
   },
   {
     "name": "Camino",
-    "url": "https://github.com/camino-rs/camino",
-    "description": "Like Rust's std::path::Path, but UTF-8."
+    "url": "https://github.com/camino-rs/camino"
   },
   {
     "name": "ParthJadhav/Rust_Search",
-    "url": "https://github.com/ParthJadhav/Rust_Search",
-    "description": "Blazingly fast file search library."
+    "url": "https://github.com/ParthJadhav/Rust_Search"
   },
   {
     "name": "pop-os/dbus-udisks2",
-    "url": "https://github.com/pop-os/dbus-udisks2",
-    "description": "UDisks2 DBus API"
+    "url": "https://github.com/pop-os/dbus-udisks2"
   },
   {
     "name": "pop-os/sys-mount",
@@ -4313,8 +4103,7 @@
   },
   {
     "name": "JasonShin/fp-core.rs",
-    "url": "https://github.com/JasonShin/fp-core.rs",
-    "description": "Suffix-Position Pipeline Behavior"
+    "url": "https://github.com/JasonShin/fp-core.rs"
   },
   {
     "name": "JasonShin/fp-core.rs",
@@ -4322,8 +4111,7 @@
   },
   {
     "name": "myrrlyn/tap",
-    "url": "https://github.com/myrrlyn/tap",
-    "description": "Suffix-Position Pipeline Behavior"
+    "url": "https://github.com/myrrlyn/tap"
   },
   {
     "name": "SiegeLord/RustAllegro",
@@ -4343,13 +4131,11 @@
   },
   {
     "name": "bracket-lib",
-    "url": "https://github.com/amethyst/bracket-lib",
-    "description": "The Roguelike Toolkit (RLTK)."
+    "url": "https://github.com/amethyst/bracket-lib"
   },
   {
     "name": "bracket-lib",
-    "url": "https://github.com/amethyst/bracket-lib",
-    "description": "The Roguelike Toolkit (RLTK)."
+    "url": "https://github.com/amethyst/bracket-lib"
   },
   {
     "name": "iddm/challonge-rs",
@@ -4385,8 +4171,7 @@
   },
   {
     "name": "ggez",
-    "url": "https://github.com/ggez/ggez",
-    "description": ""
+    "url": "https://github.com/ggez/ggez"
   },
   {
     "name": "Kiss3d",
@@ -4406,13 +4191,11 @@
   },
   {
     "name": "Godot",
-    "url": "https://godotengine.org/",
-    "description": "Bindings to the Godot game engine"
+    "url": "https://godotengine.org/"
   },
   {
     "name": "godot-rust/gdnative",
-    "url": "https://github.com/godot-rust/gdnative",
-    "description": "Bindings to the Godot game engine"
+    "url": "https://github.com/godot-rust/gdnative"
   },
   {
     "name": "Raylib",
@@ -4444,13 +4227,11 @@
   },
   {
     "name": "atomflunder/skillratings",
-    "url": "https://github.com/atomflunder/skillratings",
-    "description": "Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc."
+    "url": "https://github.com/atomflunder/skillratings"
   },
   {
     "name": "atomflunder/skillratings",
-    "url": "https://github.com/atomflunder/skillratings",
-    "description": "Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc."
+    "url": "https://github.com/atomflunder/skillratings"
   },
   {
     "name": "tomassedovic/tcod-rs",
@@ -4462,13 +4243,11 @@
   },
   {
     "name": "iddm/toornament-rs",
-    "url": "https://github.com/iddm/toornament-rs",
-    "description": "Toornament.com API bindings."
+    "url": "https://github.com/iddm/toornament-rs"
   },
   {
     "name": "iddm/toornament-rs",
-    "url": "https://github.com/iddm/toornament-rs",
-    "description": "Toornament.com API bindings."
+    "url": "https://github.com/iddm/toornament-rs"
   },
   {
     "name": "VictoremWinbringer/Victorem",
@@ -4500,23 +4279,19 @@
   },
   {
     "name": "neo4j-labs/graph",
-    "url": "https://github.com/neo4j-labs/graph",
-    "description": "A library for high-performant graph algorithms"
+    "url": "https://github.com/neo4j-labs/graph"
   },
   {
     "name": "petgraph/petgraph",
-    "url": "https://github.com/petgraph/petgraph",
-    "description": "Graph data structure library."
+    "url": "https://github.com/petgraph/petgraph"
   },
   {
     "name": "RazrFalcon/rustybuzz",
-    "url": "https://github.com/RazrFalcon/rustybuzz",
-    "description": "An incremental harfbuzz port"
+    "url": "https://github.com/RazrFalcon/rustybuzz"
   },
   {
     "name": "RazrFalcon/rustybuzz",
-    "url": "https://github.com/RazrFalcon/rustybuzz",
-    "description": "An incremental harfbuzz port"
+    "url": "https://github.com/RazrFalcon/rustybuzz"
   },
   {
     "name": "redox-os/rusttype",
@@ -4528,8 +4303,7 @@
   },
   {
     "name": "gfx-rs/wgpu",
-    "url": "https://github.com/gfx-rs/wgpu",
-    "description": "Native WebGPU implementation based on gfx-hal."
+    "url": "https://github.com/gfx-rs/wgpu"
   },
   {
     "name": "opengl",
@@ -4557,13 +4331,11 @@
   },
   {
     "name": "bastibense/libharu_ng",
-    "url": "https://github.com/bastibense/libharu_ng",
-    "description": "Easily generate PDFs from your Rust app."
+    "url": "https://github.com/bastibense/libharu_ng"
   },
   {
     "name": "bastibense/libharu_ng",
-    "url": "https://github.com/bastibense/libharu_ng",
-    "description": "Easily generate PDFs from your Rust app."
+    "url": "https://github.com/bastibense/libharu_ng"
   },
   {
     "name": "fschutt/printpdf",
@@ -4603,13 +4375,11 @@
   },
   {
     "name": "DioxusLabs/dioxus",
-    "url": "https://github.com/dioxuslabs/dioxus",
-    "description": "a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust."
+    "url": "https://github.com/dioxuslabs/dioxus"
   },
   {
     "name": "emilk/egui",
-    "url": "https://github.com/emilk/egui",
-    "description": "Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine."
+    "url": "https://github.com/emilk/egui"
   },
   {
     "name": "emoon/rust_minifb",
@@ -4645,13 +4415,11 @@
   },
   {
     "name": "GTK+",
-    "url": "https://www.gtk.org/",
-    "description": "GTK4 binding"
+    "url": "https://www.gtk.org/"
   },
   {
     "name": "gtk-rs/gtk4-rs",
-    "url": "https://github.com/gtk-rs/gtk4-rs",
-    "description": "GTK4 binding"
+    "url": "https://github.com/gtk-rs/gtk4-rs"
   },
   {
     "name": "relm",
@@ -4679,8 +4447,7 @@
   },
   {
     "name": "ivanceras/sauron-native",
-    "url": "https://github.com/ivanceras/sauron-native",
-    "description": "A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI."
+    "url": "https://github.com/ivanceras/sauron-native"
   },
   {
     "name": "libui",
@@ -4752,8 +4519,7 @@
   },
   {
     "name": "tauri-apps/wry",
-    "url": "https://github.com/tauri-apps/wry",
-    "description": "Webview Rendering librarY."
+    "url": "https://github.com/tauri-apps/wry"
   },
   {
     "name": "xilem",
@@ -4825,8 +4591,7 @@
   },
   {
     "name": "Linq-in-Rust",
-    "url": "https://github.com/StardustDL/Linq-in-Rust",
-    "description": "Macro and methods for C#-LINQ-like expressions."
+    "url": "https://github.com/StardustDL/Linq-in-Rust"
   },
   {
     "name": "pulldown-cmark/pulldown-cmark",
@@ -4838,8 +4603,7 @@
   },
   {
     "name": "insomnimus/tidier",
-    "url": "https://github.com/insomnimus/tidier",
-    "description": "A library to format HTML, XHTML and XML documents."
+    "url": "https://github.com/insomnimus/tidier"
   },
   {
     "name": "ivnsch/rust_android_ios",
@@ -4967,13 +4731,11 @@
   },
   {
     "name": "bytebeamio/rumqtt",
-    "url": "https://github.com/bytebeamio/rumqtt",
-    "description": "A library for developers to build applications that communicate with the MQTT protocol over TCP and WebSockets, with or without TLS."
+    "url": "https://github.com/bytebeamio/rumqtt"
   },
   {
     "name": "bytebeamio/rumqtt",
-    "url": "https://github.com/bytebeamio/rumqtt",
-    "description": "A library for developers to build applications that communicate with the MQTT protocol over TCP and WebSockets, with or without TLS."
+    "url": "https://github.com/bytebeamio/rumqtt"
   },
   {
     "name": "thehydroimpulse/nanomsg.rs",
@@ -5025,13 +4787,11 @@
   },
   {
     "name": "aws/s2n-quic",
-    "url": "https://github.com/aws/s2n-quic",
-    "description": "An implementation of the IETF QUIC protocol"
+    "url": "https://github.com/aws/s2n-quic"
   },
   {
     "name": "aws/s2n-quic",
-    "url": "https://github.com/aws/s2n-quic",
-    "description": "An implementation of the IETF QUIC protocol"
+    "url": "https://github.com/aws/s2n-quic"
   },
   {
     "name": "cloudflare/quiche",
@@ -5047,8 +4807,7 @@
   },
   {
     "name": "tencent/tquic",
-    "url": "https://github.com/Tencent/tquic",
-    "description": "A high-performance, lightweight, and cross-platform QUIC library"
+    "url": "https://github.com/Tencent/tquic"
   },
   {
     "name": "b23r0/rust-raknet",
@@ -5060,13 +4819,11 @@
   },
   {
     "name": "ENQT-GmbH/remoc",
-    "url": "https://github.com/ENQT-GmbH/remoc",
-    "description": "Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport."
+    "url": "https://github.com/ENQT-GmbH/remoc"
   },
   {
     "name": "ENQT-GmbH/remoc",
-    "url": "https://github.com/ENQT-GmbH/remoc",
-    "description": "Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport."
+    "url": "https://github.com/ENQT-GmbH/remoc"
   },
   {
     "name": "smallnest/rpcx-rs",
@@ -5122,8 +4879,7 @@
   },
   {
     "name": "Folyd/robotstxt",
-    "url": "https://github.com/Folyd/robotstxt",
-    "description": "Port of Google's robots.txt parser and matcher C++ library"
+    "url": "https://github.com/Folyd/robotstxt"
   },
   {
     "name": "freestrings/jsonpath",
@@ -5131,13 +4887,11 @@
   },
   {
     "name": "hmeyer/stl_io",
-    "url": "https://crates.io/crates/stl_io",
-    "description": "A parser for STL (STereoLithography) files"
+    "url": "https://crates.io/crates/stl_io"
   },
   {
     "name": "igumnoff/shiva",
-    "url": "https://github.com/igumnoff/shiva",
-    "description": "Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)"
+    "url": "https://github.com/igumnoff/shiva"
   },
   {
     "name": "kevinmehall/rust-peg",
@@ -5181,23 +4935,19 @@
   },
   {
     "name": "softdevteam/grmtools",
-    "url": "https://github.com/softdevteam/grmtools/",
-    "description": "A LR parser with better error correction"
+    "url": "https://github.com/softdevteam/grmtools/"
   },
   {
     "name": "tree-sitter/tree-sitter",
-    "url": "https://github.com/tree-sitter/tree-sitter",
-    "description": "A parser generator tool and an incremental parsing library geared towards programming tools"
+    "url": "https://github.com/tree-sitter/tree-sitter"
   },
   {
     "name": "alvaroparker/libfprint-rs",
-    "url": "https://github.com/alvaroparker/libfprint-rs",
-    "description": "Libfprint-rs provides a wrapper around the Linux libfprint library."
+    "url": "https://github.com/alvaroparker/libfprint-rs"
   },
   {
     "name": "alvaroparker/libfprint-rs",
-    "url": "https://github.com/alvaroparker/libfprint-rs",
-    "description": "Libfprint-rs provides a wrapper around the Linux libfprint library."
+    "url": "https://github.com/alvaroparker/libfprint-rs"
   },
   {
     "name": "serialport/serialport-rs",
@@ -5209,13 +4959,11 @@
   },
   {
     "name": "iddm/thread-priority",
-    "url": "https://github.com/iddm/thread-priority/",
-    "description": "Simple, crossplatform thread priority management."
+    "url": "https://github.com/iddm/thread-priority/"
   },
   {
     "name": "iddm/thread-priority",
-    "url": "https://github.com/iddm/thread-priority/",
-    "description": "Simple, crossplatform thread priority management."
+    "url": "https://github.com/iddm/thread-priority/"
   },
   {
     "name": "svartalf/rust-battery",
@@ -5275,8 +5023,7 @@
   },
   {
     "name": "3body-lang",
-    "url": "https://github.com/rustq/3body-lang",
-    "description": "The Three Body Language"
+    "url": "https://github.com/rustq/3body-lang"
   },
   {
     "name": "duckscript",
@@ -5292,8 +5039,7 @@
   },
   {
     "name": "kcl",
-    "url": "https://github.com/kcl-lang/kcl",
-    "description": "A constraint-based record & functional language mainly used in configuration and policy scenarios."
+    "url": "https://github.com/kcl-lang/kcl"
   },
   {
     "name": "metacall/core",
@@ -5321,8 +5067,7 @@
   },
   {
     "name": "nyx-space",
-    "url": "https://crates.io/crates/nyx-space",
-    "description": "High fidelity, fast, reliable and validated astrodynamical toolkit library, used for spacecraft mission design and orbit determination"
+    "url": "https://crates.io/crates/nyx-space"
   },
   {
     "name": "ardaku/whoami",
@@ -5402,18 +5147,15 @@
   },
   {
     "name": "cpc",
-    "url": "https://github.com/probablykasper/cpc",
-    "description": "Parses and calculates strings of math with support for units and unit conversion, from 1+2 to 1% of round(1 lightyear / 14!s to km/h)."
+    "url": "https://github.com/probablykasper/cpc"
   },
   {
     "name": "Daniel-Liu-c0deb0t/triple_accel",
-    "url": "https://github.com/Daniel-Liu-c0deb0t/triple_accel",
-    "description": "Rust edit distance routines accelerated using SIMD; supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search"
+    "url": "https://github.com/Daniel-Liu-c0deb0t/triple_accel"
   },
   {
     "name": "fancy-regex/fancy-regex",
-    "url": "https://github.com/fancy-regex/fancy-regex",
-    "description": "Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking."
+    "url": "https://github.com/fancy-regex/fancy-regex"
   },
   {
     "name": "greyblake/whatlang-rs",
@@ -5469,8 +5211,7 @@
   },
   {
     "name": "pg_search",
-    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_search",
-    "description": "PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search."
+    "url": "https://github.com/paradedb/paradedb/tree/dev/pg_search"
   },
   {
     "name": "tantivy",
@@ -5498,8 +5239,7 @@
   },
   {
     "name": "oxidecomputer/propolis",
-    "url": "https://github.com/oxidecomputer/propolis",
-    "description": "Userspace program for illumos bhyve kernel modules"
+    "url": "https://github.com/oxidecomputer/propolis"
   },
   {
     "name": "saurvs/hypervisor-rs",
@@ -5507,8 +5247,7 @@
   },
   {
     "name": "cargo-web",
-    "url": "https://crates.io/crates/cargo-web",
-    "description": "Client side web framework which closely adheres to The Elm Architecture."
+    "url": "https://crates.io/crates/cargo-web"
   },
   {
     "name": "cargo-web",
@@ -5520,8 +5259,7 @@
   },
   {
     "name": "sauron",
-    "url": "https://github.com/ivanceras/sauron",
-    "description": "Client side web framework which closely adheres to The Elm Architecture."
+    "url": "https://github.com/ivanceras/sauron"
   },
   {
     "name": "seed",
@@ -5537,8 +5275,7 @@
   },
   {
     "name": "alexcrichton/curl-rust",
-    "url": "https://github.com/alexcrichton/curl-rust",
-    "description": "A GraphQL server library"
+    "url": "https://github.com/alexcrichton/curl-rust"
   },
   {
     "name": "alexcrichton/curl-rust",
@@ -5546,8 +5283,7 @@
   },
   {
     "name": "async-graphql",
-    "url": "https://github.com/async-graphql/async-graphql",
-    "description": "A GraphQL server library"
+    "url": "https://github.com/async-graphql/async-graphql"
   },
   {
     "name": "DoumanAsh/yukikaze",
@@ -5555,8 +5291,7 @@
   },
   {
     "name": "ducaale/xh",
-    "url": "https://github.com/ducaale/xh",
-    "description": "Friendly and fast tool for sending HTTP requests"
+    "url": "https://github.com/ducaale/xh"
   },
   {
     "name": "graphql-client",
@@ -5572,8 +5307,7 @@
   },
   {
     "name": "actix/actix-web",
-    "url": "https://github.com/actix/actix-web",
-    "description": "A full-featured and easy-to-use web framework."
+    "url": "https://github.com/actix/actix-web"
   },
   {
     "name": "actix/actix-web",
@@ -5633,8 +5367,7 @@
   },
   {
     "name": "poem-web/poem",
-    "url": "https://github.com/poem-web/poem",
-    "description": "A full-featured and easy-to-use web framework."
+    "url": "https://github.com/poem-web/poem"
   },
   {
     "name": "Rocket",
@@ -5662,8 +5395,7 @@
   },
   {
     "name": "tokio/axum",
-    "url": "https://github.com/tokio-rs/axum",
-    "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper"
+    "url": "https://github.com/tokio-rs/axum"
   },
   {
     "name": "tomaka/rouille",
@@ -5675,8 +5407,7 @@
   },
   {
     "name": "cargonauts",
-    "url": "https://github.com/cargonauts-rs/cargonauts",
-    "description": "HTML parsing and querying with CSS selectors."
+    "url": "https://github.com/cargonauts-rs/cargonauts"
   },
   {
     "name": "cargonauts",
@@ -5684,23 +5415,19 @@
   },
   {
     "name": "causal-agent/scraper",
-    "url": "https://github.com/causal-agent/scraper",
-    "description": "HTML parsing and querying with CSS selectors."
+    "url": "https://github.com/causal-agent/scraper"
   },
   {
     "name": "hominee/dyer",
-    "url": "https://github.com/hominee/dyer",
-    "description": "dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed."
+    "url": "https://github.com/hominee/dyer"
   },
   {
     "name": "juhaku/utoipa",
-    "url": "https://github.com/juhaku/utoipa",
-    "description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation"
+    "url": "https://github.com/juhaku/utoipa"
   },
   {
     "name": "osohq/oso",
-    "url": "https://github.com/osohq/oso",
-    "description": "A policy engine for authorization that's embedded in your application."
+    "url": "https://github.com/osohq/oso"
   },
   {
     "name": "pwoolcoc/soup",
@@ -5716,8 +5443,7 @@
   },
   {
     "name": "serenity-rs/serenity",
-    "url": "https://github.com/serenity-rs/serenity",
-    "description": "A library for the Discord API"
+    "url": "https://github.com/serenity-rs/serenity"
   },
   {
     "name": "softprops/openapi",
@@ -5729,18 +5455,15 @@
   },
   {
     "name": "tbot",
-    "url": "https://gitlab.com/SnejUgal/tbot",
-    "description": "Make cool Telegram bots easily"
+    "url": "https://gitlab.com/SnejUgal/tbot"
   },
   {
     "name": "teloxide/teloxide",
-    "url": "https://github.com/teloxide/teloxide/",
-    "description": "An elegant Telegram bots framework"
+    "url": "https://github.com/teloxide/teloxide/"
   },
   {
     "name": "tu6ge/valitron",
-    "url": "https://github.com/tu6ge/valitron",
-    "description": "An ergonomic, functional and configurable validator"
+    "url": "https://github.com/tu6ge/valitron"
   },
   {
     "name": "utkarshkukreti/select.rs",
@@ -5812,8 +5535,7 @@
   },
   {
     "name": "w4/chartered",
-    "url": "https://github.com/w4/chartered",
-    "description": "A private, authenticated, permissioned Cargo registry"
+    "url": "https://github.com/w4/chartered"
   },
   {
     "name": "TeXitoi/benchmarksgame-rs",
@@ -5841,23 +5563,19 @@
   },
   {
     "name": "Discover Rust Libraries & Code Snippets",
-    "url": "https://kandi.openweaver.com/explorelibrary/rust",
-    "description": "A curated list of libraries, authors, kits, tutorials & learning resources on kandi"
+    "url": "https://kandi.openweaver.com/explorelibrary/rust"
   },
   {
     "name": "Aquascope",
-    "url": "https://github.com/cognitive-engineering-lab/aquascope",
-    "description": "Interactive visualizations of Rust at compile-time and run-time"
+    "url": "https://github.com/cognitive-engineering-lab/aquascope"
   },
   {
     "name": "Aquascope",
-    "url": "https://github.com/cognitive-engineering-lab/aquascope",
-    "description": "Interactive visualizations of Rust at compile-time and run-time"
+    "url": "https://github.com/cognitive-engineering-lab/aquascope"
   },
   {
     "name": "Awesome Rust Streaming",
-    "url": "https://github.com/jamesmunns/awesome-rust-streaming",
-    "description": "A community curated list of livestreams."
+    "url": "https://github.com/jamesmunns/awesome-rust-streaming"
   },
   {
     "name": "awesome-rust-mentors",
@@ -5866,6 +5584,10 @@
   {
     "name": "Build a language VM",
     "url": "https://blog.subnetzero.io/post/building-language-vm-part-00/"
+  },
+  {
+    "name": "CIS 198: Rust Programming",
+    "url": "http://cis198-2016s.github.io/schedule/"
   },
   {
     "name": "CodeCrafters.io",
@@ -5877,8 +5599,7 @@
   },
   {
     "name": "Easy Rust",
-    "url": "https://github.com/Dhghomon/easy_rust",
-    "description": "Learn Rust in easy English."
+    "url": "https://github.com/Dhghomon/easy_rust"
   },
   {
     "name": "exercism.org",
@@ -5886,8 +5607,7 @@
   },
   {
     "name": "Hands-on Rust",
-    "url": "https://pragprog.com/titles/hwrust/hands-on-rust/",
-    "description": "A hands-on guide to learning Rust by making games - by Herbert Wolverson (paid)"
+    "url": "https://pragprog.com/titles/hwrust/hands-on-rust/"
   },
   {
     "name": "Idiomatic Rust",
@@ -5903,8 +5623,7 @@
   },
   {
     "name": "Little Book of Rust Books",
-    "url": "https://lborb.github.io/book/",
-    "description": "Curated list of rust books and how-tos."
+    "url": "https://lborb.github.io/book/"
   },
   {
     "name": "Programming Community Curated Resources for Learning Rust",
@@ -5912,8 +5631,7 @@
   },
   {
     "name": "Refactoring to Rust",
-    "url": "https://www.manning.com/books/refactoring-to-rust",
-    "description": "A book that introduces to Rust language."
+    "url": "https://www.manning.com/books/refactoring-to-rust"
   },
   {
     "name": "Rust by Example",
@@ -5925,8 +5643,7 @@
   },
   {
     "name": "Rust Flashcards",
-    "url": "https://github.com/ad-si/Rust-Flashcards",
-    "description": "Over 550 flashcards to learn Rust from first principles."
+    "url": "https://github.com/ad-si/Rust-Flashcards"
   },
   {
     "name": "Rust for professionals",
@@ -5934,8 +5651,7 @@
   },
   {
     "name": "Rust Gym",
-    "url": "https://github.com/warycat/rustgym",
-    "description": "A big collection of coding interview problems solved in Rust."
+    "url": "https://github.com/warycat/rustgym"
   },
   {
     "name": "Rust in Action",
@@ -5951,13 +5667,11 @@
   },
   {
     "name": "Rust Tiếng Việt",
-    "url": "https://rust-tieng-viet.github.io/",
-    "description": "Learn Rust in Vietnamese."
+    "url": "https://rust-tieng-viet.github.io/"
   },
   {
     "name": "rust-how-do-i-start",
-    "url": "https://github.com/jondot/rust-how-do-i-start",
-    "description": "A repo dedicated to answering the question: \"So, Rust. How do I start?\". A beginner only hand-picked resources and learning track."
+    "url": "https://github.com/jondot/rust-how-do-i-start"
   },
   {
     "name": "rust-learning",
@@ -5969,8 +5683,7 @@
   },
   {
     "name": "Rusty CS",
-    "url": "https://github.com/AbdesamedBendjeddou/Rusty-CS",
-    "description": "A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust"
+    "url": "https://github.com/AbdesamedBendjeddou/Rusty-CS"
   },
   {
     "name": "stdx",
@@ -5978,17 +5691,11 @@
   },
   {
     "name": "Take your first steps with Rust",
-    "url": "https://learn.microsoft.com/en-us/training/paths/rust-first-steps/",
-    "description": "Lay the foundation of knowledge you need to build fast and effective programs in Rust."
+    "url": "https://learn.microsoft.com/en-us/training/paths/rust-first-steps/"
   },
   {
     "name": "Tour of Rust",
-    "url": "https://tourofrust.com",
-    "description": "This is meant to be an interactive step by step guide through the features of the Rust programming language."
-  },
-  {
-    "name": "University of Pennsylvania's Comp Sci Rust Programming Course",
-    "url": "http://cis198-2016s.github.io/schedule/"
+    "url": "https://tourofrust.com"
   },
   {
     "name": "New Rustacean",
@@ -6013,7 +5720,7 @@
   {
     "name": "Rust Servers, Services and Apps - MEAP",
     "url": "https://www.manning.com/books/rust-servers-services-and-apps",
-    "description": "MEAP - Build backend servers, services, and front-ends in Rust to get fast, reliable, and maintainable applications."
+    "description": "MEAP — Build backend servers, services, and front-ends in Rust to get fast, reliable, and maintainable applications."
   },
   {
     "name": "Rust Subreddit",

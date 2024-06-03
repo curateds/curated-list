@@ -1,22 +1,11 @@
 [
   {
     "name": "Homepage",
-    "url": "https://gatling.io/",
-    "description": "Open-source version."
-  },
-  {
-    "name": "Gatling",
-    "url": "https://gatling.io/open-source/",
-    "description": "Open-source version."
-  },
-  {
-    "name": "Gatling Enterprise",
-    "url": "https://gatling.io/enterprise/",
-    "description": "Enterprise version (formerly known as Gatling FrontLine), with advanced analytics and integrations."
+    "url": "https://gatling.io/"
   },
   {
     "name": "Documentation",
-    "url": "https://gatling.io/docs/gatling/"
+    "url": "https://docs.gatling.io/"
   },
   {
     "name": "Source code",
@@ -55,13 +44,8 @@
     "url": "http://mintbeans.com/load-testing-zeromq-with-gatling/"
   },
   {
-    "name": "Scaling out with Gatling",
-    "url": "https://gatling.io/docs/gatling/guides/scaling_out/",
-    "description": "Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation."
-  },
-  {
     "name": "Distributed load testing with Gatling and Kubernetes",
-    "url": "https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe"
+    "url": "https://debijenkorf.tech/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe"
   },
   {
     "name": "Gatling – Scaling Out Your Load Tests",
@@ -188,11 +172,6 @@
     "description": "A Gatling plugin for running load tests on Apache Dubbo."
   },
   {
-    "name": "gatling-cql",
-    "url": "https://github.com/gatling-cql/GatlingCql",
-    "description": "Gatling support for Apache Cassandra CQL."
-  },
-  {
     "name": "Kraken",
     "url": "https://github.com/OctoPerf/kraken",
     "description": "Load testing IDE based on Gatling by OctoPerf."
@@ -259,7 +238,7 @@
   },
   {
     "name": "Gatling Academy",
-    "url": "https://gatling.io/academy/"
+    "url": "https://academy.gatling.io/"
   },
   {
     "name": "Gatling Courses",
@@ -280,6 +259,11 @@
     "name": "Load Testing Crash Course with Gatling",
     "url": "https://www.youtube.com/watch?v=RiM1GsVSbzM",
     "description": "Stéphane Landelle @ Devoxx Belgium 2022."
+  },
+  {
+    "name": "Load Testing Made Easy with Gatling",
+    "url": "https://www.youtube.com/watch?v=8Eplj8BvugA",
+    "description": "Rafał Piotrowski @ Scala Days 2023 Madrid."
   },
   {
     "name": "Performance Testing with Gatling",

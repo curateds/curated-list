@@ -1190,6 +1190,11 @@
     "description": "New Three.js starter app."
   },
   {
+    "name": "zen",
+    "url": "https://github.com/ZenSoftware/zen",
+    "description": "Nest + Prisma + Apollo + Angular Full Stack GraphQL Starter Kit."
+  },
+  {
     "name": "teleport-code-generators",
     "url": "https://github.com/teleporthq/teleport-code-generators",
     "description": "A collection of code generators for modern JavaScript applications."
@@ -1508,6 +1513,11 @@
     "description": "A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format."
   },
   {
+    "name": "ngx-echarts",
+    "url": "https://github.com/xieziyu/ngx-echarts",
+    "description": "Angular directive for Apache ECharts."
+  },
+  {
     "name": "ngx-date-fns",
     "url": "https://github.com/joanllenas/ngx-date-fns",
     "description": "date-fns pipes for Angular."
@@ -1642,6 +1652,11 @@
     "description": "Angular share buttons."
   },
   {
+    "name": "ngx-pipes",
+    "url": "https://github.com/danrevah/ngx-pipes",
+    "description": "Useful pipes for Angular with no external dependencies!"
+  },
+  {
     "name": "ng2-dragula",
     "url": "https://github.com/valor-software/ng2-dragula",
     "description": "Drag and Drop so simple it hurts!"
@@ -1760,6 +1775,11 @@
     "name": "ngx-uploadx",
     "url": "https://github.com/kukhariev/ngx-uploadx",
     "description": "Angular Resumable Upload Module."
+  },
+  {
+    "name": "file-upload",
+    "url": "https://github.com/pIvan/file-upload",
+    "description": "Angular module used for file upload."
   },
   {
     "name": "angular-imask",
@@ -2089,6 +2109,11 @@
     "name": "hotkeys",
     "url": "https://github.com/ngneat/hotkeys",
     "description": "A declarative library for handling hotkeys in Angular applications."
+  },
+  {
+    "name": "ngx-contextmenu",
+    "url": "https://github.com/PerfectMemory/ngx-contextmenu",
+    "description": "A context menu component for Angular."
   },
   {
     "name": "angular-split",
@@ -2728,6 +2753,11 @@
     "name": "angular material components",
     "url": "https://github.com/h2qutc/angular-material-components",
     "description": "Angular Material Library provide extra components for every project."
+  },
+  {
+    "name": "ng-matero/extensions",
+    "url": "https://github.com/ng-matero/extensions",
+    "description": "Angular Material Extensions Library."
   },
   {
     "name": "angular-bootstrap-md",
@@ -3448,6 +3478,11 @@
     "name": "migrations",
     "url": "https://angular.dev/reference/migrations",
     "description": "Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics."
+  },
+  {
+    "name": "ng-morph",
+    "url": "https://github.com/taiga-family/ng-morph",
+    "description": "Code mutations in your project or schematics were never easier than now."
   },
   {
     "name": "transloco",
