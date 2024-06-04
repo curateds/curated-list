@@ -740,6 +740,11 @@
     "description": "A non-NixOS Linux system configuration tool built on Nix."
   },
   {
+    "name": "NixNG",
+    "url": "https://github.com/nix-community/NixNG",
+    "description": "A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness."
+  },
+  {
     "name": "#nix:nixos.org",
     "url": "https://matrix.to/#/#nix:nixos.org"
   },

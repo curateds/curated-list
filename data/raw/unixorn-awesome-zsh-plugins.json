@@ -378,6 +378,11 @@
     "description": "covers some of the features that ZSH has that Bash doesn't, and using oh-my-zsh."
   },
   {
+    "name": "Profiling zsh",
+    "url": "https://ellie.wtf/notes/profiling-zsh",
+    "description": "Good article about profiling your ZSH setup to optimize startup time."
+  },
+  {
     "name": "rs-example",
     "url": "https://github.com/al-jshen/zshplug-rs-example",
     "description": "An example plugin showing how a Rust program can listen to and process commands from ZSH."
@@ -8725,6 +8730,11 @@
     "description": "Theme for dark terminals, includes git decorations in the right-side prompt."
   },
   {
+    "name": "minimal-os",
+    "url": "https://github.com/nkurata/zsh-theme",
+    "description": "A minimalist prompt with helpful git status and system-specific decorators."
+  },
+  {
     "name": "minimal-terminal",
     "url": "https://github.com/Lissy93/minimal-terminal-prompt",
     "description": "Includes decorators for username@host, current directory, git information and the last command's exit code."
@@ -8803,6 +8813,11 @@
     "name": "monsi",
     "url": "https://github.com/rafa-wine/monsi_oh-my-zsh_theme",
     "description": "Includes git status, last command exit status and current directory decorators."
+  },
+  {
+    "name": "moon-lite",
+    "url": "https://github.com/anotherlusitano/moon-light",
+    "description": "Minimalist. Includes decorators for git status, current directory and the exit status of the last command run."
   },
   {
     "name": "moonline",
@@ -10363,6 +10378,11 @@
     "name": "theme-line",
     "url": "https://github.com/yw9381/oh-my-zsh_theme_line",
     "description": "Colorful theme with git status."
+  },
+  {
+    "name": "themer",
+    "url": "https://github.com/MrRedacted/zsh-themer",
+    "description": "Includes multiple color scheme options, with git status decorators. There are also multiple icons to choose from within the .zsh-theme file. Based on strug."
   },
   {
     "name": "themeraf",

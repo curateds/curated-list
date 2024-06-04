@@ -759,7 +759,7 @@
   },
   {
     "name": "pngload-fast",
-    "url": "https://git.mfiano.net/mfiano/pngload",
+    "url": "https://github.com/lisp-mirror/pngload",
     "description": "A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. MIT."
   },
   {
@@ -2491,7 +2491,7 @@
   },
   {
     "name": "stripe",
-    "url": "https://git.mfiano.net/mfiano/stripe",
+    "url": "https://github.com/atlas-engineer/stripe",
     "description": "a client for the Stripe payment system. MIT."
   },
   {
@@ -2588,11 +2588,6 @@
     "name": "rtg-math",
     "url": "https://github.com/cbaggers/rtg-math/",
     "description": "a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD_2Clause."
-  },
-  {
-    "name": "origin",
-    "url": "https://github.com/mfiano/origin",
-    "description": "A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping & intersections. MIT."
   },
   {
     "name": "linear-programming",

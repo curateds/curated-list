@@ -514,6 +514,11 @@
     "description": "Starter template with React + Vite + TypeScript + TanStack + Tailwind."
   },
   {
+    "name": "Reactive",
+    "url": "https://github.com/ws-rush/reactive",
+    "description": "React starter template with Remix file-based routing convention for react-router, UnoCSS, LinguiJs, zustand, and ton of features."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -1497,6 +1502,11 @@
     "name": "vite-plugin-serve-static",
     "url": "https://github.com/reifiedbeans/vite-plugin-serve-static",
     "description": "Allows serving arbitrary static files not in the public/ directory."
+  },
+  {
+    "name": "vite-plugin-valibot-env",
+    "url": "https://github.com/idleberg/vite-plugin-valibot-env",
+    "description": "Validate environment variables against a Valibot schema."
   },
   {
     "name": "vitest",

@@ -241,6 +241,11 @@
     "description": "php bridge to node puppeteer"
   },
   {
+    "name": "devtools-remote-debugger",
+    "url": "https://github.com/Nice-PLQ/devtools-remote-debugger",
+    "description": "Use devtools against a webpage; a CDP agent implemeted in client-side JS."
+  },
+  {
     "name": "Inspect",
     "url": "https://inspect.dev/",
     "description": "Use devtools against iOS and Android, easily. Browser and Webviews. (closed source)"

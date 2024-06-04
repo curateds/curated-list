@@ -5372,6 +5372,11 @@
     "description": "Go package for OCR (Optical Character Recognition), by using Tesseract C++ library."
   },
   {
+    "name": "hugot",
+    "url": "https://github.com/knights-analytics/hugot",
+    "description": "Huggingface transformer pipelines for golang with onnxruntime."
+  },
+  {
     "name": "libsvm",
     "url": "https://github.com/datastream/libsvm",
     "description": "libsvm golang version derived work based on LIBSVM 3.14."
