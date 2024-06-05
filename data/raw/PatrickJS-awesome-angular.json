@@ -80,6 +80,11 @@
     "description": "Curated list of Angular events and communities."
   },
   {
+    "name": "angular space",
+    "url": "https://www.angularspace.com/",
+    "description": "Your Hub for Learning and Growing as an Angular Developer."
+  },
+  {
     "name": "Adventures in Angular",
     "url": "https://topenddevs.com/podcasts/adventures-in-angular"
   },
@@ -867,6 +872,18 @@
     "url": "https://www.youtube.com/@ng-news"
   },
   {
+    "name": "Learning Partner",
+    "url": "https://www.youtube.com/@LearningPartnerDigital"
+  },
+  {
+    "name": "Code Deck",
+    "url": "https://www.youtube.com/@codedeck"
+  },
+  {
+    "name": "Igor Sedov",
+    "url": "https://www.youtube.com/@theigorsedov"
+  },
+  {
     "name": "Official Angular style guide",
     "url": "https://angular.dev/style-guide#"
   },
@@ -1103,6 +1120,21 @@
     "name": "ngx-papaparse",
     "url": "https://github.com/alberthaff/ngx-papaparse",
     "description": "Papa Parse wrapper."
+  },
+  {
+    "name": "renovate-config-angular",
+    "url": "https://github.com/d-koppenhagen/renovate-config-angular",
+    "description": "Angular shareable config for Renovate."
+  },
+  {
+    "name": "ngx-grapesjs",
+    "url": "https://github.com/Developer-Plexscape/ngx-grapesjs",
+    "description": "Angular wrapper library for GrapesJS."
+  },
+  {
+    "name": "gojs-angular",
+    "url": "https://github.com/NorthwoodsSoftware/gojs-angular",
+    "description": "A set of Angular components to manage GoJS Diagrams, Palettes, and Overviews."
   },
   {
     "name": "ngx-admin",
@@ -1376,6 +1408,21 @@
     "name": "ngx-count-animation",
     "url": "https://github.com/hm21/ngx-count-animation",
     "description": "A package that elegantly animates number changes, creating a visually engaging transition from one value to another, perfect for counting or displaying real-time data updates."
+  },
+  {
+    "name": "ng-auto-animate",
+    "url": "https://github.com/ajitzero/ng-auto-animate",
+    "description": "Angular Directive (library) for FormKit's Auto Animate."
+  },
+  {
+    "name": "layout-projection",
+    "url": "https://github.com/Char2sGu/layout-projection",
+    "description": "Beautify the Web with awesome layout animations."
+  },
+  {
+    "name": "ngx-easy-view-transitions",
+    "url": "https://github.com/DerStimmler/ngx-easy-view-transitions",
+    "description": "Angular library for easier use of the View Transitions API."
   },
   {
     "name": "angular-calendar",
@@ -1687,6 +1734,11 @@
     "description": "The @angular/cdk/drag-drop module provides you with a way to easily and declaratively create drag-and-drop interfaces."
   },
   {
+    "name": "moveable",
+    "url": "https://github.com/daybrush/moveable",
+    "description": "Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, and Snappable."
+  },
+  {
     "name": "@ctrl/ngx-codemirror",
     "url": "https://github.com/TypeCtrl/ngx-codemirror",
     "description": "Codemirror Wrapper for Angular."
@@ -1900,6 +1952,11 @@
     "name": "ngx-bar-rating",
     "url": "https://github.com/MurhafSousli/ngx-bar-rating",
     "description": "Angular Bar Rating."
+  },
+  {
+    "name": "angular-code-input",
+    "url": "https://github.com/AlexMiniApps/angular-code-input",
+    "description": "Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported."
   },
   {
     "name": "ngx-valdemort",
@@ -2840,6 +2897,16 @@
     "description": "Angular component library for displaying diffs of text."
   },
   {
+    "name": "infinite-viewer",
+    "url": "https://github.com/daybrush/infinite-viewer",
+    "description": "Infinite Viewer is a document viewer component with infinite scrolling."
+  },
+  {
+    "name": "ngx-doc-viewer",
+    "url": "https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer",
+    "description": "This component can be used to show several different document types in an Angular app."
+  },
+  {
     "name": "ngx-countdown",
     "url": "https://github.com/cipchk/ngx-countdown",
     "description": "Simple, easy and performant countdown."
@@ -2933,6 +3000,31 @@
     "name": "ngx-csv-parser",
     "url": "https://github.com/tofiqquadri/ngx-csv-parser",
     "description": "CSV Parser for Angular by Developers Hive."
+  },
+  {
+    "name": "angular-tag-cloud-module",
+    "url": "https://github.com/d-koppenhagen/angular-tag-cloud-module",
+    "description": "With this module, you can generate word clouds / tag clouds."
+  },
+  {
+    "name": "ngx-lipsum",
+    "url": "https://github.com/d-koppenhagen/ngx-lipsum",
+    "description": "Easily use lorem-ipsum dummy texts in your angular app as directive, component or by using a service."
+  },
+  {
+    "name": "angular-audio-context",
+    "url": "https://github.com/chrisguttandin/angular-audio-context",
+    "description": "An Angular wrapper for the Web Audio API's AudioContext."
+  },
+  {
+    "name": "ngx-parallax-stars",
+    "url": "https://github.com/DerStimmler/ngx-parallax-stars",
+    "description": "Angular library to create beautiful stars with parallax effect."
+  },
+  {
+    "name": "angular-twitter-timeline",
+    "url": "https://github.com/mustafaer/angular-twitter-timeline",
+    "description": "Angular Public Twitter Timeline Widget."
   },
   {
     "name": "rxjs",
@@ -3483,6 +3575,11 @@
     "name": "ng-morph",
     "url": "https://github.com/taiga-family/ng-morph",
     "description": "Code mutations in your project or schematics were never easier than now."
+  },
+  {
+    "name": "ngx-libs",
+    "url": "https://github.com/eneajaho/ngx-libs",
+    "description": "Angular Libraries Support lists community libs support for each Angular version."
   },
   {
     "name": "transloco",

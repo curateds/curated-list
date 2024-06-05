@@ -994,6 +994,11 @@
     "description": "Read environment variables easily with dotenv support."
   },
   {
+    "name": "go-array",
+    "url": "https://github.com/deatil/go-array",
+    "description": "A Go package that read or set data from map, slice or json."
+  },
+  {
     "name": "go-aws-ssm",
     "url": "https://github.com/PaddleHQ/go-aws-ssm",
     "description": "Go package that fetches parameters from AWS System Manager - Parameter Store."
@@ -2721,6 +2726,11 @@
     "name": "bedrock",
     "url": "https://github.com/z5labs/bedrock",
     "description": "Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go."
+  },
+  {
+    "name": "capillaries",
+    "url": "https://github.com/capillariesio/capillaries",
+    "description": "distributed batch data processing framework."
   },
   {
     "name": "celeriac",

@@ -1373,11 +1373,6 @@
     "description": "Nature Synthesis, 2024. [All Versions]. [Preprint]. This paper presents an approach that uses a universal chemical programming language (χDL) to encode and execute synthesis procedures for a variety of chemical reactions, including reductive amination, ring formation, esterification, carbon–carbon bond formation and amide coupling on four different hardware systems in two laboratories. With around 50 lines of code per reaction, the approach uses abstraction to efficiently compress chemical protocols."
   },
   {
-    "name": "iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0950584921002081",
-    "description": "Information and Software Technology, 2022. [All Versions]. A reference model and platform agnostic language for smart contracts."
-  },
-  {
     "name": "Scenic: a language for scenario specification and data generation",
     "url": "https://link.springer.com/article/10.1007/s10994-021-06120-5",
     "description": "Machine Learning, 2022. [All Versions]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario."
@@ -1396,6 +1391,11 @@
     "name": "KnitScript: A Domain-Specific Scripting Language for Advanced Machine Knitting",
     "url": "https://dl.acm.org/doi/abs/10.1145/3586183.3606789",
     "description": "UIST'23, 2023. [All Versions]. [Project]. This paper presents KnitScript, a domain-specific machine knitting scripting language that supports computationally driven knitting designs. KnitScript provides a comprehensive virtual model of knitting machines, giving access to machine-level capabilities as they are needed while automating a variety of tedious and error-prone details."
+  },
+  {
+    "name": "A domain‑specifc language framework for farm management information systems in precision agriculture",
+    "url": "https://link.springer.com/article/10.1007/s11119-020-09770-y",
+    "description": "Precision Agriculture, 2020. [All Versions]. This paper proposes a domain-specific language framework for the design and development of precision-agriculture FMISs, which copes with challenges on supporting the understandability, enhancing communication and analysis of the design decisions, and the communication among stakeholders."
   },
   {
     "name": "Corel: A DSL for Cooking Recipes",
@@ -1421,6 +1421,11 @@
     "name": "OpenLaw",
     "url": "https://docs.openlaw.io/",
     "description": "OpenLaw.io. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation \"smart\" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications."
+  },
+  {
+    "name": "iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0950584921002081",
+    "description": "Information and Software Technology, 2022. [All Versions]. A reference model and platform agnostic language for smart contracts."
   },
   {
     "name": "A Language for Counterfactual Generative Models",
