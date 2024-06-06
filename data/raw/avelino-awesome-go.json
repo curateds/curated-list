@@ -944,6 +944,11 @@
     "description": "opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications."
   },
   {
+    "name": "confiq",
+    "url": "https://github.com/greencoda/confiq",
+    "description": "Structured data format to config struct decoder library for Go - supporting multiple data formats"
+  },
+  {
     "name": "confita",
     "url": "https://github.com/heetch/confita",
     "description": "Load configuration in cascade from multiple backends into a struct."
@@ -1027,6 +1032,11 @@
     "name": "go-up",
     "url": "https://github.com/ufoscout/go-up",
     "description": "A simple configuration library with recursive placeholders resolution and no magic."
+  },
+  {
+    "name": "GoCfg",
+    "url": "https://github.com/Jagerente/gocfg",
+    "description": "Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple."
   },
   {
     "name": "goConfig",
@@ -3201,6 +3211,11 @@
     "name": "go-python",
     "url": "https://github.com/sbinet/go-python",
     "description": "naive go bindings to the CPython C-API."
+  },
+  {
+    "name": "goal",
+    "url": "https://codeberg.org/anaseto/goal",
+    "description": "An embeddable scripting array language."
   },
   {
     "name": "goja",
@@ -9637,6 +9652,11 @@
     "description": "manage your git repositories in one place."
   },
   {
+    "name": "gitcs",
+    "url": "https://github.com/knbr13/gitcs/",
+    "description": "Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine."
+  },
+  {
     "name": "go-actuator",
     "url": "https://github.com/sinhashubham95/go-actuator",
     "description": "Production ready features for Go based web frameworks."
@@ -11085,6 +11105,11 @@
     "description": "DOM library."
   },
   {
+    "name": "Extism Go SDK",
+    "url": "https://github.com/extism/go-sdk",
+    "description": "Universal, cross-language WebAssembly framework for building plug-in systems and polyglot apps."
+  },
+  {
     "name": "go-canvas",
     "url": "https://github.com/markfarnan/go-canvas",
     "description": "Library to use HTML5 Canvas, with all drawing within go code."
@@ -11860,6 +11885,11 @@
     "name": "kubevpn",
     "url": "https://github.com/kubenetworks/kubevpn",
     "description": "VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh."
+  },
+  {
+    "name": "KusionStack",
+    "url": "https://github.com/KusionStack/kusion",
+    "description": "A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach."
   },
   {
     "name": "kwatch",
