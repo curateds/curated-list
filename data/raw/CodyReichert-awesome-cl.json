@@ -537,6 +537,11 @@
     "description": "Non-empty collections for Common Lisp.  LGPL3."
   },
   {
+    "name": "cl-hash-util",
+    "url": "https://github.com/orthecreedence/cl-hash-util",
+    "description": "Hash-table creation, access, and manipulation utilities. MIT."
+  },
+  {
     "name": "access",
     "url": "https://github.com/AccelerationNet/access/",
     "description": "Consistent and nested access to most common data structures. BSD_3Clause."

@@ -288,6 +288,11 @@
     "description": "Lets you easily bundle some CSS and JavaScript"
   },
   {
+    "name": "Abblix OIDC Server",
+    "url": "https://github.com/Abblix/Oidc.Server",
+    "description": "A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. [$][Free for non-commercial use]"
+  },
+  {
     "name": "ASP.NET Identity",
     "url": "https://github.com/aspnet/Identity/",
     "description": "New membership system for ASP.NET applications"
@@ -356,6 +361,11 @@
     "name": "blazork8s",
     "url": "https://github.com/weibaohui/blazork8s",
     "description": "k8s management ui in blazor and .NET Core."
+  },
+  {
+    "name": "MudBlazor",
+    "url": "https://github.com/MudBlazor/MudBlazor",
+    "description": "A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples."
   },
   {
     "name": "Nethermind",
@@ -984,6 +994,11 @@
     "name": "ZoneTree",
     "url": "https://github.com/koculu/ZoneTree",
     "description": "Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET."
+  },
+  {
+    "name": "DuckDB.NET",
+    "url": "https://github.com/Giorgi/DuckDB.NET",
+    "description": ".NET data provider for DuckDB"
   },
   {
     "name": "MySQL Connector",

@@ -1249,6 +1249,11 @@
     "description": "Generate a spritesheet and TypeScript types from SVG icons by listening to the icons folder changes."
   },
   {
+    "name": "vite-plugin-abbrlink",
+    "url": "https://github.com/tangerball/abbrlink/tree/master/packages/vite-plugin-abbrlink#readme",
+    "description": "Add the abbrlink attribute to the markdown file in the specified directory."
+  },
+  {
     "name": "vite-tsconfig-paths",
     "url": "https://github.com/aleclarson/vite-tsconfig-paths",
     "description": "Support for TypeScript's path mapping."
