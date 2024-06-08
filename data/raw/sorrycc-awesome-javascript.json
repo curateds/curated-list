@@ -1683,6 +1683,11 @@
     "description": "Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires."
   },
   {
+    "name": "PostgreSQL Browser",
+    "url": "https://github.com/datawan-labs/pg",
+    "description": "Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)"
+  },
+  {
     "name": "randomColor",
     "url": "https://github.com/davidmerfield/randomColor",
     "description": "A color generator for JavaScript."
@@ -1915,11 +1920,6 @@
     "name": "wretch",
     "url": "https://github.com/elbywan/wretch",
     "description": "A tiny wrapper built around fetch with an intuitive syntax."
-  },
-  {
-    "name": "Bearer.sh",
-    "url": "https://github.com/Bearer/bearer-js",
-    "description": "Universal API client that supports OAuth / API Key / Basic / etc."
   },
   {
     "name": "FarFetch",
@@ -3098,11 +3098,6 @@
     "name": "clappr",
     "url": "https://github.com/clappr/clappr",
     "description": "An extensible media player for the web http://clappr.io"
-  },
-  {
-    "name": "exifr",
-    "url": "https://github.com/MikeKovarik/exifr",
-    "description": "The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/"
   },
   {
     "name": "ts-audio",

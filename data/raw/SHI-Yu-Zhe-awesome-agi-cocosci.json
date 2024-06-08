@@ -1433,6 +1433,11 @@
     "description": "ICML'21, 2021. [All Versions]. [Project]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do."
   },
   {
+    "name": "Situation Calculus",
+    "url": "https://en.wikipedia.org/wiki/Situation_calculus",
+    "description": "Wikipedia. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains."
+  },
+  {
     "name": "pix2code: Generating Code from a Graphical User Interface Screenshot",
     "url": "https://dl.acm.org/doi/abs/10.1145/3220134.3220135",
     "description": "ACM SIGCHI Symposium on Engineering Interactive Computing Systems, 2018. [All Versions]. [Code]. [Website]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies)."
@@ -3806,11 +3811,6 @@
     "name": "Temporal Logic",
     "url": "https://plato.stanford.edu/entries/logic-temporal/",
     "description": "Plato Stanford."
-  },
-  {
-    "name": "Situation Calculus",
-    "url": "https://en.wikipedia.org/wiki/Situation_calculus",
-    "description": "Wikipedia. Wikipedia on Situation Calculus, which is a logic formalism designed for representing and reasoning about dynamical domains."
   },
   {
     "name": "Modal Logic",

@@ -1,5 +1,35 @@
 [
   {
+    "name": "openai-openapi-client",
+    "url": "https://codeberg.org/kilianmh/openai-openapi-client",
+    "description": "semi-automatically generated Openapi client updated frequently from the official Openapi specification. AGPL-3."
+  },
+  {
+    "name": "cl-completions",
+    "url": "https://github.com/atgreen/cl-completions",
+    "description": "LLM completions."
+  },
+  {
+    "name": "cl-embeddings",
+    "url": "https://github.com/atgreen/cl-embeddings",
+    "description": "LLM embeddings."
+  },
+  {
+    "name": "cl-chroma",
+    "url": "https://github.com/atgreen/cl-chroma",
+    "description": "the vecor DB interface."
+  },
+  {
+    "name": "PAIP-lisp",
+    "url": "https://github.com/norvig/paip-lisp",
+    "description": "Lisp code for the textbook \"Paradigms of Artificial Intelligence Programming\"."
+  },
+  {
+    "name": "AIMA-lisp",
+    "url": "https://github.com/aimacode/aima-lisp",
+    "description": "Common Lisp implementation of algorithms from Russell and Norvig's \"Artificial Intelligence - A Modern Approach\"."
+  },
+  {
     "name": "OM7",
     "url": "https://github.com/openmusic-project/om7",
     "description": "a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. GPL3."
@@ -632,6 +662,16 @@
     "description": "Clojure-style regular expression functions."
   },
   {
+    "name": "clj-arrows",
+    "url": "https://github.com/dtenny/clj-arrows",
+    "description": "Clojure-compatible threading/transformation/arrow macros for Common Lisp."
+  },
+  {
+    "name": "with-redefs",
+    "url": "https://github.com/dtenny/with-redefs",
+    "description": "enables rebinding of global functions, inspired by Clojure's with-redefs."
+  },
+  {
     "name": "CLERIC",
     "url": "https://github.com/flambard/CLERIC",
     "description": "a Common Lisp Erlang Interface. An implementation of the Erlang distribution protocol, comparable with erl_interface and jinterface. MIT."
@@ -1142,11 +1182,6 @@
     "description": "A collection of anaphoric macros. Public domain."
   },
   {
-    "name": "trivia",
-    "url": "https://github.com/guicho271828/trivia/",
-    "description": "Optimized pattern-matching library. LLGPL."
-  },
-  {
     "name": "arrow-macros",
     "url": "https://github.com/hipeta/arrow-macros",
     "description": "Clojure-like threading macros. MIT."
@@ -1155,6 +1190,11 @@
     "name": "hu.dwim.walker",
     "url": "https://github.com/hu-dwim/hu.dwim.walker",
     "description": "a code walker and unwalker (aka AST parser and unparser). BSD. See also this blog post."
+  },
+  {
+    "name": "trivia",
+    "url": "https://github.com/guicho271828/trivia/",
+    "description": "Optimized pattern-matching library. LLGPL."
   },
   {
     "name": "trivial-arguments",
@@ -1518,6 +1558,11 @@
     "description": "A learning video series on the Udemy platform (full content under paid access). By an active lisper and community contributor (@vindarel). Github home."
   },
   {
+    "name": "Loving Common Lisp, or the Savvy Programmer's Secret Weapon",
+    "url": "https://leanpub.com/lovinglisp",
+    "description": "Quick introduction to Common Lisp with many examples. A particular focus is on how to use Large Language Models (LLMs)."
+  },
+  {
     "name": "The Common Lisp Cookbook",
     "url": "https://lispcookbook.github.io/cl-cookbook/"
   },
@@ -1676,6 +1721,11 @@
   {
     "name": "https://norvig.github.io/paip-lisp/",
     "url": "https://norvig.github.io/paip-lisp/#/"
+  },
+  {
+    "name": "PAIP-lisp",
+    "url": "https://github.com/norvig/paip-lisp",
+    "description": "Lisp code for the textbook \"Paradigms of Artificial Intelligence Programming\"."
   },
   {
     "name": "Building Problem Solvers",
@@ -2804,6 +2854,11 @@
     "name": "one-more-re-nightmare",
     "url": "https://github.com/no-defun-allowed/one-more-re-nightmare",
     "description": "a fast-ish regular expression compiler in Common Lisp. BSD_2Clause."
+  },
+  {
+    "name": "rexxparse",
+    "url": "https://github.com/dtenny/rexxparse",
+    "description": "A string parsing tool inspired by the REXX PARSE construct. MIT."
   },
   {
     "name": "Roswell",

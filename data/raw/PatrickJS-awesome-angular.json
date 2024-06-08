@@ -65,9 +65,14 @@
     "description": "Repo is dedicated to collecting all the different kinds of Angular badges and logos."
   },
   {
-    "name": "madewithangular",
+    "name": "made with angular",
     "url": "https://github.com/madewithangular/madewithangular.github.io",
     "description": "A showcase of web apps built with Angular."
+  },
+  {
+    "name": "built with analog",
+    "url": "https://github.com/TechShowcase/builtwithanalog",
+    "description": "Showcase and market your AnalogJS apps."
   },
   {
     "name": "angular.love",
@@ -686,6 +691,11 @@
     "description": "Testing an NgRx project."
   },
   {
+    "name": "angular-unit-test-helper",
+    "url": "https://github.com/duluca/angular-unit-test-helper",
+    "description": "Helper functions to help write unit tests in Angular using mocks and spies."
+  },
+  {
     "name": "Official web page",
     "url": "https://angular.dev/tools/cli"
   },
@@ -960,6 +970,11 @@
     "description": "Manfred Steyer"
   },
   {
+    "name": "Angular Design Patterns and Best Practices",
+    "url": "https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices",
+    "description": "Packt Publishing"
+  },
+  {
     "name": "Angular Boot Camp",
     "url": "https://angularbootcamp.com"
   },
@@ -1143,6 +1158,11 @@
     "name": "gojs-angular",
     "url": "https://github.com/NorthwoodsSoftware/gojs-angular",
     "description": "A set of Angular components to manage GoJS Diagrams, Palettes, and Overviews."
+  },
+  {
+    "name": "anguhashblog",
+    "url": "https://github.com/AnguHashBlog/anguhashblog",
+    "description": "Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup."
   },
   {
     "name": "ngx-admin",
@@ -1626,6 +1646,11 @@
     "description": "Angular directive for Apache ECharts."
   },
   {
+    "name": "angular-fusioncharts",
+    "url": "https://github.com/fusioncharts/angular-fusioncharts",
+    "description": "Angular Component for FusionCharts JavaScript Charting Library."
+  },
+  {
     "name": "ngx-date-fns",
     "url": "https://github.com/joanllenas/ngx-date-fns",
     "description": "date-fns pipes for Angular."
@@ -2025,6 +2050,11 @@
     "description": "Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported."
   },
   {
+    "name": "ng-multiselect-dropdown",
+    "url": "https://github.com/NileshPatel17/ng-multiselect-dropdown",
+    "description": "Multiple Select Dropdown Component."
+  },
+  {
     "name": "ngx-valdemort",
     "url": "https://github.com/Ninja-Squad/ngx-valdemort",
     "description": "Simpler, cleaner Angular validation error messages."
@@ -2274,6 +2304,11 @@
     "description": "Responsive grid with draggable and resizable items for Angular applications."
   },
   {
+    "name": "ng2-tree",
+    "url": "https://github.com/valor-software/ng2-tree",
+    "description": "Angular tree component."
+  },
+  {
     "name": "angular2-promise-buttons",
     "url": "https://github.com/johannesjo/angular2-promise-buttons",
     "description": "Loading buttons for Angular 2 by @johannesjo."
@@ -2337,6 +2372,16 @@
     "name": "ngx-skeleton-loader",
     "url": "https://github.com/willmendesneto/ngx-skeleton-loader",
     "description": "Make beautiful, animated loading skeletons that automatically adapt to your Angular apps."
+  },
+  {
+    "name": "angular-svg-round-progressbar",
+    "url": "https://github.com/crisbeto/angular-svg-round-progressbar",
+    "description": "Angular module that uses SVG to create a circular progressbar."
+  },
+  {
+    "name": "ng-circle-progress",
+    "url": "https://github.com/bootsoon/ng-circle-progress",
+    "description": "A simple circle progress component created for Angular based on SVG Graphics."
   },
   {
     "name": "angular-cesium",
@@ -2452,6 +2497,11 @@
     "name": "ngx-markdown",
     "url": "https://github.com/jfcere/ngx-markdown",
     "description": "Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js."
+  },
+  {
+    "name": "ngify",
+    "url": "https://github.com/ngify/ngify",
+    "description": "Use Angular features outside of Angular."
   },
   {
     "name": "ngx-awesome-popup",
@@ -2834,6 +2884,11 @@
     "description": "Extensible orchestrator for UI and forms for Angular."
   },
   {
+    "name": "winonang",
+    "url": "https://github.com/winona-ui/winonang",
+    "description": "Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well."
+  },
+  {
     "name": "MDBootstrap",
     "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
     "description": "Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation."
@@ -3021,6 +3076,11 @@
     "name": "popover",
     "url": "https://github.com/ncstate-sat/popover",
     "description": "Popover component for Angular."
+  },
+  {
+    "name": "angular-confirmation-popover",
+    "url": "https://github.com/mattlewis92/angular-confirmation-popover",
+    "description": "An angular 15.0+ bootstrap confirmation popover."
   },
   {
     "name": "ngx-device-detector",

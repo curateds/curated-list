@@ -2458,6 +2458,11 @@
     "description": "Couchbase client in Go."
   },
   {
+    "name": "go-mongox",
+    "url": "https://github.com/chenmingyong0423/go-mongox",
+    "description": "A Go Mongo library based on the official driver, featuring streamlined document operations, generic binding of structs to collections, built-in CRUD, aggregation, automated field updates, struct validation, hooks, and plugin-based programming."
+  },
+  {
     "name": "go-pilosa",
     "url": "https://github.com/pilosa/go-pilosa",
     "description": "Go client library for Pilosa."
@@ -10603,6 +10608,11 @@
     "name": "Echo",
     "url": "https://github.com/labstack/echo",
     "description": "High performance, minimalist Go web framework."
+  },
+  {
+    "name": "Fastschema",
+    "url": "https://github.com/fastschema/fastschema",
+    "description": "A flexible Go web framework and Headless CMS."
   },
   {
     "name": "Fiber",
