@@ -432,6 +432,11 @@
     "description": "An i18n compiler that generates fully typesafe translations"
   },
   {
+    "name": "pg",
+    "url": "https://github.com/datawan-labs/pg",
+    "description": "Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)"
+  },
+  {
     "name": "jsonup",
     "url": "https://github.com/tani/jsonup",
     "description": "Compile-time JSON parser"
