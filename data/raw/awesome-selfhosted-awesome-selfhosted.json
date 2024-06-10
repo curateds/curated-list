@@ -4545,11 +4545,6 @@
     "description": "Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. (Source Code) Apache-2.0 Java/C"
   },
   {
-    "name": "httprd",
-    "url": "https://github.com/bitrate16/httprd",
-    "description": "Single-script remote desktop via web browser. GPL-3.0 Python"
-  },
-  {
     "name": "MeshCentral",
     "url": "https://meshcentral.com/",
     "description": "A full computer management website. With MeshCentral, you can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. (Source Code) Apache-2.0 Nodejs"
@@ -5228,11 +5223,6 @@
     "name": "Focalboard",
     "url": "https://www.focalboard.com/",
     "description": "Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana). (Source Code, Clients) MIT/AGPL-3.0/Apache-2.0 Nodejs/Go/Docker"
-  },
-  {
-    "name": "Kanbana",
-    "url": "https://github.com/SrGMC/kanbana",
-    "description": "Create boards to track users and projects from flat markdown files (fork of Crepido). MIT Nodejs"
   },
   {
     "name": "Kanboard",

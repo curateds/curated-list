@@ -115,6 +115,11 @@
     "description": "Sketch and take handwritten notes."
   },
   {
+    "name": "Morphosis",
+    "url": "https://flathub.org/apps/garden.jamie.Morphosis",
+    "description": "Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats."
+  },
+  {
     "name": "Solanum",
     "url": "https://apps.gnome.org/Solanum",
     "description": "Balance working time and break time."
@@ -335,6 +340,26 @@
     "description": "Game launcher with Steam, Lutris, Heroic, Bottles and itch library import."
   },
   {
+    "name": "Chess Clock",
+    "url": "https://flathub.org/apps/com.clarahobbs.chessclock",
+    "description": "Timer for over-the-board chess games."
+  },
+  {
+    "name": "Crosswords",
+    "url": "https://flathub.org/apps/org.gnome.Crosswords",
+    "description": "Game of crosswords with squpport for shaped and colors crosswords and .ipuz, .jpuz, .xd, and .puz files."
+  },
+  {
+    "name": "Mahjongg",
+    "url": "https://flathub.org/apps/org.gnome.Mahjongg",
+    "description": "Solitaire (one player) version of the classic Eastern tile game, Mahjongg."
+  },
+  {
+    "name": "Ultimate Tic Tac Toe",
+    "url": "https://flathub.org/apps/io.github.nokse22.ultimate-tic-tac-toe",
+    "description": "Ultimate Tic Tac Toe to play with friends or against an AI."
+  },
+  {
     "name": "Pika Backup",
     "url": "https://apps.gnome.org/PikaBackup",
     "description": "Simple backups based on borg."
@@ -490,6 +515,11 @@
     "description": "Weather application with 7 days forecast from Open-Meteo.com."
   },
   {
+    "name": "Snoop",
+    "url": "https://flathub.org/apps/de.philippun1.Snoop",
+    "description": "Application (with Nautilus extension) to search through file contents in a given folder."
+  },
+  {
     "name": "Obfuscate",
     "url": "https://apps.gnome.org/Obfuscate",
     "description": "Censor private information."
@@ -598,6 +628,11 @@
     "name": "Turtle",
     "url": "https://gitlab.gnome.org/philippun1/turtle",
     "description": "Tool to manage Git repositories within Nautilus by providing emblems and context menus."
+  },
+  {
+    "name": "Aurea",
+    "url": "https://flathub.org/apps/io.github.cleomenezesjr.aurea",
+    "description": "Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub."
   },
   {
     "name": "App Icon Preview",

@@ -112,6 +112,11 @@
     "description": "The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers."
   },
   {
+    "name": "mempool.space",
+    "url": "https://mempool.space/docs/api/rest",
+    "description": "Open source and self hostable REST, WebSocket and Electrum RPC API"
+  },
+  {
     "name": "CoinMetrics.io",
     "url": "https://docs.coinmetrics.io/api/v2/"
   },
@@ -156,6 +161,10 @@
     "url": "https://electrum.org/"
   },
   {
+    "name": "Green",
+    "url": "https://blockstream.com/green/"
+  },
+  {
     "name": "3xpl.com",
     "url": "https://3xpl.com/bitcoin",
     "description": "Fastest ad-free universal block explorer."
@@ -198,6 +207,11 @@
     "name": "Bitkit",
     "url": "https://bitkit.live",
     "description": "Real time transaction updates."
+  },
+  {
+    "name": "mempool.space",
+    "url": "https://mempool.space/",
+    "description": "Open source, self hostable blockchain, mempool and lightning network explorer"
   },
   {
     "name": "libsecp256k1",
@@ -278,6 +292,21 @@
     "name": "bip-schnorrrb",
     "url": "https://github.com/chaintope/bip-schnorrrb",
     "description": "Schnorr signature library for Bitcoin."
+  },
+  {
+    "name": "Bitcoin Dev Kit (BDK)",
+    "url": "https://bitcoindevkit.org/",
+    "description": "With BDK, you can seamlessly build cross platform mobile wallets"
+  },
+  {
+    "name": "Rust Bitcoin",
+    "url": "https://github.com/rust-bitcoin/rust-bitcoin",
+    "description": "support for de/serialization, parsing and executing on data-structures and network messages."
+  },
+  {
+    "name": "Lightning Dev Kit (LDK)",
+    "url": "https://lightningdevkit.org/",
+    "description": "Complete Lightning implementation packaged as an SDK"
   },
   {
     "name": "BlockTrail SDK Python",
@@ -437,6 +466,11 @@
     "description": "Formerly just a Nodejs library, now a full node."
   },
   {
+    "name": "Bitcoin Core",
+    "url": "https://bitcoincore.org/",
+    "description": "direct descendant of the original Bitcoin implementation in C++"
+  },
+  {
     "name": "A Gentle Introduction to Bitcoin Core Development",
     "url": "https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8"
   },
@@ -514,5 +548,10 @@
   {
     "name": "River Learn",
     "url": "https://river.com/learn"
+  },
+  {
+    "name": "Learn me a Bitcoin - Greg Walker",
+    "url": "https://learnmeabitcoin.com/",
+    "description": "Greg Walker - extensive learning ressource for bitcoin developers"
   }
 ]
