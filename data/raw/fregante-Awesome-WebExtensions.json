@@ -25,11 +25,6 @@
     "description": "Detailed WebExtensions support for Opera."
   },
   {
-    "name": "Porting Chrome Extensions to Firefox",
-    "url": "https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension",
-    "description": "Guide to prepare, install, and debug Chrome extensions to be ported in Firefox."
-  },
-  {
     "name": "Browser Extension Standard",
     "url": "https://browserext.github.io/browserext/",
     "description": "Standard for the API, supported by Mozilla, Opera and Microsoft."
@@ -162,6 +157,11 @@
     "name": "webpack-target-webextension",
     "url": "https://github.com/awesome-webextension/webpack-target-webextension",
     "description": "Adds code-splitting support to WebExtensions build with Webpack."
+  },
+  {
+    "name": "Extension.js",
+    "url": "https://github.com/cezaraugusto/extension.js",
+    "description": "Plug-and-play, zero-config, cross-browser extension development tool."
   },
   {
     "name": "sinon-chrome",

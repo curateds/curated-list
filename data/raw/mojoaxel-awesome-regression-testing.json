@@ -119,7 +119,7 @@
   },
   {
     "name": "Happo",
-    "url": "https://github.com/Galooshi/happo",
+    "url": "https://github.com/happo/happo.io",
     "description": "Visual diffing in CI for user interfaces."
   },
   {
@@ -251,6 +251,11 @@
     "name": "Lost Pixel",
     "url": "https://github.com/lost-pixel/lost-pixel",
     "description": "Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress)."
+  },
+  {
+    "name": "Pixeleye",
+    "url": "https://pixeleye.io/home",
+    "description": "Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer."
   },
   {
     "name": "BrowserStack",

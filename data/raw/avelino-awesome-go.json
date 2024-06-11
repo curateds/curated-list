@@ -1699,6 +1699,11 @@
     "description": "RESTful caching micro-service backed by Couchbase server."
   },
   {
+    "name": "EchoVault",
+    "url": "https://github.com/EchoVault/EchoVault",
+    "description": "Embeddable Distributed in-memory data store compatible with Redis clients."
+  },
+  {
     "name": "fastcache",
     "url": "https://github.com/VictoriaMetrics/fastcache",
     "description": "fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead."

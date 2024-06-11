@@ -378,7 +378,7 @@
     "description": "covers some of the features that ZSH has that Bash doesn't, and using oh-my-zsh."
   },
   {
-    "name": "Profiling zsh",
+    "name": "Profiling ZSH",
     "url": "https://ellie.wtf/notes/profiling-zsh",
     "description": "Good article about profiling your ZSH setup to optimize startup time."
   },
@@ -2106,6 +2106,11 @@
     "description": "Adds short aliases for the git-lfs commands."
   },
   {
+    "name": "git-patch",
+    "url": "https://github.com/marvinroman/oh-my-zsh-git-patch-plugin",
+    "description": "Adds custom functions and aliases to the oh-my-zsh git plugin."
+  },
+  {
     "name": "git-plugin (dark-kitt)",
     "url": "https://github.com/dark-kitt/zsh-git-plugin",
     "description": "git integration that displays the current directory and git branch."
@@ -2284,6 +2289,11 @@
     "name": "gpg-crypt",
     "url": "https://github.com/Czocher/gpg-crypt",
     "description": "ZSH plugin to encrypt and decrypt files or directories in place."
+  },
+  {
+    "name": "gpg",
+    "url": "https://github.com/marvinroman/oh-my-zsh-gpg-plugin",
+    "description": "Adds helpful aliases for using gpg."
   },
   {
     "name": "gpt",
@@ -2946,6 +2956,11 @@
     "description": "ZSH plugin that allows you to create archives using multiple different compression formats."
   },
   {
+    "name": "mkcd",
+    "url": "https://github.com/marvinroman/oh-my-zsh-mkcd-plugin",
+    "description": "Allows user to create a directory and if successful, cd into it afterward."
+  },
+  {
     "name": "mode-switch.CLI",
     "url": "https://github.com/Gyumeijie/mode-switch.CLI",
     "description": "A ZSH plugin for switching command line between normal mode and vi mode."
@@ -3193,6 +3208,11 @@
     "name": "oh-my-matrix",
     "url": "https://github.com/amstrad/oh-my-matrix",
     "description": "Turn your terminal into the matrix."
+  },
+  {
+    "name": "oh-my-posh-manager",
+    "url": "https://github.com/wintermi/zsh-oh-my-posh",
+    "description": "Manages the oh-my-posh theme engine, along with providing a default powerline-like theme."
   },
   {
     "name": "ollama",

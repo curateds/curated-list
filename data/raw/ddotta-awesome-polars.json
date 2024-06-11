@@ -151,6 +151,11 @@
     "description": "Python package for for running candle ML models on Polars DataFrames by @wdoppenberg."
   },
   {
+    "name": "polars_encryption",
+    "url": "https://github.com/zlobendog/polars_encryption",
+    "description": "Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by @zlobendog."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."
@@ -835,6 +840,11 @@
     "name": "DataFrames on steroids with Polars",
     "url": "https://www.youtube.com/watch?v=U5Gl_X6Z7Lk",
     "description": "A video that demonstrates Polars for Python and shows how much faster it is compared to pandas while remaining just as convenient by @prosoitos. Slides are available here."
+  },
+  {
+    "name": "Pandas, Polars and the DataDrame Consortium",
+    "url": "https://www.youtube.com/watch?v=-kz1EAhlflM",
+    "description": "A video that offers a detailed performance comparison between Polars and Pandas. This analysis serves as a foundation for the introduction of the DataFrame Consortium, which aims to standardize data manipulation libraries."
   },
   {
     "name": "pola-rs (@pola-rs)",

@@ -25,11 +25,6 @@
     "description": "Creative community fansite."
   },
   {
-    "name": "Minecraft Chinese Forum",
-    "url": "http://www.mcbbs.net/",
-    "description": "Largest Chinese players community of Minecraft."
-  },
-  {
     "name": "Modrinth",
     "url": "https://modrinth.com/",
     "description": "Open source Minecraft mod library with powerful filtering."
@@ -53,11 +48,6 @@
     "name": "MCVersions",
     "url": "https://mcversions.net/",
     "description": "Archives most Minecraft jars."
-  },
-  {
-    "name": "BetaCraft Archive",
-    "url": "http://betacraft.pl/server-archive/minecraft/",
-    "description": "Archives some missing Minecraft server jars."
   },
   {
     "name": "MCPC+ Archive",
@@ -118,11 +108,6 @@
     "name": "Sodium (for Fabric)",
     "url": "https://github.com/CaffeineMC/sodium-fabric",
     "description": "A Fabric mod designed to improve frame rates and reduce micro-stutter."
-  },
-  {
-    "name": "Iris (for Fabric)",
-    "url": "https://irisshaders.net/",
-    "description": "A Fabric mod which is based upon Sodium to add Shader support."
   },
   {
     "name": "OptiFabric",
@@ -450,11 +435,6 @@
     "description": "Smooth resource pack with mod support."
   },
   {
-    "name": "Faithful",
-    "url": "https://faithful.team/",
-    "description": "Smooth textures for a furbished default look."
-  },
-  {
     "name": "BetterVanillaBuilding",
     "url": "https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding",
     "description": "Adds loads of new blocks with connected textures in optifine."
@@ -498,11 +478,6 @@
     "name": "Blessing Skin Server",
     "url": "https://github.com/bs-community/blessing-skin-server",
     "description": "A web application brings your custom skins back in offline Minecraft servers."
-  },
-  {
-    "name": "yoshino",
-    "url": "https://github.com/idawnlight/yoshino",
-    "description": "A lite & fast Minecraft skin server, written in php. (Live Demo)"
   },
   {
     "name": "WorldEdit Golf",
@@ -558,16 +533,6 @@
     "name": "Paper",
     "url": "https://papermc.io/",
     "description": "Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options."
-  },
-  {
-    "name": "PocketMine",
-    "url": "https://www.pocketmine.net/",
-    "description": "A Bedrock Edition Server providing support for basic plugins."
-  },
-  {
-    "name": "PowerNukkit",
-    "url": "https://powernukkit.org/",
-    "description": "A powerful fork of Nukkit."
   },
   {
     "name": "Spigot",
