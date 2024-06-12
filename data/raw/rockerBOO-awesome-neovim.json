@@ -2910,6 +2910,11 @@
     "description": "Code screenshot plugin that makes use of freeze inside the editor, it lets you copy the generated image to paste it anywhere."
   },
   {
+    "name": "ysmb-wtsg/in-and-out.nvim",
+    "url": "https://github.com/ysmb-wtsg/in-and-out.nvim",
+    "description": "Quick navigation in and out of surrounding characters."
+  },
+  {
     "name": "VidocqH/data-viewer.nvim",
     "url": "https://github.com/VidocqH/data-viewer.nvim",
     "description": "Provide a simple table view to inspect data files such as csv, tsv."
@@ -3273,6 +3278,11 @@
     "name": "al1-ce/just.nvim",
     "url": "https://github.com/al1-ce/just.nvim",
     "description": "Task runner for justfiles."
+  },
+  {
+    "name": "niuiic/task.nvim",
+    "url": "https://github.com/niuiic/task.nvim",
+    "description": "Another highly configurable task manager that enables seamless interaction with tasks."
   },
   {
     "name": "folke/neodev.nvim",

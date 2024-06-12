@@ -1438,6 +1438,21 @@
     "description": "Wikipedia. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains."
   },
   {
+    "name": "Qualitative Simulation",
+    "url": "https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf",
+    "description": "Artificial Intelligence, 1986. [All Versions]. Benjamin Kuipers' original paper on qualitative reasoning."
+  },
+  {
+    "name": "Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge",
+    "url": "https://www.cs.utexas.edu/users/qr/QR-book.html",
+    "description": "MIT Press, 1994. [All Versions]. Benjamin Kuipers' comprehensive book on qualitative reasoning."
+  },
+  {
+    "name": "Qualitative and quantitative simulation: bridging the gap",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0004370297000507",
+    "description": "Artificial Intelligence, 1997. [All Versions]."
+  },
+  {
     "name": "pix2code: Generating Code from a Graphical User Interface Screenshot",
     "url": "https://dl.acm.org/doi/abs/10.1145/3220134.3220135",
     "description": "ACM SIGCHI Symposium on Engineering Interactive Computing Systems, 2018. [All Versions]. [Code]. [Website]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies)."
@@ -3836,21 +3851,6 @@
     "name": "Commonsense reasoning about causality: Deriving behavior from structure",
     "url": "https://www.sciencedirect.com/science/article/abs/pii/0004370284900390",
     "description": "Artificial Intelligence, 1984. [All Versions]."
-  },
-  {
-    "name": "Qualitative Simulation",
-    "url": "https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf",
-    "description": "Artificial Intelligence, 1986. [All Versions]. Benjamin Kuipers' original paper on qualitative reasoning."
-  },
-  {
-    "name": "Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge",
-    "url": "https://www.cs.utexas.edu/users/qr/QR-book.html",
-    "description": "MIT Press, 1994. [All Versions]. Benjamin Kuipers' comprehensive book on qualitative reasoning."
-  },
-  {
-    "name": "Qualitative and quantitative simulation: bridging the gap",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0004370297000507",
-    "description": "Artificial Intelligence, 1997. [All Versions]."
   },
   {
     "name": "Logics for Epistemic Programs",
