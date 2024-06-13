@@ -725,6 +725,11 @@
     "description": "data compression library for embedded/real-time systems  [ISC]"
   },
   {
+    "name": "Kanzi",
+    "url": "https://github.com/flanglet/kanzi-cpp",
+    "description": "a modern, modular, portable and efficient lossless data compressor implemented in C++. [Apache-2.0]"
+  },
+  {
     "name": "KArchive",
     "url": "https://api.kde.org/frameworks/karchive/html/index.html",
     "description": "A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]"

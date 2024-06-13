@@ -684,6 +684,11 @@
     "description": "Redis Cluster Manager"
   },
   {
+    "name": "vfox-crystal",
+    "url": "https://github.com/yanecc/vfox-crystal",
+    "description": "Plugin for vfox version manager"
+  },
+  {
     "name": "blackjack-cr",
     "url": "https://github.com/gdonald/blackjack-cr",
     "description": "Console Blackjack"
@@ -1869,9 +1874,19 @@
     "description": "API Documentation Browser with Crystal support"
   },
   {
+    "name": "Learn X in Y minutes",
+    "url": "https://learnxinyminutes.com/docs/crystal/",
+    "description": "Quick tutorial on Crystal"
+  },
+  {
     "name": "Programming Crystal",
     "url": "https://pragprog.com/book/crystal/programming-crystal",
     "description": "PragProg book to start your Crystal journey"
+  },
+  {
+    "name": "Usability of Programming Languages",
+    "url": "https://gergelyk.github.io/prog-lang-usability/",
+    "description": "Comparison of Python, Rust, Crystal"
   },
   {
     "name": "br.crystal-lang.org",

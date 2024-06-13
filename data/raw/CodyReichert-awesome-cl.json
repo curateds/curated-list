@@ -418,11 +418,6 @@
     "description": "Fast, thread-safe interface to the Memcached object caching system. Expat."
   },
   {
-    "name": "cl-mongo",
-    "url": "https://github.com/fons/cl-mongo",
-    "description": "MongoDB client. Expat."
-  },
-  {
     "name": "cl-redis",
     "url": "https://github.com/vseloved/cl-redis",
     "description": "Redis client. Expat."

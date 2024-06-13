@@ -768,7 +768,7 @@
   {
     "name": "Toutatis",
     "url": "https://github.com/megadose/toutatis",
-    "description": "a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more"
+    "description": "a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more"
   },
   {
     "name": "Pingroupie",
@@ -2183,6 +2183,11 @@
     "url": "https://clarify.io"
   },
   {
+    "name": "Dupli Checker",
+    "url": "https://www.duplichecker.com/reverse-image-search.php",
+    "description": "You can search for an image by uploading + with URL or typing the keyword or any word you want to explore related to images."
+  },
+  {
     "name": "FaceCheck.ID",
     "url": "https://facecheck.id",
     "description": "Facial recognition search engine."
@@ -2201,16 +2206,17 @@
     "url": "https://images.google.com"
   },
   {
+    "name": "Google Lens",
+    "url": "https://lens.google.com/"
+  },
+  {
     "name": "Image Identification Project",
     "url": "https://www.imageidentify.com"
   },
   {
     "name": "Image Raider",
-    "url": "https://www.imageraider.com"
-  },
-  {
-    "name": "KarmaDecay",
-    "url": "http://karmadecay.com"
+    "url": "https://www.imageraider.com",
+    "description": "is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted."
   },
   {
     "name": "Lycos Image Search",
@@ -2231,8 +2237,14 @@
     "description": "an online face search engine that goes through the Internet to find pictures containing given faces."
   },
   {
+    "name": "Pixsy",
+    "url": "https://www.pixsy.com/",
+    "description": "Take back control of your images. See where & how your images are being used online!"
+  },
+  {
     "name": "Search4faces",
-    "url": "https://search4faces.com/"
+    "url": "https://search4faces.com/",
+    "description": "a service for searching people on the Internet by photo."
   },
   {
     "name": "TinEye",

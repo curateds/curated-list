@@ -682,6 +682,11 @@
     "description": "Caddy-based reverse proxy, configured with service or container labels. By @lucaslorentz"
   },
   {
+    "name": "caddy-docker-upstreams",
+    "url": "https://github.com/invzhi/caddy-docker-upstreams",
+    "description": "Docker upstreams module for Caddy, configured with container labels. By @invzhi"
+  },
+  {
     "name": "Docker Dnsmasq Updater",
     "url": "https://github.com/moonbuggy/docker-dnsmasq-updater",
     "description": "Update a remote dnsmasq server with Docker container hostnames."

@@ -3028,6 +3028,11 @@
     "description": "Actor-based state management & orchestration for complex app logic."
   },
   {
+    "name": "signalstory",
+    "url": "https://github.com/zuriscript/signalstory",
+    "description": "A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach."
+  },
+  {
     "name": "ngx-reactive-storage",
     "url": "https://github.com/e-oz/ngx-reactive-storage",
     "description": "Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables."
