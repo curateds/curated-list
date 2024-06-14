@@ -2915,6 +2915,11 @@
     "description": "Quick navigation in and out of surrounding characters."
   },
   {
+    "name": "ChuufMaster/buffer-vacuum",
+    "url": "https://github.com/ChuufMaster/buffer-vacuum",
+    "description": "Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum."
+  },
+  {
     "name": "VidocqH/data-viewer.nvim",
     "url": "https://github.com/VidocqH/data-viewer.nvim",
     "description": "Provide a simple table view to inspect data files such as csv, tsv."

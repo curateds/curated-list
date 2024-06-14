@@ -506,6 +506,10 @@
     "url": "https://www.ngserve.io/"
   },
   {
+    "name": "Tomasz Ducin",
+    "url": "https://ducin.dev/blog"
+  },
+  {
     "name": "ng-book 2",
     "url": "https://www.ng-book.com/2/",
     "description": "fullstack.io"
@@ -568,6 +572,11 @@
   {
     "name": "Angular Design Patterns and Best Practices",
     "url": "https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices",
+    "description": "Packt Publishing"
+  },
+  {
+    "name": "Angular for Enterprise Applications",
+    "url": "https://angularforenterprise.com/home",
     "description": "Packt Publishing"
   },
   {
@@ -1122,6 +1131,11 @@
     "name": "angularx-qrcode",
     "url": "https://github.com/cordobo/angularx-qrcode",
     "description": "A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library."
+  },
+  {
+    "name": "create-tauri-app",
+    "url": "https://github.com/tauri-apps/create-tauri-app",
+    "description": "Rapidly scaffold out a new Tauri app project."
   },
   {
     "name": "Bootify.io",
@@ -2214,16 +2228,6 @@
     "description": "Rich Text Editor for Angular using ProseMirror."
   },
   {
-    "name": "ngx-markdown-editor",
-    "url": "https://github.com/instance-oom/ngx-markdown-editor",
-    "description": "Angular markdown editor based on ace editor."
-  },
-  {
-    "name": "angular-markdown-editor",
-    "url": "https://github.com/ghiscoding/angular-markdown-editor",
-    "description": "Angular Markdown Editor. All-in-one Markdown Editor and Preview."
-  },
-  {
     "name": "code-editor",
     "url": "https://github.com/ngstack/code-editor",
     "description": "Code editor component for Angular applications."
@@ -2763,6 +2767,26 @@
     "description": "This component provides a Google Maps Angular component that implements the Google Maps JavaScript API."
   },
   {
+    "name": "ngx-markdown",
+    "url": "https://github.com/jfcere/ngx-markdown",
+    "description": "Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js."
+  },
+  {
+    "name": "ngx-remark",
+    "url": "https://github.com/ericleib/ngx-remark",
+    "description": "Render markdown with custom Angular templates."
+  },
+  {
+    "name": "ngx-markdown-editor",
+    "url": "https://github.com/instance-oom/ngx-markdown-editor",
+    "description": "Angular markdown editor based on ace editor."
+  },
+  {
+    "name": "angular-markdown-editor",
+    "url": "https://github.com/ghiscoding/angular-markdown-editor",
+    "description": "Angular Markdown Editor. All-in-one Markdown Editor and Preview."
+  },
+  {
     "name": "rx-angular",
     "url": "https://github.com/rx-angular/rx-angular",
     "description": "RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience."
@@ -2841,11 +2865,6 @@
     "name": "spartan",
     "url": "https://github.com/goetzrobin/spartan",
     "description": "Cutting-edge tools powering Angular full-stack development."
-  },
-  {
-    "name": "ngx-markdown",
-    "url": "https://github.com/jfcere/ngx-markdown",
-    "description": "Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js."
   },
   {
     "name": "ngify",

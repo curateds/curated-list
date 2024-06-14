@@ -1418,6 +1418,11 @@
     "description": "OpenLaw.io. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation \"smart\" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications."
   },
   {
+    "name": "Domain Specific Language for Smart Contract Development",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9169399",
+    "description": "ICBC'20, 2020. [All Versions]. [Preprint]. This research addresses the understanding hardness raised from the conceptual discrepancy between contractual clauses and corresponding code of the Solidity programming language, by the design and study of a domain-specific smart contract language based on higher level of abstraction that can be automatically transformed to an implementation."
+  },
+  {
     "name": "iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms",
     "url": "https://www.sciencedirect.com/science/article/pii/S0950584921002081",
     "description": "Information and Software Technology, 2022. [All Versions]. A reference model and platform agnostic language for smart contracts."

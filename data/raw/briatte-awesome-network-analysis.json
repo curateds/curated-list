@@ -99,6 +99,11 @@
     "url": "https://www.wiley.com/en-gb/Social+Network+Analysis+with+Applications-p-9781118169476"
   },
   {
+    "name": "Social Networks. An Introduction",
+    "url": "https://olizardo.github.io/networks-textbook/",
+    "description": "free to read online (2023)."
+  },
+  {
     "name": "Social Networks: An Introduction",
     "url": "https://www.routledge.com/products/9780415458030"
   },
@@ -558,6 +563,11 @@
     "description": "R data-centric package."
   },
   {
+    "name": "igraphwalshdata",
+    "url": "https://cran.r-project.org/package=igraphwalshdata",
+    "description": "Another R data-centric package."
+  },
+  {
     "name": "Interaction Web Database",
     "url": "http://www.ecologia.ib.usp.br/iwdb/",
     "description": "Ecological species interactions."
@@ -629,7 +639,7 @@
   },
   {
     "name": "Stanford Large Network Dataset Collection",
-    "url": "http://snap.stanford.edu/data/index.html"
+    "url": "https://snap.stanford.edu/data/index.html"
   },
   {
     "name": "State Networks",
@@ -851,8 +861,8 @@
     "url": "http://mucha.web.unc.edu/networks/"
   },
   {
-    "name": "Social Network Analysis Group at Stanford",
-    "url": "http://sna.stanford.edu/"
+    "name": "Stanford Network Analysis Project",
+    "url": "https://snap.stanford.edu/"
   },
   {
     "name": "Warren Center for Network & Data Sciences at the University of Pennsylvania",
@@ -960,6 +970,11 @@
     "name": "Network Dynamics",
     "url": "http://networkdynamics.org/",
     "description": "Research Lab at McGill University, led by Derek Ruths"
+  },
+  {
+    "name": "NEtwoRks, Data, and Society (NERDS)",
+    "url": "https://nerds.itu.dk/",
+    "description": "Research group at IT University of Copenhagen."
   },
   {
     "name": "Netzwerkerei",
@@ -1785,6 +1800,11 @@
     "description": "C++ algorithm, also available as a Gephi plugin."
   },
   {
+    "name": "RAPIDS cuGraph",
+    "url": "https://github.com/rapidsai/cugraph",
+    "description": "Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics."
+  },
+  {
     "name": "Stanford Network Analysis Project",
     "url": "http://snap.stanford.edu/",
     "description": "C++ general purpose network analysis and graph mining library. Available as a Python library and in Microsoft Excel via NodeXL."
@@ -2044,6 +2064,11 @@
     "description": "Python module for network manipulation and analysis, written mostly in C++ for speed."
   },
   {
+    "name": "Graphinate",
+    "url": "https://erivlis.github.io/graphinate/",
+    "description": "Python package aimed at generating graphs from data sources, built on top of networkx."
+  },
+  {
     "name": "graphviz",
     "url": "https://pypi.python.org/pypi/graphviz",
     "description": "Python renderer for the DOT graph drawing language."
@@ -2107,6 +2132,11 @@
     "description": "Python algorithms for community detection in n-partite networks."
   },
   {
+    "name": "parag",
+    "url": "https://github.com/rraadd88/parag",
+    "description": "Interactive visualization of higher-order graphs in Python."
+  },
+  {
     "name": "PyGraphistry",
     "url": "https://github.com/graphistry/pygraphistry",
     "description": "Python library to extract, transform, and visually explore big graphs."
@@ -2125,6 +2155,16 @@
     "name": "Raphtory",
     "url": "https://www.raphtory.com/",
     "description": "A platform for building and analysing temporal networks."
+  },
+  {
+    "name": "RAPIDS cuGraph",
+    "url": "https://github.com/rapidsai/cugraph",
+    "description": "Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics."
+  },
+  {
+    "name": "rustworkx",
+    "url": "https://github.com/Qiskit/rustworkx",
+    "description": "A high performance Python graph library implemented in Rust."
   },
   {
     "name": "scipy.sparse.csgraph",
@@ -2706,6 +2746,10 @@
     "description": "Graph query language used by Neo4j."
   },
   {
+    "name": "A tutorial for network centrality in R",
+    "url": "https://github.com/schochastics/centrality"
+  },
+  {
     "name": "Basic and Advanced Network Visualization with Gephi and R",
     "url": "http://kateto.net/sunbelt2016"
   },
@@ -2726,6 +2770,10 @@
     "name": "Static and Dynamic Network Visualization with R",
     "url": "http://kateto.net/network-visualization",
     "description": "Covers the igraph, network, ggraph, network, networkD3, ndtv, threejs and visNetwork packages (2019)."
+  },
+  {
+    "name": "Tidy Network Analysis in R using the tidygraph package",
+    "url": "https://mr.schochastics.net/material/tidynetAnaR/"
   },
   {
     "name": "+100 herramientas para el análisis de redes sociales",

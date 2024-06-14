@@ -1319,6 +1319,16 @@
     "description": "Look up a phone numbers carrier type, location, etc. Twilio offers free accounts that come with credits you can use with their API. Each lookup is only ~$0.01-$0.02 typically on US and CAN numbers."
   },
   {
+    "name": "FaxVIN",
+    "url": "https://www.faxvin.com/",
+    "description": "Vehicle History Reports. A license plate lookup tool that returns info like VIN, make & model of vehicle, age, and numerous other details."
+  },
+  {
+    "name": "EpicVIN",
+    "url": "https://epicvin.com/",
+    "description": "Vehicle reports are compiled from various data sources, including historical accident records from state agencies and other entities like NMVTIS. License plate lookup that returns VIN and car millage."
+  },
+  {
     "name": "Academia",
     "url": "http://academia.edu",
     "description": "is a platform for sharing academic research."
