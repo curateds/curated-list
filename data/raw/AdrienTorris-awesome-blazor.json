@@ -1289,6 +1289,21 @@
     "description": "Try .NET provides developers and content authors with tools to create interactive experiences."
   },
   {
+    "name": "Blazor and Orchard Core with Peter Matthews - Orchard Core Pair Programming by Lombiq",
+    "url": "https://www.youtube.com/watch?v=IZioflrC1Ho",
+    "description": "Orchard Core Pair Programming by Lombiq - June 17, 2024 - Join this session of Orchard Core Pair Programming by Lombiq! In these, we do an hour of pair programming with an Orchard Core community member about a project of theirs. We learn together a lot, share best practices, and write some good code. All this is live, and you can join us with your questions!"
+  },
+  {
+    "name": "Building Real-Time Web Applications with Blazor and Akka.NET",
+    "url": "https://www.youtube.com/watch?v=jRYVp_lySl8",
+    "description": "June 13, 2024 - This talk presents how you can use Akka.NET and Blazor to build scalable, streaming web applications without JavaScript or any fuss. Pure C# end to end."
+  },
+  {
+    "name": "ASP.NET Community Standup: Static web asset improvements in .NET 9",
+    "url": "https://www.youtube.com/watch?v=PkQgcEUCnQk",
+    "description": "June 11, 2024 - Learn about some of the static web asset improvements coming in .NET 9."
+  },
+  {
     "name": "On .NET Live: Generating sound in Blazor with Blazor.WebAudio",
     "url": "https://www.youtube.com/watch?v=gVZJohJq3c8",
     "description": "June 3, 2024 - Are you using audio in your Blazor applications? This week, Kristoffer Stube joins us to talk about Blazor.WebAudio, a Blazor library for playing, generating, and analyzing sound! This library and the libraries surrounding it enable developers to make rich interactive applications in a safe fashion."
@@ -1917,6 +1932,16 @@
     "name": "Archives",
     "url": "https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives",
     "description": "2021, 2020, 2019, 2018, 2017."
+  },
+  {
+    "name": "Blazor Basics: Blazor Render Modes in .NET 8",
+    "url": "https://www.telerik.com/blogs/blazor-basics-blazor-render-modes-net-8",
+    "description": "June 12, 2024 - This article is about the new Blazor render modes in .NET 8, including ServerInteractivity, WebAssemblyInteractivity, AutoInteractivity and static server-side rendering (SSR)."
+  },
+  {
+    "name": "The usage of Blazor.Diagrams",
+    "url": "https://www.slaveoftime.fun/blog/the-usage-of-blazor.diagrams",
+    "description": "June 11, 2024 - How to use Blazor.Diagrams."
   },
   {
     "name": "Blazor in .NET 9 Takes Shape (Preview 4 Highlights)",

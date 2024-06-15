@@ -1458,6 +1458,11 @@
     "description": "Artificial Intelligence, 1997. [All Versions]."
   },
   {
+    "name": "A Logic Programming Language for Computational Nucleic Acid Devices",
+    "url": "https://pubs.acs.org/doi/10.1021/acssynbio.8b00229",
+    "description": "ACS Synthetic Biology, 2018. [All Versions]. This paper presents a logic programming language that allows a broad range of computational nucleic acid systems to be designed and analyzed. The language extends standard logic programming with a novel equational theory to express nucleic acid molecular motifs. It automatically identifies matching motifs present in the full system, in order to apply a specified transformation expressed as a logical rule."
+  },
+  {
     "name": "pix2code: Generating Code from a Graphical User Interface Screenshot",
     "url": "https://dl.acm.org/doi/abs/10.1145/3220134.3220135",
     "description": "ACM SIGCHI Symposium on Engineering Interactive Computing Systems, 2018. [All Versions]. [Code]. [Website]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies)."

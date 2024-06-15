@@ -2856,6 +2856,11 @@
     "description": "Colorizes the output of ls."
   },
   {
+    "name": "lsd (tankeryang)",
+    "url": "https://github.com/tankeryang/zsh-lsd",
+    "description": "Replaces ls and tree commands with lsd."
+  },
+  {
     "name": "lsd (wintermi)",
     "url": "https://github.com/wintermi/zsh-lsd",
     "description": "Override ls and tree commands with lsd."
@@ -3180,7 +3185,12 @@
     "url": "https://github.com/dacarey/zsh-nvim-switcher"
   },
   {
-    "name": "nvm-auto-use",
+    "name": "nvm-auto-use (jrr997)",
+    "url": "https://github.com/jrr997/zsh-nvm-auto-use",
+    "description": "Automatically manages your Node.js versions with nvm based on your current directory."
+  },
+  {
+    "name": "nvm-auto-use (tomsquest)",
     "url": "https://github.com/tomsquest/nvm-auto-use.zsh",
     "description": "Calls nvm use automatically whenever you enter a directory that contains an .nvmrc file with a string telling nvm which node to use."
   },
@@ -5592,6 +5602,11 @@
     "name": "ipfs",
     "url": "https://github.com/hellounicorn/zsh-ipfs",
     "description": "Completions for the Interplanetary File System."
+  },
+  {
+    "name": "jenv",
+    "url": "https://github.com/cmuench/zsh-jenv",
+    "description": "Tab completions for jEnv."
   },
   {
     "name": "joe",

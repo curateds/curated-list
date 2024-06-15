@@ -2895,11 +2895,6 @@
     "description": "WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. (Source Code) MPL-2.0 Nodejs"
   },
   {
-    "name": "Homebox Inventory",
-    "url": "https://hay-kot.github.io/homebox/",
-    "description": "An inventory and organization system built for the home user with a focus on simplicity and ease of use. (Demo, Source Code) AGPL-3.0 Docker"
-  },
-  {
     "name": "Inventaire",
     "url": "https://inventaire.io/welcome",
     "description": "Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. (Source Code) AGPL-3.0 Nodejs"
@@ -5055,6 +5050,11 @@
     "description": "Brainstorm and upvote ideas and thoughts within your team. (Demo, Source Code) AGPL-3.0 Docker/Elixir"
   },
   {
+    "name": "minimal-git-server",
+    "url": "https://github.com/mcarbonne/minimal-git-server",
+    "description": "A lightweight and minimal self-hosted git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. MIT Docker"
+  },
+  {
     "name": "Octobox",
     "url": "https://octobox.io/",
     "description": "Take back control of your GitHub Notifications. (Source Code) AGPL-3.0 Ruby/Docker"
@@ -5463,6 +5463,11 @@
     "name": "Dokuwiki",
     "url": "https://www.dokuwiki.org/DokuWiki",
     "description": "Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. (Source Code) GPL-2.0 PHP"
+  },
+  {
+    "name": "Feather Wiki",
+    "url": "https://feather.wiki",
+    "description": "A lightning fast and infinitely extensible tool for creating personal non-linear notebooks, databases, and wikis that is entirely self-contained, runs in your browser, and is only 58 kilobytes in size. (Demo, Source Code, Clients) AGPL-3.0 Javascript"
   },
   {
     "name": "Gitit",
