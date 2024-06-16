@@ -6797,6 +6797,11 @@
     "description": "omz's robbyrussell with an added carriage return."
   },
   {
+    "name": "catpuccin",
+    "url": "https://github.com/JannoTjarks/catppuccin-zsh",
+    "description": "Minimalist theme. Includes decorators for current directory, exit status of last command and git status."
+  },
+  {
     "name": "cayun",
     "url": "https://github.com/comeacrossyun/ys-cayun.zsh-theme",
     "description": "Shows active Python version and git decorations in the prompt."
@@ -8785,6 +8790,11 @@
     "description": "Inspired by kolo theme from oh-my-zsh."
   },
   {
+    "name": "mint",
+    "url": "https://github.com/FalconLee1011/mint-zsh-theme",
+    "description": "Includes decorators for current directory, whether running on a laptop or a desktop, and git status."
+  },
+  {
     "name": "mira",
     "url": "https://github.com/mbStavola/mira",
     "description": "A modified bira with time info and a simplified start prompt."
@@ -9688,6 +9698,11 @@
     "name": "redline",
     "url": "https://github.com/DrissTM/redline.zsh-theme",
     "description": "Minimalist theme. Includes git status, time, user."
+  },
+  {
+    "name": "refined-flower",
+    "url": "https://github.com/idaMakelaWork/refined-flower",
+    "description": "Requires a terminal program that can handle emoji. Includes git status decorator."
   },
   {
     "name": "refpx",
