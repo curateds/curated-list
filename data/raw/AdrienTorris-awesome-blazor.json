@@ -1,9 +1,5 @@
 [
   {
-    "name": "build.microsoft.com",
-    "url": "https://build.microsoft.com/"
-  },
-  {
     "name": "ASP.NET Blog's archives",
     "url": "https://devblogs.microsoft.com/aspnet/category/blazor/",
     "description": "Archives of the ASP.NET blog about Blazor."
@@ -772,6 +768,16 @@
     "description": "A fully featured calendar UI component for viewing and creating events, tasks, and milestones. Month, week, and daily views. Blazor Calendar wraps the fully featured Toast UI Calendar JS library. MIT License. Sample project."
   },
   {
+    "name": "Blazor.Diagrams",
+    "url": "https://github.com/Blazor-Diagrams",
+    "description": "Z.Blazor.Diagrams is a fully customizable and extensible all-purpose diagrams library for Blazor (both Server Side and WASM). It was first inspired by the popular React library react-diagrams, but then evolved into something much bigger. ZBD can be used to make advanced diagrams with a custom design. Even the behavior of the library is \"hackable\" and can be changed to suit your needs."
+  },
+  {
+    "name": "Excubo.Blazor.Diagrams",
+    "url": "https://github.com/excubo-ag/Blazor.Diagrams",
+    "description": "Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). Demo."
+  },
+  {
     "name": "BlazorGoogleMaps",
     "url": "https://github.com/rungwiroon/BlazorGoogleMaps",
     "description": "Blazor interop for GoogleMap library."
@@ -822,11 +828,6 @@
     "description": "A context menu component for Blazor (Demo)."
   },
   {
-    "name": "Z.Blazor.Diagrams",
-    "url": "https://github.com/zHaytam/Blazor.Diagrams",
-    "description": "A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. Demo."
-  },
-  {
     "name": "Blazored.Typeahead",
     "url": "https://github.com/Blazored/Typeahead",
     "description": "Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor."
@@ -840,11 +841,6 @@
     "name": "BlazorDownloadFile",
     "url": "https://github.com/arivera12/BlazorDownloadFile",
     "description": "Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility."
-  },
-  {
-    "name": "Excubo.Blazor.Diagrams",
-    "url": "https://github.com/excubo-ag/Blazor.Diagrams",
-    "description": "Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). Demo."
   },
   {
     "name": "Blazor.FileSystemAccess",

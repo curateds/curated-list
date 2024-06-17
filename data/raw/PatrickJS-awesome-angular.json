@@ -1017,6 +1017,11 @@
     "description": "Serve your Angular CLI project then run a command on top of it."
   },
   {
+    "name": "ngx-starter",
+    "url": "https://github.com/bluehalo/ngx-starter",
+    "description": "An @angular/cli based starter containing common components and services as well as a reference site."
+  },
+  {
     "name": "aws amplify",
     "url": "https://docs.amplify.aws/angular/"
   },
@@ -1198,6 +1203,11 @@
     "description": "A reactive HTTP client in the form of @angular/common/http, offers the following major features: typed response objects, streamlined error handling, request and response interception."
   },
   {
+    "name": "ngx-http-annotations",
+    "url": "https://github.com/manudss/ngx-http-annotations",
+    "description": "Updated fork of ngx-http-rest, which allows you to interact with rest api in your Angular app through annotations."
+  },
+  {
     "name": "apollo-angular",
     "url": "https://github.com/apollographql/apollo-angular",
     "description": "Caching GraphQL client for Angular and every GraphQL server."
@@ -1336,6 +1346,11 @@
     "name": "angular-tauri",
     "url": "https://github.com/maximegris/angular-tauri",
     "description": "Ultra-fast bootstrapping with Angular and Tauri."
+  },
+  {
+    "name": "ngx-three",
+    "url": "https://github.com/demike/ngx-three",
+    "description": "Use Three.js with your Angular project in a declarative way."
   },
   {
     "name": "transloco",
@@ -3052,6 +3067,11 @@
     "description": "A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach."
   },
   {
+    "name": "ngx-sherlock",
+    "url": "https://github.com/politie/ngx-sherlock",
+    "description": "ngx-sherlock is an Angular tooling library to be used with the @politie/sherlock distributed reactive state management library."
+  },
+  {
     "name": "ngx-reactive-storage",
     "url": "https://github.com/e-oz/ngx-reactive-storage",
     "description": "Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables."
@@ -3130,6 +3150,51 @@
     "name": "ngx-export-as",
     "url": "https://github.com/wnabil/ngx-export-as",
     "description": "Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF."
+  },
+  {
+    "name": "helipopper",
+    "url": "https://github.com/ngneat/helipopper",
+    "description": "A Powerful Tooltip and Popover for Angular Applications."
+  },
+  {
+    "name": "popover",
+    "url": "https://github.com/ncstate-sat/popover",
+    "description": "Popover component for Angular."
+  },
+  {
+    "name": "angular-confirmation-popover",
+    "url": "https://github.com/mattlewis92/angular-confirmation-popover",
+    "description": "An angular 15.0+ bootstrap confirmation popover."
+  },
+  {
+    "name": "ngx-tooltip-directives",
+    "url": "https://github.com/mkeller1992/ngx-tooltip-directives",
+    "description": "This library offers three different tooltip directives (string, html and template) and draws inspiration from the no longer maintained ng2-tooltip-directive."
+  },
+  {
+    "name": "ng2-tooltip-directive",
+    "url": "https://github.com/cloudfactorydk/ng2-tooltip-directive",
+    "description": "Forked from ng2-tooltip-directive."
+  },
+  {
+    "name": "angular-tooltip",
+    "url": "https://github.com/babybeet/angular-tooltip",
+    "description": "Easily show tooltips programmatically and/or declaratively in Angular."
+  },
+  {
+    "name": "ngx-tippy-wrapper",
+    "url": "https://github.com/farengeyt451/ngx-tippy-wrapper",
+    "description": "Angular wrapper for Tippy.js."
+  },
+  {
+    "name": "tooltip-testing",
+    "url": "https://github.com/chandumaram/tooltip-testing",
+    "description": "Tooltip for Angular, forked from cm-angular-tooltip"
+  },
+  {
+    "name": "angular-ellipsis-tooltip",
+    "url": "https://github.com/wandri/angular-ellipsis-tooltip",
+    "description": "Angular component to display ellipsis and material tooltip dynamically."
   },
   {
     "name": "Dev Extreme",
@@ -3441,21 +3506,6 @@
     "description": "All the Fake Data for All Your Real Needs."
   },
   {
-    "name": "helipopper",
-    "url": "https://github.com/ngneat/helipopper",
-    "description": "A Powerful Tooltip and Popover for Angular Applications."
-  },
-  {
-    "name": "popover",
-    "url": "https://github.com/ncstate-sat/popover",
-    "description": "Popover component for Angular."
-  },
-  {
-    "name": "angular-confirmation-popover",
-    "url": "https://github.com/mattlewis92/angular-confirmation-popover",
-    "description": "An angular 15.0+ bootstrap confirmation popover."
-  },
-  {
     "name": "ngx-device-detector",
     "url": "https://github.com/AhsanAyaz/ngx-device-detector",
     "description": "An Angular v7+ library to detect the device, OS, and browser details."
@@ -3534,6 +3584,11 @@
     "name": "ng-parsel",
     "url": "https://github.com/angular-experts-io/ng-parsel",
     "description": "Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis."
+  },
+  {
+    "name": "ngx-signal-immutability",
+    "url": "https://github.com/zuriscript/ngx-signal-immutability",
+    "description": "Compile-time and runtime immutability for Angular signals."
   },
   {
     "name": "Ionic Framework",
