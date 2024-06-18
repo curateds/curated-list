@@ -335,9 +335,9 @@
     "description": "Get your Kobo e-reader device bookmarks and annotations in a .txt file."
   },
   {
-    "name": "hCaptcha",
-    "url": "https://www.hcaptcha.com/",
-    "description": "Privacy-first CAPTCHA for web, mobile, and more."
+    "name": "Altcha.org",
+    "url": "https://altcha.org",
+    "description": "Free, open-source and self-hosted CAPTCHA alternative using proof-of-work mechanism."
   },
   {
     "name": "mCaptcha",
@@ -950,8 +950,8 @@
     "description": "A modern, secure and privacy-friendly platform to establish your decentralized online identity."
   },
   {
-    "name": "LinkFree",
-    "url": "https://github.com/EddieHubCommunity/LinkFree",
+    "name": "BioDrop",
+    "url": "https://github.com/EddieHubCommunity/BioDrop",
     "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe."
   },
   {
@@ -1875,6 +1875,11 @@
     "description": "A privacy respecting search engine with its own independent index."
   },
   {
+    "name": "Qwant",
+    "url": "https://www.qwant.com/",
+    "description": "A zero tracking search engine made and hosted in France, EU."
+  },
+  {
     "name": "Farside",
     "url": "https://github.com/benbusby/farside",
     "description": "A smart redirecting gateway for various frontend services."
@@ -2443,6 +2448,11 @@
     "name": "Tor Browser",
     "url": "https://www.torproject.org/",
     "description": "iOS/Android. Defend yourself against tracking and surveillance and circumvent censorship."
+  },
+  {
+    "name": "Cromite",
+    "url": "https://www.cromite.org/",
+    "description": "Cromite is a Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy."
   },
   {
     "name": "Ungoogled Chromium",
