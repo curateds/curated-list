@@ -777,6 +777,11 @@
     "description": "Proxy middleware for Deno Oak HTTP servers."
   },
   {
+    "name": "oak-routing-ctrl",
+    "url": "https://github.com/Thesephi/oak-routing-ctrl",
+    "description": "TypeScript Decorators for easy scaffolding API services with the oak framework."
+  },
+  {
     "name": "opine",
     "url": "https://github.com/asos-craigmorten/opine",
     "description": "Fast, minimalist web framework ported from ExpressJS."

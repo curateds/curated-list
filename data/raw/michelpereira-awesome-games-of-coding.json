@@ -1,5 +1,10 @@
 [
   {
+    "name": "Lambda Spellcrafting Academy",
+    "url": "https://www.bittwiddlegames.com/lambda-spellcrafting-academy/",
+    "description": "A visual programming / puzzle game where you build spells to solve puzzles. Covers introductory programming, as well as some data structures and algorithms. The language is inspired by Lisp, but the game focuses on programming fundamentals that apply to most languages."
+  },
+  {
     "name": "Codingame",
     "url": "https://www.codingame.com/home",
     "description": "A platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics."
@@ -68,6 +73,11 @@
     "name": "Robot Rumble",
     "url": "https://robotrumble.org/",
     "description": "A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool."
+  },
+  {
+    "name": "DeepestWorld",
+    "url": "https://deepestworld.com/",
+    "description": "A browser MMORPG where you can code your character with JavaScript. Explore a boundless, persistent open world devoid of loading screens, where a multitude of biomes and creatures come together to form a living, breathing world."
   },
   {
     "name": "Robocode",

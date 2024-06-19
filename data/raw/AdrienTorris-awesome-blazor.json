@@ -105,6 +105,11 @@
     "description": "Serie of videos on YouTube who explain how to build your own IDE from scratch with Blazor and .NET. Starting point repo  . Blazor Studio repo  ."
   },
   {
+    "name": "BlazorSwa Template",
+    "url": "https://github.com/albx/BlazorSwa.Template",
+    "description": "This is a simple template for the .NET CLI which allows to create a Blazor project ready to be deployed in an Azure Static Web Apps. It allows to create an Azure Function project as backend."
+  },
+  {
     "name": "Cledev.OpenAI",
     "url": "https://github.com/lucabriguglia/Cledev.OpenAI",
     "description": ".NET 7 SDK for OpenAI with a Blazor Server playground."
@@ -138,6 +143,11 @@
     "name": "Blazor-WASM-AzureAD-gRPC",
     "url": "https://github.com/StefH/BlazorWasmGrpcWithAADAuth",
     "description": "Blazor WASM, Azure AD, REST & gRPC."
+  },
+  {
+    "name": "BlazorWasmOidcKeycloak",
+    "url": "https://github.com/wildermedeiros/BlazorAppWasmAuth",
+    "description": "Blazor WebAssembly application using OpenID Connect (OIDC) authentication with Microsoft Identity and Keycloak."
   },
   {
     "name": "Quiz manager secured by Auth0",
@@ -463,6 +473,11 @@
     "description": "An application for learning foreign words using flashcards and spaced repetition."
   },
   {
+    "name": "BlazorAndTailwind",
+    "url": "https://github.com/tesar-tech/BlazorAndTailwind",
+    "description": "Sample project, guide and tips for setting up TailwindCSS in Blazor."
+  },
+  {
     "name": "Css in Blazor presentation's source code",
     "url": "https://github.com/EdCharbeneau/Css-For-Blazor-Developers-Presentation",
     "description": "Source code of a presentation by Ed Charbeneau about Blazor and CSS."
@@ -663,9 +678,19 @@
     "description": "Complete toolset for implementing commercial business applications. It includes the equivalent of all Bootstrap JavaScript components, all html5 input types with widgets fallbacks, advanced editable components like DataGrid, TreeView, DetailView, ModalDetail, DetailList. All components have default customizable templates, and support virtualizazion and Drag & Drop. Component rendering is meta-data driven, so component configuration is in part automatic, and in part can be driven with data annotations. The toolset includes also query tools, to issue complex local or remote queries, changes-tracking tools to send only the changed records to the server, advanced validation attributes, globalization tools, \"Behaviors\" that modify existing components, state management and save, and more."
   },
   {
+    "name": "Blazor.WebForm.Components",
+    "url": "https://github.com/Jurioli/Blazor.WebForm.Components",
+    "description": "ASP.NET Web Forms System.Web.UI.WebControls Razor Components For Blazor WebAssembly. Demo."
+  },
+  {
     "name": "BlazorOcticons",
     "url": "https://github.com/BlazorOcticons/BlazorOcticons",
     "description": "Github Octicons created as a .razor components and available via the NuGet package. The project website is an example using the generated components."
+  },
+  {
+    "name": "ABP Framework",
+    "url": "https://github.com/abpframework/abp",
+    "description": "ABP Framework is a complete infrastructure to create modern web applications by following the best practices and conventions of software development."
   },
   {
     "name": "Nevron Open Vision Components for Blazor",
@@ -703,8 +728,23 @@
     "description": "Brings ChartJs charts to Blazor."
   },
   {
+    "name": "Blazor-Charts",
+    "url": "https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts",
+    "description": "SVG charts for Blazor."
+  },
+  {
+    "name": "GG.Net Data Visualization",
+    "url": "https://github.com/pablofrommars/GGNet",
+    "description": "Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. Website."
+  },
+  {
+    "name": "Blazor-Sparkline",
+    "url": "https://github.com/Misfits-Rebels-Outcasts/Blazor-Sparkline",
+    "description": "Sparkline Charts for Blazor using Fonts."
+  },
+  {
     "name": "Blazor-ApexCharts",
-    "url": "https://github.com/joadan/Blazor-ApexCharts",
+    "url": "https://github.com/apexcharts/Blazor-ApexCharts",
     "description": "Blazor wrapper for ApexCharts. Demo."
   },
   {
@@ -721,6 +761,11 @@
     "name": "ChartJs for Blazor",
     "url": "https://github.com/erossini/BlazorChartjs",
     "description": "This is a NuGet package for Blazor to use ChartJs, constantly updated with new features."
+  },
+  {
+    "name": "UnlockedData.Chartist.Blazor",
+    "url": "https://github.com/UnlockedData/UnlockedData.Chartist.Blazor",
+    "description": "Blazor wrapper for Chartist.js bundled with Chartist.js plugins."
   },
   {
     "name": "BlazorSize",
@@ -935,6 +980,11 @@
     "name": "Blazor File Drop Zone",
     "url": "https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/",
     "description": "Surround an \"input type=file\" element by this Blazor component to making a zone that accepts drag and drops files (Demo)."
+  },
+  {
+    "name": "Knob",
+    "url": "https://github.com/MelihAltintas/Blazor-Knob/",
+    "description": "Knob Control for Blazor."
   },
   {
     "name": "BlazorCurrentDevice",
@@ -1283,6 +1333,11 @@
     "name": "Try .NET",
     "url": "https://github.com/dotnet/try",
     "description": "Try .NET provides developers and content authors with tools to create interactive experiences."
+  },
+  {
+    "name": "ASP.NET Community Standup: Building Aspireify.net",
+    "url": "https://www.youtube.com/watch?v=hzemJE_jcrI",
+    "description": "June 18, 2024 - Join Jeff Fritz as he shows how he built Aspireify.net with .NET 8, Blazor, Microsoft Azure and .NET Aspire. Community links."
   },
   {
     "name": "Blazor and Orchard Core with Peter Matthews - Orchard Core Pair Programming by Lombiq",

@@ -1514,6 +1514,11 @@
     "description": "Validate environment variables against a Valibot schema."
   },
   {
+    "name": "vite-plugin-vitest-cache",
+    "url": "https://github.com/raegen/vite-plugin-vitest-cache",
+    "description": "Optimize Vitest execution time through caching."
+  },
+  {
     "name": "vitest",
     "url": "https://github.com/vitest-dev/vitest",
     "description": "A Vite-native test framework."
@@ -2136,6 +2141,11 @@
     "name": "@lazarv/react-server",
     "url": "https://github.com/lazarv/react-server",
     "description": "A React meta-framework."
+  },
+  {
+    "name": "WXT",
+    "url": "https://github.com/wxt-dev/wxt",
+    "description": "Framework for building web extensions, with the same DX as Nuxt."
   },
   {
     "name": "Icônes",

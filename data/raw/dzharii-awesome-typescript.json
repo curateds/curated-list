@@ -333,11 +333,6 @@
     "description": "supports CommonJS and AMD module bundling"
   },
   {
-    "name": "TypeScript and webpack",
-    "url": "http://www.jbrantly.com/typescript-and-webpack/",
-    "description": "How to configure Webpack for TypeScript with source map support"
-  },
-  {
     "name": "Browserify",
     "url": "http://browserify.org/",
     "description": "CommonJS module bundler. Does not support TypeScript \"out of the box\", but can be applied with * Grunt tasks: grunt-ts, grunt-browserify, grunt-contrib-uglify"
@@ -402,11 +397,6 @@
     "description": "Easily install new dependencies and their typings, no matter where they may be"
   },
   {
-    "name": "Interactive TypeScript AST Viewer",
-    "url": "https://ast.carlosroso.com/",
-    "description": "Write TypeScript snippets and explore its AST."
-  },
-  {
     "name": "type-config",
     "url": "https://github.com/Saul-Mirone/type-config",
     "description": "A generator for tsconfig."
@@ -435,6 +425,11 @@
     "name": "pg",
     "url": "https://github.com/datawan-labs/pg",
     "description": "Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)"
+  },
+  {
+    "name": "nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative"
   },
   {
     "name": "jsonup",
@@ -766,10 +761,6 @@
     "url": "https://github.com/fuselabs/jsxtyper"
   },
   {
-    "name": "Building a simple react component with typescript",
-    "url": "http://www.austentalbot.com/how-to-use-react-with-typescript/"
-  },
-  {
     "name": "TodoMVC • TypeScript + React Example",
     "url": "https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react"
   },
@@ -881,7 +872,7 @@
   {
     "name": "ZenTS",
     "url": "https://github.com/sahachide/ZenTS",
-    "description": "A modern Node.js and TypeScript first framework for building rich web applications (see also: https://zents.dev)"
+    "description": "A modern Node.js and TypeScript first framework for building rich web applications"
   },
   {
     "name": "Booster Framework",
@@ -1153,10 +1144,6 @@
     "url": "https://www.youtube.com/watch?v=1TW9SdHIiXI"
   },
   {
-    "name": "List of free online courses about Typescript",
-    "url": "https://skillcombo.com/topic/typescript/free"
-  },
-  {
     "name": "Functional Programming with TypeScript",
     "url": "https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo",
     "description": "Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist."
@@ -1202,10 +1189,6 @@
     "name": "Mastering TypeScript - 2022 Edition",
     "url": "https://www.udemy.com/course/learn-typescript/",
     "description": "2022 Edition (Udemy)"
-  },
-  {
-    "name": "List of paid online courses about Typescript",
-    "url": "https://skillcombo.com/topic/typescript/"
   },
   {
     "name": "Converting your vanilla JavaScript app to TypeScript",
