@@ -180,6 +180,11 @@
     "description": "A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]"
   },
   {
+    "name": "rpp",
+    "url": "https://github.com/TheNumbat/rpp",
+    "description": "Minimal Rust-inspired C++20 STL replacement. [MIT]"
+  },
+  {
     "name": "SaneCppLibraries",
     "url": "https://github.com/Pagghiu/SaneCppLibraries",
     "description": "a set of C++ platform abstraction libraries for macOS, Windows and Linux. [MIT] website"

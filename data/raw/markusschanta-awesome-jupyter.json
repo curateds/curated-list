@@ -115,6 +115,11 @@
     "description": "Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock."
   },
   {
+    "name": "jupyterquiz",
+    "url": "https://github.com/jmshea/jupyterquiz",
+    "description": "An interactive quiz generator for Jupyter notebooks and Jupyter Book."
+  },
+  {
     "name": "LTI Launch JupyterHub Authenticator",
     "url": "https://github.com/jupyterhub/ltiauthenticator",
     "description": "Authentication via Edx."
@@ -478,6 +483,11 @@
     "name": "ReviewNB",
     "url": "https://www.reviewnb.com/",
     "description": "Code reviews for Jupyter Notebooks."
+  },
+  {
+    "name": "amphi-etl",
+    "url": "https://github.com/amphi-ai/amphi-etl",
+    "description": "Low-code ETL extension for Jupyterlab."
   },
   {
     "name": "celltags",

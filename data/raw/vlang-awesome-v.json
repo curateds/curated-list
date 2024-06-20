@@ -20,6 +20,10 @@
     "description": "CLI tool to help you \"clone all\" git repositories belonging to you. Works with GitHub and Gitea."
   },
   {
+    "name": "lsv",
+    "url": "https://github.com/mike-ward/lsv"
+  },
+  {
     "name": "portctl",
     "url": "https://github.com/apoprotsky/portctl",
     "description": "CLI tool to manage Docker Swarm resources using Portainer API."
