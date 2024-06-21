@@ -670,6 +670,11 @@
     "description": "Verified hash-based approximate membership structures such as Bloom filters."
   },
   {
+    "name": "CertiCoq",
+    "url": "https://github.com/CertiCoq/certicoq",
+    "description": "Verified compiler from Gallina, the internal language of Coq, down to CompCert's Clight language."
+  },
+  {
     "name": "Fiat-Crypto",
     "url": "https://github.com/mit-plv/fiat-crypto",
     "description": "Cryptographic primitive code generation."
@@ -708,6 +713,11 @@
     "name": "RISC-V Specification in Coq",
     "url": "https://github.com/mit-plv/riscv-coq",
     "description": "Definition of the RISC-V processor instruction set architecture and extensions."
+  },
+  {
+    "name": "Stable sort algorithms in Coq",
+    "url": "https://github.com/pi8027/stablesort",
+    "description": "Generic and modular proofs of correctness, including stability, of mergesort functions."
   },
   {
     "name": "Tarjan and Kosaraju",
@@ -800,10 +810,6 @@
   {
     "name": "Planet Coq link aggregator",
     "url": "https://coq.pl-a.net"
-  },
-  {
-    "name": "Sherlocoq code search",
-    "url": "https://sherlocoq.sirref.org"
   },
   {
     "name": "Coq Exchange: ideas and experiment reports about Coq",

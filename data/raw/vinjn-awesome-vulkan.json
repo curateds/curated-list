@@ -307,6 +307,14 @@
     "url": "https://www.lunarg.com/vulkan-white-papers/"
   },
   {
+    "name": "VulkanHub",
+    "url": "https://vkdoc.net"
+  },
+  {
+    "name": "VulkanHub",
+    "url": "https://vkdoc.net"
+  },
+  {
     "name": "How to Learn Vulkan",
     "url": "https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html",
     "description": "Meta post on how to learn Vulkan"
@@ -851,11 +859,6 @@
     "description": "Cross-platform easy-to-use C++ framework that allows you to quickly initialize Vulkan and get a ready-made environment. Provides high-level abstraction over basic Vulkan objects."
   },
   {
-    "name": "VkHLF",
-    "url": "https://github.com/nvpro-pipeline/VkHLF",
-    "description": "Vulkan High Level Framework. [LICENSE]"
-  },
-  {
     "name": "Vulkan Launchpad",
     "url": "https://github.com/cg-tuwien/VulkanLaunchpad",
     "description": "Vulkan framework for Windows, macOS, and Linux. Especially well-suited for Vulkan beginners, used in university education, by the Research Unit of Computer Graphics, TU Wien. [MIT]"
@@ -959,6 +962,16 @@
     "name": "SPIRV-Cross",
     "url": "https://github.com/KhronosGroup/SPIRV-Cross",
     "description": "Library for reflection of spirv, simplify the creation of Vulkan pipeline layouts [ Apache-2.0 License]"
+  },
+  {
+    "name": "VkHLF",
+    "url": "https://github.com/nvpro-pipeline/VkHLF",
+    "description": "Vulkan High Level Framework. [LICENSE]"
+  },
+  {
+    "name": "VkHLF",
+    "url": "https://github.com/nvpro-pipeline/VkHLF",
+    "description": "Vulkan High Level Framework. [LICENSE]"
   },
   {
     "name": "ash",

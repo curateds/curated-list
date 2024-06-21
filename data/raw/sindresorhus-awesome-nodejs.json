@@ -2155,6 +2155,11 @@
     "description": "Persistent job and message queue."
   },
   {
+    "name": "bree",
+    "url": "https://github.com/breejs/bree",
+    "description": "Job task scheduler with worker threads, cron, date, and human syntax support."
+  },
+  {
     "name": "n",
     "url": "https://github.com/tj/n",
     "description": "Node.js version management."

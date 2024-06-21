@@ -1400,6 +1400,11 @@
     "description": "Command-Line application framework for Elixir."
   },
   {
+    "name": "elementtui",
+    "url": "https://codeberg.org/edwinvanl/elementtui",
+    "description": "Library to help create terminal user interfaces (TUI)."
+  },
+  {
     "name": "ex_cli",
     "url": "https://github.com/tuvistavie/ex_cli",
     "description": "User friendly CLI apps for Elixir."
@@ -2438,6 +2443,11 @@
     "name": "airbrake_plug",
     "url": "https://github.com/romul/airbrake_plug",
     "description": "Report errors in your Plug stack or whatever to Airbrake."
+  },
+  {
+    "name": "Backpex",
+    "url": "https://github.com/naymspace/backpex",
+    "description": "Highly customizable administration panel for Phoenix LiveView applications. (Docs, Demo)."
   },
   {
     "name": "better_params",
@@ -4168,6 +4178,11 @@
     "name": "vessel",
     "url": "https://github.com/whitfin/vessel",
     "description": "Elixir MapReduce interfaces with Hadoop Streaming integration."
+  },
+  {
+    "name": "weighted_random",
+    "url": "https://github.com/JohnJocoo/weighted_random",
+    "description": "Weighted random picking."
   },
   {
     "name": "hsnif",

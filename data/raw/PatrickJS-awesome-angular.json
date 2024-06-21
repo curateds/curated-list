@@ -134,9 +134,13 @@
     "url": "https://www.youtube.com/playlist?list=PLYJFRoKhU5SNcu5GBjIn4X3oVpy4fP1wV"
   },
   {
+    "name": "Angular Catch Up",
+    "url": "https://angular-catch-up.podbean.com/"
+  },
+  {
     "name": "Angularidades",
     "url": "https://podcasts.apple.com/us/podcast/angularidades/id1702444448",
-    "description": "Conversations about Angular in Spanish."
+    "description": "(Spanish)"
   },
   {
     "name": "Minko Gechev",
@@ -1353,6 +1357,11 @@
     "description": "Use Three.js with your Angular project in a declarative way."
   },
   {
+    "name": "ngx-facebook-messenger",
+    "url": "https://github.com/SkyZeroZx/ngx-facebook-messenger",
+    "description": "Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency."
+  },
+  {
     "name": "transloco",
     "url": "https://github.com/ngneat/transloco",
     "description": "🚀 😍 The internationalization (i18n) library for Angular."
@@ -1594,6 +1603,11 @@
     "description": "A generated wails template, currently supports Angular 17."
   },
   {
+    "name": "carbon-angular-starter",
+    "url": "https://github.com/carbon-design-system/carbon-angular-starter",
+    "description": "A simple starter app for bootstrapping applications with Carbon."
+  },
+  {
     "name": "Nzoni",
     "url": "https://nzoni.app/",
     "description": "Launch your SAAS in days with Angular."
@@ -1829,6 +1843,16 @@
     "description": "Angular Libraries Support lists community libs support for each Angular version."
   },
   {
+    "name": "ng16-dep-audit",
+    "url": "https://github.com/danielglejzner/ng16-dep-audit",
+    "description": "Quickly check which dependencies stop you from upgrading!"
+  },
+  {
+    "name": "ngx-maintenance",
+    "url": "https://github.com/danielglejzner/ngx-maintenance",
+    "description": "Can't upgrade to Angular 16+ due to old View Engine dependencies? This automates the hassle so you can easily upgrade!"
+  },
+  {
     "name": "tsparticles",
     "url": "https://github.com/tsparticles/angular/#readme",
     "description": "A component to easily add Particles animations to your Angular application."
@@ -1882,6 +1906,11 @@
     "name": "ngx-easy-view-transitions",
     "url": "https://github.com/DerStimmler/ngx-easy-view-transitions",
     "description": "Angular library for easier use of the View Transitions API."
+  },
+  {
+    "name": "ngx-typed-writer",
+    "url": "https://github.com/SkyZeroZx/ngx-typed-writer",
+    "description": "A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly)."
   },
   {
     "name": "angular-calendar",
@@ -2032,6 +2061,11 @@
     "name": "angular-fusioncharts",
     "url": "https://github.com/fusioncharts/angular-fusioncharts",
     "description": "Angular Component for FusionCharts JavaScript Charting Library."
+  },
+  {
+    "name": "ngu-flow",
+    "url": "https://github.com/uiuniversal/ngu-flow",
+    "description": "Angular flow diagram library."
   },
   {
     "name": "ngx-date-fns",
@@ -2296,6 +2330,11 @@
     "name": "file-upload",
     "url": "https://github.com/pIvan/file-upload",
     "description": "Angular module used for file upload."
+  },
+  {
+    "name": "ngx-filepond",
+    "url": "https://github.com/pqina/ngx-filepond",
+    "description": "A handy FilePond adapter component for Angular."
   },
   {
     "name": "angular-imask",
@@ -2952,6 +2991,11 @@
     "description": "With onesignal-ngx, you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app."
   },
   {
+    "name": "ngx-notifier",
+    "url": "https://github.com/sibiraj-s/ngx-notifier",
+    "description": "A Simple Notification Service for Angular applications."
+  },
+  {
     "name": "ngx-ui-scroll",
     "url": "https://github.com/dhilt/ngx-ui-scroll",
     "description": "Virtual/infinite scroll for Angular."
@@ -3337,6 +3381,11 @@
     "description": "Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well."
   },
   {
+    "name": "carbon-components-angular",
+    "url": "https://github.com/carbon-design-system/carbon-components-angular",
+    "description": "An Angular implementation of the Carbon Design System for IBM."
+  },
+  {
     "name": "MDBootstrap",
     "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
     "description": "Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation."
@@ -3601,6 +3650,21 @@
     "description": "Compile-time and runtime immutability for Angular signals."
   },
   {
+    "name": "angular-paginator",
+    "url": "https://github.com/sibiraj-s/angular-paginator",
+    "description": "Pagination Component for Angular applications."
+  },
+  {
+    "name": "ngx-flamegraph",
+    "url": "https://github.com/mgechev/ngx-flamegraph",
+    "description": "Flame graph for stack trace visualization written in Angular."
+  },
+  {
+    "name": "angular-compiler-output",
+    "url": "https://github.com/JeanMeche/angular-compiler-output",
+    "description": "See the JS output of the Angular compiler for a given angular template."
+  },
+  {
     "name": "Ionic Framework",
     "url": "https://ionicframework.com",
     "description": "Official Website for Ionic Framework."
@@ -3784,6 +3848,11 @@
     "name": "ng-event-bus",
     "url": "https://github.com/cristiammercado/ng-event-bus",
     "description": "RxJS-based message bus service for Angular."
+  },
+  {
+    "name": "audit-debounce",
+    "url": "https://github.com/loreanvictor/audit-debounce",
+    "description": "RxJS operator to debounce and audit simultaenously."
   },
   {
     "name": "TypeScript",

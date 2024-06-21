@@ -2818,6 +2818,11 @@
     "description": "Nature Communications, 2021. [All Versions]. This paper presents data-driven models for predicting the entire sequence of synthesis steps starting from a textual representation of a chemical equation, for application in batch organic chemistry."
   },
   {
+    "name": "Language models and protocol standardization guidelines for accelerating synthesis planning in heterogeneous catalysis",
+    "url": "https://www.nature.com/articles/s41467-023-43836-5",
+    "description": "Nature Communications, 2023. [All Versions]. This paper introduces a transformer model for automated synthesis protocol analysis in catalyst discovery, exemplified using single-atom heterogeneous catalysts (SACs), a rapidly expanding catalyst family. The model adeptly converts SAC protocols into action sequences, and this output is used to facilitate statistical inference of their synthesis trends and applications, potentially expediting literature review and analysis."
+  },
+  {
     "name": "Galactica: A Large Language Model for Science",
     "url": "https://galactica.org/static/paper.pdf",
     "description": "Meta AI, 2022. [All Versions]. A large language model trained on large-scale scientific corpus."

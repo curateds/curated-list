@@ -702,6 +702,16 @@
     "description": "A post that illustrates how to use the polars_encryption plugin to encrypt data with Polars by @zlobendog."
   },
   {
+    "name": "Case Study Comparing Pandas and Polars with 1 Million Rows Data",
+    "url": "https://towardsdatascience.com/statistically-confirm-your-benchmark-case-study-comparing-pandas-and-polars-with-1-million-rows-0ea04d7b61f2",
+    "description": "An blog post that compares benchmarking scores with the Independent samples t-test and Welch’s t-test using Python."
+  },
+  {
+    "name": "How to Move From Pandas to Polars",
+    "url": "https://blog.jetbrains.com/pycharm/2024/06/how-to-move-from-pandas-to-polars/#conclusion",
+    "description": "A blog post that explains how to move from Pandas to Polars using Pycharm by [@Cheukting]."
+  },
+  {
     "name": "Polars: Blazingly Fast DataFrames in Rust and Python",
     "url": "https://www.youtube.com/watch?v=kVy3-gMdViM",
     "description": "Introduction to Polars by databricks."
@@ -855,6 +865,11 @@
     "name": "Polars streaming data processing",
     "url": "https://www.youtube.com/watch?v=jMkvEFNXkks",
     "description": "A video that provides a complete tutorial on the main methods used in Polars by Digital Program Life."
+  },
+  {
+    "name": "Python: Polars Data Analysis",
+    "url": "https://www.youtube.com/watch?v=xSfeHaE9djY",
+    "description": "A video that illustrates the main features of Polars by Digital Program Life."
   },
   {
     "name": "pola-rs (@pola-rs)",
