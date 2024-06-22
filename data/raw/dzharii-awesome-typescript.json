@@ -546,6 +546,11 @@
     "description": "A JSON de/serializer to ensure everything is safe at runtime."
   },
   {
+    "name": "config",
+    "url": "https://github.com/mrspartak/config",
+    "description": "Runtime configuration resolver"
+  },
+  {
     "name": "@core/match",
     "url": "https://github.com/tani/ts-match",
     "description": "Type-safe destructuring assignment with pattern-match validation"

@@ -803,6 +803,11 @@
     "description": "POSIX-compliant bash script to manage multiple active Zig versions."
   },
   {
+    "name": "vezel-dev/zig-sdk",
+    "url": "https://github.com/vezel-dev/zig-sdk",
+    "description": "MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler."
+  },
+  {
     "name": "zigtools/zpm",
     "url": "https://github.com/zigtools/zpm",
     "description": "Unofficial Zig package manager."
@@ -1031,6 +1036,11 @@
     "name": "jmcnamara/libxlsxwriter",
     "url": "https://github.com/jmcnamara/libxlsxwriter",
     "description": "Creating Excel XLSX files."
+  },
+  {
+    "name": "alexrp/libffi",
+    "url": "https://github.com/alexrp/libffi",
+    "description": "libffi with a Zig build script."
   },
   {
     "name": "andrewrk/libchromaprint",

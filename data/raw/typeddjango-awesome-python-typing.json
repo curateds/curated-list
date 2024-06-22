@@ -260,6 +260,11 @@
     "description": "The strictest and most opinionated Python linter ever."
   },
   {
+    "name": "Ruff",
+    "url": "https://github.com/astral-sh/ruff/",
+    "description": "Extremely fast linter which supports lint rules from many other lint tools, such as flake8."
+  },
+  {
     "name": "mypy-test",
     "url": "https://github.com/orsinium-labs/mypy-test",
     "description": "Test mypy plugins, stubs, custom types."
