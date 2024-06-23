@@ -2796,6 +2796,31 @@
     "description": "A simple circle progress component created for Angular based on SVG Graphics."
   },
   {
+    "name": "lumberjack",
+    "url": "https://github.com/ngworker/lumberjack",
+    "description": "Lumberjack is a versatile Angular logging library, specifically designed to be extended and customized. It provides a few simple log drivers out-of-the-box. It's easy to enable the built-in log drivers or create and use custom log drivers."
+  },
+  {
+    "name": "ngx-logger",
+    "url": "https://github.com/dbfannin/ngx-logger",
+    "description": "NGX Logger is a simple logging module for Angular (6+). It allows \"pretty print\" to the console, as well as allowing log messages to be POSTed to a URL for server-side logging."
+  },
+  {
+    "name": "angular-logger",
+    "url": "https://github.com/avernixtechnologies/angular-logger",
+    "description": "A logger built with Angular in mind."
+  },
+  {
+    "name": "ngx-action-logger",
+    "url": "https://github.com/TALRACE/ngx-action-logger",
+    "description": "Logger for Angular applications, capable of both outputting data to the console or sending data to elastic."
+  },
+  {
+    "name": "@Xilerth/ngx-logger",
+    "url": "https://github.com/Xilerth/ngx-logger",
+    "description": "This library empowers developers to seamlessly integrate custom logging solutions tailored to their specific requirements, enabling efficient debugging, monitoring, and analytics."
+  },
+  {
     "name": "angular-cesium",
     "url": "https://github.com/TGFTech/angular-cesium",
     "description": "Creating map based web apps using Cesium and Angular."

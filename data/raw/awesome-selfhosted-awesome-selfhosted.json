@@ -205,6 +205,11 @@
     "description": "Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. (Source Code) AGPL-3.0 Docker"
   },
   {
+    "name": "Dagu",
+    "url": "https://dagu.readthedocs.io/",
+    "description": "Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. (Source Code) GPL-3.0 Go/Docker"
+  },
+  {
     "name": "Exadel CompreFace",
     "url": "https://exadel.com/solutions/compreface/",
     "description": "Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. (Source Code) Apache-2.0 Docker/Java/Nodejs"
@@ -573,6 +578,11 @@
     "name": "Xandikos",
     "url": "https://github.com/jelmer/xandikos",
     "description": "Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. GPL-3.0 Python/deb"
+  },
+  {
+    "name": "AnyCable",
+    "url": "https://anycable.io/",
+    "description": "Realtime server for reliable two-way communication over WebSockets, Server-sent events, etc. (Demo, Source Code) MIT Go/Docker"
   },
   {
     "name": "Apprise",
@@ -2900,6 +2910,16 @@
     "description": "InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. (Demo, Source Code) MIT Python"
   },
   {
+    "name": "Part-DB",
+    "url": "https://docs.part-db.de/",
+    "description": "An inventory management system for your electronic components. (Demo, Source Code) AGPL-3.0 Docker/PHP/Nodejs"
+  },
+  {
+    "name": "Part-DB",
+    "url": "https://docs.part-db.de/",
+    "description": "An inventory management system for your electronic components. (Demo, Source Code) AGPL-3.0 Docker/PHP/Nodejs"
+  },
+  {
     "name": "Shelf",
     "url": "https://www.shelf.nu",
     "description": "Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever. (Source Code) AGPL-3.0 Nodejs"
@@ -2978,6 +2998,11 @@
     "name": "OpenOLAT",
     "url": "https://www.openolat.com/?lang=en",
     "description": "OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. (Demo, Source Code) Apache-2.0 Java"
+  },
+  {
+    "name": "QST",
+    "url": "https://qstonline.org",
+    "description": "Online assessment software. From a quick quiz on your phone to large scale, high stakes, proctored desktop testing, easy, secure and economical. (Demo, Source Code) GPL-2.0 Perl"
   },
   {
     "name": "RELATE",
@@ -3703,6 +3728,11 @@
     "name": "Watcharr",
     "url": "https://github.com/sbondCo/Watcharr",
     "description": "A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. (Demo) MIT Docker"
+  },
+  {
+    "name": "Wavelog",
+    "url": "https://www.wavelog.org",
+    "description": "Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser. (Demo, Source Code) MIT PHP/Docker"
   },
   {
     "name": "WeeWX",
