@@ -4,7 +4,7 @@
     "url": "https://getcomposer.org/"
   },
   {
-    "name": "Github",
+    "name": "GitHub",
     "url": "https://github.com/composer/composer"
   },
   {
@@ -39,11 +39,11 @@
   },
   {
     "name": "Ask a new question",
-    "url": "http://stackoverflow.com/questions/ask?tags=composer-php+php"
+    "url": "https://stackoverflow.com/questions/ask?tags=composer-php+php"
   },
   {
     "name": "Find questions tagged composer-php",
-    "url": "http://stackoverflow.com/questions/tagged/composer-php"
+    "url": "https://stackoverflow.com/questions/tagged/composer-php"
   },
   {
     "name": "#composer",
@@ -186,6 +186,11 @@
   },
   {
     "name": "Composer-Dependency-Analyzer",
+    "url": "https://github.com/shipmonk-rnd/composer-dependency-analyser",
+    "description": "The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies."
+  },
+  {
+    "name": "Composer-Dependency-Analyzer",
     "url": "https://packagist.org/packages/jms/composer-deps-analyzer",
     "description": "Allows you to build a dependency graph for an installed composer project."
   },
@@ -231,7 +236,7 @@
   },
   {
     "name": "PHPCodeSniffer-Composer-Installer",
-    "url": "https://github.com/DealerDirect/phpcodesniffer-composer-installer",
+    "url": "https://github.com/PHPCSStandards/composer-installer",
     "description": "The plugin enables you to install PHP_CodeSniffer coding standards (rulesets)."
   },
   {
@@ -247,12 +252,12 @@
   {
     "name": "NodeJS-Installer",
     "url": "https://github.com/thecodingmachine/nodejs-installer",
-    "description": "Installer for NodeJS and npm."
+    "description": "Installer for Node.js and npm."
   },
   {
     "name": "Node-Composer",
     "url": "https://github.com/mariusbuescher/node-composer",
-    "description": "Installer for NodeJS, npm and yarn."
+    "description": "Installer for Node.js, npm and yarn."
   },
   {
     "name": "Imposter-Plugin",
@@ -326,7 +331,7 @@
   },
   {
     "name": "Composer SemVer Checker",
-    "url": "https://semver.mwl.be",
+    "url": "https://semver.madewithlove.com/",
     "description": "Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages."
   },
   {
@@ -342,7 +347,7 @@
   {
     "name": "OctoLinker Browser Extension",
     "url": "https://github.com/OctoLinker/OctoLinker",
-    "description": "Enables you to navigate Composer/NPM dependencies on Github."
+    "description": "Enables you to navigate Composer/NPM dependencies on GitHub."
   },
   {
     "name": "ComposerRequireChecker",
@@ -430,18 +435,13 @@
     "description": "A Composer plugin replacing placeholders in the scripts section by dynamic values."
   },
   {
-    "name": "Packanalyst",
-    "url": "https://packanalyst.com/",
-    "description": "Packanalyst is a service that lets you browse in any PHP class / interface / trait defined in Packagist."
-  },
-  {
     "name": "Dependabot",
-    "url": "https://dependabot.com/",
+    "url": "https://github.com/features/security/",
     "description": "Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos."
   },
   {
     "name": "A beginners guide to Composer",
-    "url": "https://scotch.io/tutorials/a-beginners-guide-to-composer"
+    "url": "https://www.digitalocean.com/community/tutorials/a-beginners-guide-to-composer"
   },
   {
     "name": "A short & simple Composer tutorial",
@@ -449,7 +449,7 @@
   },
   {
     "name": "Easy package management with Composer",
-    "url": "https://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530"
+    "url": "https://code.tutsplus.com/easy-package-management-with-composer--net-25530t"
   },
   {
     "name": "PHP Dependency Management with Composer",
@@ -461,7 +461,7 @@
   },
   {
     "name": "PHP Composer Magento Tutorial by Alan Storm",
-    "url": "https://alanstorm.com/php_composer_magento_tutorial/"
+    "url": "https://alanastorm.com/php_composer_magento_tutorial/"
   },
   {
     "name": "Creating and Using Composer Packages",
@@ -484,7 +484,7 @@
     "url": "https://igor.io/2013/01/07/composer-versioning.html"
   },
   {
-    "name": "The long journey of making PHP’s Composer memory-efficient and fast (toflar)",
+    "name": "The long journey of making PHPs Composer memory-efficient and fast (toflar)",
     "url": "https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8"
   },
   {
@@ -503,7 +503,7 @@
     "description": "Nils Adermann @ phpsrb17"
   },
   {
-    "name": "Composer Best Practices — Jordi Boggiano @ php[tek] 2015",
+    "name": "Composer Best Practices — Jordi Boggiano @ phptek 2015",
     "url": "https://www.youtube.com/watch?v=uNlYpSTiAcA"
   },
   {
@@ -656,14 +656,24 @@
     "description": "packagist.com.br"
   },
   {
-    "name": "php.cnpkg.org",
-    "url": "https://php.cnpkg.org",
-    "description": "php.cnpkg.org, https://pkg.phpcomposer.com/, https://mirrors.aliyun.com/composer/"
+    "name": "packagist.co.za",
+    "url": "https://packagist.co.za",
+    "description": "packagist.co.za"
   },
   {
-    "name": "php.cnpkg.org",
-    "url": "https://php.cnpkg.org",
-    "description": "php.cnpkg.org, https://pkg.phpcomposer.com/, https://mirrors.aliyun.com/composer/"
+    "name": "packagist.co.za",
+    "url": "https://packagist.co.za",
+    "description": "packagist.co.za"
+  },
+  {
+    "name": "https://pkg.xyz/",
+    "url": "https://pkg.xyz/",
+    "description": "https://pkg.xyz/, https://developer.aliyun.com/composer"
+  },
+  {
+    "name": "https://pkg.xyz/",
+    "url": "https://pkg.xyz/",
+    "description": "https://pkg.xyz/, https://developer.aliyun.com/composer"
   },
   {
     "name": "https://packagist.in/",
@@ -671,14 +681,14 @@
     "description": "https://packagist.in/"
   },
   {
-    "name": "packagist.phpindonesia.id",
-    "url": "https://packagist.phpindonesia.id",
-    "description": "packagist.phpindonesia.id"
-  },
-  {
     "name": "packagist.jp",
     "url": "https://packagist.jp",
     "description": "packagist.jp"
+  },
+  {
+    "name": "https://packagist.kr/",
+    "url": "https://packagist.kr/",
+    "description": "https://packagist.kr/"
   },
   {
     "name": "https://github.com/slince/composer-registry-manager",
@@ -688,7 +698,7 @@
   {
     "name": "fxpio/tug",
     "url": "https://github.com/fxpio/tug",
-    "description": "Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages,  which are hosted on Github or Gitlab services."
+    "description": "Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services."
   },
   {
     "name": "Private Packagist Cloud",
@@ -756,13 +766,13 @@
     "description": "Private self-hosted Composer repository for vendors. Fork of packagist with adding support for authorization, customer users, groups, webhooks."
   },
   {
-    "name": "Gitlab-Composer",
+    "name": "GitLab-Composer",
     "url": "https://github.com/wemakecustom/gitlab-composer",
-    "description": "This is a branch/tag indexer for Gitlab repositories."
+    "description": "This is a branch/tag indexer for GitLab repositories."
   },
   {
     "name": "Satisfy",
-    "url": "https://github.com/ludofleury/satisfy",
+    "url": "https://github.com/project-satisfy/satisfy",
     "description": "Satis composer repository manager with a Web UI."
   },
   {

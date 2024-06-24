@@ -1940,6 +1940,11 @@
     "description": "SPI - Memory LCD"
   },
   {
+    "name": "LSM303AGR",
+    "url": "https://crates.io/crates/lsm303agr",
+    "description": "I2C/SPI - 3D accelerometer + 3D magnetometer. (Used in e.g. micro:bit boards)"
+  },
+  {
     "name": "LSM303C",
     "url": "https://crates.io/crates/lsm303c",
     "description": "A platform agnostic driver to interface with the LSM303C (accelerometer + compass)"
@@ -1977,7 +1982,7 @@
   {
     "name": "MAX170xx",
     "url": "https://github.com/eldruin/max170xx-rs",
-    "description": "I2C - LiPo Fuel gauge, battery monitoring ICs compatible with MAX17043/4, MAX17048/9, MAX17058/9."
+    "description": "I2C - LiPo Fuel gauge, battery monitoring ICs compatible with MAX17043/4, MAX17048/9, MAX17058/9. -"
   },
   {
     "name": "MAX3010x",
@@ -2020,6 +2025,11 @@
     "description": "I2C - Temperature sensor -"
   },
   {
+    "name": "MCP4x",
+    "url": "https://crates.io/crates/mcp4x",
+    "description": "SPI - Digital potentiometers (digipot) like MCP41010, MCP41050, MCP41100, MCP42010, MCP42050 and MCP42100, etc. -"
+  },
+  {
     "name": "MFRC522",
     "url": "https://github.com/japaric/mfrc522",
     "description": "SPI - RFID tag reader/writer"
@@ -2033,6 +2043,11 @@
     "name": "MLX9061x",
     "url": "https://crates.io/crates/mlx9061x",
     "description": "I2C - MLX90614/MLX90615 Contact-less infrared (IR) temperature sensor driver. -"
+  },
+  {
+    "name": "MMA8x5x",
+    "url": "https://crates.io/crates/mma8x5x",
+    "description": "I2C - Tri-axis accelerometers like MMA8451Q, MMA8452Q, MMA8453Q, MMA8652FC and MMA8653FC. -"
   },
   {
     "name": "motor-driver",
