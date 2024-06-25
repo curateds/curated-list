@@ -2424,6 +2424,11 @@
     "description": "An OCR engine. [Apache2]"
   },
   {
+    "name": "TinyDNG",
+    "url": "https://github.com/syoyo/tinydng",
+    "description": "Header-only Tiny DNG/TIFF loader and writer in C++. [MIT]"
+  },
+  {
     "name": "TinyEXIF",
     "url": "https://github.com/cdcseacave/TinyEXIF",
     "description": "Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. [MIT]"

@@ -1065,6 +1065,11 @@
     "description": "An interactive CLI for Docker containers by @moncho"
   },
   {
+    "name": "goManageDocker",
+    "url": "https://github.com/ajayd-san/gomanagedocker",
+    "description": "TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box by @ajay-dsan"
+  },
+  {
     "name": "lazydocker",
     "url": "https://github.com/jesseduffield/lazydocker",
     "description": "The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By @jesseduffield"

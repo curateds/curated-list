@@ -715,6 +715,11 @@
     "description": "Publish and Subscribe to ThingSpeak using MQTT with MicroPython."
   },
   {
+    "name": "micropython-sparkplugb",
+    "url": "https://github.com/sciotaio/micropython-sparkplugb",
+    "description": "MicroPython compatible implementation of the Eclipse Sparkplug B Specification."
+  },
+  {
     "name": "unbd",
     "url": "https://github.com/pulkin/unbd",
     "description": "Micro implementation of network block device (NBD) for MicroPython."
@@ -1850,11 +1855,6 @@
     "description": "MicroPython module for the Texas Instruments ADS1219 ADC."
   },
   {
-    "name": "micropython-hx711",
-    "url": "https://github.com/SergeyPiskunov/micropython-hx711",
-    "description": "MicroPython driver for HX711 24-Bit Analog-to-Digital Converter."
-  },
-  {
     "name": "MicroPython-ADC_Cal",
     "url": "https://github.com/matthias-bs/MicroPython-ADC_Cal",
     "description": "ESP32 ADC driver using reference voltage calibration value from efuse."
@@ -1863,11 +1863,6 @@
     "name": "micropython-pcf8591",
     "url": "https://gitlab.com/cediddi/micropython-pcf8591",
     "description": "MicroPython driver for PCF8591 ADC/DAC, I2C interface."
-  },
-  {
-    "name": "hx711_mpy-driver",
-    "url": "https://github.com/HowManyOliversAreThere/hx711_mpy-driver",
-    "description": "Micropython Driver for the HX711 weighing sensor."
   },
   {
     "name": "MCP342x_LoPy",
@@ -1885,9 +1880,9 @@
     "description": "MicroPython library for PCF8591 8-bit ADC/DAC."
   },
   {
-    "name": "hx710",
-    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py",
-    "description": "MicroPython driver for the HX710."
+    "name": "CS1237",
+    "url": "https://github.com/robert-hh/CS1237",
+    "description": "MicroPython driver for the CS1237 ADC."
   },
   {
     "name": "micropython-mcp4725",
@@ -2815,6 +2810,31 @@
     "description": "MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay."
   },
   {
+    "name": "micropython-hx711",
+    "url": "https://github.com/SergeyPiskunov/micropython-hx711",
+    "description": "MicroPython driver for HX711 24-Bit Analog-to-Digital Converter."
+  },
+  {
+    "name": "hx711_mpy-driver",
+    "url": "https://github.com/HowManyOliversAreThere/hx711_mpy-driver",
+    "description": "Micropython Driver for the HX711 weighing sensor."
+  },
+  {
+    "name": "hx710",
+    "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py",
+    "description": "MicroPython driver for the HX710."
+  },
+  {
+    "name": "hx711",
+    "url": "https://github.com/robert-hh/hx711",
+    "description": "MicroPython driver for the HX711 load cell interface."
+  },
+  {
+    "name": "hx710",
+    "url": "https://github.com/robert-hh/hx710",
+    "description": "MicroPython driver for the HX710 load cell interface."
+  },
+  {
     "name": "MicroPython_LIS2MDL",
     "url": "https://github.com/jposada202020/MicroPython_LIS2MDL",
     "description": "MicroPython Driver for the ST LIS2MDL Magnetometer sensor."
@@ -3038,6 +3058,11 @@
     "name": "max31856",
     "url": "https://github.com/alinbaltaru/max31856",
     "description": "Precision thermocouple to digital converter with linearization, SPI interface."
+  },
+  {
+    "name": "max31865",
+    "url": "https://github.com/sufyanaslam198/max31865",
+    "description": "Precision resistance-to-digital converter optimized for platinum resistance temperature detectors, SPI interface."
   },
   {
     "name": "mcp9700",
@@ -3603,6 +3628,11 @@
     "name": "MicroPython for the Raspberry Pi Pico W: A gentle introduction to programming digital circuits with Python",
     "url": "https://www.amazon.com/MicroPython-Raspberry-Pico-introduction-programming/dp/B0BKSCV18D",
     "description": "By Miguel Grinberg. ISBN 9798361302710."
+  },
+  {
+    "name": "Programming ESP32: Learn MicroPython Coding and Electronics",
+    "url": "https://www.amazon.com/Programming-ESP32-MicroPython-Coding-Electronics/dp/1739487451/",
+    "description": "By Simon Monk. ISBN 9781739487454."
   },
   {
     "name": "micrOS",

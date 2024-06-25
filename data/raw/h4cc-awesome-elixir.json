@@ -6160,6 +6160,11 @@
     "description": "A port of ua-parser2 to Elixir. User agent parser library."
   },
   {
+    "name": "unique_names_generator",
+    "url": "https://github.com/jongirard/unique_names_generator",
+    "description": "Generate seeded random and unique names."
+  },
+  {
     "name": "unit_fun",
     "url": "https://github.com/meadsteve/unit_fun",
     "description": "Attempt to add units to numbers in elixir to give some added type safety when dealing with numeric quantities."

@@ -56,7 +56,7 @@
   },
   {
     "name": "KvIRC",
-    "url": "http://www.kvirc.net",
+    "url": "https://www.kvirc.net",
     "description": "Free, portable, based on Qt GUI toolkit. (source) Linux macOS Windows"
   },
   {
@@ -95,9 +95,9 @@
     "description": "Friendly IRC client built in Vala and GTK, designed for elementary OS. (source) Linux"
   },
   {
-    "name": "IRC Vitamin",
-    "url": "https://play.google.com/store/apps/details?id=com.todoartedigital.chuecamobile.irc.vitamin",
-    "description": "Simple, fast and easy access to multiple IRC networks. Android"
+    "name": "Goguma",
+    "url": "https://sr.ht/~emersion/goguma/",
+    "description": "An IRC client for mobile devices, from the creator of soju. Android Linux"
   },
   {
     "name": "IRCCloud",
@@ -150,6 +150,11 @@
     "description": "A user-friendly IRC bouncer. Go"
   },
   {
+    "name": "sms-webhook",
+    "url": "https://github.com/terminaldweller/sms-webhook",
+    "description": "A simple webhook to receive SMS messages on IRC. Go"
+  },
+  {
     "name": "ircd.js",
     "url": "https://github.com/alexyoung/ircd.js",
     "description": "Server will allow clients to connect, join channels, change topics; basic stuff."
@@ -186,8 +191,13 @@
   },
   {
     "name": "anope",
-    "url": "https://anope.org",
+    "url": "https://www.anope.org",
     "description": "Designed for flexibility and ease of use. (source)"
+  },
+  {
+    "name": "Eggdrop",
+    "url": "https://www.eggheads.org",
+    "description": "Oldest IRC bot still in active development. Feature rich, uses Tcl scripting. (source) C"
   },
   {
     "name": "Sopel",
@@ -270,6 +280,11 @@
     "description": "An archiving tool with an IRC interface integrated with various archiving services."
   },
   {
+    "name": "milla",
+    "url": "https://github.com/terminaldweller/milla",
+    "description": "New generation LLM-powered bot with lua scripting support. Go"
+  },
+  {
     "name": "node-irc",
     "url": "https://github.com/Throne3d/node-irc"
   },
@@ -305,7 +320,7 @@
   },
   {
     "name": "irccd",
-    "url": "https://projects.malikania.fr/irccd/",
+    "url": "https://projects.malikania.fr/irccd/index.html",
     "description": "Flexible IRC bot customizable with JavaScript. C++."
   },
   {
@@ -367,6 +382,11 @@
     "name": "Appservice-IRC",
     "url": "https://github.com/matrix-org/matrix-appservice-irc",
     "description": "Gateway and bridge Matrix ↔ IRC Javascript"
+  },
+  {
+    "name": "matterircd",
+    "url": "https://github.com/42wim/matterircd",
+    "description": "Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. Go"
   },
   {
     "name": "netsplit.de Search",
@@ -472,5 +492,10 @@
     "name": "superseriousstats",
     "url": "https://github.com/tommyrot/superseriousstats",
     "description": "Fast and efficient program to create statistics out of various types of chat logs. PHP Web"
+  },
+  {
+    "name": "img2src",
+    "url": "https://github.com/waveplate/img2irc",
+    "description": "Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. Rust"
   }
 ]

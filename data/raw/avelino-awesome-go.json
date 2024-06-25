@@ -1748,6 +1748,11 @@
     "description": "Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases."
   },
   {
+    "name": "icache",
+    "url": "https://github.com/mdaliyan/icache",
+    "description": "A High Performance, Generic, thread-safe, zero-dependency cache package."
+  },
+  {
     "name": "imcache",
     "url": "https://github.com/erni27/imcache",
     "description": "A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding."
@@ -6462,14 +6467,14 @@
     "description": "Go package for n-gram based text categorization, with support for utf-8 and raw text."
   },
   {
+    "name": "ctxi18n",
+    "url": "https://github.com/invopop/ctxi18n/",
+    "description": "Context aware i18n with a short and consise API, pluralization, interpolation, and fs.FS support. YAML locale definitions are based on Rails i18n."
+  },
+  {
     "name": "go-i18n",
     "url": "https://github.com/nicksnyder/go-i18n/",
     "description": "Package and an accompanying tool to work with localized text."
-  },
-  {
-    "name": "go-localize",
-    "url": "https://github.com/m1/go-localize",
-    "description": "Simple and easy to use i18n (Internationalization and localization) engine - used for translating locale strings."
   },
   {
     "name": "go-mystem",
@@ -6490,11 +6495,6 @@
     "name": "gotext",
     "url": "https://github.com/leonelquinteros/gotext",
     "description": "GNU gettext utilities for Go."
-  },
-  {
-    "name": "icu",
-    "url": "https://github.com/goodsign/icu",
-    "description": "Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1."
   },
   {
     "name": "iuliia-go",
@@ -7010,6 +7010,11 @@
     "name": "mathgl",
     "url": "https://github.com/go-gl/mathgl",
     "description": "Pure Go math package specialized for 3D math, with inspiration from GLM."
+  },
+  {
+    "name": "bob",
+    "url": "https://github.com/stephenafamo/bob",
+    "description": "SQL query builder and ORM/Factory generator for Go. Successor of SQLBoiler."
   },
   {
     "name": "bun",
@@ -7565,6 +7570,11 @@
     "name": "acmetool",
     "url": "https://github.com/hlandau/acme",
     "description": "ACME (Let's Encrypt) client tool with automatic renewal."
+  },
+  {
+    "name": "acopw-go",
+    "url": "https://sr.ht/~jamesponddotco/acopw-go/",
+    "description": "Small cryptographically secure password generator package for Go."
   },
   {
     "name": "acra",
@@ -9122,14 +9132,14 @@
     "description": "Go library for the REST Countries API."
   },
   {
+    "name": "go-salesforce",
+    "url": "https://github.com/k-capehart/go-salesforce",
+    "description": "Go client library for interacting with the Salesforce REST API."
+  },
+  {
     "name": "go-sophos",
     "url": "https://github.com/esurdam/go-sophos",
     "description": "Go client library for the Sophos UTM REST API with zero dependencies."
-  },
-  {
-    "name": "go-sptrans",
-    "url": "https://github.com/sergioaugrod/go-sptrans",
-    "description": "Go client library for the SPTrans Olho Vivo API."
   },
   {
     "name": "go-swagger-ui",
@@ -9625,6 +9635,11 @@
     "name": "evaluator",
     "url": "https://github.com/nullne/evaluator",
     "description": "Evaluate an expression dynamically based on s-expression. It's simple and easy to extend."
+  },
+  {
+    "name": "Failsafe-go",
+    "url": "https://github.com/failsafe-go/failsafe-go",
+    "description": "Fault tolerance and resilience patterns for Go."
   },
   {
     "name": "filetype",
