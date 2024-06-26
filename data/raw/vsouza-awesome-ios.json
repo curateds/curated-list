@@ -3153,6 +3153,11 @@
     "description": "Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations."
   },
   {
+    "name": "StringSwitch",
+    "url": "https://stringswitch.com",
+    "description": "Easily convert iOS .strings files to Android strings.xml format and vice versa."
+  },
+  {
     "name": "CleanroomLogger",
     "url": "https://github.com/emaloney/CleanroomLogger",
     "description": "A configurable and extensible Swift-based logging API that is simple, lightweight and performant."

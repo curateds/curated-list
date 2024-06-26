@@ -1070,6 +1070,11 @@
     "description": "Buffer-based live search and replace with full power of rg flags. Grug like!"
   },
   {
+    "name": "chrisgrieser/nvim-rip-substitute",
+    "url": "https://github.com/chrisgrieser/nvim-rip-substitute",
+    "description": "Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for vim's :substitute using ripgrep."
+  },
+  {
     "name": "nvim-telescope/telescope.nvim",
     "url": "https://github.com/nvim-telescope/telescope.nvim",
     "description": "Telescope.nvim is a highly extendable fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization."

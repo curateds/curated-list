@@ -465,6 +465,11 @@
     "description": "The fastest way to build custom data extractors and loaders compliant with the Singer Spec."
   },
   {
+    "name": "Google Sheets ETL",
+    "url": "https://github.com/fulldecent/google-sheets-etl",
+    "description": "Live import all your Google Sheets to your data warehouse."
+  },
+  {
     "name": "HDFS",
     "url": "https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html",
     "description": "A distributed file system designed to run on commodity hardware."
@@ -928,6 +933,11 @@
     "name": "SuprSend",
     "url": "https://www.suprsend.com/products/workflows",
     "description": "Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse."
+  },
+  {
+    "name": "Kestra",
+    "url": "https://github.com/kestra-io/kestra",
+    "description": "A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture."
   },
   {
     "name": "lakeFS",

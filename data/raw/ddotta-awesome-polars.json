@@ -156,6 +156,11 @@
     "description": "Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by @zlobendog."
   },
   {
+    "name": "polars_iptools",
+    "url": "https://github.com/erichutchins/polars_iptools",
+    "description": "Polars plugin for IP address parsing and enrichment including geolocation by @erichutchins."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."

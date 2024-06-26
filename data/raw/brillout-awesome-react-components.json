@@ -762,9 +762,9 @@
     "description": "A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph."
   },
   {
-    "name": "urlbox",
-    "url": "https://github.com/urlbox/urlbox-node",
-    "description": "Quickly generate screenshots, PDFs and other renders using the urlbox screenshot as a service API."
+    "name": "html2canvas",
+    "url": "https://github.com/niklasvh/html2canvas",
+    "description": "Take screenshots of any part of your web page using Javascript."
   },
   {
     "name": "puck",
@@ -1710,6 +1710,11 @@
     "name": "semi-design",
     "url": "https://github.com/DouyinFE/semi-design",
     "description": "demo/docs - A modern, comprehensive, flexible design system."
+  },
+  {
+    "name": "shadcn/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "description": "demo - docs - Beautifully designed components that you can copy and paste into your apps."
   },
   {
     "name": "shineout",
@@ -2743,6 +2748,11 @@
     "name": "jsondiffpatch-react",
     "url": "https://github.com/bluepeter/jsondiffpatch-react",
     "description": "JSON diffing."
+  },
+  {
+    "name": "iron-session",
+    "url": "https://github.com/vvo/iron-session",
+    "description": "Secure, stateless, and cookie-based session library."
   },
   {
     "name": "gatsby",

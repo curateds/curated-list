@@ -7957,6 +7957,11 @@
     "description": "Simple Reverse Proxy with Caching, written in Go, using Redis."
   },
   {
+    "name": "gondola",
+    "url": "https://github.com/bmf-san/gondola",
+    "description": "A YAML based golang reverse proxy."
+  },
+  {
     "name": "jackal",
     "url": "https://github.com/ortuman/jackal",
     "description": "An XMPP server written in Go."
