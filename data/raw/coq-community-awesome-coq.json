@@ -547,7 +547,7 @@
   {
     "name": "Sail",
     "url": "https://github.com/rems-project/sail",
-    "description": "Tool for specifying instruction set architecture semantics of processors and generating Coq definitions."
+    "description": "Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions."
   },
   {
     "name": "SerAPI",
@@ -960,6 +960,11 @@
     "name": "Coq requirements in Common Criteria evaluations",
     "url": "https://inria.hal.science/hal-04452421",
     "description": "Guide on how to write readable and reviewable Coq code in high assurance applications."
+  },
+  {
+    "name": "Coq Tactics in Plain English",
+    "url": "https://charlesaverill.github.io/ctpe/",
+    "description": "Guide to Coq tactics with explanations and examples."
   },
   {
     "name": "Lemma Overloading",

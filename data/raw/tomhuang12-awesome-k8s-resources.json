@@ -5,6 +5,16 @@
     "description": "Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources."
   },
   {
+    "name": "Helmfile",
+    "url": "https://github.com/helmfile/helmfile",
+    "description": "Helmfile is a declarative spec for deploying helm charts."
+  },
+  {
+    "name": "Helmwave",
+    "url": "https://github.com/helmwave/helmwave",
+    "description": "Helmwave is helm3-native tool for deploy your Helm Charts. It is like Docker-Compose, but for Helm."
+  },
+  {
     "name": "Infra",
     "url": "https://github.com/infrahq/infra",
     "description": "Infra enables you to discover and access infrastructure (e.g. Kubernetes, databases). We help you connect an identity provider such as Okta or Azure active directory, and map users/groups with the permissions you set to your infrastructure."
@@ -225,6 +235,11 @@
     "description": "k8s-image-swapper is a mutating webhook for Kubernetes, downloading images into your own registry and pointing the images to that new location."
   },
   {
+    "name": "Kubero",
+    "url": "https://github.com/kubero-dev/kubero",
+    "description": "A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps"
+  },
+  {
     "name": "KubeSphere",
     "url": "https://github.com/kubesphere/kubesphere",
     "description": "KubeSphere is a distributed operating system providing cloud native stack with Kubernetes as its kernel, and aims to be plug-and-play architecture for third-party applications seamless integration to boost its ecosystem."
@@ -318,6 +333,10 @@
     "name": "Polaris",
     "url": "https://github.com/FairwindsOps/polaris",
     "description": "Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration."
+  },
+  {
+    "name": "Projectsveltos",
+    "url": "https://github.com/projectsveltos/addon-manager"
   },
   {
     "name": "The Hierarchical Namespace Controller",
@@ -625,6 +644,11 @@
     "description": "Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity."
   },
   {
+    "name": "K8Studio",
+    "url": "https://github.com/guiqui/k8Studio",
+    "description": "K8Studio IDE to manage and visualise Kubernetes Clusters."
+  },
+  {
     "name": "katafygio",
     "url": "https://github.com/bpineau/katafygio",
     "description": "katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository."
@@ -738,6 +762,11 @@
     "name": "Open Service Mesh",
     "url": "https://github.com/openservicemesh/osm/",
     "description": "Open Service Mesh (OSM) is a lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments."
+  },
+  {
+    "name": "Cyclops",
+    "url": "https://github.com/cyclops-ui/cyclops",
+    "description": "Customizable UI for Kubernetes deployments"
   },
   {
     "name": "Eclipse JKube",
