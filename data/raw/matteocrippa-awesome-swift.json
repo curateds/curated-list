@@ -425,6 +425,11 @@
     "description": "A powerful animation framework for iOS, tvOS, and OS X."
   },
   {
+    "name": "AnimatedGradient",
+    "url": "https://github.com/exyte/AnimatedGradient",
+    "description": "Animated linear gradient library written with SwiftUI"
+  },
+  {
     "name": "ChainPageCollectionView",
     "url": "https://github.com/jindulys/ChainPageCollectionView",
     "description": "Fancy two-level collection view layout and animation."
@@ -543,6 +548,11 @@
     "name": "GitHubAPI",
     "url": "https://github.com/serhii-londar/GithubAPI",
     "description": "Implementation of GitHub REST API v3."
+  },
+  {
+    "name": "GitHubRestAPISwiftOpenAPI",
+    "url": "https://github.com/Wei18/github-rest-api-swift-openapi",
+    "description": "Scheduled generated GitHub's REST API as Swift code from OpenAPI specification."
   },
   {
     "name": "PXGoogleDirections",
@@ -2165,6 +2175,11 @@
     "description": "Harnesses the power of native iOS programming with a simplified API."
   },
   {
+    "name": "ContactsChangeNotifier",
+    "url": "https://github.com/yonat/ContactsChangeNotifier",
+    "description": "Which contacts changed outside your app? Better CNContactStoreDidChange notification: Get real changes, without the noise."
+  },
+  {
     "name": "AnimatedTabBar",
     "url": "https://github.com/exyte/AnimatedTabBar",
     "description": "A tabbar with a number of preset animations."
@@ -2265,6 +2280,11 @@
     "description": "An easier and faster way to code Autolayout."
   },
   {
+    "name": "FixFlex",
+    "url": "https://github.com/psharanda/FixFlex",
+    "description": "Declarative autolayout based on NSLayoutAnchor, swifty reimagination of VFL, alternative to UIStackView."
+  },
+  {
     "name": "HypeUI",
     "url": "https://github.com/hyperconnect/HypeUI",
     "description": "🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit"
@@ -2348,6 +2368,11 @@
     "name": "Locheck",
     "url": "https://github.com/Asana/locheck",
     "description": "Validate .strings and .stringsdict files for errors"
+  },
+  {
+    "name": "StringSwitch",
+    "url": "https://stringswitch.com",
+    "description": "Easily convert iOS .strings files to Android strings.xml format and vice versa."
   },
   {
     "name": "SwiftGen-L10n",
@@ -4898,6 +4923,11 @@
     "name": "EZSwiftExtensions",
     "url": "https://github.com/Esqarrouth/EZSwiftExtensions",
     "description": "How standard types and classes were supposed to work."
+  },
+  {
+    "name": "FlagAndCountryCode",
+    "url": "https://github.com/exyte/FlagAndCountryCode",
+    "description": "FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI"
   },
   {
     "name": "FluentQuery",

@@ -230,6 +230,11 @@
     "description": "Highly configurable Snackbar by Andre Haueisen"
   },
   {
+    "name": "Stepper Touch",
+    "url": "https://github.com/Rahiche/stepper_touch",
+    "description": "Lateral value stepper nicely animated by Raouf Rahiche."
+  },
+  {
     "name": "Liquid Pull To Refresh",
     "url": "https://github.com/aagarwal1012/Liquid-Pull-To-Refresh",
     "description": "A beautiful and custom refresh indicator by Ayush Agarwal."
@@ -377,6 +382,11 @@
     "name": "Modal Bottom Sheet",
     "url": "https://github.com/jamesblasco/modal_bottom_sheet",
     "description": "Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by Jaime Blasco."
+  },
+  {
+    "name": "RangeSlider",
+    "url": "https://github.com/boeledi/RangeSlider",
+    "description": "2-thumb configurable RangeSlider by Didier Boelens"
   },
   {
     "name": "Flutter Xlider",
@@ -542,6 +552,11 @@
     "name": "Map",
     "url": "https://github.com/xclud/flutter_map",
     "description": "Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by Mahdi K. Fard"
+  },
+  {
+    "name": "Circular Chart",
+    "url": "https://github.com/xqwzts/flutter_circular_chart",
+    "description": "Animated radial and pie charts by Victor Choueiri"
   },
   {
     "name": "FL Chart",
@@ -788,11 +803,6 @@
     "description": "How to load profiles from the randomuser.me API and a nice profile details page by Iiro Krankka"
   },
   {
-    "name": "UI Kit",
-    "url": "https://github.com/iampawan/Flutter-UI-Kit",
-    "description": "Collection of useful UIs in a UIKit by Pawan Kumar"
-  },
-  {
     "name": "The Gorgeous Login",
     "url": "https://github.com/huextrat/TheGorgeousLogin",
     "description": "Design and smooth login template by Hugo Extrat"
@@ -948,11 +958,6 @@
     "description": "NFC reader plugin for iOS and Android by Matteo Crippa"
   },
   {
-    "name": "Beacon broadcast",
-    "url": "https://github.com/pszklarska/beacon_broadcast",
-    "description": "Library for turning your phone into a beacon by Paulina Szklarska"
-  },
-  {
     "name": "Reactive Ble",
     "url": "https://github.com/PhilipsHue/flutter_reactive_ble",
     "description": "Handles BLE operations for multiple devices by Philips Hue"
@@ -968,9 +973,14 @@
     "description": "SQLite flutter plugin by Alexandre Roux"
   },
   {
-    "name": "Moor",
-    "url": "https://github.com/simolus3/moor",
-    "description": "Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by"
+    "name": "Drift",
+    "url": "https://github.com/simolus3/drift",
+    "description": "Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter by"
+  },
+  {
+    "name": "ObjectBox",
+    "url": "https://github.com/objectbox/objectbox-dart",
+    "description": "On-device database for fast cross-platform Dart object persistence by ObjectBox"
   },
   {
     "name": "OneSignal",
@@ -1170,11 +1180,6 @@
     "name": "Flip",
     "url": "https://github.com/RedBrogdon/flutterflip",
     "description": "Reversi game by Andrew Brogdon"
-  },
-  {
-    "name": "TRex",
-    "url": "https://github.com/renancaraujo/trex-flame",
-    "description": "Port of the famous Chrome's Trex game by Renan C. Araújo"
   },
   {
     "name": "Crush",
@@ -1499,6 +1504,11 @@
     "name": "The International Flutter Starter Kit",
     "url": "https://medium.com/flutter-community/intl-flutter-starter-kit-18415e739fb6",
     "description": "Guide by the experts by Beyza Sunay Guler & Nawal Alhamwi"
+  },
+  {
+    "name": "Roadmap.sh/flutter",
+    "url": "https://roadmap.sh/flutter",
+    "description": "A community curated flutter developer learning roadmap from the 6th most starred GitHub project."
   },
   {
     "name": "Logo",

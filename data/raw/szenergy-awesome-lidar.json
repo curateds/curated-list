@@ -1,5 +1,9 @@
 [
   {
+    "name": "ROS 2",
+    "url": "https://docs.ros.org/"
+  },
+  {
     "name": "Velodyne",
     "url": "https://velodynelidar.com/",
     "description": "Ouster and Velodyne announced the successful completion of their merger of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA."
@@ -486,8 +490,8 @@
     "description": "Popular framework in academic and research applications of autonomous vehicles."
   },
   {
-    "name": "GitLab repository ",
-    "url": "https://gitlab.com/autowarefoundation/autoware.ai"
+    "name": "GitHub oragnization ",
+    "url": "https://github.com/autowarefoundation"
   },
   {
     "name": "Paper 📰",
@@ -805,6 +809,28 @@
   {
     "name": "YouTube video 🔴",
     "url": "https://www.youtube.com/watch?v=T2qi4pldR-E"
+  },
+  {
+    "name": "direct_visual_lidar_calibration",
+    "url": "https://koide3.github.io/direct_visual_lidar_calibration/",
+    "description": "General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox"
+  },
+  {
+    "name": "GitHub repository ",
+    "url": "https://github.com/koide3/direct_visual_lidar_calibration"
+  },
+  {
+    "name": "Paper 📰",
+    "url": "https://staff.aist.go.jp/k.koide/assets/pdf/icra2023.pdf"
+  },
+  {
+    "name": "OpenCalib ",
+    "url": "https://github.com/PJLab-ADG/SensorsCalibration",
+    "description": "A Multi-sensor Calibration Toolbox for Autonomous Driving"
+  },
+  {
+    "name": "Paper 📰",
+    "url": "https://arxiv.org/pdf/2205.14087"
   },
   {
     "name": "CoppeliaSim",

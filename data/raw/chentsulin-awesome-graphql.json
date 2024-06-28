@@ -85,11 +85,6 @@
     "description": "A Subreddit for interesting and informative GraphQL content and discussions."
   },
   {
-    "name": "Codever",
-    "url": "https://www.codever.land/search?q=graphql",
-    "description": "Dev bookmarks. Use the tag graphql."
-  },
-  {
     "name": "Relay Meetup",
     "url": "https://relaymeetup.com/",
     "description": "A global, online meetup on Relay, the GraphQL client."
@@ -1410,7 +1405,7 @@
   },
   {
     "name": "Tailcall",
-    "url": "https://tailcall.run/docs/getting_started/configuration"
+    "url": "https://tailcall.run/docs/"
   },
   {
     "name": "graphqld",
@@ -1802,11 +1797,6 @@
     "name": "Weaviate",
     "url": "https://github.com/semi-technologies/weaviate",
     "description": "Weaviate is a cloud-native, modular, real-time vector search engine with a GraphQL interface built to scale your machine learning models."
-  },
-  {
-    "name": "LunaSec",
-    "url": "https://www.lunasec.io/",
-    "description": "Key-Value Database for encrypting/tokenizing sensitive data with GraphQL support to authorize requests. - Source Code"
   },
   {
     "name": "AWS AppSync",

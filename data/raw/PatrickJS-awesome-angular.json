@@ -514,6 +514,10 @@
     "url": "https://ducin.dev/blog"
   },
   {
+    "name": "This is Angular",
+    "url": "https://dev.to/this-is-angular"
+  },
+  {
     "name": "ng-book 2",
     "url": "https://www.ng-book.com/2/",
     "description": "fullstack.io"
@@ -3963,5 +3967,18 @@
     "name": "zod",
     "url": "https://github.com/colinhacks/zod",
     "description": "TypeScript-first schema validation with static type inference."
+  },
+  {
+    "name": "awesome-utils-dev/angular",
+    "url": "https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md",
+    "description": "This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here."
+  },
+  {
+    "name": "awesome-angular",
+    "url": "https://github.com/DaanDeSmedt/awesome-angular"
+  },
+  {
+    "name": "angular enterprise",
+    "url": "https://angular-enterprise.com/en/ngcategory/resources/"
   }
 ]
