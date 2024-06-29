@@ -2093,6 +2093,11 @@
     "description": "Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X."
   },
   {
+    "name": "Retest",
+    "url": "https://github.com/alexb52/retest",
+    "description": "A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup."
+  },
+  {
     "name": "Cocoon",
     "url": "https://github.com/nathanvda/cocoon",
     "description": "Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms."

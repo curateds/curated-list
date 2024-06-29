@@ -2410,6 +2410,10 @@
     "description": "Download files. MIT."
   },
   {
+    "name": "cl-cookie",
+    "url": "https://github.com/fukamachi/cl-cookie"
+  },
+  {
     "name": "trivial-imap",
     "url": "https://github.com/40ants/trivial-imap",
     "description": "tries to make easy some common cases of working with IMAP servers, like reading emails from the server. A thin wrapper over post-office library (which is a fork of Franz's cl-imap). BSD."
