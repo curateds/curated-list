@@ -3203,6 +3203,11 @@
     "description": "Scalable, coroutine-based, asynchronous IO handling library"
   },
   {
+    "name": "igumnoff/gabriel2",
+    "url": "https://github.com/igumnoff/gabriel2",
+    "description": "Gabriel2: An actor-model library based on Tokio"
+  },
+  {
     "name": "mio",
     "url": "https://github.com/tokio-rs/mio",
     "description": "MIO is a lightweight IO library, with a focus on adding as little overhead as possible over the OS abstractions"
@@ -5090,6 +5095,11 @@
     "name": "Camino",
     "url": "https://github.com/camino-rs/camino",
     "description": "Like Rust's std::path::Path, but UTF-8."
+  },
+  {
+    "name": "OpenDAL",
+    "url": "https://github.com/apache/opendal",
+    "description": "A unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services."
   },
   {
     "name": "ParthJadhav/Rust_Search",
