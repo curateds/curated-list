@@ -325,6 +325,11 @@
     "description": "Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable."
   },
   {
+    "name": "rachartier/tiny-inline-diagnostic.nvim",
+    "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
+    "description": "Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors."
+  },
+  {
     "name": "anott03/nvim-lspinstall",
     "url": "https://github.com/anott03/nvim-lspinstall",
     "description": "Easy to install language servers."
@@ -4828,6 +4833,11 @@
     "name": "Shaobin-Jiang/IceNvim",
     "url": "https://github.com/Shaobin-Jiang/IceNvim",
     "description": "A beautiful, powerful and customizable config that is blazingly fast."
+  },
+  {
+    "name": "ayamir/nvimdots",
+    "url": "https://github.com/ayamir/nvimdots",
+    "description": "A well-configured and structured configuration with NixOS support."
   },
   {
     "name": "MordechaiHadad/bob",

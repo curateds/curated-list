@@ -260,6 +260,11 @@
     "description": "Makes tests observable by visualizing OpenTelemetry data in HTML."
   },
   {
+    "name": "playwright-slack-report",
+    "url": "https://github.com/ryanrosello-og/playwright-slack-report",
+    "description": "Publish your Playwright test results to your favorite Slack channel(s)."
+  },
+  {
     "name": "Demo.Playwright",
     "url": "https://github.com/MarcusFelling/Demo.Playwright",
     "description": "Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript."

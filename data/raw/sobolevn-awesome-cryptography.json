@@ -1077,6 +1077,11 @@
     "description": "Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives."
   },
   {
+    "name": "ronkathon",
+    "url": "https://github.com/pluto/ronkathon",
+    "description": "Educational, mathematically transparent, well documentated cryptography in rust."
+  },
+  {
     "name": "rust-crypto",
     "url": "https://github.com/DaGenix/rust-crypto",
     "description": "Mostly pure-Rust implementation of various cryptographic algorithms."

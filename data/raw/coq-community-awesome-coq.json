@@ -96,7 +96,7 @@
   },
   {
     "name": "jsCoq",
-    "url": "https://github.com/ejgallego/jscoq",
+    "url": "https://github.com/jscoq/jscoq",
     "description": "Port of Coq to JavaScript, which enables running Coq projects in a browser."
   },
   {
@@ -315,14 +315,14 @@
     "description": "Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator."
   },
   {
+    "name": "Coinduction",
+    "url": "https://github.com/damien-pous/coinduction",
+    "description": "Plugin for doing proofs by enhanced coinduction."
+  },
+  {
     "name": "Coq-Elpi",
     "url": "https://github.com/LPCIC/coq-elpi",
     "description": "Extension framework based on λProlog providing an extensive API to implement commands and tactics."
-  },
-  {
-    "name": "Waterproof proof language",
-    "url": "https://github.com/impermeable/coq-waterproof",
-    "description": "Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof."
   },
   {
     "name": "CoqHammer",
@@ -388,6 +388,11 @@
     "name": "Unicoq",
     "url": "https://github.com/unicoq/unicoq",
     "description": "Plugin that replaces the existing unification algorithm with an enhanced one."
+  },
+  {
+    "name": "Waterproof proof language",
+    "url": "https://github.com/impermeable/coq-waterproof",
+    "description": "Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof."
   },
   {
     "name": "Coqoban",

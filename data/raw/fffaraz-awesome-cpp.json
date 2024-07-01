@@ -1395,6 +1395,11 @@
     "description": "A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]"
   },
   {
+    "name": "libpg_query",
+    "url": "https://github.com/pganalyze/libpg_query",
+    "description": "C library for accessing the PostgreSQL parser outside of the server environment. [BSD-3-Clause]"
+  },
+  {
     "name": "libpqxx",
     "url": "https://github.com/jtv/libpqxx",
     "description": "The official C++ client API for PostgreSQL. [BSD-3-Clause]"
