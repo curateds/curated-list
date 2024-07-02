@@ -330,6 +330,11 @@
     "description": "Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors."
   },
   {
+    "name": "chrisgrieser/nvim-lsp-endhints",
+    "url": "https://github.com/chrisgrieser/nvim-lsp-endhints",
+    "description": "Display LSP inlay hints at the end of the line, rather than within the line."
+  },
+  {
     "name": "anott03/nvim-lspinstall",
     "url": "https://github.com/anott03/nvim-lspinstall",
     "description": "Easy to install language servers."
@@ -2340,6 +2345,11 @@
     "description": "The start screen that gets you to your projects blazingly fast."
   },
   {
+    "name": "mong8se/actually.nvim",
+    "url": "https://github.com/mong8se/actually.nvim",
+    "description": "Load the file you actually meant to load."
+  },
+  {
     "name": "nvim-tree/nvim-web-devicons",
     "url": "https://github.com/nvim-tree/nvim-web-devicons",
     "description": "A Lua fork of vim-devicons."
@@ -2943,6 +2953,11 @@
     "name": "ChuufMaster/buffer-vacuum",
     "url": "https://github.com/ChuufMaster/buffer-vacuum",
     "description": "Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum."
+  },
+  {
+    "name": "mong8se/buffish.nvim",
+    "url": "https://github.com/mong8se/buffish.nvim",
+    "description": "A buffer switcher in the spirit of dirvish or vinegar."
   },
   {
     "name": "VidocqH/data-viewer.nvim",

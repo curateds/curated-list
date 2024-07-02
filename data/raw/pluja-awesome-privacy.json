@@ -150,14 +150,24 @@
     "description": "Dual-panel file manager."
   },
   {
+    "name": "AnySoftKeyboard",
+    "url": "https://anysoftkeyboard.github.io/",
+    "description": "The only Android keyboard you'll ever need. Free as in speech and Free as in beer."
+  },
+  {
     "name": "FlorisBoard",
     "url": "https://github.com/florisboard/florisboard",
     "description": "FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state."
   },
   {
-    "name": "AnySoftKeyboard",
-    "url": "https://anysoftkeyboard.github.io/",
-    "description": "The only Android keyboard you'll ever need. Free as in speech and Free as in beer."
+    "name": "Futo Keyboard",
+    "url": "https://keyboard.futo.org/",
+    "description": "A modern keyboard that respects your privacy and security, with features such as offline voice input, swipe typing and smart autocorrect."
+  },
+  {
+    "name": "Heliboard",
+    "url": "https://github.com/Helium314/HeliBoard",
+    "description": "A privacy-conscious and customizable open-source keyboard, based on AOSP / OpenBoard with many additional features and improvements, including support for custom dictionaries, themes, and glide typing."
   },
   {
     "name": "Indic Keyboard",
@@ -165,19 +175,14 @@
     "description": "Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone."
   },
   {
-    "name": "Simple Keyboard",
-    "url": "https://github.com/rkkr/simple-keyboard",
-    "description": "Simply keyboard and nothing more."
-  },
-  {
     "name": "OpenBoard",
     "url": "https://github.com/openboard-team/openboard",
     "description": "OpenBoard is a 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy. It is no longer updated, but still works."
   },
   {
-    "name": "Heliboard",
-    "url": "https://github.com/Helium314/HeliBoard",
-    "description": "A privacy-conscious and customizable open-source keyboard, based on AOSP / OpenBoard with many additional features and improvements, including support for custom dictionaries, themes, and glide typing."
+    "name": "Simple Keyboard",
+    "url": "https://github.com/rkkr/simple-keyboard",
+    "description": "Simply keyboard and nothing more."
   },
   {
     "name": "privacy policy",
