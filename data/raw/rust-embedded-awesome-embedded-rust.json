@@ -158,6 +158,16 @@
     "description": "A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. (github source)"
   },
   {
+    "name": "Simplified Embedded Rust: Standard Library Edition",
+    "url": "https://www.theembeddedrustacean.com/c/ser-std",
+    "description": "This book provides a quick path to start learning embedded Rust with minimal setup. Book is based on ESP devices and the Wokwi Simulator. This edition uses the standard library development approach which is based on the ESP-IDF framework."
+  },
+  {
+    "name": "Simplified Embedded Rust: Core Library Edition",
+    "url": "https://www.theembeddedrustacean.com/c/ser-no-std",
+    "description": "This book provides a quick path to start learning embedded Rust with minimal setup. Book is based on ESP devices and the Wokwi Simulator. This edition uses the core library development approach for bare metal development."
+  },
+  {
     "name": "xargo",
     "url": "https://github.com/japaric/xargo"
   },

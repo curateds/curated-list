@@ -1245,6 +1245,11 @@
     "description": "ActivityPub federated social network server implementing the Mastodon client API. AGPL-3.0 Docker/Go"
   },
   {
+    "name": "Hatsu",
+    "url": "https://hatsu.cli.rs/",
+    "description": "Bridge that interacts with Fediverse on behalf of your static site. (Source Code) AGPL-3.0 Docker/Rust"
+  },
+  {
     "name": "Hubzilla",
     "url": "https://hubzilla.org",
     "description": "Decentralized identity, privacy, publishing, sharing, cloud storage, and communications/social platform. (Source Code) MIT PHP"
@@ -2593,6 +2598,11 @@
     "name": "MTA:SA",
     "url": "https://multitheftauto.com/",
     "description": "Multi Theft Auto (MTA) is a software project that adds network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. (Source Code) GPL-3.0 C++"
+  },
+  {
+    "name": "OpenTTD",
+    "url": "https://www.openttd.org/",
+    "description": "Open source transport tycoon simulation game. (Source Code, Clients) GPL-2.0 C++/Docker"
   },
   {
     "name": "piqueserver",

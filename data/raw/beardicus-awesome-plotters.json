@@ -56,7 +56,8 @@
   },
   {
     "name": "NextDraw",
-    "url": "https://store.bantamtools.com/collections/bantam-tools-nextdraw"
+    "url": "https://store.bantamtools.com/collections/bantam-tools-nextdraw",
+    "description": "The Bantam Tools successor to the popular AxiDraw pen plotter."
   },
   {
     "name": "grblShield",
@@ -124,9 +125,9 @@
     "description": "Egg- and glass-focused pen recommendations but still generally applicable information."
   },
   {
-    "name": "JetPens – The Best White Ink Pens",
+    "name": "JetPens - The Best White Ink Pens",
     "url": "https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340",
-    "description": "A comprehensive review of many white ink pens, with pictures of their coverage characteristics."
+    "description": "The Best White Ink Pens - A comprehensive review of many white ink pens, with pictures of their coverage characteristics."
   },
   {
     "name": "Chiplotle",
@@ -465,7 +466,13 @@
   },
   {
     "name": "ThreadPlotter",
-    "url": "https://github.com/LiciaHe/threadPlotter"
+    "url": "https://github.com/LiciaHe/threadPlotter",
+    "description": "\"A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters\"."
+  },
+  {
+    "name": "PINTR",
+    "url": "https://javier.xyz/pintr",
+    "description": "Plottable random line drawings from your images."
   },
   {
     "name": "svgsort",
@@ -534,7 +541,8 @@
   },
   {
     "name": "FifteenTwenty: Commodore 1520 plotter font",
-    "url": "https://github.com/scruss/FifteenTwenty"
+    "url": "https://github.com/scruss/FifteenTwenty",
+    "description": "Blog post about the creation of this font from the original ROM."
   },
   {
     "name": "An Intro to Pen Plotters",
@@ -673,43 +681,53 @@
   },
   {
     "name": "Sweet-P Six Shooter SP-600 Plotter Demonstration",
-    "url": "https://www.youtube.com/watch?v=xE9LVOMbKxk"
+    "url": "https://www.youtube.com/watch?v=xE9LVOMbKxk",
+    "description": "A recording of the Sweet-P SP-600 running its demo plot."
   },
   {
     "name": "Bottle Plotter",
-    "url": "https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html"
+    "url": "https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html",
+    "description": "Blog post about building a cylindrical pen plotter for drawing on wine bottles."
   },
   {
     "name": "Buildlog.net Atari 1020 Plotter Retrofit",
-    "url": "https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/"
+    "url": "https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/",
+    "description": "Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller."
   },
   {
     "name": "Texas Instruments HX-1000 Plotter Photos",
-    "url": "http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html"
+    "url": "http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html",
+    "description": "Photo gallery of the plotter's exterior, interior, and packaging."
   },
   {
     "name": "Making cheap HP plotter pens",
-    "url": "https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/"
+    "url": "https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/",
+    "description": "Blog post mainly about using vinyl cutter parts as pen holders."
   },
   {
     "name": "Marcel Schwittlick and The Long Run",
-    "url": "https://www.artxcode.io/journal/marcel-schwittlick-the-long-run"
+    "url": "https://www.artxcode.io/journal/marcel-schwittlick-the-long-run",
+    "description": "Interview with Marcel, and lots of photos and videos of his work and workspace."
   },
   {
     "name": "Lars Wander and Mixing Paint With Code",
-    "url": "https://www.artxcode.io/journal/lars-wander-interview"
+    "url": "https://www.artxcode.io/journal/lars-wander-interview",
+    "description": "Interview with Lars Wander, plus art and videos."
   },
   {
     "name": "Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald (RustConf 2019)",
-    "url": "https://www.youtube.com/watch?v=Ho3xr4b60Zg"
+    "url": "https://www.youtube.com/watch?v=Ho3xr4b60Zg",
+    "description": "A RustConf talk with very little Rust, more about the creative process of generative art and pen plotters."
   },
   {
     "name": "Recreating Retro Plotter Art, by Sher Minn (Plotter People #1)",
-    "url": "https://www.youtube.com/watch?v=OR_TzMFhv50"
+    "url": "https://www.youtube.com/watch?v=OR_TzMFhv50",
+    "description": "Conference talk with lots of great computer and plotter history."
   },
   {
     "name": "20+ Questions About My Plotter Painting Practice",
-    "url": "https://www.eyesofpanda.com/project/plotter_painting_q_a/"
+    "url": "https://www.eyesofpanda.com/project/plotter_painting_q_a/",
+    "description": "Q&A blog post with lots of details about more painterly plotting."
   },
   {
     "name": "How to Watercolor Paint with a Robotic Drawing Machine: An Interview with Licia He",
@@ -717,7 +735,8 @@
   },
   {
     "name": "300 Days with Plotters",
-    "url": "https://liciahe.medium.com/300-days-with-plotters-14159ab64034"
+    "url": "https://liciahe.medium.com/300-days-with-plotters-14159ab64034",
+    "description": "Blog post by Licia He about a successful 100 day plotting challenge."
   },
   {
     "name": "Roland DXY 1300 Plotter Self Test",
@@ -725,7 +744,8 @@
   },
   {
     "name": "Vintage Aritma 0507 Plotter drawing Sierpinski triangles in one stroke",
-    "url": "https://www.youtube.com/watch?v=kfL3K8mQp5I"
+    "url": "https://www.youtube.com/watch?v=kfL3K8mQp5I",
+    "description": "Aritma Minigraf 0507 video."
   },
   {
     "name": "Plotter (Artima Minigraf 0507)",
@@ -733,7 +753,8 @@
   },
   {
     "name": "https://jiristepanovsky.cz/project.php?p=13plotter",
-    "url": "https://jiristepanovsky.cz/project.php?p=13plotter"
+    "url": "https://jiristepanovsky.cz/project.php?p=13plotter",
+    "description": "Blog post on the Aritma Minigraf 0507 plotter from Czechoslovakia."
   },
   {
     "name": "Another drawing on Aritma Minigraf 0507",
@@ -745,19 +766,23 @@
   },
   {
     "name": "Drawing an Etch-Mask Directly onto a PCB using a Vintage Plotter",
-    "url": "https://www.youtube.com/watch?v=nkxiFXCnbj8&t=131s"
+    "url": "https://www.youtube.com/watch?v=nkxiFXCnbj8&t=131s",
+    "description": "The video description has some interesting details about this plotter."
   },
   {
     "name": "OrCAD 386 and a plotter Colorgraf Aritma 512",
-    "url": "http://simandl.cz/stranky/elektro/spoje/pcb.htm"
+    "url": "http://simandl.cz/stranky/elektro/spoje/pcb.htm",
+    "description": "Article about using a Colorgraf 512 plotter with OrCAD 386 for making printed circuit boards."
   },
   {
     "name": "Early Computer Art in the 50s and 60s",
-    "url": "https://www.amygoodchild.com/blog/computer-art-50s-and-60s"
+    "url": "https://www.amygoodchild.com/blog/computer-art-50s-and-60s",
+    "description": "Good art history lesson with lots of plotter-relevant artists."
   },
   {
     "name": "Coding My Handwriting",
-    "url": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript"
+    "url": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
+    "description": "Great exploration of creating handwriting with p5.js and some custom tools."
   },
   {
     "name": "Apple Color Plotter User's Manual",
@@ -765,11 +790,13 @@
   },
   {
     "name": "Aritma Colorgraf 512",
-    "url": "http://simandl.cz/stranky/elektro/colorgraf/colorgraf_a.htm"
+    "url": "http://simandl.cz/stranky/elektro/colorgraf/colorgraf_a.htm",
+    "description": "Website with scanned schematics and manual."
   },
   {
     "name": "Atari 1020 Color Printer Owner's Guide (1982)",
-    "url": "https://archive.org/details/atari-1020-color-printer"
+    "url": "https://archive.org/details/atari-1020-color-printer",
+    "description": "A higher-quality scan is also available as a PDF on buildlog.net"
   },
   {
     "name": "Atari 1020 Color Printer Field Service Manual (1983)",
@@ -797,11 +824,13 @@
   },
   {
     "name": "Esterline Angus Spartan X-Y Recorder Instruction Manual",
-    "url": "https://archive.org/details/manualsplus_03665"
+    "url": "https://archive.org/details/manualsplus_03665",
+    "description": "Rev 1178."
   },
   {
     "name": "Esterline Angus Spartan X-Y Recorder Instruction Manual (1980)",
-    "url": "https://archive.org/details/manualsplus_03659"
+    "url": "https://archive.org/details/manualsplus_03659",
+    "description": "Revs 1080, 1178, 0480."
   },
   {
     "name": "Esterline Angus Model XY530 Recorder Instruction Manual",
@@ -969,7 +998,8 @@
   },
   {
     "name": "SEGA SP-400 Operation Manual",
-    "url": "https://archive.org/details/sega-sp-400"
+    "url": "https://archive.org/details/sega-sp-400",
+    "description": "This doesn't present as a flippable book on the archive, but the original page scans are still available for download."
   },
   {
     "name": "Sekonic SPL-450+/SPL-455 User Manual (1990) (German)",
@@ -1004,7 +1034,7 @@
     "url": "https://archive.org/details/panasonicpenwriterprotocol"
   },
   {
-    "name": "[Unknown Brand] LP 2002 Photo Plotter Attachment Operating Manual (German)",
+    "name": "(Unknown Brand) LP 2002 Photo Plotter Attachment Operating Manual (German)",
     "url": "https://archive.org/details/lp-2002-betriebsanleitung/",
     "description": "Also see Martin Bircher's thread with pictures of this device."
   },
@@ -1097,19 +1127,23 @@
   },
   {
     "name": "Sweet-P Plotter Brochure and Price List",
-    "url": "https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854"
+    "url": "https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854",
+    "description": "Four-page color marketing brochure with attached suggested retail price list."
   },
   {
     "name": "IEEE Electronic Systems News Autumn (1985)",
-    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111"
+    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111",
+    "description": "Review of the three-color Penman robotic plotter."
   },
   {
     "name": "Apple II Business Graphics Film (1982)",
-    "url": "https://archive.org/details/apple-ii-business-graphics"
+    "url": "https://archive.org/details/apple-ii-business-graphics",
+    "description": "There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57."
   },
   {
     "name": "Elektor Magazine Selbstbauplotter MONDRIAN II (1990) (German)",
-    "url": "https://archive.org/details/elektor_202310"
+    "url": "https://archive.org/details/elektor_202310",
+    "description": "Also see a model of this plotter on GrabCAD."
   },
   {
     "name": "IBM 7374 and 7375 Color Plotter Brochure (PDF)",
@@ -1117,7 +1151,8 @@
   },
   {
     "name": "Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)",
-    "url": "https://rednoise.org/softas/uploads/molnar.pdf"
+    "url": "https://rednoise.org/softas/uploads/molnar.pdf",
+    "description": "Vera Molnar."
   },
   {
     "name": "Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)",
@@ -1138,6 +1173,11 @@
   {
     "name": "Adaptor for universal X-Y plotter pen",
     "url": "https://patents.google.com/patent/US4943817"
+  },
+  {
+    "name": "Painting with Plotters",
+    "url": "https://www.eyesofpanda.com/project/painting_with_plotters/",
+    "description": "A work-in-progress course by Licia He, to be released September 2024."
   },
   {
     "name": "PlotterArt Subreddit",
