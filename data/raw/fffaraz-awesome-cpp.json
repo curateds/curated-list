@@ -3919,6 +3919,11 @@
     "description": "a header-only C++ library for solving large sparse linear systems with algebraic multigrid. [MIT]"
   },
   {
+    "name": "Au",
+    "url": "https://github.com/aurora-opensource/au",
+    "description": "A C++14-compatible physical units library with no dependencies and a single-file delivery option. Emphasis on safety, accessibility, performance, and developer experience. [Apache 2.0] website"
+  },
+  {
     "name": "FFTW",
     "url": "http://www.fftw.org/",
     "description": "A C library for computing the DFT in one or more dimensions. [GPL]"
