@@ -10,6 +10,11 @@
     "description": "The PHP Package Repository."
   },
   {
+    "name": "Packalyst",
+    "url": "https://packalyst.com/",
+    "description": "The Laravel Package Repository"
+  },
+  {
     "name": "Private Packagist",
     "url": "https://packagist.com/",
     "description": "Composer package archive as a service for PHP."
@@ -835,6 +840,11 @@
     "description": "Generate OpenAPI documentation for your RESTful API."
   },
   {
+    "name": "AntiXSS",
+    "url": "https://github.com/voku/anti-xss",
+    "description": "A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting."
+  },
+  {
     "name": "Halite",
     "url": "https://paragonie.com/project/halite",
     "description": "A simple library for encryption using libsodium."
@@ -1073,6 +1083,11 @@
     "name": "PhpDependencyAnalysis",
     "url": "https://github.com/mamuz/PhpDependencyAnalysis",
     "description": "A tool to create customizable dependency graphs."
+  },
+  {
+    "name": "PHPDoc Parser",
+    "url": "https://github.com/phpstan/phpdoc-parser",
+    "description": "Next-gen phpDoc parser with support for intersection types and generics"
   },
   {
     "name": "PHP Metrics",

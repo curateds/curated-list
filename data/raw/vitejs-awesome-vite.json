@@ -524,6 +524,11 @@
     "description": "React + TypeScript starter template, with file-based routing with Generouted and Biome."
   },
   {
+    "name": "vite-biome-tailwind-template",
+    "url": "https://github.com/not-first/vite-biome-tailwind-template",
+    "description": "React, Typescript, Biome, Tailwind CSS."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -1259,6 +1264,11 @@
     "description": "Add the abbrlink attribute to the markdown file in the specified directory."
   },
   {
+    "name": "vite-plugin-native",
+    "url": "https://github.com/vite-plugin/vite-plugin-native",
+    "description": "Supports Node/Electron C/C++ native addons."
+  },
+  {
     "name": "vite-tsconfig-paths",
     "url": "https://github.com/aleclarson/vite-tsconfig-paths",
     "description": "Support for TypeScript's path mapping."
@@ -1709,6 +1719,11 @@
     "description": "Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more."
   },
   {
+    "name": "unplugin-remix-router",
+    "url": "https://github.com/ws-rush/unplugin-remix-router",
+    "description": "Generates a React Router file, that depends on Remix v2 file-based router convention."
+  },
+  {
     "name": "vite-plugin-svgr",
     "url": "https://github.com/pd4d10/vite-plugin-svgr",
     "description": "Transform SVGs into React components."
@@ -1983,6 +1998,11 @@
     "description": "Vercel adapter."
   },
   {
+    "name": "vite-vlugin-vercel-skew-protection",
+    "url": "https://github.com/bitttttten/vite-vlugin-vercel-skew-protection",
+    "description": "Helps configure Vercel Skew Protection."
+  },
+  {
     "name": "Craft Vite",
     "url": "https://github.com/nystudio107/craft-vite",
     "description": "Plugin for integration with Craft CMS."
@@ -2043,6 +2063,11 @@
     "description": "Integration for TYPO3 CMS."
   },
   {
+    "name": "vite",
+    "url": "https://github.com/olivere/vite",
+    "description": "Integration with Go."
+  },
+  {
     "name": "create-rust-app",
     "url": "https://github.com/Wulf/create-rust-app",
     "description": "Integration for Rust web apps."
@@ -2086,6 +2111,11 @@
     "name": "PHP-Vite",
     "url": "https://github.com/mindplay-dk/php-vite",
     "description": "Integration for PHP, Composer package, no framework dependencies."
+  },
+  {
+    "name": "PHP-Vite Starter Repo",
+    "url": "https://github.com/nititech/php-vite-starter",
+    "description": "Starter repository, with TypeScript/JavaScript, Tailwind CSS, SASS/SCSS, EJS, SVG and image support."
   },
   {
     "name": "Viject",
