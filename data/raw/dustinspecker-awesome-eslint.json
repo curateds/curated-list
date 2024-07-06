@@ -155,6 +155,11 @@
     "description": "Code style agnostic version of Standard, perfect companion to Prettier."
   },
   {
+    "name": "depend",
+    "url": "https://github.com/es-tooling/eslint-plugin-depend",
+    "description": "Helps detect dependency tree bloat and redundant polyfills."
+  },
+  {
     "name": "GitHub",
     "url": "https://github.com/github/eslint-plugin-github",
     "description": "Misc. rules from GitHub."
@@ -611,7 +616,12 @@
   {
     "name": "import",
     "url": "https://github.com/benmosher/eslint-plugin-import",
-    "description": "Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names."
+    "description": "Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Still does not work with ESlint 9 and does not support flat configs."
+  },
+  {
+    "name": "import-x",
+    "url": "https://github.com/un-ts/eslint-plugin-import-x",
+    "description": "Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Properly maintained lightweight fork of eslint-plugin-import with the proper support of latest ESlint."
   },
   {
     "name": "new-with-error",
@@ -981,6 +991,11 @@
     "name": "eslint-nibble",
     "url": "https://github.com/IanVS/eslint-nibble",
     "description": "Ease into ESLint, by fixing one rule at a time."
+  },
+  {
+    "name": "eslint-plugin-rule-adoption",
+    "url": "https://github.com/Jugbot/eslint-plugin-rule-adoption",
+    "description": "An eslint plugin for incremental rule adoption, when --fix and codemods don't cut it."
   },
   {
     "name": "eslint-rule-documentation",

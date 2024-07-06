@@ -447,7 +447,7 @@
   {
     "name": "Seatsurfing",
     "url": "https://seatsurfing.app/",
-    "description": "Webbased app to book seats, desks and rooms for offices. (Demo, Source Code) GPL-3.0 Docker"
+    "description": "Webbased app to book seats, desks and rooms for offices. (Source Code) GPL-3.0 Docker"
   },
   {
     "name": "Briefkasten",
@@ -2102,7 +2102,7 @@
   {
     "name": "Solidus",
     "url": "https://solidus.io/",
-    "description": "A free, open-source ecommerce platform that gives you complete control over your store. (Demo, Source Code) BSD-3-Clause Ruby/Docker"
+    "description": "A free, open-source ecommerce platform that gives you complete control over your store. (Source Code) BSD-3-Clause Ruby/Docker"
   },
   {
     "name": "Spree Commerce",
@@ -4431,7 +4431,7 @@
   },
   {
     "name": "hitobito",
-    "url": "https://hitobito.com/en",
+    "url": "https://hitobito.com",
     "description": "A web application to manage complex group hierarchies with members, events and a lot more. (Demo, Source Code) AGPL-3.0 Ruby"
   },
   {
@@ -5388,11 +5388,6 @@
     "name": "Chhoto URL",
     "url": "https://github.com/SinTan1729/chhoto-url",
     "description": "Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). MIT Rust/Docker"
-  },
-  {
-    "name": "Easyshortener",
-    "url": "https://github.com/easypanel-community/easyshortener",
-    "description": "A simple URL shortener. MIT PHP/Nodejs/Docker"
   },
   {
     "name": "Just Short It!",

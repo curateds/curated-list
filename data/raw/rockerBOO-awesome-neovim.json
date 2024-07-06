@@ -2355,6 +2355,11 @@
     "description": "A Lua fork of vim-devicons."
   },
   {
+    "name": "echasnovski/mini.nvim#mini.icons",
+    "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-icons.md",
+    "description": "Module of mini.nvim meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching."
+  },
+  {
     "name": "yamatsum/nvim-nonicons",
     "url": "https://github.com/yamatsum/nvim-nonicons",
     "description": "Collection of configurations for nvim-web-devicons."
