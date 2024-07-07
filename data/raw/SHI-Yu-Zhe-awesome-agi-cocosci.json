@@ -1,219 +1,5 @@
 [
   {
-    "name": "Computational Cognitive Science Courses",
-    "url": "https://cbmm.mit.edu/education/courses/computational-cognitive-science",
-    "description": "MIT. Courses on computational cognitive science from MIT, Harvard, and Stanford."
-  },
-  {
-    "name": "Introduction to Program Synthesis",
-    "url": "https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm",
-    "description": "MIT. Armando Solar-Lezama's elementary course on program synthesis."
-  },
-  {
-    "name": "Structure and Interpretation of Computer Programs",
-    "url": "https://web.mit.edu/6.001/6.037/",
-    "description": "MIT. [Book: SICP]. [All Versions]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems."
-  },
-  {
-    "name": "Discrete Mathematics and Its Applications",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf"
-  },
-  {
-    "name": "Probabilistic Models of Cognition",
-    "url": "https://probmods.org/",
-    "description": "MIT. The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models."
-  },
-  {
-    "name": "bioRender",
-    "url": "https://www.biorender.com/",
-    "description": "bioRender. Create professional science figures in minutes by browsing thousands of pre-made icons and templates from more than 30 fields of life sciences."
-  },
-  {
-    "name": "How to construct a Nature summary paragraph",
-    "url": "https://www.nature.com/documents/nature-summary-paragraph.pdf",
-    "description": "Nature. Nature official guidelines for composing abstracts."
-  },
-  {
-    "name": "How to write a superb literature review",
-    "url": "https://www.nature.com/articles/d41586-020-03422-x",
-    "description": "Nature, 2020. Nature speaks to old hands and first timers about the work they did to make their reviews sing."
-  },
-  {
-    "name": "Scientific Papers",
-    "url": "https://www.nature.com/scitable/topicpage/scientific-papers-13815490/",
-    "description": "Nature. Nature guidance on writing scientific papers."
-  },
-  {
-    "name": "The Machine Learning Reproducibility Checklist",
-    "url": "https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf",
-    "description": "McGill University. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility."
-  },
-  {
-    "name": "How to Read a Paper",
-    "url": "https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf",
-    "description": "ACM SIGCOMM Computer Communication Review, 2007. [All Versions]. A comprehensive tutorial on reading scientific papers."
-  },
-  {
-    "name": "How to (seriously) read a scientific paper",
-    "url": "https://www.science.org/content/article/how-seriously-read-scientific-paper",
-    "description": "Science, 2016. [All Versions]. Science interview on reading scientific papers."
-  },
-  {
-    "name": "It's not just you: science papers are getting harder to read",
-    "url": "https://www.nature.com/articles/nature.2017.21751",
-    "description": "Nature, 2017. [All Versions]. Nature perspective on reading scientific papers."
-  },
-  {
-    "name": "How to navigate a scientific paper with time constraints: a graphics approach",
-    "url": "https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf",
-    "description": "MIT. MIT guidance on strategies for reading papers given different time constraints."
-  },
-  {
-    "name": "Text Visualization Browser",
-    "url": "https://textvis.lnu.se/",
-    "description": "ISOVIS group, 2015. [Paper]. [All Versions]. A Hub of Text Visualization Techniques."
-  },
-  {
-    "name": "How to keep up with the scientific literature",
-    "url": "https://www.science.org/content/article/how-keep-scientific-literature",
-    "description": "Science, 2016. Science interview on organizing scientific papers."
-  },
-  {
-    "name": "Scientific literature: Information overload",
-    "url": "https://www.nature.com/articles/nj7612-457a",
-    "description": "Nature, 2016. [All Versions]. Perspective on handling overloaded information from scientific literature."
-  },
-  {
-    "name": "Microsoft Academic Graph",
-    "url": "https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/",
-    "description": "Microsoft Research. Heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study."
-  },
-  {
-    "name": "An Overview of Microsoft Academic Service (MAS) and Applications",
-    "url": "http://sonyis.me/paperpdf/Microsoft%20Academic%20Graph%20WWW%202015.pdf",
-    "description": "WWW'15, 2015. [All Versios]. Original paper on Microsoft Academic Graph."
-  },
-  {
-    "name": "Goodbye, Microsoft Academic – Hello, open research infrastructure?",
-    "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/27/goodbye-microsoft-academic-hello-open-research-infrastructure/",
-    "description": "LSE Impact Blog, 2021. An interpretation of Microsoft's strategy on research infrastructure."
-  },
-  {
-    "name": "Semantic Scholar",
-    "url": "https://www.semanticscholar.org/",
-    "description": "Allen Institute for AI Research. AI-powered scientific literature research tool."
-  },
-  {
-    "name": "Construction of the Literature Graph in Semantic Scholar",
-    "url": "https://aclanthology.org/N18-3011/",
-    "description": "NAACL'18, 2018. [All Versions]. Semantic Scholar with extracting feature and metadata from raw paper data."
-  },
-  {
-    "name": "S2ORC: The Semantic Scholar Open Research Corpus",
-    "url": "https://aclanthology.org/2020.acl-main.447/",
-    "description": "ACL'20, 2020. [All Versions]. An open corpus of academic papers released by Semantic Scholar."
-  },
-  {
-    "name": "Litmaps",
-    "url": "https://www.litmaps.com/",
-    "description": "Litmap Ltd. For interactive literature map construction and linked document management."
-  },
-  {
-    "name": "VOSviewer",
-    "url": "https://www.vosviewer.com/",
-    "description": "Leiden University. For constructing and visualizing bibliometric networks."
-  },
-  {
-    "name": "StateOfTheArt.AI",
-    "url": "https://www.stateoftheart.ai/",
-    "description": "StateOfTheArtAI. For tracking, collecting and visualizing the development of AI research."
-  },
-  {
-    "name": "Library of Congress Classification",
-    "url": "https://www.loc.gov/aba/publications/FreeLCC/freelcc.html",
-    "description": "Library of Congress. Classification system of USA (PDF only)."
-  },
-  {
-    "name": "Chinese Library Classification",
-    "url": "http://cct.nlc.cn/",
-    "description": "National Library of China. Classification system of P. R. China (online user interface in Chinese). [English introduction at ISKO]. [Wikipedia-EN]."
-  },
-  {
-    "name": "DDC at German National Library",
-    "url": "https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online",
-    "description": "Deutsche National Bibliothek. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). [DNB Website]."
-  },
-  {
-    "name": "National Dite Library Classification",
-    "url": "https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html",
-    "description": "National Diet Library of Japan. Classification system of Japan (PDF only)."
-  },
-  {
-    "name": "DDC at OCLC (Wikipedia)",
-    "url": "https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes",
-    "description": "Online Computer Library Center (OCLC). [OCLC Website]. [Introduction to DDC]. [DDC Manual]. Dewey Decimal Classification (DDC) system for worldwide library resouce construction. [DDC Class 000 (PDF only)]. [DDC Class 100 (PDF only)]. [DDC Class 200 (PDF only)]. [DDC Class 300 (PDF only)]. [DDC Class 400 (PDF only)]. [DDC Class 500 (PDF only)]. [DDC Class 600 (PDF only)]. [DDC Class 700 (PDF only)]. [DDC Class 800 (PDF only)]. [DDC Class 900 (PDF only)]."
-  },
-  {
-    "name": "Knowledge organization",
-    "url": "https://en.wikipedia.org/wiki/Knowledge_organization",
-    "description": "Wikipedia. Wikipedia on knowledge organization methods."
-  },
-  {
-    "name": "The Zettelkasten Method",
-    "url": "https://zettelkasten.de/",
-    "description": "Bielefeld University. Relating ideas in graphs and multi-labels."
-  },
-  {
-    "name": "Zettelkasten",
-    "url": "https://en.wikipedia.org/wiki/Zettelkasten",
-    "description": "Wikipedia. Wikipedia on the Zettelkasten method."
-  },
-  {
-    "name": "Roam Research",
-    "url": "https://roamresearch.com/",
-    "description": "Roam Research. For linked document management, visualization, and sharing."
-  },
-  {
-    "name": "Foam",
-    "url": "https://foambubble.github.io/foam/",
-    "description": "Foambubble. For linked document management, visualization, and sharing, opensourced softward built on VSCode."
-  },
-  {
-    "name": "Building a Second Brain",
-    "url": "https://www.buildingasecondbrain.com/",
-    "description": "Forte Labs, LLC. Connecting ideas in graphs."
-  },
-  {
-    "name": "Zotero",
-    "url": "https://www.zotero.org/",
-    "description": "Digital Scholar. For reference management to manage bibliographic data and research related materials."
-  },
-  {
-    "name": "Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine",
-    "url": "https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0",
-    "description": "Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill, 2016. [All Versions]."
-  },
-  {
-    "name": "The card index as creativity machine",
-    "url": "https://culturemachine.net/wp-content/uploads/2019/01/373-604-1-PB.pdf",
-    "description": "Culture Machine, 2010. [All Versions]."
-  },
-  {
-    "name": "Where Does Niklas Luhmann's Card Index Come From?",
-    "url": "https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf",
-    "description": "Erudition and the Republic of Letters, 2018. [All Versions]. A simplified introduction on Luhmann's Zettelkasten."
-  },
-  {
-    "name": "Niklas Luhmann's Card Index: The Fabrication of Serendipity",
-    "url": "https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf",
-    "description": "Sociologica, 2018. [All Versions]."
-  },
-  {
-    "name": "Communicating with Slip Boxes",
-    "url": "https://luhmann.surge.sh/communicating-with-slip-boxes",
-    "description": "2019. [All Versions]."
-  },
-  {
     "name": "Abduction",
     "url": "https://plato.stanford.edu/entries/abduction/index.html",
     "description": "Plato Stanford. A computational philosophy account on Abduction, one of the three thinking patterns besides Induction and Deduction, being unique for its potential to introduce new ideas into current knowledge."
@@ -4471,6 +4257,220 @@
     "name": "Interplay between rule learning and rule switching in a perceptual categorization task",
     "url": "https://www.biorxiv.org/content/10.1101/2022.01.29.478330v2.abstract",
     "description": "2022. [All Versions]."
+  },
+  {
+    "name": "Computational Cognitive Science Courses",
+    "url": "https://cbmm.mit.edu/education/courses/computational-cognitive-science",
+    "description": "MIT. Courses on computational cognitive science from MIT, Harvard, and Stanford."
+  },
+  {
+    "name": "Introduction to Program Synthesis",
+    "url": "https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm",
+    "description": "MIT. Armando Solar-Lezama's elementary course on program synthesis."
+  },
+  {
+    "name": "Structure and Interpretation of Computer Programs",
+    "url": "https://web.mit.edu/6.001/6.037/",
+    "description": "MIT. [Book: SICP]. [All Versions]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems."
+  },
+  {
+    "name": "Discrete Mathematics and Its Applications",
+    "url": "https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf"
+  },
+  {
+    "name": "Probabilistic Models of Cognition",
+    "url": "https://probmods.org/",
+    "description": "MIT. The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models."
+  },
+  {
+    "name": "bioRender",
+    "url": "https://www.biorender.com/",
+    "description": "bioRender. Create professional science figures in minutes by browsing thousands of pre-made icons and templates from more than 30 fields of life sciences."
+  },
+  {
+    "name": "How to construct a Nature summary paragraph",
+    "url": "https://www.nature.com/documents/nature-summary-paragraph.pdf",
+    "description": "Nature. Nature official guidelines for composing abstracts."
+  },
+  {
+    "name": "How to write a superb literature review",
+    "url": "https://www.nature.com/articles/d41586-020-03422-x",
+    "description": "Nature, 2020. Nature speaks to old hands and first timers about the work they did to make their reviews sing."
+  },
+  {
+    "name": "Scientific Papers",
+    "url": "https://www.nature.com/scitable/topicpage/scientific-papers-13815490/",
+    "description": "Nature. Nature guidance on writing scientific papers."
+  },
+  {
+    "name": "The Machine Learning Reproducibility Checklist",
+    "url": "https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf",
+    "description": "McGill University. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility."
+  },
+  {
+    "name": "How to Read a Paper",
+    "url": "https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf",
+    "description": "ACM SIGCOMM Computer Communication Review, 2007. [All Versions]. A comprehensive tutorial on reading scientific papers."
+  },
+  {
+    "name": "How to (seriously) read a scientific paper",
+    "url": "https://www.science.org/content/article/how-seriously-read-scientific-paper",
+    "description": "Science, 2016. [All Versions]. Science interview on reading scientific papers."
+  },
+  {
+    "name": "It's not just you: science papers are getting harder to read",
+    "url": "https://www.nature.com/articles/nature.2017.21751",
+    "description": "Nature, 2017. [All Versions]. Nature perspective on reading scientific papers."
+  },
+  {
+    "name": "How to navigate a scientific paper with time constraints: a graphics approach",
+    "url": "https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf",
+    "description": "MIT. MIT guidance on strategies for reading papers given different time constraints."
+  },
+  {
+    "name": "Text Visualization Browser",
+    "url": "https://textvis.lnu.se/",
+    "description": "ISOVIS group, 2015. [Paper]. [All Versions]. A Hub of Text Visualization Techniques."
+  },
+  {
+    "name": "How to keep up with the scientific literature",
+    "url": "https://www.science.org/content/article/how-keep-scientific-literature",
+    "description": "Science, 2016. Science interview on organizing scientific papers."
+  },
+  {
+    "name": "Scientific literature: Information overload",
+    "url": "https://www.nature.com/articles/nj7612-457a",
+    "description": "Nature, 2016. [All Versions]. Perspective on handling overloaded information from scientific literature."
+  },
+  {
+    "name": "Microsoft Academic Graph",
+    "url": "https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/",
+    "description": "Microsoft Research. Heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study."
+  },
+  {
+    "name": "An Overview of Microsoft Academic Service (MAS) and Applications",
+    "url": "http://sonyis.me/paperpdf/Microsoft%20Academic%20Graph%20WWW%202015.pdf",
+    "description": "WWW'15, 2015. [All Versios]. Original paper on Microsoft Academic Graph."
+  },
+  {
+    "name": "Goodbye, Microsoft Academic – Hello, open research infrastructure?",
+    "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/27/goodbye-microsoft-academic-hello-open-research-infrastructure/",
+    "description": "LSE Impact Blog, 2021. An interpretation of Microsoft's strategy on research infrastructure."
+  },
+  {
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/",
+    "description": "Allen Institute for AI Research. AI-powered scientific literature research tool."
+  },
+  {
+    "name": "Construction of the Literature Graph in Semantic Scholar",
+    "url": "https://aclanthology.org/N18-3011/",
+    "description": "NAACL'18, 2018. [All Versions]. Semantic Scholar with extracting feature and metadata from raw paper data."
+  },
+  {
+    "name": "S2ORC: The Semantic Scholar Open Research Corpus",
+    "url": "https://aclanthology.org/2020.acl-main.447/",
+    "description": "ACL'20, 2020. [All Versions]. An open corpus of academic papers released by Semantic Scholar."
+  },
+  {
+    "name": "Litmaps",
+    "url": "https://www.litmaps.com/",
+    "description": "Litmap Ltd. For interactive literature map construction and linked document management."
+  },
+  {
+    "name": "VOSviewer",
+    "url": "https://www.vosviewer.com/",
+    "description": "Leiden University. For constructing and visualizing bibliometric networks."
+  },
+  {
+    "name": "StateOfTheArt.AI",
+    "url": "https://www.stateoftheart.ai/",
+    "description": "StateOfTheArtAI. For tracking, collecting and visualizing the development of AI research."
+  },
+  {
+    "name": "Library of Congress Classification",
+    "url": "https://www.loc.gov/aba/publications/FreeLCC/freelcc.html",
+    "description": "Library of Congress. Classification system of USA (PDF only)."
+  },
+  {
+    "name": "Chinese Library Classification",
+    "url": "http://cct.nlc.cn/",
+    "description": "National Library of China. Classification system of P. R. China (online user interface in Chinese). [English introduction at ISKO]. [Wikipedia-EN]."
+  },
+  {
+    "name": "DDC at German National Library",
+    "url": "https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online",
+    "description": "Deutsche National Bibliothek. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). [DNB Website]."
+  },
+  {
+    "name": "National Dite Library Classification",
+    "url": "https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html",
+    "description": "National Diet Library of Japan. Classification system of Japan (PDF only)."
+  },
+  {
+    "name": "DDC at OCLC (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes",
+    "description": "Online Computer Library Center (OCLC). [OCLC Website]. [Introduction to DDC]. [DDC Manual]. Dewey Decimal Classification (DDC) system for worldwide library resouce construction. [DDC Class 000 (PDF only)]. [DDC Class 100 (PDF only)]. [DDC Class 200 (PDF only)]. [DDC Class 300 (PDF only)]. [DDC Class 400 (PDF only)]. [DDC Class 500 (PDF only)]. [DDC Class 600 (PDF only)]. [DDC Class 700 (PDF only)]. [DDC Class 800 (PDF only)]. [DDC Class 900 (PDF only)]."
+  },
+  {
+    "name": "Knowledge organization",
+    "url": "https://en.wikipedia.org/wiki/Knowledge_organization",
+    "description": "Wikipedia. Wikipedia on knowledge organization methods."
+  },
+  {
+    "name": "The Zettelkasten Method",
+    "url": "https://zettelkasten.de/",
+    "description": "Bielefeld University. Relating ideas in graphs and multi-labels."
+  },
+  {
+    "name": "Zettelkasten",
+    "url": "https://en.wikipedia.org/wiki/Zettelkasten",
+    "description": "Wikipedia. Wikipedia on the Zettelkasten method."
+  },
+  {
+    "name": "Roam Research",
+    "url": "https://roamresearch.com/",
+    "description": "Roam Research. For linked document management, visualization, and sharing."
+  },
+  {
+    "name": "Foam",
+    "url": "https://foambubble.github.io/foam/",
+    "description": "Foambubble. For linked document management, visualization, and sharing, opensourced softward built on VSCode."
+  },
+  {
+    "name": "Building a Second Brain",
+    "url": "https://www.buildingasecondbrain.com/",
+    "description": "Forte Labs, LLC. Connecting ideas in graphs."
+  },
+  {
+    "name": "Zotero",
+    "url": "https://www.zotero.org/",
+    "description": "Digital Scholar. For reference management to manage bibliographic data and research related materials."
+  },
+  {
+    "name": "Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine",
+    "url": "https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0",
+    "description": "Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill, 2016. [All Versions]."
+  },
+  {
+    "name": "The card index as creativity machine",
+    "url": "https://culturemachine.net/wp-content/uploads/2019/01/373-604-1-PB.pdf",
+    "description": "Culture Machine, 2010. [All Versions]."
+  },
+  {
+    "name": "Where Does Niklas Luhmann's Card Index Come From?",
+    "url": "https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf",
+    "description": "Erudition and the Republic of Letters, 2018. [All Versions]. A simplified introduction on Luhmann's Zettelkasten."
+  },
+  {
+    "name": "Niklas Luhmann's Card Index: The Fabrication of Serendipity",
+    "url": "https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf",
+    "description": "Sociologica, 2018. [All Versions]."
+  },
+  {
+    "name": "Communicating with Slip Boxes",
+    "url": "https://luhmann.surge.sh/communicating-with-slip-boxes",
+    "description": "2019. [All Versions]."
   },
   {
     "name": "Center for Brains, Minds and Machines (CBMM)",

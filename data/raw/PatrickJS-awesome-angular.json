@@ -1126,6 +1126,16 @@
     "description": "A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs."
   },
   {
+    "name": "abp",
+    "url": "https://github.com/abpframework/abp",
+    "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET."
+  },
+  {
+    "name": "LymeStack",
+    "url": "https://www.lymestack.com/",
+    "description": "LymeStack is a full-stack, full-featured web application template & toolset designed to provide small businesses and organizations with an accelerated starting point when it comes to creating new apps and adding features to those apps."
+  },
+  {
     "name": "teleport-code-generators",
     "url": "https://github.com/teleporthq/teleport-code-generators",
     "description": "A collection of code generators for modern JavaScript applications."
@@ -1434,6 +1444,11 @@
     "name": "ngx-translate-multi-http-loader",
     "url": "https://github.com/rbalet/ngx-translate-multi-http-loader",
     "description": "A loader for ngx-translate that loads translations with http calls."
+  },
+  {
+    "name": "angular-ecmascript-intl",
+    "url": "https://github.com/json-derulo/angular-ecmascript-intl",
+    "description": "Contains pipes to transform internationalization data using Intl.* browser APIs."
   },
   {
     "name": "Angular Security",
@@ -1832,6 +1847,11 @@
     "description": "Helper functions to help write unit tests in Angular using mocks and spies."
   },
   {
+    "name": "ngentest",
+    "url": "https://github.com/allenhwkim/ngentest",
+    "description": "Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes."
+  },
+  {
     "name": "angular update guide",
     "url": "https://angular.dev/update-guide",
     "description": "Interactive guide to help you migrate from one version of Angular to another."
@@ -2005,6 +2025,11 @@
     "name": "ngx-drag-scroll",
     "url": "https://github.com/bfwg/ngx-drag-scroll",
     "description": "A lightweight responsive Angular carousel library."
+  },
+  {
+    "name": "ng-slider",
+    "url": "https://github.com/Jaspero/ng-slider",
+    "description": "A light slider with no external dependencies."
   },
   {
     "name": "ng2-charts",
@@ -2221,6 +2246,16 @@
     "description": "Useful pipes for Angular with no external dependencies!"
   },
   {
+    "name": "nglrx/pipes",
+    "url": "https://github.com/nglrx/pipes",
+    "description": "A library of useful pipes for Angular apps."
+  },
+  {
+    "name": "ng-helpers",
+    "url": "https://github.com/Jaspero/ng-helpers",
+    "description": "A collection of useful components, directives and pipes for Angular."
+  },
+  {
     "name": "ng2-dragula",
     "url": "https://github.com/valor-software/ng2-dragula",
     "description": "Drag and Drop so simple it hurts!"
@@ -2351,6 +2386,11 @@
     "description": "A handy FilePond adapter component for Angular."
   },
   {
+    "name": "ngx-file-drop",
+    "url": "https://github.com/georgipeltekov/ngx-file-drop",
+    "description": "Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat."
+  },
+  {
     "name": "angular-imask",
     "url": "https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask",
     "description": "Angular input mask."
@@ -2479,6 +2519,11 @@
     "name": "ng-multiselect-dropdown",
     "url": "https://github.com/NileshPatel17/ng-multiselect-dropdown",
     "description": "Multiple Select Dropdown Component."
+  },
+  {
+    "name": "angular-iban",
+    "url": "https://github.com/fundsaccess/angular-iban",
+    "description": "IBAN directives and pipes for Angular."
   },
   {
     "name": "ngx-valdemort",
@@ -2733,6 +2778,11 @@
     "name": "ng2-tree",
     "url": "https://github.com/valor-software/ng2-tree",
     "description": "Angular tree component."
+  },
+  {
+    "name": "gridstack",
+    "url": "https://github.com/gridstack/gridstack.js/tree/master/angular/",
+    "description": "Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular."
   },
   {
     "name": "angular2-promise-buttons",
@@ -3484,6 +3534,11 @@
     "description": "Angular Material Extensions Library."
   },
   {
+    "name": "angular-material-css-vars",
+    "url": "https://github.com/johannesjo/angular-material-css-vars",
+    "description": "Little library to use css variables with Angular Material."
+  },
+  {
     "name": "angular-bootstrap-md",
     "url": "https://mdbootstrap.com/docs/angular/",
     "description": "Material Design"
@@ -3707,6 +3762,11 @@
     "name": "angular-compiler-output",
     "url": "https://github.com/JeanMeche/angular-compiler-output",
     "description": "See the JS output of the Angular compiler for a given angular template."
+  },
+  {
+    "name": "ng-dynamic-mf",
+    "url": "https://github.com/LoaderB0T/ng-dynamic-mf",
+    "description": "Truly dynamic modules at runtime with Module Federation."
   },
   {
     "name": "Ionic Framework",
