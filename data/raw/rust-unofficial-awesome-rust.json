@@ -1893,6 +1893,11 @@
     "description": "Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading."
   },
   {
+    "name": "importantimport/hatsu",
+    "url": "https://github.com/importantimport/hatsu",
+    "description": "🩵 Self-hosted and fully-automated ActivityPub bridge for static sites."
+  },
+  {
     "name": "LemmyNet/lemmy",
     "url": "https://github.com/LemmyNet/lemmy",
     "description": "A link aggregator / reddit clone for the fediverse"

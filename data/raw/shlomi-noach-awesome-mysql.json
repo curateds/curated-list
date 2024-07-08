@@ -189,6 +189,11 @@
     "description": "MySQL driver for Ruby and Rails projects."
   },
   {
+    "name": "MyZql",
+    "url": "https://github.com/speed2exe/myzql",
+    "description": "MySQL and MariaDB driver in native Zig."
+  },
+  {
     "name": "dbdeployer",
     "url": "https://github.com/datacharmer/dbdeployer",
     "description": "A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control."
