@@ -170,6 +170,11 @@
     "description": "Project and task manager with Todoist support."
   },
   {
+    "name": "Time Tracker",
+    "url": "https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker",
+    "description": "Local-first project time tracker with sync option via cloud or network storage (CSV file)."
+  },
+  {
     "name": "Blanket",
     "url": "https://apps.gnome.org/Blanket",
     "description": "Listen to different sounds."
@@ -365,6 +370,11 @@
     "description": "Ultimate Tic Tac Toe to play with friends or against an AI."
   },
   {
+    "name": "Libellus",
+    "url": "https://flathub.org/apps/de.hummdudel.Libellus",
+    "description": "Tab-based wiki/Lexicon for DnD 5th edition."
+  },
+  {
     "name": "Pika Backup",
     "url": "https://apps.gnome.org/PikaBackup",
     "description": "Simple backups based on borg."
@@ -448,6 +458,16 @@
     "name": "Damask",
     "url": "https://gitlab.gnome.org/subpop/damask",
     "description": "Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc)."
+  },
+  {
+    "name": "Luminance",
+    "url": "https://github.com/sidevesh/Luminance",
+    "description": "Simple application to control brightness of displays (including external) supporting DDC/CI."
+  },
+  {
+    "name": "Bustle",
+    "url": "https://flathub.org/apps/org.freedesktop.Bustle",
+    "description": "D-Bus activity viewer that draws diagram sequences."
   },
   {
     "name": "Dialect",

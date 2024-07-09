@@ -476,6 +476,11 @@
     "description": "Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0)."
   },
   {
+    "name": "RPi Monitor Dashboard",
+    "url": "https://github.com/nekromoff/rpi-monitor-dashboard",
+    "description": "Simple monitoring tool with a dashboard suitable for monitoring multiple RPi devices (CPU temperature, network, ping, browser, screenshot of X display etc.)."
+  },
+  {
     "name": "rpi-cookstrap",
     "url": "https://github.com/heeplr/rpi-cookstrap",
     "description": "A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images."

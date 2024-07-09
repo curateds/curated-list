@@ -1357,11 +1357,6 @@
     "description": "A deliberately basic project that has multiple staging environments and Heroku deployment config."
   },
   {
-    "name": "docker-django",
-    "url": "https://github.com/erroneousboat/docker-django/",
-    "description": "A quick starter guide for Django and Docker together."
-  },
-  {
     "name": "django-docker-template",
     "url": "https://github.com/amerkurev/django-docker-template",
     "description": "Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt)."

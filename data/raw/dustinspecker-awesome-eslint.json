@@ -195,9 +195,9 @@
     "description": "Disable ECMAScript language features not supported by your browserslist targets."
   },
   {
-    "name": "es",
-    "url": "https://github.com/mysticatea/eslint-plugin-es",
-    "description": "Disable specific ECMAScript language versions or individual features."
+    "name": "es-x",
+    "url": "https://github.com/eslint-community/eslint-plugin-es-x",
+    "description": "Disable specific ECMAScript language versions or individual features. Properly maintained fork of no longer maintained eslint-plugin-es."
   },
   {
     "name": "es5",
@@ -425,9 +425,9 @@
     "description": "ESLint Parser/Plugin for MDX."
   },
   {
-    "name": "Node",
-    "url": "https://github.com/mysticatea/eslint-plugin-node",
-    "description": "Additional ESLint's rules for Node.js."
+    "name": "N",
+    "url": "https://github.com/eslint-community/eslint-plugin-n",
+    "description": "Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained eslint-plugin-node."
   },
   {
     "name": "SQL",
@@ -579,9 +579,9 @@
     "description": "Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies."
   },
   {
-    "name": "ESLint Comments",
-    "url": "https://github.com/mysticatea/eslint-plugin-eslint-comments",
-    "description": "Best practices about ESLint directive comments (/*eslint-disable*/, etc.)."
+    "name": "@eslint-community/eslint-plugin-eslint-comments",
+    "url": "https://github.com/eslint-community/eslint-plugin-eslint-comments",
+    "description": "Best practices about ESLint directive comments (/*eslint-disable*/, etc.). Properly maintained fork of no longer maintained eslint-plugin-eslint-comments."
   },
   {
     "name": "eslint-plugin-hexagonal-architecture",
@@ -674,6 +674,16 @@
     "description": "Enforce pure functions (without side effects)."
   },
   {
+    "name": "ReDoS",
+    "url": "https://makenowjust-labs.github.io/recheck/docs/usage/as-eslint-plugin/",
+    "description": "ESLint plugin for finding possible ReDoS vulnerabilities."
+  },
+  {
+    "name": "ReDoSDetector",
+    "url": "https://github.com/tjenkinson/eslint-plugin-redos-detector",
+    "description": "ESLint plugin for finding possible ReDoS vulnerabilities."
+  },
+  {
     "name": "RegExp",
     "url": "https://github.com/ota-meshi/eslint-plugin-regexp",
     "description": "ESLint plugin for finding regexp mistakes and style guide violations."
@@ -737,6 +747,11 @@
     "description": "Tries to detect XSS issues in codebase before they end up in production."
   },
   {
+    "name": "ESLint Stylistic",
+    "url": "https://eslint.style/",
+    "description": "Formatting and stylistic ESLint core rules moved to this project and are maintained by the community."
+  },
+  {
     "name": "const case",
     "url": "https://www.npmjs.com/package/eslint-plugin-const-case",
     "description": "Enforce capitalization of constant primitive literals."
@@ -749,7 +764,7 @@
   {
     "name": "filenames",
     "url": "https://github.com/selaux/eslint-plugin-filenames",
-    "description": "Ensure consistent filenames for your JavaScript files."
+    "description": "Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all."
   },
   {
     "name": "Simple import sort",

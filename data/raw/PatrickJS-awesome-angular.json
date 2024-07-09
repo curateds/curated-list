@@ -1637,6 +1637,36 @@
     "description": "A simple starter app for bootstrapping applications with Carbon."
   },
   {
+    "name": "front-angular",
+    "url": "https://github.com/starter-kits-usmb/front-angular",
+    "description": "This starter kit use angular version 18.0.0 and includes the following features: scalable folder structure, linter and Prettier, routing and lazy loading, authentication service, light design system, toast and modal service, Jest test setup and Docker compose."
+  },
+  {
+    "name": "tailkit-starter-kit-angular",
+    "url": "https://github.com/pixelcave/tailkit-starter-kit-angular",
+    "description": "Angular Starter Kit for using Tailkit UI components out of the box in your project."
+  },
+  {
+    "name": "angular-tailwind",
+    "url": "https://github.com/lannodev/angular-tailwind",
+    "description": "Angular & Tailwind CSS Admin Dashboard Starter Kit."
+  },
+  {
+    "name": "angular-starter-kit",
+    "url": "https://github.com/svierk/angular-starter-kit",
+    "description": "Angular project template with Prettier, Linter, Git-Hooks and VS Code settings."
+  },
+  {
+    "name": "fractal-boilerplate-lua-angular",
+    "url": "https://github.com/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular",
+    "description": "Basic Angular & Lua - FiveM Boilerplate: A streamlined starter kit for web and in-game development with hot builds and utility scripts."
+  },
+  {
+    "name": "angular-nestjs-starter-kit",
+    "url": "https://github.com/JangoCG/angular-nestjs-starter-kit",
+    "description": "Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions."
+  },
+  {
     "name": "Nzoni",
     "url": "https://nzoni.app/",
     "description": "Launch your SAAS in days with Angular."
@@ -3480,6 +3510,36 @@
     "description": "A low-level UI component library with a focus on accessibility, customization, and developer experience."
   },
   {
+    "name": "dyte-io/ui-kit",
+    "url": "https://github.com/dyte-io/ui-kit/tree/staging/packages/angular-library",
+    "description": "Dyte's UI Kit is a prebuilt design library of UI components that makes it easy to integrate video and voice calls into any app or website within minutes."
+  },
+  {
+    "name": "onega-ui",
+    "url": "https://github.com/osspkg/onega-ui",
+    "description": "A modern and stylish UI kit that offers a wide range of UI components and elements to create professional and attractive websites."
+  },
+  {
+    "name": "sky-ui",
+    "url": "https://github.com/skysoft-tech/sky-ui",
+    "description": "Angular UI kit."
+  },
+  {
+    "name": "ngx-neumorphic",
+    "url": "https://github.com/koskosergej/ngx-neumorphic",
+    "description": "Angular Neomorphism UI kit."
+  },
+  {
+    "name": "ng-zen",
+    "url": "https://github.com/Kordrad/ng-zen",
+    "description": "A versatile Angular library and CLI tool offering UI-kit Angular schematics for streamlined integration into projects. The tool is currently in the Alpha phase."
+  },
+  {
+    "name": "pupakit",
+    "url": "https://github.com/bimeister/pupakit",
+    "description": "Angular UI Kit based on an atomic approach to building interfaces (Not production ready)."
+  },
+  {
     "name": "MDBootstrap",
     "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
     "description": "Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation."
@@ -3554,6 +3614,11 @@
     "description": "Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)."
   },
   {
+    "name": "design-angular-kit",
+    "url": "https://github.com/italia/design-angular-kit",
+    "description": "A toolkit based on Bootstrap Italia"
+  },
+  {
     "name": "Flowbite",
     "url": "https://flowbite.com/docs/getting-started/angular/",
     "description": "Open-source UI components built with Tailwind CSS with support for Angular."
@@ -3562,6 +3627,11 @@
     "name": "David UI Angular",
     "url": "https://github.com/david-ui-org/david-ui-angular",
     "description": "Components library for enterprise-level projects based on Tailwind CSS and Angular."
+  },
+  {
+    "name": "Tailkit UI",
+    "url": "https://tailkit.com/",
+    "description": "Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects."
   },
   {
     "name": "ngx-vflow",
@@ -3767,6 +3837,11 @@
     "name": "ng-dynamic-mf",
     "url": "https://github.com/LoaderB0T/ng-dynamic-mf",
     "description": "Truly dynamic modules at runtime with Module Federation."
+  },
+  {
+    "name": "ngx-font-picker",
+    "url": "https://github.com/zefoy/ngx-font-picker",
+    "description": "Google fonts font picker widget for Angular."
   },
   {
     "name": "Ionic Framework",
