@@ -1,26 +1,6 @@
 [
   {
     "name": "Keycloak Website",
-    "url": "http://www.keycloak.org"
-  },
-  {
-    "name": "Keycloak Website",
-    "url": "http://www.keycloak.org"
-  },
-  {
-    "name": "Keycloak Website",
-    "url": "http://www.keycloak.org"
-  },
-  {
-    "name": "Current Documentation",
-    "url": "http://www.keycloak.org/documentation.html"
-  },
-  {
-    "name": "Archived Documentation",
-    "url": "http://www.keycloak.org/documentation-archive.html"
-  },
-  {
-    "name": "Keycloak Website",
     "url": "http://www.keycloak.org/"
   },
   {
@@ -709,6 +689,18 @@
     "url": "https://github.com/slemke/keycloak-testcontainer"
   },
   {
+    "name": "Keycloak GDPR Event Logger",
+    "url": "https://github.com/slemke/keycloak-gdpr-event-logger"
+  },
+  {
+    "name": "Keycloak Backup Email Required Action",
+    "url": "https://github.com/slemke/keycloak-backup-email"
+  },
+  {
+    "name": "Keycloak Terms Authenticator: Require Terms and Conditions on every login",
+    "url": "https://github.com/slemke/keycloak-terms-authenticator"
+  },
+  {
     "name": "Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter",
     "url": "https://github.com/authbroker/authbroker"
   },
@@ -943,6 +935,10 @@
   {
     "name": "Keycloak RestAPI Postman Collection",
     "url": "https://www.postman.com/mverma99/workspace/my-workspace/collection/25610427-e8685d30-4671-45fe-812e-ca10dba1df28"
+  },
+  {
+    "name": "Keycloak Configurator",
+    "url": "https://github.com/CycriLabs/keycloak-configurator"
   },
   {
     "name": "Keycloak deployment with CDK on AWS with Fargate",
