@@ -35,11 +35,6 @@
     "description": "Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet."
   },
   {
-    "name": "AlgoSigner",
-    "url": "https://github.com/PureStake/algosigner",
-    "description": "Browser plugin Web Wallet and JS library for signing transactions in the browser."
-  },
-  {
     "name": "Method Wallet",
     "url": "https://methodwallet.app/",
     "description": "Algorand Wallet you'll love."
@@ -103,6 +98,11 @@
     "name": "Bitquery",
     "url": "https://explorer.bitquery.io/algorand",
     "description": "Actionable, insightful blockchain GraphQL APIs for more than 30 blockchains. One of the highlighted features is the ability to query a list of Algorand block proposers."
+  },
+  {
+    "name": "Lora",
+    "url": "https://lora.algokit.io/mainnet",
+    "description": "Lora is a powerful visual tool designed to streamline the Algorand local development experience. It acts as both a network explorer and a tool for building and testing your Algorand applications."
   },
   {
     "name": "CompX",

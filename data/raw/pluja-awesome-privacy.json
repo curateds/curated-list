@@ -1200,7 +1200,12 @@
   {
     "name": "ViMusic",
     "url": "https://github.com/vfsfitvnm/ViMusic",
-    "description": "A Jetpack Compose Android application for streaming music from YouTube Music."
+    "description": "[Unmantained] A Jetpack Compose Android application for streaming music from YouTube Music."
+  },
+  {
+    "name": "RiMusic",
+    "url": "https://github.com/fast4x/RiMusic",
+    "description": "A ViMusic maintained fork."
   },
   {
     "name": "dzr",
@@ -2496,15 +2501,5 @@
     "name": "xBrowserSync",
     "url": "https://www.xbrowsersync.org/",
     "description": "Browser syncing as it should be: secure, anonymous and free!"
-  },
-  {
-    "name": "Bromite WebView",
-    "url": "https://www.bromite.org/system_web_view",
-    "description": "Bromite WebView is a version of Android System WebView with support for ad blocking and enhanced privacy."
-  },
-  {
-    "name": "WebView Switcher",
-    "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
-    "description": "A tool for installing Bromite WebView on android 10"
   }
 ]

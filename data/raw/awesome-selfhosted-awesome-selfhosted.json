@@ -1445,11 +1445,6 @@
     "description": "XMPP instant messaging server. (Source Code) GPL-2.0 Erlang/Docker"
   },
   {
-    "name": "Metronome IM",
-    "url": "https://metronome.im/",
-    "description": "Lightweight xmpp server with advanced microblogging features (fork of Prosody). (Source Code) MIT Lua"
-  },
-  {
     "name": "MongooseIM",
     "url": "https://www.erlang-solutions.com/products/mongooseim.html",
     "description": "Mobile messaging platform with a focus on performance and scalability. (Source Code) GPL-2.0 Erlang/Docker/K8S"
@@ -2635,11 +2630,6 @@
     "description": "An open-source 2D battle royale game inspired by surviv.io. (Demo, Source Code) GPL-3.0 Nodejs"
   },
   {
-    "name": "Teeworlds",
-    "url": "https://www.teeworlds.com",
-    "description": "Open source 2D retro multiplayer shooter. (Source Code) Zlib C++/deb"
-  },
-  {
     "name": "The Battle for Wesnoth",
     "url": "https://github.com/wesnoth/wesnoth",
     "description": "The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. GPL-2.0 C++/deb"
@@ -3356,8 +3346,8 @@
   },
   {
     "name": "OvenMediaEngine",
-    "url": "https://ovenmediaengine.com",
-    "description": "OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. (Demo, Source Code) GPL-3.0 C++/Docker"
+    "url": "https://github.com/AirenSoft/OvenMediaEngine",
+    "description": "OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. (Demo) GPL-3.0 C++/Docker"
   },
   {
     "name": "Owncast",
