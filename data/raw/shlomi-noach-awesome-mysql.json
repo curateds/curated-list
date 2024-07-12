@@ -199,6 +199,11 @@
     "description": "A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control."
   },
   {
+    "name": "MariaDB4j",
+    "url": "https://github.com/MariaDB4j/MariaDB4j",
+    "description": "A Java launcher to run MariaDB without installation or external dependencies."
+  },
+  {
     "name": "MySQL Docker",
     "url": "https://hub.docker.com/_/mysql/",
     "description": "Official Docker images."
