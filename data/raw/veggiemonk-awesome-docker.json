@@ -782,8 +782,8 @@
     "description": "A tool to ensure reproducible builds by pinning dependencies inside your Dockerfiles @SongStitch"
   },
   {
-    "name": "Anchor Engine",
-    "url": "https://github.com/anchore/anchore",
+    "name": "Anchor Enterprise",
+    "url": "https://anchore.com/",
     "description": "Analyze images for CVE vulnerabilities and against custom security policies by @Anchor"
   },
   {
@@ -870,6 +870,11 @@
     "name": "Prisma Cloud",
     "url": "https://www.paloaltonetworks.com/prisma/cloud",
     "description": "(previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications."
+  },
+  {
+    "name": "Syft",
+    "url": "https://github.com/anchore/syft",
+    "description": "CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems."
   },
   {
     "name": "Sysdig Falco",

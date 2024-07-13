@@ -4455,6 +4455,11 @@
     "description": "A small automated session manager."
   },
   {
+    "name": "rmagatti/session-lens",
+    "url": "https://github.com/rmagatti/session-lens",
+    "description": "A session-switcher extension for rmagatti/auto-session using Telescope.nvim."
+  },
+  {
     "name": "echasnovski/mini.nvim#mini.sessions",
     "url": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md",
     "description": "Module of mini.nvim for session management (read, write, delete)."
