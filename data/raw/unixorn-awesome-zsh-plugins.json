@@ -4894,6 +4894,11 @@
     "description": "Creates files from templates stored in a user directory."
   },
   {
+    "name": "zenv",
+    "url": "https://github.com/janitha/zenv",
+    "description": "Isolated working shell enviornments per directory (like direnv, but uses a new shell instance to provide cleaner isolation)."
+  },
+  {
     "name": "zero",
     "url": "https://github.com/arlimus/zero.zsh",
     "description": "Zero is both a plugin and a theme. See the GitHub page for installation details. Includes git and hg status decorators."
