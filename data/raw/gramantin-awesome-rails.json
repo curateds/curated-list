@@ -1158,6 +1158,11 @@
     "description": "An e-commerce platform (using Rails 4.2)."
   },
   {
+    "name": "united",
+    "url": "https://codeberg.org/reesericci/united",
+    "description": "A free and open membership directory for collective organizations (using Rails main). - 🌍"
+  },
+  {
     "name": "vglist",
     "url": "https://github.com/connorshea/vglist",
     "description": "A video game library tracking web app (using Rails 7.0). - 🌍"
@@ -1511,6 +1516,11 @@
     "name": "paloma",
     "url": "https://github.com/gnclmorais/paloma",
     "description": "A gem to manage page-specific JavaScript in Rails apps. 🔴"
+  },
+  {
+    "name": "passive_columns",
+    "url": "https://github.com/headmandev/passive_columns",
+    "description": "A gem that extends Active Record to retrieve specific columns from DB on demand. 🔴"
   },
   {
     "name": "pgcli-rails",

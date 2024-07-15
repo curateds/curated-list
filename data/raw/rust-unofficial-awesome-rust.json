@@ -2163,9 +2163,9 @@
     "description": "Generates binary Debian packages"
   },
   {
-    "name": "cargo-deps",
-    "url": "https://crates.io/crates/cargo-deps",
-    "description": "build dependency graphs"
+    "name": "cargo-depgraph",
+    "url": "https://crates.io/crates/cargo-depgraph",
+    "description": "Creates dependency graphs for cargo projects using cargo metadata and graphviz"
   },
   {
     "name": "cargo-do",
@@ -2186,11 +2186,6 @@
     "name": "cargo-generate",
     "url": "https://github.com/cargo-generate/cargo-generate",
     "description": "A generator of a rust project by leveraging a pre-existing git repository as a template."
-  },
-  {
-    "name": "cargo-graph",
-    "url": "https://crates.io/crates/cargo-graph",
-    "description": "updated fork of cargo-dot with additional features. Unmaintained, see cargo-deps"
   },
   {
     "name": "cargo-info",
@@ -2836,11 +2831,6 @@
     "name": "CodeLLDB",
     "url": "https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb",
     "description": "A LLDB extension"
-  },
-  {
-    "name": "crates",
-    "url": "https://github.com/serayuzgur/crates",
-    "description": "crates is an extension for crates.io dependencies."
   },
   {
     "name": "Prettier - Code formatter (Rust)",

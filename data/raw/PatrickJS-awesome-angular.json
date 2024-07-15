@@ -946,6 +946,16 @@
     "description": "AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more."
   },
   {
+    "name": "cryptr-angular",
+    "url": "https://github.com/cryptr-auth/cryptr-angular",
+    "description": "Codeless Auth platform for business."
+  },
+  {
+    "name": "angular-authentication",
+    "url": "https://github.com/nikosanif/angular-authentication",
+    "description": "An Angular application that demonstrates best practices for user authentication & authorization flows."
+  },
+  {
     "name": "Webpack",
     "url": "https://webpack.js.org"
   },
@@ -1456,6 +1466,11 @@
     "description": "Contains pipes to transform internationalization data using Intl.* browser APIs."
   },
   {
+    "name": "i18n-ally",
+    "url": "https://github.com/lokalise/i18n-ally",
+    "description": "All in one i18n extension for VS Code."
+  },
+  {
     "name": "Angular Security",
     "url": "https://angular.dev/best-practices/security",
     "description": "Best Practices"
@@ -1737,6 +1752,11 @@
     "description": "Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup."
   },
   {
+    "name": "ng-mocks-sandbox",
+    "url": "https://github.com/help-me-mom/ng-mocks-sandbox",
+    "description": "A repo with guides and examples for unit tests in Angular applications using ng-mocks."
+  },
+  {
     "name": "auto-spies",
     "url": "https://github.com/hirezio/auto-spies",
     "description": "Create automatic spies from classes."
@@ -1885,6 +1905,11 @@
     "name": "ngentest",
     "url": "https://github.com/allenhwkim/ngentest",
     "description": "Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes."
+  },
+  {
+    "name": "angular-testing-kit",
+    "url": "https://github.com/babybeet/angular-testing-kit",
+    "description": "A set of convenient utilities to make Angular testing with Jasmine and Karma simpler."
   },
   {
     "name": "angular update guide",
@@ -3070,6 +3095,11 @@
     "description": "A set of powerful Angular tools including pipes, lifecycle hooks, and reactive enhancements."
   },
   {
+    "name": "angular-ru-sdk",
+    "url": "https://github.com/Angular-RU/angular-ru-sdk",
+    "description": "A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular."
+  },
+  {
     "name": "ngx-awesome-popup",
     "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
     "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
@@ -3258,6 +3288,11 @@
     "name": "ngx-sherlock",
     "url": "https://github.com/politie/ngx-sherlock",
     "description": "ngx-sherlock is an Angular tooling library to be used with the @politie/sherlock distributed reactive state management library."
+  },
+  {
+    "name": "tansu",
+    "url": "https://github.com/AmadeusITGroup/tansu",
+    "description": "A lightweight, push-based state management library. It works well with the Angular ecosystem."
   },
   {
     "name": "ngx-reactive-storage",

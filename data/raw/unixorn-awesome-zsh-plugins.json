@@ -636,6 +636,11 @@
     "description": "Weather in your terminal, with ANSI colors and Unicode symbols."
   },
   {
+    "name": "antidote-use-omz",
+    "url": "https://github.com/getantidote/use-omz",
+    "description": "Make using oh-my-zsh with antidote seamless."
+  },
+  {
     "name": "antigen-git-rebase",
     "url": "https://github.com/smallhadroncollider/antigen-git-rebase",
     "description": "Antigen/ZSH script to aid with git rebasing."
@@ -1226,14 +1231,14 @@
     "description": "Adds the caf alias, which runs caffeinate -dims. The extra flags keep everything awake: the system, the drive, and the display."
   },
   {
-    "name": "colored-man-pages-mod",
-    "url": "https://github.com/zuxfoucault/colored-man-pages_mod",
-    "description": "Forked from ohmyzsh/ohmyzsh/plugins/colored-man-pages. Colorizes man output."
-  },
-  {
     "name": "color-logging",
     "url": "https://github.com/p1r473/zsh-color-logging",
     "description": "provides a really easy to use logging library with notifications for pushbullet and pushover, colorizes tools like cat and ls and provides a color library."
+  },
+  {
+    "name": "colored-man-pages-mod",
+    "url": "https://github.com/zuxfoucault/colored-man-pages_mod",
+    "description": "Forked from ohmyzsh/ohmyzsh/plugins/colored-man-pages. Colorizes man output."
   },
   {
     "name": "colored-man-pages",
@@ -2571,6 +2576,11 @@
     "description": "Automatically changes iTerm 2 tab color based on the current working directory."
   },
   {
+    "name": "iterm-tmux-color-tabs",
+    "url": "https://github.com/remino/omz-plugin-iterm2-tmux-color-tabs",
+    "description": "Every new tmux tab opened in iTerm2 will have the next colour from the default or specified palette."
+  },
+  {
     "name": "iterm-touchbar",
     "url": "https://github.com/iam4x/zsh-iterm-touchbar",
     "description": "Display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)."
@@ -3535,11 +3545,6 @@
     "description": "Reads /sys/class/net/$interface/ to keep track of packet transmission rates. It stores the current rate to a file in the RAM backed filesystem where it can be easily accessed for display in a shell-prompt. Linux-only due to use of /sys."
   },
   {
-    "name": "pwp",
-    "url": "https://github.com/ttkalcevic/pwp",
-    "description": "Provides a convenient way to display the present working path in the terminal prompt and lists the current working directory along with its parent directories. Additionally, it includes a custom command .. to navigate to parent directories easily."
-  },
-  {
     "name": "pr-cwd",
     "url": "https://github.com/zpm-zsh/pr-cwd",
     "description": "Creates a global variable with current working directory. Plugin has integration with jocelynmallon/zshmarks."
@@ -3620,6 +3625,11 @@
     "description": "Allows you to print in any color in the RGB space via a simple printc call."
   },
   {
+    "name": "printdocker",
+    "url": "https://github.com/elvitin/printdocker-zsh-plugin",
+    "description": "Pretty print docker objects."
+  },
+  {
     "name": "profile-secrets",
     "url": "https://github.com/gmatheu/shell-plugins",
     "description": "Securely keep sensitive variables (api tokens, passwords, etc) as part of your terminal init files. Uses gpg to encrypt/decrypt the file with your secrets."
@@ -3673,6 +3683,11 @@
     "name": "purge-history-secrets",
     "url": "https://github.com/jotasixto/purge-history-secrets",
     "description": "Uses gitleaks to periodically scan your ZSH history for secrets and purge them if found. Requires jq."
+  },
+  {
+    "name": "pwp",
+    "url": "https://github.com/ttkalcevic/pwp",
+    "description": "Provides a convenient way to display the present working path in the terminal prompt and lists the current working directory along with its parent directories. Additionally, it includes a custom command .. to navigate to parent directories easily."
   },
   {
     "name": "pyenv (mattberther)",
@@ -4017,6 +4032,11 @@
     "name": "shift-select",
     "url": "https://github.com/jirutka/zsh-shift-select",
     "description": "Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs."
+  },
+  {
+    "name": "shortcuts",
+    "url": "https://github.com/fairy-root/Zsh-Shortcuts-Plugin",
+    "description": "Enhance your terminal productivity with the Shortcuts plugin for oh-my-zsh. Easily manage command shortcuts with robust features."
   },
   {
     "name": "show-git-user",
@@ -5404,6 +5424,11 @@
     "description": "Adds tab completions for ddc."
   },
   {
+    "name": "deno",
+    "url": "https://github.com/marcelohmdias/zsh-deno",
+    "description": "Tab completions for deno."
+  },
+  {
     "name": "docker (chr-fritz)",
     "url": "https://github.com/chr-fritz/docker-completion.zshplugin",
     "description": "Loads docker ZSH tab completions directly from Docker for Mac."
@@ -5811,6 +5836,11 @@
     "name": "okta",
     "url": "https://github.com/sirhc/okta.plugin.zsh",
     "description": "Provides command line completions for the aws-okta and okta-awscli commands."
+  },
+  {
+    "name": "ollama",
+    "url": "https://github.com/Katrovsky/zsh-ollama-completion",
+    "description": "Tab command completion for Ollama AI models management."
   },
   {
     "name": "op",
@@ -8905,6 +8935,11 @@
     "description": "Inspired by MSYS2. Includes decorators for user@host, git status and the current directory."
   },
   {
+    "name": "mu",
+    "url": "https://github.com/seamile/mu-zsh-theme",
+    "description": "Improves display of multiple git statuses. Inspired by lambda mod theme. Requires a powerline-compatible font."
+  },
+  {
     "name": "multi-shell-repo-prompt",
     "url": "https://github.com/dotcode/multi-shell-repo-prompt",
     "description": "Provides useful information (in your prompt) about the repository that you are in. It currently works for Git and Mercurial, under ZSH as well as bash."
@@ -9620,6 +9655,11 @@
     "description": "Based on darkblood. Includes decorators for username@host, git status, and current directory."
   },
   {
+    "name": "purr",
+    "url": "https://github.com/mubinben/purr-zsh-theme",
+    "description": "Includes decorators for current directory and git status."
+  },
+  {
     "name": "purs",
     "url": "https://github.com/xcambar/purs",
     "description": "A fast pure-inspired prompt written in Rust."
@@ -9658,6 +9698,11 @@
     "name": "r3nic1e",
     "url": "https://github.com/r3nic1e/r3nic1e",
     "description": "Agnoster variant with battery status, git/hg status, time, kubernetes context and namespace, non-zero exit code of last command and date decorations. Requires Powerline font."
+  },
+  {
+    "name": "rabbit",
+    "url": "https://github.com/Hera-Moon/My-rabbit-Zsh-Theme",
+    "description": "Optimized for git. Requires a terminal program that works with unicode. Includes decorators for git status, current working directory and the current virtual environment."
   },
   {
     "name": "racotecnic",
@@ -10003,6 +10048,11 @@
     "name": "sfz",
     "url": "https://github.com/mreinhardt/sfz-prompt.zsh",
     "description": "An evolution of lean prompt which itself is a rewrite of pure."
+  },
+  {
+    "name": "shades of purple",
+    "url": "https://github.com/nmcc1212/shades-of-purple-windows-terminal/",
+    "description": "Purple theme for Windows terminal that is reminiscent of powerline."
   },
   {
     "name": "shadow",
