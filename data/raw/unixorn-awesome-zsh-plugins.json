@@ -5993,6 +5993,11 @@
     "description": "Automatically starts ssh-agent to set up and load whichever credentials you want for ssh connections."
   },
   {
+    "name": "ssh-agent (twfksh)",
+    "url": "https://github.com/twfksh/zsh-ssh-agent",
+    "description": "A bloat free utility plugin for managing ssh-agent in ZSH. This plugin automatically starts and manages ssh-agent whenever a new ternimal session starts. After running zsh-ssh-agent, you only need to ssh-add your keys once. The plugin will handle the rest."
+  },
+  {
     "name": "ssh-config-suggestions",
     "url": "https://github.com/yngc0der/zsh-ssh-config-suggestions"
   },
@@ -6832,6 +6837,11 @@
     "description": "Minimalist theme with git status decorations."
   },
   {
+    "name": "cafeconbits",
+    "url": "https://github.com/ricard-ferrero/cafeconbits-zsh-theme",
+    "description": "Simple theme with a coffee cup icon. Includes decorators for git status, current directory and the exit status of the last command."
+  },
+  {
     "name": "calma",
     "url": "https://github.com/luislve17/calma",
     "description": "Minimalist theme that works well on dark backgrounds. Includes decorators for truncated current directory, git information, time, and for the exit status of last command."
@@ -7646,6 +7656,11 @@
     "description": "Minimalistic design, includes decorators for git status, virtual environment and the time."
   },
   {
+    "name": "gg",
+    "url": "https://github.com/YourBrightSmile/ggZshTheme",
+    "description": "Includes decorators for time and git status."
+  },
+  {
     "name": "ghoti",
     "url": "https://github.com/lonr/ghoti",
     "description": "Mimics the fish-shell default prompt. Includes git decorations."
@@ -8189,6 +8204,11 @@
     "name": "jcl",
     "url": "https://github.com/jasonlewis/jcl-zsh-theme",
     "description": "Loosely based on the ys theme."
+  },
+  {
+    "name": "jeff",
+    "url": "https://github.com/jbaranski/jeff-zsh-theme",
+    "description": "Includes decorators for user@host, time, current directory and git status. Based on bira."
   },
   {
     "name": "jerome",
@@ -10493,6 +10513,11 @@
     "name": "termuxer",
     "url": "https://github.com/patrick330602/termuxer",
     "description": "Theme inspired by Agnoster and linuxer."
+  },
+  {
+    "name": "thayne",
+    "url": "https://github.com/tmccombs/thayne.zsh-theme",
+    "description": "Includes decorators for exit status of last command, time to run if > 1 second, current time, current directory and git status. Requires a Nerd Font."
   },
   {
     "name": "the-time-lord",

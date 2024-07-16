@@ -135,6 +135,11 @@
     "description": "Flashes Partial HTML Cache on changes to Sitecore Dictionary items."
   },
   {
+    "name": "Sitecore CDP Serializer",
+    "url": "https://github.com/dylanyoung-dev/sitecore-cdp-serializer",
+    "description": "A Node.js tool aimed to serialize CDP and Personalize assets on a hard drive and restore that back."
+  },
+  {
     "name": "Reference Storefront",
     "url": "https://github.com/Sitecore/Reference-Storefront",
     "description": "Sitecore Reference Storefront."

@@ -891,6 +891,16 @@
     "description": "Local Capacitor icon/splash screen resource generation tool."
   },
   {
+    "name": "Tailwind Capacitor",
+    "url": "https://github.com/Cap-go/tailwind-capacitor",
+    "description": "Collection of helper plugin for Tailwind, it add safe area class and others utlitilies"
+  },
+  {
+    "name": "Capacitor safe area simulator",
+    "url": "https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi",
+    "description": "Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor."
+  },
+  {
     "name": "How Capacitor Works",
     "url": "https://capacitorjs.com/blog/how-capacitor-works",
     "description": "Capacitor takes a modern web app, and then packages it up to run on iOS, Android, and PWA."

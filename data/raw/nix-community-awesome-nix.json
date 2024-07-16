@@ -85,6 +85,11 @@
     "description": "Search through all 2000+ Home Manager options and read how to use them."
   },
   {
+    "name": "Searchix",
+    "url": "https://searchix.alanpearce.eu/",
+    "description": "Search Nix packages and options from NixOS, Darwin and Home Manager."
+  },
+  {
     "name": "nixos-generators",
     "url": "https://github.com/nix-community/nixos-generators",
     "description": "Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs."

@@ -1355,6 +1355,11 @@
     "description": "Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures. (Source Code) GPL-2.0 C"
   },
   {
+    "name": "DefGuard",
+    "url": "https://defguard.net/",
+    "description": "True enterprise WireGuard with MFA/2FA and SSO. (Source Code) Apache-2.0 Rust"
+  },
+  {
     "name": "Dockovpn",
     "url": "https://dockovpn.io",
     "description": "Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. (Source Code) GPL-2.0 Docker"
