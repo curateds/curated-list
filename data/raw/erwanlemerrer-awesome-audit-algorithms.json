@@ -1,8 +1,18 @@
 [
   {
+    "name": "Fairness Auditing with Multi-Agent Collaboration",
+    "url": "https://arxiv.org/pdf/2402.08522",
+    "description": "(ECAI) Considers multiple"
+  },
+  {
+    "name": "Mapping the Field of Algorithm Auditing: A Systematic Literature Review\nIdentifying Research Trends, Linguistic and Geographical Disparities",
+    "url": "https://arxiv.org/pdf/2401.11194",
+    "description": "(Arxiv) Systematic review of algorithm"
+  },
+  {
     "name": "FairProof: Confidential and Certifiable Fairness for Neural Networks",
     "url": "https://arxiv.org/pdf/2402.12572v1.pdf",
-    "description": "Proposes an alternative paradigm to traditional auditing using crytographic tools like Zero-Knowledge Proofs; gives a system called FairProof for verifying fairness of small neural networks."
+    "description": "(Arxiv) Proposes an alternative paradigm to traditional auditing using crytographic tools like Zero-Knowledge Proofs; gives a system called FairProof for verifying fairness of small neural networks."
   },
   {
     "name": "Under manipulations, are some AI models harder to audit?",
@@ -22,12 +32,12 @@
   {
     "name": "XAudit : A Theoretical Look at Auditing with Explanations",
     "url": "https://arxiv.org/pdf/2206.04740.pdf",
-    "description": "Formalizes the role of explanations in auditing and investigates if and how model explanations"
+    "description": "(Arxiv) Formalizes the role of explanations in auditing and investigates if and how model explanations"
   },
   {
     "name": "Keeping Up with the Language Models: Robustness-Bias Interplay in NLI Data and Models",
     "url": "https://arxiv.org/pdf/2305.12620.pdf",
-    "description": "Proposes a way to extend the shelf-life of auditing datasets by using language models themselves; also finds problems with the current bias auditing metrics and proposes alternatives -- these alternatives highlight that model brittleness superficially increased the previous bias scores."
+    "description": "(Arxiv) Proposes a way to extend the shelf-life of auditing datasets by using language models themselves; also finds problems with the current bias auditing metrics and proposes alternatives -- these alternatives highlight that model brittleness superficially increased the previous bias scores."
   },
   {
     "name": "Online Fairness Auditing through Iterative Refinement",

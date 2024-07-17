@@ -214,6 +214,18 @@
     "description": "Human Protein-Protein Interaction database."
   },
   {
+    "name": "Drug Mechanism Database (DrugMechDB)",
+    "url": "https://github.com/SuLab/DrugMechDB/tree/2.0.1"
+  },
+  {
+    "name": "Drug Mechanism Database (DrugMechDB)",
+    "url": "https://github.com/SuLab/DrugMechDB/tree/2.0.1"
+  },
+  {
+    "name": "PubMed esearch",
+    "url": "https://www.nlm.nih.gov/dataguide/edirect/esearch.html"
+  },
+  {
     "name": "Chemistry Development Kit",
     "url": "https://github.com/cdk/cdk",
     "description": "A software of cheminformatics and Machine Learning."
@@ -232,6 +244,10 @@
     "name": "Seurat",
     "url": "https://satijalab.org/seurat/",
     "description": "scRNA analysis library in R."
+  },
+  {
+    "name": "drGAT",
+    "url": "https://github.com/inoue0426/drGAT"
   },
   {
     "name": "DeepPurpose",
@@ -277,5 +293,15 @@
     "name": "BioGPT",
     "url": "https://github.com/microsoft/BioGPT",
     "description": "LLM for Biomedical text generation"
+  },
+  {
+    "name": "GeneGPT",
+    "url": "https://github.com/ncbi/GeneGPT",
+    "description": "LLM for biomedical information with several API."
+  },
+  {
+    "name": "GenePT",
+    "url": "https://github.com/yiqunchen/GenePT",
+    "description": "foundation LLM for single cell data"
   }
 ]

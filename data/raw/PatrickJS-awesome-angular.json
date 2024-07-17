@@ -1692,6 +1692,11 @@
     "description": "Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions."
   },
   {
+    "name": "angular-sample-app",
+    "url": "https://github.com/descope-sample-apps/angular-sample-app",
+    "description": "This sample app demonstrates how to integrate the Descope authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state."
+  },
+  {
     "name": "Nzoni",
     "url": "https://nzoni.app/",
     "description": "Launch your SAAS in days with Angular."
@@ -3105,6 +3110,11 @@
     "description": "A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular."
   },
   {
+    "name": "dfts-common",
+    "url": "https://github.com/Dafnik/dfts-common",
+    "description": "Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities)."
+  },
+  {
     "name": "ngx-awesome-popup",
     "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
     "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
@@ -3902,6 +3912,11 @@
     "name": "ngx-flagr",
     "url": "https://github.com/pBouillon/ngx-flagr",
     "description": "Effortless feature flag management in Angular."
+  },
+  {
+    "name": "module-federation-plugin",
+    "url": "https://github.com/angular-architects/module-federation-plugin",
+    "description": "Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI."
   },
   {
     "name": "Ionic Framework",

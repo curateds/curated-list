@@ -1157,6 +1157,11 @@
     "description": "Prettyplan (available online here) is a small tool to help you view large Terraform plans with ease. 👻"
   },
   {
+    "name": "pug",
+    "url": "https://github.com/leg100/pug",
+    "description": "The terminal user interface for terraform power users."
+  },
+  {
     "name": "pytest-terraform",
     "url": "https://github.com/cloud-custodian/pytest-terraform",
     "description": "pytest terraform plugin with fixtures and offline replay support."

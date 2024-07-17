@@ -2764,11 +2764,6 @@
     "description": "Nature, 2023. [All Versions]. This paper introduces the A-Lab, an autonomous laboratory for the solid-state synthesis of inorganic powders. This platform uses computations, historical data from the literature, machine learning (ML) and active learning to plan and interpret the outcomes of experiments performed using robotics. Over 17 days of continuous operation, the A-Lab realized 41 novel compounds from a set of 58 targets including a variety of oxides and phosphates that were identified using large-scale ab initio phase-stability data from the Materials Project and Google DeepMind."
   },
   {
-    "name": "Autonomous chemical research with large language models",
-    "url": "https://www.nature.com/articles/s41586-023-06792-0",
-    "description": "Nature, 2023. [All Versions]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation."
-  },
-  {
     "name": "The Internet of Things comes to the lab",
     "url": "https://www.nature.com/articles/542125a",
     "description": "Nature, 2017. [All Versions]. The emergence of connected instruments and equipment promises to untether researchers from the laboratory --- letting them fine-tune experiments and analyse data remotely."
@@ -2852,6 +2847,11 @@
     "name": "Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences",
     "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2016239118",
     "description": "Proceedings of the National Academy of Sciences, 2021. [All Versions]."
+  },
+  {
+    "name": "Autonomous chemical research with large language models",
+    "url": "https://www.nature.com/articles/s41586-023-06792-0",
+    "description": "Nature, 2023. [All Versions]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation."
   },
   {
     "name": "Augmenting large language models with chemistry tools",
