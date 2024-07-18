@@ -988,6 +988,11 @@
     "description": "Deep learning framework to train, deploy, and ship AI products Lightning fast."
   },
   {
+    "name": "stable-baselines3",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
+    "description": "PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms."
+  },
+  {
     "name": "tensorflow",
     "url": "https://github.com/tensorflow/tensorflow",
     "description": "The most popular Deep Learning framework created by Google."

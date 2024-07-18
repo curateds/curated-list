@@ -969,14 +969,9 @@
     "description": "A lightweight package for loading environment variables into structs."
   },
   {
-    "name": "envcfg",
-    "url": "https://github.com/tomazk/envcfg",
-    "description": "Un-marshaling environment variables to Go structs."
-  },
-  {
-    "name": "envconf",
-    "url": "https://github.com/ian-kent/envconf",
-    "description": "Configuration from environment."
+    "name": "env",
+    "url": "https://github.com/syntaqx/env",
+    "description": "An environment utility package with support for unmarshaling into structs"
   },
   {
     "name": "envconfig",
