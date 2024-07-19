@@ -813,6 +813,11 @@
     "description": "MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler."
   },
   {
+    "name": "aherrmann/rules_zig",
+    "url": "https://github.com/aherrmann/rules_zig",
+    "description": "Bazel build rules for Zig."
+  },
+  {
     "name": "zigtools/zpm",
     "url": "https://github.com/zigtools/zpm",
     "description": "Unofficial Zig package manager."

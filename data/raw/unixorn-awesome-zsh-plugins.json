@@ -1766,6 +1766,11 @@
     "description": "Replaces ls with eza-community/eza."
   },
   {
+    "name": "eza-ls",
+    "url": "https://github.com/birdhackor/zsh-eza-ls-plugin",
+    "description": "Adds aliases allowing [eza(https://github.com/eza-community/eza)], to act as a drop-in replacement for ls and tree."
+  },
+  {
     "name": "f-shortcuts",
     "url": "https://github.com/zpm-zsh/f-shortcuts",
     "description": "Makes a shortcuts toolbar using F1 to F12 keys."
@@ -11015,9 +11020,14 @@
     "description": "Minimalist. Includes decorators for username, current directory and git status."
   },
   {
-    "name": "zero",
+    "name": "zero (arlimus)",
     "url": "https://github.com/arlimus/zero.zsh",
     "description": "Zero's theme & plugin. Has variants for both light and dark terminal backgrounds."
+  },
+  {
+    "name": "zero (shirozuki)",
+    "url": "https://github.com/shirozuki/zero-zsh-theme",
+    "description": "Minimalistic prompt with decorators for git status, current directory, exit status and time to execute of last command run."
   },
   {
     "name": "zeroastro",

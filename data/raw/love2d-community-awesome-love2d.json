@@ -1030,6 +1030,11 @@
     "description": "Rotation of two dimensional arrays (square and non-square)."
   },
   {
+    "name": "bar128-love",
+    "url": "https://github.com/Nawias/bar128-love",
+    "description": "Barcode rendering library for LÖVE."
+  },
+  {
     "name": "cargo",
     "url": "https://github.com/bjornbytes/cargo",
     "description": "Asset manager."
@@ -1078,6 +1083,11 @@
     "name": "love-loader",
     "url": "https://github.com/kikito/love-loader",
     "description": "Threaded resource loading."
+  },
+  {
+    "name": "love-qrcode",
+    "url": "https://github.com/Nawias/love-qrcode",
+    "description": "QR Code rendering library for LÖVE."
   },
   {
     "name": "love2d-assets-loader",
@@ -1293,6 +1303,31 @@
     "name": "SublimeLinter-luacheck",
     "url": "https://packagecontrol.io/packages/SublimeLinter-luacheck",
     "description": "Provides linting and static analysis of your Lua code."
+  },
+  {
+    "name": "Pulsar",
+    "url": "https://pulsar-edit.dev/",
+    "description": "Hackable text editor based on the extinct Atom; Has great support and auto-completion works nicely, but for now lacks error highlighting."
+  },
+  {
+    "name": "autocomplete-love",
+    "url": "https://github.com/rameshvarun/autocomplete-love",
+    "description": "Auto-complete and snippets for LÖVE."
+  },
+  {
+    "name": "love-ide",
+    "url": "https://github.com/rameshvarun/love-ide",
+    "description": "Auto-installs several utilities for writing Love2D games in Pulsar."
+  },
+  {
+    "name": "language-lua",
+    "url": "https://github.com/FireZenk/language-lua",
+    "description": "Add syntax highlighting and snippets to lua files."
+  },
+  {
+    "name": "atom-autocomplete-lua",
+    "url": "https://github.com/dapetcu21/atom-autocomplete-lua",
+    "description": "Autocomplete for Lua."
   },
   {
     "name": "LÖVE Actions",

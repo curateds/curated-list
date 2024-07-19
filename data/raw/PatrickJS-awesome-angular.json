@@ -833,6 +833,10 @@
     "description": "(Japanese)"
   },
   {
+    "name": "The Code Angle",
+    "url": "https://www.youtube.com/@TheCodeAngle"
+  },
+  {
     "name": "Official Angular style guide",
     "url": "https://angular.dev/style-guide#"
   },
@@ -1164,6 +1168,11 @@
     "name": "angular-cli-ghpages",
     "url": "https://github.com/angular-schule/angular-cli-ghpages",
     "description": "SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages."
+  },
+  {
+    "name": "ngx-aws-deploy",
+    "url": "https://github.com/Jefiozie/ngx-aws-deploy",
+    "description": "Deploy your Angular app to Amazon S3 directly from the Angular CLI."
   },
   {
     "name": "StackBlitz",
