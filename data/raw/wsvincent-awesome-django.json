@@ -475,6 +475,11 @@
     "description": "Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries."
   },
   {
+    "name": "Django-Classy-Doc",
+    "url": "https://github.com/nanuxbe/django-classy-doc",
+    "description": "Document your own code in the style of CCBV and CDRF.https://github.com/nanuxbe/django-classy-doc"
+  },
+  {
     "name": "django-localflavor",
     "url": "https://github.com/django/django-localflavor",
     "description": "A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core."
@@ -788,6 +793,11 @@
     "name": "JinjaX",
     "url": "https://jinjax.scaletti.dev/",
     "description": "Super components powers for your Jinja templates."
+  },
+  {
+    "name": "django-cotton",
+    "url": "https://django-cotton.com/",
+    "description": "Goodbye {% extends, block, include %}, Hello <c-component />. Bringing modern UI composition to Django."
   },
   {
     "name": "django-debug-toolbar",
