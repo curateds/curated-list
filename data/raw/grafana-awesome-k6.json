@@ -22,7 +22,7 @@
   {
     "name": "Part 2 - JavaScript tools, shared libraries, and TypeScript",
     "url": "https://grafana.com/blog/2024/05/02/setting-up-your-grafana-k6-performance-testing-suite-javascript-tools-shared-libraries-and-more/",
-    "description": "JavaScript tools, shared libraries, and TypeScript."
+    "description": "JavaScript tools, shared libraries, and TypeScript - Stting up your k6 performance testing suite with JavaScript tools, shared libraries, and TypeScript."
   },
   {
     "name": "Distributed load testing with k6",
@@ -35,18 +35,13 @@
     "description": "Brief overview of features and capabilities of k6."
   },
   {
-    "name": "Integrating k6 with Apache Kafka",
-    "url": "https://k6.io/blog/integrating-k6-with-apache-kafka",
-    "description": "Sending output from k6 to Apache Kafka."
-  },
-  {
     "name": "Test and visualize with InfluxDB, Grafana and K6",
     "url": "https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a",
     "description": "Setting up load tests and visualizing them using grafana dashboards."
   },
   {
     "name": "Open source load testing tool review 2020",
-    "url": "https://k6.io/blog/comparing-best-open-source-load-testing-tools",
+    "url": "https://grafana.com/blog/2020/03/03/open-source-load-testing-tool-review/",
     "description": "Detailed comparison of the most popular open source load testing tools."
   },
   {
@@ -56,7 +51,7 @@
   },
   {
     "name": "Load Testing Your API with Postman",
-    "url": "https://k6.io/blog/load-testing-with-postman-collections/",
+    "url": "https://grafana.com/blog/2020/04/19/load-testing-your-api-with-postman/",
     "description": "How to use Postman collections to load test your API."
   },
   {
@@ -66,7 +61,7 @@
   },
   {
     "name": "Load Testing SQL Databases with k6",
-    "url": "https://k6.io/blog/load-testing-sql-databases-with-k6/",
+    "url": "https://grafana.com/blog/2021/07/14/load-testing-sql-databases/",
     "description": "How to use the xk6-sql extension to test SQL databases directly."
   },
   {
@@ -220,7 +215,7 @@
   },
   {
     "name": "k6 examples",
-    "url": "https://k6.io/docs/examples/",
+    "url": "https://grafana.com/docs/k6/latest/examples/",
     "description": "A list of common examples on the k6 documentation."
   },
   {
@@ -375,7 +370,7 @@
   },
   {
     "name": "k6 for CircleCI",
-    "url": "https://k6.io/blog/integrating-load-testing-with-circleci/"
+    "url": "https://grafana.com/blog/2022/03/06/load-testing-with-circleci/"
   },
   {
     "name": "k6 for Flagger",
@@ -387,7 +382,7 @@
   },
   {
     "name": "k6 for GitLab",
-    "url": "https://k6.io/blog/integrating-load-testing-with-gitlab/"
+    "url": "https://grafana.com/blog/2020/09/27/load-testing-with-gitlab/"
   },
   {
     "name": "k6 for Google Cloud Build",
@@ -407,7 +402,7 @@
   },
   {
     "name": "k6 Extensions",
-    "url": "https://k6.io/docs/extensions/"
+    "url": "https://grafana.com/docs/k6/latest/extensions/"
   },
   {
     "name": "GitHub Topic: xk6",

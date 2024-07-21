@@ -24,6 +24,10 @@
     "url": "https://v17.angular.io/docs"
   },
   {
+    "name": "Angular Discord Channel",
+    "url": "https://discord.com/invite/angular"
+  },
+  {
     "name": "#angular",
     "url": "https://x.com/hashtag/angular"
   },
@@ -93,6 +97,11 @@
     "name": "opensauced pizza",
     "url": "https://app.opensauced.pizza/explore/topic/angular/dashboard/filter/recent",
     "description": "Insights on GitHub repositories using the Angular topic."
+  },
+  {
+    "name": "angular-memes",
+    "url": "https://github.com/dzhavat/angular-memes",
+    "description": "A collection of Angular memes."
   },
   {
     "name": "angular addicts",
@@ -1047,6 +1056,11 @@
     "name": "angular-authentication",
     "url": "https://github.com/nikosanif/angular-authentication",
     "description": "An Angular application that demonstrates best practices for user authentication & authorization flows."
+  },
+  {
+    "name": "ngx-security",
+    "url": "https://github.com/mselerin/ngx-security",
+    "description": "Security directives for your Angular application to show/hide elements based on a user roles / permissions."
   },
   {
     "name": "Webpack",
@@ -3218,6 +3232,11 @@
     "description": "Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities)."
   },
   {
+    "name": "sba-angular",
+    "url": "https://github.com/sinequa/sba-angular",
+    "description": "Sinequa's Angular-based Search Based Application (SBA) Framework."
+  },
+  {
     "name": "ngx-awesome-popup",
     "url": "https://github.com/boris-jenicek/ngx-awesome-popup",
     "description": "Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner)."
@@ -4115,6 +4134,11 @@
     "name": "angular-ngrx-nx-realworld-example-app",
     "url": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
     "description": "Real world application built with Angular 17, NgRx 17, & Nx 17."
+  },
+  {
+    "name": "ngx-view-state",
+    "url": "https://github.com/yurakhomitsky/ngx-view-state",
+    "description": "Library for handling Loading/Success/Error in NgRx."
   },
   {
     "name": "rxjs",
