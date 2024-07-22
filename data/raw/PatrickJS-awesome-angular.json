@@ -1804,6 +1804,10 @@
     "description": "This sample app demonstrates how to integrate the Descope authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state."
   },
   {
+    "name": "Angular-18-boilerplate",
+    "url": "https://github.com/Gentleman-Programming/Angular-18-boilerplate"
+  },
+  {
     "name": "Nzoni",
     "url": "https://nzoni.app/",
     "description": "Launch your SAAS in days with Angular."
@@ -3512,6 +3516,11 @@
     "description": "Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF."
   },
   {
+    "name": "datagrid",
+    "url": "https://github.com/radix-ng/datagrid",
+    "description": "Angular TanStack table with shadcn Theme."
+  },
+  {
     "name": "helipopper",
     "url": "https://github.com/ngneat/helipopper",
     "description": "A Powerful Tooltip and Popover for Angular Applications."
@@ -4324,6 +4333,11 @@
     "name": "zod",
     "url": "https://github.com/colinhacks/zod",
     "description": "TypeScript-first schema validation with static type inference."
+  },
+  {
+    "name": "valibot",
+    "url": "https://github.com/fabian-hiller/valibot",
+    "description": "The modular and type safe schema library for validating structural data."
   },
   {
     "name": "awesome-utils-dev/angular",

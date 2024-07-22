@@ -245,6 +245,11 @@
     "description": "Complete end-to-end testing framework for anything that runs in a browser and beyond."
   },
   {
+    "name": "WebdriverI/O",
+    "url": "https://webdriver.io/",
+    "description": "Next-gen browser and mobile automation test framework for Node.js"
+  },
+  {
     "name": "chai",
     "url": "https://github.com/chaijs/chai",
     "description": "BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework."
@@ -628,6 +633,11 @@
     "name": "Whatsup",
     "url": "https://github.com/whatsup/whatsup",
     "description": "A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system."
+  },
+  {
+    "name": "Remult",
+    "url": "https://github.com/remult/remult",
+    "description": "A CRUD framework for full-stack TypeScript."
   },
   {
     "name": "KeystoneJS",
@@ -1468,6 +1478,11 @@
     "description": "Luxon is a library for working with dates and times in JavaScript."
   },
   {
+    "name": "tempo",
+    "url": "https://github.com/formkit/tempo",
+    "description": "Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects."
+  },
+  {
     "name": "voca",
     "url": "https://github.com/panzerdp/voca",
     "description": "The ultimate JavaScript string library"
@@ -2035,6 +2050,11 @@
     "name": "matcha",
     "url": "https://github.com/logicalparadox/matcha",
     "description": "A caffeine driven, simplistic approach to benchmarking."
+  },
+  {
+    "name": "bencher",
+    "url": "https://github.com/bencherdev/bencher",
+    "description": "A suite of continuous benchmarking tools designed to catch performance regressions in CI."
   },
   {
     "name": "partytown",
@@ -3355,6 +3375,11 @@
     "description": "React powered static site generator, and they say \"All the tools you need to make the Web. Faster.\"."
   },
   {
+    "name": "Lume",
+    "url": "https://github.com/lumeland/lume",
+    "description": "Static site generator for Deno."
+  },
+  {
     "name": "javascript-sdk-design",
     "url": "https://github.com/huei90/javascript-sdk-design",
     "description": "JavaScript SDK design guide extracted from work and personal experience."
@@ -3553,6 +3578,11 @@
     "name": "Clean Code JavaScript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "Clean Code concepts adapted for JavaScript."
+  },
+  {
+    "name": "Roadmap.sh JavaScript Roadmap",
+    "url": "https://roadmap.sh/javascript",
+    "description": "Learn JavaScript from a community sourced learning roadmap."
   },
   {
     "name": "sotayamashita/awesome-css",

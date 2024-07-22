@@ -665,6 +665,11 @@
     "description": "Manage your user configuration just like NixOS."
   },
   {
+    "name": "nix-darwin",
+    "url": "https://github.com/LnL7/nix-darwin",
+    "description": "Manage macOS configuration just like on NixOS."
+  },
+  {
     "name": "musnix",
     "url": "https://github.com/musnix/musnix",
     "description": "Do real-time audio work in NixOS."
@@ -728,11 +733,6 @@
     "name": "chaotic-nyx",
     "url": "https://github.com/chaotic-cx/nyx",
     "description": "Daily bumped bleeding edge packages like mesa_git & others that aren't yet in Nixpkgs. Created by the makers of Chaotic-AUR."
-  },
-  {
-    "name": "nix-darwin",
-    "url": "https://github.com/LnL7/nix-darwin",
-    "description": "Manage macOS configuration just like on NixOS."
   },
   {
     "name": "nixpkgs-firefox-darwin",
