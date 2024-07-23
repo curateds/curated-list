@@ -475,6 +475,11 @@
     "description": "A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere."
   },
   {
+    "name": "nixidy",
+    "url": "https://github.com/arnarg/nixidy",
+    "description": "Kubernetes GitOps with Nix and Argo CD."
+  },
+  {
     "name": "Standard",
     "url": "https://github.com/divnix/std",
     "description": "An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios."
@@ -498,6 +503,11 @@
     "name": "elm2nix",
     "url": "https://github.com/cachix/elm2nix",
     "description": "Convert elm.json into Nix expressions."
+  },
+  {
+    "name": "nix-gleam",
+    "url": "https://github.com/arnarg/nix-gleam",
+    "description": "Generic Nix builder for Gleam applications."
   },
   {
     "name": "cabal2nix",

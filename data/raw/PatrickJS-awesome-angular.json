@@ -1063,6 +1063,11 @@
     "description": "Security directives for your Angular application to show/hide elements based on a user roles / permissions."
   },
   {
+    "name": "ngx-clerk",
+    "url": "https://github.com/anagstef/ngx-clerk",
+    "description": "An unofficial project that aims to provide a seamless integration of Clerk features into Angular applications."
+  },
+  {
     "name": "Webpack",
     "url": "https://webpack.js.org"
   },
@@ -1187,6 +1192,11 @@
     "name": "ngx-aws-deploy",
     "url": "https://github.com/Jefiozie/ngx-aws-deploy",
     "description": "Deploy your Angular app to Amazon S3 directly from the Angular CLI."
+  },
+  {
+    "name": "analog-publish-gh-pages",
+    "url": "https://github.com/k9n-dev/analog-publish-gh-pages",
+    "description": "A Github Action for the Deployment of an Analog.js App on Github Pages."
   },
   {
     "name": "StackBlitz",
@@ -1806,6 +1816,11 @@
   {
     "name": "Angular-18-boilerplate",
     "url": "https://github.com/Gentleman-Programming/Angular-18-boilerplate"
+  },
+  {
+    "name": "angular-and-firebase-template",
+    "url": "https://github.com/FullStacksDev/angular-and-firebase-template",
+    "description": "An opinionated full-stack starting point for building a web app, using Angular and Firebase."
   },
   {
     "name": "Nzoni",
@@ -3054,6 +3069,11 @@
     "name": "ng-circle-progress",
     "url": "https://github.com/bootsoon/ng-circle-progress",
     "description": "A simple circle progress component created for Angular based on SVG Graphics."
+  },
+  {
+    "name": "ngx-loading-buttons",
+    "url": "https://github.com/dkreider/ngx-loading-buttons",
+    "description": "A lightweight Angular library to add a loading spinner to your Angular Material buttons."
   },
   {
     "name": "lumberjack",

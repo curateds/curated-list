@@ -155,6 +155,11 @@
     "description": "Library smoothing the transition to Coq for Haskell users."
   },
   {
+    "name": "Coq-Kruskal",
+    "url": "https://github.com/DmxLarchey/Coq-Kruskal",
+    "description": "Collection of libraries related to rose trees and Kruskal's tree theorem."
+  },
+  {
     "name": "CoqInterval",
     "url": "https://gitlab.inria.fr/coqinterval/interval/",
     "description": "Tactics for performing proofs of inequalities on expressions of real numbers."
@@ -993,7 +998,7 @@
   },
   {
     "name": "Tricks in Coq",
-    "url": "https://github.com/tchajed/coq-tricks",
-    "description": "Tips, tricks, and features that are hard to discover."
+    "url": "https://github.com/coq-community/coq-tricks",
+    "description": "Tips, tricks, and features in Coq that are hard to discover."
   }
 ]

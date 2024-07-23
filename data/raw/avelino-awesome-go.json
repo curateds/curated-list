@@ -1189,6 +1189,11 @@
     "description": "Cross platform package that follows the XDG Standard."
   },
   {
+    "name": "yamagiconf",
+    "url": "https://github.com/romshark/yamagiconf",
+    "description": "The \"safe subset\" of YAML for Go configs."
+  },
+  {
     "name": "Bencher",
     "url": "https://bencher.dev/",
     "description": "A suite of continuous benchmarking tools designed to catch performance regressions in CI."
@@ -1971,6 +1976,11 @@
     "name": "rosedb",
     "url": "https://github.com/roseduan/rosedb",
     "description": "An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset."
+  },
+  {
+    "name": "rotom",
+    "url": "https://github.com/xgzlucario/rotom",
+    "description": "A tiny Redis server built with Golang, compatible with RESP protocols."
   },
   {
     "name": "rqlite",
@@ -4250,6 +4260,11 @@
     "name": "app",
     "url": "https://github.com/murlokswarm/app",
     "description": "Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress."
+  },
+  {
+    "name": "DarwinKit",
+    "url": "https://github.com/progrium/darwinkit",
+    "description": "Build native macOS applications using Go."
   },
   {
     "name": "energy",
@@ -8745,6 +8760,11 @@
     "name": "go-vcard",
     "url": "https://github.com/emersion/go-vcard",
     "description": "Parse and format vCard."
+  },
+  {
+    "name": "godump",
+    "url": "https://github.com/yassinebenaid/godump",
+    "description": "Pretty print any GO variable with ease, an alternative to Go's fmt.Printf(\"%#v\")."
   },
   {
     "name": "gofeed",
