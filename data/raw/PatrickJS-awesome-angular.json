@@ -1167,6 +1167,11 @@
     "description": "An @angular/cli based starter containing common components and services as well as a reference site."
   },
   {
+    "name": "ngx-stylesweep",
+    "url": "https://github.com/BernardoGiordano/ngx-stylesweep",
+    "description": "A CLI tool that removes empty style files from your Angular components."
+  },
+  {
     "name": "aws amplify",
     "url": "https://docs.amplify.aws/angular/"
   },
@@ -1521,6 +1526,11 @@
     "name": "ngx-facebook-messenger",
     "url": "https://github.com/SkyZeroZx/ngx-facebook-messenger",
     "description": "Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency."
+  },
+  {
+    "name": "angular-sdk-plugin",
+    "url": "https://github.com/splitio/angular-sdk-plugin",
+    "description": "This repository contains a plugin for the Angular framework that integrates with the Split JS SDK."
   },
   {
     "name": "transloco",
@@ -3106,6 +3116,11 @@
     "description": "Creating map based web apps using Cesium and Angular."
   },
   {
+    "name": "cesium-angular-example",
+    "url": "https://github.com/Developer-Plexscape/cesium-angular-example",
+    "description": "A simple web application that demonstrates integration of Cesium with the LATEST version of Angular."
+  },
+  {
     "name": "ngx-mapbox-gl",
     "url": "https://github.com/Wykks/ngx-mapbox-gl",
     "description": "Angular binding of mapbox-gl-js."
@@ -4073,6 +4088,11 @@
     "name": "module-federation-plugin",
     "url": "https://github.com/angular-architects/module-federation-plugin",
     "description": "Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI."
+  },
+  {
+    "name": "ng2-idle",
+    "url": "https://github.com/moribvndvs/ng2-idle",
+    "description": "A module for responding to idle users in Angular applications."
   },
   {
     "name": "Ionic Framework",

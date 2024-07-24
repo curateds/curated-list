@@ -245,6 +245,11 @@
     "description": "Substation is a cloud native data pipeline and transformation toolkit written in Go."
   },
   {
+    "name": "SwimOS",
+    "url": "https://github.com/swimos/swim-rust",
+    "description": "A framework for building real-time streaming data processing applications written in Rust."
+  },
+  {
     "name": "Tributary",
     "url": "https://github.com/timkpaine/tributary",
     "description": "A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams."

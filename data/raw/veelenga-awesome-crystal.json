@@ -190,6 +190,11 @@
     "description": "Bindings for the libgphoto2 library"
   },
   {
+    "name": "gpio.cr",
+    "url": "https://github.com/spider-gazelle/gpio.cr",
+    "description": "Bindings for the gpiod library (general purpose IO control and feedback)"
+  },
+  {
     "name": "icu.cr",
     "url": "https://github.com/olbat/icu.cr",
     "description": "Bindings for the ICU library"
@@ -1272,6 +1277,11 @@
     "name": "jwt",
     "url": "https://github.com/crystal-community/jwt",
     "description": "Implementation of JWT (JSON Web Token)"
+  },
+  {
+    "name": "knx",
+    "url": "https://github.com/spider-gazelle/knx",
+    "description": "KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling"
   },
   {
     "name": "mDNS",

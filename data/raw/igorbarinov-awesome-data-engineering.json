@@ -660,6 +660,11 @@
     "description": "- An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol."
   },
   {
+    "name": "SwimOS",
+    "url": "https://github.com/swimos/swim-rust",
+    "description": "A framework for building real-time streaming data processing applications that supports a wide range of ingestion sources."
+  },
+  {
     "name": "Hadoop MapReduce",
     "url": "https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html",
     "description": "Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) - in-parallel on large clusters (thousands of nodes) - of commodity hardware in a reliable, fault-tolerant manner."
