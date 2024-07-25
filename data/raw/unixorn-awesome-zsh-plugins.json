@@ -4254,9 +4254,9 @@
     "description": "Replicates take from oh-my-zsh."
   },
   {
-    "name": "taskbook",
-    "url": "https://github.com/mastern2k3/taskbook-zsh-plugin",
-    "description": "Auto-completes task numbers for taskbook."
+    "name": "tasko",
+    "url": "https://github.com/knid/tasko",
+    "description": "Allows you to annotate TaskWarrior tasks."
   },
   {
     "name": "telepresence",
@@ -4752,6 +4752,11 @@
     "name": "web-search (yabanahano)",
     "url": "https://github.com/Yabanahano/web-search",
     "description": "Adds aliases for searching with Google, Wiki, Bing, YouTube and other popular services."
+  },
+  {
+    "name": "welcome-banner",
+    "url": "https://github.com/joshuadanpeterson/zsh-welcome-banner",
+    "description": "Displays a login banner with a random quote."
   },
   {
     "name": "which-jspm",
@@ -6035,6 +6040,11 @@
     "name": "talosctl",
     "url": "https://github.com/RusMephist/talosctl-zsh-plugin",
     "description": "Tab completion for Talos Linux."
+  },
+  {
+    "name": "taskbook",
+    "url": "https://github.com/mastern2k3/taskbook-zsh-plugin",
+    "description": "Auto-completes task numbers for taskbook."
   },
   {
     "name": "terragrunt",
@@ -7949,6 +7959,11 @@
     "name": "hex",
     "url": "https://github.com/hectorBrown/hex-zsh",
     "description": "Heavily based on bira, and gruvbox, which in turn is based on agnoster. Includes decorators for current directory, git status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font."
+  },
+  {
+    "name": "hietan",
+    "url": "https://github.com/Hietan/Hietan_ZshTheme",
+    "description": "Includes decorators for current directory, date & time, git status and the exit value of the last command run. Requires a Nerd Font."
   },
   {
     "name": "hexagon",
@@ -10443,6 +10458,11 @@
     "name": "sulfurium",
     "url": "https://github.com/Sulfurium/zsh-theme",
     "description": "The official ZSH theme of sulfuriumOS."
+  },
+  {
+    "name": "sunrise",
+    "url": "https://github.com/tech8i/zsh_sunrise",
+    "description": "Includes decorators for battery status, current directory, date and time."
   },
   {
     "name": "sunrise-ruby",

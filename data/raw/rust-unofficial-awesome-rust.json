@@ -6945,6 +6945,11 @@
     "description": "Lightweight stream-based WebSocket implementation."
   },
   {
+    "name": "swimos/ratchet",
+    "url": "https://github.com/swimos/ratchet",
+    "description": "Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate."
+  },
+  {
     "name": "vi/websocat",
     "url": "https://github.com/vi/websocat",
     "description": "CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat."

@@ -924,6 +924,11 @@
     "description": "Integrate pagefind search."
   },
   {
+    "name": "@mistjs/vite-plugin-px2viewport",
+    "url": "https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport",
+    "description": "A plugin that automatically converts inline styles and style files from px units to vw units."
+  },
+  {
     "name": "unplugin-icons",
     "url": "https://github.com/antfu/unplugin-icons",
     "description": "Access thousands of icons as components."

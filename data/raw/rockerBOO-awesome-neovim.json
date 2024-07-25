@@ -335,6 +335,11 @@
     "description": "Display LSP inlay hints at the end of the line, rather than within the line."
   },
   {
+    "name": "rachartier/tiny-code-action.nvim",
+    "url": "https://github.com/rachartier/tiny-code-action.nvim",
+    "description": "Provides a simple way to run and visualize code actions with Telescope."
+  },
+  {
     "name": "anott03/nvim-lspinstall",
     "url": "https://github.com/anott03/nvim-lspinstall",
     "description": "Easy to install language servers."
@@ -648,6 +653,11 @@
     "name": "rest-nvim/rest.nvim",
     "url": "https://github.com/rest-nvim/rest.nvim",
     "description": "A fast Neovim HTTP client written in Lua."
+  },
+  {
+    "name": "mistweaverco/kulala.nvim",
+    "url": "https://github.com/mistweaverco/kulala.nvim",
+    "description": "A minimal HTTP-client interface."
   },
   {
     "name": "ray-x/web-tools.nvim",
@@ -2465,6 +2475,11 @@
     "description": "Take a picture of the code."
   },
   {
+    "name": "AntonVanAssche/music-controls.nvim",
+    "url": "https://github.com/AntonVanAssche/music-controls.nvim",
+    "description": "Quickly control your favorite music player (Spotify, VLC, and more)."
+  },
+  {
     "name": "0styx0/abbreinder.nvim",
     "url": "https://github.com/0styx0/abbreinder.nvim",
     "description": "Abbreviation reminders (Neovim >= 0.5)."
@@ -2978,6 +2993,11 @@
     "name": "mong8se/buffish.nvim",
     "url": "https://github.com/mong8se/buffish.nvim",
     "description": "A buffer switcher in the spirit of dirvish or vinegar."
+  },
+  {
+    "name": "niuiic/todo.nvim",
+    "url": "https://github.com/niuiic/todo.nvim",
+    "description": "Simple but powerful todo manager based on text."
   },
   {
     "name": "VidocqH/data-viewer.nvim",
