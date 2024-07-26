@@ -12092,6 +12092,11 @@
     "description": "Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations."
   },
   {
+    "name": "tlm",
+    "url": "https://github.com/yusufcanb/tlm",
+    "description": "Local cli copilot, powered by CodeLLaMa"
+  },
+  {
     "name": "traefik",
     "url": "https://github.com/containous/traefik",
     "description": "Reverse proxy and load balancer with support for multiple backends."

@@ -2325,6 +2325,11 @@
     "description": "MicroPython Driver for the Bosch BMA400 Accelerometer."
   },
   {
+    "name": "bma423-pure-mp",
+    "url": "https://github.com/antirez/bma423-pure-mp",
+    "description": "MicroPython Driver for the Bosch 423 accelerometer. Includes FIFO support. ⏩"
+  },
+  {
     "name": "MicroPython_LIS3DH",
     "url": "https://github.com/jposada202020/MicroPython_LIS3DH",
     "description": "MicroPython Driver for the LIS3DH 3-axis accelerometer."
@@ -2453,6 +2458,11 @@
     "name": "MicroPython_BMP581",
     "url": "https://github.com/jposada202020/MicroPython_BMP581",
     "description": "MicroPython driver for the Bosch BMP581 pressure & temperature sensor."
+  },
+  {
+    "name": "mp-bmp3xx-full",
+    "url": "https://github.com/jornamon/mp-bmp3xx-full",
+    "description": "MicroPython driver for the Bosch BMP3xx range of barometric pressure sensors. Includes FIFO support. ⏩"
   },
   {
     "name": "MicroPython_DPS310",
@@ -3615,9 +3625,9 @@
     "description": "By Jacob Beningo. ISBN 9781789958034."
   },
   {
-    "name": "Get Started with MicroPython on Raspberry Pi Pico",
-    "url": "https://store.rpipress.cc/products/get-started-with-micropython-on-raspberry-pi-pico",
-    "description": "By Gareth Halfacree and Ben Everard. ISBN 9781912047864."
+    "name": "Get Started with MicroPython on Raspberry Pi Pico 2nd Edition",
+    "url": "https://store.rpipress.cc/collections/books/products/get-started-with-micropython-on-raspberry-pi-pico-2nd-edition",
+    "description": "By Gareth Halfacree and Ben Everard. ISBN 9781912047291."
   },
   {
     "name": "MicroPython for Microcontrollers",

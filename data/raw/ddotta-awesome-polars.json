@@ -179,6 +179,11 @@
     "description": "Polars plugin to parse/extract fields from urls by @condekind."
   },
   {
+    "name": "polars-ml",
+    "url": "https://github.com/barak1412/polars_ml",
+    "description": "Polars plugin for machine learning by @barak1412."
+  },
+  {
     "name": "polars for Rust",
     "url": "https://github.com/pola-rs/polars/tree/master/polars",
     "description": "Rust polars crate to use polars DataFrame with Rust."
