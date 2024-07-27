@@ -127,6 +127,11 @@
     "description": "A faster way to move around in Bash."
   },
   {
+    "name": "forkrun",
+    "url": "https://github.com/jkool702/forkrun",
+    "description": "A pure-bash tool for running code in parallel. Similar in syntax and speed to xargs -P, but with more features and native Bash function support."
+  },
+  {
     "name": "has",
     "url": "https://github.com/kdabir/has",
     "description": "has helps you check presence of various command line tools and their versions on path."
