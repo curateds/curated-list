@@ -6717,6 +6717,11 @@
     "description": "Colorful prompt segments reminiscent of bullet-train or powerlevel10k. Includes git status decorations."
   },
   {
+    "name": "boban",
+    "url": "https://github.com/TheEdgeOfRage/boban-zsh",
+    "description": "A powerline-style file based on Agnoster. Includes decorators for user@hostname, git status, current working directory, python venv, AWS profile, $KUBECONFIG, the terraform workspace and the exit status of the last command run. Requires a Nerd Font."
+  },
+  {
     "name": "bogo",
     "url": "https://github.com/cubasepp/zsh-bogo-theme",
     "description": "Inspired by zeta. Includes git and ruby version decorations."
@@ -10133,6 +10138,16 @@
     "name": "shirnschall",
     "url": "https://github.com/shirnschall/shirnschall-zsh-theme",
     "description": "Includes git status and user@hostname decorations."
+  },
+  {
+    "name": "shiro (arturDobrowolski)",
+    "url": "https://github.com/ArturDobrowolski/shiro-zsh-theme",
+    "description": "Includes decorators for current directory, git status, and exit status and execution time of last command run."
+  },
+  {
+    "name": "shiro (shirozuki)",
+    "url": "https://github.com/shirozuki/shiro-zsh-theme",
+    "description": "Includes decorators for current directory, git status and execution time and exit status of last command run."
   },
   {
     "name": "shocm",

@@ -542,39 +542,29 @@
     "url": "https://dev.to/this-is-angular"
   },
   {
-    "name": "ng-book 2",
-    "url": "https://www.ng-book.com/2/",
-    "description": "fullstack.io"
+    "name": "Packt Publishing",
+    "url": "https://www.packtpub.com/en-us/search?query=angular&sort=best-selling",
+    "description": "Your best option to find the largest variety of up-to-date programming books."
   },
   {
-    "name": "Become a ninja with Angular 2",
+    "name": "GumRoad",
+    "url": "https://gumroad.com/software-development/web-development/javascript?tags=angular",
+    "description": "Various Free and Paid Angular ebooks."
+  },
+  {
+    "name": "LeanPub",
+    "url": "https://leanpub.com/bookstore?type=all&search=angular",
+    "description": "LeanPub has variable pricing so you can support authors as you see fit."
+  },
+  {
+    "name": "Manning",
+    "url": "https://www.manning.com/",
+    "description": "Buy a Manning pBook anywhere, get the eBook free here."
+  },
+  {
+    "name": "Become a ninja with Angular",
     "url": "https://books.ninja-squad.com/angular",
     "description": "Ninja Squad"
-  },
-  {
-    "name": "Angular Development with TypeScript",
-    "url": "https://www.manning.com/books/angular-2-development-with-typescript",
-    "description": "Manning Publications"
-  },
-  {
-    "name": "Angular in Action",
-    "url": "https://www.manning.com/books/angular-in-action",
-    "description": "Manning Publications"
-  },
-  {
-    "name": "Practical Angular 2",
-    "url": "https://leanpub.com/practical-angular-2",
-    "description": "Leanpub"
-  },
-  {
-    "name": "Switching to Angular 2",
-    "url": "https://www.packtpub.com/product/switching-to-angular-2/9781785886201",
-    "description": "Packt Publishing"
-  },
-  {
-    "name": "Testing Angular Applications",
-    "url": "https://www.manning.com/books/testing-angular-applications",
-    "description": "Manning Publications"
   },
   {
     "name": "Angular-Buch (German)",
@@ -582,24 +572,9 @@
     "description": "dpunkt.verlag"
   },
   {
-    "name": "Build a Full-Stack Web Application Using Angular & Firebase",
-    "url": "https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase",
-    "description": "Ankit Sharma"
-  },
-  {
     "name": "Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises",
     "url": "https://codewithahsan.dev/ng-book",
     "description": "80+ Recipes to enhance your Angular skills for enterprises - Packt Publishing"
-  },
-  {
-    "name": "Build a Frontend Web Framework (From Scratch)",
-    "url": "https://www.manning.com/books/build-a-frontend-web-framework-from-scratch",
-    "description": "Manning Publications"
-  },
-  {
-    "name": "Modern Angular (FREE EBOOK)",
-    "url": "https://www.angulararchitects.io/en/ebooks/modern-angular/?book",
-    "description": "Manfred Steyer"
   },
   {
     "name": "Angular Design Patterns and Best Practices",
@@ -610,6 +585,36 @@
     "name": "Angular for Enterprise Applications",
     "url": "https://angularforenterprise.com/home",
     "description": "Packt Publishing"
+  },
+  {
+    "name": "Angular University Ebooks",
+    "url": "https://angular-university.io/my-ebooks",
+    "description": "Available separately or included with a subscription."
+  },
+  {
+    "name": "Mastering Angular Signals",
+    "url": "https://angularexperts.io/products/ebook-signals",
+    "description": "Kevin Kreuzer"
+  },
+  {
+    "name": "Angular Book",
+    "url": "https://github.com/DenysVuika/angular-book",
+    "description": "Denys Vuika FREE"
+  },
+  {
+    "name": "Modern Angular",
+    "url": "https://www.angulararchitects.io/en/ebooks/modern-angular/?book",
+    "description": "Manfred Steyer FREE"
+  },
+  {
+    "name": "Ultimate Guide to Angular Evolution",
+    "url": "https://houseofangular.io/the-ultimate-guide-to-angular-evolution/",
+    "description": "House of Angular FREE"
+  },
+  {
+    "name": "Micro Frontends and Moduliths with Angular",
+    "url": "https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/",
+    "description": "Manfred Steyer FREE"
   },
   {
     "name": "Certificates.dev",
@@ -3214,6 +3219,11 @@
     "name": "angular-markdown-editor",
     "url": "https://github.com/ghiscoding/angular-markdown-editor",
     "description": "Angular Markdown Editor. All-in-one Markdown Editor and Preview."
+  },
+  {
+    "name": "ngx-markdoc",
+    "url": "https://github.com/notiz-dev/ngx-markdoc",
+    "description": "Markdoc component for Angular applications."
   },
   {
     "name": "rx-angular",

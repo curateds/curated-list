@@ -3240,6 +3240,11 @@
     "description": "Displays coverage information in the sign column."
   },
   {
+    "name": "quolpr/quicktest.nvim",
+    "url": "https://github.com/quolpr/quicktest.nvim",
+    "description": "Run your tests in split window or popup with live feedback."
+  },
+  {
     "name": "michaelb/sniprun",
     "url": "https://github.com/michaelb/sniprun",
     "description": "Run parts of code of any language directly from Neovim."
