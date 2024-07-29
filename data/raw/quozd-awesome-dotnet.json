@@ -334,6 +334,21 @@
     "description": "A fine-grained authorization system with .NET SDK."
   },
   {
+    "name": "Enforcer",
+    "url": "https://www.identityserver.com/products/enforcer",
+    "description": "Write fine grained authorization policy in easy-to-read language, and have it compiled to native .NET code [$]"
+  },
+  {
+    "name": "SAML IdentityServer",
+    "url": "https://www.identityserver.com/products/saml2p",
+    "description": "Add SAML 2P support to your Duende IdentityServer [$]"
+  },
+  {
+    "name": "SAML OpenIddict",
+    "url": "https://www.openiddictcomponents.com/home/",
+    "description": "Add SAML 2P support to your OpenIddict [$]"
+  },
+  {
     "name": "BootstrapBlazor",
     "url": "https://github.com/dotnetcore/BootstrapBlazor",
     "description": "A set of enterprise-class UI components based on Bootstrap and Blazor."
@@ -472,6 +487,11 @@
     "name": "LazyCache",
     "url": "https://github.com/alastairtree/LazyCache",
     "description": "A simple, developer friendly, in-memory thread-safe caching service. It leverages Microsoft.Extensions.Caching and Lazy to provide performance and reliability in heavy load scenarios."
+  },
+  {
+    "name": "BitFaster.Caching",
+    "url": "https://github.com/bitfaster/BitFaster.Caching",
+    "description": "Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency."
   },
   {
     "name": "iCal.NET",
@@ -1081,6 +1101,11 @@
     "description": "open-source .NET assembly browser, editor, decompiler and debugger"
   },
   {
+    "name": "dnSpyEx",
+    "url": "https://github.com/dnSpyEx/dnSpy",
+    "description": "Unofficial revival of dnSpy"
+  },
+  {
     "name": "ILSpy",
     "url": "https://ilspy.net/",
     "description": "ILSpy is the open-source .NET assembly browser and decompiler"
@@ -1311,6 +1336,11 @@
     "description": "Over a 1000 useful extension methods"
   },
   {
+    "name": "Microsoft.FeatureManagement",
+    "url": "https://github.com/microsoft/FeatureManagement-Dotnet",
+    "description": "This library provides a way to develop and expose applicaiton functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core."
+  },
+  {
     "name": "Curryfy",
     "url": "https://github.com/leandromoh/Curryfy",
     "description": "Provides strongly typed extensions methods for C# delegates to take advantages of functional programming techniques, like currying and partial application."
@@ -1409,6 +1439,11 @@
     "name": "Foster",
     "url": "https://github.com/FosterFramework/Foster",
     "description": "Foster is a small cross-platform 2D game framework in C#."
+  },
+  {
+    "name": "Friflo.Engine.ECS",
+    "url": "https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md",
+    "description": "High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ..."
   },
   {
     "name": "NetTopologySuite",
@@ -3086,6 +3121,11 @@
     "description": "An \"Entity Framework\"-like interface for MongoDB"
   },
   {
+    "name": "Friflo.Json.Fliox",
+    "url": "https://github.com/friflo/Friflo.Json.Fliox",
+    "description": "High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API."
+  },
+  {
     "name": "NuGet",
     "url": "https://www.nuget.org/",
     "description": "The .NET package manager"
@@ -3324,6 +3364,11 @@
     "name": "SlimMessageBus",
     "url": "https://github.com/zarusz/SlimMessageBus",
     "description": "Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication."
+  },
+  {
+    "name": "AsyncMonolith",
+    "url": "https://github.com/Timmoth/AsyncMonolith",
+    "description": "Facilitates simple asynchronous messaging in dotnet apps."
   },
   {
     "name": "gRPC",
@@ -4118,6 +4163,11 @@
     "name": "CefSharp",
     "url": "https://github.com/cefsharp/CefSharp/",
     "description": "HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF"
+  },
+  {
+    "name": "SharpBrowser",
+    "url": "https://github.com/sharpbrowser/SharpBrowser",
+    "description": "A full featured .NET web-browser built using C# and CefSharp"
   },
   {
     "name": "ASP.NET MVC",

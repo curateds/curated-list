@@ -640,6 +640,11 @@
     "description": "Make Go tests easy with gotests."
   },
   {
+    "name": "maxandron/goplements.nvim",
+    "url": "https://github.com/maxandron/goplements.nvim",
+    "description": "Visualize Go struct and interface implementations."
+  },
+  {
     "name": "someone-stole-my-name/yaml-companion.nvim",
     "url": "https://github.com/someone-stole-my-name/yaml-companion.nvim",
     "description": "Get, set and autodetect YAML schemas in your buffers."
@@ -983,11 +988,6 @@
     "name": "ThePrimeagen/harpoon",
     "url": "https://github.com/ThePrimeagen/harpoon",
     "description": "A per project, auto updating and editable marks utility for fast file navigation."
-  },
-  {
-    "name": "abeldekat/harpoonline",
-    "url": "https://github.com/abeldekat/harpoonline",
-    "description": "Create up-to-date harpoon2 information to be used in a status-line."
   },
   {
     "name": "otavioschwanck/arrow.nvim",

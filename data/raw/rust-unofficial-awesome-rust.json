@@ -471,7 +471,7 @@
   },
   {
     "name": "Subspace",
-    "url": "https://github.com/subspace/subspace",
+    "url": "https://github.com/autonomys/subspace",
     "description": "The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization."
   },
   {
@@ -4919,9 +4919,14 @@
     "description": "High-performance browser-grade HTML5 parser"
   },
   {
-    "name": "importcjj/rust-ajson",
-    "url": "https://github.com/importcjj/rust-ajson",
-    "description": "Get JSON values quickly"
+    "name": "cloudwego/sonic-rs",
+    "url": "https://github.com/cloudwego/sonic-rs",
+    "description": "A fast Rust JSON library based on SIMD."
+  },
+  {
+    "name": "cloudwego/sonic-rs",
+    "url": "https://github.com/cloudwego/sonic-rs",
+    "description": "A fast Rust JSON library based on SIMD."
   },
   {
     "name": "importcjj/rust-ajson",
@@ -4929,14 +4934,9 @@
     "description": "Get JSON values quickly"
   },
   {
-    "name": "maciejhirsz/json-rust",
-    "url": "https://github.com/maciejhirsz/json-rust",
+    "name": "rustadopt/jzon-rs",
+    "url": "https://github.com/rustadopt/jzon-rs/",
     "description": "JSON implementation"
-  },
-  {
-    "name": "pikkr/pikkr",
-    "url": "https://github.com/pikkr/pikkr",
-    "description": "JSON parser which picks up values directly without performing tokenization"
   },
   {
     "name": "serde-rs/json",

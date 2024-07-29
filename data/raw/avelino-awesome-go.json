@@ -5592,6 +5592,11 @@
     "description": "Simple Event Bus package for Go."
   },
   {
+    "name": "Go-MediatR",
+    "url": "https://github.com/mehdihadeli/Go-MediatR",
+    "description": "A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library."
+  },
+  {
     "name": "go-mq",
     "url": "https://github.com/cheshir/go-mq",
     "description": "RabbitMQ client with declarative configuration."
@@ -9572,6 +9577,11 @@
     "description": "Package contextplus provide more easy to use functions for contexts."
   },
   {
+    "name": "cookie",
+    "url": "https://github.com/syntaqx/cookie",
+    "description": "Cookie struct parsing and helper package."
+  },
+  {
     "name": "copy",
     "url": "https://github.com/gotidy/copy",
     "description": "Package for fast copying structs of different types."
@@ -10688,6 +10698,11 @@
     "name": "Flamingo Commerce",
     "url": "https://github.com/i-love-flamingo/flamingo-commerce",
     "description": "Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications."
+  },
+  {
+    "name": "Fuego",
+    "url": "https://github.com/go-fuego/fuego",
+    "description": "The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code."
   },
   {
     "name": "Gearbox",

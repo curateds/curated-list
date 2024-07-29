@@ -60,6 +60,11 @@
     "description": "AWallet is an open source, HTML only, corporate friendly, and secure Algorand wallet."
   },
   {
+    "name": "Liquid Auth",
+    "url": "https://github.com/algorandfoundation/liquid-auth",
+    "description": "Liquid Auth is a self-hosted authentication service that provides a simple way to associate Passkeys to KeyPair(s) commonly found in cryptocurrencies. In addition to authentication, Liquid Auth provides a Peer to Peer signaling service. Not only can you authenticate users, but you can also establish secure connections between them."
+  },
+  {
     "name": "Allo",
     "url": "https://allo.info",
     "description": "Allo is a blockchain explorer for all of Algorand created by Nodely."
@@ -223,6 +228,11 @@
     "name": "algokit-beaker-default-template",
     "url": "https://github.com/algorandfoundation/algokit-beaker-default-template",
     "description": "Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts. Also serves as a reference for template builders on implementing smart-contract-only algokit templates."
+  },
+  {
+    "name": "algokit-python-template",
+    "url": "https://github.com/algorandfoundation/algokit-python-template",
+    "description": "Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python."
   },
   {
     "name": "algokit-react-frontend-template",
@@ -533,6 +543,11 @@
     "name": "use-wallet-js",
     "url": "https://github.com/TxnLab/use-wallet-js",
     "description": "TypeScript library for integrating Algorand wallets into decentralized applications."
+  },
+  {
+    "name": "rsagg",
+    "url": "https://github.com/dragmz/rsagg",
+    "description": "A Rust library for GPU accelerated Algorand 'vanity' address generation."
   },
   {
     "name": "Tinyman",
