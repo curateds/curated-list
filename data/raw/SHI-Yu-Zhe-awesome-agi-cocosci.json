@@ -1159,6 +1159,11 @@
     "description": "Nature Synthesis, 2024. [All Versions]. [Preprint]. This paper presents an approach that uses a universal chemical programming language (χDL) to encode and execute synthesis procedures for a variety of chemical reactions, including reductive amination, ring formation, esterification, carbon–carbon bond formation and amide coupling on four different hardware systems in two laboratories. With around 50 lines of code per reaction, the approach uses abstraction to efficiently compress chemical protocols."
   },
   {
+    "name": "Building an Open Representation for Biological Protocols",
+    "url": "https://dl.acm.org/doi/full/10.1145/3604568",
+    "description": "ACM Journal on Emerging Technologies in Computing Systems, 2023. [All Versions]. There is currently no available protocol representation that is unambiguous enough for precise interpretation and automation, yet simultaneously “human friendly” and abstract enough to enable reuse and adaptation. The Laboratory Open Protocol language (LabOP) is a free and open protocol representation aiming to address this gap, building on a foundation of UML, Autoprotocol, Aquarium, SBOL RDF, and the Provenance Ontology. LabOP provides a linked-data representation both for protocols and for records of their execution and the resulting data, as well as a framework for exporting from LabOP for execution by either humans or laboratory automation."
+  },
+  {
     "name": "Scenic: a language for scenario specification and data generation",
     "url": "https://link.springer.com/article/10.1007/s10994-021-06120-5",
     "description": "Machine Learning, 2022. [All Versions]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario."

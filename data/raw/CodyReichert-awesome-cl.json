@@ -3021,6 +3021,11 @@
     "description": "a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime."
   },
   {
+    "name": "Quicksearch",
+    "url": "https://github.com/lisp-maintainers/quicksearch",
+    "description": "search for projects on GitHub, Quicklisp, Cliki and Bitbucket. MIT."
+  },
+  {
     "name": "slime-star",
     "url": "https://github.com/mmontone/slime-star",
     "description": "a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:"
@@ -3034,10 +3039,6 @@
     "name": "Quicklisp systems",
     "url": "https://github.com/mmontone/quicklisp-systems",
     "description": "Search, browse and load Quicklisp systems from Emacs."
-  },
-  {
-    "name": "Quicksearch",
-    "url": "https://github.com/tkych/quicksearch"
   },
   {
     "name": "Slime breakpoints",

@@ -2278,6 +2278,11 @@
     "description": "an example project showing usage of CMake with Rust"
   },
   {
+    "name": "facebook/buck2",
+    "url": "https://github.com/facebook/buck2",
+    "description": "Buck2 is a large-scale build tool built in Rust"
+  },
+  {
     "name": "Fleet",
     "url": "https://github.com/dimensionhq/fleet",
     "description": "The blazing fast build tool for Rust."
@@ -2306,6 +2311,16 @@
     "name": "nix-community/fenix",
     "url": "https://github.com/nix-community/fenix",
     "description": "Rust toolchains and rust analyzer nightly for nix"
+  },
+  {
+    "name": "pantsbuild/pants",
+    "url": "https://github.com/pantsbuild/pants",
+    "description": "Pants is a fast, scalable, user-friendly build system for codebases of all sizes built in Rust."
+  },
+  {
+    "name": "tracemachina/nativelink",
+    "url": "https://github.com/tracemachina/nativelink",
+    "description": "NativeLink is a Backend Remote Execution platform written in rust for client build systems such as Buck2, Bazel, Pants, etc.."
   },
   {
     "name": "gdbgui",

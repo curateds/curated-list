@@ -295,6 +295,11 @@
     "description": "Computer programming language and IDE for visual arts."
   },
   {
+    "name": "py5",
+    "url": "https://py5coding.org",
+    "description": "A library that intergrates Processing into the Python 3 ecossystem."
+  },
+  {
     "name": "Cinder",
     "url": "https://libcinder.org/",
     "description": "Open source library for professional-quality creative coding in C++."
@@ -879,9 +884,14 @@
     "description": "Live-coding console tool that renders GLSL Shaders."
   },
   {
+    "name": "shoebot",
+    "url": "http://www.shoebot.net/",
+    "description": "Shoebot is a creative coding environment designed for making vector graphics and animations with Python."
+  },
+  {
     "name": "DrawBot",
     "url": "http://www.drawbot.com/",
-    "description": "Education oriented 2d graphics programming environment based on python."
+    "description": "Education oriented 2d graphics programming environment based on Python."
   },
   {
     "name": "Klak",

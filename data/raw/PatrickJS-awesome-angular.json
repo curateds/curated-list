@@ -542,6 +542,10 @@
     "url": "https://dev.to/this-is-angular"
   },
   {
+    "name": "daily.dev",
+    "url": "https://app.daily.dev/tags/angular"
+  },
+  {
     "name": "Packt Publishing",
     "url": "https://www.packtpub.com/en-us/search?query=angular&sort=best-selling",
     "description": "Your best option to find the largest variety of up-to-date programming books."
@@ -1269,6 +1273,11 @@
     "description": "An online IDE and prototyping tool for rapid Angular development."
   },
   {
+    "name": "IDX",
+    "url": "https://idx.dev/",
+    "description": "Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud."
+  },
+  {
     "name": "Bugfender",
     "url": "https://bugfender.com/platforms/angular-logging/",
     "description": "A cloud service to collect logs and Angular errors in Real-Time."
@@ -1277,6 +1286,11 @@
     "name": "Angular Dev Tools",
     "url": "https://angular.dev/tools/devtools",
     "description": "Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications."
+  },
+  {
+    "name": "VS Code NG Language Service",
+    "url": "https://github.com/angular/vscode-ng-language-service",
+    "description": "This extension provides a rich editing experience for Angular templates."
   },
   {
     "name": "Scuri Code",
@@ -1302,6 +1316,31 @@
     "name": "Angular 17 Snippets",
     "url": "https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode",
     "description": "258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)."
+  },
+  {
+    "name": "VS Code Angular Snippets",
+    "url": "https://github.com/johnpapa/vscode-angular-snippets",
+    "description": "This extension for Visual Studio Code adds snippets for Angular for TypeScript and HTML."
+  },
+  {
+    "name": "Angular Extension Pack",
+    "url": "https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack",
+    "description": "This extension pack packages some of the most popular VS Code Angular extensions."
+  },
+  {
+    "name": "Angular Jester",
+    "url": "https://marketplace.visualstudio.com/items?itemName=michael-fontecchio.angular-jester",
+    "description": "Generate Jest spec files for Angular projects."
+  },
+  {
+    "name": "Nx Console",
+    "url": "https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console",
+    "description": "Spend less time looking up command line arguments and more time shipping incredible products."
+  },
+  {
+    "name": "VS Code Angular HTML",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html",
+    "description": "Syntax highlighting for angular HTML Template files."
   },
   {
     "name": "Storybook",
@@ -3618,6 +3657,11 @@
     "name": "datagrid",
     "url": "https://github.com/radix-ng/datagrid",
     "description": "Angular TanStack table with shadcn Theme."
+  },
+  {
+    "name": "angular-datatables",
+    "url": "https://github.com/l-lin/angular-datatables",
+    "description": "An Angular2+ library for building complex HTML tables using the DataTables jQuery plug-in."
   },
   {
     "name": "helipopper",
