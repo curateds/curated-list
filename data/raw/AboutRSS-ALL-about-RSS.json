@@ -82,7 +82,7 @@
   },
   {
     "name": "h-feed",
-    "url": "https://indieweb.org/h-feed"
+    "url": "https://microformats.org/wiki/h-feed"
   },
   {
     "name": "RSS3",
@@ -147,6 +147,10 @@
   {
     "name": "source namespace",
     "url": "http://source.scripting.com/#1653758422000"
+  },
+  {
+    "name": "RSS + vCard",
+    "url": "https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html"
   },
   {
     "name": "Feed Validator for RSS and Atom",
@@ -769,6 +773,18 @@
     "url": "https://www.pnguin.app/"
   },
   {
+    "name": "Your News",
+    "url": "https://yournews.app/"
+  },
+  {
+    "name": "Fiper",
+    "url": "https://www.fiper.net/en/"
+  },
+  {
+    "name": "PoweReader",
+    "url": "https://powereader.app/"
+  },
+  {
     "name": "攸阅",
     "url": "https://minapp.com/miniapp/12066/"
   },
@@ -1137,6 +1153,22 @@
     "url": "https://refeedreader.com/"
   },
   {
+    "name": "Lighthouse",
+    "url": "https://lighthouseapp.io/"
+  },
+  {
+    "name": "Fiper",
+    "url": "https://www.fiper.net/en/"
+  },
+  {
+    "name": "Feedboard",
+    "url": "https://feedboard.app/"
+  },
+  {
+    "name": "RSS is Awesome",
+    "url": "https://rssisawesome.com/"
+  },
+  {
     "name": "Matcha - Daily RSS Digest",
     "url": "https://github.com/piqoni/matcha",
     "description": "Daily RSS Digest 1298"
@@ -1308,6 +1340,14 @@
   {
     "name": "Refeed",
     "url": "https://refeedreader.com/"
+  },
+  {
+    "name": "Fusion",
+    "url": "https://github.com/0x2E/fusion"
+  },
+  {
+    "name": "srcrs/rss-reader",
+    "url": "https://github.com/srcrs/rss-reader"
   },
   {
     "name": "Outlook",
@@ -1487,11 +1527,11 @@
     "url": "https://github.com/ismartcoding/plain-app"
   },
   {
-    "name": "TinyRead",
+    "name": "TidyRead",
     "url": "https://www.tidyread.info/"
   },
   {
-    "name": "TinyRead",
+    "name": "TidyRead",
     "url": "https://www.tidyread.info/"
   },
   {
@@ -1787,6 +1827,10 @@
     "url": "https://github.com/rootknight/Miniflux-Theme-Reeder"
   },
   {
+    "name": "Reeder like theme",
+    "url": "https://github.com/rootknight/Miniflux-Theme-Reeder"
+  },
+  {
     "name": "NodeRSSbot",
     "url": "https://rssbot.vercel.app/"
   },
@@ -1981,6 +2025,10 @@
   {
     "name": "Awakari",
     "url": "https://awakari.com/login.html"
+  },
+  {
+    "name": "OpenOrb",
+    "url": "https://openorb.idiot.sh/"
   },
   {
     "name": "Pipes",
@@ -2463,6 +2511,10 @@
     "url": "https://spotifeed.timdorr.com/"
   },
   {
+    "name": "TuneFeed",
+    "url": "https://tunefeed.app/"
+  },
+  {
     "name": "Filter RSS",
     "url": "https://filterrss.com/"
   },
@@ -2481,6 +2533,10 @@
   {
     "name": "Feeds Mage",
     "url": "https://www.feedsmage.com/"
+  },
+  {
+    "name": "RsS iS dEaD LOL",
+    "url": "https://rss-is-dead.lol/"
   },
   {
     "name": "Hypothesis",
@@ -2513,6 +2569,10 @@
   {
     "name": "Omnivore",
     "url": "https://omnivore.app/"
+  },
+  {
+    "name": "LinkAce",
+    "url": "https://www.linkace.org/"
   },
   {
     "name": "HamsterBase",
@@ -2553,6 +2613,14 @@
   {
     "name": "Free Monitor Certificate expiry via RSS",
     "url": "https://raphting.dev/posts/monitor-rss/"
+  },
+  {
+    "name": "Mastodon Bookmark RSS",
+    "url": "https://bookmark-rss.woodland.cafe/"
+  },
+  {
+    "name": "BibiGPT",
+    "url": "https://airss.co/"
   },
   {
     "name": "Weibo to RSS",
@@ -2651,6 +2719,10 @@
     "url": "http://www.amlpages.com/rssme.shtml"
   },
   {
+    "name": "EchoFeed",
+    "url": "https://echofeed.app/"
+  },
+  {
     "name": "Kindle Ear",
     "url": "https://github.com/cdhigh/KindleEar"
   },
@@ -2685,6 +2757,10 @@
   {
     "name": "Ktool",
     "url": "https://ktool.io/"
+  },
+  {
+    "name": "SyncReads",
+    "url": "https://www.syncreads.com/"
   },
   {
     "name": "Feedsub",
@@ -2819,6 +2895,14 @@
     "url": "https://buttondown.email/"
   },
   {
+    "name": "lightfeed",
+    "url": "https://www.lightfeed.app/"
+  },
+  {
+    "name": "TidyRead",
+    "url": "https://tidyread.ai/"
+  },
+  {
     "name": "py-feedr",
     "url": "https://github.com/M157q/py-feedr"
   },
@@ -2837,6 +2921,10 @@
   {
     "name": "RSStoTweet",
     "url": "https://rsstotweet.xyz/"
+  },
+  {
+    "name": "SyncReads",
+    "url": "https://www.syncreads.com/"
   },
   {
     "name": "458",
@@ -2963,6 +3051,10 @@
     "url": "https://tagembed.com/rss-widget/"
   },
   {
+    "name": "Glance",
+    "url": "https://github.com/glanceapp/glance"
+  },
+  {
     "name": "InforBar",
     "url": "http://mitec.cz/infobar.html"
   },
@@ -3011,6 +3103,10 @@
     "url": "https://archivebox.io/"
   },
   {
+    "name": "EchoFeed",
+    "url": "https://echofeed.app/"
+  },
+  {
     "name": "Blog post workflow",
     "url": "https://github.com/marketplace/actions/blog-post-workflow"
   },
@@ -3021,6 +3117,10 @@
   {
     "name": "Readybot",
     "url": "https://readybot.io/"
+  },
+  {
+    "name": "EchoFeed",
+    "url": "https://echofeed.app/"
   },
   {
     "name": "Truepush",
@@ -3095,6 +3195,10 @@
     "url": "https://withcurated.com/"
   },
   {
+    "name": "EpubKit",
+    "url": "https://epubkit.app/"
+  },
+  {
     "name": "RSSPush",
     "url": "https://github.com/easychen/rsspush"
   },
@@ -3111,8 +3215,16 @@
     "url": "https://rss-parrot.net/"
   },
   {
+    "name": "EchoFeed",
+    "url": "https://echofeed.app/"
+  },
+  {
     "name": "therssproject",
     "url": "https://www.therssproject.com/"
+  },
+  {
+    "name": "EchoFeed",
+    "url": "https://echofeed.app/"
   },
   {
     "name": "POD GENIE",
@@ -3129,6 +3241,10 @@
   {
     "name": "rss-tools",
     "url": "https://adulau.github.io/rss-tools/"
+  },
+  {
+    "name": "RSSBrew",
+    "url": "https://github.com/yinan-c/RSSBrew"
   },
   {
     "name": "Full-Text RSS",
@@ -3333,6 +3449,10 @@
   {
     "name": "rerss",
     "url": "https://rerss.xyz/"
+  },
+  {
+    "name": "ReFeed.to",
+    "url": "https://refeed.to/"
   },
   {
     "name": "tategaki.de",
@@ -3573,6 +3693,10 @@
   {
     "name": "Little Outliner",
     "url": "http://littleoutliner.com/"
+  },
+  {
+    "name": "opml-editor",
+    "url": "https://opml.imadij.com/"
   },
   {
     "name": "上下闻",
@@ -3816,6 +3940,10 @@
     "url": "https://www.buzzing.cc/"
   },
   {
+    "name": "MoreRSS",
+    "url": "https://morerss.com/index.php"
+  },
+  {
     "name": "中文独立博客列表",
     "url": "https://github.com/timqian/chinese-independent-blogs"
   },
@@ -3892,6 +4020,10 @@
     "url": "https://firewood.news/"
   },
   {
+    "name": "Blog of the .Day",
+    "url": "https://blogofthe.day/"
+  },
+  {
     "name": "Nobelium",
     "url": "https://github.com/craigary/nobelium"
   },
@@ -3966,6 +4098,10 @@
   {
     "name": "microblogpub",
     "url": "https://microblog.pub/"
+  },
+  {
+    "name": "Blog friend circle",
+    "url": "https://github.com/prinsss/blog-friend-circle/"
   },
   {
     "name": "waifu!d for aria2",
@@ -4501,6 +4637,10 @@
     "url": "https://feedbin.com/airshow"
   },
   {
+    "name": "Pods",
+    "url": "https://x.com/Enter_Apps/status/1768669206826926292"
+  },
+  {
     "name": "中文独立播客",
     "url": "https://typlog.com/podlist/"
   },
@@ -4585,6 +4725,10 @@
     "url": "https://recastthis.com/"
   },
   {
+    "name": "PodcastAP",
+    "url": "https://podcastap.com/"
+  },
+  {
     "name": "PodNoms",
     "url": "https://www.podnoms.com/"
   },
@@ -4599,6 +4743,10 @@
   {
     "name": "Podsync",
     "url": "https://github.com/mxpv/podsync"
+  },
+  {
+    "name": "TwitchPOD",
+    "url": "https://twitchpod.tv/"
   },
   {
     "name": "HEADLINER",
@@ -4783,10 +4931,6 @@
   {
     "name": "Donators from Gitcoin",
     "url": "https://gitcoin.co/grants/5980/about-rss?tab=contributions"
-  },
-  {
-    "name": "Follow",
-    "url": "https://x.com/follow_app_"
   },
   {
     "name": "@spianslabs",

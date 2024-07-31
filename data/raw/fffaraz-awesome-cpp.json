@@ -3804,6 +3804,11 @@
     "description": "A C++11 library for reflection. [MIT] website"
   },
   {
+    "name": "simple_enum",
+    "url": "https://github.com/arturbac/simple_enum",
+    "description": "An Fast, Intuitive and Type-Safe C++ Enumeration Support Library. [BSL-1.0] website"
+  },
+  {
     "name": "TSMP",
     "url": "https://github.com/fabian-jung/tsmp",
     "description": "An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. [MIT]"

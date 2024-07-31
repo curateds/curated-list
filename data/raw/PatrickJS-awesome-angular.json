@@ -623,7 +623,7 @@
   {
     "name": "Certificates.dev",
     "url": "https://certificates.dev/angular",
-    "description": "Obtain your Certification of Competence as an Angular Developer. Launches July 30."
+    "description": "Obtain your Certification of Competence as an Angular Developer."
   },
   {
     "name": "Angular Academy CA",
@@ -1927,6 +1927,23 @@
     "description": "An opinionated full-stack starting point for building a web app, using Angular and Firebase."
   },
   {
+    "name": "berry-free-angular-admin-template",
+    "url": "https://github.com/codedthemes/berry-free-angular-admin-template",
+    "description": "Berry is a free angular admin dashboard template built with Angular and latest Bootstrap 5. It is meant to provide the best possible User Experience with highly customizable feature-rich pages."
+  },
+  {
+    "name": "mantis-free-angular-admin-template",
+    "url": "https://github.com/codedthemes/mantis-free-angular-admin-template"
+  },
+  {
+    "name": "gradient-able-free-admin-template",
+    "url": "https://github.com/codedthemes/gradient-able-free-admin-template"
+  },
+  {
+    "name": "datta-able-free-angular-admin-template",
+    "url": "https://github.com/codedthemes/datta-able-free-angular-admin-template"
+  },
+  {
     "name": "Nzoni",
     "url": "https://nzoni.app/",
     "description": "Launch your SAAS in days with Angular."
@@ -3209,6 +3226,11 @@
     "description": "This library empowers developers to seamlessly integrate custom logging solutions tailored to their specific requirements, enabling efficient debugging, monitoring, and analytics."
   },
   {
+    "name": "pretty-html-log",
+    "url": "https://github.com/angular-extensions/pretty-html-log",
+    "description": "A module that allows you to pretty print the inner HTML of ComponentFixtures, DebugElements, NativeElements or even plain HTML strings to the console. This is very useful for debugging Angular component tests in Jest."
+  },
+  {
     "name": "angular-cesium",
     "url": "https://github.com/TGFTech/angular-cesium",
     "description": "Creating map based web apps using Cesium and Angular."
@@ -4051,6 +4073,11 @@
     "name": "ngx-doc-viewer",
     "url": "https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer",
     "description": "This component can be used to show several different document types in an Angular app."
+  },
+  {
+    "name": "ngx-treeview2",
+    "url": "https://github.com/TapBeep/ngx-treeview2",
+    "description": "An Angular treeview component with checkbox."
   },
   {
     "name": "ngx-countdown",
