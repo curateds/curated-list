@@ -1870,11 +1870,6 @@
     "description": "Authoritative/recursive DNS server with ad blocking functionality. (Source Code) GPL-3.0 Docker/C#"
   },
   {
-    "name": "DOCAT",
-    "url": "https://github.com/docat-org/docat",
-    "description": "Host your docs. Simple. Versioned. Fancy. MIT Python/Docker"
-  },
-  {
     "name": "DocKing",
     "url": "https://docking.shipsaas.tech",
     "description": "Document management service/microservice that handles templates and renders them in PDF format, all in one place. (Demo, Source Code) MIT PHP/Nodejs/Docker"
@@ -3320,11 +3315,6 @@
     "description": "Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. (Source Code) GPL-3.0 C"
   },
   {
-    "name": "SheetAble",
-    "url": "https://sheetable.net",
-    "description": "Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. (Source Code) AGPL-3.0 Docker/Go"
-  },
-  {
     "name": "Stash",
     "url": "https://stashapp.cc",
     "description": "A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. (Source Code) AGPL-3.0 Docker/Go"
@@ -3503,6 +3493,11 @@
     "name": "Digiwords",
     "url": "https://ladigitale.dev/digiwords/",
     "description": "A simple online application for creating word clouds (documentation in French). (Source Code) AGPL-3.0 Nodejs/PHP"
+  },
+  {
+    "name": "DOCAT",
+    "url": "https://github.com/docat-org/docat",
+    "description": "Host your docs. Simple. Versioned. Fancy. MIT Python/Docker"
   },
   {
     "name": "DomainMOD",
@@ -4050,11 +4045,6 @@
     "description": "Password manager with webapp, browser extension, and mobile app. (Source Code) AGPL-3.0 Docker/C#"
   },
   {
-    "name": "Laravel Simple Password Manager",
-    "url": "https://github.com/milenmk/Laravel-Simple-Password-Manager",
-    "description": "Simple Password manager. GPL-3.0 PHP"
-  },
-  {
     "name": "Padloc",
     "url": "https://padloc.app/",
     "description": "A modern, open source password manager for individuals and teams. (Source Code) GPL-3.0 Nodejs"
@@ -4105,11 +4095,6 @@
     "description": "Simple pastebin with multiple text and code option, with short url result easy to remember. (Source Code) MIT Docker/Django"
   },
   {
-    "name": "Drift",
-    "url": "https://github.com/MaxLeiter/drift",
-    "description": "Self-hosted Github Gist clone. (Demo) MIT Nodejs"
-  },
-  {
     "name": "ExBin",
     "url": "https://github.com/m1dnight/exbin",
     "description": "A pastebin with public/private snippets and netcat server. MIT Docker"
@@ -4123,11 +4108,6 @@
     "name": "Hemmelig",
     "url": "https://hemmelig.app",
     "description": "Share encrypted secrets cross organizations, or as private persons. (Source Code) MIT Docker/Nodejs"
-  },
-  {
-    "name": "MicroBin",
-    "url": "https://github.com/szabodanika/microbin",
-    "description": "Simple, performant, configurable, entirely self-contained pastebin and URL shortener. BSD-3-Clause Rust/Docker"
   },
   {
     "name": "Opengist",
@@ -4648,11 +4628,6 @@
     "name": "Fess",
     "url": "https://fess.codelibs.org/",
     "description": "Fess is a very powerful and easily deployable Enterprise Search Server. (Demo, Source Code) Apache-2.0 Java/Docker"
-  },
-  {
-    "name": "Hound",
-    "url": "https://github.com/hound-search/hound",
-    "description": "Lightning fast code searching made easy. MIT Go/Docker"
   },
   {
     "name": "Jina",

@@ -20,11 +20,6 @@
     "description": "A Userspace WireGuard VPN Implementation"
   },
   {
-    "name": "datafusion",
-    "url": "https://github.com/apache/datafusion",
-    "description": "Apache Arrow DataFusion and Ballista query engines"
-  },
-  {
     "name": "defguard",
     "url": "https://github.com/defguard/defguard",
     "description": "Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA"
@@ -1736,6 +1731,11 @@
     "name": "guoxbin/dtool",
     "url": "https://github.com/guoxbin/dtool",
     "description": "A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc."
+  },
+  {
+    "name": "Linus-Mussmaecher/rucola",
+    "url": "https://github.com/Linus-Mussmaecher/rucola",
+    "description": "Terminal-based markdown note manager."
   },
   {
     "name": "Mobslide",
@@ -4111,6 +4111,11 @@
     "name": "bluss/ndarray",
     "url": "https://github.com/rust-ndarray/ndarray",
     "description": "N-dimensional array with array views, multidimensional slicing, and efficient operations"
+  },
+  {
+    "name": "datafusion",
+    "url": "https://github.com/apache/datafusion",
+    "description": "DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format."
   },
   {
     "name": "kernelmachine/utah",
