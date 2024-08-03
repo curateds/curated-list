@@ -606,6 +606,11 @@
     "description": "An oh-my-zsh plugin to help remembering those aliases you defined once."
   },
   {
+    "name": "allclear",
+    "url": "https://github.com/givensuman/zsh-allclear",
+    "description": "Clears the terminal when you cd into $HOME."
+  },
+  {
     "name": "allergen",
     "url": "https://github.com/stanislas/allergen",
     "description": "A collection of custom ZSH plugins to use with Antigen."
@@ -2446,6 +2451,11 @@
     "description": "Stores your history in an SQLite database. Can be integrated with zsh-autosuggestions."
   },
   {
+    "name": "historikeeper",
+    "url": "https://github.com/stiliajohny/historikeeper",
+    "description": "Captures history in a database."
+  },
+  {
     "name": "history-enquirer",
     "url": "https://github.com/zthxxx/zsh-history-enquirer",
     "description": "Enhances history search with more interaction and a multiline selection menu. Requires Node.js."
@@ -3044,6 +3054,11 @@
     "name": "mylocation",
     "url": "https://github.com/fALKENdk/mylocation",
     "description": "A plugin to show your current location based on your IP address."
+  },
+  {
+    "name": "myservice",
+    "url": "https://github.com/jarlor/zsh-myservice",
+    "description": "Designed to help you manage custom systemd services and Docker containers more conveniently. This plugin provides user-friendly commands to list and check the status of your custom services and Docker containers straight from your command line."
   },
   {
     "name": "mysql-colorize",
@@ -6342,7 +6357,12 @@
     "description": "Inspired by agnoster, written in Rust. Includes git status, user@host, last command exit status and working directory decorations"
   },
   {
-    "name": "aloy",
+    "name": "aloy (garethclews)",
+    "url": "https://github.com/garethclews/aloy",
+    "description": "Fork of @elenapan's lena theme. Includes magic enter from subnixr's minimal where hitting enter without any further commands prints out some useful ls, git and current working directory information."
+  },
+  {
+    "name": "aloy (karetsu)",
     "url": "https://github.com/karetsu/aloy",
     "description": "Fork of @elenapan's lena ZSH theme. extended to give a little more information in it. It also includes the 'magic enter' from subnixr's minimal where hitting enter without any further commands prints out some useful ls, git and current working directory information."
   },
@@ -6719,7 +6739,7 @@
   {
     "name": "boban",
     "url": "https://github.com/TheEdgeOfRage/boban-zsh",
-    "description": "A powerline-style file based on Agnoster. Includes decorators for user@hostname, git status, current working directory, python venv, AWS profile, $KUBECONFIG, the terraform workspace and the exit status of the last command run. Requires a Nerd Font."
+    "description": "A powerline-style file based on Agnoster. Includes decorators for user@hostname, git status, current working directory, python venv, AWS profile, $KUBECONFIG, the terraform workspace and the exit status of the last command run. Requires a Nerd Font for symbols to render properly."
   },
   {
     "name": "bogo",
@@ -9865,6 +9885,11 @@
     "description": "A risto inspired ZSH theme with a lolcat like rainbow effect."
   },
   {
+    "name": "ritz",
+    "url": "https://github.com/Ritzier/ritz.zsh-theme",
+    "description": "Includes decorators for time, current directory, git status, exit status and time used for last command run."
+  },
+  {
     "name": "river-dreams",
     "url": "https://github.com/skippyr/river-dreams",
     "description": "Includes decorators for git information, machine's IP address, time, disk usage on /, current Python venv, current directory, root status, and the last command's exit status."
@@ -10383,6 +10408,11 @@
     "name": "spaceship",
     "url": "https://github.com/denysdovhan/spaceship-prompt",
     "description": "Theme with git, nvm, rvm/rbenv/chruby, python, ssh and other useful status decorators."
+  },
+  {
+    "name": "spectere",
+    "url": "https://github.com/Spectere/spectere-omz-theme",
+    "description": "Powerline-esque. Includes decorators for current directory, root status, and git status."
   },
   {
     "name": "spowerline",
