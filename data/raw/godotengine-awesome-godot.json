@@ -650,6 +650,11 @@
     "description": "Scene loader that includes a loading screen, progress bar, and error handling."
   },
   {
+    "name": "PixelPen",
+    "url": "https://github.com/pixelpen-dev/pixelpen",
+    "description": "Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor."
+  },
+  {
     "name": "AntialiasedLine2D",
     "url": "https://github.com/godot-extended-libraries/godot-antialiased-line2d",
     "description": "Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms)."

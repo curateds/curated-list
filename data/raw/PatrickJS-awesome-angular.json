@@ -1127,6 +1127,11 @@
     "description": "An unofficial project that aims to provide a seamless integration of Clerk features into Angular applications."
   },
   {
+    "name": "ng-supabase",
+    "url": "https://github.com/rustygreen/ng-supabase",
+    "description": "An Angular component library for your Supabase project!"
+  },
+  {
     "name": "Webpack",
     "url": "https://webpack.js.org"
   },
@@ -1273,6 +1278,10 @@
     "description": "The easiest way to write and host a serverless application."
   },
   {
+    "name": "Cloudflare Pages",
+    "url": "https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3"
+  },
+  {
     "name": "StackBlitz",
     "url": "https://stackblitz.com",
     "description": "Instant Dev Environments."
@@ -1405,11 +1414,6 @@
     "name": "generator-jhipster-ionic",
     "url": "https://github.com/jhipster/generator-jhipster-ionic",
     "description": "You can use it to generate an Ionic app that talks to a JHipster backend."
-  },
-  {
-    "name": "angularx-qrcode",
-    "url": "https://github.com/cordobo/angularx-qrcode",
-    "description": "A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library."
   },
   {
     "name": "create-tauri-app",
@@ -1705,6 +1709,11 @@
     "name": "i18n-ally",
     "url": "https://github.com/lokalise/i18n-ally",
     "description": "All in one i18n extension for VS Code."
+  },
+  {
+    "name": "ngx-translate-router",
+    "url": "https://github.com/gilsdav/ngx-translate-router",
+    "description": "Translate routes using ngx-translate."
   },
   {
     "name": "Angular Security",
@@ -2349,6 +2358,11 @@
     "description": "Material design event calendar."
   },
   {
+    "name": "angular-calendar-timeline",
+    "url": "https://github.com/oOps1627/angular-calendar-timeline",
+    "description": "A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR."
+  },
+  {
     "name": "ngu-carousel",
     "url": "https://github.com/uiuniversal/ngu-carousel",
     "description": "Angular Universal carousel."
@@ -2738,6 +2752,11 @@
     "description": "Angular bindings for tiptap v2."
   },
   {
+    "name": "tinymce-angular",
+    "url": "https://github.com/tinymce/tinymce-angular",
+    "description": "Official TinyMCE Angular Component."
+  },
+  {
     "name": "ng2-file-upload",
     "url": "https://github.com/valor-software/ng2-file-upload",
     "description": "Easy to use file upload directives."
@@ -2906,6 +2925,11 @@
     "name": "angular-iban",
     "url": "https://github.com/fundsaccess/angular-iban",
     "description": "IBAN directives and pipes for Angular."
+  },
+  {
+    "name": "ngx-autosize-input",
+    "url": "https://github.com/joshuawwright/ngx-autosize-input",
+    "description": "An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width."
   },
   {
     "name": "ngx-valdemort",
@@ -3507,6 +3531,31 @@
     "description": "A Simple Notification Service for Angular applications."
   },
   {
+    "name": "ng-qrcode",
+    "url": "https://github.com/mnahkies/ng-qrcode",
+    "description": "Easy to use AOT compatible QR code generator for Angular projects."
+  },
+  {
+    "name": "angularx-qrcode",
+    "url": "https://github.com/cordobo/angularx-qrcode",
+    "description": "A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library."
+  },
+  {
+    "name": "dfts-qrcode",
+    "url": "https://github.com/Dafnik/dfts-common/tree/main/libs/dfts-qrcode",
+    "description": "A tiny and simple-to-use JavaScript / TypeScript QR-Code generator library. Fully type-safe and ES modules compatible."
+  },
+  {
+    "name": "ngx-scanner",
+    "url": "https://github.com/zxing-js/ngx-scanner",
+    "description": "Angular QR code, Barcode, DataMatrix, scanner component using ZXing."
+  },
+  {
+    "name": "qrcode.angular",
+    "url": "https://github.com/OriginRing/qrcode.angular",
+    "description": "QR Code implementation based on Angular."
+  },
+  {
     "name": "ngx-ui-scroll",
     "url": "https://github.com/dhilt/ngx-ui-scroll",
     "description": "Virtual/infinite scroll for Angular."
@@ -3565,11 +3614,6 @@
     "name": "universal-model-angular",
     "url": "https://github.com/universal-model/universal-model-angular",
     "description": "Store and state management for Angular."
-  },
-  {
-    "name": "akita",
-    "url": "https://github.com/salesforce/akita",
-    "description": "A Reactive State Management Tailored-Made for JS Applications."
   },
   {
     "name": "ng-simple-state",

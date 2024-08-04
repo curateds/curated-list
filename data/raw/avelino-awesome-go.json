@@ -6812,6 +6812,11 @@
     "description": "Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use."
   },
   {
+    "name": "net",
+    "url": "https://golang.org/x/net",
+    "description": "This repository holds supplementary Go networking libraries."
+  },
+  {
     "name": "netpoll",
     "url": "https://github.com/cloudwego/netpoll",
     "description": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance."
@@ -7850,6 +7855,11 @@
     "name": "go-codec",
     "url": "https://github.com/ugorji/go",
     "description": "High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support."
+  },
+  {
+    "name": "go-csvlib",
+    "url": "https://github.com/tiendc/go-csvlib",
+    "description": "High level and rich functionalities CSV serialization/deserialization library."
   },
   {
     "name": "go-lctree",

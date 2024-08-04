@@ -2165,6 +2165,11 @@
     "description": "SPI - Graphical OLED display controller -"
   },
   {
+    "name": "SSD1322_rs",
+    "url": "https://crates.io/crates/ssd1322_rs",
+    "description": "SPI - Async graphics driver for SSD1322 screen -"
+  },
+  {
     "name": "SSD1351",
     "url": "https://crates.io/crates/ssd1351",
     "description": "SPI - 16bit colour OLED display driver -"
