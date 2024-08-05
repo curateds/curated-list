@@ -819,11 +819,6 @@
     "description": "Fully managed PostgreSQL databases. No free plan. Starting at $15/mo. Daily backups with point-in-time recovery. Standby nodes with auto-failover."
   },
   {
-    "name": "ElephantSQL",
-    "url": "https://www.elephantsql.com/",
-    "description": "Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each."
-  },
-  {
     "name": "Google Cloud SQL for PostgreSQL",
     "url": "https://cloud.google.com/sql/docs/postgres/",
     "description": "Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform."

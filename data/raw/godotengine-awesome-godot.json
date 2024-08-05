@@ -435,6 +435,11 @@
     "description": "Simplest way to implement grid-based 2D camera movement (Godot 3.x)."
   },
   {
+    "name": "CReverter (Composite Reverter)",
+    "url": "https://codeberg.org/svetogam/creverter",
+    "description": "Memento-based undo/redo utility that supports composition (Godot 4.x)."
+  },
+  {
     "name": "CRT Shader",
     "url": "https://github.com/hiulit/Godot-3-2D-CRT-Shader",
     "description": "A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x)."
@@ -623,6 +628,11 @@
     "name": "AnimatedShape2D",
     "url": "https://github.com/Goutte/godot-addon-animated-shape-2d",
     "description": "Animate a CollisionShape2D along with the frames of an AnimatedSprite2D."
+  },
+  {
+    "name": "CSLocator (Contextual Service Locator)",
+    "url": "https://codeberg.org/svetogam/cslocator",
+    "description": "Provides a clean interface to register and find objects through the scene tree like localized singletons."
   },
   {
     "name": "Godot Google Play Game Services",

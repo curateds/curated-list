@@ -242,6 +242,11 @@
     "description": "Color quantization and dithering library with extra image filters (blur, invert, etc)."
   },
   {
+    "name": "duckduckgo-ai-chat",
+    "url": "https://github.com/mumu-lhl/duckduckgo-ai-chat",
+    "description": "Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free."
+  },
+  {
     "name": "sentry_deno",
     "url": "https://github.com/GJZwiers/sentry_deno",
     "description": "Unofficial port of the Sentry SDK for JavaScript to Deno."
@@ -1290,10 +1295,6 @@
   {
     "name": "0",
     "url": "https://www.robinwieruch.de/deno-tutorial"
-  },
-  {
-    "name": "Dissecting Deno",
-    "url": "https://fettblog.eu/dissecting-deno/"
   },
   {
     "name": "Getting Started with Deno",

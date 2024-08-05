@@ -520,6 +520,11 @@
     "description": "This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion."
   },
   {
+    "name": "milanglacier/minuet-ai.nvim",
+    "url": "https://github.com/milanglacier/minuet-ai.nvim",
+    "description": "Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."
