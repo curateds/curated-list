@@ -1140,11 +1140,6 @@
     "url": "https://esbuild.github.io/"
   },
   {
-    "name": "Nx",
-    "url": "https://github.com/nrwl/nx",
-    "description": "Smart Monorepos · Fast CI."
-  },
-  {
     "name": "Angular Builders",
     "url": "https://github.com/just-jeb/angular-builders",
     "description": "This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade."
@@ -1716,6 +1711,21 @@
     "description": "Translate routes using ngx-translate."
   },
   {
+    "name": "Nx",
+    "url": "https://github.com/nrwl/nx",
+    "description": "Nx is a build system with built-in tooling and advanced CI capabilities. It helps you maintain and scale monorepos, both locally and on CI."
+  },
+  {
+    "name": "Turbo",
+    "url": "https://github.com/vercel/turbo",
+    "description": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo."
+  },
+  {
+    "name": "Moon",
+    "url": "https://moonrepo.dev/docs/guides/examples/angular",
+    "description": "A build system and monorepo management tool for the web ecosystem, written in Rust."
+  },
+  {
     "name": "Angular Security",
     "url": "https://angular.dev/best-practices/security",
     "description": "Best Practices"
@@ -1792,6 +1802,11 @@
     "name": "analogjs",
     "url": "https://analogjs.org/",
     "description": "Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications."
+  },
+  {
+    "name": "ngx-ssr-code-remover",
+    "url": "https://github.com/xsip/ngx-ssr-code-remover",
+    "description": "Post processor to remove SSR Code from bundles when served."
   },
   {
     "name": "ngx-admin",
@@ -2498,6 +2513,16 @@
     "description": "Angular flow diagram library."
   },
   {
+    "name": "highcharts-angular",
+    "url": "https://github.com/highcharts/highcharts-angular",
+    "description": "Official minimal Highcharts integration for Angular."
+  },
+  {
+    "name": "angular-highcharts",
+    "url": "https://github.com/cebor/angular-highcharts",
+    "description": "Highcharts directive for Angular."
+  },
+  {
     "name": "ngx-date-fns",
     "url": "https://github.com/joanllenas/ngx-date-fns",
     "description": "date-fns pipes for Angular."
@@ -3114,6 +3139,11 @@
     "name": "cloudinary",
     "url": "https://cloudinary.com/documentation/angular_integration",
     "description": "Angular SDK from Cloudinary."
+  },
+  {
+    "name": "img-comparison-slider",
+    "url": "https://github.com/sneas/img-comparison-slider",
+    "description": "Image comparison slider. Compare images before and after. Supports React, Vue, and Angular."
   },
   {
     "name": "ngx-focus-control",
@@ -4001,6 +4031,11 @@
     "description": "Provides a collection of reusable UI components, each crafted with attention to detail and performance."
   },
   {
+    "name": "ng-vcl",
+    "url": "https://github.com/vcl/ng-vcl",
+    "description": "Angular VCL ‒ an Angular component library based on the VCL CSS eco system."
+  },
+  {
     "name": "MDBootstrap",
     "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
     "description": "Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation."
@@ -4358,6 +4393,11 @@
     "name": "Ionic Start",
     "url": "https://ionicstart.com/",
     "description": "Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular."
+  },
+  {
+    "name": "awesome-cordova-plugins",
+    "url": "https://github.com/danielsogl/awesome-cordova-plugins",
+    "description": "Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support."
   },
   {
     "name": "ngrx",

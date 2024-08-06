@@ -1174,11 +1174,6 @@
     "description": "Precision Agriculture, 2020. [All Versions]. This paper proposes a domain-specific language framework for the design and development of precision-agriculture FMISs, which copes with challenges on supporting the understandability, enhancing communication and analysis of the design decisions, and the communication among stakeholders."
   },
   {
-    "name": "Scenic: a language for scenario specification and data generation",
-    "url": "https://link.springer.com/article/10.1007/s10994-021-06120-5",
-    "description": "Machine Learning, 2022. [All Versions]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario."
-  },
-  {
     "name": "Infinite Photorealistic Worlds Using Procedural Generation",
     "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Raistrick_Infinite_Photorealistic_Worlds_Using_Procedural_Generation_CVPR_2023_paper.html",
     "description": "CVPR'23, 2023. [All Versions]. [Website]. [Supplementary Text]. This paper introduces Infinigen, a procedural generator of photorealistic 3D scenes of the natural world. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules, using no external source and allowing infinite variation and composition."
@@ -1207,6 +1202,11 @@
     "name": "OpenLaw",
     "url": "https://docs.openlaw.io/",
     "description": "OpenLaw.io. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation \"smart\" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications."
+  },
+  {
+    "name": "Scenic: a language for scenario specification and data generation",
+    "url": "https://link.springer.com/article/10.1007/s10994-021-06120-5",
+    "description": "Machine Learning, 2022. [All Versions]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario."
   },
   {
     "name": "Domain Specific Language for Smart Contract Development",
@@ -2852,6 +2852,11 @@
     "name": "BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology",
     "url": "https://aclanthology.org/2023.emnlp-main.162/",
     "description": "EMNLP'23, 2023. [All Versions]. This paper presents an automatic evaluation framework for the task of planning experimental protocols, and introduces BioProt: a dataset of biology protocols with corresponding pseudocode representations."
+  },
+  {
+    "name": "A human-machine interface for automatic exploration of chemical reaction networks",
+    "url": "https://www.nature.com/articles/s41467-024-47997-9",
+    "description": "Nature Communications, 2024. [All Versions]. Autonomous reaction network exploration algorithms offer a systematic approach to explore mechanisms of complex chemical processes. However, the resulting reaction networks are so vast that an exploration of all potentially accessible intermediates is computationally too demanding. This paper introduces a STEERING WHEEL to guide an otherwise unbiased automated exploration. The STEERING WHEEL algorithm is intuitive, generally applicable, and enables one to focus on specific regions of an emerging network. It also allows for guiding automated data generation in the context of mechanism exploration, catalyst design, and other chemical optimization challenges."
   },
   {
     "name": "ChipNeMo: Domain-Adapted LLMs for Chip Design",
