@@ -1660,6 +1660,11 @@
     "description": "A simple and fast CSV parsing and dumping library for Elixir."
   },
   {
+    "name": "plox",
+    "url": "https://github.com/gridpoint-com/plox",
+    "description": "Server-side rendered SVG graphing components for Phoenix and LiveView."
+  },
+  {
     "name": "block_timer",
     "url": "https://github.com/adamkittelson/block_timer",
     "description": "Macros to use :timer.apply_after and :timer.apply_interval with a block."
@@ -3845,6 +3850,11 @@
     "description": "An Elixir library for defining structs with a type without writing boilerplate code."
   },
   {
+    "name": "typed_structor",
+    "url": "https://github.com/elixir-typed-structor/typed_structor",
+    "description": "A library for defining structs with types effortlessly."
+  },
+  {
     "name": "unsafe",
     "url": "https://github.com/whitfin/unsafe",
     "description": "Generate easy unsafe (!) bindings for Elixir functions."
@@ -4523,6 +4533,11 @@
     "name": "ecto_validation_case",
     "url": "https://github.com/danielberkompas/ecto_validation_case",
     "description": "Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler."
+  },
+  {
+    "name": "ecto_watch",
+    "url": "https://github.com/cheerfulstoic/ecto_watch",
+    "description": "Allows you to easily get notifications about database changes directly from PostgreSQL."
   },
   {
     "name": "ectophile",

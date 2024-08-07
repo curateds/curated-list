@@ -345,6 +345,11 @@
     "description": "Hosted binary cache service; free for open-source projects."
   },
   {
+    "name": "compose2nix",
+    "url": "https://github.com/aksiksi/compose2nix",
+    "description": "Generate a NixOS config from a Docker Compose project."
+  },
+  {
     "name": "Devbox",
     "url": "https://github.com/jetpack-io/devbox",
     "description": "Instant, portable, and predictable development environments."
@@ -708,6 +713,11 @@
     "name": "nix-bitcoin",
     "url": "https://github.com/fort-nix/nix-bitcoin",
     "description": "Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security."
+  },
+  {
+    "name": "nix-mineral",
+    "url": "https://github.com/cynicsketch/nix-mineral",
+    "description": "Conveniently and reasonably harden NixOS."
   },
   {
     "name": "nix-topology",
