@@ -384,6 +384,11 @@
     "description": "The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition."
   },
   {
+    "name": "RLtools",
+    "url": "https://github.com/rl-tools/rl-tools",
+    "description": "The fastest deep reinforcement learning library for continuous control, implemented header-only in pure, dependency-free C++ (Python bindings available as well)."
+  },
+  {
     "name": "mgl",
     "url": "https://github.com/melisgl/mgl/",
     "description": "Neural networks (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes."
@@ -3617,6 +3622,10 @@
   {
     "name": "CometML",
     "url": "https://github.com/comet-ml/comet-examples"
+  },
+  {
+    "name": "Okrolearn",
+    "url": "https://github.com/Okerew/okrolearn"
   },
   {
     "name": "DataComPy",

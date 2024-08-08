@@ -635,6 +635,11 @@
     "description": "Provides a clean interface to register and find objects through the scene tree like localized singletons."
   },
   {
+    "name": "Dialogue Engine",
+    "url": "https://github.com/Rubonnek/dialogue-engine",
+    "description": "Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging."
+  },
+  {
     "name": "Godot Google Play Game Services",
     "url": "https://github.com/Iakobs/godot-play-game-services",
     "description": "Integrate Google Play Games Services in your Godot game."
