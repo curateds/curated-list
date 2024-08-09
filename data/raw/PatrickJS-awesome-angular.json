@@ -1491,6 +1491,11 @@
     "description": "Updated fork of ngx-http-rest, which allows you to interact with rest api in your Angular app through annotations."
   },
   {
+    "name": "ng-http-loader",
+    "url": "https://github.com/mpalourdio/ng-http-loader",
+    "description": "Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar."
+  },
+  {
     "name": "ckeditor5-angular",
     "url": "https://github.com/ckeditor/ckeditor5-angular",
     "description": "An official CKEditor 5 rich text editor component for Angular 2+."
@@ -1714,6 +1719,11 @@
     "name": "ngx-translate-router",
     "url": "https://github.com/gilsdav/ngx-translate-router",
     "description": "Translate routes using ngx-translate."
+  },
+  {
+    "name": "intl-tel-input-ng",
+    "url": "https://github.com/mpalourdio/intl-tel-input-ng",
+    "description": "An Angular component to easily integrate intl-tel-input."
   },
   {
     "name": "Nx",
@@ -3149,6 +3159,11 @@
     "name": "img-comparison-slider",
     "url": "https://github.com/sneas/img-comparison-slider",
     "description": "Image comparison slider. Compare images before and after. Supports React, Vue, and Angular."
+  },
+  {
+    "name": "@unpic/angular",
+    "url": "https://unpic.pics/img/angular/",
+    "description": "Angular directive for responsive, high-performance images. Generates a responsive <img> tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step."
   },
   {
     "name": "ngx-focus-control",

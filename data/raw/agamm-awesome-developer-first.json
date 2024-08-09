@@ -917,7 +917,7 @@
   {
     "name": "browserless",
     "url": "https://browserless.io",
-    "description": "Browser automation deployed to the could."
+    "description": "Browser automation deployed to the cloud."
   },
   {
     "name": "Crawlbase",
@@ -943,6 +943,11 @@
     "name": "SerpApi",
     "url": "https://serpapi.com/",
     "description": "Real-time search engine scraping API."
+  },
+  {
+    "name": "ZenRows",
+    "url": "https://www.zenrows.com/",
+    "description": "Web scraping API with built-in proxies and rotating IPs to avoid detection."
   },
   {
     "name": "Algolia",

@@ -700,6 +700,11 @@
     "description": "A NeoVim distribution built with Nix modules and Nixpkgs."
   },
   {
+    "name": "Self Host Blocks",
+    "url": "https://github.com/ibizaman/selfhostblocks",
+    "description": "Modular server management based on NixOS modules and focused on best practices."
+  },
+  {
     "name": "Simple Nixos Mailserver",
     "url": "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver",
     "description": "A complete mailserver, managed with NixOS modules."

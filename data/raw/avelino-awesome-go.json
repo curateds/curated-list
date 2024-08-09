@@ -3748,6 +3748,11 @@
     "description": "dead simple 2D game engine in Go."
   },
   {
+    "name": "ecs",
+    "url": "https://github.com/andygeiss/ecs",
+    "description": "Build your own Game-Engine based on the Entity Component System concept in Golang."
+  },
+  {
     "name": "engo",
     "url": "https://github.com/EngoEngine/engo",
     "description": "Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm."
@@ -10455,6 +10460,11 @@
     "name": "checkdigit",
     "url": "https://github.com/osamingo/checkdigit",
     "description": "Provide check digit algorithms (Luhn, Verhoeff, Damm) and calculators (ISBN, EAN, JAN, UPC, etc.)."
+  },
+  {
+    "name": "go-validator",
+    "url": "https://github.com/tiendc/go-validator",
+    "description": "Validation library using Generics."
   },
   {
     "name": "gody",
