@@ -303,5 +303,10 @@
     "name": "GenePT",
     "url": "https://github.com/yiqunchen/GenePT",
     "description": "foundation LLM for single cell data"
+  },
+  {
+    "name": "scPRINT",
+    "url": "https://github.com/cantinilab/scPRINT",
+    "description": "scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile."
   }
 ]

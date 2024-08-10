@@ -2280,6 +2280,11 @@
     "description": "Secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client. (Source Code) AGPL-3.0 Java"
   },
   {
+    "name": "Puter",
+    "url": "https://puter.com/",
+    "description": "Web-based operating system designed to be feature-rich, exceptionally fast, and highly extensible. (Demo, Source Code) AGPL-3.0 Nodejs/Docker"
+  },
+  {
     "name": "Pydio",
     "url": "https://pydio.com/",
     "description": "Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers. (Demo, Source Code) AGPL-3.0 Go"
@@ -4145,6 +4150,11 @@
     "description": "Open source on-prem code snippet manager. (Demo, Source Code) MIT Docker"
   },
   {
+    "name": "Spacebin",
+    "url": "https://spaceb.in",
+    "description": "Modern Pastebin server written in Go with a JS-free web UI and tons of features. (Demo, Source Code) Apache-2.0 Go/Docker"
+  },
+  {
     "name": "Sup3rS3cretMes5age",
     "url": "https://github.com/algolia/sup3rS3cretMes5age",
     "description": "Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. MIT Go"
@@ -4238,6 +4248,11 @@
     "name": "Organizr",
     "url": "https://github.com/causefx/Organizr",
     "description": "Organizr aims to be your one stop shop for your Servers Frontend. GPL-3.0 PHP/Docker"
+  },
+  {
+    "name": "portkey",
+    "url": "https://portkey.page",
+    "description": "A simple web portal that can act as startup page and shows a collection of links/urls. Also supports adding custom pages. Everything with one config file. (Demo, Source Code) AGPL-3.0 Go/Docker"
   },
   {
     "name": "ryot",
@@ -5433,6 +5448,16 @@
     "name": "SentryShot",
     "url": "https://codeberg.org/SentryShot/sentryshot",
     "description": "Video surveillance management system. GPL-2.0 Docker/Rust"
+  },
+  {
+    "name": "Viseron",
+    "url": "https://viseron.netlify.app/",
+    "description": "Self-hosted, local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. (Source Code) MIT Docker"
+  },
+  {
+    "name": "Viseron",
+    "url": "https://viseron.netlify.app/",
+    "description": "Self-hosted, local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. (Source Code) MIT Docker"
   },
   {
     "name": "Zoneminder",

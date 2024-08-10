@@ -761,6 +761,11 @@
     "description": "Small plugin to install packages from the AUR."
   },
   {
+    "name": "auto-cenv",
+    "url": "https://github.com/mobiuscog/zsh-auto-cenv",
+    "description": "Automatically activate a conda environment when entering the project folder."
+  },
+  {
     "name": "auto-color-ls",
     "url": "https://github.com/gretzky/auto-color-ls",
     "description": "Automatically list directories with colorls."
@@ -3545,6 +3550,11 @@
     "description": "Enables poetry $PATH and autocompletions."
   },
   {
+    "name": "popman",
+    "url": "https://github.com/jdsee/popman",
+    "description": "Ever found yourself in the middle of composing a long command and needing to check a man page? Popman lets you instantly pop open a man page for any command you're typing and jump right back to where you left off, making your command-line experience smoother and more efficient."
+  },
+  {
     "name": "portal",
     "url": "https://github.com/anasouardini/portal/",
     "description": "A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using fzf. Heavily inspired by Z."
@@ -6027,11 +6037,6 @@
     "description": "Tab completions for the supabase cli"
   },
   {
-    "name": "surf",
-    "url": "https://github.com/beardcoder/surf.plugin.zsh",
-    "description": "Add completions for surf."
-  },
-  {
     "name": "symfony (Akollade)",
     "url": "https://github.com/Akollade/symfony.plugin.zsh",
     "description": "Adds completions for Symfony, including the bin/console and sf commands."
@@ -6110,6 +6115,11 @@
     "name": "web-open",
     "url": "https://github.com/AndrewHaluza/zsh-web-open",
     "description": "Adds alias to open web pages. Only works with Ubuntu 20."
+  },
+  {
+    "name": "web-search",
+    "url": "https://github.com/GowayLee/zsh_web_search",
+    "description": "Runs a search in the specified search engine in your default browser."
   },
   {
     "name": "wsl-notify",
@@ -7200,6 +7210,11 @@
     "name": "daivasmara",
     "url": "https://github.com/Daivasmara/daivasmara.zsh-theme",
     "description": "Chill theme with decorators for current directory (truncated if necessary) and git information, including time since last commit."
+  },
+  {
+    "name": "dalailahner",
+    "url": "https://github.com/dalailahner/dalailahner.zsh-theme",
+    "description": "Minimalist theme with decorators for git status, username and current directory. Based on Steve Losh's Prose theme."
   },
   {
     "name": "damino",

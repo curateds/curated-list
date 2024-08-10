@@ -465,11 +465,6 @@
     "description": "Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks."
   },
   {
-    "name": "Cyclic.sh (c)",
-    "url": "https://app.cyclic.sh/",
-    "description": "Simple serverless platform and dev tools for node.js services with Express.js support."
-  },
-  {
     "name": "Express",
     "url": "http://expressjs.com/",
     "description": "Fast, unopinionated, minimalist web framework for Node.js"
@@ -678,6 +673,11 @@
     "name": "Tower",
     "url": "https://github.com/tower-rs/tower",
     "description": "Library of modular and reusable components for building robust networking clients and servers."
+  },
+  {
+    "name": "Wtx",
+    "url": "https://github.com/c410-f3r/wtx",
+    "description": "HTTP/2 client/server framework."
   },
   {
     "name": "Awesome Micro Frontends",
@@ -1825,11 +1825,6 @@
     "description": "Headless commerce platform."
   },
   {
-    "name": "Elasticpath",
-    "url": "https://www.elasticpath.com/",
-    "description": "E-commerce microservices."
-  },
-  {
     "name": "Equinox",
     "url": "https://www.infosysequinox.com/",
     "description": "Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint."
@@ -1935,11 +1930,6 @@
     "description": "Understanding software ecosystems: a strategic modeling approach."
   },
   {
-    "name": "Service Discovery in a Microservice Architecture",
-    "url": "https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/",
-    "description": "Overview of discovery and registration patterns."
-  },
-  {
     "name": "Testing Strategies in a Microservice Architecture",
     "url": "http://martinfowler.com/articles/microservice-testing/",
     "description": "Approaches for managing the additional testing complexity of multiple independently deployable components."
@@ -1948,11 +1938,6 @@
     "name": "Your Server as a Function",
     "url": "http://monkey.org/~marius/funsrv.pdf",
     "description": "Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters."
-  },
-  {
-    "name": "Microservices - The Journey So Far and Challenges Ahead",
-    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354433",
-    "description": "The Journey So Far and Challenges Ahead 🔸PDF - Overview of the state of microservices in both industrial and academia."
   },
   {
     "name": "Cloud Native Computing Foundation",
