@@ -55,6 +55,11 @@
     "description": "Collections of drug repurposing data containing drug, moa, target etc."
   },
   {
+    "name": "Therapeutic Target Database",
+    "url": "https://idrblab.net/ttd/full-data-download",
+    "description": "collections of drug-target, target-disease, and drug-disease dataset."
+  },
+  {
     "name": "PathwayCommons",
     "url": "https://www.pathwaycommons.org/",
     "description": "Database of Pathways and Interactions."
@@ -150,11 +155,6 @@
     "description": "A dataset which contains Drug-gene interactions."
   },
   {
-    "name": "Comparative Toxicogenomics Database",
-    "url": "https://ctdbase.org/",
-    "description": "A database for drug-target interactions."
-  },
-  {
     "name": "Therapeutics Data Commons",
     "url": "https://tdcommons.ai/",
     "description": "A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction."
@@ -215,11 +215,17 @@
   },
   {
     "name": "Drug Mechanism Database (DrugMechDB)",
-    "url": "https://github.com/SuLab/DrugMechDB/tree/2.0.1"
+    "url": "https://github.com/SuLab/DrugMechDB/tree/2.0.1",
+    "description": "A library for biological knowledge graph."
   },
   {
     "name": "Drug Mechanism Database (DrugMechDB)",
     "url": "https://github.com/SuLab/DrugMechDB/tree/2.0.1"
+  },
+  {
+    "name": "DRKG",
+    "url": "https://github.com/gnn4dr/DRKG",
+    "description": "A library for biological knowledge graph."
   },
   {
     "name": "PubMed esearch",
@@ -252,12 +258,7 @@
   {
     "name": "DeepPurpose",
     "url": "https://github.com/kexinhuang12345/DeepPurpose",
-    "description": "A DL Library for Drug Repurposing and so on."
-  },
-  {
-    "name": "DRKG",
-    "url": "https://github.com/gnn4dr/DRKG",
-    "description": "A library for biological knowledge graph."
+    "description": "A DL Library for Drug Repurposing."
   },
   {
     "name": "NeoDTI",

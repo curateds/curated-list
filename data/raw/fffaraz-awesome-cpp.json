@@ -2684,6 +2684,11 @@
     "description": "JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. [Apache2]"
   },
   {
+    "name": "JSON Toolkit",
+    "url": "https://github.com/sourcemeta/jsontoolkit",
+    "description": "JSON, JSON Pointer, JSON Schema, and JSONL library for C++20. [AGPL/Commercial]"
+  },
+  {
     "name": "jute",
     "url": "https://github.com/amir-s/jute",
     "description": "Very simple C++ JSON Parser. [PublicDomain]"

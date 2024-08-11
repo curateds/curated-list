@@ -580,7 +580,12 @@
   {
     "name": "mlarouche/zigimg",
     "url": "https://github.com/mlarouche/zigimg",
-    "description": "Zig library for reading and writing different image formats."
+    "description": "Library for reading and writing different image formats."
+  },
+  {
+    "name": "bfactory-ai/zignal",
+    "url": "https://github.com/bfactory-ai/zignal",
+    "description": "Image processing library inspired by dlib."
   },
   {
     "name": "ziglibs/known-folders",

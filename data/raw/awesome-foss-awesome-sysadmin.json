@@ -1366,7 +1366,7 @@
   },
   {
     "name": "Firezone",
-    "url": "https://www.firez.one/",
+    "url": "https://www.firezone.dev/",
     "description": "WireGuard based VPN Server and Firewall. (Source Code) Apache-2.0 Docker"
   },
   {
@@ -1408,51 +1408,6 @@
     "name": "WireGuard",
     "url": "https://www.wireguard.com/",
     "description": "Very fast VPN based on elliptic curve and public key crypto. (Source Code) GPL-2.0 C"
-  },
-  {
-    "name": "Algernon",
-    "url": "https://algernon.roboticoverlords.org/",
-    "description": "Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. (Source Code) BSD-3-Clause Go"
-  },
-  {
-    "name": "Apache HTTP Server",
-    "url": "https://httpd.apache.org/",
-    "description": "Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. (Source Code) Apache-2.0 C"
-  },
-  {
-    "name": "Caddy",
-    "url": "https://caddyserver.com/",
-    "description": "Powerful, enterprise-ready, open source web server with automatic HTTPS. (Source Code) Apache-2.0 Go"
-  },
-  {
-    "name": "HAProxy",
-    "url": "https://www.haproxy.org/",
-    "description": "Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. (Source Code) GPL-2.0 C"
-  },
-  {
-    "name": "Lighttpd",
-    "url": "https://www.lighttpd.net/",
-    "description": "Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. (Source Code) BSD-3-Clause C"
-  },
-  {
-    "name": "Nginx",
-    "url": "https://nginx.org/en/",
-    "description": "HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. (Source Code) BSD-2-Clause C"
-  },
-  {
-    "name": "Static Web Server",
-    "url": "https://static-web-server.net/",
-    "description": "A cross-platform, high-performance, and asynchronous web server for static file serving. (Source Code) Apache-2.0/MIT Rust/Docker"
-  },
-  {
-    "name": "Traefik",
-    "url": "https://traefik.io/",
-    "description": "HTTP reverse proxy and load balancer that makes deploying microservices easy. (Source Code) MIT Go/Docker"
-  },
-  {
-    "name": "Varnish",
-    "url": "https://varnish-cache.org/",
-    "description": "Web application accelerator/caching HTTP reverse proxy. (Source Code) BSD-2-Clause C"
   },
   {
     "name": "GNU Affero General Public License 3.0",

@@ -7448,13 +7448,13 @@
   },
   {
     "name": "emoji",
-    "url": "https://github.com/masaakifuruki/emoji.zsh-theme",
+    "url": "https://github.com/meiokubo-zz/emoji.zsh-theme",
     "description": "Based on the robbyrussell oh-my-zsh theme with the git prompt symbols replaced with emoji for better clarity."
   },
   {
     "name": "emojirussell",
     "url": "https://github.com/Bergiu/emojirussell",
-    "description": "Based on  robbyrussell oh-my-zsh theme, with status decorations for current working directory, last command exit status, git branch and status."
+    "description": "Based on robbyrussell oh-my-zsh theme, with status decorations for current working directory, last command exit status, git branch and status."
   },
   {
     "name": "endless-dog",
@@ -7495,6 +7495,11 @@
     "name": "eucalyptus",
     "url": "https://github.com/relastle/eucalyptus",
     "description": "Simple one-line theme for minimalist vi-mode users inspired by agnoster and powerlevel9k. Includes git status indicator, vi-mode indicator, current directory and current path."
+  },
+  {
+    "name": "even-more-emojis",
+    "url": "https://github.com/odunlop/even-more-emojis",
+    "description": "Customized version of emoji which adds more emojis and more information. Includes decorators for git status, current directory and the exit status of last command."
   },
   {
     "name": "excess",
@@ -8001,11 +8006,6 @@
     "description": "Heavily based on bira, and gruvbox, which in turn is based on agnoster. Includes decorators for current directory, git status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font."
   },
   {
-    "name": "hietan",
-    "url": "https://github.com/Hietan/Hietan_ZshTheme",
-    "description": "Includes decorators for current directory, date & time, git status and the exit value of the last command run. Requires a Nerd Font."
-  },
-  {
     "name": "hexagon",
     "url": "https://github.com/diogoazevedos/hexagon",
     "description": "Minimalist ZSH theme based on geometry."
@@ -8019,6 +8019,11 @@
     "name": "hhktony",
     "url": "https://github.com/hhktony/hhktony.zsh-theme",
     "description": "Inspired by robbyrussell theme + ssh connection status prompt."
+  },
+  {
+    "name": "hietan",
+    "url": "https://github.com/Hietan/Hietan_ZshTheme",
+    "description": "Includes decorators for current directory, date & time, git status and the exit value of the last command run. Requires a Nerd Font."
   },
   {
     "name": "hijack",
@@ -8848,6 +8853,11 @@
     "name": "michaelpass",
     "url": "https://github.com/michaelpass/michaelpass.zsh-theme",
     "description": "POSIX-friendly cross-platform alanpeabody mod w/ convenient timestamps and full git/ruby support."
+  },
+  {
+    "name": "michelebira",
+    "url": "https://github.com/mortinger91/michelebira",
+    "description": "Variation of the bira theme. Includes decorators for git status, username, current directory and the return code of the last command run."
   },
   {
     "name": "midin",
@@ -10520,14 +10530,14 @@
     "description": "The official ZSH theme of sulfuriumOS."
   },
   {
-    "name": "sunrise",
-    "url": "https://github.com/tech8i/zsh_sunrise",
-    "description": "Includes decorators for battery status, current directory, date and time."
-  },
-  {
     "name": "sunrise-ruby",
     "url": "https://github.com/ston1x/sunrise-ruby",
     "description": "Similar to sunrise but includes the active Ruby version."
+  },
+  {
+    "name": "sunrise",
+    "url": "https://github.com/tech8i/zsh_sunrise",
+    "description": "Includes decorators for battery status, current directory, date and time."
   },
   {
     "name": "superkolo",
