@@ -15,6 +15,11 @@
     "description": "pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."
   },
   {
+    "name": "polars",
+    "url": "https://docs.pola.rs/",
+    "description": "Polars is a blazingly fast DataFrame library for manipulating structured data."
+  },
+  {
     "name": "quantdsl",
     "url": "https://github.com/johnbywater/quantdsl",
     "description": "Domain specific language for quantitative analytics in finance and trading."
@@ -568,6 +573,21 @@
     "name": "nautilus_trader",
     "url": "https://github.com/nautechsystems/nautilus_trader",
     "description": "A high-performance algorithmic trading platform and event-driven backtester."
+  },
+  {
+    "name": "YABTE",
+    "url": "https://github.com/bsdz/yabte",
+    "description": "Yet Another (Python) BackTesting Engine."
+  },
+  {
+    "name": "QuantLibRisks",
+    "url": "https://github.com/auto-differentiation/QuantLib-Risks-Py",
+    "description": "Fast risks with QuantLib"
+  },
+  {
+    "name": "XAD",
+    "url": "https://github.com/auto-differentiation/xad-py",
+    "description": "Automatic Differentation (AAD) Library"
   },
   {
     "name": "pyfolio",
@@ -1645,6 +1665,16 @@
     "description": "The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance."
   },
   {
+    "name": "QuantLibRisks",
+    "url": "https://github.com/auto-differentiation/QuantLib-Risks-Cpp",
+    "description": "Fast risks with QuantLib in C++"
+  },
+  {
+    "name": "XAD",
+    "url": "https://github.com/auto-differentiation/xad",
+    "description": "Automatic Differentation (AAD) Library"
+  },
+  {
     "name": "TradeFrame",
     "url": "https://github.com/rburkholder/trade-frame",
     "description": "C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in Option Greeks/IV calculation library."
@@ -1653,6 +1683,16 @@
     "name": "QuantLib",
     "url": "https://github.com/lballabio/QuantLib",
     "description": "The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance."
+  },
+  {
+    "name": "Python",
+    "url": "https://pypi.org/project/QuantLib-Risks/",
+    "description": "Fast risks with QuantLib in Python and C++"
+  },
+  {
+    "name": "Python",
+    "url": "https://pypi.org/project/xad/",
+    "description": "Automatic Differentiation (AAD) Library in Python and C++"
   },
   {
     "name": "JQuantLib",
@@ -1695,11 +1735,6 @@
     "description": "Documentation for the Python bindings for the QuantLib library"
   },
   {
-    "name": "QuantLib with Automatic Differention enabled",
-    "url": "https://github.com/auto-differentiation/quantlib-xad",
-    "description": "Integration of Automatic Differentiation with the QuantLib library"
-  },
-  {
     "name": "TA-Lib",
     "url": "https://ta-lib.org",
     "description": "perform technical analysis of financial market data."
@@ -1716,6 +1751,10 @@
     "name": "Portfolio Optimizer",
     "url": "https://portfoliooptimizer.io/",
     "description": "Portfolio Optimizer is a Web API for portfolio analysis and optimization."
+  },
+  {
+    "name": "Python",
+    "url": "https://pypi.org/project/xad/"
   },
   {
     "name": "QuantConnect",
@@ -1766,6 +1805,11 @@
     "name": "finalytics",
     "url": "https://github.com/Nnamdi-sys/finalytics",
     "description": "A rust library for financial data analysis."
+  },
+  {
+    "name": "Auto-Differentiation Website",
+    "url": "https://auto-differentiation.github.io/",
+    "description": "Background and  resources on Automatic Differentiation (AD) / Adjoint Algorithmic Differentitation (AAD)."
   },
   {
     "name": "Derman Papers",

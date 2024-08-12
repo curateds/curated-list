@@ -6687,6 +6687,11 @@
     "description": "Go library for downloading files or directories from various sources using a URL."
   },
   {
+    "name": "go-multiproxy",
+    "url": "https://github.com/presbrey/go-multiproxy",
+    "description": "Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in"
+  },
+  {
     "name": "go-powerdns",
     "url": "https://github.com/joeig/go-powerdns",
     "description": "PowerDNS API bindings for Golang."
@@ -6705,11 +6710,6 @@
     "name": "gobgp",
     "url": "https://github.com/osrg/gobgp",
     "description": "BGP implemented in the Go Programming Language."
-  },
-  {
-    "name": "golibwireshark",
-    "url": "https://github.com/sunwxg/golibwireshark",
-    "description": "Package golibwireshark use libwireshark library to decode pcap file and analyse dissection data."
   },
   {
     "name": "gopacket",

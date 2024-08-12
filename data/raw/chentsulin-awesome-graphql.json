@@ -561,6 +561,11 @@
     "description": "A graphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more."
   },
   {
+    "name": "graphql-sunset",
+    "url": "https://github.com/sophiabits/graphql-sunset",
+    "description": "Quickly and easily add support for the Sunset header to your GraphQL server, to better communicate upcoming breaking changes."
+  },
+  {
     "name": "React Starter Kit",
     "url": "https://github.com/kriasoft/react-starter-kit",
     "description": "front-end starter kit using React, Relay, GraphQL, and JAM stack architecture."

@@ -1660,6 +1660,16 @@
     "description": "This repository contains a plugin for the Angular framework that integrates with the Split JS SDK."
   },
   {
+    "name": "ngx-stripe",
+    "url": "https://github.com/richnologies/ngx-stripe",
+    "description": "A comprehensive library designed for seamless integration of Stripe Elements and payment processing capabilities into Angular applications. Leveraging the powerful features of StripeJS, Ngx Stripe simplifies building robust, secure, and scalable payment solutions."
+  },
+  {
+    "name": "ngx-socket-io",
+    "url": "https://github.com/rodgc/ngx-socket-io",
+    "description": "Socket.IO module for Angular."
+  },
+  {
     "name": "transloco",
     "url": "https://github.com/ngneat/transloco",
     "description": "🚀 😍 The internationalization (i18n) library for Angular."
@@ -2849,6 +2859,11 @@
     "name": "ngx-file-drop",
     "url": "https://github.com/georgipeltekov/ngx-file-drop",
     "description": "Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat."
+  },
+  {
+    "name": "uppy",
+    "url": "https://uppy.io/docs/angular/",
+    "description": "Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader."
   },
   {
     "name": "angular-imask",
@@ -4507,6 +4522,11 @@
     "name": "ngx-view-state",
     "url": "https://github.com/yurakhomitsky/ngx-view-state",
     "description": "Library for handling Loading/Success/Error in NgRx."
+  },
+  {
+    "name": "store-service",
+    "url": "https://github.com/ngxp/store-service",
+    "description": "Adds an abstraction layer / facade between Angular components and the NgRx store."
   },
   {
     "name": "rxjs",

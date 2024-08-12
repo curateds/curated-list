@@ -605,6 +605,11 @@
     "description": "Enhances the development experience for developers using Micro-python for IoT and maker projects."
   },
   {
+    "name": "neolooong/whichpy.nvim",
+    "url": "https://github.com/neolooong/whichpy.nvim",
+    "description": "Switch Python interpreter without restarting LSP."
+  },
+  {
     "name": "ray-x/go.nvim",
     "url": "https://github.com/ray-x/go.nvim",
     "description": "Golang plugin based on lsp and Treesitter."
@@ -3903,6 +3908,11 @@
     "name": "tris203/hawtkeys.nvim",
     "url": "https://github.com/tris203/hawtkeys.nvim",
     "description": "Suggest new easy-to-hit keymaps and find issues with your current keymap configurations."
+  },
+  {
+    "name": "mawkler/demicolon.nvim",
+    "url": "https://github.com/mawkler/demicolon.nvim",
+    "description": "Use ; and , keys to also repeat jumps to diagnostics (e.g. ]d) and to nvim-treesitter-textobjects (e.g. ]f), in addition to repeating t/T/f/F."
   },
   {
     "name": "notomo/gesture.nvim",
