@@ -76,7 +76,7 @@
   },
   {
     "name": "Edgy ORM",
-    "url": "https://github.com/tarsil/edgy",
+    "url": "https://github.com/dymmond/edgy",
     "description": "Complex databases made simple."
   },
   {
@@ -428,7 +428,7 @@
   },
   {
     "name": "Source Code",
-    "url": "https://github.com/tiangolo/fastapi",
+    "url": "https://github.com/fastapi/fastapi",
     "description": "Hosted on GitHub."
   },
   {
@@ -605,24 +605,28 @@
     "description": "Collection of best practices in a GitHub repo."
   },
   {
-    "name": "Heroku",
-    "url": "https://www.heroku.com/"
-  },
-  {
     "name": "AWS Elastic Beanstalk",
     "url": "https://aws.amazon.com/elasticbeanstalk/"
+  },
+  {
+    "name": "Deta",
+    "url": "https://www.deta.sh/"
+  },
+  {
+    "name": "Fly",
+    "url": "https://fly.io"
   },
   {
     "name": "Google App Engine",
     "url": "https://cloud.google.com/appengine/"
   },
   {
-    "name": "Microsoft Azure App Service",
-    "url": "https://azure.microsoft.com/en-us/products/app-service/"
+    "name": "Heroku",
+    "url": "https://www.heroku.com/"
   },
   {
-    "name": "Deta",
-    "url": "https://www.deta.sh/"
+    "name": "Microsoft Azure App Service",
+    "url": "https://azure.microsoft.com/en-us/products/app-service/"
   },
   {
     "name": "AWS EC2",
@@ -672,8 +676,8 @@
   },
   {
     "name": "Full Stack FastAPI and PostgreSQL - Base Project Generator",
-    "url": "https://github.com/tiangolo/full-stack-fastapi-template",
-    "description": "Base Project Generator - Full stack, modern web application generator, which includes FastAPI, PostgreSQL, Docker, Celery, Vue frontend, automatic HTTPS and more (developed by the creator of FastAPI, Sebastián Ramírez)."
+    "url": "https://github.com/fastapi/full-stack-fastapi-template",
+    "description": "Base Project Generator - Full Stack FastAPI Template"
   },
   {
     "name": "FastAPI and Tortoise ORM",

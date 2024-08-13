@@ -3695,11 +3695,6 @@
     "description": "Configure proxy settings for some package managers and software."
   },
   {
-    "name": "pseudo-projectile",
-    "url": "https://github.com/git-girl/pseudo-projectile-plugin/",
-    "description": "Like projectile in emacs? This adds similar functionality to your ZSH environment by opening fzf-selected paths in nvim. Deprecated by author."
-  },
-  {
     "name": "psgrep",
     "url": "https://github.com/voidzero/omz-plugin-psgrep/",
     "description": "Makes ps grep hide its own process from the results of a ps aux | grep."
@@ -6315,11 +6310,6 @@
     "name": "ai-hayasaka",
     "url": "https://github.com/aeghost/ai-hayasaka-zsh-theme",
     "description": "Minimalist theme with git status, ruby env and python virtualenv decorators."
-  },
-  {
-    "name": "aifrim",
-    "url": "https://github.com/aifrim/aifrim.zsh-theme",
-    "description": "Minimalist theme with decorators for git status, truncated current directory, and package versions for JavaScript, rust and golang."
   },
   {
     "name": "air",
@@ -10428,6 +10418,11 @@
     "name": "solarizsh",
     "url": "https://github.com/paddykontschak/Solarizsh",
     "description": "Color fix for robbyrussell's oh-my-zsh theme to work with solarized terminals."
+  },
+  {
+    "name": "sorin-modified-dark",
+    "url": "https://github.com/hrmeetsingh/sorin-modified-dark",
+    "description": "Based on sorin. Minimalist, adds decorators for git status and current directory."
   },
   {
     "name": "spaceship",

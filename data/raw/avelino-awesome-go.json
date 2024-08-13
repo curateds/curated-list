@@ -1274,6 +1274,21 @@
     "description": "Go wrapper to the 100% Sass compatible libsass project."
   },
   {
+    "name": "Benthos",
+    "url": "https://github.com/benthosdev/benthos",
+    "description": "A message streaming bridge between a range of protocols."
+  },
+  {
+    "name": "CloudQuery",
+    "url": "http://github.com/cloudquery/cloudquery",
+    "description": "A high-performance ELT data integration framework with pluggable architecture."
+  },
+  {
+    "name": "omniparser",
+    "url": "https://github.com/jf-tech/omniparser",
+    "description": "A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema."
+  },
+  {
     "name": "bingo",
     "url": "https://github.com/iancmcc/bingo",
     "description": "Fast, zero-allocation, lexicographical-order-preserving packing of native types to bytes."
@@ -3793,6 +3808,11 @@
     "description": "Scalable game server engine, featuring space-entity framework and hot-swapping."
   },
   {
+    "name": "grid",
+    "url": "https://github.com/s0rg/grid",
+    "description": "Generic 2D grid with ray-casting, shadow-casting and path finding."
+  },
+  {
     "name": "Harfang3D",
     "url": "https://github.com/harfang3d/harfang3d",
     "description": "3D engine for the Go language, works on Windows and Linux (Harfang on Go.dev)."
@@ -4028,6 +4048,11 @@
   },
   {
     "name": "async",
+    "url": "https://github.com/yaitoo/async",
+    "description": "An asynchronous task package with async/await style for Go."
+  },
+  {
+    "name": "async",
     "url": "https://github.com/reugn/async",
     "description": "An alternative sync library for Go (Future, Promise, Locks)."
   },
@@ -4212,9 +4237,9 @@
     "description": "Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation."
   },
   {
-    "name": "queue",
-    "url": "https://github.com/AnikHasibul/queue",
-    "description": "Gives you a sync.WaitGroup like queue group accessibility. Helps you to throttle and limit goroutines, wait for the end of the all goroutines and much more."
+    "name": "rill",
+    "url": "https://github.com/destel/rill",
+    "description": "Go concurrency with channel transformations. No boilerplate, type safety, batching and error handling."
   },
   {
     "name": "routine",
@@ -4265,6 +4290,11 @@
     "name": "app",
     "url": "https://github.com/murlokswarm/app",
     "description": "Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress."
+  },
+  {
+    "name": "Cogent Core",
+    "url": "https://github.com/cogentcore/core",
+    "description": "A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web."
   },
   {
     "name": "DarwinKit",
@@ -4710,6 +4740,11 @@
     "name": "smart-home",
     "url": "https://github.com/e154/smart-home",
     "description": "Software package for IoT automation."
+  },
+  {
+    "name": "Cadence-client",
+    "url": "https://github.com/uber-go/cadence-client",
+    "description": "A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber."
   },
   {
     "name": "cdule",
@@ -5527,11 +5562,6 @@
     "description": "A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps."
   },
   {
-    "name": "Benthos",
-    "url": "https://github.com/Jeffail/benthos",
-    "description": "A message streaming bridge between a range of protocols."
-  },
-  {
     "name": "Bus",
     "url": "https://github.com/mustafaturan/bus",
     "description": "Minimalist message bus implementation for internal communication."
@@ -5725,6 +5755,11 @@
     "name": "Quamina",
     "url": "https://github.com/timbray/quamina",
     "description": "Fast pattern-matching for filtering messages and events."
+  },
+  {
+    "name": "rabbitroutine",
+    "url": "https://github.com/furdarius/rabbitroutine",
+    "description": "Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection."
   },
   {
     "name": "rabbus",
@@ -6340,6 +6375,11 @@
     "name": "guesslanguage",
     "url": "https://github.com/endeveit/guesslanguage",
     "description": "Functions to determine the natural language of a unicode text."
+  },
+  {
+    "name": "lingua-go",
+    "url": "https://github.com/pemistahl/lingua-go",
+    "description": "An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text."
   },
   {
     "name": "whatlanggo",
@@ -8192,14 +8232,14 @@
     "description": "Simple and extensible behavioural testing library for REST based services or HTTP handlers that supports mocking external http calls and rendering of sequence diagrams."
   },
   {
+    "name": "arch-go",
+    "url": "https://github.com/fdaines/arch-go",
+    "description": "Architecture testing tool for Go projects."
+  },
+  {
     "name": "assert",
     "url": "https://github.com/go-playground/assert",
     "description": "Basic Assertion Library used along side native go testing, with building blocks for custom assertions."
-  },
-  {
-    "name": "badio",
-    "url": "https://github.com/cavaliercoder/badio",
-    "description": "Extensions to Go's testing/iotest package."
   },
   {
     "name": "baloo",
@@ -8777,6 +8817,11 @@
     "description": "NMEA parser library for the Go language."
   },
   {
+    "name": "go-querystring",
+    "url": "https://github.com/google/go-querystring",
+    "description": "Go library for encoding structs into URL query parameters."
+  },
+  {
     "name": "go-vcard",
     "url": "https://github.com/emersion/go-vcard",
     "description": "Parse and format vCard."
@@ -8810,11 +8855,6 @@
     "name": "normalize",
     "url": "https://github.com/avito-tech/normalize",
     "description": "Sanitize, normalize and compare fuzzy text."
-  },
-  {
-    "name": "omniparser",
-    "url": "https://github.com/jf-tech/omniparser",
-    "description": "A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema."
   },
   {
     "name": "parseargs-go",
@@ -8970,6 +9010,11 @@
     "name": "TySug",
     "url": "https://github.com/Dynom/TySug",
     "description": "Alternative suggestions with respect to keyboard layouts."
+  },
+  {
+    "name": "w2vgrep",
+    "url": "https://github.com/arunsupe/semantic-grep",
+    "description": "A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for \"death\" will find \"dead\", \"killing\", \"murder\"."
   },
   {
     "name": "airtable",
@@ -10400,6 +10445,11 @@
     "name": "yogo",
     "url": "https://github.com/antham/yogo",
     "description": "Check yopmail mails from command line."
+  },
+  {
+    "name": "fastuuid",
+    "url": "https://github.com/rekby/fastuuid",
+    "description": "Fast generate UUIDv4 as string or bytes."
   },
   {
     "name": "goid",
@@ -12565,6 +12615,11 @@
     "name": "gocostmodel",
     "url": "https://github.com/PuerkitoBio/gocostmodel",
     "description": "Benchmarks of common basic operations for the Go language."
+  },
+  {
+    "name": "golang-benchmarks",
+    "url": "https://github.com/SimonWaldherr/golang-benchmarks",
+    "description": "a collection of golang benchmarks."
   },
   {
     "name": "golang-sql-benchmark",

@@ -3298,9 +3298,9 @@
     "description": "simplified insurance sales system made in a microservices architecture using .NET Core (EF Core, MediatR, Marten, Eureka, Ocelot, RabbitMQ, Polly, ElasticSearch, Dapper) with blog post series."
   },
   {
-    "name": "eShopOnContainers",
-    "url": "https://github.com/dotnet/eShopOnContainers",
-    "description": "Microservices Architecture and Containers based Reference Application."
+    "name": "eShop",
+    "url": "https://github.com/dotnet/eShop",
+    "description": "A reference .NET application implementing an eCommerce site."
   },
   {
     "name": "InMemoryCQRSReplication",

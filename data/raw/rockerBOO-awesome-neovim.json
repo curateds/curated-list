@@ -2125,6 +2125,11 @@
     "description": "Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing."
   },
   {
+    "name": "BrunoCiccarino/gardenal",
+    "url": "https://github.com/BrunoCiccarino/gardenal",
+    "description": "Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click."
+  },
+  {
     "name": "Bekaboo/deadcolumn.nvim",
     "url": "https://github.com/Bekaboo/deadcolumn.nvim",
     "description": "Shows your colorcolumn dynamically."
@@ -3018,6 +3023,11 @@
     "name": "QuentinGruber/timespent.nvim",
     "url": "https://github.com/QuentinGruber/timespent.nvim",
     "description": "Display time spent on projects / files."
+  },
+  {
+    "name": "SunnyTamang/pendulum.nvim",
+    "url": "https://github.com/SunnyTamang/pendulum.nvim",
+    "description": "Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc."
   },
   {
     "name": "VidocqH/data-viewer.nvim",
