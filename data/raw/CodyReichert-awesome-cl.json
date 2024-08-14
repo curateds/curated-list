@@ -1067,6 +1067,11 @@
     "description": "Armed Bear Common Lisp; targets the JVM, compiles to bytecode. Standard conformance. GNU GPL3 with Classpath exception."
   },
   {
+    "name": "abcl-memory-compiler",
+    "url": "https://gitlab.com/cl-projects/abcl-memory-compiler",
+    "description": "a way to compile Java source code to create Java classes at runtime with ABCL. Apache2."
+  },
+  {
     "name": "CLASP",
     "url": "https://github.com/drmeister/clasp",
     "description": "a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. LGPL2.1 (and others)."

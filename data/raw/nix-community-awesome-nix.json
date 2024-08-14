@@ -785,9 +785,19 @@
     "description": "A non-NixOS Linux system configuration tool built on Nix."
   },
   {
+    "name": "nixbsd",
+    "url": "https://github.com/nixos-bsd/nixbsd",
+    "description": "A NixOS fork with a FreeBSD kernel."
+  },
+  {
     "name": "NixNG",
     "url": "https://github.com/nix-community/NixNG",
     "description": "A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness."
+  },
+  {
+    "name": "SnowflakeOS",
+    "url": "https://snowflakeos.org/",
+    "description": "A NixOS-based Linux distribution focused on beginner friendliness and ease of use."
   },
   {
     "name": "#nix:nixos.org",

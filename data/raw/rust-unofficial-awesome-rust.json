@@ -40,11 +40,6 @@
     "description": "A simple, full-featured and decentralized mesh VPN with WireGuard support."
   },
   {
-    "name": "Factotum",
-    "url": "https://github.com/snowplow/factotum",
-    "description": "A system to programmatically run data pipelines"
-  },
-  {
     "name": "fcsonline/drill",
     "url": "https://github.com/fcsonline/drill",
     "description": "A HTTP load testing application inspired by Ansible syntax"
@@ -1038,6 +1033,11 @@
     "description": "A high-performance scalable StatsD compatible server."
   },
   {
+    "name": "MegaAntiCheat/client-backend",
+    "url": "https://github.com/MegaAntiCheat/client-backend",
+    "description": "The client app for MAC."
+  },
+  {
     "name": "openobserve",
     "url": "https://github.com/openobserve/openobserve",
     "description": "10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative."
@@ -1080,7 +1080,7 @@
   {
     "name": "redox-os/redox",
     "url": "https://gitlab.redox-os.org/redox-os/redox",
-    "description": "A rust operating system"
+    "description": "A Unix-like general-purpose microkernel-based operating system with a focus on security, stability, performance, correctness, simplicity and pragmatism that aims to be a complete alternative for Linux and BSD."
   },
   {
     "name": "thepowersgang/rust_os",
@@ -1271,6 +1271,16 @@
     "name": "Rustodon",
     "url": "https://github.com/rustodon/rustodon",
     "description": "A Mastodon-compatible, ActivityPub-speaking server."
+  },
+  {
+    "name": "tgt",
+    "url": "https://github.com/FedericoBruzzone/tgt",
+    "description": "A crossplatform TUI for Telegram"
+  },
+  {
+    "name": "tgt",
+    "url": "https://github.com/FedericoBruzzone/tgt",
+    "description": "A crossplatform TUI for Telegram"
   },
   {
     "name": "ajeetdsouza/zoxide",
@@ -1794,7 +1804,7 @@
   },
   {
     "name": "sorairolake/qrtool",
-    "url": "https://github.com/sorairolake/qrtool",
+    "url": "https://gitlab.com/sorairolake/qrtool",
     "description": "A utility for encoding and decoding QR code images."
   },
   {
@@ -4104,12 +4114,12 @@
   },
   {
     "name": "sorairolake/abcrypt",
-    "url": "https://github.com/sorairolake/abcrypt",
+    "url": "https://gitlab.com/sorairolake/abcrypt",
     "description": "A simple, modern and secure file encryption library."
   },
   {
     "name": "sorairolake/scryptenc-rs",
-    "url": "https://github.com/sorairolake/scryptenc-rs",
+    "url": "https://gitlab.com/sorairolake/scryptenc-rs",
     "description": "An implementation of the scrypt encrypted data format."
   },
   {
@@ -4642,7 +4652,12 @@
   {
     "name": "postgres",
     "url": "https://crates.io/keywords/postgres",
-    "description": "A native PostgreSQL client"
+    "description": "Fast implementation with a low set of external dependencies."
+  },
+  {
+    "name": "c410-f3r/wtx",
+    "url": "https://github.com/c410-f3r/wtx",
+    "description": "Fast implementation with a low set of external dependencies."
   },
   {
     "name": "sfackler/rust-postgres",
@@ -4671,7 +4686,7 @@
   },
   {
     "name": "sorairolake/nt-time",
-    "url": "https://github.com/sorairolake/nt-time",
+    "url": "https://gitlab.com/sorairolake/nt-time",
     "description": "A Windows file time library."
   },
   {
@@ -6420,6 +6435,16 @@
     "description": "High fidelity, fast, reliable and validated astrodynamical toolkit library, used for spacecraft mission design and orbit determination"
   },
   {
+    "name": "tdilb-rs",
+    "url": "https://github.com/FedericoBruzzone/tdlib-rs",
+    "description": "Crossplatform Rust wrapper around the Telegram Database Library (TDLib)"
+  },
+  {
+    "name": "tdilb-rs",
+    "url": "https://github.com/FedericoBruzzone/tdlib-rs",
+    "description": "Crossplatform Rust wrapper around the Telegram Database Library (TDLib)"
+  },
+  {
     "name": "ardaku/whoami",
     "url": "https://github.com/ardaku/whoami",
     "description": "crate to get the current user and environment."
@@ -6436,7 +6461,7 @@
   },
   {
     "name": "sorairolake/sysexits-rs",
-    "url": "https://github.com/sorairolake/sysexits-rs",
+    "url": "https://gitlab.com/sorairolake/sysexits-rs",
     "description": "The system exit codes as defined by <sysexits.h>."
   },
   {
@@ -6690,6 +6715,11 @@
     "description": "A GraphQL server library"
   },
   {
+    "name": "c410-f3r/wtx",
+    "url": "https://github.com/c410-f3r/wtx",
+    "description": "HTTP/2 client framework"
+  },
+  {
     "name": "DoumanAsh/yukikaze",
     "url": "https://gitlab.com/Douman/yukikaze",
     "description": "Beautiful and elegant Yukikaze is little HTTP client library based on hyper."
@@ -6733,6 +6763,11 @@
     "name": "branca",
     "url": "https://crates.io/crates/branca",
     "description": "Implementation of Branca for Authenticated and Encrypted API tokens."
+  },
+  {
+    "name": "c410-f3r/wtx",
+    "url": "https://github.com/c410-f3r/wtx",
+    "description": "Low and high level HTTP/2 server"
   },
   {
     "name": "carllerche/tower-web",
@@ -6850,11 +6885,6 @@
     "description": "A web framework intended for building maintainable, well-factored web apps."
   },
   {
-    "name": "causal-agent/scraper",
-    "url": "https://github.com/causal-agent/scraper",
-    "description": "HTML parsing and querying with CSS selectors."
-  },
-  {
     "name": "hominee/dyer",
     "url": "https://github.com/hominee/dyer",
     "description": "dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed."
@@ -6883,6 +6913,11 @@
     "name": "rookie",
     "url": "https://github.com/thewh1teagle/rookie",
     "description": "Load cookies from any browser on any platform."
+  },
+  {
+    "name": "rust-scraper/scraper",
+    "url": "https://github.com/rust-scraper/scraper",
+    "description": "HTML parsing and querying with CSS selectors."
   },
   {
     "name": "serenity-rs/serenity",
@@ -6962,7 +6997,12 @@
   {
     "name": "WebSocket",
     "url": "https://datatracker.ietf.org/doc/rfc6455/",
-    "description": "lightweight, event-driven WebSockets"
+    "description": "Client and server with encryption support."
+  },
+  {
+    "name": "c410-f3r/wtx",
+    "url": "https://github.com/c410-f3r/wtx",
+    "description": "Client and server with encryption support."
   },
   {
     "name": "housleyjk/ws-rs",
@@ -7010,9 +7050,14 @@
     "description": "A private, authenticated, permissioned Cargo registry"
   },
   {
-    "name": "TeXitoi/benchmarksgame-rs",
-    "url": "https://github.com/TeXitoi/benchmarksgame-rs",
-    "description": "Implementations for the The Computer Language Benchmarks Game"
+    "name": "c410-f3r/wtx-bench",
+    "url": "https://github.com/c410-f3r/wtx-bench",
+    "description": "Web benchmarks"
+  },
+  {
+    "name": "c410-f3r/wtx-bench",
+    "url": "https://github.com/c410-f3r/wtx-bench",
+    "description": "Web benchmarks"
   },
   {
     "name": "TeXitoi/benchmarksgame-rs",
@@ -7038,11 +7083,6 @@
     "name": "Shipping a Solid Rust Crate",
     "url": "https://www.youtube.com/watch?v=t4CyEKb-ywA",
     "description": "Presented by Michael Gattozzi @ RustConf 2017"
-  },
-  {
-    "name": "Discover Rust Libraries & Code Snippets",
-    "url": "https://kandi.openweaver.com/explorelibrary/rust",
-    "description": "A curated list of libraries, authors, kits, tutorials & learning resources on kandi"
   },
   {
     "name": "Aquascope",
