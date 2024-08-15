@@ -240,6 +240,11 @@
     "description": "Update a pinned gist to contain languages of your recent commits in GitHub"
   },
   {
+    "name": "recent-languages-box",
+    "url": "https://github.com/liby/recent-languages-box",
+    "description": "A TypeScript + Bun rewrite of lang-box that updates a pinned gist with your recent GitHub commit language statistics. It offers improved type safety, customizability, and uses a more scientific approach to sorting languages."
+  },
+  {
     "name": "productive-box",
     "url": "https://github.com/maxam2017/productive-box",
     "description": "Update a pinned gist to contain your most productive hours during the day."

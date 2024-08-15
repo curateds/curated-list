@@ -635,6 +635,11 @@
     "description": "A distributed KV database in Rust"
   },
   {
+    "name": "Tonbo",
+    "url": "https://github.com/tonbo-io/tonbo",
+    "description": "Tonbo is an embedded persistent database built on Apache Arrow & Parquet"
+  },
+  {
     "name": "USearch",
     "url": "https://github.com/unum-cloud/usearch",
     "description": "Similarity Search Engine for Vectors and Strings"
@@ -5753,6 +5758,11 @@
     "name": "abonander/img_hash",
     "url": "https://github.com/abonander/img_hash",
     "description": "Perceptual image hashing and comparison for equality and similarity."
+  },
+  {
+    "name": "Enet4/dicom-rs",
+    "url": "https://github.com/Enet4/dicom-rs",
+    "description": "A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use."
   },
   {
     "name": "image-rs/image",

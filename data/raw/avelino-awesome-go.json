@@ -9572,11 +9572,6 @@
     "description": "A scanner similar to bufio.Scanner, but it reads and returns lines in reverse order, starting at a given position and going backward."
   },
   {
-    "name": "beyond",
-    "url": "https://github.com/wesovilabs/beyond",
-    "description": "The Go tool that will drive you to the AOP world!"
-  },
-  {
     "name": "blank",
     "url": "https://github.com/Henry-Sarabia/blank",
     "description": "Verify or remove blanks and whitespace from strings."
@@ -12500,6 +12495,11 @@
     "name": "Snitch",
     "url": "https://github.com/lucasgomide/snitch",
     "description": "Simple way to notify your team and many tools when someone has deployed any application via Tsuru."
+  },
+  {
+    "name": "sonic",
+    "url": "https://github.com/go-sonic/sonic",
+    "description": "Sonic is a Go Blogging Platform. Simple and Powerful."
   },
   {
     "name": "Stack Up",

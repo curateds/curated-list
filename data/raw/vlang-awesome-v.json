@@ -410,6 +410,11 @@
     "description": "A sql query builder for V."
   },
   {
+    "name": "vduckdb",
+    "url": "https://github.com/rodabt/vduckdb",
+    "description": "A DuckDB client wrapper for V."
+  },
+  {
     "name": "discord.v",
     "url": "https://github.com/Terisback/discord.v",
     "description": "User-friendly Discord bot library."
