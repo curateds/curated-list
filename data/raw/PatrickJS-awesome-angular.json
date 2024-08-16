@@ -1510,6 +1510,11 @@
     "description": "Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar."
   },
   {
+    "name": "ngx-signalify",
+    "url": "https://github.com/alcfeoh/ngx-signalify",
+    "description": "A small library to convert RxJs Observables into Angular Signals."
+  },
+  {
     "name": "ckeditor5-angular",
     "url": "https://github.com/ckeditor/ckeditor5-angular",
     "description": "An official CKEditor 5 rich text editor component for Angular 2+."
@@ -2485,6 +2490,11 @@
     "name": "keen-slider",
     "url": "https://github.com/rcbyr/keen-slider",
     "description": "The HTML touch slider carousel with the most native feeling you will get."
+  },
+  {
+    "name": "ngx-darkbox-gallery-library",
+    "url": "https://github.com/failed-successfully/ngx-darkbox-gallery-library",
+    "description": "A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+)."
   },
   {
     "name": "ng2-charts",
@@ -3655,6 +3665,11 @@
     "description": "QR Code implementation based on Angular."
   },
   {
+    "name": "ng-qrcode-svg",
+    "url": "https://github.com/larscom/ng-qrcode-svg",
+    "description": "Simple QR code generator (SVG only) for Angular."
+  },
+  {
     "name": "ngx-ui-scroll",
     "url": "https://github.com/dhilt/ngx-ui-scroll",
     "description": "Virtual/infinite scroll for Angular."
@@ -4512,6 +4527,11 @@
     "name": "ngrx-store-storagesync",
     "url": "https://github.com/larscom/ngrx-store-storagesync",
     "description": "Highly configurable state sync library between localStorage/sessionStorage and @ngrx/store."
+  },
+  {
+    "name": "ngrx-store-formsync",
+    "url": "https://github.com/larscom/ngrx-store-formsync",
+    "description": "Synchronize any reactive form to @ngrx/store."
   },
   {
     "name": "ngrx-wieder",

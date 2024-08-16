@@ -440,6 +440,11 @@
     "description": "CogSci'21, 2021. [All Versions]. Rule- and similarity-based generalization in colexification."
   },
   {
+    "name": "Human-level few-shot concept induction through minimax entropy learning",
+    "url": "https://www.science.org/doi/full/10.1126/sciadv.adg2488",
+    "description": "Science Advances, 2024. [All Versions]. This paper introduces a computational model designed to emulate human inductive reasoning on abstract reasoning tasks, such as those in IQ tests, using a minimax entropy approach. This method combines identifying the most effective constraints on data via minimum entropy with determining the best combination of them via maximum entropy."
+  },
+  {
     "name": "Generative Modeling Explained",
     "url": "https://github.com/YuzheSHI/generative-modeling-explained",
     "description": "Statistical Machine Learning Tutorials, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models."

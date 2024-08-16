@@ -612,6 +612,11 @@
     "description": "Mono and CoreCLR .NET runtimes, as well as the standard library and some higher level components like System.Linq and System.Text.Json."
   },
   {
+    "name": "FluentCMS",
+    "url": "https://github.com/fluentcms/FluentCMS",
+    "description": "FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS)"
+  },
+  {
     "name": "Composite C1",
     "url": "https://github.com/Orckestra/C1-CMS-Foundation",
     "description": "A web CMS that focus on UX and adaptability"
@@ -4178,6 +4183,11 @@
     "name": "Coalesce",
     "url": "https://coalesce.intellitect.com/",
     "description": "Coalesce is a framework for rapid-development of ASP.NET Core web applications."
+  },
+  {
+    "name": "CodeBehind Framework",
+    "url": "https://github.com/elanatframework/Code_behind",
+    "description": "Modern and powerful back-end framework under ASP.NET Core."
   },
   {
     "name": "FubuMVC",

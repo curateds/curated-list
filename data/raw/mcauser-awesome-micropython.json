@@ -2185,6 +2185,11 @@
     "description": "Determine Sun and Moon rise and set times, Moon phases."
   },
   {
+    "name": "micropython-npyfile",
+    "url": "https://github.com/jonnor/micropython-npyfile/",
+    "description": "Numpy .npy file support for MicroPython, supports read/write/streaming."
+  },
+  {
     "name": "L298N",
     "url": "https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py",
     "description": "Driver for the L298N dual H-bridge motor controller."

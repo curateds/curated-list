@@ -924,11 +924,6 @@
     "description": "configure your app using file, environment variables, or flags in two lines of code"
   },
   {
-    "name": "config",
-    "url": "https://github.com/olebedev/config",
-    "description": "JSON or YAML configuration wrapper with environment variables and flags parsing."
-  },
-  {
     "name": "configuration",
     "url": "https://github.com/BoRuDar/configuration",
     "description": "Library for initializing configuration structs from env variables, files, flags and 'default' tag."
@@ -1152,6 +1147,11 @@
     "name": "piper",
     "url": "https://github.com/Yiling-J/piper",
     "description": "Viper wrapper with config inheritance and key generation."
+  },
+  {
+    "name": "sonic",
+    "url": "https://github.com/bytedance/sonic",
+    "description": "A blazingly fast JSON serializing & deserializing library."
   },
   {
     "name": "store",
@@ -2971,6 +2971,11 @@
     "name": "micro",
     "url": "https://github.com/micro/micro",
     "description": "A distributed systems runtime for the cloud and beyond."
+  },
+  {
+    "name": "mochi mqtt",
+    "url": "https://github.com/mochi-co/mqtt",
+    "description": "Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub."
   },
   {
     "name": "NATS",
@@ -6905,6 +6910,11 @@
     "name": "raw",
     "url": "https://github.com/mdlayher/raw",
     "description": "Package raw enables reading and writing data at the device driver level for a network interface."
+  },
+  {
+    "name": "sdns",
+    "url": "https://github.com/semihalev/sdns",
+    "description": "A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy."
   },
   {
     "name": "sftp",
@@ -12390,6 +12400,11 @@
     "name": "joincap",
     "url": "https://github.com/assafmo/joincap",
     "description": "Command-line utility for merging multiple pcap files together."
+  },
+  {
+    "name": "JuiceFS",
+    "url": "https://github.com/juicedata/juicefs",
+    "description": "Distributed POSIX file system built on top of Redis and AWS S3."
   },
   {
     "name": "Juju",
