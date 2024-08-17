@@ -2741,6 +2741,11 @@
     "description": "A collection of useful components, directives and pipes for Angular."
   },
   {
+    "name": "ng-condition",
+    "url": "https://github.com/nigrosimone/ng-condition",
+    "description": "An alternative directive to *ngIf; else that simplifies conditions in HTML templates."
+  },
+  {
     "name": "ng2-dragula",
     "url": "https://github.com/valor-software/ng2-dragula",
     "description": "Drag and Drop so simple it hurts!"
@@ -2849,6 +2854,16 @@
     "name": "slate-angular",
     "url": "https://github.com/worktile/slate-angular",
     "description": "Angular view layer for Slate."
+  },
+  {
+    "name": "BlockNoteAngular",
+    "url": "https://github.com/dytab/BlockNoteAngular",
+    "description": "Unofficial BlockNote Angular wrapper."
+  },
+  {
+    "name": "ngx-jodit",
+    "url": "https://github.com/julianpoemp/ngx-jodit/",
+    "description": "Angular wrapper for Jodit WYSIWYG editor."
   },
   {
     "name": "ng2-file-upload",
@@ -3578,6 +3593,11 @@
     "name": "sba-angular",
     "url": "https://github.com/sinequa/sba-angular",
     "description": "Sinequa's Angular-based Search Based Application (SBA) Framework."
+  },
+  {
+    "name": "ng-as",
+    "url": "https://www.npmjs.com/package/ng-as",
+    "description": "Angular pipe and directive for type casting template variables."
   },
   {
     "name": "ngx-awesome-popup",

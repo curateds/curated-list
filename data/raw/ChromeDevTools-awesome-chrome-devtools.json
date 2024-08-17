@@ -416,6 +416,11 @@
     "description": "Standalone Puppeteer playground in browser's developer tools."
   },
   {
+    "name": "k6 browser",
+    "url": "https://github.com/grafana/xk6-browser",
+    "description": "Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics."
+  },
+  {
     "name": "Remote Debug Gateway",
     "url": "https://github.com/RemoteDebug/remotedebug-gateway",
     "description": "Allows you to connect a client to multiple browsers at once."
