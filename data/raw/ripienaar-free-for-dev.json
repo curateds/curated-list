@@ -611,11 +611,6 @@
     "description": "a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate everyday tasks such as building predictive models (AutoML) or comparing populations. The free tier consists of 5 canvases and unlimited collaborators."
   },
   {
-    "name": "Exspanse",
-    "url": "https://exspanse.com",
-    "description": "MLOPS Platform to build, train and deploy ML models and AI solutions. The free plan allows the creation of unlimited projects, 5Gb of cloud storage, and five docker container images."
-  },
-  {
     "name": "ExtendsClass",
     "url": "https://extendsclass.com/rest-client-online.html",
     "description": "Free web-based HTTP client to send HTTP requests."
@@ -1502,11 +1497,6 @@
     "url": "https://zoom.us/"
   },
   {
-    "name": "shtab.app",
-    "url": "https://shtab.app/",
-    "description": "Project management service that makes collaboration in the office remotely transparent with a tracker based on AI."
-  },
-  {
     "name": "Zulip",
     "url": "https://zulip.com/"
   },
@@ -2315,10 +2305,6 @@
     "url": "https://virgilsecurity.com/"
   },
   {
-    "name": "Virushee",
-    "url": "https://virushee.com/"
-  },
-  {
     "name": "Vulert",
     "url": "https://vulert.com",
     "description": "Vulert continuously monitors your open-source dependencies for new vulnerabilities, recommends fixes, without requiring installation or access to your codebase. Free for open-source projects."
@@ -3063,11 +3049,6 @@
     "url": "http://www.searchly.com/"
   },
   {
-    "name": "pagedart.com",
-    "url": "https://pagedart.com/",
-    "description": "AI search as a service the free tier includes 1,000 Documents and 50,000 searches. Larger free decks are possible for worthwhile projects."
-  },
-  {
     "name": "FreeCodeCamp",
     "url": "https://www.freecodecamp.org/",
     "description": "Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more."
@@ -3076,11 +3057,6 @@
     "name": "The Odin Project",
     "url": "https://www.theodinproject.com/",
     "description": "Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development."
-  },
-  {
-    "name": "Free ATS Resume AI Solutions",
-    "url": "https://ayehigh.com",
-    "description": "Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth."
   },
   {
     "name": "Free Professional Resume Templates & Editor",
@@ -3819,6 +3795,11 @@
     "name": "Langtrace",
     "url": "https://langtrace.ai",
     "description": "enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month."
+  },
+  {
+    "name": "Ultra AI",
+    "url": "https://ultraai.app",
+    "description": "AI command center for your product. Features include multi-provider AI gateway, prompts manager, caching, logs, analytics, model fallbacks and user rate limiting. Free forever plan offers 10k+ requests per month and all the features except caching."
   },
   {
     "name": "bootstrapcdn.com",

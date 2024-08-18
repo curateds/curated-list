@@ -7792,6 +7792,11 @@
     "description": "Pure Go ACME client library and CLI tool (for use with Let's Encrypt)."
   },
   {
+    "name": "luks.go",
+    "url": "https://github.com/anatol/luks.go",
+    "description": "Pure Golang library to manage LUKS partitions."
+  },
+  {
     "name": "memguard",
     "url": "https://github.com/awnumar/memguard",
     "description": "A pure Go library for handling sensitive values in memory."
@@ -8232,8 +8237,8 @@
     "description": "Closure templates (aka Soy templates) for Go, following the official spec."
   },
   {
-    "name": "sprig",
-    "url": "https://github.com/Masterminds/sprig",
+    "name": "sprout",
+    "url": "https://github.com/go-sprout/sprout",
     "description": "Useful template functions for Go templates."
   },
   {
@@ -8295,6 +8300,11 @@
     "name": "dbcleaner",
     "url": "https://github.com/khaiql/dbcleaner",
     "description": "Clean database for testing purpose, inspired by database_cleaner in Ruby."
+  },
+  {
+    "name": "dft",
+    "url": "https://github.com/abecodes/dft",
+    "description": "Lightweight, zero dependency docker containers for testing (or more)."
   },
   {
     "name": "dsunit",

@@ -4530,6 +4530,11 @@
     "description": "Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. (Demo, Source Code) MIT Docker"
   },
   {
+    "name": "Tamari",
+    "url": "https://tamariapp.com",
+    "description": "Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. (Demo, Source Code) GPL-3.0 Docker/Python"
+  },
+  {
     "name": "Firezone",
     "url": "https://www.firezone.dev/",
     "description": "Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. (Source Code) Apache-2.0 Elixir/Docker"
@@ -5448,6 +5453,11 @@
     "name": "Apache HTTP Server",
     "url": "https://httpd.apache.org/",
     "description": "Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. (Source Code) Apache-2.0 C/deb/Docker"
+  },
+  {
+    "name": "BunkerWeb",
+    "url": "https://www.bunkerweb.io",
+    "description": "Next-gen Web Application Firewall (WAF) that will protect your web services. (Demo, Source Code, Clients) AGPL-3.0 deb/Docker/K8S/Python"
   },
   {
     "name": "Caddy",

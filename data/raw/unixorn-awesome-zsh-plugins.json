@@ -1756,6 +1756,11 @@
     "description": "Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases."
   },
   {
+    "name": "ez-compinit",
+    "url": "https://github.com/mattmc3/ez-compinit",
+    "description": "Wraps compinit, queueing up calls to compdef, and hooking the real compinit call to an event that runs at the end of your .zshrc. That way you get all the benefits of calling compinit early without any of the downsides."
+  },
+  {
     "name": "eza (clavelm)",
     "url": "https://github.com/clavelm/eza-omz-plugin",
     "description": "Replaces ls with eza-community/eza."
@@ -4042,6 +4047,11 @@
     "name": "shell-fns",
     "url": "https://github.com/Hdoc1509/shell-fns",
     "description": "Includes git, neovim, npm, pip extended functionality."
+  },
+  {
+    "name": "shellcolor",
+    "url": "https://github.com/SaltedBlowfish/zsh-shellcolor",
+    "description": "Changes the terminal background color based on the presence of a .shellcolor in the current directory."
   },
   {
     "name": "shellfirm",

@@ -850,11 +850,6 @@
     "description": "A simple library for encryption using libsodium."
   },
   {
-    "name": "HTML Purifier",
-    "url": "https://github.com/ezyang/htmlpurifier",
-    "description": "A standards compliant HTML filter."
-  },
-  {
     "name": "Optimus",
     "url": "https://github.com/jenssegers/optimus",
     "description": "Id obfuscation based on Knuth's multiplicative hashing method."
@@ -1048,6 +1043,11 @@
     "name": "PHPCPD",
     "url": "https://github.com/sebastianbergmann/phpcpd",
     "description": "A library that detects copied and pasted code."
+  },
+  {
+    "name": "Laravel Pint",
+    "url": "https://github.com/laravel/pint",
+    "description": "A coding standards fixer library for Laravel."
   },
   {
     "name": "Exakat",
@@ -1408,6 +1408,11 @@
     "name": "Fast CGI Client",
     "url": "https://github.com/hollodotme/fast-cgi-client",
     "description": "A client to make synchronous/asynchronous requests through php-fpm socket."
+  },
+  {
+    "name": "FrankenPHP",
+    "url": "https://frankenphp.dev/",
+    "description": "A modern PHP app server written in Go."
   },
   {
     "name": "Pawl",
@@ -2035,6 +2040,11 @@
     "description": "A simple PHP filtering library."
   },
   {
+    "name": "HTML Purifier",
+    "url": "https://github.com/ezyang/htmlpurifier",
+    "description": "A standards compliant HTML filter."
+  },
+  {
     "name": "ISO-codes",
     "url": "https://github.com/ronanguilloux/IsoCodes",
     "description": "A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries."
@@ -2055,6 +2065,11 @@
     "description": "A simple validation library."
   },
   {
+    "name": "Symfony HTML Sanitizer",
+    "url": "https://github.com/symfony/html-sanitizer",
+    "description": "An HTML sanitizer library."
+  },
+  {
     "name": "Upload",
     "url": "https://github.com/brandonsavage/Upload",
     "description": "A library for handling file uploads and validation."
@@ -2063,6 +2078,11 @@
     "name": "Valitron",
     "url": "https://github.com/vlucas/valitron",
     "description": "Another validation library."
+  },
+  {
+    "name": "Valinor",
+    "url": "https://github.com/CuyZ/Valinor",
+    "description": "A library for mapping to strongly typed value objects."
   },
   {
     "name": "Volan",
@@ -2423,11 +2443,6 @@
     "description": "A package manager for OSX."
   },
   {
-    "name": "Laravel Valet",
-    "url": "https://laravel.com/docs/master/valet",
-    "description": "A development environment for macOS."
-  },
-  {
     "name": "PHP Brew",
     "url": "https://github.com/phpbrew/phpbrew",
     "description": "A PHP version manager and installer."
@@ -2436,6 +2451,11 @@
     "name": "PHP Build",
     "url": "https://github.com/php-build/php-build",
     "description": "Another PHP version installer."
+  },
+  {
+    "name": "Static PHP CLI",
+    "url": "https://github.com/crazywhalecc/static-php-cli",
+    "description": "Build or download static versions of PHP CLI and FPM."
   },
   {
     "name": "Ansible",
@@ -2478,9 +2498,19 @@
     "description": "A local development environment for Laravel."
   },
   {
+    "name": "Laravel Herd",
+    "url": "https://herd.laravel.com/",
+    "description": "A one click PHP development environment for macOS and Windows."
+  },
+  {
     "name": "Laradock",
     "url": "http://laradock.io/",
     "description": "A full PHP development environment based on Docker."
+  },
+  {
+    "name": "PHPMon",
+    "url": "https://phpmon.app/",
+    "description": "A macOS menu bar app for managing PHP installations (works with Laravel Valet)."
   },
   {
     "name": "Puppet",
