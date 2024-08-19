@@ -1370,6 +1370,11 @@
     "description": "WireGuard based VPN Server and Firewall. (Source Code) Apache-2.0 Docker"
   },
   {
+    "name": "Gluetun VPN client",
+    "url": "https://github.com/qdm12/gluetun",
+    "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.  MIT docker"
+  },
+  {
     "name": "Headscale",
     "url": "https://github.com/juanfont/headscale",
     "description": "Self-hostable fork of Tailscale, cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. BSD-3-Clause Go"

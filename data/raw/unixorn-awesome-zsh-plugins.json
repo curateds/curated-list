@@ -5384,6 +5384,11 @@
     "description": "Adds autocomplete for all Cloud Foundry CLI commands."
   },
   {
+    "name": "chezmoi",
+    "url": "https://github.com/mass8326/zsh-chezmoi",
+    "description": "Adds completions and aliases for chezmoi. Detects if you have git aliases and generates chezmoi aliases for them."
+  },
+  {
     "name": "click-completion",
     "url": "https://github.com/click-contrib/click-completion",
     "description": "Add automatic completion support for Click, including displaying the options and commands help during the tab completion."
@@ -9118,6 +9123,11 @@
     "name": "nescalante",
     "url": "https://github.com/nescalante/zsh-theme",
     "description": "Optimized for dark terminal backgrounds, includes git decorations."
+  },
+  {
+    "name": "netmask",
+    "url": "https://github.com/swomf/netmask-zsh-theme",
+    "description": "Termux-first theme. Includes decorators for ip address, full path to current directory, git status and python virtual environment."
   },
   {
     "name": "neurosimple",

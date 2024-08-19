@@ -534,6 +534,11 @@
     "description": "React, Typescript, Biome, Tailwind CSS."
   },
   {
+    "name": "React Dapp Starter",
+    "url": "https://github.com/Manta-Network/react-dapp-starter",
+    "description": "Enterprise-ready Web3 DApp starter with TypeScript, TailwindCSS, Web3Modal, Wagmi, Shadcn UI, Zustand, and TanStack Query for scalable decentralized applications."
+  },
+  {
     "name": "SvelteKit",
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps."
@@ -1564,6 +1569,16 @@
     "description": "Documentation testing for Vitest."
   },
   {
+    "name": "@poyro/vitest",
+    "url": "https://github.com/poyro/poyro",
+    "description": "Test LLM integrations using Vitest."
+  },
+  {
+    "name": "vite-plugin-csp-guard",
+    "url": "https://github.com/RockiRider/csp/tree/main/packages/vite-plugin-csp-guard",
+    "description": "Lets you configure a Content Security Policy to your project, supports all directives and hashing."
+  },
+  {
     "name": "@vitejs/plugin-vue",
     "url": "https://github.com/vitejs/vite-plugin-vue",
     "description": "Official Vue 3 support."
@@ -2068,9 +2083,19 @@
     "description": "Starter theme with Twig."
   },
   {
+    "name": "WordPlate",
+    "url": "https://github.com/vinkla/wordplate",
+    "description": "Starter app with Composer."
+  },
+  {
+    "name": "vite-plugin-typo3",
+    "url": "https://github.com/s2b/vite-plugin-typo3",
+    "description": "Frontend integration for TYPO3 CMS."
+  },
+  {
     "name": "vite-asset-collector for TYPO3",
     "url": "https://github.com/s2b/vite-asset-collector",
-    "description": "Integration for TYPO3 CMS."
+    "description": "Backend integration for TYPO3 CMS."
   },
   {
     "name": "vite",

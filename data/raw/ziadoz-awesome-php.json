@@ -2413,6 +2413,11 @@
     "description": "A cross-language RPC."
   },
   {
+    "name": "Laravel Serializable Closure",
+    "url": "https://github.com/laravel/serializable-closure",
+    "description": "A library that allows Closures to be serialized."
+  },
+  {
     "name": "noCAPTCHA",
     "url": "https://github.com/ARCANEDEV/noCAPTCHA",
     "description": "Helper for Google's noCAPTCHA (reCAPTCHA)."
@@ -2426,11 +2431,6 @@
     "name": "Safe",
     "url": "https://github.com/thecodingmachine/safe",
     "description": "All PHP functions, rewritten to throw exceptions instead of returning false."
-  },
-  {
-    "name": "SuperClosure",
-    "url": "https://github.com/jeremeamia/super_closure",
-    "description": "A library that allows Closures to be serialized."
   },
   {
     "name": "Brew PHP Switcher",

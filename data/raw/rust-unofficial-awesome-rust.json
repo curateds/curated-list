@@ -3933,19 +3933,19 @@
     "description": "OpenCL bindings"
   },
   {
-    "name": "cpmech/russell",
-    "url": "https://github.com/cpmech/russell",
-    "description": "Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra"
+    "name": "Axect/Peroxide",
+    "url": "https://github.com/Axect/Peroxide",
+    "description": "Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust"
+  },
+  {
+    "name": "Axect/Peroxide",
+    "url": "https://github.com/Axect/Peroxide",
+    "description": "Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust"
   },
   {
     "name": "cpmech/russell",
     "url": "https://github.com/cpmech/russell",
     "description": "Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra"
-  },
-  {
-    "name": "indigits/scirust",
-    "url": "https://github.com/indigits/scirust",
-    "description": "Scientific computing library"
   },
   {
     "name": "statrs-dev/statrs",
@@ -4678,6 +4678,11 @@
     "name": "rusqlite",
     "url": "https://github.com/rusqlite/rusqlite",
     "description": "Sqlite3 bindings"
+  },
+  {
+    "name": "arthurhenrique/rusti-cal",
+    "url": "https://github.com/arthurhenrique/rusti-cal",
+    "description": "A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust."
   },
   {
     "name": "chronotope/chrono",

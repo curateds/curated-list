@@ -2113,6 +2113,15 @@
     "description": "A lenient HTML/XML parser, tolerant on malformed markup. zlib. Best used with lquery and clss."
   },
   {
+    "name": "cl-html5-parser",
+    "url": "https://github.com/rotatef/cl-html5-parser",
+    "description": "HTML5 parser for Common Lisp. GPL3.0."
+  },
+  {
+    "name": "example",
+    "url": "https://github.com/Shinmera/plump/issues/50%5D"
+  },
+  {
     "name": "lquery",
     "url": "https://github.com/Shinmera/lquery",
     "description": "A jQuery-like HTML/DOM manipulation library. zlib."
