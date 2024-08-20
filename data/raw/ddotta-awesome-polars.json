@@ -65,6 +65,41 @@
     "description": "Talk by @ritchie46 that introduces Polars and some of its design decisions."
   },
   {
+    "name": "polars-xdt",
+    "url": "https://github.com/pola-rs/polars-xdt",
+    "description": "Polars plugin offering eXtra stuff for DateTimes (originally by @MarcoGorelli)."
+  },
+  {
+    "name": "polars-finance",
+    "url": "https://github.com/ngriffiths13/polars-finance",
+    "description": "A collection of Python Polars plugins and functions for market data processing by @ngriffiths13."
+  },
+  {
+    "name": "polars_encryption",
+    "url": "https://github.com/zlobendog/polars_encryption",
+    "description": "Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by @zlobendog."
+  },
+  {
+    "name": "polars_iptools",
+    "url": "https://github.com/erichutchins/polars_iptools",
+    "description": "Polars plugin for IP address parsing and enrichment including geolocation by @erichutchins."
+  },
+  {
+    "name": "life_polars_plugin",
+    "url": "https://github.com/condekind/life_polars_plugin",
+    "description": "Polars plugin to showcase some features of the plugin system by @condekind."
+  },
+  {
+    "name": "polars-url",
+    "url": "https://github.com/condekind/polars-url",
+    "description": "Polars plugin to parse/extract fields from urls by @condekind."
+  },
+  {
+    "name": "polars-ml",
+    "url": "https://github.com/barak1412/polars_ml",
+    "description": "Polars plugin for machine learning by @barak1412."
+  },
+  {
     "name": "polars for Python",
     "url": "https://github.com/pola-rs/polars/tree/master/py-polars",
     "description": "Python polars package to use polars DataFrame from Python."
@@ -89,16 +124,6 @@
     "description": "Machine learning Python package built on Polars for time-series predictions by @neocortexdb. According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !"
   },
   {
-    "name": "Python package functime",
-    "url": "https://docs.functime.ai/",
-    "description": "Machine learning Python package built on Polars for time-series predictions by @neocortexdb. According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !"
-  },
-  {
-    "name": "polars-xdt",
-    "url": "https://github.com/pola-rs/polars-xdt",
-    "description": "Polars plugin offering eXtra stuff for DateTimes (originally by @MarcoGorelli)."
-  },
-  {
     "name": "Ibis Python package for Polars",
     "url": "https://ibis-project.org/backends/polars",
     "description": "Ibis is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars."
@@ -110,8 +135,8 @@
   },
   {
     "name": "Narwhals",
-    "url": "https://github.com/MarcoGorelli/narwhals",
-    "description": "Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by @MarcoGorelli."
+    "url": "https://github.com/narwhals-dev/narwhals",
+    "description": "Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by @narwhals-dev."
   },
   {
     "name": "polars-upgrade",
@@ -149,39 +174,19 @@
     "description": "Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by @azmyrajab."
   },
   {
-    "name": "polars-finance",
-    "url": "https://github.com/ngriffiths13/polars-finance",
-    "description": "A collection of Python Polars plugins and functions for market data processing by @ngriffiths13."
-  },
-  {
     "name": "polars-candle",
     "url": "https://github.com/wdoppenberg/polars-candle",
     "description": "Python package for for running candle ML models on Polars DataFrames by @wdoppenberg."
   },
   {
-    "name": "polars_encryption",
-    "url": "https://github.com/zlobendog/polars_encryption",
-    "description": "Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by @zlobendog."
+    "name": "photoshoot",
+    "url": "https://github.com/ngriffiths13/photoshoot",
+    "description": "A pytest plugin library for doing snapshot testing with Polars DataFrames by @ngriffiths13."
   },
   {
-    "name": "polars_iptools",
-    "url": "https://github.com/erichutchins/polars_iptools",
-    "description": "Polars plugin for IP address parsing and enrichment including geolocation by @erichutchins."
-  },
-  {
-    "name": "life_polars_plugin",
-    "url": "https://github.com/condekind/life_polars_plugin",
-    "description": "Polars plugin to showcase some features of the plugin system by @condekind."
-  },
-  {
-    "name": "polars-url",
-    "url": "https://github.com/condekind/polars-url",
-    "description": "Polars plugin to parse/extract fields from urls by @condekind."
-  },
-  {
-    "name": "polars-ml",
-    "url": "https://github.com/barak1412/polars_ml",
-    "description": "Polars plugin for machine learning by @barak1412."
+    "name": "polar_patch",
+    "url": "https://github.com/Summit-Sailors/polar_patch",
+    "description": "Python package that brings type safety and type checking for custom Polars plugins by @Summit-Sailors."
   },
   {
     "name": "polars for Rust",
@@ -923,6 +928,11 @@
     "name": "Polars - SQL Interface for Querying DataFrames",
     "url": "https://www.youtube.com/watch?v=-D_tsBY4NrI",
     "description": "SQL Interface for Querying DataFrames ⏳ 20 min - A video that shows how to use SQL to query the data in Polars DataFrames by @bugbytes-io."
+  },
+  {
+    "name": "How to Learn the Polars DataFrame Library",
+    "url": "https://www.youtube.com/watch?v=OTVDmA6CRlQ",
+    "description": "A long video that explains and illustrates the basic principles of Polars by @KeithGalli. Associated github repo is here."
   },
   {
     "name": "pola-rs (@pola-rs)",

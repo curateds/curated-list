@@ -972,8 +972,7 @@
   },
   {
     "name": "bepoptimist",
-    "url": "https://github.com/sheoak/zsh-bepoptimist/",
-    "description": "Remaps vi-mode for the French bépo keyboard."
+    "url": "https://github.com/sheoak/zsh-bepoptimist/"
   },
   {
     "name": "bitbucket-git-helpers",
@@ -3895,6 +3894,11 @@
     "description": "Lua + LuaRocks virtual environment manager based upon VirtualZ."
   },
   {
+    "name": "rose-pine-man",
+    "url": "https://github.com/const-void/rose-pine-man",
+    "description": "Colorizes man pages."
+  },
+  {
     "name": "ros2-env",
     "url": "https://github.com/Butakus/ros2-env",
     "description": "Manage ROS 2 environment and workspaces."
@@ -4132,6 +4136,11 @@
     "name": "snippets",
     "url": "https://github.com/willghatch/zsh-snippets",
     "description": "Command line snippet expansion."
+  },
+  {
+    "name": "snr",
+    "url": "https://github.com/raisedadead/zsh-snr",
+    "description": "Passes the selected output of the first command to the next."
   },
   {
     "name": "solarized-man",
