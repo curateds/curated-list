@@ -1,5 +1,30 @@
 [
   {
+    "name": "Ergo",
+    "url": "https://github.com/ergo-services/ergo",
+    "description": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang."
+  },
+  {
+    "name": "Goakt",
+    "url": "https://github.com/Tochemey/goakt",
+    "description": "Fast and Distributed Actor framework using protocol buffers as message for Golang."
+  },
+  {
+    "name": "Hollywood",
+    "url": "https://github.com/anthdm/hollywood",
+    "description": "Blazingly fast and light-weight Actor engine written in Golang."
+  },
+  {
+    "name": "ProtoActor",
+    "url": "https://github.com/asynkron/protoactor-go",
+    "description": "Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin."
+  },
+  {
+    "name": "fun",
+    "url": "https://gitlab.com/tozd/go/fun",
+    "description": "The simplest but powerful way to use large language models (LLMs) in Go."
+  },
+  {
     "name": "langchaingo",
     "url": "https://github.com/tmc/langchaingo",
     "description": "LangChainGo is a framework for developing applications powered by language models."

@@ -67,7 +67,7 @@
   {
     "name": "polars-xdt",
     "url": "https://github.com/pola-rs/polars-xdt",
-    "description": "Polars plugin offering eXtra stuff for DateTimes (originally by @MarcoGorelli)."
+    "description": "Polars plugin with extra-datetime-related functionalities by @MarcoGorelli."
   },
   {
     "name": "polars-finance",
@@ -100,9 +100,19 @@
     "description": "Polars plugin for machine learning by @barak1412."
   },
   {
+    "name": "polars-distance",
+    "url": "https://github.com/ion-elgreco/polars-distance",
+    "description": "Polars plugin for pairwise distance functions by @ion-elgreco."
+  },
+  {
     "name": "polars for Python",
     "url": "https://github.com/pola-rs/polars/tree/master/py-polars",
     "description": "Python polars package to use polars DataFrame from Python."
+  },
+  {
+    "name": "PDS(polars-ds)",
+    "url": "https://github.com/abstractqqq/polars_ds_extension",
+    "description": "A modern take on data science and traditional tabular machine learning with Polars. It provides Python modules that help with EDA tasks for Polars dataframes, machine learning pipelines that are native to Polars (cleaner and faster than Sklearn). In addition, it contains Polars plugin functions that turns many common numerical, statistical functions, least squares, KNN queries, and many other ML metrics into expressions that are executable inside a Polars dataframe.@abstractqqq."
   },
   {
     "name": "tidypolars",
@@ -127,11 +137,6 @@
     "name": "Ibis Python package for Polars",
     "url": "https://ibis-project.org/backends/polars",
     "description": "Ibis is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars."
-  },
-  {
-    "name": "Python package polars-ds",
-    "url": "https://github.com/abstractqqq/polars_ds_extension",
-    "description": "Python package that contains multiple extension to simplify common numerical/string data analysis procedures by @abstractqqq."
   },
   {
     "name": "Narwhals",

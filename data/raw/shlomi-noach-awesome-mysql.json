@@ -45,6 +45,11 @@
     "description": "a protocol analyzer that can decode the MySQL protocol."
   },
   {
+    "name": "Dolphie",
+    "url": "https://github.com/charles-001/dolphie",
+    "description": "a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL"
+  },
+  {
     "name": "Dumpling",
     "url": "https://github.com/pingcap/tidb/tree/master/dumpling",
     "description": "Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library"
