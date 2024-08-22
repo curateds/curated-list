@@ -6222,6 +6222,11 @@
     "description": "Decompression library for RAR, TAR, ZIP and 7z archives."
   },
   {
+    "name": "goenum",
+    "url": "https://github.com/lvyahui8/goenum",
+    "description": "A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods."
+  },
+  {
     "name": "gofakeit",
     "url": "https://github.com/brianvoe/gofakeit",
     "description": "Random data generator written in go."

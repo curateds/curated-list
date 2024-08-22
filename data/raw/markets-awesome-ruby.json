@@ -1258,6 +1258,11 @@
     "description": "FreeTDS bindings for Ruby using DB-Library."
   },
   {
+    "name": "Trilogy",
+    "url": "https://github.com/trilogy-libraries/trilogy",
+    "description": "A performance-oriented C library for MySQL-compatible databases."
+  },
+  {
     "name": "connection_pool",
     "url": "https://github.com/mperham/connection_pool",
     "description": "Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc."

@@ -625,6 +625,11 @@
     "description": "Ada binding of the ImGui library."
   },
   {
+    "name": "anuklear",
+    "url": "https://github.com/ada-game-framework/anuklear",
+    "description": "Ada binding to the Nuklear GUI library and the Nuklear-SDL renderer."
+  },
+  {
     "name": "curses",
     "url": "https://github.com/annexi-strayline/Curses",
     "description": "Advanced UNIX Terminal UI Ada Binding Package."
@@ -986,8 +991,8 @@
   },
   {
     "name": "sal",
-    "url": "https://www.stephe-leake.org/ada/sal.html",
-    "description": "SAL (Stephe's Ada Library)."
+    "url": "https://web.archive.org/web/20240525031005/https://www.stephe-leake.org/ada/sal.html",
+    "description": "SAL (Stephe's Ada Library): customized containers, AUnit extensions and various generics."
   },
   {
     "name": "nb-ada",

@@ -105,6 +105,11 @@
     "description": "Polars plugin for pairwise distance functions by @ion-elgreco."
   },
   {
+    "name": "polars-reverse-geocode",
+    "url": "https://github.com/MarcoGorelli/polars-reverse-geocode",
+    "description": "This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by @MarcoGorelli."
+  },
+  {
     "name": "polars for Python",
     "url": "https://github.com/pola-rs/polars/tree/master/py-polars",
     "description": "Python polars package to use polars DataFrame from Python."
@@ -957,11 +962,6 @@
   {
     "name": "Danny van Kooten (@dannyvankooten)",
     "url": "https://github.com/dannyvankooten",
-    "description": "Member of Polars organisation"
-  },
-  {
-    "name": "Søren Havelund Welling (@sorhawell)",
-    "url": "https://github.com/sorhawell",
     "description": "Member of Polars organisation"
   },
   {

@@ -525,6 +525,11 @@
     "description": "Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code."
   },
   {
+    "name": "yetone/avante.nvim",
+    "url": "https://github.com/yetone/avante.nvim",
+    "description": "Chat with your code as if you are in Cursor AI IDE."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."
@@ -3923,6 +3928,11 @@
     "name": "mawkler/demicolon.nvim",
     "url": "https://github.com/mawkler/demicolon.nvim",
     "description": "Use ; and , keys to also repeat jumps to diagnostics (e.g. ]d) and to nvim-treesitter-textobjects (e.g. ]f), in addition to repeating t/T/f/F."
+  },
+  {
+    "name": "debugloop/layers.nvim",
+    "url": "https://github.com/debugloop/layers.nvim",
+    "description": "Craft temporary keymap overlays and layered modes with ease."
   },
   {
     "name": "notomo/gesture.nvim",

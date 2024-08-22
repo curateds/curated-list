@@ -98,6 +98,11 @@
     "description": "A plugin to add a glossary terms entity to the Draftail editor."
   },
   {
+    "name": "Wagtail Text Alignment",
+    "url": "https://github.com/Nigel2392/wagtail_text_alignment",
+    "description": "Align text, headings and more in your Wagtail richtext editor."
+  },
+  {
     "name": "wagtailgmaps",
     "url": "https://github.com/springload/wagtailgmaps",
     "description": "Simple Google Maps address formatter for Wagtail fields."
@@ -220,6 +225,11 @@
     "name": "Wagtail-Flags",
     "url": "https://github.com/cfpb/wagtail-flags",
     "description": "Feature flags for Wagtail sites."
+  },
+  {
+    "name": "Wagtail-Waffle",
+    "url": "https://github.com/TheCodingSheikh/wagtail-waffle",
+    "description": "Manage Django Waffle in Wagtail."
   },
   {
     "name": "wagtailinvoices",
@@ -464,16 +474,6 @@
     "description": "A way to manage your Django Celery Beat tasks inside of the Wagtail admin."
   },
   {
-    "name": "wagtailmenus",
-    "url": "https://github.com/rkhleics/wagtailmenus",
-    "description": "An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way."
-  },
-  {
-    "name": "Wagtail Error Pages",
-    "url": "https://gitlab.com/alexgleason/wagtailerrorpages",
-    "description": "Pretty, smart, customizable error pages for Wagtail."
-  },
-  {
     "name": "Wagtail Themes",
     "url": "https://github.com/moorinteractive/wagtail-themes",
     "description": "Site-specific theme loader for Wagtail."
@@ -481,26 +481,6 @@
   {
     "name": "Wagtail Sharing",
     "url": "https://github.com/cfpb/wagtail-sharing"
-  },
-  {
-    "name": "Wagtail Gridder",
-    "url": "https://github.com/wharton/wagtailgridder",
-    "description": "Grid card layout similar to Google image search results, with an expanded area for card details."
-  },
-  {
-    "name": "Wagtail Condensed Inline Panel",
-    "url": "https://github.com/wagtail/wagtail-condensedinlinepanel",
-    "description": "Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support)."
-  },
-  {
-    "name": "Joyous",
-    "url": "https://github.com/linuxsoftware/ls.joyous",
-    "description": "A calendar application for Wagtail."
-  },
-  {
-    "name": "Wagtail App Pages",
-    "url": "https://github.com/mwesterhof/wagtail_app_pages",
-    "description": "Extend Wagtail pages using an actual URL config and django views."
   },
   {
     "name": "Wagtail Transfer",
@@ -523,6 +503,56 @@
     "description": "A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags."
   },
   {
+    "name": "Wagtail Live Preview",
+    "url": "https://github.com/KalobTaulien/wagtail-livepreview",
+    "description": "Live page previews beside your content."
+  },
+  {
+    "name": "Wagtail Content Import",
+    "url": "https://github.com/torchbox/wagtail-content-import",
+    "description": "Import content from Google Docs or Docx into StreamFields, using a customisable mapping system."
+  },
+  {
+    "name": "Wagtail Headless Preview",
+    "url": "https://github.com/torchbox/wagtail-headless-preview",
+    "description": "Previews for headless Wagtail setups"
+  },
+  {
+    "name": "Wagtail-FEdit",
+    "url": "https://github.com/Nigel2392/wagtail_fedit",
+    "description": "Add frontend editing to your Wagtail site."
+  },
+  {
+    "name": "wagtailmenus",
+    "url": "https://github.com/rkhleics/wagtailmenus",
+    "description": "An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way."
+  },
+  {
+    "name": "Wagtail Error Pages",
+    "url": "https://gitlab.com/alexgleason/wagtailerrorpages",
+    "description": "Pretty, smart, customizable error pages for Wagtail."
+  },
+  {
+    "name": "Wagtail Gridder",
+    "url": "https://github.com/wharton/wagtailgridder",
+    "description": "Grid card layout similar to Google image search results, with an expanded area for card details."
+  },
+  {
+    "name": "Wagtail Condensed Inline Panel",
+    "url": "https://github.com/wagtail/wagtail-condensedinlinepanel",
+    "description": "Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support)."
+  },
+  {
+    "name": "Joyous",
+    "url": "https://github.com/linuxsoftware/ls.joyous",
+    "description": "A calendar application for Wagtail."
+  },
+  {
+    "name": "Wagtail App Pages",
+    "url": "https://github.com/mwesterhof/wagtail_app_pages",
+    "description": "Extend Wagtail pages using an actual URL config and django views."
+  },
+  {
     "name": "Wagtail Cache",
     "url": "https://github.com/coderedcorp/wagtail-cache",
     "description": "A simple page cache for Wagtail using the Django cache middleware."
@@ -538,18 +568,8 @@
     "description": "Mixin support for drag-and-drop ordering in admin panel."
   },
   {
-    "name": "Wagtail Live Preview",
-    "url": "https://github.com/KalobTaulien/wagtail-livepreview",
-    "description": "Live page previews beside your content."
-  },
-  {
     "name": "Wagtail Resume",
     "url": "https://github.com/adinhodovic/wagtail-resume"
-  },
-  {
-    "name": "Wagtail Content Import",
-    "url": "https://github.com/torchbox/wagtail-content-import",
-    "description": "Import content from Google Docs or Docx into StreamFields, using a customisable mapping system."
   },
   {
     "name": "Wagtail Trash",
@@ -575,11 +595,6 @@
     "name": "Wagtail Cache Invalidator",
     "url": "https://github.com/vicktornl/wagtail-cache-invalidator",
     "description": "Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS."
-  },
-  {
-    "name": "Wagtail Headless Preview",
-    "url": "https://github.com/torchbox/wagtail-headless-preview",
-    "description": "Previews for headless Wagtail setups"
   },
   {
     "name": "Wagtail Word",
@@ -647,6 +662,14 @@
     "name": "State Design System (DSFR) starter",
     "url": "https://github.com/numerique-gouv/content-manager",
     "description": "Wagtail template and starter kit from the French government."
+  },
+  {
+    "name": "Wagtail tutorial template",
+    "url": "https://github.com/thibaudcolas/wagtail-tutorial-template"
+  },
+  {
+    "name": "Wagtail news template",
+    "url": "https://github.com/torchbox/wagtail-news-template"
   },
   {
     "name": "Getting started in Wagtail, a newcomer's perspective",
