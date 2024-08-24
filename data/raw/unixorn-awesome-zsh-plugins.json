@@ -526,11 +526,6 @@
     "url": "https://github.com/agkozak/agkozak-zsh-prompt"
   },
   {
-    "name": "1999",
-    "url": "https://github.com/DTan13/zsh1999",
-    "description": "Powerline-esque theme. Includes git status decorations, network and battery status."
-  },
-  {
     "name": "1password",
     "url": "https://github.com/agpenton/1password-zsh-plugin",
     "description": "Adds 1Password functionality including a opswd command that wraps the op command. It takes a service name as an argument and copies the password for that service to the clipboard."
@@ -3324,11 +3319,6 @@
     "description": "Enables starting Opera GX with a specific user profile by using the opgx command followed by the profile's name. The plugin also implements autocompletion for profile names."
   },
   {
-    "name": "operator",
-    "url": "https://github.com/nivv/operator-theme",
-    "description": "Clean and simple theme, works best with Menlo for Powerline."
-  },
-  {
     "name": "opp",
     "url": "https://github.com/hchbaw/opp.zsh",
     "description": "Vim's text-objects-ish for ZSH."
@@ -5108,11 +5098,6 @@
     "description": "A Node.js version manager for ZSH similar to nvm.sh but faster."
   },
   {
-    "name": "zoo",
-    "url": "https://github.com/salamantos/zoo_sh",
-    "description": "Casual theme with animal emoji. Includes decorators for current directory, time and git status."
-  },
-  {
     "name": "zoxide",
     "url": "https://github.com/ajeetdsouza/zoxide",
     "description": "A fast alternative to cd that learns your habits."
@@ -6199,6 +6184,11 @@
     "name": "14degree",
     "url": "https://github.com/saims0n/14degree-zsh-theme/",
     "description": "Includes git, virtualenv and rvm status decorations."
+  },
+  {
+    "name": "1999",
+    "url": "https://github.com/DTan13/zsh1999",
+    "description": "Powerline-esque theme. Includes git status decorations, network and battery status."
   },
   {
     "name": "a",
@@ -9319,6 +9309,11 @@
     "description": "Based on Oh-My-ZSH's amuse. Has decorations for git status, time, absolute pwd, RAM usage, time used by last command, and last command exit status."
   },
   {
+    "name": "operator",
+    "url": "https://github.com/nivv/operator-theme",
+    "description": "Clean and simple theme, works best with Menlo for Powerline."
+  },
+  {
     "name": "ortiz (andres-ortizl)",
     "url": "https://github.com/andres-ortizl/ortiz-zsh-theme",
     "description": "Fork of eriner with decorations for the interval between commands and k8s context."
@@ -11187,6 +11182,11 @@
     "name": "zodiac",
     "url": "https://github.com/adamalsen/zsh-zodiac",
     "description": "Includes an emoji for the animal corresponding to the current year."
+  },
+  {
+    "name": "zoo",
+    "url": "https://github.com/salamantos/zoo_sh",
+    "description": "Casual theme with animal emoji. Includes decorators for current directory, time and git status."
   },
   {
     "name": "zp",

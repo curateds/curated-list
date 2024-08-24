@@ -1108,6 +1108,11 @@
     "description": "A modern package manager for protocol buffers and gRPC architectures."
   },
   {
+    "name": "rebos",
+    "url": "https://crates.io/crates/rebos",
+    "description": "A declarative way to automate package management on any linux distro"
+  },
+  {
     "name": "hyperswitch",
     "url": "https://github.com/juspay/hyperswitch",
     "description": "An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration"
@@ -3749,7 +3754,7 @@
   },
   {
     "name": "ratatui-org/ratatui",
-    "url": "https://github.com/ratatui-org/ratatui",
+    "url": "https://github.com/ratatui/ratatui",
     "description": "Library that's all about cooking up terminal user interfaces (TUIs)"
   },
   {

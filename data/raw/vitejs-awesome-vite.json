@@ -119,6 +119,11 @@
     "description": "Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np."
   },
   {
+    "name": "vite-swagger-ui",
+    "url": "https://github.com/lukefernandez/vite-swagger-ui",
+    "description": "Swagger UI with built-in support for multiple APIs."
+  },
+  {
     "name": "Vitesse",
     "url": "https://github.com/antfu/vitesse",
     "description": "Opinionated starter template."
@@ -257,6 +262,11 @@
     "name": "celeris-web",
     "url": "https://github.com/kirklin/celeris-web",
     "description": "Template based on Vite + Vue3 + TypeScript + Vue-Router + Pinia + Unocss + Naive UI + pnpm Monorepo."
+  },
+  {
+    "name": "vite-ts-starter",
+    "url": "https://github.com/pdsuwwz/vite-ts-starter",
+    "description": "Vue I18n Dynamic Router Localization Template, Internationalized Applications with UnoCSS + Unplugin + Element-Plus + Vitest + TypeScript + Vue-Router + Vuex + Scss + ESLint + Stylelint + Husky + lint-staged."
   },
   {
     "name": "vite-vue2-windicss-starter",

@@ -152,6 +152,11 @@
     "description": "Official C# driver"
   },
   {
+    "name": "mongo-efcore-provider",
+    "url": "https://github.com/mongodb/mongo-efcore-provider",
+    "description": "Official Entity Framework (EF) Core provider for MongoDB"
+  },
+  {
     "name": "mongo-queue-csharp",
     "url": "https://github.com/dominionenterprises/mongo-queue-csharp",
     "description": "C# message queue on top of MongoDB"

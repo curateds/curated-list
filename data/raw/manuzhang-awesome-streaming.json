@@ -340,6 +340,11 @@
     "description": "distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability."
   },
   {
+    "name": "AutoMQ",
+    "url": "https://github.com/AutoMQ/automq",
+    "description": "cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 100% Kafka compatible. 10x cost-effective. Autoscale in seconds. Single-digit ms latency."
+  },
+  {
     "name": "brooklin",
     "url": "https://github.com/linkedin/Brooklin/",
     "description": "a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus)."
