@@ -190,6 +190,61 @@
     "description": "Presents a wide range of results in logic and computational complexity."
   },
   {
+    "name": "MIT OCW",
+    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/",
+    "description": "MIT OCW, HTML book, Byford's playlist, Javascript book, Python book, Berkeley - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation."
+  },
+  {
+    "name": "Pennsylvania. Software Foundations",
+    "url": "https://softwarefoundations.cis.upenn.edu/",
+    "description": "A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed."
+  },
+  {
+    "name": "UW CSE505 18au Principles of PL",
+    "url": "https://sites.google.com/cs.washington.edu/cse-505-18au/home",
+    "description": "Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs."
+  },
+  {
+    "name": "Pierce. Software Foundations",
+    "url": "https://softwarefoundations.cis.upenn.edu/",
+    "description": "A broad introduction series to the mathematical underpinnings of reliable software with Coq proof assistant. It's intended for a broad range of readers, with no specific background assumed."
+  },
+  {
+    "name": "Chlipala. Formal Reasoning About Programs",
+    "url": "http://adam.chlipala.net/frap",
+    "description": "A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness."
+  },
+  {
+    "name": "Lean Proof Assistant",
+    "url": "https://lean-lang.org/documentation/",
+    "description": "Lean Proof Assistant."
+  },
+  {
+    "name": "Martin-Löf. Intuitionistic Type Theory",
+    "url": "https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf",
+    "description": "Notes by Giovanni Sambin of a series of type theory lectures given in Padua, June 1980."
+  },
+  {
+    "name": "Bengt. Programming in Martin-Löf's Type Theory",
+    "url": "https://www.cse.chalmers.se/research/group/logic/book/book.pdf",
+    "description": "This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective."
+  },
+  {
+    "name": "The Univalent Foundations Program Institute for Advanced Study. Homotopy Type Theory: Univalent Foundations of Mathematics",
+    "url": "https://homotopytypetheory.org/book",
+    "description": "The present book is intended as a first systematic exposition of the basics of univalent foundations, and a collection of examples of this new style of reasoning — but without requiring the reader to know or learn any formal logic, or to use any computer proof assistant."
+  },
+  {
+    "name": "Helsinki. Haskell MOOC",
+    "url": "https://haskell.mooc.fi",
+    "description": "An online course on functional programming with Haskell programming language, and a live interactive Telegram community."
+  },
+  {
+    "name": "Cornell. Functional Programming in Ocaml",
+    "url": "https://www.cs.cornell.edu/courses/cs3110/2024sp",
+    "description": "A modern course on data structures and functional programming using OCaml."
+  },
+  {
     "name": "Arora. Advanced Algorithm Design",
     "url": "https://www.cs.princeton.edu/courses/archive/fall15/cos521/",
     "description": "Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc."
@@ -1007,23 +1062,25 @@
   },
   {
     "name": "Algorithms",
-    "url": "https://github.com/tayllan/awesome-algorithms",
-    "description": "Awesome list for design and analysis of algorithms"
+    "url": "https://github.com/tayllan/awesome-algorithms"
   },
   {
     "name": "Mathematics",
     "url": "https://github.com/rossant/awesome-math",
-    "description": "Awesome list for freely available lecture notes on mathematics"
+    "description": "Freely available lecture notes on mathematics."
+  },
+  {
+    "name": "nLab",
+    "url": "https://ncatlab.org/nlab/show/mathematics",
+    "description": "Logic, Math, Proof Assistants, and Type Theory."
   },
   {
     "name": "Cryptography",
-    "url": "https://github.com/sobolevn/awesome-cryptography",
-    "description": "Awesome list for cryptography"
+    "url": "https://github.com/sobolevn/awesome-cryptography"
   },
   {
     "name": "Quantum Computing",
-    "url": "https://github.com/desireevl/awesome-quantum-computing",
-    "description": "Awesome list for quantum computing"
+    "url": "https://github.com/desireevl/awesome-quantum-computing"
   },
   {
     "name": "Math",

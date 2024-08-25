@@ -225,6 +225,21 @@
     "description": "A game for Godot Engine Jam of March 2016."
   },
   {
+    "name": "Piggy Rescue",
+    "url": "https://github.com/surreal6/piggyRescue",
+    "description": "Fun little example game where you chase and rescue little pigs."
+  },
+  {
+    "name": "Beep Saber VR",
+    "url": "https://github.com/NeoSpark314/BeepSaber",
+    "description": "Beat Saber clone in Godot."
+  },
+  {
+    "name": "Friday Night Funkin`",
+    "url": "https://github.com/this-is-bennyk/Funkin-VR",
+    "description": "VR port of the popular rhythm game."
+  },
+  {
     "name": "Clipboard Narrator",
     "url": "https://github.com/lesleyrs/clipboard-narrator",
     "description": "Turn any web page into an audiobook, works in the background on desktop!"
@@ -273,6 +288,11 @@
     "name": "vpuppr",
     "url": "https://github.com/virtual-puppet-project/vpuppr",
     "description": "A cross-platform VTuber application with mulitple tracking backends."
+  },
+  {
+    "name": "Godot XR Template",
+    "url": "https://github.com/godotVR/godot-xr-template",
+    "description": "Template for a multi-level XR game."
   },
   {
     "name": "Maaack's Game Template",
@@ -650,6 +670,11 @@
     "description": "Integrate Google Play Games Services in your Godot game."
   },
   {
+    "name": "Godot XR Tools",
+    "url": "https://github.com/godotvr/godot-xr-tools",
+    "description": "Basic components for XR development."
+  },
+  {
     "name": "LimboAI",
     "url": "https://github.com/limbonaut/limboai",
     "description": "Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial."
@@ -673,6 +698,11 @@
     "name": "PixelPen",
     "url": "https://github.com/pixelpen-dev/pixelpen",
     "description": "Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor."
+  },
+  {
+    "name": "TerraBrush",
+    "url": "https://github.com/spimort/TerraBrush",
+    "description": "Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones."
   },
   {
     "name": "AntialiasedLine2D",
