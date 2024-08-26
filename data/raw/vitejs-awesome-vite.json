@@ -1109,6 +1109,11 @@
     "description": "Generating robots.txt."
   },
   {
+    "name": "vite-plugin-bundle-obfuscator",
+    "url": "https://github.com/z0ffy/vite-plugin-bundle-obfuscator",
+    "description": "JavaScript obfuscator."
+  },
+  {
     "name": "vite-plugin-html",
     "url": "https://github.com/anncwb/vite-plugin-html",
     "description": "Plugin to minimize and use ejs template syntax in index.html."

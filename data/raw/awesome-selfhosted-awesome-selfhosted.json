@@ -80,6 +80,11 @@
     "description": "Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). (Source Code) MIT Python"
   },
   {
+    "name": "Prisme Analytics",
+    "url": "https://www.prismeanalytics.com",
+    "description": "A privacy-focused and progressive analytics service based on Grafana. (Demo, Source Code) AGPL-3.0/MIT Docker"
+  },
+  {
     "name": "Redash",
     "url": "http://redash.io",
     "description": "Connect and query your data sources, build dashboards to visualize data and share them with your company. (Source Code) BSD-2-Clause Docker"
@@ -1910,11 +1915,6 @@
     "description": "Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. (Source Code) Apache-2.0 Python/Docker/K8S"
   },
   {
-    "name": "paper{s}pace",
-    "url": "https://dedicatedcode.com/projects.html",
-    "description": "Small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks. (Source Code) MIT Java"
-  },
-  {
     "name": "Stirling-PDF",
     "url": "https://github.com/Frooodle/Stirling-PDF",
     "description": "Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. Apache-2.0 Docker/Java"
@@ -2676,7 +2676,7 @@
   },
   {
     "name": "Kubek",
-    "url": "https://kubek.seeroy.ru",
+    "url": "https://kubek.seeeroy.ru",
     "description": "Web management panel for Minecraft servers. (Source Code) GPL-3.0 Nodejs"
   },
   {
@@ -3628,6 +3628,11 @@
     "name": "mosparo",
     "url": "https://mosparo.io/",
     "description": "The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. (Source Code) MIT PHP"
+  },
+  {
+    "name": "MyIP",
+    "url": "https://ipcheck.ing",
+    "description": "All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. (Demo, Source Code) MIT Nodejs/Docker"
   },
   {
     "name": "Neko",

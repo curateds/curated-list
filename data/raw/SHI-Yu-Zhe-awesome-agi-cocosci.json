@@ -2836,7 +2836,7 @@
   {
     "name": "A foundation model for generalizable disease detection from retinal images",
     "url": "https://www.nature.com/articles/s41586-023-06555-x",
-    "description": "Nature, 2023. [All Versions]."
+    "description": "Nature, 2023. [All Versions]. This paper presents RETFound, a foundation model for retinal images that learns generalizable representations from unlabelled retinal images and provides a basis for label-efficient model adaptation in several applications. Specifically, RETFound is trained on 1.6 million unlabelled retinal images by means of self-supervised learning and then adapted to disease detection tasks with explicit labels."
   },
   {
     "name": "Accurate medium-range global weather forecasting with 3D neural networks",

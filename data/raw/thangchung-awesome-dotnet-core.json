@@ -2442,6 +2442,11 @@
     "description": "100% native C# implementation of ZeroMQ for .NET."
   },
   {
+    "name": "NServiceBus",
+    "url": "https://github.com/particular/nservicebus",
+    "description": "NServiceBus is part of the Particular Service Platform, which contains tools to build, monitor, and debug distributed systems."
+  },
+  {
     "name": "OpenCQRS",
     "url": "https://github.com/OpenCQRS/OpenCQRS",
     "description": ".NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite."

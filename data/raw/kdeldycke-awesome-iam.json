@@ -503,6 +503,11 @@
     "description": "An in-depth, vendor-agnostic treatment of authorization that emphasizes mental models. This guide shows the reader how to think about their authorization needs in order to make good decisions about their authorization architecture and model."
   },
   {
+    "name": "Service-to-service authorization: A guide to non-user principals",
+    "url": "https://www.cerbos.dev/blog/service-to-service-authorization",
+    "description": "Discover how assigning identities to services (non-user principals) can simplify authentication, enhance security, and streamline authorization in complex distributed systems. A useful guide for IAM teams managing microservices and APIs."
+  },
+  {
     "name": "Keto",
     "url": "https://github.com/ory/keto",
     "description": "Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource."
@@ -563,29 +568,19 @@
     "description": "A relationship based access control (ReBAC) engine (inspired by Google Zanzibar) also capable of enforcing any authorization paradigm, including RBAC and ABAC."
   },
   {
+    "name": "An AWS IAM Security Tooling Reference",
+    "url": "https://ramimac.me/aws-iam-tools-2024",
+    "description": "A comprehensive list of (maintained) tools for AWS IAM."
+  },
+  {
     "name": "Become an AWS IAM Policy Ninja",
     "url": "https://www.youtube.com/watch?v=y7-fAT3z8Lo",
     "description": "“In my nearly 5 years at Amazon, I carve out a little time each day, each week to look through the forums, customer tickets to try to find out where people are having trouble.”"
   },
   {
-    "name": "Cloudsplaining",
-    "url": "https://github.com/salesforce/cloudsplaining",
-    "description": "Security assessment tool that identifies violations of least privilege and generates a risk-prioritized report."
-  },
-  {
     "name": "Policy Sentry",
     "url": "https://github.com/salesforce/policy_sentry",
     "description": "Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds."
-  },
-  {
-    "name": "Aardvark and Repokid",
-    "url": "https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e",
-    "description": "Netflix tools to enforce least privilege on AWS. The idea is that the default policy on new things is deny all, and then it monitors cloudtrail for privilege failures and reconfigures IAM to allow the smallest possible privilege to get rid of that deny message."
-  },
-  {
-    "name": "Principal Mapper",
-    "url": "https://github.com/nccgroup/PMapper",
-    "description": "Quickly evaluates permissions."
   },
   {
     "name": "PolicyUniverse",
@@ -606,11 +601,6 @@
     "name": "IAMbic",
     "url": "https://github.com/noqdev/iambic",
     "description": "GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control."
-  },
-  {
-    "name": "aws-lint-iam-policies",
-    "url": "https://github.com/welldone-cloud/aws-lint-iam-policies",
-    "description": "Runs IAM policy linting checks against either a single AWS account or all accounts of an AWS Organization. Reports on policies that violate security best practices or contain errors. Supports both identity-based and resource-based policies."
   },
   {
     "name": "Google's Macaroons in Five Minutes or Less",
