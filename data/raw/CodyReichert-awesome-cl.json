@@ -30,6 +30,10 @@
     "description": "Common Lisp implementation of algorithms from Russell and Norvig's \"Artificial Intelligence - A Modern Approach\"."
   },
   {
+    "name": "OpenMusic",
+    "url": "https://github.com/openmusic-project/openmusic/"
+  },
+  {
     "name": "OM7",
     "url": "https://github.com/openmusic-project/om7",
     "description": "a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. GPL3."
@@ -567,6 +571,11 @@
     "description": "Hash-table creation, access, and manipulation utilities. MIT."
   },
   {
+    "name": "cl-permutation",
+    "url": "https://github.com/stylewarning/cl-permutation",
+    "description": "Permutations and permutation groups in Common Lisp. BSD_3Clause."
+  },
+  {
     "name": "access",
     "url": "https://github.com/AccelerationNet/access/",
     "description": "Consistent and nested access to most common data structures. BSD_3Clause."
@@ -801,6 +810,11 @@
     "name": "pngload-fast",
     "url": "https://github.com/lisp-mirror/pngload",
     "description": "A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. MIT."
+  },
+  {
+    "name": "imago",
+    "url": "https://github.com/tokenrove/imago",
+    "description": "image manipulation library for Common Lisp."
   },
   {
     "name": "cl-raylib",
@@ -2152,6 +2166,11 @@
     "description": "use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling."
   },
   {
+    "name": "djula-template-designer",
+    "url": "https://github.com/mmontone/djula-template-designer",
+    "description": "a template designer tool."
+  },
+  {
     "name": "TEN",
     "url": "https://github.com/mmontone/ten",
     "description": "the completness of Djula meets the usability of Eco. MIT."
@@ -3483,6 +3502,11 @@
     "description": "Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. LLGPL."
   },
   {
+    "name": "calendar-times",
+    "url": "https://github.com/copyleft/calendar-times",
+    "description": "a calendar time library implemented on top of the LOCAL-TIME library. It features zoned calendar times and calculations."
+  },
+  {
     "name": "calendar-date",
     "url": "https://github.com/takagi/calendar-date",
     "description": "a Gregorian calendar date library. MIT."
@@ -3872,6 +3896,11 @@
     "name": "cl-isolated",
     "url": "https://github.com/kanru/cl-isolated",
     "description": "A restricted environment for Common Lisp code evaluation AGPL-3.0."
+  },
+  {
+    "name": "secret-values",
+    "url": "https://github.com/rotatef/secret-values",
+    "description": "A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords."
   },
   {
     "name": "machine-state",

@@ -226,6 +226,11 @@
     "description": "polarssql experimental package which is a DBI-compliant interface to Polars."
   },
   {
+    "name": "r-polars-dashboard",
+    "url": "https://github.com/etiennebacher/r-polars-dashboard",
+    "description": "Dashboard comparing r-polars and py-polars APIs."
+  },
+  {
     "name": "nodejs-polars for Node.js",
     "url": "https://github.com/pola-rs/nodejs-polars",
     "description": "Node.js nodejs-polars package to use polars DataFrame from Node.js."

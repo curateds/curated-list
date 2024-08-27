@@ -530,6 +530,11 @@
     "description": "Chat with your code as if you are in Cursor AI IDE."
   },
   {
+    "name": "StubbornVegeta/llm.nvim",
+    "url": "https://github.com/StubbornVegeta/llm.nvim",
+    "description": "Free large language model (LLM) support, provides commands to interact with LLM."
+  },
+  {
     "name": "Julian/lean.nvim",
     "url": "https://github.com/Julian/lean.nvim",
     "description": "Neovim support for the Lean Theorem Prover."
@@ -698,6 +703,16 @@
     "name": "cjodo/convert.nvim",
     "url": "https://github.com/cjodo/convert.nvim",
     "description": "A tool for CSS unit conversions."
+  },
+  {
+    "name": "farias-hecdin/CSSVarViewer",
+    "url": "https://github.com/farias-hecdin/CSSVarViewer",
+    "description": "Easily visualize the content of your CSS variables in a virtual text."
+  },
+  {
+    "name": "farias-hecdin/CSSVarHighlight",
+    "url": "https://github.com/farias-hecdin/CSSVarHighlight",
+    "description": "Quickly highlight the color you defined in your CSS variables with the help of mini.hipatterns."
   },
   {
     "name": "ellisonleao/glow.nvim",
@@ -2030,6 +2045,11 @@
     "description": "A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes."
   },
   {
+    "name": "killitar/obscure.nvim",
+    "url": "https://github.com/killitar/obscure.nvim",
+    "description": "A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP (including semantic tokens) and lots of plugins."
+  },
+  {
     "name": "tjdevries/gruvbuddy.nvim",
     "url": "https://github.com/tjdevries/gruvbuddy.nvim",
     "description": "Gruvbox colors."
@@ -3113,6 +3133,11 @@
     "name": "samjwill/nvim-unception",
     "url": "https://github.com/samjwill/nvim-unception",
     "description": "Automatic unnesting of Neovim sessions started from terminal buffers."
+  },
+  {
+    "name": "kassio/neoterm",
+    "url": "https://github.com/kassio/neoterm",
+    "description": "Wrapper of some :terminal functions."
   },
   {
     "name": "nyngwang/NeoTerm.lua",
@@ -4328,6 +4353,11 @@
     "name": "ptdewey/yankbank-nvim",
     "url": "https://github.com/ptdewey/yankbank-nvim",
     "description": "Enable streamlined access to recent yanks and deletions in a quick-access popup menu."
+  },
+  {
+    "name": "OXY2DEV/foldtext.nvim",
+    "url": "https://github.com/OXY2DEV/foldtext.nvim",
+    "description": "Dynamic & stylized foldtext."
   },
   {
     "name": "numToStr/Comment.nvim",

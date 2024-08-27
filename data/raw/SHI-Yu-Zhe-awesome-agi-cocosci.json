@@ -2841,7 +2841,7 @@
   {
     "name": "Accurate medium-range global weather forecasting with 3D neural networks",
     "url": "https://www.nature.com/articles/s41586-023-06185-3",
-    "description": "Nature, 2023. [All Versions]."
+    "description": "Nature, 2023. [All Versions]. This paer introduces an artificial-intelligence-based method for accurate, medium-range global weather forecasting. It shows that three-dimensional deep networks equipped with Earth-specific priors are effective at dealing with complex patterns in weather data, and that a hierarchical temporal aggregation strategy reduces accumulation errors in medium-range forecasting. Trained on 39 years of global data, the program, Pangu-Weather, obtains stronger deterministic forecast results on reanalysis data in all tested variables when compared with the world’s best NWP system, the operational integrated forecasting system of the European Centre for Medium-Range Weather Forecasts."
   },
   {
     "name": "Learning skillful medium-range global weather forecasting",
