@@ -40,6 +40,11 @@
     "description": "Run large language models locally."
   },
   {
+    "name": "OllamaFarm",
+    "url": "https://github.com/presbrey/ollamafarm",
+    "description": "Manage, load-balance, and failover packs of Ollamas"
+  },
+  {
     "name": "flac",
     "url": "https://github.com/mewkiz/flac",
     "description": "Native Go FLAC encoder/decoder with support for FLAC streams."
@@ -273,6 +278,11 @@
     "name": "kubo",
     "url": "https://github.com/ipfs/kubo",
     "description": "A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol."
+  },
+  {
+    "name": "lnd",
+    "url": "https://github.com/lightningnetwork/lnd",
+    "description": "A complete implementation of a Lighting Network node."
   },
   {
     "name": "solana-go",
@@ -710,16 +720,6 @@
     "description": "Define simple completions using a spec file."
   },
   {
-    "name": "cli",
-    "url": "https://github.com/mkideal/cli",
-    "description": "Feature-rich and easy to use command-line package based on golang struct tags."
-  },
-  {
-    "name": "cli",
-    "url": "https://github.com/teris-io/cli",
-    "description": "Simple and complete API for building command line interfaces in Go."
-  },
-  {
     "name": "climax",
     "url": "https://github.com/tucnak/climax",
     "description": "Alternative CLI with \"human face\", in spirit of Go command."
@@ -850,6 +850,11 @@
     "description": "Go library for implementing command-line interfaces."
   },
   {
+    "name": "mkideal/cli",
+    "url": "https://github.com/mkideal/cli",
+    "description": "Feature-rich and easy to use command-line package based on golang struct tags."
+  },
+  {
     "name": "mow.cli",
     "url": "https://github.com/jawher/mow.cli",
     "description": "Go library for building CLI applications with sophisticated flag and argument parsing and validation."
@@ -892,6 +897,11 @@
     "name": "survey",
     "url": "https://github.com/go-survey/survey",
     "description": "Build interactive and accessible prompts with full support for windows and posix terminals."
+  },
+  {
+    "name": "teris-io/cli",
+    "url": "https://github.com/teris-io/cli",
+    "description": "Simple and complete API for building command line interfaces in Go."
   },
   {
     "name": "ts",

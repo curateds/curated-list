@@ -410,6 +410,186 @@
     "description": "Explore k6 extensions tagged with the xk6 label."
   },
   {
+    "name": "Extension Registry",
+    "url": "https://grafana.com/docs/k6/latest/extensions/explanations/extensions-registry/",
+    "description": "Curated listing of k6 extensions."
+  },
+  {
+    "name": "xk6-client-tracing",
+    "url": "https://github.com/grafana/xk6-client-tracing",
+    "description": "Client for load testing distributed tracing backends."
+  },
+  {
+    "name": "xk6-disruptor",
+    "url": "https://github.com/grafana/xk6-disruptor",
+    "description": "Inject faults to test 💣."
+  },
+  {
+    "name": "xk6-exec",
+    "url": "https://github.com/grafana/xk6-exec",
+    "description": "Run external commands."
+  },
+  {
+    "name": "xk6-kubernetes",
+    "url": "https://github.com/grafana/xk6-kubernetes",
+    "description": "Interact with Kubernetes clusters."
+  },
+  {
+    "name": "xk6-loki",
+    "url": "https://github.com/grafana/xk6-loki",
+    "description": "Client for load testing Loki."
+  },
+  {
+    "name": "xk6-notification",
+    "url": "https://github.com/grafana/xk6-notification",
+    "description": "Create notifications."
+  },
+  {
+    "name": "xk6-output-influxdb",
+    "url": "https://github.com/grafana/xk6-output-influxdb",
+    "description": "Export results to InfluxDB v2."
+  },
+  {
+    "name": "xk6-output-kafka",
+    "url": "https://github.com/grafana/xk6-output-kafka",
+    "description": "Export k6 results in real-time to Kafka."
+  },
+  {
+    "name": "xk6-output-timescaledb",
+    "url": "https://github.com/grafana/xk6-output-timescaledb",
+    "description": "Export k6 results to TimescaleDB."
+  },
+  {
+    "name": "xk6-client-prometheus-remote",
+    "url": "https://github.com/grafana/xk6-client-prometheus-remote",
+    "description": "Test Prometheus Remote Write performance."
+  },
+  {
+    "name": "xk6-sql",
+    "url": "https://github.com/grafana/xk6-sql",
+    "description": "Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now)."
+  },
+  {
+    "name": "xk6-ssh",
+    "url": "https://github.com/grafana/xk6-ssh",
+    "description": "SSH."
+  },
+  {
+    "name": "xk6-cable",
+    "url": "https://github.com/anycable/xk6-cable",
+    "description": "Test Action Cable and AnyCable functionality."
+  },
+  {
+    "name": "xk6-coap",
+    "url": "https://github.com/golioth/xk6-coap",
+    "description": "Interact with Constrained Application Protocol endpoints."
+  },
+  {
+    "name": "xk6-dotenv",
+    "url": "https://github.com/szkiba/xk6-dotenv",
+    "description": "Load env vars from a .env file."
+  },
+  {
+    "name": "xk6-ethereum",
+    "url": "https://github.com/distribworks/xk6-ethereum",
+    "description": "K6 extension for ethereum protocols."
+  },
+  {
+    "name": "xk6-faker",
+    "url": "https://github.com/szkiba/xk6-faker",
+    "description": "Generate random fake data."
+  },
+  {
+    "name": "xk6-file",
+    "url": "https://github.com/avitalique/xk6-file",
+    "description": "Write files."
+  },
+  {
+    "name": "xk6-g0",
+    "url": "https://github.com/szkiba/xk6-g0",
+    "description": "Write k6 tests in golang."
+  },
+  {
+    "name": "xk6-kafka",
+    "url": "https://github.com/mostafa/xk6-kafka",
+    "description": "Load-test Apache Kafka. Includes support for Avro messages."
+  },
+  {
+    "name": "xk6-kv",
+    "url": "https://github.com/oleiade/xk6-kv",
+    "description": "Share key-value data between VUs."
+  },
+  {
+    "name": "xk6-mock",
+    "url": "https://github.com/szkiba/xk6-mock",
+    "description": "Mock HTTP(S) servers."
+  },
+  {
+    "name": "xk6-mqtt",
+    "url": "https://github.com/pmalhaire/xk6-mqtt",
+    "description": "MQTT extension."
+  },
+  {
+    "name": "xk6-nats",
+    "url": "https://github.com/ydarias/xk6-nats",
+    "description": "Provides NATS support for k6 tests."
+  },
+  {
+    "name": "xk6-opentelemetry",
+    "url": "https://github.com/thmshmm/xk6-opentelemetry",
+    "description": "Generate OpenTelemetry signals from within your test scripts."
+  },
+  {
+    "name": "xk6-output-elasticsearch",
+    "url": "https://github.com/elastic/xk6-output-elasticsearch",
+    "description": "Export results to Elasticsearch 8.x."
+  },
+  {
+    "name": "xk6-output-prometheus-pushgateway",
+    "url": "https://github.com/martymarron/xk6-output-prometheus-pushgateway",
+    "description": "Export results to Prometheus pushgateway."
+  },
+  {
+    "name": "xk6-output-statsd",
+    "url": "https://github.com/LeonAdato/xk6-output-statsd",
+    "description": "Enables real-time output of test metrics to a StatsD service."
+  },
+  {
+    "name": "xk6-output-timestream",
+    "url": "https://github.com/leonyork/xk6-output-timestream",
+    "description": "Export results to AWS Timestream."
+  },
+  {
+    "name": "xk6-playwright",
+    "url": "https://github.com/nicholasvuono/xk6-playwright",
+    "description": "Browser automation and end-to-end web testing using Playwright."
+  },
+  {
+    "name": "xk6-prometheus",
+    "url": "https://github.com/szkiba/xk6-prometheus",
+    "description": "Prometheus HTTP exporter for k6."
+  },
+  {
+    "name": "xk6-prompt",
+    "url": "https://github.com/Juandavi1/xk6-prompt",
+    "description": "Support for input arguments via UI."
+  },
+  {
+    "name": "xk6-sse",
+    "url": "https://github.com/phymbert/xk6-sse",
+    "description": "A k6 extension for Server-Sent Events (SSE)."
+  },
+  {
+    "name": "xk6-tcp",
+    "url": "https://github.com/NAlexandrov/xk6-tcp",
+    "description": "Send data to TCP port."
+  },
+  {
+    "name": "xk6-top",
+    "url": "https://github.com/szkiba/xk6-top",
+    "description": "Updating the current k6 metrics summaries on the terminal during the test run."
+  },
+  {
     "name": "How They Load Test",
     "url": "https://github.com/aliesbelik/how-they-load",
     "description": "A collection of resources on how companies around the world perform load testing."
