@@ -913,6 +913,11 @@
     "description": "Uname Provider for Terraform."
   },
   {
+    "name": "terraform-provider-proxmox",
+    "url": "https://github.com/Telmate/terraform-provider-proxmox",
+    "description": "Terraform Proxmox provider."
+  },
+  {
     "name": "clarity",
     "url": "https://github.com/xchapter7x/clarity",
     "description": "A declarative test framework for Terraform for unit testing."

@@ -5820,6 +5820,11 @@
     "description": "A library for parsing Backus–Naur form context-free grammars."
   },
   {
+    "name": "donnie4w/tklog",
+    "url": "https://github.com/donnie4w/tklog",
+    "description": "lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving."
+  },
+  {
     "name": "estk/log4rs",
     "url": "https://github.com/estk/log4rs",
     "description": "highly configurable logging framework modeled after Java's Logback and log4j libraries"

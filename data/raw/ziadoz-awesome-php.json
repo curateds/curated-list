@@ -760,6 +760,11 @@
     "description": "A unit testing framework."
   },
   {
+    "name": "PHPUnit Polyfills",
+    "url": "https://github.com/Yoast/PHPUnit-Polyfills/",
+    "description": "Simplifies running PHPUnit tests on multiple PHPUnit versions."
+  },
+  {
     "name": "Prophecy",
     "url": "https://github.com/phpspec/prophecy",
     "description": "A highly opinionated mocking framework."
@@ -825,8 +830,8 @@
     "description": "A documentation generator that uses Markdown files."
   },
   {
-    "name": "PHP Documentor 2",
-    "url": "https://github.com/phpDocumentor/phpDocumentor",
+    "name": "phpDocumentor",
+    "url": "https://phpdoc.org/",
     "description": "A documentation generator."
   },
   {
@@ -1021,8 +1026,8 @@
   },
   {
     "name": "PHP CodeSniffer",
-    "url": "https://github.com/squizlabs/PHP_CodeSniffer",
-    "description": "A library that detects PHP, CSS and JS coding standard violations."
+    "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer",
+    "description": "A library that detects and can auto-fix PHP, CSS and JS coding standard violations."
   },
   {
     "name": "PHP CS Fixer",
