@@ -165,6 +165,11 @@
     "description": "A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs."
   },
   {
+    "name": "jwx",
+    "url": "https://github.com/lestrrat-go/jwx",
+    "description": "Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies"
+  },
+  {
     "name": "keto",
     "url": "https://github.com/ory/keto",
     "description": "Open Source (Go) implementation of \"Zanzibar: Google's Consistent, Global Authorization System\". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models."

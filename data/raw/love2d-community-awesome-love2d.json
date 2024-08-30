@@ -445,6 +445,11 @@
     "description": "Yet Another Screen manager."
   },
   {
+    "name": "SceneMan",
+    "url": "https://github.com/KINGTUT10101/SceneMan",
+    "description": "A simple, but powerful scene/gamestate manager that uses a stack, allowing you to run multiple scenes at once."
+  },
+  {
     "name": "Scenery",
     "url": "https://github.com/paltze/scenery",
     "description": "A dead simple scene/state management system."
@@ -1005,6 +1010,11 @@
     "description": "Small immediate mode GUI library."
   },
   {
+    "name": "TuxRedux",
+    "url": "https://github.com/KINGTUT10101/TuxRedux",
+    "description": "An immediate-mode UI system for LOVE2D inspired by SUIT."
+  },
+  {
     "name": "YALG",
     "url": "https://github.com/sasszem/yalg",
     "description": "A very simple, cross-platform, reactive UI for last minute UIs."
@@ -1022,7 +1032,12 @@
   {
     "name": "Badar 🌕",
     "url": "https://github.com/Nabeel20/Badar",
-    "description": "Declarative, retained* and flexbox inspired UI library and components."
+    "description": "Simple custom UI syntax for easy components compositions."
+  },
+  {
+    "name": "andromeda",
+    "url": "https://github.com/itzKiwiSky/Andromeda",
+    "description": "Asset database and loader for love."
   },
   {
     "name": "ArrayRotation",
@@ -1075,6 +1090,11 @@
     "description": "General purpose ini configuration parser."
   },
   {
+    "name": "KeyedArray",
+    "url": "https://github.com/KINGTUT10101/KeyedArray",
+    "description": "A special data structure where items can be found by their position or key. Similar to an ordered dictionary."
+  },
+  {
     "name": "log.lua",
     "url": "https://github.com/rxi/log.lua",
     "description": "Library for configurable log output."
@@ -1108,6 +1128,11 @@
     "name": "Lily",
     "url": "https://github.com/MikuAuahDark/lily",
     "description": "Async Asset Loader."
+  },
+  {
+    "name": "LuaRequireExtended",
+    "url": "https://github.com/KINGTUT10101/LuaRequireExtended",
+    "description": "A Lua module that lets you require files with input parameters and multiple output values."
   },
   {
     "name": "luasteam",
@@ -1355,9 +1380,19 @@
     "description": "A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux."
   },
   {
+    "name": "lovesfx",
+    "url": "https://github.com/tpimh/lovesfx",
+    "description": "Packs love games in a single file for windows."
+  },
+  {
     "name": "makelove",
     "url": "https://github.com/pfirsich/makelove",
     "description": "Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage."
+  },
+  {
+    "name": "love-build",
+    "url": "https://github.com/ellraiser/love-build",
+    "description": "Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS."
   },
   {
     "name": "love-deploy",

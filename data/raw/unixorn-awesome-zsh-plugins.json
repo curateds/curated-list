@@ -1945,13 +1945,8 @@
     "description": "Better handling of passwords using fzf and pass."
   },
   {
-    "name": "fzf-plugin (atlas34)",
+    "name": "fzf-plugin",
     "url": "https://github.com/Atlas34/fzf-plugin",
-    "description": "oh-my-zsh's fzf plugin extracted so it can be used easily with other plugin managers."
-  },
-  {
-    "name": "fzf-plugin (hwk929)",
-    "url": "https://github.com/hwk929/zsh-fzf",
     "description": "oh-my-zsh's fzf plugin extracted so it can be used easily with other plugin managers."
   },
   {
@@ -8176,7 +8171,7 @@
   },
   {
     "name": "igorsilva",
-    "url": "https://github.com/igor9silva/zsh-theme",
+    "url": "https://github.com/igor9silva/igorsilva-zsh-theme",
     "description": "Shows current directory, customizable delimiter, current branch, and git status decorators."
   },
   {
@@ -8258,6 +8253,10 @@
     "name": "jam",
     "url": "https://github.com/jesusangelm/Jam-Zsh-Theme",
     "description": "Optimized for dark backgrounds, includes git status and rvm status."
+  },
+  {
+    "name": "jax",
+    "url": "https://github.com/jhammerberg/jax-theme"
   },
   {
     "name": "jc",
@@ -8602,6 +8601,11 @@
     "name": "lgbtq",
     "url": "https://github.com/PhoenixSmaug/zsh-lgbtq-themes",
     "description": "A collection of lgbtq themes for your terminal."
+  },
+  {
+    "name": "light",
+    "url": "https://github.com/InfinityUniverse0/light-zsh",
+    "description": "Works best on a light background. Includes decorators for username@hostname, git status and the current directory."
   },
   {
     "name": "lightbulb",
@@ -10139,11 +10143,6 @@
     "description": "Clean and minimal ZSH theme based on the old lost taybalt theme, with git bisecting/merging/rebasing modes and configurable prompt symbols."
   },
   {
-    "name": "serious",
-    "url": "https://github.com/oliversandli/serious-zsh-theme",
-    "description": "Includes command exit status and git status decorations."
-  },
-  {
     "name": "seti_UX",
     "url": "https://github.com/ginfuru/iTerm-Seti_UX",
     "description": "A simple oh-my-zsh-compatible theme with a corresponding iTerm 2 color scheme."
@@ -10867,6 +10866,11 @@
     "name": "vinhnx",
     "url": "https://github.com/vinhnx/vinhnx.zsh-theme",
     "description": "Modified from mgutz. Looks great when using with a Solarized color scheme."
+  },
+  {
+    "name": "vszambon-ocean",
+    "url": "https://github.com/vzambon/vszambon_ocean-zsh-theme",
+    "description": "Includes decorators for current directory, git status, a day/night icon, whether or not it is running inside a docker container and the date and time."
   },
   {
     "name": "vitesse",
