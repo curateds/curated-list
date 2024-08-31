@@ -604,6 +604,11 @@
     "description": "A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using doctest and much more. [UNLICENSE]"
   },
   {
+    "name": "SeeMake",
+    "url": "https://github.com/MhmRhm/SeeMake",
+    "description": "A feature-packed, ready-to-use CMake template with testing, static and dynamic checks, coverage reports, and more. [MIT]"
+  },
+  {
     "name": "autocmake",
     "url": "https://github.com/coderefinery/autocmake",
     "description": "Using a autocmake.yml file Autocmake composes CMake building blocks into a CMake project and generates CMakeLists.txt as well as a setup script, which serves as a front-end to CMakeLists.txt. [BSD3]"

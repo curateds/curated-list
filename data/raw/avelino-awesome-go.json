@@ -4637,6 +4637,11 @@
     "description": "Simple Go image processing package."
   },
   {
+    "name": "imagor",
+    "url": "https://github.com/cshum/imagor",
+    "description": "Fast, secure image processing server and Go library, using libvips."
+  },
+  {
     "name": "img",
     "url": "https://github.com/hawx/img",
     "description": "Selection of image manipulation tools."
@@ -6990,6 +6995,11 @@
     "name": "tspool",
     "url": "https://github.com/two/tspool",
     "description": "A TCP Library use worker pool to improve performance and protect your server."
+  },
+  {
+    "name": "tun2socks",
+    "url": "https://github.com/xjasonlyu/tun2socks",
+    "description": "A pure go implementation of tun2socks powered by gVisor TCP/IP stack."
   },
   {
     "name": "utp",
@@ -13235,6 +13245,10 @@
   {
     "name": "Lagos Gophers",
     "url": "https://www.meetup.com/GolangNigeria/"
+  },
+  {
+    "name": "Nairobi Gophers",
+    "url": "https://www.meetup.com/nairobi-gophers/"
   },
   {
     "name": "Seattle Go Programmers",

@@ -1426,6 +1426,11 @@
     "description": "Scaffold an Angular project with all tooling you need for production projects."
   },
   {
+    "name": "vscode-angulartools",
+    "url": "https://github.com/CoderAllan/vscode-angulartools",
+    "description": "You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with AngularTools."
+  },
+  {
     "name": "Storybook",
     "url": "https://github.com/storybooks/storybook"
   },
@@ -2562,6 +2567,11 @@
     "description": "A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+)."
   },
   {
+    "name": "slidecontent-angular",
+    "url": "https://github.com/criar-art/slidecontent-angular",
+    "description": "A simple content slide developed in Angular with navigation buttons and transition animations."
+  },
+  {
     "name": "ng2-charts",
     "url": "https://github.com/valor-software/ng2-charts",
     "description": "Beautiful charts for Angular2 based on Chart.js."
@@ -3258,6 +3268,11 @@
     "name": "ngx-fast-svg",
     "url": "https://github.com/push-based/ngx-fast-svg",
     "description": "SVGs, fast and developer friendly in Angular."
+  },
+  {
+    "name": "angular-techs-logos",
+    "url": "https://github.com/criar-art/angular-techs-logos",
+    "description": "Library of tech related icons."
   },
   {
     "name": "ngx-img-fallback",
@@ -4602,6 +4617,11 @@
     "name": "ionic-angular-collect-icons",
     "url": "https://github.com/rdlabo-team/ionic-angular-collect-icons",
     "description": "This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file. In small projects, it is difficult to manage addIcons() of ionIcons each time, so we automated it."
+  },
+  {
+    "name": "IDEA-Ionic8-extra",
+    "url": "https://github.com/iter-idea/IDEA-Ionic8-extra",
+    "description": "IDEA's extra components and services built on Ionic 8, and distributed with different NPM packages."
   },
   {
     "name": "ngrx",

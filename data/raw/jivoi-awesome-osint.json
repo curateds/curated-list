@@ -170,7 +170,8 @@
   },
   {
     "name": "Qwant",
-    "url": "http://www.qwant.com"
+    "url": "http://www.qwant.com",
+    "description": "French search engine that relies on Microsoft Bing."
   },
   {
     "name": "Swisscows",
@@ -4346,6 +4347,11 @@
     "description": "A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others"
   },
   {
+    "name": "DNSservices",
+    "url": "https://github.com/0x4f53/dnsservices",
+    "description": "Discover embedded services in a domain's DNS records within seconds"
+  },
+  {
     "name": "DuckDuckGo URL scraper",
     "url": "https://github.com/its0x08/duckduckgo",
     "description": "A simple DuckDuckGo URL scraper."
@@ -4464,6 +4470,11 @@
     "name": "SerpScan",
     "url": "https://github.com/Alaa-abdulridha/SerpScan",
     "description": "Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu."
+  },
+  {
+    "name": "Sintelix",
+    "url": "https://sintelix.com/",
+    "description": "Sintelix is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks."
   },
   {
     "name": "sn0int",

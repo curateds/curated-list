@@ -5540,6 +5540,11 @@
     "description": "A REST API testing framework for erlang."
   },
   {
+    "name": "efx",
+    "url": "https://github.com/bravobike/efx",
+    "description": "A library to declaratively write asynchronously testable effects."
+  },
+  {
     "name": "elixir-auto-test",
     "url": "https://github.com/joaothallis/elixir-auto-test",
     "description": "Run test when file is saved using inotify-tools."

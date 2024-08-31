@@ -1566,6 +1566,11 @@
     "description": "A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History."
   },
   {
+    "name": "tfreveal",
+    "url": "https://github.com/breml/tfreveal",
+    "description": "A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed."
+  },
+  {
     "name": "tfscaffold",
     "url": "https://github.com/tfutils/tfscaffold",
     "description": "Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure."
