@@ -60,6 +60,26 @@
     "description": "collections of drug-target, target-disease, and drug-disease dataset."
   },
   {
+    "name": "ZINC ligand discovery database",
+    "url": "https://zinc.docking.org/",
+    "description": "Free database of commercially-available compounds for virtual screening."
+  },
+  {
+    "name": "MoleculeNet",
+    "url": "http://moleculenet.ai/",
+    "description": "Benchmark for molecular machine learning."
+  },
+  {
+    "name": "Ames Mutagenicity dataset",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0166354220302412",
+    "description": "Dataset for predicting mutagenicity."
+  },
+  {
+    "name": "ADCdb",
+    "url": "https://www.antibody-drug.com/",
+    "description": "Database for antibody-drug conjugates."
+  },
+  {
     "name": "PathwayCommons",
     "url": "https://www.pathwaycommons.org/",
     "description": "Database of Pathways and Interactions."
@@ -105,6 +125,26 @@
     "description": "Database of 3D protein structures."
   },
   {
+    "name": "RCSB Protein Data Bank (PDB)",
+    "url": "https://www.rcsb.org/",
+    "description": "Repository of 3D structural data of large biological molecules."
+  },
+  {
+    "name": "Critical Assessment of Structure Prediction (CASP)",
+    "url": "https://predictioncenter.org/",
+    "description": "Experiment for advancing the methods of predicting protein structure from sequence."
+  },
+  {
+    "name": "Uniclust",
+    "url": "https://uniclust.mmseqs.com/",
+    "description": "Collection of clustered protein sequence databases."
+  },
+  {
+    "name": "CATH database",
+    "url": "https://www.cathdb.info/",
+    "description": "Hierarchical classification of protein domain structures."
+  },
+  {
     "name": "Human Genome Resources at NCBI",
     "url": "https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml",
     "description": "Database of image, proteomics, transcriptomics and systems biology."
@@ -123,6 +163,36 @@
     "name": "cBioPortal",
     "url": "https://www.cbioportal.org/",
     "description": "Database of Cancer Genomics. This has overall metaview for a lot of patients."
+  },
+  {
+    "name": "10x Genomics Dataset",
+    "url": "https://www.10xgenomics.com/resources/datasets",
+    "description": "Collection of single-cell datasets."
+  },
+  {
+    "name": "The Genotype-Tissue Expression (GTEx)",
+    "url": "https://gtexportal.org/home/",
+    "description": "Resource for studying human gene expression and regulation."
+  },
+  {
+    "name": "Dependency Map (DepMap)",
+    "url": "https://depmap.org/portal/",
+    "description": "Genome-wide CRISPR-Cas9 screens in cancer cell lines."
+  },
+  {
+    "name": "Catalogue Of Somatic Mutations In Cancer (COSMIC)",
+    "url": "https://cancer.sanger.ac.uk/cosmic",
+    "description": "Comprehensive resource for exploring somatic mutations in human cancers."
+  },
+  {
+    "name": "MGnify",
+    "url": "https://www.ebi.ac.uk/metagenomics/",
+    "description": "Free resource for archiving, analysis, and browsing of metagenomic and metatranscriptomic data."
+  },
+  {
+    "name": "JASPAR",
+    "url": "http://jaspar.genereg.net/",
+    "description": "Open-access database of curated, non-redundant transcription factor binding profiles."
   },
   {
     "name": "KEGG DRUG",
@@ -179,6 +249,11 @@
     "description": "A database of cancer cell lines. This has 1000 cell lines."
   },
   {
+    "name": "CellMiner Cross Database (CellMinerCDB)",
+    "url": "https://discover.nci.nih.gov/cellminercdb/",
+    "description": "Integration of multiple cancer cell line databases."
+  },
+  {
     "name": "STITCH",
     "url": "http://stitch.embl.de/",
     "description": "A database of Chemical Protein Interaction."
@@ -192,6 +267,16 @@
     "name": "BindingDB",
     "url": "https://www.bindingdb.org/rwd/bind/index.jsp",
     "description": "A database of compounds and targes."
+  },
+  {
+    "name": "PDBBind",
+    "url": "http://www.pdbbind.org.cn/",
+    "description": "Database of experimentally measured binding affinity data for biomolecular complexes."
+  },
+  {
+    "name": "CrossDocked2020",
+    "url": "https://arxiv.org/abs/2001.01037",
+    "description": "Large-scale dataset for machine learning in structure-based virtual screening."
   },
   {
     "name": "STRING",
@@ -226,6 +311,26 @@
     "name": "DRKG",
     "url": "https://github.com/gnn4dr/DRKG",
     "description": "A library for biological knowledge graph."
+  },
+  {
+    "name": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "description": "Database of privately and publicly funded clinical studies."
+  },
+  {
+    "name": "ICD10",
+    "url": "https://icd.who.int/browse10/2019/en",
+    "description": "International Classification of Diseases, 10th revision."
+  },
+  {
+    "name": "EU Drug Regulating Authorities Clinical Trials DB (EudraCT)",
+    "url": "https://eudract.ema.europa.eu/",
+    "description": "European database of clinical trials."
+  },
+  {
+    "name": "MIMIC-IV",
+    "url": "https://mimic.mit.edu/",
+    "description": "Freely accessible critical care database."
   },
   {
     "name": "PubMed esearch",

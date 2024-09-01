@@ -962,6 +962,11 @@
     "description": "An open-source accessibility widget written in Angular."
   },
   {
+    "name": "angular-vlibras",
+    "url": "https://github.com/angular-a11y/angular-vlibras",
+    "description": "An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users."
+  },
+  {
     "name": "Generative AI web development with Angular YouTube Video",
     "url": "https://www.youtube.com/watch?v=5FdtPwZrkGw"
   },
@@ -1049,6 +1054,11 @@
     "name": "deep-chat",
     "url": "https://github.com/OvidijusParsiunas/deep-chat",
     "description": "Fully customizable AI chatbot component for your website."
+  },
+  {
+    "name": "abbi-ng-ai-image-descriptor",
+    "url": "https://github.com/slsfi/abbi-ng-ai-image-descriptor",
+    "description": "Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool."
   },
   {
     "name": "Heap",
@@ -2133,6 +2143,11 @@
     "description": "A clean Angular SPA that gets content from Sanity."
   },
   {
+    "name": "angular-templates",
+    "url": "https://github.com/hawkgs/angular-templates",
+    "description": "A set of Angular templates for common web apps."
+  },
+  {
     "name": "Nzoni",
     "url": "https://nzoni.app/",
     "description": "Launch your SAAS in days with Angular."
@@ -2365,6 +2380,16 @@
     "name": "angular-testing-kit",
     "url": "https://github.com/babybeet/angular-testing-kit",
     "description": "A set of convenient utilities to make Angular testing with Jasmine and Karma simpler."
+  },
+  {
+    "name": "nightwatch-plugin-angular",
+    "url": "https://github.com/nightwatchjs/nightwatch-plugin-angular",
+    "description": "Official Nightwatch plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+."
+  },
+  {
+    "name": "Puppeteer Angular Schematic",
+    "url": "https://pptr.dev/guides/ng-schematics/#getting-started",
+    "description": "Adds Puppeteer-based e2e tests to your Angular project."
   },
   {
     "name": "angular update guide",
@@ -4572,6 +4597,11 @@
     "name": "ng2-idle",
     "url": "https://github.com/moribvndvs/ng2-idle",
     "description": "A module for responding to idle users in Angular applications."
+  },
+  {
+    "name": "ng2-gauge",
+    "url": "https://github.com/hawkgs/ng2-gauge",
+    "description": "SVG gauge component for Angular."
   },
   {
     "name": "Ionic Framework",
