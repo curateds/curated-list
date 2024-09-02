@@ -1750,6 +1750,11 @@
     "description": "Socket.IO module for Angular."
   },
   {
+    "name": "angular-three",
+    "url": "https://github.com/angular-threejs/angular-three",
+    "description": "Angular Renderer for THREE.js."
+  },
+  {
     "name": "transloco",
     "url": "https://github.com/jsverse/transloco/",
     "description": "🚀 😍 The internationalization (i18n) library for Angular."
@@ -1873,6 +1878,11 @@
     "name": "Github Skills",
     "url": "https://skills.github.com/",
     "description": "Guided interactive tutorials for Code Security and analysis are available."
+  },
+  {
+    "name": "HackTricks",
+    "url": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular",
+    "description": "Angular Security  Checklist."
   },
   {
     "name": "@davidlj95/ngx-meta",
@@ -2687,6 +2697,76 @@
     "description": "Angular Powered Flow-Chart Library."
   },
   {
+    "name": "ag-grid",
+    "url": "https://www.ag-grid.com/",
+    "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript."
+  },
+  {
+    "name": "ignite-ui-angular's grid",
+    "url": "https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid",
+    "description": "The data grid, tree grid, hierarchical grid in Ignite UI for Angular provide excel-style filtering, live-data, sorting, draggable row and other toolbar."
+  },
+  {
+    "name": "sheetjs",
+    "url": "https://docs.sheetjs.com/docs/demos/frontend/angular",
+    "description": "SheetJS is a JavaScript library for reading and writing data from spreadsheets."
+  },
+  {
+    "name": "ngx-easy-table",
+    "url": "https://github.com/ssuperczynski/ngx-easy-table",
+    "description": "The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!"
+  },
+  {
+    "name": "active-table",
+    "url": "https://github.com/OvidijusParsiunas/active-table",
+    "description": "Framework agnostic table component for editable data experience."
+  },
+  {
+    "name": "jsgrids",
+    "url": "https://github.com/statico/jsgrids",
+    "description": "A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo."
+  },
+  {
+    "name": "ui-grid",
+    "url": "https://github.com/angular-ui/ui-grid",
+    "description": "UI Grid: an Angular Data Grid."
+  },
+  {
+    "name": "jspreadsheet",
+    "url": "https://bossanova.uk/jspreadsheet/v4/examples/angular",
+    "description": "Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software."
+  },
+  {
+    "name": "handsontable",
+    "url": "https://handsontable.com/docs/javascript-data-grid/angular-installation/",
+    "description": "Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application."
+  },
+  {
+    "name": "ngx-export-as",
+    "url": "https://github.com/wnabil/ngx-export-as",
+    "description": "Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF."
+  },
+  {
+    "name": "datagrid",
+    "url": "https://github.com/radix-ng/datagrid",
+    "description": "Angular TanStack table with shadcn Theme."
+  },
+  {
+    "name": "angular-datatables",
+    "url": "https://github.com/l-lin/angular-datatables",
+    "description": "An Angular2+ library for building complex HTML tables using the DataTables jQuery plug-in."
+  },
+  {
+    "name": "angular-slickgrid",
+    "url": "https://github.com/ghiscoding/Angular-Slickgrid",
+    "description": "A wrapper of the lightning fast & customizable SlickGrid datagrid. It also includes multiple styling themes."
+  },
+  {
+    "name": "revogrid",
+    "url": "https://github.com/revolist/revogrid",
+    "description": "Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance."
+  },
+  {
     "name": "ngx-date-fns",
     "url": "https://github.com/joanllenas/ngx-date-fns",
     "description": "date-fns pipes for Angular."
@@ -2745,6 +2825,11 @@
     "name": "time2blocks-ngx",
     "url": "https://github.com/antonioconselheiro/time2blocks-ngx",
     "description": "Angular lib to identify which time is associated with a blockchain block in the past (and format it)."
+  },
+  {
+    "name": "dhutaryan/ngx-mat-timepicker",
+    "url": "https://github.com/dhutaryan/ngx-mat-timepicker",
+    "description": "Material timepicker based on material design."
   },
   {
     "name": "ngx-resize-observer",
@@ -3064,6 +3149,11 @@
     "name": "forms-typed",
     "url": "https://github.com/gparlakov/forms-typed",
     "description": "Want types in your forms? Want to have nested forms? This is library can help."
+  },
+  {
+    "name": "ngx-vest-forms",
+    "url": "https://github.com/simplifiedcourses/ngx-vest-forms",
+    "description": "A lightweight adapter for Angular template-driven forms integrated with vest.js for validation."
   },
   {
     "name": "ngx-emoji-mart",
@@ -3968,71 +4058,6 @@
     "name": "ngx-odm",
     "url": "https://github.com/voznik/ngx-odm",
     "description": "Angular 14+ wrapper for RxDB."
-  },
-  {
-    "name": "ag-grid",
-    "url": "https://www.ag-grid.com/",
-    "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript."
-  },
-  {
-    "name": "ignite-ui-angular's grid",
-    "url": "https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid",
-    "description": "The data grid, tree grid, hierarchical grid in Ignite UI for Angular provide excel-style filtering, live-data, sorting, draggable row and other toolbar."
-  },
-  {
-    "name": "sheetjs",
-    "url": "https://docs.sheetjs.com/docs/demos/frontend/angular",
-    "description": "SheetJS is a JavaScript library for reading and writing data from spreadsheets."
-  },
-  {
-    "name": "ngx-easy-table",
-    "url": "https://github.com/ssuperczynski/ngx-easy-table",
-    "description": "The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!"
-  },
-  {
-    "name": "active-table",
-    "url": "https://github.com/OvidijusParsiunas/active-table",
-    "description": "Framework agnostic table component for editable data experience."
-  },
-  {
-    "name": "jsgrids",
-    "url": "https://github.com/statico/jsgrids",
-    "description": "A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo."
-  },
-  {
-    "name": "ui-grid",
-    "url": "https://github.com/angular-ui/ui-grid",
-    "description": "UI Grid: an Angular Data Grid."
-  },
-  {
-    "name": "jspreadsheet",
-    "url": "https://bossanova.uk/jspreadsheet/v4/examples/angular",
-    "description": "Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software."
-  },
-  {
-    "name": "handsontable",
-    "url": "https://handsontable.com/docs/javascript-data-grid/angular-installation/",
-    "description": "Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application."
-  },
-  {
-    "name": "ngx-export-as",
-    "url": "https://github.com/wnabil/ngx-export-as",
-    "description": "Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF."
-  },
-  {
-    "name": "datagrid",
-    "url": "https://github.com/radix-ng/datagrid",
-    "description": "Angular TanStack table with shadcn Theme."
-  },
-  {
-    "name": "angular-datatables",
-    "url": "https://github.com/l-lin/angular-datatables",
-    "description": "An Angular2+ library for building complex HTML tables using the DataTables jQuery plug-in."
-  },
-  {
-    "name": "angular-slickgrid",
-    "url": "https://github.com/ghiscoding/Angular-Slickgrid",
-    "description": "A wrapper of the lightning fast & customizable SlickGrid datagrid. It also includes multiple styling themes."
   },
   {
     "name": "helipopper",

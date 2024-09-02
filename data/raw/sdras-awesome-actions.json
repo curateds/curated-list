@@ -124,6 +124,10 @@
     "url": "https://github.com/actions/setup-elixir"
   },
   {
+    "name": "actions/setup-julia: Julia",
+    "url": "https://github.com/julia-actions/setup-julia"
+  },
+  {
     "name": "actions/toolkit",
     "url": "https://github.com/actions/toolkit",
     "description": "The GitHub ToolKit for developing GitHub Actions."
@@ -647,6 +651,16 @@
     "description": "Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch."
   },
   {
+    "name": "Website to GIF",
+    "url": "https://github.com/PabloLec/website-to-gif",
+    "description": "Turn any webpage into a GIF to display on your README, docs, etc."
+  },
+  {
+    "name": "Interactive Inputs - Runtime workflow inputs",
+    "url": "https://github.com/boasiHQ/interactive-inputs",
+    "description": "Runtime workflow inputs - Add dynamic inputs at runtime for your GitHub Actions workflows"
+  },
+  {
     "name": "Create an envfile",
     "url": "https://github.com/SpicyPizza/create-envfile"
   },
@@ -763,6 +777,10 @@
     "url": "https://github.com/IgnusG/jest-report-action"
   },
   {
+    "name": "Run Julia tests",
+    "url": "https://github.com/julia-actions/julia-runtest"
+  },
+  {
     "name": "PHP Coding Standards Fixer Action",
     "url": "https://github.com/OskarStark/php-cs-fixer-ga"
   },
@@ -789,6 +807,10 @@
   {
     "name": "Run ergebnis/composer-normalize to ensure your PHP project has a normalized composer.json",
     "url": "https://github.com/ergebnis/composer-normalize-action"
+  },
+  {
+    "name": "Run stolt/lean-package-validator to ensure your package has only the required runtime artifacts",
+    "url": "https://github.com/raphaelstolt/lean-package-validator-action"
   },
   {
     "name": "Run Go lint checks on PR event",
@@ -1601,9 +1623,19 @@
     "url": "https://github.com/fabasoad/setup-cobol-action"
   },
   {
+    "name": "Check Gradle version",
+    "url": "https://github.com/madhead/check-gradle-version",
+    "description": "Keep your Gradle version up to date."
+  },
+  {
     "name": "Setup Cassandra Schema",
     "url": "https://github.com/fabasoad/setup-cassandra-action",
     "description": "Running scripts from the provided folder on top of Cassandra cluster."
+  },
+  {
+    "name": "Setup ZeroTier",
+    "url": "https://github.com/zerotier/github-action",
+    "description": "Connect your runner to a ZeroTier network."
   },
   {
     "name": "Find and automatically fix typos and grammar issues in your code",
