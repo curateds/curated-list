@@ -1085,6 +1085,11 @@
     "description": "Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software."
   },
   {
+    "name": "RevoGrid",
+    "url": "https://github.com/revolist/revogrid",
+    "description": "RevoGrid is a fast, responsive excel like data grid library for modern web applications."
+  },
+  {
     "name": "ace",
     "url": "https://github.com/ajaxorg/ace",
     "description": "Ace (Ajax.org Cloud9 Editor)."
@@ -2030,6 +2035,11 @@
     "name": "m2cgen",
     "url": "https://github.com/BayesWitnesses/m2cgen",
     "description": "A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies."
+  },
+  {
+    "name": "JS-PyTorch",
+    "url": "https://github.com/eduardoleao052/js-pytorch",
+    "description": "GPU accelerated PyTorch in JavaScript."
   },
   {
     "name": "bowser",

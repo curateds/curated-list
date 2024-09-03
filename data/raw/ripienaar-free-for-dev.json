@@ -3098,11 +3098,6 @@
     "description": "Free, temporary email for testing."
   },
   {
-    "name": "yopmail",
-    "url": "https://yopmail.com/",
-    "description": "Free, temporary inboxes of your choice instantaneously."
-  },
-  {
     "name": "AhaSend",
     "url": "https://ahasend.com",
     "description": "Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan."
@@ -3139,10 +3134,6 @@
     "description": "Incoming email via HTTP POST and transactional outbound - 10,000 free emails/month"
   },
   {
-    "name": "cloudmersive.com",
-    "url": "https://www.cloudmersive.com/email-verification-api"
-  },
-  {
     "name": "Contact.do",
     "url": "https://contact.do/"
   },
@@ -3154,10 +3145,6 @@
     "name": "DNSExit",
     "url": "https://dnsexit.com/",
     "description": "Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support."
-  },
-  {
-    "name": "emaildrop.io",
-    "url": "https://emaildrop.io/"
   },
   {
     "name": "EmailLabs.io",
@@ -3178,14 +3165,14 @@
     "description": "Ethereal is a fake SMTP service, mainly aimed at Nodemailer and EmailEngine users (but not limited to). It's an entirely free anti-transactional email service where messages never get delivered."
   },
   {
+    "name": "Temp-Mail.org",
+    "url": "https://temp-mail.org/en/",
+    "description": "Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services."
+  },
+  {
     "name": "TempMailDetector.com",
     "url": "https://tempmaildetector.com/",
     "description": "Verify up to 200 emails a month for free and see if an email is temporary or not."
-  },
-  {
-    "name": "Tempmailers",
-    "url": "https://tempmailers.com/",
-    "description": "Generate unlimited temporary email addresses for free"
   },
   {
     "name": "Emailvalidation.io",
@@ -3193,17 +3180,13 @@
     "description": "100 free email verifications per month"
   },
   {
-    "name": "fakermail.com",
-    "url": "https://fakermail.com/"
+    "name": "FakeMailGenerator.com",
+    "url": "https://www.fakemailgenerator.com/",
+    "description": "A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free."
   },
   {
     "name": "forwardemail.net",
     "url": "https://forwardemail.net"
-  },
-  {
-    "name": "HotTempMail",
-    "url": "https://hottempmail.com/",
-    "description": "Unlimited, free, disposable temporary email addresses. Autoexpires in one day."
   },
   {
     "name": "Imitate Email",
@@ -3279,11 +3262,6 @@
     "name": "mailsac.com",
     "url": "https://mailsac.com",
     "description": "Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)"
-  },
-  {
-    "name": "Mailtie.com",
-    "url": "https://mailtie.com/",
-    "description": "Free Email Forwarding for Your Domain. You don't need to register. Free Forever."
   },
   {
     "name": "Mailtrap.io",
@@ -3373,11 +3351,6 @@
     "description": "European transactional emails API for developers. 500 emails/day free."
   },
   {
-    "name": "Tempmailo",
-    "url": "https://tempmailo.com/",
-    "description": "Unlimited free temp email addresses. Autoexpire in two days."
-  },
-  {
     "name": "Takeout",
     "url": "https://takeout.bysourfruit.com",
     "description": "A constantly updated email service that makes sending emails easy. Five hundred transactional emails/month free."
@@ -3385,10 +3358,6 @@
   {
     "name": "temp-mail.io",
     "url": "https://temp-mail.io"
-  },
-  {
-    "name": "faxmail.co",
-    "url": "https://faxmail.co"
   },
   {
     "name": "tinyletter.com",

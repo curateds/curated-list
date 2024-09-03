@@ -546,6 +546,10 @@
     "url": "https://app.daily.dev/tags/angular"
   },
   {
+    "name": "qupaya",
+    "url": "https://qupaya.com/blog/"
+  },
+  {
     "name": "Packt Publishing",
     "url": "https://www.packtpub.com/en-us/search?query=angular&sort=best-selling",
     "description": "Your best option to find the largest variety of up-to-date programming books."
@@ -1059,6 +1063,11 @@
     "name": "abbi-ng-ai-image-descriptor",
     "url": "https://github.com/slsfi/abbi-ng-ai-image-descriptor",
     "description": "Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool."
+  },
+  {
+    "name": "ng-flexbot",
+    "url": "https://github.com/arolleaguekeng/ng-flexbot",
+    "description": "An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context."
   },
   {
     "name": "Heap",
@@ -2435,6 +2444,11 @@
     "name": "ngx-maintenance",
     "url": "https://github.com/danielglejzner/ngx-maintenance",
     "description": "Can't upgrade to Angular 16+ due to old View Engine dependencies? This automates the hassle so you can easily upgrade!"
+  },
+  {
+    "name": "fast-facts/ng-update",
+    "url": "https://github.com/fast-facts/ng-update",
+    "description": "A Github Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on ng update."
   },
   {
     "name": "tsparticles",
@@ -4295,6 +4309,11 @@
     "description": "NGXUI from Omnedia is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials."
   },
   {
+    "name": "po-angular",
+    "url": "https://github.com/po-ui/po-angular",
+    "description": "Component library based on Angular. Documentation in Portuguese."
+  },
+  {
     "name": "MDBootstrap",
     "url": "https://github.com/mdbootstrap/mdb-angular-ui-kit",
     "description": "Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation."
@@ -4629,6 +4648,11 @@
     "description": "SVG gauge component for Angular."
   },
   {
+    "name": "ngx-angular-query-builder",
+    "url": "https://github.com/raysuelzer/ngx-angular-query-builder",
+    "description": "A new version of angular2-query-builder that supports modern Angular.  Used to create queries and filters."
+  },
+  {
     "name": "Ionic Framework",
     "url": "https://ionicframework.com",
     "description": "Official Website for Ionic Framework."
@@ -4752,6 +4776,11 @@
     "name": "store-service",
     "url": "https://github.com/ngxp/store-service",
     "description": "Adds an abstraction layer / facade between Angular components and the NgRx store."
+  },
+  {
+    "name": "ngrx-entity-relationship",
+    "url": "https://github.com/satanTime/ngrx-entity-relationship",
+    "description": "ORM selectors for Redux, @ngrx/store, @ngrx/entity, and @ngrx/data. Ease of relationships with entities."
   },
   {
     "name": "rxjs",

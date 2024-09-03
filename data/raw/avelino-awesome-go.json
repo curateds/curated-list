@@ -2208,6 +2208,11 @@
     "description": "Simplify working with AWS DynamoDB."
   },
   {
+    "name": "gatewayd",
+    "url": "https://github.com/gatewayd-io/gatewayd",
+    "description": "Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases."
+  },
+  {
     "name": "go-mysql",
     "url": "https://github.com/siddontang/go-mysql",
     "description": "Go toolset to handle MySQL protocol and replication."
@@ -5485,6 +5490,11 @@
     "name": "goml",
     "url": "https://github.com/cdipaolo/goml",
     "description": "On-line Machine Learning in Go."
+  },
+  {
+    "name": "GoMLX",
+    "url": "https://github.com/gomlx/gomlx",
+    "description": "An accelerated Machine Learning framework for Go."
   },
   {
     "name": "gonet",
@@ -11840,6 +11850,11 @@
     "name": "abbreviate",
     "url": "https://github.com/dnnrly/abbreviate",
     "description": "abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs."
+  },
+  {
+    "name": "alaz",
+    "url": "https://github.com/ddosify/alaz",
+    "description": "Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring."
   },
   {
     "name": "aptly",

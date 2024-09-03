@@ -6970,6 +6970,11 @@
     "description": "A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes."
   },
   {
+    "name": "PubSubx",
+    "url": "https://github.com/sonic182/pub_subx",
+    "description": "A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management."
+  },
+  {
     "name": "quark",
     "url": "https://github.com/robot-overlord/quark",
     "description": "A library for common functional programming idioms: combinators, currying, and partial application."

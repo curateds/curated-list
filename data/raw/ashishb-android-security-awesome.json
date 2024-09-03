@@ -31,7 +31,7 @@
   {
     "name": "Pithus",
     "url": "https://beta.pithus.org/",
-    "description": "Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malware with Yara rules. More here."
+    "description": "Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. It is possible to hunt malware with Yara rules. More here."
   },
   {
     "name": "Oversecured",
@@ -170,7 +170,7 @@
   },
   {
     "name": "Droid Intent Data Flow Analysis for Information Leakage",
-    "url": "https://www.cert.org/secure-coding/tools/didfail.cfm"
+    "url": "https://insights.sei.cmu.edu/library/didfail/"
   },
   {
     "name": "DroidLegacy",
@@ -235,12 +235,12 @@
   {
     "name": "ClassyShark",
     "url": "https://github.com/google/android-classyshark",
-    "description": "Standalone binary inspection tool which can browse any Android executable and show important info."
+    "description": "Standalone binary inspection tool that can browse any Android executable and show important info."
   },
   {
     "name": "StaCoAn",
     "url": "https://github.com/vincentcox/StaCoAn",
-    "description": "Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface."
+    "description": "Cross-platform tool that aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface."
   },
   {
     "name": "JAADAS",
@@ -671,7 +671,7 @@
   {
     "name": "FSquaDRA",
     "url": "https://github.com/zyrikby/FSquaDRA",
-    "description": "a tool for the detection of repackaged Android applications based on app resources hash comparison."
+    "description": "a tool for detecting repackaged Android applications based on app resources hash comparison."
   },
   {
     "name": "Google Play crawler (Java)",
@@ -810,7 +810,7 @@
   },
   {
     "name": "SEI CERT Android Secure Coding Standard",
-    "url": "https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard"
+    "url": "https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard"
   },
   {
     "name": "OWASP Mobile Security Testing Guide Manual",
@@ -830,7 +830,7 @@
   },
   {
     "name": "Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)",
-    "url": "http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/"
+    "url": "https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/"
   },
   {
     "name": "Mobile Security Reading Room",
@@ -910,7 +910,7 @@
   {
     "name": "AndroZoo",
     "url": "https://androzoo.uni.lu/",
-    "description": "AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market."
+    "description": "AndroZoo is a growing Android application collection from several sources, including the official Google Play app market."
   },
   {
     "name": "Android PRAGuard Dataset",
