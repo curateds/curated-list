@@ -380,11 +380,6 @@
     "description": "A tool that converts Markdown and Twig into static HTML."
   },
   {
-    "name": "Spress",
-    "url": "http://spress.yosymfony.com",
-    "description": "An extensible tool that converts Markdown and Twig into HTML."
-  },
-  {
     "name": "Buzz",
     "url": "https://github.com/kriswallsmith/Buzz",
     "description": "Another HTTP client."
@@ -573,6 +568,11 @@
     "name": "UnifiedArchive",
     "url": "https://github.com/wapmorgan/UnifiedArchive",
     "description": "A unified reader and writer of compressed archives."
+  },
+  {
+    "name": "Parquet",
+    "url": "https://github.com/flow-php/parquet",
+    "description": "PHP implementation of Parquet file format"
   },
   {
     "name": "ByteStream",

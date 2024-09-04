@@ -370,7 +370,7 @@
   },
   {
     "name": "SDPoker",
-    "url": "https://github.com/Streampunk/sdpoker",
+    "url": "https://github.com/AMWA-TV/sdpoker",
     "description": "CLI tool and library for testing SMPTE ST2110 SDP files."
   },
   {
@@ -642,6 +642,20 @@
     "description": "Analyzer to inspect network packets generated in accordance with SMPTE ST 2110."
   },
   {
+    "name": "Wireshark dissector for TSL UMD protocol V3.1, V4",
+    "url": "https://github.com/roddypratt/tslumd-wireshark",
+    "description": "Analyzers for TSL UMD (under-monitor display) protocol V3.1 and V4."
+  },
+  {
+    "name": "Wireshark dissectors for Video Routers",
+    "url": "https://github.com/roddypratt/router_dissectors",
+    "description": "Analyzers for various video router/matrix protocols."
+  },
+  {
+    "name": "Examples of SMPTE ST 2110 pcap files",
+    "url": "https://github.com/NEOAdvancedTechnology/ST2110_pcap_zoo"
+  },
+  {
     "name": "AMWA NMOS Testing Tool",
     "url": "https://specs.amwa.tv/nmos-testing",
     "description": "Automated test suites for the AMWA NMOS family of specifications, as used in the JT-NM Tested programme"
@@ -675,6 +689,11 @@
     "name": "NVIDIA NMOS Docker",
     "url": "https://hub.docker.com/r/rhastie/nmos-cpp",
     "description": "Docker container with Registry and Controller, IS-04/05/08/07/09, BCP-003-01"
+  },
+  {
+    "name": "NVIDIA NMOS Library",
+    "url": "https://github.com/NVIDIA/nvnmos",
+    "description": "A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc."
   },
   {
     "name": "Airtime",

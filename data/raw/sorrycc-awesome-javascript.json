@@ -1892,6 +1892,11 @@
     "description": "Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place."
   },
   {
+    "name": "LogTape",
+    "url": "https://logtape.org/",
+    "description": "Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions."
+  },
+  {
     "name": "RegEx101",
     "url": "https://regex101.com/#javascript",
     "description": "Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE."

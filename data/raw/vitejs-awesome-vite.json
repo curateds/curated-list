@@ -1304,6 +1304,11 @@
     "description": "Supports Node/Electron C/C++ native addons."
   },
   {
+    "name": "@yoichiro/vite-plugin-handlebars",
+    "url": "https://github.com/yoichiro/vite-plugin-handlebars",
+    "description": "Import of Handlebars templates .hbs as ES Modules."
+  },
+  {
     "name": "vite-tsconfig-paths",
     "url": "https://github.com/aleclarson/vite-tsconfig-paths",
     "description": "Support for TypeScript's path mapping."
@@ -2171,6 +2176,11 @@
     "name": "PHP-Vite Starter Repo",
     "url": "https://github.com/nititech/php-vite-starter",
     "description": "Starter repository, with TypeScript/JavaScript, Tailwind CSS, SASS/SCSS, EJS, SVG and image support."
+  },
+  {
+    "name": "php-vitelinker",
+    "url": "https://github.com/Osteoporosis/php-vitelinker",
+    "description": "A CLI tool that generates includable PHP files after building bundles."
   },
   {
     "name": "Viject",

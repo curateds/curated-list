@@ -695,6 +695,11 @@
     "url": "https://zerotomastery.io/cheatsheets/angular-cheat-sheet/"
   },
   {
+    "name": "Framework Field Guide",
+    "url": "https://playfulprogramming.com/collections/framework-field-guide",
+    "description": "A free and practical way to learn Angular, React & Vue all at once."
+  },
+  {
     "name": "angular-fundamental-lessons",
     "url": "https://github.com/MarkTechson/angular-fundamentals-lessons"
   },
@@ -2950,6 +2955,11 @@
     "description": "Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position."
   },
   {
+    "name": "ngx-ellipsis",
+    "url": "https://github.com/lentschi/ngx-ellipsis",
+    "description": "Multiline text with ellipsis for Angular 9+."
+  },
+  {
     "name": "ng2-dragula",
     "url": "https://github.com/valor-software/ng2-dragula",
     "description": "Drag and Drop so simple it hurts!"
@@ -3672,6 +3682,11 @@
     "name": "@angular/google-maps",
     "url": "https://github.com/angular/components/blob/main/src/google-maps/README.md",
     "description": "This component provides a Google Maps Angular component that implements the Google Maps JavaScript API."
+  },
+  {
+    "name": "ng-azure-maps",
+    "url": "https://github.com/arnaudleclerc/ng-azure-maps",
+    "description": "An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application."
   },
   {
     "name": "ngx-markdown",

@@ -2028,6 +2028,11 @@
     "description": "generates a changelog from git metadata (conventional changelog)"
   },
   {
+    "name": "cloudflare/foundations",
+    "url": "https://github.com/cloudflare/foundations",
+    "description": "Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems."
+  },
+  {
     "name": "comtrya",
     "url": "https://github.com/comtrya/comtrya",
     "description": "A configuration management tool for localhost / dotfiles"
@@ -6205,6 +6210,21 @@
     "description": "A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations"
   },
   {
+    "name": "eclipse-zenoh-flow/zenoh-flow",
+    "url": "https://github.com/eclipse-zenoh-flow/zenoh-flow",
+    "description": "A declarative framework for computations that span from the Cloud to the Thing"
+  },
+  {
+    "name": "eclipse-zenoh-flow/zenoh-flow",
+    "url": "https://github.com/eclipse-zenoh-flow/zenoh-flow",
+    "description": "A declarative framework for computations that span from the Cloud to the Thing"
+  },
+  {
+    "name": "eclipse-zenoh/zenoh",
+    "url": "https://github.com/eclipse-zenoh/zenoh",
+    "description": "Zero Overhead Network Protocol"
+  },
+  {
     "name": "erickt/rust-zmq",
     "url": "https://github.com/erickt/rust-zmq",
     "description": "ZeroMQ bindings"
@@ -6920,14 +6940,14 @@
     "description": "A web framework intended for building maintainable, well-factored web apps."
   },
   {
+    "name": "edezhic/prest",
+    "url": "https://github.com/edezhic/prest",
+    "description": "Progressive RESTful framework aimed to simplify fullstack development"
+  },
+  {
     "name": "hominee/dyer",
     "url": "https://github.com/hominee/dyer",
     "description": "dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed."
-  },
-  {
-    "name": "juhaku/utoipa",
-    "url": "https://github.com/juhaku/utoipa",
-    "description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation"
   },
   {
     "name": "osohq/oso",
@@ -6988,6 +7008,16 @@
     "name": "utkarshkukreti/select.rs",
     "url": "https://github.com/utkarshkukreti/select.rs",
     "description": "A library to extract useful data from HTML documents, suitable for web scraping."
+  },
+  {
+    "name": "Utoipa",
+    "url": "https://github.com/juhaku/utoipa",
+    "description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation"
+  },
+  {
+    "name": "Utoipauto",
+    "url": "https://github.com/ProbablyClem/utoipauto",
+    "description": "Rust Macros to automate the addition of Paths/Schemas to Utoipa"
   },
   {
     "name": "sozu-proxy/sozu",
